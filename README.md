@@ -1,12 +1,57 @@
 # mind-clone — make Claude think like a specific expert, with receipts
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Claude Code skill](https://img.shields.io/badge/Claude%20Code-skill-da7756)
+![Built-in tools only](https://img.shields.io/badge/setup-zero%20required-success)
+
 **What it is:** create a "mind clone" of a public author from their public content — your own AI advisor that reasons the way they do and cites them with a link to the exact minute.
 
 Generic AI advice sounds like everyone and no one. **mind-clone** builds a *cognitive model* of a real author from their public content — articles, YouTube, podcasts, talks — then answers, advises, and predicts **the way that person actually reasons**, not by parroting their tone. Every grounded answer **quotes them and deep-links to the exact minute** they said it. And when the author teaches a method, it extracts a step-by-step **playbook** you can execute.
 
-A self-contained [Claude Code](https://claude.com/claude-code) skill — your clone is saved as a local, portable database in your project.
-
 > It's an interpretive model built from **public** sources — not the real person. Predictions are labeled and confidence-rated. Quotes are never fabricated.
+
+<!-- DEMO GIF goes here — record a 15s terminal clip: ask a clone a question → answer in the author's logic → click the deep-link → YouTube opens at the exact minute. Save as docs/demo.gif and uncomment:
+![mind-clone demo](docs/demo.gif)
+-->
+
+## See it in action
+
+*Illustrative — the real thing cites verbatim, never invented:*
+
+```
+You:  /mind-clone-ask  How should I price a new product?
+
+mind-clone (reasoning as the author):
+  Don't start from your costs — start from the value the user captures.
+  [...answer built from the author's own frameworks, not generic advice...]
+
+  Backing it up, in his words:
+  « <verbatim line the author actually said> »
+    → Author, "Pricing talk", 14:02 ▶  https://youtu.be/VIDEO_ID?t=842
+```
+
+That link opens the video **at 14:02** — so you can hear him say it yourself. No source? It says so. Not sure? It rates its confidence.
+
+## Quickstart
+
+```bash
+# 1. Install the skill (zero setup — built-in tools work out of the box)
+npx skills add mrgnfndr-dr/mind-clone -g -y
+#   …or just drop this folder into ~/.claude/skills/mind-clone
+
+# 2. (optional) the slash commands
+cp commands/mind-clone-ask.md   ~/.claude/commands/mind-clone-ask.md
+cp commands/mind-clone-build.md ~/.claude/commands/mind-clone-build.md
+```
+
+Then, in Claude Code:
+
+```
+> build a mind-clone of <author name>          # or: /mind-clone-build <author>
+> what would <author> think about <topic>?     # or: /mind-clone-ask <author> <question>
+```
+
+On first use it asks which language to chat in, then always replies in that language. (The saved database stays in English, so each clone is portable and shareable.)
 
 ## How it works (step by step)
 
@@ -19,47 +64,26 @@ Think of it like making a really good study guide about *how someone thinks* —
 5. **It builds a "playbook" (if the person teaches a method).** If they explain step-by-step how to do something (say, grow an Instagram account), it also collects those exact steps, numbers, and checklists into a how-to guide you can follow.
 6. **Now you talk to it.** You ask a question; the clone answers the way that person would think — and backs it up by **quoting them with a link to the exact minute** they said it.
 
+## Why it's different
+
+- **Reasoning, not impersonation.** Most "persona" tools copy someone's *tone*. mind-clone models *how they think* — so it can reason about questions the author never directly answered, and tell you its confidence.
+- **Receipts.** Every grounded claim is quoted and **deep-linked to the exact second** of the source. At answer time it re-opens the source live to quote the real passage, so citations don't drift from what the author actually said.
+- **Executable, not just inspirational.** If the author teaches a method, you get a real step-by-step playbook with their exact numbers and scripts — not vibes.
+- **Honest by design.** Public sources only. Predictions are labeled as predictions. Missing coverage is reported, never hidden. Quotes are never fabricated.
+
 ## Under the hood (the technical version)
 
 1. **Exhaustive discovery** — sweeps the web for everything public: articles, YouTube, podcasts, radio, talks, interviews, threads, papers — across name variants and affiliations.
-2. **Source table** — shows you a reviewable table (`Date · Type · Source · Summary · URL`) before doing the heavy work, so you approve/prune what goes into the database.
-3. **Harvest (extract-on-the-fly)** — reads each source once and saves the *distillate* (dated, attributed quotes/chunks), not gigabytes of raw text. Fast by default: existing text + captions/transcripts only, **no slow ASR**. Sources with no subtitles are listed in a table and you decide whether to run `whisper` on them. **Books** are processed chapter by chapter (from a copy you legally own, or public material about them — never pirated) and collapse into the same compact distillate. **Transcripts and article text are saved locally by default** (they're tiny — tens of MB even for a 300-video channel — and they power deep-links and live-grounding); only **full books** are the exception, kept just as distillate unless you opt in with `--archive-raw`.
+2. **Source table (review gate)** — shows you a reviewable table (`Date · Type · Source · Summary · URL`) before the heavy work, so you approve/prune what goes into the database.
+3. **Harvest (extract-on-the-fly)** — reads each source once and saves the *distillate* (dated, attributed quotes/chunks with timestamps + deep-links), not gigabytes of raw text. Fast by default: existing text + captions/transcripts only, **no slow ASR**. Sources with no subtitles are listed in a table and you decide whether to run `whisper`. **Books** are processed chapter by chapter (a copy you legally own, or public material — never pirated). Transcripts and article text are saved locally by default (tiny — tens of MB even for a 300-video channel); only full books are opt-in via `--archive-raw`.
 4. **Cognitive model** — mines the corpus for the author's axioms, frameworks, causal belief graph, decision heuristics, antipatterns, and reconstructed reasoning traces.
-5. **Playbook** (when the author teaches a method) — extracts the concrete, step-by-step methodology: ordered steps, tactics, checklists, numbers/thresholds, recommended tools, and verbatim scripts — each linked to the exact minute of the source.
-6. **Clone chat** — answers how-to questions from the playbook, gives advice / solves tasks in the author's manner, and predicts their stance on new topics with stated confidence and reasoning. Grounded answers **quote the author and deep-link to the exact minute** they said it (several links if several sources cover it; a plain link for text). The saved evidence is an **index**: for the sources actually backing an answer, the clone re-opens them **live** to quote the real passage (falling back to a local raw cache, then the stored quote), so citations stay faithful to the source instead of a possibly-drifted summary.
-
-## Install
-
-```bash
-# the skill
-npx skills add mrgnfndr-dr/mind-clone -g -y
-# or drop the skill folder into ~/.claude/skills/mind-clone
-
-# (optional) the slash commands — copy them into your commands dir
-cp mind-clone/commands/mind-clone-ask.md   ~/.claude/commands/mind-clone-ask.md
-cp mind-clone/commands/mind-clone-build.md ~/.claude/commands/mind-clone-build.md
-```
-
-## Use
-
-Two ways to invoke — both work:
-
-```
-# by meaning (auto-trigger)
-> build a mind-clone of Alex Mashrabov
-> what would Alex Mashrabov think about <new topic>?
-
-# by slash command (two commands, ask listed first)
-> /mind-clone-ask Alex Mashrabov what about pricing?   # chat with a clone
-> /mind-clone-build Alex Mashrabov                      # build a clone
-```
-
-On first use it asks which language you'd like to talk in, then always replies in that language. The saved database stays in English so each clone is portable.
+5. **Playbook** (when the author teaches a method) — extracts the concrete, ordered methodology: steps, tactics, checklists, numbers, recommended tools, and verbatim scripts — each linked to the exact minute, every step traceable to the source.
+6. **Clone chat** — answers how-to from the playbook, gives advice in the author's manner, and predicts their stance on new topics with stated confidence. For the sources backing an answer, it re-opens them **live** to quote the real passage (fallback: local raw cache → stored quote), so citations stay faithful.
 
 ## Requirements
 
 - **Built-in only** for the core: web search + fetch (text scraping) need no setup.
-- **Optional, free** for richer harvest (auto-detected, with graceful fallback):
+- **Optional, free** for richer harvest (auto-detected, graceful fallback):
   - [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) — YouTube/podcast captions & audio (`pip install yt-dlp`)
   - [`whisper`](https://github.com/openai/whisper) + `ffmpeg` — transcribe audio with no transcript (`pip install openai-whisper`)
 
@@ -67,16 +91,16 @@ Run `bash scripts/check_tools.sh` to see what's available.
 
 ## Where your data goes
 
-Everything is saved under your current project, not inside the skill:
+Everything is saved under your current project, not inside the skill — so the clone ships with your repo:
 
 ```
 clones/<author-slug>/
   manifest.json        build metadata, name variants, chat language, coverage gaps
   sources.jsonl        canonical source registry
   sources.md           human-readable source table
-  evidence.jsonl       dated, attributed quotes/chunks with timestamps + deep-links (the distillate — always)
+  evidence.jsonl       dated, attributed quotes/chunks with timestamps + deep-links (the distillate)
   raw/<id>.md          full clean text per source — saved by default (books excepted)
-  raw/<id>.srt         full timecoded transcript (audio/video) — saved by default; lets any passage be deep-linked
+  raw/<id>.srt         full timecoded transcript (audio/video) — saved by default; any passage stays deep-linkable
   cognitive-model.md   the brain
   reasoning-traces.md  worked reconstructions of the author's reasoning
   playbook.md          the author's procedural methodology — only if they teach one
@@ -85,11 +109,11 @@ clones/<author-slug>/
 
 ## How it's built
 
-`SKILL.md` orchestrates; detailed methodology lives in `reference/` (loaded on demand) and output shapes in `templates/`. It borrows proven ideas: persisted evidence base + source registry (à la deep-research pipelines), signal-vs-noise pattern extraction (à la style-extraction skills), multi-modal name-variant sweeps (OSINT discovery), and a causal belief graph for extrapolation.
+`SKILL.md` orchestrates; detailed methodology lives in `reference/` (loaded on demand) and output shapes in `templates/`. It borrows proven ideas: a persisted evidence base + source registry (à la deep-research pipelines), signal-vs-noise pattern extraction (à la style-extraction skills), multi-modal name-variant sweeps (OSINT discovery), and a causal belief graph for extrapolation.
 
 ## Ethics
 
-Public data only; not a surveillance tool. The clone is a model, not the person. See [`reference/ethics.md`](reference/ethics.md).
+Public data only; not a surveillance tool. The clone is a model, not the person, and is labeled as such. Books are used only from a copy you legally own or public material about them — never pirated. See [`reference/ethics.md`](reference/ethics.md).
 
 ## License
 
