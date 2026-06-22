@@ -1,4 +1,4 @@
-# mind-clone — turn any public author into an AI clone you can ask
+# mind-clone — turn any public author into an AI Clone you can ask
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Claude Code skill](https://img.shields.io/badge/Claude%20Code-skill-da7756)
