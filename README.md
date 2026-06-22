@@ -6,7 +6,18 @@ A self-contained [Claude Code](https://claude.com/claude-code) skill — your cl
 
 > It's an interpretive model built from **public** sources — not the real person. Predictions are labeled and confidence-rated. Quotes are never fabricated.
 
-## What it does
+## How it works (step by step)
+
+Think of it like making a really good study guide about *how someone thinks* — then being able to ask that study guide questions.
+
+1. **It finds everything the person said in public.** It searches the web for all of their articles, YouTube videos, podcasts, interviews, and talks — not just the first few, but as much as it can find.
+2. **It shows you the list first.** Before any heavy work, it gives you a table of every source it found (date, type, link) so you can delete junk or add things it missed. Nothing happens until you approve.
+3. **It reads each source and takes notes.** It goes through every video and article once, pulls out the important quotes and ideas, and writes down *exactly where each one came from* — including the **minute in the video**, so it can link you straight back to that moment later.
+4. **It builds the "brain."** From those notes it works out *how the person thinks* — what they believe, the rules they follow, how they argue, what they push back on. This is what lets the clone answer questions the person never directly answered.
+5. **It builds a "playbook" (if the person teaches a method).** If they explain step-by-step how to do something (say, grow an Instagram account), it also collects those exact steps, numbers, and checklists into a how-to guide you can follow.
+6. **Now you talk to it.** You ask a question; the clone answers the way that person would think — and backs it up by **quoting them with a link to the exact minute** they said it.
+
+## Under the hood (the technical version)
 
 1. **Exhaustive discovery** — sweeps the web for everything public: articles, YouTube, podcasts, radio, talks, interviews, threads, papers — across name variants and affiliations.
 2. **Source table** — shows you a reviewable table (`Date · Type · Source · Summary · URL`) before doing the heavy work, so you approve/prune what goes into the database.
