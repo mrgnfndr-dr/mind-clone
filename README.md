@@ -17,7 +17,7 @@ A self-contained [Claude Code](https://claude.com/claude-code) **skill** that bu
 
 ```bash
 # the skill
-npx skills add <your-org>/mind-clone -g -y
+npx skills add mrgnfndr-dr/mind-clone -g -y
 # or drop the skill folder into ~/.claude/skills/mind-clone
 
 # (optional) the slash commands — copy them into your commands dir
@@ -78,4 +78,4 @@ Public data only; not a surveillance tool. The clone is a model, not the person.
 
 ## License
 
-MIT (suggested) — add your own `LICENSE`.
+[MIT](LICENSE).
