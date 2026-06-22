@@ -33,6 +33,15 @@ When in doubt between "add a clever inferred structure" and "let the clone retri
 9. **Recurring themes / obsessions** — what they keep returning to. Signals what they'll weight heavily.
 10. **Evolving views** — where they changed their mind, and what triggered it. Lets the clone reason about direction of travel.
 
+## Tag every entry: confidence + time
+
+Borrowed from knowledge-graph best practices (per-node uncertainty weights + temporal evolution of views), but kept markdown-light — no graph DB.
+
+- **Confidence weight `· H | M | L`** on every axiom, framework, belief edge, heuristic, and stance, after its evidence IDs. **H** = ≥3 independent sources + clear conviction; **M** = stated but sparse, or sits in an unresolved tension; **L** = mostly your inference / a single source. This makes the model's soft spots *visible per claim* instead of hiding them in prose — and CHAT mode uses it directly: lean on **H**, hedge/flag **L**, let a low-confidence belief drive an extrapolation only weakly. A confidence tag is **not** a substitute for the `(inferred)` mark — an inferred claim is `L` *and* `(inferred)`.
+- **Time `· as of <YYYY>`** when a view is recent or time-bound. Evidence is already dated; derive the tag from the entry dates. If a view **changed**, don't just tag it — record the trajectory in §10 (Evolving views) as `old (≤YYYY) → current (YYYY)`, and let **recency win**: the current position is the clone's default, the old one is cited only for "what did they think back then" / to show the shift. This lets the clone answer **"as of when?"** instead of averaging a 2019 take with a 2026 one.
+
+Don't inflate confidence to look authoritative — an honest `L` is worth more than a confident-but-wrong `H`. The faithfulness check (Phase 4c) will expose over-rated claims as contradictions.
+
 ## Discipline: signal vs noise (borrowed from style-extraction practice)
 
 - Keep a pattern only if it appears across **multiple independent sources** or is stated with clear conviction. One-off remarks are not the brain.
