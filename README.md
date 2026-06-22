@@ -1,5 +1,7 @@
 # mind-clone — make Claude think like a specific expert, with receipts
 
+**What it is:** create a "mind clone" of a public author from their public content — your own AI advisor that reasons the way they do and cites them with a link to the exact minute.
+
 Generic AI advice sounds like everyone and no one. **mind-clone** builds a *cognitive model* of a real author from their public content — articles, YouTube, podcasts, talks — then answers, advises, and predicts **the way that person actually reasons**, not by parroting their tone. Every grounded answer **quotes them and deep-links to the exact minute** they said it. And when the author teaches a method, it extracts a step-by-step **playbook** you can execute.
 
 A self-contained [Claude Code](https://claude.com/claude-code) skill — your clone is saved as a local, portable database in your project.
