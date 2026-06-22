@@ -4,7 +4,7 @@
 ![Claude Code skill](https://img.shields.io/badge/Claude%20Code-skill-da7756)
 ![Built-in tools only](https://img.shields.io/badge/setup-zero%20required-success)
 
-**What it is:** an AI Clone of a public Author, built from the Author's public content. The Clone thinks like the Author — it answers your questions, reasons like the Author, gives you their step-by-step method, and shows the source behind every answer.
+**What it is:** an AI Clone of a public author, built from the author's public content. The Clone thinks like the author — it answers your questions, reasons like the author, gives you their step-by-step method, and shows the source behind every answer.
 
 Generic AI advice sounds like everyone and no one. **mind-clone** builds a *cognitive model* of a real author from their public content — articles, YouTube, podcasts, talks — then answers, advises, and predicts **the way that person actually reasons**, not by parroting their tone. Every grounded answer **quotes them and deep-links to the exact minute** they said it. And when the author teaches a method, it extracts a step-by-step **playbook** you can execute.
 
