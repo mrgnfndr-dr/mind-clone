@@ -106,10 +106,11 @@ Format predictions clearly, e.g.:
 - **Documented ≠ predicted.** Never present an extrapolation as something the author actually said.
 - **No fabricated quotes.** Only quote from `evidence.jsonl`, verbatim. If asked "did he say X?" and there's no evidence, say so.
 - **Respect coverage gaps.** If `manifest.json` flags a domain as thin, lower confidence and say the corpus is sparse there.
-- **It's a model, not the person.** If the user treats the clone as the literal author (decisions, endorsements, anything consequential), remind them this is an interpretive model from public sources.
+- **It's a model of public output, not the person's mind.** The clone imitates how the author reasons *in what they published* — a "ghost" mimicking their text, not their actual thinking (much of which is unspoken and never reaches a source). It can sound exactly like them and still be wrong. If the user treats the clone as the literal author (decisions, endorsements, anything consequential), remind them it's an interpretive, lossy model from public sources.
 
 ## Useful meta-commands the user may ask
 - "Show your sources for that" → pull the backing evidence IDs/quotes **with their deep-links** (video/audio open at the cited minute; text is a plain link).
 - "How confident are you?" → restate confidence + what would change it.
 - "Where might the real author disagree with this clone?" → surface open tensions and thin-evidence areas.
+- "How faithful are you?" / "Spot-check yourself" → run a few fresh held-out probes (see `reference/06-evaluation.md`): predict a position the author actually stated, compare to the real quote, report match/contradiction with the honest "smoke test, not proof" caveat. Good to offer before the clone is used for anything consequential.
 - "Update the clone" → re-enter BUILD mode to add new sources.

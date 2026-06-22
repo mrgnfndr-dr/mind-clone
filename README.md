@@ -8,7 +8,7 @@
 
 Generic AI advice sounds like everyone and no one. **mind-clone** builds a *cognitive model* of a real author from their public content — articles, YouTube, podcasts, talks — then answers, advises, and predicts **the way that person actually reasons**, not by parroting their tone. Every grounded answer **quotes them and deep-links to the exact minute** they said it. And when the author teaches a method, it extracts a step-by-step **playbook** you can execute.
 
-> It's an interpretive model built from **public** sources — not the real person. Predictions are labeled and confidence-rated. Quotes are never fabricated.
+> It models a person from their **public output** — a useful imitation of how they reason *in public*, not their actual mind (real thinking is mostly unspoken and never makes it into the transcript). It's an interpretive model, never the real person: predictions are labeled and confidence-rated, and quotes are never fabricated.
 
 <!-- DEMO GIF goes here — record a 15s terminal clip: ask a clone a question → answer in the author's logic → click the deep-link → YouTube opens at the exact minute. Save as docs/demo.gif and uncomment:
 ![mind-clone demo](docs/demo.gif)
@@ -62,7 +62,8 @@ Think of it like making a really good study guide about *how someone thinks* —
 3. **It reads each source and takes notes.** It goes through every video and article once, pulls out the important quotes and ideas, and writes down *exactly where each one came from* — including the **minute in the video**, so it can link you straight back to that moment later.
 4. **It builds the "brain."** From those notes it works out *how the person thinks* — what they believe, the rules they follow, how they argue, what they push back on. This is what lets the clone answer questions the person never directly answered.
 5. **It builds a "playbook" (if the person teaches a method).** If they explain step-by-step how to do something (say, grow an Instagram account), it also collects those exact steps, numbers, and checklists into a how-to guide you can follow.
-6. **Now you talk to it.** You ask a question; the clone answers the way that person would think — and backs it up by **quoting them with a link to the exact minute** they said it.
+6. **It checks itself.** It hides a few things the person actually said, tries to guess them from the "brain," and compares — so you can see where the clone is reliable and where it's just guessing.
+7. **Now you talk to it.** You ask a question; the clone answers the way that person would think — and backs it up by **quoting them with a link to the exact minute** they said it.
 
 ## Why it's different
 
@@ -78,7 +79,8 @@ Think of it like making a really good study guide about *how someone thinks* —
 3. **Harvest (extract-on-the-fly)** — reads each source once and saves the *distillate* (dated, attributed quotes/chunks with timestamps + deep-links), not gigabytes of raw text. Fast by default: existing text + captions/transcripts only, **no slow ASR**. Sources with no subtitles are listed in a table and you decide whether to run `whisper`. **Books** are processed chapter by chapter (a copy you legally own, or public material — never pirated). Transcripts and article text are saved locally by default (tiny — tens of MB even for a 300-video channel); only full books are opt-in via `--archive-raw`.
 4. **Cognitive model** — mines the corpus for the author's axioms, frameworks, causal belief graph, decision heuristics, antipatterns, and reconstructed reasoning traces.
 5. **Playbook** (when the author teaches a method) — extracts the concrete, ordered methodology: steps, tactics, checklists, numbers, recommended tools, and verbatim scripts — each linked to the exact minute, every step traceable to the source.
-6. **Clone chat** — answers how-to from the playbook, gives advice in the author's manner, and predicts their stance on new topics with stated confidence. For the sources backing an answer, it re-opens them **live** to quote the real passage (fallback: local raw cache → stored quote), so citations stay faithful.
+6. **Faithfulness check** — a held-out smoke test: hide a position the author actually stated, predict it cold from the model, compare to the real quote, and score match vs **contradiction**. Makes drift visible instead of trusting fluency — indicative only, never tuned to pass.
+7. **Clone chat** — answers how-to from the playbook, gives advice in the author's manner, and predicts their stance on new topics with stated confidence. For the sources backing an answer, it re-opens them **live** to quote the real passage (fallback: local raw cache → stored quote), so citations stay faithful. Ask it "how faithful are you?" to spot-check live.
 
 ## Requirements
 
@@ -104,6 +106,7 @@ clones/<author-slug>/
   cognitive-model.md   the brain
   reasoning-traces.md  worked reconstructions of the author's reasoning
   playbook.md          the author's procedural methodology — only if they teach one
+  evaluation.md        held-out faithfulness smoke test (probes, cold predictions, real quotes, score)
   persona.md           bio, domains, voice notes
 ```
 

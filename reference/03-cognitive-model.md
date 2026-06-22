@@ -8,6 +8,17 @@ Input: `evidence.jsonl` + `raw/*`. Output: `cognitive-model.md`, `reasoning-trac
 
 The model's job is to encode the author's **priors and reasoning machinery**, which the LLM then runs on new inputs. Voice/tone is secondary (it lives in `persona.md`). The brain lives in the structures below.
 
+## Principle: minimalism — a lean index over evidence, not an elaborate theory
+
+The cognitive model is a **thin, readable map** that points the LLM at the right priors — it is *not* a grand unified theory of the person. The heavy lifting at answer time is done by **retrieval + live-grounding against the raw sources** (see `04-clone-runtime.md`), not by this document. So:
+
+- **Lean toward the evidence, away from invented structure.** Every axiom/edge/heuristic must earn its place with real citations. If you're tempted to add structure the sources don't clearly support, *don't* — leave it out and let retrieval surface the raw passage instead. An elaborate belief graph that isn't grounded is lossy and brittle; it drifts from the person and reads as confident-but-wrong.
+- **Build the belief graph only as far as it buys extrapolation.** Its one job is reasoning about questions the author never addressed. Capture the edges that genuinely enable that; don't manufacture a dense graph for its own sake.
+- **Thin is fine; padded is a bug.** A short model with sharp, well-evidenced entries beats a long one full of weakly-supported inferences. Cut anything you wouldn't stake a citation on.
+- **Keep it forkable and single-read.** Someone should be able to read the whole file in one pass and start reasoning. Prefer one crisp example over exhaustive enumeration.
+
+When in doubt between "add a clever inferred structure" and "let the clone retrieve the raw quote at answer time" — choose retrieval. The raw source is the ground truth; this file is just the index.
+
 ## What to extract (each item must cite evidence IDs)
 
 1. **Worldview axioms** — foundational beliefs the author treats as given and argues *from*, not *for*. The deepest layer; everything else derives from these.

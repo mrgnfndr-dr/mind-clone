@@ -18,6 +18,7 @@ This skill builds an **interpretive model of a person from their public statemen
 
 ## Tell the user
 - The clone reflects what was **public and found** — it can be outdated, incomplete, or biased by what's online.
+- **It's a model of the author's public *output*, not their mind.** It imitates how they reason *in what they published* — a "ghost" mimicking their text, not the real person. Much of how someone actually thinks is unspoken and never reaches a transcript, so even a faithful clone is a lossy surface imitation with a different failure surface (it can sound exactly right and be wrong). Don't let users — or yourself — treat its output as authentically *being* that person's reasoning.
 - Predictions on new topics are **extrapolations**, confidence-rated, and can be wrong.
 - For anything consequential, treat the clone as a thinking aid, not the person's real judgment.
 

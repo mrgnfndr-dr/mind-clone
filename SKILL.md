@@ -61,7 +61,7 @@ Default is **fast**: read each source once and extract the distillate into `evid
 
 ### Phase 4 — COGNITIVE MODEL (the brain)
 Load **`reference/03-cognitive-model.md`** and **`templates/cognitive-model.md`**.
-Mine the harvested corpus for: worldview axioms, mental models/frameworks, causal beliefs (belief→cause→consequence graph), decision heuristics, strong stances, antipatterns (what they reject & why), domains of confidence, characteristic reasoning moves, and evolving views. Reconstruct concrete **reasoning traces** showing *how* the author got from premise to conclusion. Separate documented patterns from noise; cite evidence IDs for every claim.
+Mine the harvested corpus for: worldview axioms, mental models/frameworks, causal beliefs (belief→cause→consequence graph), decision heuristics, strong stances, antipatterns (what they reject & why), domains of confidence, characteristic reasoning moves, and evolving views. Reconstruct concrete **reasoning traces** showing *how* the author got from premise to conclusion. Separate documented patterns from noise; cite evidence IDs for every claim. **Keep the model lean** — a thin, well-cited index over the evidence, not an elaborate theory; the heavy lifting happens at answer time via retrieval + live-grounding, so prefer letting the clone retrieve a raw quote over inventing unsupported structure.
 → writes `cognitive-model.md`, `reasoning-traces.md`, `persona.md`
 
 ### Phase 4b — PLAYBOOK (procedural methodology, when the author teaches one)
@@ -69,8 +69,13 @@ Load **`reference/05-playbook.md`** and **`templates/playbook.md`**.
 If the corpus contains how-to / instructional content, extract the author's **concrete methodology**: ordered steps, tactics, checklists, numbers/thresholds, recommended tools, verbatim scripts/templates, and "don't do this" mistakes — each cited with evidence IDs + a deep-link to the exact minute. This is *what to do* (vs Phase 4's *how the author thinks*); the two cross-link. If the author is a pure thinker with **no** prescribed methodology, skip this and record "no methodology found" in coverage gaps.
 → writes `playbook.md` (when applicable)
 
+### Phase 4c — FAITHFULNESS CHECK (held-out smoke test)
+Load **`reference/06-evaluation.md`**.
+Hold out 5–10 evidence entries where the author states a clear, checkable position; for each, predict the answer *cold* from the rest of the model and compare to the real quote. Score match / partial / miss / **contradiction** (the dangerous one). This makes drift visible instead of trusting fluency — but it's a **smoke test, not proof** (small-N, gameable; never tune the model to pass it). Failing probes → fix the model (tighten/remove the over-reached inference), or lower confidence for thin domains.
+→ writes `evaluation.md`
+
 ### Phase 5 — FINALIZE
-Write `manifest.json` (author, slug, name variants, counts, chat_language, build date, coverage gaps, `has_playbook`). Give the user a build summary: # sources by type, # quotes, whether a playbook was built, coverage gaps, and how to start chatting with the clone.
+Write `manifest.json` (author, slug, name variants, counts, chat_language, build date, coverage gaps, `has_playbook`, `faithfulness`). Give the user a build summary: # sources by type, # quotes, whether a playbook was built, the faithfulness result (with its "indicative only" caveat), coverage gaps, and how to start chatting with the clone.
 → writes `manifest.json`
 
 ---
@@ -98,6 +103,7 @@ clones/<author-slug>/
   cognitive-model.md     the brain: axioms, frameworks, belief graph, heuristics, antipatterns
   reasoning-traces.md    worked reconstructions of the author's reasoning
   playbook.md            the author's procedural methodology: steps, tactics, numbers, scripts  (only if the author teaches one)
+  evaluation.md          held-out faithfulness smoke test: probes, cold predictions, real quotes, score
   persona.md             bio, domains, voice notes (supports the brain, secondary)
 ```
 
