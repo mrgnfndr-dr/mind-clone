@@ -1,6 +1,8 @@
-# mind-clone — build a clone of how an author thinks
+# mind-clone — make Claude think like a specific expert, with receipts
 
-A self-contained [Claude Code](https://claude.com/claude-code) **skill** that builds a *cognitive model* of a real author/thinker from their public content, saves it as a local database in your project, and then answers questions, gives advice, and predicts positions **the way that person would think** — by reasoning through their actual mental models, not by imitating their tone.
+Generic AI advice sounds like everyone and no one. **mind-clone** builds a *cognitive model* of a real author from their public content — articles, YouTube, podcasts, talks — then answers, advises, and predicts **the way that person actually reasons**, not by parroting their tone. Every grounded answer **quotes them and deep-links to the exact minute** they said it. And when the author teaches a method, it extracts a step-by-step **playbook** you can execute.
+
+A self-contained [Claude Code](https://claude.com/claude-code) skill — your clone is saved as a local, portable database in your project.
 
 > It's an interpretive model built from **public** sources — not the real person. Predictions are labeled and confidence-rated. Quotes are never fabricated.
 
