@@ -1,0 +1,16 @@
+# Generated per-author clone databases (created when the skill runs in a user's project)
+clones/
+
+# Harvested raw material & temp artifacts
+raw/
+tmp/
+tmp_*
+clean_*
+*.mp3
+*.srt
+*.vtt
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.claude/
