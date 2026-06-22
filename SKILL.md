@@ -1,6 +1,6 @@
 ---
 name: mind-clone
-description: Build and converse with a "mind clone" of a real author/thinker — a model of how they think. Use when the user wants to clone someone's mind from their public content (articles, YouTube, podcasts, talks, interviews), get advice "in the thinking of" a specific person, or predict what a named person would think about a topic. Triggers on "clone <person>", "mind-clone <person>", "build a clone of", "think like <person>", "what would <person> say about", "create a digital clone of someone's mind". Self-contained: relies only on built-in tools plus optional free CLIs (yt-dlp, whisper).
+description: Build and talk to an AI "mind clone" of a real public author — a model of how they think, built from their public content, that reasons in the author's own frameworks and cites them with deep-links to the exact source moment. Use when the user wants to clone someone's mind/thinking from their public content (articles, YouTube, podcasts, talks, interviews), get advice "in the thinking of" a specific person, extract that person's step-by-step method or playbook, or predict what a named person would think about a topic. Triggers on "clone <person>", "mind-clone <person>", "build a clone of", "think like <person>", "what would <person> say/think about", "turn <person> into an AI", "create a digital clone of someone's mind". Self-contained: relies only on built-in tools plus optional free CLIs (yt-dlp, whisper).
 ---
 
 # mind-clone — a clone of how an author thinks, from public content
