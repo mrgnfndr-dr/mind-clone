@@ -8,7 +8,7 @@
 
 ## Artifact language (always English)
 Everything written to disk stays in **English**, regardless of chat language:
-- `sources.jsonl`, `sources.md`, `evidence.jsonl`, `raw/*`, `cognitive-model.md`, `reasoning-traces.md`, `persona.md`, `manifest.json`.
+- `clone.db`, `MANIFEST.md`, `sources.jsonl`, `sources.md`, `evidence.jsonl`, `raw/*`, `cognitive-model.md`, `reasoning-traces.md`, `persona.md`, `manifest.json`.
 
 Why: keeps each clone portable and shareable on GitHub, and keeps the cognitive model in one canonical language for consistent reasoning. Translate to the user's language only at the moment of display.
 

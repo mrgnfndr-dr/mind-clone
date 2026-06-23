@@ -2,7 +2,7 @@
 
 This is the core of the skill. You are not summarizing *what the author said* — you are reconstructing *how the author thinks*, so the clone can reason about questions the author never addressed.
 
-Input: `evidence.jsonl` + `raw/*`. Output: `cognitive-model.md`, `reasoning-traces.md`, `persona.md` (use `templates/cognitive-model.md` and `templates/persona.md` for structure).
+Input: the evidence table (`clone.db`, queried via `scripts/clone.py` — built from `evidence.jsonl`) + `raw/*`. Output: `cognitive-model.md`, `reasoning-traces.md`, `persona.md` (use `templates/cognitive-model.md` and `templates/persona.md` for structure).
 
 ## Principle: capture reasoning, not slogans
 

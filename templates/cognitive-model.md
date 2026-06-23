@@ -1,6 +1,6 @@
 # Cognitive Model — <Author Name>
 
-> Built <YYYY-MM-DD> from <N> sources. This models how <Author> thinks, for reasoning about new questions. Every claim cites evidence IDs from `evidence.jsonl`. Items marked `(inferred)` are not directly stated.
+> Built <YYYY-MM-DD> from <N> sources. This models how <Author> thinks, for reasoning about new questions. Every claim cites evidence IDs from the evidence table (`clone.db`, via `clone.py`). Items marked `(inferred)` are not directly stated.
 
 **Notation — tag every entry with confidence and (when relevant) time:**
 - **Confidence** `· H | M | L` after the evidence IDs: **H** = several independent sources + clear conviction; **M** = stated but sparse, or some unresolved tension; **L** = mostly inferred / single source. This is a per-claim weight (à la a knowledge graph) — CHAT mode leans on H and hedges on L.
