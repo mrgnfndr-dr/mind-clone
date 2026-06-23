@@ -61,14 +61,20 @@ if [r[0] for r in db.execute("SELECT name FROM sqlite_master WHERE sql LIKE '%ft
     w("- full-text: evidence_fts (over quote+note)")
 w("""
 ## Commands — the ONLY way to touch the data (each returns a small slice, never the table)
+RETRIEVAL (recall net — narrows candidates, NEVER a basis for the choice):
 | Intent | Command (run from the clone dir) |
 |---|---|
 | filter | `python <skill>/scripts/clone.py query . --kind A,B --topic T --since YYYY-MM-DD --limit N [--headers]` |
-| bodies by id | `python <skill>/scripts/clone.py get . --ids e0_001,e1_004` |
-| regex | `python <skill>/scripts/clone.py search . "<regex>" --limit N` |
-| full-text | `python <skill>/scripts/clone.py fts . "<query>" --limit N` |
+| regex | `python <skill>/scripts/clone.py search . "<regex>" --limit N`  (keyword net only) |
+| full-text | `python <skill>/scripts/clone.py fts . "<query>" --limit N`  (keyword net only) |
+| bodies by id | `python <skill>/scripts/clone.py get . --ids e0_001,e1_004`  (pull FULL content to READ) |
+INSPECTION:
 | distribution | `python <skill>/scripts/clone.py stats . --by kind` |
 | integrity | `python <skill>/scripts/clone.py validate .` |
+
+**Retrieval ≠ selection.** A regex/fts/keyword hit only delivers candidates; it is NOT a reason to
+pick a row. You MUST `get` the full bodies and READ them (whole, or chunked if large) before any
+choice. Never decide from a keyword match or from `--headers` alone — that is mechanical, not semantic.
 
 ## Intent → recipe
 - "what does X think about <topic>" → `query --topic <t>` then `fts "<kw1> OR <kw2>"`
@@ -79,13 +85,18 @@ w("""
 - "recent shift" → `query --topic <t> --since <date>` (recency wins)
 
 ## Two-role protocol (retrieve → analyze; isolation by responsibility)
-- RETRIEVER: read this manifest, choose commands, deliver a slice to `runs/<id>/retrieval.md`. Does NOT judge.
-- ANALYST: sees ONLY the delivered slice (not the table, not memory) → writes `runs/<id>/choice.md`
-  citing row ids. No id → no claim. If short, emit `INSUFFICIENT: need X` → new retrieval round.
+- RETRIEVER: read this manifest, choose commands, deliver FULL bodies (not just headers) to
+  `runs/<id>/retrieval.md`. regex/fts is only a candidate net. Does NOT judge.
+- ANALYST: sees ONLY the delivered slice (not the table, not memory). MUST READ the delivered
+  bodies in full (chunk if large) and only then choose → writes `runs/<id>/choice.md` citing row
+  ids. No id → no claim. Never decide from a keyword/regex hit or headers. If short, emit
+  `INSUFFICIENT: need X` → new retrieval round.
 - Re-deciding rewrites only choice.md; the (expensive) retrieval is reused.
 
 ## Guardrails
 - NEVER read clone.db / *.jsonl directly. Go through commands.
+- **Retrieval ≠ selection.** Keyword/regex/fts only narrows candidates; the choice MUST come from
+  READING the delivered content (whole or chunked). No choice may be justified by a keyword match.
 - NEVER fabricate quotes — only surface rows the commands return.
 - If `manifest.py <slug> --verify` fails, the manifest is stale: regenerate before trusting it.
 """)
