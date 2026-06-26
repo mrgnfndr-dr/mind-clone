@@ -1,6 +1,6 @@
 # Phase 3 — Harvest (extract-on-the-fly)
 
-Goal: in **one pass per source**, read it and extract the cognitive material directly — quotes, belief edges, reasoning, chunks — into the **distillate** (`evidence.jsonl`), and in the same pass save the raw transcript/text to `raw/`. The distillate is what feeds the cognitive model; the raw file is a cheap cache for deep-links and live-grounding. Do **not** bulk-dump raw text and *defer* extraction — extract as you read, in one pass; saving the raw file alongside is fine (it's not a separate dump-then-process step). Self-contained: built-in tools by default; slow ASR only on explicit user request.
+Goal: in **one pass per source**, read it and extract the cognitive material directly — quotes, belief edges, reasoning, chunks — as **EP points** (a transient delta `.jsonl`, imported via the contour), and in the same pass save the raw transcript/text to `raw/`. The EPs are the canon (the `ep` table); the raw file is a cheap cache for deep-links and live-grounding. Do **not** bulk-dump raw text and *defer* extraction — extract as you read, in one pass; saving the raw file alongside is fine (it's not a separate dump-then-process step). Self-contained: built-in tools by default; slow ASR only on explicit user request.
 
 ## Default behavior (fast)
 
@@ -61,7 +61,7 @@ N sources have no subtitles/transcript. Transcribing them needs whisper (slow AS
 4. Only if the user opts in: check `whisper`/`ffmpeg` are installed (`scripts/check_tools.sh`); if missing, offer the one-line install or fall back to skipping. Then:
    `yt-dlp -x --audio-format mp3 -o "tmp/<id>.mp3" "<url>"` → `whisper "tmp/<id>.mp3" --model small --output_format srt` → save the result as `raw/<id>.srt` (timecoded, so whisper'd sources are deep-linkable too) **plus** `raw/<id>.md` for the clean text → extract evidence on the fly → **delete the temp audio** (the audio file is the only big artifact; the transcript stays). Saving the transcript is the default, same as captions. (The slow part is whisper itself, not saving — and whisper still runs only on the user's explicit opt-in.)
 
-5. Whatever stays untranscribed is recorded in `manifest.json` under `coverage_gaps` and surfaced in the build summary — never hidden.
+5. Whatever stays untranscribed is recorded in `config.json` coverage gaps and surfaced in the build summary — never hidden.
 
 ## Books — process by chapter, don't drown in volume
 
