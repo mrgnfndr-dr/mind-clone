@@ -124,7 +124,25 @@ Rules:
 
 > **Reasoning-fidelity note:** because default mode discards full transcripts, reasoning traces built later can only draw on what's in `evidence.jsonl`. If faithful, re-derivable reasoning chains matter for this clone, run with **`--archive-raw`** so Phase 4 (and future updates) can re-read full context instead of re-fetching. Flag any trace step that is your reconstruction (connecting separate beliefs) vs the author's explicit chain.
 
+## Load into the table store (end of harvest)
+
+`evidence.jsonl` / `sources.jsonl` are the **emit format**, not the canonical store. Once harvest
+is done (or after each incremental batch):
+
+```
+python <skill>/scripts/clone.py import .     # validates on write: bad kind / dangling FK / missing field are REJECTED
+python <skill>/scripts/manifest.py .          # (re)generate MANIFEST.md from the live clone.db
+```
+
+- `import` builds `clone.db` (SQLite: CHECK-enum on `kind`, FK `evidence.source→sources.id`, NOT NULL,
+  FTS5). Legacy/dirty `kind` values are normalized (e.g. `causal-belief→causal`); anything still invalid
+  is reported, not silently dropped — fix it in the JSONL and re-import.
+- From here, **all access is through `clone.py`** (`query`/`fts`/`get`/`stats`); nothing reads the raw table.
+- `manifest.py --verify` must pass before the clone is used — it guarantees `MANIFEST.md` reflects the
+  current schema. See `ARCHITECTURE.md`.
+
 ## Quality gates
 - Prefer **primary** + reasoning-rich sources (interviews, essays) over press blurbs.
 - Aim for **3+ independent sources** behind any belief that will enter the cognitive model.
 - After harvest, write a one-line coverage report: `extracted X / failed Y / not_transcribed Z (whisper skipped/declined)`. Gaps carry into `manifest.json`. Silent truncation is forbidden.
+- Confirm `clone.py validate .` reports `0 violations` and `manifest.py . --verify` says in sync.

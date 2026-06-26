@@ -1,6 +1,6 @@
 # Playbook — <Author>'s Methodology: <Domain>
 
-> Built <YYYY-MM-DD> from <N> sources. This is the author's **procedural methodology** — the concrete steps, tactics, numbers, and checklists they teach — *not* how they think (that's `cognitive-model.md`). Every step cites evidence IDs from `evidence.jsonl`; audio/video citations carry a deep-link to the exact minute. Items marked `(inferred)` are not directly prescribed by the author.
+> Built <YYYY-MM-DD> from <N> sources. This is the author's **procedural methodology** — the concrete steps, tactics, numbers, and checklists they teach — *not* how they think (that's `cognitive-model.md`). Every step cites evidence IDs from the evidence table (`clone.db`, via `clone.py`); audio/video citations carry a deep-link to the exact minute. Items marked `(inferred)` are not directly prescribed by the author.
 
 ## 0. Scope & promise
 - **Domain:** <what this methodology is for, e.g. "growing an Instagram account from 0 to 100k">

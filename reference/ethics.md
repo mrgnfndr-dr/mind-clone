@@ -4,7 +4,7 @@ This skill builds an **interpretive model of a person from their public statemen
 
 ## Do
 - Use **public** content only: published articles, public videos/podcasts, public talks, public social posts, press.
-- Attribute. Keep `evidence.jsonl` traceable to real sources.
+- Attribute. Keep the evidence table (`clone.db`) traceable to real sources.
 - Label the clone clearly as a model/approximation, not the real person.
 - Best suited to **public thinkers/authors/founders** who deliberately published their ideas.
 - **Books:** use either (a) a copy the **user legally owns** and supplies (EPUB/PDF/their Kindle), or (b) **publicly available material** about the book — publisher sample chapters, Google Books snippets, the author's own talks/interviews/summaries about it. Cite chapter/page; quote within fair-use limits, never reproduce the whole book.

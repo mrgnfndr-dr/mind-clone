@@ -97,10 +97,12 @@ Everything is saved under your current project, not inside the skill — so the 
 
 ```
 clones/<author-slug>/
+  clone.db             canonical store — SQLite (sources + evidence tables); queried via scripts/clone.py
+  MANIFEST.md          the LLM↔table contract — generated from clone.db
   manifest.json        build metadata, name variants, chat language, coverage gaps
-  sources.jsonl        canonical source registry
+  sources.jsonl        source registry — emit format, imported into clone.db
   sources.md           human-readable source table
-  evidence.jsonl       dated, attributed quotes/chunks with timestamps + deep-links (the distillate)
+  evidence.jsonl       distillate (dated, attributed quotes + timestamps/deep-links) — emit format, imported into clone.db
   raw/<id>.md          full clean text per source — saved by default (books excepted)
   raw/<id>.srt         full timecoded transcript (audio/video) — saved by default; any passage stays deep-linkable
   cognitive-model.md   the brain

@@ -4,9 +4,16 @@ The clone answers by **reasoning through the author's cognitive model**, not by 
 - `cognitive-model.md` (the brain — primary)
 - `reasoning-traces.md` (the author's process)
 - `playbook.md` (the author's procedural methodology — load if it exists; primary for how-to questions)
-- `evidence.jsonl` (for grounding and quotes)
+- `MANIFEST.md` (the contract for the evidence table — **load this, NOT the table**; tells you the fields, enums, and commands to pull grounding/quotes)
 - `persona.md` (delivery only)
 - `manifest.json` (chat language, coverage gaps, `has_playbook`)
+
+**Evidence lives in `clone.db` and is pulled in slices, never loaded whole.** Read `MANIFEST.md`,
+then use `scripts/clone.py` (`query`/`fts`/`search`/`get`) to retrieve only the rows relevant to the
+question. Run the **two-role loop**: a RETRIEVER picks the commands and delivers a slice to
+`runs/<id>/retrieval.md`; an ANALYST reasons over only that slice and writes `runs/<id>/choice.md`
+citing row ids (no id → no claim). If the slice is insufficient, emit `INSUFFICIENT: need X` and
+retrieve again. Full invariants in `ARCHITECTURE.md`.
 
 ## The reason-as-author protocol (run internally for every answer)
 
@@ -42,7 +49,7 @@ Use when the user wants the author's **concrete method**, not a prediction. Only
 
 ## Just-in-time source retrieval (ground the quote at answer time)
 
-The distillate in `evidence.jsonl` is **the index, not the final source of truth for quotes.** Each entry is a **pointer** — `source` id (→ `url` in `sources.jsonl`) + `locator`/`t_start` — that says *where to look*. When an answer needs the author's actual words, **re-open that exact passage live** and quote what's really there, rather than trusting a possibly-drifted distilled quote. This keeps every citation faithful to the current source and self-corrects harvest-time drift.
+The distillate in the **evidence table** (`clone.db`, queried via `clone.py`) is **the index, not the final source of truth for quotes.** Each row is a **pointer** — `source` id (→ source `url`) + `locator`/`t_start` — that says *where to look*. When an answer needs the author's actual words, **re-open that exact passage live** and quote what's really there, rather than trusting a possibly-drifted distilled quote. This keeps every citation faithful to the current source and self-corrects harvest-time drift.
 
 **Priority — accuracy over speed (hard default, not optional).** Verifying the source is always worth the wait; a fast answer that misquotes or misattributes the author is a failure. The user expects to wait a few seconds for grounding. There is no "skip retrieval to be quick" mode.
 
@@ -55,7 +62,7 @@ The distillate in `evidence.jsonl` is **the index, not the final source of truth
    - Book (`user_file`) → re-open the local file at the chapter/page in `locator`.
    - Book (`public_only`) → re-fetch the sample/preview page if the passage is in it.
 2. **Local raw cache** — if live fetch fails, read the saved `raw/<id>.srt` / `raw/<id>.md` (present by default for transcripts and article text; books only if archived) and pull the passage there.
-3. **Stored distillate quote** — if both fail, use the `quote` from `evidence.jsonl` and **flag it**: "from cached evidence (<date>); source not re-reachable now, may be stale."
+3. **Stored distillate quote** — if both fail, use the `quote` from `clone.py get . --ids <id>` and **flag it**: "from cached evidence (<date>); source not re-reachable now, may be stale."
 
 **Fidelity rule:** if the live text **differs** from the stored distillate, trust the **live** text — quote it, and silently prefer it (optionally note the correction if it changes the substance). Never present a distilled paraphrase as a verbatim quote when the real passage is one fetch away.
 
@@ -65,7 +72,7 @@ The distillate in `evidence.jsonl` is **the index, not the final source of truth
 
 When the answer draws on something the author actually said, **show it and link to the source at the exact moment**:
 
-1. Pull the backing evidence entries from `evidence.jsonl` (match on `topic`/`context`/wording).
+1. Pull the backing evidence rows via `clone.py` (`query`/`fts`/`get`, match on `topic`/`context`/wording).
 2. Quote the author **verbatim** (no paraphrase inside quote marks). **If the source language differs from the user's chat language, lead with a faithful translation of the quote into the user's language** (so the whole answer reads in their language), **and always keep the verbatim original alongside it** — on an `оригинал:`/`original:` sub-line. Never replace the author's real words with a translation: the deep-link verifies the *original*, and a translated string inside quote marks presented as-if-verbatim is a fabricated quote. (If the source is already in the user's language, show the single verbatim quote — no translation line.) See `language.md` → "Quoting the author in CHAT mode".
 3. Append a **source link**:
    - **Video/audio** → use the entry's `deeplink` (it opens at `t_start`, i.e. the minute the author starts speaking on this). Show the human time too.
@@ -108,7 +115,7 @@ Format predictions clearly, e.g.:
 
 - **Recency wins on conflicts.** When documented views conflict, weight the **most recent** — it's the author's current position; treat older takes as superseded (name the shift if relevant). Evidence carries dates; use them.
 - **Documented ≠ predicted.** Never present an extrapolation as something the author actually said.
-- **No fabricated quotes.** Only quote from `evidence.jsonl`, verbatim. If asked "did he say X?" and there's no evidence, say so.
+- **No fabricated quotes.** Only quote evidence returned by `clone.py`, verbatim. If asked "did he say X?" and a `search`/`fts` returns nothing, say so.
 - **Respect coverage gaps.** If `manifest.json` flags a domain as thin, lower confidence and say the corpus is sparse there.
 - **It's a model of public output, not the person's mind.** The clone imitates how the author reasons *in what they published* — a "ghost" mimicking their text, not their actual thinking (much of which is unspoken and never reaches a source). It can sound exactly like them and still be wrong. If the user treats the clone as the literal author (decisions, endorsements, anything consequential), remind them it's an interpretive, lossy model from public sources.
 
@@ -146,4 +153,4 @@ Every CHAT-mode answer follows this structure:
 - "How faithful are you?" / "Spot-check yourself" → run a few fresh held-out probes (see `reference/06-evaluation.md`): predict a position the author actually stated, compare to the real quote, report match/contradiction with the honest "smoke test, not proof" caveat. Good to offer before the clone is used for anything consequential.
 - **"What would <author> have said in <year>?" / "early vs current view on X"** → use the §10 Evolving-views timeline and evidence dates: answer from the position that was **current as of that year**, not today's. If the view shifted, name both ends with dates. Don't blend an old take with a new one.
 - "Update the clone" → **EP-store clones (v2):** run the **delta cycle** instead of a full rebuild — `ep_context.py` (load main_db's entities + vector map as pressure) → extract the new source's EPs (grounded, routed) → `ep_normalize` → `ep_smoke` (dry-run until clean) → `ep_merge` (append-only). main_db only grows; nothing is overwritten. Non-EP clones → re-enter BUILD mode to add sources. See `reference/07-ep-store.md`.
-- **Query the EP-store by entity (v2):** when gathering priors, use `ep/entities.jsonl` to map the question's entities → their vectors, pull the relevant EPs, then ground each EP's `backing` evidence ids **live** exactly as below. EP is the index; `evidence.jsonl` + the live source stay the ground truth.
+- **Query the EP-store by entity (v2):** when gathering priors, use `ep/entities.jsonl` to map the question's entities → their vectors, pull the relevant EPs, then ground each EP's `backing` evidence ids **live** exactly as below. EP is the index; the evidence rows (via `clone.py get`) + the live source stay the ground truth.

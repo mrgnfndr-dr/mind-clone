@@ -58,11 +58,16 @@ Default is **fast**: read each source once and extract the distillate into `evid
 - **Books** → processed **chapter by chapter** (extract-on-the-fly, so volume is fine — the book collapses into distilled evidence, not stored whole). Use a user-supplied legally-owned file or public material only; cite by chapter/page (no deep-link). Often the richest playbook source. Never pirate.
 - **Raw transcripts/text are saved by default** (`raw/<id>.srt` + `raw/<id>.md`); no flag needed. **Books are the one exception** — only the per-chapter distillate is kept by default (size + copyright); `--archive-raw` opts into keeping more book text.
 - **Report every gap — never leave a silent one.**
-→ writes `evidence.jsonl` + `raw/<id>.srt`/`raw/<id>.md` (books excepted)
+- **Load into the table store:** after emitting `evidence.jsonl`, run
+  `python <skill>/scripts/clone.py import .` (validates on write — bad `kind`/FK rejected) then
+  `python <skill>/scripts/manifest.py .` to (re)generate `MANIFEST.md`. From here on, the data is
+  queried through `clone.py`, never read raw.
+→ writes `evidence.jsonl` + `raw/<id>.srt`/`raw/<id>.md` (books excepted), then `clone.db` + `MANIFEST.md`
 
 ### Phase 4 — COGNITIVE MODEL (the brain)
 Load **`reference/03-cognitive-model.md`** and **`templates/cognitive-model.md`**.
-Mine the harvested corpus for: worldview axioms, mental models/frameworks, causal beliefs (belief→cause→consequence graph), decision heuristics, strong stances, antipatterns (what they reject & why), domains of confidence, characteristic reasoning moves, and evolving views. Reconstruct concrete **reasoning traces** showing *how* the author got from premise to conclusion. Separate documented patterns from noise; cite evidence IDs for every claim. **Keep the model lean** — a thin, well-cited index over the evidence, not an elaborate theory; the heavy lifting happens at answer time via retrieval + live-grounding, so prefer letting the clone retrieve a raw quote over inventing unsupported structure. **Tag every entry with a confidence weight (`H/M/L`) and, when a view is time-bound, an `as of <year>` / evolving-view timeline** — so the clone leans on strong claims, hedges weak ones, and answers "as of when?" correctly.
+Mine the harvested corpus **via `clone.py`** (`stats --by kind` for shape, `query`/`fts` for
+themes — don't dump the whole table) for: worldview axioms, mental models/frameworks, causal beliefs (belief→cause→consequence graph), decision heuristics, strong stances, antipatterns (what they reject & why), domains of confidence, characteristic reasoning moves, and evolving views. Reconstruct concrete **reasoning traces** showing *how* the author got from premise to conclusion. Separate documented patterns from noise; cite evidence IDs for every claim. **Keep the model lean** — a thin, well-cited index over the evidence, not an elaborate theory; the heavy lifting happens at answer time via retrieval + live-grounding, so prefer letting the clone retrieve a raw quote over inventing unsupported structure. **Tag every entry with a confidence weight (`H/M/L`) and, when a view is time-bound, an `as of <year>` / evolving-view timeline** — so the clone leans on strong claims, hedges weak ones, and answers "as of when?" correctly.
 → writes `cognitive-model.md`, `reasoning-traces.md`, `persona.md`
 
 > **EP-store (optional v2, additive).** With `--ep`, also emit the belief-graph edges into an append-only relation layer under `ep/` (entities + vectors grouped in folders, every EP grounded with `backing:` evidence ids). The belief-graph section of `cognitive-model.md` then becomes a *render* of `ep/`, and later sources update the clone incrementally (a reconciled *delta*) instead of a full rebuild. Off by default — old clones are unaffected. Spec + commands: **`reference/07-ep-store.md`**.
@@ -78,7 +83,7 @@ Hold out 5–10 evidence entries where the author states a clear, checkable posi
 → writes `evaluation.md`
 
 ### Phase 5 — FINALIZE
-Write `manifest.json` (author, slug, name variants, counts, chat_language, build date, coverage gaps, `has_playbook`, `faithfulness`). Give the user a build summary: # sources by type, # quotes, whether a playbook was built, the faithfulness result (with its "indicative only" caveat), coverage gaps, and how to start chatting with the clone.
+Write `manifest.json` (author, slug, name variants, counts, chat_language, build date, coverage gaps, `has_playbook`, `faithfulness`). Ensure `clone.db` + `MANIFEST.md` are built and in sync (`clone.py validate .`, `manifest.py . --verify`). Give the user a build summary: # sources by type, # quotes, whether a playbook was built, the faithfulness result (with its "indicative only" caveat), coverage gaps, and how to start chatting with the clone.
 → writes `manifest.json`
 
 ---
@@ -86,7 +91,7 @@ Write `manifest.json` (author, slug, name variants, counts, chat_language, build
 ## CHAT mode
 
 Load **`reference/04-clone-runtime.md`**.
-Load `cognitive-model.md`, `reasoning-traces.md`, `evidence.jsonl` (and `playbook.md` if it exists) for the requested author, then answer by reasoning *through* the author's models. `evidence.jsonl` is the **index**: for the 1–3 sources actually backing an answer, the clone re-opens the source **live** to quote the real passage (ladder: live fetch → `raw/` cache → stored quote), so citations stay faithful and self-correct any harvest drift. Three output contracts:
+Load `cognitive-model.md`, `reasoning-traces.md`, `MANIFEST.md` (and `playbook.md` if it exists) for the requested author — **never the whole evidence table**. Reason *through* the author's models, and pull only the relevant evidence slice via `clone.py` (`query`/`fts`/`get`) per the two-role retrieve→analyze loop. The table is the **index**: for the 1–3 sources actually backing an answer, the clone re-opens the source **live** to quote the real passage (ladder: live fetch → `raw/` cache → stored quote via `clone.py get`), so citations stay faithful and self-correct any harvest drift. Three output contracts:
 - **How-to / "give me the steps" / "what's his method for X"** → answer from `playbook.md`: the author's concrete steps, tactics, numbers, and scripts, **cited verbatim with deep-links to the exact minute** (multiple links if several sources cover it; plain URL for text).
 - **Advice / solve a task** → reason in the author's frameworks, ground in documented beliefs, and **cite the author verbatim with a deep-link to the exact minute**.
 - **Predict a position on a new topic** → map the topic to nearest known beliefs via the belief graph, extrapolate, and **state confidence + which beliefs drove the prediction**, clearly labeled as inference vs documented.
@@ -95,12 +100,20 @@ Load `cognitive-model.md`, `reasoning-traces.md`, `evidence.jsonl` (and `playboo
 
 ## Database layout (per author, in the user's project)
 
+The canonical store is a **SQLite table store** (`clone.db`). The `*.jsonl` files are the
+**harvest emit / interchange format** — the LLM writes rows as JSONL, then `clone.py import`
+validates and loads them into `clone.db` (validation-on-write: CHECK enums, FK, NOT NULL).
+**The LLM never reads `clone.db` or the raw `*.jsonl` directly** — it reads `MANIFEST.md`
+(the contract) and pulls slices via `scripts/clone.py`. See `ARCHITECTURE.md` for the invariants.
+
 ```
 clones/<author-slug>/
+  clone.db               CANONICAL truth — SQLite: sources + evidence tables, FTS5, CHECK/FK enforced
+  MANIFEST.md            the LLM↔table contract — GENERATED from clone.db (fields, enums, commands, recipes)
   manifest.json          build metadata, name variants, chat_language, coverage gaps
-  sources.jsonl          canonical source registry (one JSON object per line)
+  sources.jsonl          source registry — emit/interchange format, imported into clone.db
+  evidence.jsonl         distillate — emit/interchange format, imported into clone.db
   sources.md             human-readable source table
-  evidence.jsonl         dated, attributed quotes/chunks with source id + locator  (always — the distillate)
   ep/                    append-only relation layer (v2, only with --ep): entities.jsonl + <group>/<vector>.Ep.md
   raw/<id>.md            full clean text per source — saved by default (books excepted)
   raw/<id>.srt           full timecoded transcript (audio/video) — saved by default; makes any passage deep-linkable
@@ -109,9 +122,10 @@ clones/<author-slug>/
   playbook.md            the author's procedural methodology: steps, tactics, numbers, scripts  (only if the author teaches one)
   evaluation.md          held-out faithfulness smoke test: probes, cold predictions, real quotes, score
   persona.md             bio, domains, voice notes (supports the brain, secondary)
+  runs/<id>/             per-intent retrieve→analyze artifacts (intent.md, retrieval.md, choice.md)
 ```
 
-All paths are relative to the **user's current working directory**, so the clone DB ships with the user's project, not inside this skill.
+All paths are relative to the **user's current working directory**, so the clone DB ships with the user's project, not inside this skill. `clone.db` is the working store; commit a `clone.sql` (`sqlite3 clone.db .dump`) as a diffable mirror if version-controlling clones.
 
 ---
 
