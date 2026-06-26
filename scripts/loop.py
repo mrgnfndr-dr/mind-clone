@@ -11,7 +11,7 @@ Cycle:  intent "<q>"  ->  sources  ->  map <src>  ->  select <src> <vecs>  ->  c
 The interpretation step reads runs/<id>/delivery.md and writes the answer; it may
 cite ONLY ep ids physically present in delivery.md (A4 — enforced in Phase 3).
 """
-import sqlite3, sys, os, json, re
+import sqlite3, sys, os, json, re, shutil
 
 # the contour speaks UTF-8 regardless of console codepage (Cyrillic/any-language EPs)
 try:
@@ -138,14 +138,51 @@ def cmd_compile():
 
 def cmd_fts():
     if not ARGS: die('fts needs a query:  fts "pricing value"')
-    q = " ".join(ARGS)
+    # OR the terms (recall: any term matches) and rank by bm25 — a multi-word query
+    # must not be implicit-AND (that misses paraphrases). Sanitize to plain tokens so
+    # FTS5 operators in user text can't break the query.
+    terms = [t for t in re.split(r"\W+", " ".join(ARGS).lower()) if t]
+    if not terms: die("fts needs at least one word")
+    match = " OR ".join(f'"{t}"' for t in terms)
     rows = db().execute(
         "SELECT e.id,e.meta_id,e.vector,e.text FROM ep_fts f JOIN ep e ON e.id=f.id "
-        "WHERE ep_fts MATCH ? LIMIT 20", (q,)).fetchall()
+        "WHERE ep_fts MATCH ? ORDER BY bm25(ep_fts) LIMIT 20", (match,)).fetchall()
     for r in rows:
         print(f"  [{r['id']}] {r['meta_id']}/{r['vector']}: {r['text'][:90]}")
-    print(f"-- {len(rows)} hits (recall only — read before selecting; A9)")
+    print(f"-- {len(rows)} hits, best-ranked first (recall only — read before selecting; A9)")
     hint("map <source>", "get <id,...>")
+
+def cmd_runs():
+    """List the runs (read-only). The GC keeps the contour's run dir from growing forever."""
+    if not os.path.isdir(RUNS): print("(no runs yet)"); return
+    cur = cur_run()
+    for d in sorted((x for x in os.listdir(RUNS) if x.isdigit()), key=int):
+        intent = ""
+        ip = os.path.join(RUNS, d, "intent.md")
+        if os.path.exists(ip): intent = open(ip, encoding="utf-8").read().strip().splitlines()[0][:70]
+        pin = " 📌" if os.path.exists(os.path.join(RUNS, d, "pin")) else ""
+        cur_mark = " (current)" if d == cur else ""
+        print(f"  {d}{pin}{cur_mark}  {intent}")
+
+def cmd_pin():
+    """pin <id> — mark a run so gc never deletes it (e.g. a reusable retrieval)."""
+    if not ARGS: die("pin needs a run id:  pin 0007")
+    d = os.path.join(RUNS, ARGS[0])
+    if not os.path.isdir(d): die(f"no run {ARGS[0]}")
+    open(os.path.join(d, "pin"), "w").close()
+    print(f"pinned run {ARGS[0]} (gc will keep it)")
+
+def cmd_gc():
+    """gc [N] — keep the N most recent runs (default 20) + any pinned, delete the rest."""
+    keep = int(ARGS[0]) if (ARGS and ARGS[0].isdigit()) else 20
+    if not os.path.isdir(RUNS): print("(no runs)"); return
+    runs = sorted((x for x in os.listdir(RUNS) if x.isdigit()), key=int)
+    pinned = {d for d in runs if os.path.exists(os.path.join(RUNS, d, "pin"))}
+    unpinned = [d for d in runs if d not in pinned]
+    drop = unpinned[:-keep] if len(unpinned) > keep else []
+    for d in drop:
+        shutil.rmtree(os.path.join(RUNS, d))
+    print(f"gc: {len(runs)-len(drop)} kept ({len(pinned)} pinned), {len(drop)} deleted")
 
 def cmd_get():
     if not ARGS: die("get needs ids:  get e_s001_01,e_s001_02")
@@ -331,7 +368,8 @@ def cmd_verify():
 CMDS = {"init": cmd_init, "intent": cmd_intent, "sources": cmd_sources, "map": cmd_map,
         "select": cmd_select, "compile": cmd_compile, "fts": cmd_fts, "get": cmd_get,
         "verify": cmd_verify, "render": cmd_render, "import": cmd_import,
-        "context": cmd_context, "smoke": cmd_smoke}
+        "context": cmd_context, "smoke": cmd_smoke,
+        "runs": cmd_runs, "pin": cmd_pin, "gc": cmd_gc}
 
 if CMD not in CMDS:
     die(f"unknown command '{CMD}'.", *CMDS)
