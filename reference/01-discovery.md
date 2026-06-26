@@ -12,7 +12,7 @@ Build the set of query handles. Public figures appear under many forms:
 - **Affiliations as anchors**: every company/role/project, current and past. Searching "<name> <company>" surfaces interviews and talks that bare-name search misses.
 - **Co-occurrence anchors**: co-founders, frequent interviewers, podcasts they recur on, conferences.
 
-Confirm the identity map with the user if there's ambiguity (common name, multiple people). Save the variants — they go into `manifest.json` and are reused in CHAT mode.
+Confirm the identity map with the user if there's ambiguity (common name, multiple people). Save the variants — they go into `config.json` (state) and are reused in CHAT mode.
 
 ## Step 2 — Multi-modal sweep
 
@@ -61,10 +61,10 @@ Before closing discovery, run an explicit "what's missing?" pass: a channel not 
 
 ## Step 4 — Write the source registry
 
-Append one JSON object per source to `clones/<slug>/sources.jsonl`:
+Each source becomes a **`meta` row**, emitted as a `_t:"meta"` line in the harvest delta and loaded via `loop.py import` (never a persisted `sources.jsonl`):
 
 ```json
-{"id":"s001","date":"2024-03-15","type":"youtube","voice":"primary","title":"Fireside: building <company>","url":"https://...","outlet":"<channel>","summary":"One-line what it covers","duration_min":42,"transcript_available":true,"status":"pending"}
+{"_t":"meta","id":"s001","date":"2024-03-15","type":"youtube","title":"Fireside: building <company>","url":"https://...","outlet":"<channel>","duration_min":42,"hash":"<raw content hash>","raw_path":"raw/s001.srt"}
 ```
 
 - `id`: stable, sequential (`s001`…). Never reused.

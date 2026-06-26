@@ -1,9 +1,16 @@
 # EP-store (v2) — the append-only relation layer
 
-> **Status: additive v2.** The EP-store sits *alongside* `evidence.jsonl` and the
-> existing `cognitive-model.md`. Clones built before v2 keep working unchanged. New
-> clones (and `--ep` updates) gain this layer. It does **not** replace grounding:
-> every EP points back at evidence ids, and CHAT-mode live-grounding is unchanged.
+> **Status: canonical.** The EP point IS the unit of canon — it lives as a row in the
+> `ep` table of `clone.db`, reached only through the contour. There is no separate
+> `evidence.jsonl` or `cognitive-model.md`; the "brain" is `render brain` over these rows.
+> Grounding is unchanged: every EP carries `text` + `backing` + a deep-link, and CHAT-mode
+> live-grounding re-opens the real source. This doc specifies the EP **format** and the
+> **append-only delta cycle** for updates.
+>
+> **Integration gap (in progress):** the pipeline scripts (`ep_context/normalize/smoke/
+> merge`) still operate on `ep/` *files* (their original format). They need porting to
+> read/write the `ep` table via the contour. Until then, treat the delta cycle below as the
+> intended design; bulk loads go through `loop.py import`.
 
 ## What it is
 

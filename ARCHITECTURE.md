@@ -34,12 +34,13 @@ A9. **Retrieval ≠ selection.** `regex`/`fts`/keyword — это **механи
 
 S1. Движок таблиц: **SQLite** через `sqlite3` из Python stdlib. Ноль установки,
     `CHECK`-enum + FK + NOT NULL + транзакции + FTS5. Один `clone.db` на клон.
-S2. Слой доступа: **`clone.py`** (stdlib) — подкоманды `query` / `stats` / `search` /
-    `fts` / `get` / `validate` / `import`. Каждая возвращает срез, не таблицу.
-S3. Запись: **типизированный loader** (`import`) — валидация на `INSERT` в транзакции.
-    Битые значения отклоняются движком, не ловятся постфактум.
-S4. Манифест: **`manifest.py`** генерирует `MANIFEST.md` из живой БД; `--verify` падает
-    при дрейфе (хэш в манифесте ≠ хэш схемы БД).
+S2. Слой доступа = **контур `loop.py`** (stdlib, единственный интерфейс) — drill-down
+    `intent`/`sources`/`map`/`select`/`compile`, плюс `fts`/`get`/`import`/`render`/`verify`.
+    Каждая команда возвращает срез + подсказку следующей; неизвестная → громкая ошибка.
+S3. Запись: **`import`** — валидация на `INSERT` в транзакции (CHECK kind / FK / NOT NULL).
+    Битые строки отклоняются движком с причиной и логируются, не ловятся постфактум.
+S4. Манифест: **`render manifest`** генерирует контракт из живой БД на лету (JIT) — не
+    хранимый файл, дрейф невозможен by construction (A5).
 S5. Git: `clone.db` — рабочий артефакт; коммитится детерминированный
     `sqlite3 .dump → clone.sql` как diffable-зеркало.
 S6. Язык: все персистентные артефакты — на английском; диалог — на языке пользователя.
@@ -134,9 +135,9 @@ V10. Прогнать `build_db.py` + `manifest.py` по всем клонам; 
 
 ## 8. ГЛОССАРИЙ АРТЕФАКТОВ
 
-- `clone.db` — таблицы-истина (SQLite).
-- `clone.sql` — diff-зеркало для git.
-- `MANIFEST.md` — контракт LLM↔таблица, генерируется из БД.
-- `runs/<id>/intent.md|retrieval.md|choice.md` — прогон цикла, открытый псевдо-reasoning.
-- `clone.py` / `manifest.py` / `build_db.py` — слой доступа / генератор / загрузчик.
-- `cognitive-model.md` — дистиллят-«мозг», единственное помимо манифеста, что всегда в контексте.
+- `clone.db` — таблицы-истина (SQLite): `meta` + `ep` (+ `ep_fts`). Один центр.
+- `loop.py` — **контур**, единственный интерфейс: read (drill-down) + write (`import`) + `render` + `verify`.
+- `render manifest` — контракт LLM↔таблица, генерируется из БД на лету (не файл).
+- `runs/<id>/intent.md · selection.tsv · delivery.md · answer.md · log.jsonl` — прогон цикла, артефакты на диске.
+- `render brain` / `render playbook` / `render sources` — «мозг» / метод / реестр как JIT-вью (не хранимые файлы).
+- `config.json` — состояние (chat_language, варианты имени, заметки о пробелах).

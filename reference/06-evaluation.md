@@ -18,16 +18,16 @@ A cheap, honest sanity test: does the clone actually reproduce the author's real
 
 ## What the result means (calibration, not a grade)
 
-- **Contradictions are the signal that matters** — they reveal where the model invents a position the author doesn't hold. Investigate each: usually an over-reached inference in `cognitive-model.md` or a recency/conflict that was mis-resolved. Fix the model (tighten or remove the offending edge), then re-probe.
-- **Misses in a domain** usually mean **thin coverage** there → lower the clone's confidence in that domain (note it in `manifest.json` coverage gaps), don't paper over it.
+- **Contradictions are the signal that matters** — they reveal where the model invents a position the author doesn't hold. Investigate each: usually an over-reached EP relation or a recency/conflict that was mis-resolved. Fix the EP (tighten or remove the offending relation), then re-probe.
+- **Misses in a domain** usually mean **thin coverage** there → lower the clone's confidence in that domain (note it in `config.json` coverage gaps), don't paper over it.
 - **A high match rate is not a guarantee** — it only covers the probes you happened to pick. Say so in the summary.
 - Domains that score badly here should directly **lower confidence** in CHAT mode for that area.
 
 ## Output
 
-- `evaluation.md` — the probes, each held-out question, the clone's cold prediction, the real quote, and the verdict; plus the headline score and a one-line honest caveat.
-- `manifest.json` — `faithfulness: {probes: N, match, partial, miss, contradiction, date}` and any domains flagged low-confidence.
-- Build summary — one line: `Faithfulness (smoke test): 7/10 match, 1 contradiction (see evaluation.md). Indicative only.`
+- A **faithfulness log** in `runs/<id>/` — the probes, each held-out question, the clone's cold prediction, the real EP `text`, and the verdict; plus the headline score and a one-line honest caveat. (A log of an operation, not a stored prose file.)
+- `config.json` — any domains flagged low-confidence from the result.
+- Build summary — one line: `Faithfulness (smoke test): 7/10 match, 1 contradiction (see the run log). Indicative only.`
 
 ## In CHAT mode
 
