@@ -156,6 +156,44 @@ def cmd_get():
     for r in rows:
         print(f"[{r['id']}] {r['meta_id']}/{r['vector']} ({r['kind']}): {r['text']}\n  → {r['deeplink'] or ''}")
 
+_META_COLS = ("id","hash","type","title","url","outlet","date","duration_min","lang","raw_path")
+_EP_COLS   = ("id","meta_id","grp","vector","kind","subject","relation","object",
+              "text","t_start","deeplink","confidence","as_of","backing")
+
+def cmd_import():
+    """Write path = a transaction that emits a LOG (not a stored duplicate).
+    Reads a delta .jsonl (one row per line; `_t:"meta"` for a source row, else an EP).
+    Validation is on write (CHECK kind / FK meta_id / NOT NULL) — bad rows are rejected
+    by the engine with a reason, never silently. Prints loaded/rejected + why."""
+    if not ARGS: die("import needs a delta file:  import delta.jsonl")
+    path = ARGS[0]
+    if not os.path.exists(path): die(f"no such file: {path}")
+    con = db()
+    loaded = {"meta": 0, "ep": 0}; rejected = []
+    for ln, line in enumerate(open(path, encoding="utf-8"), 1):
+        line = line.strip()
+        if not line: continue
+        r = json.loads(line); t = r.get("_t", "ep")
+        try:
+            if t == "meta":
+                con.execute(f"INSERT OR REPLACE INTO meta({','.join(_META_COLS)}) "
+                            f"VALUES({','.join('?'*len(_META_COLS))})", [r.get(k) for k in _META_COLS])
+                loaded["meta"] += 1
+            else:
+                con.execute(f"INSERT INTO ep({','.join(_EP_COLS)}) "
+                            f"VALUES({','.join('?'*len(_EP_COLS))})", [r.get(k) for k in _EP_COLS])
+                con.execute("INSERT INTO ep_fts(id,text,subject,object) VALUES(?,?,?,?)",
+                            (r.get("id"), r.get("text"), r.get("subject"), r.get("object")))
+                loaded["ep"] += 1
+            con.commit()
+        except (sqlite3.IntegrityError, sqlite3.Error) as e:
+            con.rollback(); rejected.append((ln, r.get("id"), str(e)))
+    print(f"import: loaded meta={loaded['meta']} ep={loaded['ep']}, rejected={len(rejected)}")
+    for ln, rid_, why in rejected:
+        print(f"  REJECT L{ln} {rid_}: {why}")
+    rid = cur_run()
+    if rid: log(rid, {"cmd": "import", "loaded": loaded, "rejected": [list(x) for x in rejected]})
+
 def cmd_render():
     """JIT representations — built from the tables on demand, printed to stdout,
     NEVER stored. Replaces the old persisted sources.md / cognitive-model.md /
@@ -215,7 +253,7 @@ def cmd_verify():
 
 CMDS = {"init": cmd_init, "intent": cmd_intent, "sources": cmd_sources, "map": cmd_map,
         "select": cmd_select, "compile": cmd_compile, "fts": cmd_fts, "get": cmd_get,
-        "verify": cmd_verify, "render": cmd_render}
+        "verify": cmd_verify, "render": cmd_render, "import": cmd_import}
 
 if CMD not in CMDS:
     die(f"unknown command '{CMD}'.", *CMDS)
