@@ -4,13 +4,11 @@
 > `ep` table of `clone.db`, reached only through the contour. There is no separate
 > `evidence.jsonl` or `cognitive-model.md`; the "brain" is `render brain` over these rows.
 > Grounding is unchanged: every EP carries `text` + `backing` + a deep-link, and CHAT-mode
-> live-grounding re-opens the real source. This doc specifies the EP **format** and the
-> **append-only delta cycle** for updates.
->
-> **Integration gap (in progress):** the pipeline scripts (`ep_context/normalize/smoke/
-> merge`) still operate on `ep/` *files* (their original format). They need porting to
-> read/write the `ep` table via the contour. Until then, treat the delta cycle below as the
-> intended design; bulk loads go through `loop.py import`.
+> live-grounding re-opens the real source. This doc specifies the EP **shape** (a row in the
+> `ep` table) and the **append-only delta cycle** — all through the contour: `context`
+> (pressure) → `smoke` (dry-run) → `import` (append). The old file-based scripts (`ep_*.py`,
+> `.Ep.md` vectors, `entities.jsonl`) are retired; their semantics now live in the contour
+> over the table.
 
 ## What it is
 
@@ -110,38 +108,38 @@ against). `route`/`new-vector` are buffer-only routing hints; merge strips them.
 
 - One **canonical id** per node, **kebab-case ASCII** (single naming convention for
   the whole store): `viktor-savin`, `higgsfield`, `go-to-market`.
-- `entities.jsonl` maps surface forms onto the canon:
-  `{"canon":"viktor-savin","aliases":["savin viktor","в. савин"],"vectors":[…]}`
-- Aliases may be any surface form (incl. non-Latin); they fold onto the canon during
-  normalization. This is what makes `[viktor savin] == [savin viktor]`.
+- Entities are the **distinct `subject`/`object` values in the `ep` table** — no separate
+  registry. `context` lists them as the canonical set to reuse; `smoke` flags a delta entity
+  not seen before so the LLM folds it onto an existing one (or keeps it if truly new).
 
 ---
 
-## The delta cycle (how a new source enters main_db)
+## The delta cycle (how a new source enters the `ep` table)
+
+All through the contour (`loop.py`) — no separate file scripts:
 
 ```
 raw source
   │
-  ▼  (1) EXTRACT under pressure          ← LLM, but fed main_db's context
-  │      `python scripts/ep_context.py`  dumps known entities + vector map;
-  │      paste it into the extraction prompt so the delta is written in the
-  │      base's language (reuse entities/vectors; new-vector only if truly new).
-  │      Output: ep/_delta/<src>.Ep.md  (each EP grounded with backing: + a route/new-vector)
-  ▼  (2) NORMALIZE                        ← deterministic
-  │      `python scripts/ep_normalize.py ep/_delta/<src>.Ep.md --write`
-  │      folds entity surface-forms onto canonical ids; flags unknowns.
-  ▼  (2b) REPLACE (if normalize flagged a stray duplicate)
-  │      `python scripts/ep_replace.py ep/_delta/<src>.Ep.md "higgsfield ai":"higgsfield" --write`
-  ▼  (3) SMOKE                            ← deterministic, READ-ONLY, writes nothing
-  │      `python scripts/ep_smoke.py ep/_delta/<src>.Ep.md`
-  │      reports: ungrounded EPs, bad routes, dangling entities, conflicts,
-  │      and a merge preview (N add-to-existing / M new-vector / K new-group).
-  │      Exit 0 = clean. Fix the delta and re-smoke until clean.
-  ▼  (4) MERGE                            ← deterministic, APPEND-ONLY
-         `python scripts/ep_merge.py ep/_delta/<src>.Ep.md`
-         appends EPs into ep/<group>/<vector>.Ep.md (creating vectors/groups as
-         routed), recomputes density, updates entities.jsonl. main_db only grows.
+  ▼  (1) EXTRACT under pressure          ← LLM, fed the base's context
+  │      `loop.py <slug> context`  dumps known entities + the vector map, so the delta
+  │      is written in the base's language (reuse entities/vectors; new vector only if
+  │      truly new). Output: a delta .jsonl — one EP per line, each grounded
+  │      (`text` + `backing`/`deeplink`) and routed (`grp`/`vector`).
+  ▼  (2) SMOKE                            ← deterministic, READ-ONLY, writes nothing
+  │      `loop.py <slug> smoke <delta.jsonl>`
+  │      reports: ungrounded EPs, bad kind/conf, id collisions, dangling source,
+  │      route-vs-new-vector, new entities, + a merge preview. Exit 0 = clean. Fix & re-smoke.
+  ▼  (3) IMPORT (= merge)                 ← validation-on-write, APPEND-ONLY
+         `loop.py <slug> import <delta.jsonl>`
+         inserts EP rows (a new `grp/vector` is created implicitly); the table only grows;
+         bad rows rejected with a reason → log.
 ```
+
+Entity normalization is handled by **pressure** (`context` surfaces canonical entities to
+reuse) + **smoke** (warns when a delta entity wasn't seen before — fold it or keep it if
+truly new). **Density is JIT** — the count of EPs sharing a `subject+relation` in a vector,
+computed by `render brain`, never stored.
 
 ### Routing rule (step 1, the LLM's only judgement call)
 
@@ -156,7 +154,7 @@ genuinely new domain?                        -> new-vector:<new-group>/<name>
 Never force an EP into a vector it doesn't semantically belong to — a clean new vector
 beats a polluted old one.
 
-### Append-only invariants (enforced by `ep_merge`, checked by `ep_smoke`)
+### Append-only invariants (enforced by `import`, checked by `smoke`)
 
 - main_db supports exactly two operations: **ADD-EP** and **CREATE-VECTOR**.
 - **No delete, no overwrite, no de-dup.** Similar signals accumulate; `density` rises.

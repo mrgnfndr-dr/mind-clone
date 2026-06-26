@@ -156,6 +156,83 @@ def cmd_get():
     for r in rows:
         print(f"[{r['id']}] {r['meta_id']}/{r['vector']} ({r['kind']}): {r['text']}\n  → {r['deeplink'] or ''}")
 
+_KINDS = {'belief','heuristic','framework','stance','antipattern','procedure',
+          'reasoning','anecdote','prediction','axiom','relation','observation'}
+
+def _entities(con):
+    e = set()
+    for col in ("subject", "object"):
+        for r in con.execute(f"SELECT DISTINCT {col} FROM ep WHERE {col} IS NOT NULL AND {col}<>''"):
+            e.add(r[0])
+    return e
+
+def cmd_context():
+    """PRESSURE for extracting a new source's delta: the entities + vector map that
+    already exist, so new EPs reuse canonical entities/vectors instead of inventing
+    near-duplicates. (Table-native replacement for the old ep_context.py.)"""
+    con = db()
+    ents = sorted(_entities(con))
+    print("== KNOWN ENTITIES (reuse these canonical ids; don't invent near-duplicates) ==")
+    print(", ".join(ents) if ents else "(none yet — first ingest)")
+    print("\n== VECTOR MAP (route EPs here when they fit; new vector only if truly new) ==")
+    cur = None
+    rows = con.execute("SELECT grp,vector,COUNT(*) n FROM ep GROUP BY grp,vector ORDER BY grp,vector").fetchall()
+    for r in rows:
+        if r["grp"] != cur: print(f"[{r['grp']}]"); cur = r["grp"]
+        print(f"  {r['grp']}/{r['vector']}  ({r['n']} ep)")
+    if not rows: print("(no vectors yet — first ingest)")
+    hint("extract the delta routed to these, then: smoke <delta.jsonl>")
+
+def cmd_smoke():
+    """Dry-run a delta against the table. Reports problems, writes NOTHING (read-only).
+    Table-native ep_smoke: grounding / kind / conf / id-collision / dangling source /
+    route-vs-new-vector + a merge preview. Exit 1 if any ERROR."""
+    if not ARGS: die("smoke needs a delta file:  smoke delta.jsonl")
+    path = ARGS[0]
+    if not os.path.exists(path): die(f"no such file: {path}")
+    con = db()
+    vectors = {f"{r['grp']}/{r['vector']}" for r in con.execute("SELECT DISTINCT grp,vector FROM ep")}
+    groups  = {r[0] for r in con.execute("SELECT DISTINCT grp FROM ep")}
+    ids     = {r[0] for r in con.execute("SELECT id FROM ep")}
+    metas   = {r[0] for r in con.execute("SELECT id FROM meta")}
+    ents    = _entities(con)
+    errors, warns = [], []
+    add_existing = new_vec = new_grp = 0
+    seen_vec = set(); delta_meta = set()
+    for ln, line in enumerate(open(path, encoding="utf-8"), 1):
+        line = line.strip()
+        if not line: continue
+        r = json.loads(line)
+        if r.get("_t") == "meta": delta_meta.add(r.get("id")); continue
+        eid = r.get("id")
+        if not r.get("text"): errors.append(f"L{ln} {eid}: no text — ungrounded EP")
+        if not (r.get("backing") or r.get("deeplink") or r.get("t_start") is not None):
+            errors.append(f"L{ln} {eid}: no backing/deeplink/t_start — ungrounded")
+        if r.get("kind") not in _KINDS: errors.append(f"L{ln} {eid}: bad kind {r.get('kind')!r}")
+        if r.get("confidence") and r["confidence"] not in ("H","M","L"):
+            errors.append(f"L{ln} {eid}: bad confidence {r.get('confidence')!r} (H|M|L)")
+        if eid in ids: errors.append(f"L{ln} {eid}: id already in table (collision)")
+        if r.get("meta_id") not in metas and r.get("meta_id") not in delta_meta:
+            errors.append(f"L{ln} {eid}: meta_id {r.get('meta_id')!r} not in table — import its source first")
+        grp, vec = r.get("grp"), r.get("vector")
+        if not grp or not vec:
+            errors.append(f"L{ln} {eid}: no grp/vector — merge can't place it")
+        else:
+            tag = f"{grp}/{vec}"
+            if tag in vectors: add_existing += 1
+            elif tag not in seen_vec:
+                seen_vec.add(tag); new_vec += 1
+                if grp not in groups: new_grp += 1; groups.add(grp)
+        for ent in (r.get("subject"), r.get("object")):
+            if ent and ent not in ents:
+                warns.append(f"L{ln}: entity {ent!r} not seen before — fold to an existing one or keep if truly new")
+    for e in errors: print("ERROR ", e)
+    for w in warns[:30]: print("WARN  ", w)
+    if len(warns) > 30: print(f"WARN   … +{len(warns)-30} more")
+    print(f"\nmerge preview: {add_existing} add-to-existing · {new_vec} new-vector · {new_grp} new-group")
+    print("CLEAN — safe to import" if not errors else f"{len(errors)} ERROR(S) — fix before import")
+    sys.exit(1 if errors else 0)
+
 _META_COLS = ("id","hash","type","title","url","outlet","date","duration_min","lang","raw_path")
 _EP_COLS   = ("id","meta_id","grp","vector","kind","subject","relation","object",
               "text","t_start","deeplink","confidence","as_of","backing")
@@ -253,7 +330,8 @@ def cmd_verify():
 
 CMDS = {"init": cmd_init, "intent": cmd_intent, "sources": cmd_sources, "map": cmd_map,
         "select": cmd_select, "compile": cmd_compile, "fts": cmd_fts, "get": cmd_get,
-        "verify": cmd_verify, "render": cmd_render, "import": cmd_import}
+        "verify": cmd_verify, "render": cmd_render, "import": cmd_import,
+        "context": cmd_context, "smoke": cmd_smoke}
 
 if CMD not in CMDS:
     die(f"unknown command '{CMD}'.", *CMDS)
