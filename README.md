@@ -97,24 +97,25 @@ Everything is saved under your current project, not inside the skill — so the 
 
 ```
 clones/<author-slug>/
-  clone.db             canonical store — SQLite (sources + evidence tables); queried via scripts/clone.py
-  MANIFEST.md          the LLM↔table contract — generated from clone.db
-  manifest.json        build metadata, name variants, chat language, coverage gaps
-  sources.jsonl        source registry — emit format, imported into clone.db
-  sources.md           human-readable source table
-  evidence.jsonl       distillate (dated, attributed quotes + timestamps/deep-links) — emit format, imported into clone.db
-  raw/<id>.md          full clean text per source — saved by default (books excepted)
-  raw/<id>.srt         full timecoded transcript (audio/video) — saved by default; any passage stays deep-linkable
-  cognitive-model.md   the brain
-  reasoning-traces.md  worked reconstructions of the author's reasoning
-  playbook.md          the author's procedural methodology — only if they teach one
-  evaluation.md        held-out faithfulness smoke test (probes, cold predictions, real quotes, score)
-  persona.md           bio, domains, voice notes
+  clone.db        CANONICAL — SQLite: two tables, meta + ep (+ ep_fts). The one center.
+  raw/<id>.srt    timecoded transcript (audio/video) — source material, referenced by meta.raw_path + hash
+  raw/<id>.md     clean text per source — source material (books excepted)
+  runs/<id>/      per-question contour artifacts: intent.md · selection.tsv · delivery.md · answer.md · log.jsonl
+  config.json     state only: chat language, name variants, coverage-gap notes
 ```
+
+The **only interface is the contour** (`scripts/loop.py`): the LLM never reads `clone.db` or
+the raw store directly. The source table, the cognitive map, the playbook, and the manifest are
+**`render` views** computed on demand — never stored. There is no `evidence.jsonl`, brain `.md`,
+or `manifest.json`; those would be copies of the canon.
 
 ## How it's built
 
-`SKILL.md` orchestrates; detailed methodology lives in `reference/` (loaded on demand) and output shapes in `templates/`. It borrows proven ideas: a persisted evidence base + source registry (à la deep-research pipelines), signal-vs-noise pattern extraction (à la style-extraction skills), multi-modal name-variant sweeps (OSINT discovery), and a causal belief graph for extrapolation.
+`SKILL.md` orchestrates; detailed methodology lives in `reference/` (loaded on demand). Build
+writes EP rows through the contour (`import`, validation → log); the brain is the relation
+overlay on those rows (`render brain`). It borrows proven ideas: a grounded evidence base (every
+EP carries `text` + `backing` + deep-link), signal-vs-noise pattern extraction, multi-modal
+name-variant sweeps (OSINT discovery), and a causal belief graph for extrapolation.
 
 ## Ethics
 
