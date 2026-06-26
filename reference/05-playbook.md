@@ -2,7 +2,7 @@
 
 Sibling to Phase 4. Where `cognitive-model.md` captures **how the author thinks**, the playbook captures **what the author tells people to do** — the concrete, step-by-step methodology they teach. Build it when the corpus contains how-to / instructional content.
 
-Input: the evidence table (`clone.db`, queried via `scripts/clone.py` — built from `evidence.jsonl`) + `raw/*` (run the build with `--archive-raw` so step-level detail survives distillation). Output: `playbook.md` (use `templates/playbook.md`).
+Input: the corpus via the contour (`loop.py`: `fts`/`map`/`get`) + `raw/*` (re-read transcripts so step-level detail — exact numbers, sequences, verbatim scripts — survives). Output: **`kind:"procedure"` EP points** (each step/number/script a grounded EP with deep-link); surfaced by **`render playbook`**, not a stored `playbook.md`.
 
 **Re-mine the raw transcripts.** Distillation in Phase 3 optimizes for *reasoning*, so it can drop the exact numbers, sequences, and verbatim scripts a playbook lives on. Transcripts/text are saved to `raw/` by default, so **re-read `raw/<id>.srt` / `raw/<id>.md` for procedural detail** the distillate missed, and pull the precise `t_start` for any step from the `.srt` so every step gets an exact-minute deep-link. **Books** are the exception — only their distillate is kept by default; if a book wasn't archived, work from its evidence-table rows (`clone.py get`/`fts`) and **note in the Coverage section that the book's step-level coverage is limited to distilled evidence**.
 

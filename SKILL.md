@@ -47,7 +47,6 @@ Enumerate name variants and affiliations, then run a multi-modal web sweep (arti
 → emits `meta` rows (a transient delta) → `loop.py <slug> import <delta.jsonl>` (validated on write → log)
 
 ### Phase 2 — SOURCE TABLE (review gate)
-Load **`templates/sources-table.md`**.
 Present the user a table of every source found: **Date · Type · Source · Summary · URL** via `loop.py <slug> render sources`. This is the review checkpoint — the user can prune, add, or approve before the expensive harvest.
 → `render sources` (JIT view from `meta`; nothing stored)
 
@@ -65,7 +64,7 @@ Default is **fast**: read each source once and extract the distillate as **EP po
 → `ep` rows in `clone.db` (via `import` → log) + `raw/<id>.srt`/`raw/<id>.md` (books excepted)
 
 ### Phase 4 — COGNITIVE MODEL (the brain)
-Load **`reference/03-cognitive-model.md`** and **`templates/cognitive-model.md`**.
+Load **`reference/03-cognitive-model.md`**.
 Mine the corpus **via the contour** (`fts` / `map` / `render brain` — never dump the whole
 table) and enrich each EP point with its **relation overlay** (`subject –relation→ object`)
 and its `group`/`vector` placement, so the belief graph, frameworks, heuristics, stances,
@@ -84,7 +83,7 @@ a full rebuild.
 > **`reference/07-ep-store.md`**.
 
 ### Phase 4b — PLAYBOOK (procedural methodology, when the author teaches one)
-Load **`reference/05-playbook.md`** and **`templates/playbook.md`**.
+Load **`reference/05-playbook.md`**.
 If the corpus contains how-to / instructional content, capture the author's **concrete methodology** as `kind:"procedure"` EP points: ordered steps, tactics, checklists, numbers/thresholds, recommended tools, verbatim scripts/templates, and "don't do this" mistakes — each grounded by its `text` + deep-link. This is *what to do* (vs Phase 4's *how the author thinks*). If the author is a pure thinker with **no** prescribed methodology, record "no methodology found" in coverage gaps.
 → `procedure`-kind `ep` rows; surfaced by `render playbook` (no stored file)
 
