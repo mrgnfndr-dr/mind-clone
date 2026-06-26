@@ -27,19 +27,18 @@ Three levels (markdown-light — no graph DB, per the skill's minimalism):
 
 ```
 GROUP  ──contains──>  VECTOR  ──contains──>  EP (points)
-(folder)             (*.Ep.md file)         (one relation per line)
+(grp column)         (vector column)        (one row each)
 ```
 
-- **Group** — a folder of vectors. Approximates a broad region. **Holds no EPs directly.**
-- **Vector** — one `.Ep.md` file whose **name approximates the cluster of EPs inside**
-  (its `# centroid:` spells the approximation out). Only vectors hold EPs.
-- **EP** — one relation, with its dimensions, evidence backing, confidence, and time.
+- **Group** (`grp`) — a broad region. Approximates a theme. Holds no EPs directly.
+- **Vector** (`vector`) — a cluster whose name approximates the EPs inside it. Only vectors hold EPs.
+- **EP** — one row: a relation (`subject –relation→ object`) + grounded `text`, evidence `backing`, confidence, and time.
 
-The EP-store is **main_db**: the accumulated, append-only graph for the author.
+The EP-store is **the `ep` table**: the accumulated, append-only graph for the author.
 
 ## Why it earns its place (vs just `cognitive-model.md`)
 
-- **Incremental updates.** A new source becomes a *delta* reconciled against main_db,
+- **Incremental updates.** A new source becomes a *delta* reconciled against the `ep` table,
   not a reason to re-derive the whole model.
 - **Entity discipline.** One canonical id per node ⇒ sources actually connect; no
   `Higgsfield` / `Higgsfield AI` / `HF` fragmentation.
@@ -47,45 +46,27 @@ The EP-store is **main_db**: the accumulated, append-only graph for the author.
   hand-assigned `H/M/L` and the existing "3+ independent sources" rule.
 - **Append-only ⇒ free provenance & rollback.** No destructive edits, ever.
 
-`cognitive-model.md` stays the human-readable, single-read brain; its belief-graph
-section is a **render** of the EP-store, not a parallel hand-maintained copy.
+`render brain` is the human-readable, single-read view of these rows; the belief graph is a
+**render** of the `ep` table, not a parallel hand-maintained copy.
 
 ---
 
-## On-disk layout
+## Where it lives — the `ep` table (no files)
+
+There is no `ep/` folder, no `.Ep.md` vectors, no `entities.jsonl`. An EP is a **row** in the
+`ep` table of `clone.db` (schema in `scripts/schema.sql`): **group** → `grp`, **vector** →
+`vector`, the triple → `subject`/`relation`/`object`, the grounded extract → `text`, plus
+`backing` / `t_start` / `deeplink` / `confidence` / `as_of`. A delta is a transient `.jsonl`
+(one EP per line) staged for `smoke` → `import`; nothing persists outside the table.
+
+## The EP shape (one delta line → one row)
+
+A delta line is a JSON object; on import it becomes a row. The conceptual EP:
 
 ```
-clones/<slug>/
-  evidence.jsonl                    # unchanged — grounding index, deep-links, live-fetch
-  cognitive-model.md                # unchanged role — readable brain; belief graph = render of ep/
-  ep/                               # main_db (append-only)
-    entities.jsonl                  # canonical entity registry (canon + aliases + vectors)
-    worldview/                      # a GROUP
-      distribution-vs-product.Ep.md # a VECTOR
-    business-ops/
-      hiring-strategy.Ep.md
-    _delta/                         # staging buffer (NOT a group — leading underscore)
-      s042.Ep.md                    # one un-merged delta being checked
-```
-
-Anything under `ep/` whose path contains a part starting with `_` is **not** a group
-(reserved: `_delta` staging). Vectors are `*.Ep.md`.
-
-## The `.Ep.md` grammar (single source of truth: `scripts/ep_lib.py`)
-
-Header (vector metadata):
-
-```
-# group: worldview
-# vector: distribution-vs-product
-# centroid: how distribution dominates product outcomes
-# entities: distribution, product, go-to-market
-```
-
-One EP per line, pipe-delimited:
-
-```
-[distribution] -(beats)-> [product] | because:products die unshipped | backing:e0007,e0012 | conf:H | as_of:2025 | density:3 | thesis
+[distribution] -(beats)-> [product] | because:products die unshipped | backing:e0007 | conf:H | as_of:2025
+   subject       relation   object      text / dimension                 backing       confidence  as_of
+   routed by the `grp` + `vector` fields (a new grp/vector is created implicitly on import)
 ```
 
 | Field | Meaning |
@@ -95,14 +76,13 @@ One EP per line, pipe-delimited:
 | `backing:e0007,e0012` | **required** — evidence ids this EP rests on (the grounding bridge) |
 | `conf:H\|M\|L` | confidence (same scale as cognitive-model) |
 | `as_of:2025` | time tag (recency wins at query) |
-| `density:N` | # of accumulated signals sharing this head+rel (set by merge) |
-| `route:group/vector` | merge target — append to an **existing** vector |
-| `new-vector:group/vector` | merge target — **create** this vector then append |
-| `thesis` (flag) | marks an author **opinion**, not a bare fact |
+| `density` | **JIT** — count of EPs sharing this `subject+relation` in the vector; computed by `render brain`, never stored |
+| `grp` / `vector` | placement — `import` appends to that vector, creating it (and the group) implicitly if new |
+| `thesis`/`kind` | `kind` marks the EP type (belief/stance/procedure/…); a stance is an author **opinion**, not a bare fact |
 
-**Hard rule: no EP without `backing:`.** An ungrounded EP is forbidden — it would let
-the graph drift from the person (the exact failure the minimalism principle warns
-against). `route`/`new-vector` are buffer-only routing hints; merge strips them.
+**Hard rule: no EP without grounding (`backing`/`deeplink`/`t_start`).** An ungrounded EP is
+forbidden — it would let the graph drift from the person (the exact failure the minimalism
+principle warns against). `smoke` rejects ungrounded EPs before `import`.
 
 ## Entities
 
@@ -156,42 +136,34 @@ beats a polluted old one.
 
 ### Append-only invariants (enforced by `import`, checked by `smoke`)
 
-- main_db supports exactly two operations: **ADD-EP** and **CREATE-VECTOR**.
+- the `ep` table supports exactly two operations: **ADD-EP** and **CREATE-VECTOR**.
 - **No delete, no overwrite, no de-dup.** Similar signals accumulate; `density` rises.
 - Conflicts (same head+rel, different tail) **coexist**; recency wins at query time
   (consistent with the skill's recency rule and the cognitive-model's "Open tensions").
-- `replace` and all edits happen on the **delta buffer only** — never on main_db.
+- `replace` and all edits happen on the **delta buffer only** — never on the `ep` table.
 
 ---
 
 ## Command contracts (the LLM needs only these I/O shapes)
 
-The scripts are universal black boxes — the LLM doesn't need their internals or even
-their language, only what to feed in. Each script's `--help` is its contract.
+The contour commands are the whole interface — the LLM only needs what to feed in.
 
 | Command | In → Out |
 |---|---|
-| `ep_context.py` | `ep/` → entity list + vector map (paste as extraction pressure) |
-| `ep_normalize.py <delta> --write` | delta + registry → delta with canon entities |
-| `ep_replace.py <delta> "from":"to" --write` | delta + pair(s) → delta with renamed entity |
-| `ep_smoke.py <delta>` | delta + main_db → report + exit code (read-only) |
-| `ep_merge.py <delta>` | clean delta → appended into main_db |
+| `loop.py <slug> context` | the `ep` table → entity list + vector map (extraction pressure) |
+| `loop.py <slug> smoke <delta.jsonl>` | delta + table → report + exit code (read-only, writes nothing) |
+| `loop.py <slug> import <delta.jsonl>` | clean delta → appended into the `ep` table (validation → log) |
 
-## Tests
+(Entity folding/rename is handled at extraction time under `context` pressure and flagged by
+`smoke`; there is no separate normalize/replace step.)
 
-`python tests/test_ep.py` — deterministic, no LLM. Covers format round-trip,
-normalization, replacement, smoke checks (ungrounded/bad-route/clean), and
-append-only merge incl. signal accumulation → density. Run it after any change to
-`scripts/ep_*.py`.
+## Build & CHAT integration
 
-## Build & CHAT integration (additive)
-
-- **BUILD (Phase 4):** when `--ep` is set, after writing `cognitive-model.md`, emit the
-  belief-graph edges as the initial main_db: one delta per source (or one bulk delta),
-  routed into vectors, then merged. The belief-graph section of `cognitive-model.md`
-  becomes a render of `ep/`. See `03-cognitive-model.md`.
-- **Update the clone:** runs the delta cycle above instead of a full rebuild. See
-  `04-clone-runtime.md`.
+- **BUILD (Phase 4):** extract each source's belief-graph edges / heuristics / stances as EP
+  rows and `import` them — that *is* the brain. The belief-graph view is `render brain`. See
+  `03-cognitive-model.md`.
+- **Update the clone:** run the delta cycle above (`context → smoke → import`) instead of a
+  full rebuild. See `04-clone-runtime.md`.
 - **CHAT:** to gather priors for an answer, query the EP-store **by entity** (the
   registry maps entity → vectors), pull the relevant EPs, then ground their `backing`
   evidence ids live exactly as today. EP is the index; evidence stays the ground truth.
