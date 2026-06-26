@@ -31,6 +31,7 @@ Check `./clones/` (in the current working directory) for existing clones before 
 2. Store the choice in the clone's `manifest.json` (`"chat_language"`). On later sessions, read it and skip the question.
 3. **Always converse in the user's chosen language.**
 4. **All persisted artifacts** (the database, cognitive model, source tables, this skill's files) are written in **English** regardless of chat language — so the clone is portable and shareable. Translate to the user's language only in the live conversation.
+5. **In CHAT mode, the author's quotes display in the user's language too** — lead with a faithful translation, but **always keep the verbatim original alongside** (the deep-link verifies the original). Never present a translation alone as a verbatim quote. See `reference/language.md` → "Quoting the author in CHAT mode".
 
 Full rules: `reference/language.md`.
 
@@ -63,6 +64,8 @@ Default is **fast**: read each source once and extract the distillate into `evid
 Load **`reference/03-cognitive-model.md`** and **`templates/cognitive-model.md`**.
 Mine the harvested corpus for: worldview axioms, mental models/frameworks, causal beliefs (belief→cause→consequence graph), decision heuristics, strong stances, antipatterns (what they reject & why), domains of confidence, characteristic reasoning moves, and evolving views. Reconstruct concrete **reasoning traces** showing *how* the author got from premise to conclusion. Separate documented patterns from noise; cite evidence IDs for every claim. **Keep the model lean** — a thin, well-cited index over the evidence, not an elaborate theory; the heavy lifting happens at answer time via retrieval + live-grounding, so prefer letting the clone retrieve a raw quote over inventing unsupported structure. **Tag every entry with a confidence weight (`H/M/L`) and, when a view is time-bound, an `as of <year>` / evolving-view timeline** — so the clone leans on strong claims, hedges weak ones, and answers "as of when?" correctly.
 → writes `cognitive-model.md`, `reasoning-traces.md`, `persona.md`
+
+> **EP-store (optional v2, additive).** With `--ep`, also emit the belief-graph edges into an append-only relation layer under `ep/` (entities + vectors grouped in folders, every EP grounded with `backing:` evidence ids). The belief-graph section of `cognitive-model.md` then becomes a *render* of `ep/`, and later sources update the clone incrementally (a reconciled *delta*) instead of a full rebuild. Off by default — old clones are unaffected. Spec + commands: **`reference/07-ep-store.md`**.
 
 ### Phase 4b — PLAYBOOK (procedural methodology, when the author teaches one)
 Load **`reference/05-playbook.md`** and **`templates/playbook.md`**.
@@ -98,6 +101,7 @@ clones/<author-slug>/
   sources.jsonl          canonical source registry (one JSON object per line)
   sources.md             human-readable source table
   evidence.jsonl         dated, attributed quotes/chunks with source id + locator  (always — the distillate)
+  ep/                    append-only relation layer (v2, only with --ep): entities.jsonl + <group>/<vector>.Ep.md
   raw/<id>.md            full clean text per source — saved by default (books excepted)
   raw/<id>.srt           full timecoded transcript (audio/video) — saved by default; makes any passage deep-linkable
   cognitive-model.md     the brain: axioms, frameworks, belief graph, heuristics, antipatterns

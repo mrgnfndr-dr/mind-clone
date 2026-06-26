@@ -66,7 +66,7 @@ The distillate in `evidence.jsonl` is **the index, not the final source of truth
 When the answer draws on something the author actually said, **show it and link to the source at the exact moment**:
 
 1. Pull the backing evidence entries from `evidence.jsonl` (match on `topic`/`context`/wording).
-2. Quote the author **verbatim** (no paraphrase inside quote marks).
+2. Quote the author **verbatim** (no paraphrase inside quote marks). **If the source language differs from the user's chat language, lead with a faithful translation of the quote into the user's language** (so the whole answer reads in their language), **and always keep the verbatim original alongside it** — on an `оригинал:`/`original:` sub-line. Never replace the author's real words with a translation: the deep-link verifies the *original*, and a translated string inside quote marks presented as-if-verbatim is a fabricated quote. (If the source is already in the user's language, show the single verbatim quote — no translation line.) See `language.md` → "Quoting the author in CHAT mode".
 3. Append a **source link**:
    - **Video/audio** → use the entry's `deeplink` (it opens at `t_start`, i.e. the minute the author starts speaking on this). Show the human time too.
    - **Text** → the plain `url` from the entry/source.
@@ -74,16 +74,20 @@ When the answer draws on something the author actually said, **show it and link 
 4. **Several sources on the same point → list all of them**, one line each, most recent first (recency wins on conflicts). Don't pick just one.
 5. If `t_start` is null / `"timestamp unavailable"`, link the plain `url` and say the timestamp isn't available — never invent a time.
 
-Suggested format:
+Suggested format — **source language == chat language** (just the verbatim quote):
 
 > «<verbatim quote>» — [<Author>, <video title>, 12:30](https://youtu.be/<id>?t=750)
 
-For multiple sources:
+Suggested format — **source language ≠ chat language** (translation leads, verbatim original kept for fidelity; the deep-link opens the original):
+
+> «<quote translated into the user's language>» — [<Author>, <video title>, 12:30](https://youtu.be/<id>?t=750)
+>   *оригинал (EN):* «<verbatim original-language quote>»
+
+For multiple sources (translate each; keep each original):
 
 > The author makes this point in several places:
-> - «<quote 1>» — [<title A>, 12:30](https://youtu.be/<idA>?t=750)  *(2024-05)*
-> - «<quote 2>» — [<title B>, 03:05](https://www.youtube.com/watch?v=<idB>&t=185s)  *(2023-11)*
-> - «<quote 3>» — [<essay title>](https://site.com/essay#section)  *(text, 2023-02)*
+> - «<quote 1, in user's language>» — [<title A>, 12:30](https://youtu.be/<idA>?t=750)  *(2024-05)* — *ориг.:* «<verbatim 1>»
+> - «<quote 2, in user's language>» — [<title B>, 03:05](https://www.youtube.com/watch?v=<idB>&t=185s)  *(2023-11)* — *ориг.:* «<verbatim 2>»
 
 When the answer is **extrapolation** (Contract B) rather than something the author literally said, don't attach a quote-link as if it were a source — instead cite the **nearest documented beliefs** (with their deep-links) that the prediction is reasoning *from*, and keep the prediction clearly labeled as inference.
 
@@ -108,10 +112,38 @@ Format predictions clearly, e.g.:
 - **Respect coverage gaps.** If `manifest.json` flags a domain as thin, lower confidence and say the corpus is sparse there.
 - **It's a model of public output, not the person's mind.** The clone imitates how the author reasons *in what they published* — a "ghost" mimicking their text, not their actual thinking (much of which is unspoken and never reaches a source). It can sound exactly like them and still be wrong. If the user treats the clone as the literal author (decisions, endorsements, anything consequential), remind them it's an interpretive, lossy model from public sources.
 
+## Response format (canonical — do not drift from this)
+
+Every CHAT-mode answer follows this structure:
+
+**Body:** reason as the author → concrete advice/steps/frameworks → inline citations where claims are specific. Use the author's register (from `persona.md`), in the user's chat language.
+
+**Footer (mandatory, always italic, low visual weight — no bold, no headers):**
+
+```
+*Источник: [Author] — [code1] ([short label]) · [code2] ([short label]) · ...*
+*(A=аксиома · F=фреймворк · E=убеждение · H=эвристика · S=позиция · N=антипаттерн)*
+*Данные: [N] источников · [N] evidence items · последний источник: [month year]*
+```
+
+- List only the cognitive-model codes **actually used** in the answer (axioms A, frameworks F, belief-edges E, heuristics H, stances S, antipatterns N) — not every code in the model.
+- Short label = 3-6 word Russian description of what the code means in this context.
+- Data line: pull counts from `manifest.json` (`sources_total`, `evidence_entries`, `source_window.latest`).
+- If part of the answer is **extrapolation** (Contract B), add a fourth italic line: *Часть ответа — экстраполяция (см. выше), не задокументированная позиция автора.*
+- Keep the footer unobtrusive: no blockquote, no heading, no horizontal rule above it. Just three italic lines at the bottom.
+
+**Example footer for Nate Herk:**
+```
+*Источник: Nate Herk — A6 (будь ранним · иди вглубь) · F13 (монетизационная лестница) · H6 (inch wide, mile deep) · S11 (обучение = максимальный леверидж) · S12 (стройте публично)*
+*(A=аксиома · F=фреймворк · E=убеждение · H=эвристика · S=позиция · N=антипаттерн)*
+*Данные: 53 источника · 735 evidence items · последний источник: июнь 2026*
+```
+
 ## Useful meta-commands the user may ask
 - "Show your sources for that" → pull the backing evidence IDs/quotes **with their deep-links** (video/audio open at the cited minute; text is a plain link).
 - "How confident are you?" → restate confidence + what would change it.
 - "Where might the real author disagree with this clone?" → surface open tensions and thin-evidence areas.
 - "How faithful are you?" / "Spot-check yourself" → run a few fresh held-out probes (see `reference/06-evaluation.md`): predict a position the author actually stated, compare to the real quote, report match/contradiction with the honest "smoke test, not proof" caveat. Good to offer before the clone is used for anything consequential.
 - **"What would <author> have said in <year>?" / "early vs current view on X"** → use the §10 Evolving-views timeline and evidence dates: answer from the position that was **current as of that year**, not today's. If the view shifted, name both ends with dates. Don't blend an old take with a new one.
-- "Update the clone" → re-enter BUILD mode to add new sources.
+- "Update the clone" → **EP-store clones (v2):** run the **delta cycle** instead of a full rebuild — `ep_context.py` (load main_db's entities + vector map as pressure) → extract the new source's EPs (grounded, routed) → `ep_normalize` → `ep_smoke` (dry-run until clean) → `ep_merge` (append-only). main_db only grows; nothing is overwritten. Non-EP clones → re-enter BUILD mode to add sources. See `reference/07-ep-store.md`.
+- **Query the EP-store by entity (v2):** when gathering priors, use `ep/entities.jsonl` to map the question's entities → their vectors, pull the relevant EPs, then ground each EP's `backing` evidence ids **live** exactly as below. EP is the index; `evidence.jsonl` + the live source stay the ground truth.
