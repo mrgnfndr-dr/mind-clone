@@ -156,6 +156,41 @@ def cmd_get():
     for r in rows:
         print(f"[{r['id']}] {r['meta_id']}/{r['vector']} ({r['kind']}): {r['text']}\n  → {r['deeplink'] or ''}")
 
+def cmd_render():
+    """JIT representations — built from the tables on demand, printed to stdout,
+    NEVER stored. Replaces the old persisted sources.md / cognitive-model.md /
+    playbook.md / MANIFEST.md (all were duplicates of the canon)."""
+    what = ARGS[0] if ARGS else None
+    con = db()
+    if what == "sources":
+        for r in con.execute("SELECT id,date,type,outlet,title,url FROM meta ORDER BY date"):
+            print(f"- {r['id']}: {r['title'] or ''}\n    {r['type']} · {r['outlet'] or '—'} · {r['date'] or '—'} · {r['url']}")
+    elif what == "manifest":
+        print(f"# MANIFEST — generated JIT from {DB} (schema + live counts). The LLM reads this, not the table.")
+        for t in ("meta", "ep"):
+            n = con.execute(f"SELECT COUNT(*) FROM {t}").fetchone()[0]
+            cols = [c["name"] for c in con.execute(f"PRAGMA table_info({t})")]
+            print(f"\n## {t} ({n} rows): {', '.join(cols)}")
+        kinds = con.execute("SELECT kind,COUNT(*) n FROM ep GROUP BY kind ORDER BY n DESC").fetchall()
+        print("\n## ep.kind:", ", ".join(f"{r['kind']}={r['n']}" for r in kinds))
+        print("## commands:", " | ".join(CMDS))
+    elif what == "brain":
+        sid = ARGS[1] if len(ARGS) > 1 else None
+        q = ("SELECT grp,vector,subject,relation,object,text FROM ep"
+             + (" WHERE meta_id=?" if sid else "") + " ORDER BY grp,vector")
+        rows = con.execute(q, (sid,) if sid else ()).fetchall()
+        cur = None
+        for r in rows:
+            if r["grp"] != cur: print(f"\n[{r['grp']}]"); cur = r["grp"]
+            rel = f"{r['subject']} —{r['relation']}→ {r['object']}" if r["relation"] else (r["text"][:80] + "…")
+            print(f"  {r['vector']}: {rel}")
+    elif what == "playbook":
+        rows = con.execute("SELECT meta_id,vector,text,deeplink FROM ep WHERE kind='procedure' ORDER BY meta_id").fetchall()
+        if not rows: print("(no procedure EPs — this author teaches no extractable methodology, or none harvested)")
+        for r in rows: print(f"- {r['text']}  → {r['deeplink'] or ''}  [{r['meta_id']}/{r['vector']}]")
+    else:
+        die("render needs a view: render sources | manifest | brain [source] | playbook")
+
 _CITE = re.compile(r"\[(e_[a-z0-9_]+)\]")
 
 def cmd_verify():
@@ -180,7 +215,7 @@ def cmd_verify():
 
 CMDS = {"init": cmd_init, "intent": cmd_intent, "sources": cmd_sources, "map": cmd_map,
         "select": cmd_select, "compile": cmd_compile, "fts": cmd_fts, "get": cmd_get,
-        "verify": cmd_verify}
+        "verify": cmd_verify, "render": cmd_render}
 
 if CMD not in CMDS:
     die(f"unknown command '{CMD}'.", *CMDS)
