@@ -11,7 +11,7 @@ Cycle:  intent "<q>"  ->  sources  ->  map <src>  ->  select <src> <vecs>  ->  c
 The interpretation step reads runs/<id>/delivery.md and writes the answer; it may
 cite ONLY ep ids physically present in delivery.md (A4 — enforced in Phase 3).
 """
-import sqlite3, sys, os, json
+import sqlite3, sys, os, json, re
 
 # the contour speaks UTF-8 regardless of console codepage (Cyrillic/any-language EPs)
 try:
@@ -156,8 +156,31 @@ def cmd_get():
     for r in rows:
         print(f"[{r['id']}] {r['meta_id']}/{r['vector']} ({r['kind']}): {r['text']}\n  → {r['deeplink'] or ''}")
 
+_CITE = re.compile(r"\[(e_[a-z0-9_]+)\]")
+
+def cmd_verify():
+    """A4 gate: the answer (runs/<id>/answer.md) may cite ONLY ep ids physically
+    present in delivery.md. Anything else -> loud REJECT. Catches off-rail grounding."""
+    rid = cur_run() or die("no open run")
+    d = run_dir(rid)
+    ans, deliv = os.path.join(d, "answer.md"), os.path.join(d, "delivery.md")
+    if not os.path.exists(deliv): die("no delivery.md — compile first")
+    if not os.path.exists(ans): die("no answer.md — write the interpreted answer first, then verify")
+    delivered = set(_CITE.findall(open(deliv, encoding="utf-8").read()))
+    cited = _CITE.findall(open(ans, encoding="utf-8").read())
+    bad = sorted({c for c in cited if c not in delivered})
+    log(rid, {"cmd": "verify", "cited": len(cited), "bad": bad, "accepted": not bad and bool(cited)})
+    if not cited:
+        die("answer cites no ids — A4: no id, no claim. Ground every claim in a delivered [id].")
+    if bad:
+        die(f"REJECTED — cited ids not in delivery: {', '.join(bad)}. "
+            "You may cite ONLY EPs physically delivered this run (see delivery.md).")
+    print(f"ACCEPTED — {len(cited)} citation(s), all resolve to delivered EPs.")
+    hint("done — deliver answer.md to the user")
+
 CMDS = {"init": cmd_init, "intent": cmd_intent, "sources": cmd_sources, "map": cmd_map,
-        "select": cmd_select, "compile": cmd_compile, "fts": cmd_fts, "get": cmd_get}
+        "select": cmd_select, "compile": cmd_compile, "fts": cmd_fts, "get": cmd_get,
+        "verify": cmd_verify}
 
 if CMD not in CMDS:
     die(f"unknown command '{CMD}'.", *CMDS)
