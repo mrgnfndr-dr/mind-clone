@@ -6,6 +6,7 @@
 --         relation overlay (for navigation + extrapolation). Everything else
 --         (cognitive-model, playbook, evidence) is a JIT view over this.
 PRAGMA foreign_keys = ON;
+PRAGMA user_version = 1;   -- schema version; `loop.py migrate` applies migrations/NNN_*.sql with seq > this
 
 CREATE TABLE IF NOT EXISTS meta (
   id           TEXT PRIMARY KEY,                 -- source id, e.g. s001

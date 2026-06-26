@@ -251,7 +251,7 @@ def cmd_smoke():
         if eid in ids: errors.append(f"L{ln} {eid}: id already in table (collision)")
         if r.get("meta_id") not in metas and r.get("meta_id") not in delta_meta:
             errors.append(f"L{ln} {eid}: meta_id {r.get('meta_id')!r} not in table — import its source first")
-        grp, vec = r.get("grp"), r.get("vector")
+        grp, vec = _canon(r.get("grp")), _canon(r.get("vector"))   # canon as import will
         if not grp or not vec:
             errors.append(f"L{ln} {eid}: no grp/vector — merge can't place it")
         else:
@@ -260,7 +260,7 @@ def cmd_smoke():
             elif tag not in seen_vec:
                 seen_vec.add(tag); new_vec += 1
                 if grp not in groups: new_grp += 1; groups.add(grp)
-        for ent in (r.get("subject"), r.get("object")):
+        for ent in (_canon(r.get("subject")), _canon(r.get("object"))):
             if ent and ent not in ents:
                 warns.append(f"L{ln}: entity {ent!r} not seen before — fold to an existing one or keep if truly new")
     for e in errors: print("ERROR ", e)
@@ -274,6 +274,14 @@ _META_COLS = ("id","hash","type","title","url","outlet","date","duration_min","l
 _EP_COLS   = ("id","meta_id","grp","vector","kind","subject","relation","object",
               "text","t_start","deeplink","confidence","as_of","backing")
 
+def _canon(s):
+    """Canonical kebab id for grp/vector/subject/object: lowercase, ws/underscore -> hyphen,
+    collapse, strip. Unicode-safe (keeps Cyrillic etc.) — normalizes form only, so
+    'Go To Market' and 'go_to_market' land as the same 'go-to-market' (no casing/spacing dupes)."""
+    if not s: return s
+    s = re.sub(r"[\s_]+", "-", str(s).strip().lower())
+    return re.sub(r"-{2,}", "-", s).strip("-") or s
+
 def cmd_import():
     """Write path = a transaction that emits a LOG (not a stored duplicate).
     Reads a delta .jsonl (one row per line; `_t:"meta"` for a source row, else an EP).
@@ -283,17 +291,25 @@ def cmd_import():
     path = ARGS[0]
     if not os.path.exists(path): die(f"no such file: {path}")
     con = db()
-    loaded = {"meta": 0, "ep": 0}; rejected = []
+    urls = {u: i for i, u in con.execute("SELECT id,url FROM meta")}   # hygiene: dedup sources by url
+    loaded = {"meta": 0, "ep": 0}; rejected = []; hygiene = []
     for ln, line in enumerate(open(path, encoding="utf-8"), 1):
         line = line.strip()
         if not line: continue
         r = json.loads(line); t = r.get("_t", "ep")
         try:
             if t == "meta":
+                u = r.get("url")
+                if u in urls and urls[u] != r.get("id"):
+                    hygiene.append(f"L{ln} {r.get('id')}: duplicate source url (already {urls[u]}) — skipped")
+                    continue
                 con.execute(f"INSERT OR REPLACE INTO meta({','.join(_META_COLS)}) "
                             f"VALUES({','.join('?'*len(_META_COLS))})", [r.get(k) for k in _META_COLS])
+                if u: urls[u] = r.get("id")
                 loaded["meta"] += 1
             else:
+                for k in ("grp", "vector", "subject", "object"):   # canonicalize entity/vector ids
+                    if r.get(k): r[k] = _canon(r[k])
                 con.execute(f"INSERT INTO ep({','.join(_EP_COLS)}) "
                             f"VALUES({','.join('?'*len(_EP_COLS))})", [r.get(k) for k in _EP_COLS])
                 con.execute("INSERT INTO ep_fts(id,text,subject,object) VALUES(?,?,?,?)",
@@ -302,11 +318,34 @@ def cmd_import():
             con.commit()
         except (sqlite3.IntegrityError, sqlite3.Error) as e:
             con.rollback(); rejected.append((ln, r.get("id"), str(e)))
-    print(f"import: loaded meta={loaded['meta']} ep={loaded['ep']}, rejected={len(rejected)}")
+    print(f"import: loaded meta={loaded['meta']} ep={loaded['ep']}, rejected={len(rejected)}, hygiene={len(hygiene)}")
     for ln, rid_, why in rejected:
         print(f"  REJECT L{ln} {rid_}: {why}")
+    for h in hygiene:
+        print(f"  HYGIENE {h}")
     rid = cur_run()
-    if rid: log(rid, {"cmd": "import", "loaded": loaded, "rejected": [list(x) for x in rejected]})
+    if rid: log(rid, {"cmd": "import", "loaded": loaded,
+                      "rejected": [list(x) for x in rejected], "hygiene": hygiene})
+
+def cmd_migrate():
+    """migrate — apply migrations/NNN_*.sql with seq > the db's PRAGMA user_version, in order,
+    each in a transaction, bumping user_version. The schema-versioning framework (V9)."""
+    con = db()
+    cur = con.execute("PRAGMA user_version").fetchone()[0]
+    migdir = os.path.join(HERE, "migrations")
+    applied = []
+    if os.path.isdir(migdir):
+        for fn in sorted(os.listdir(migdir)):
+            m = re.match(r"^(\d+)_.*\.sql$", fn)
+            if not m: continue
+            seq = int(m.group(1))
+            if seq > cur:
+                con.executescript(open(os.path.join(migdir, fn), encoding="utf-8").read())
+                con.execute(f"PRAGMA user_version = {seq}")
+                con.commit()
+                applied.append(fn)
+    new = con.execute("PRAGMA user_version").fetchone()[0]
+    print(f"migrate: user_version {cur} → {new}; applied {len(applied)}: {', '.join(applied) or '(none)'}")
 
 def cmd_render():
     """JIT representations — built from the tables on demand, printed to stdout,
@@ -369,7 +408,7 @@ CMDS = {"init": cmd_init, "intent": cmd_intent, "sources": cmd_sources, "map": c
         "select": cmd_select, "compile": cmd_compile, "fts": cmd_fts, "get": cmd_get,
         "verify": cmd_verify, "render": cmd_render, "import": cmd_import,
         "context": cmd_context, "smoke": cmd_smoke,
-        "runs": cmd_runs, "pin": cmd_pin, "gc": cmd_gc}
+        "runs": cmd_runs, "pin": cmd_pin, "gc": cmd_gc, "migrate": cmd_migrate}
 
 if CMD not in CMDS:
     die(f"unknown command '{CMD}'.", *CMDS)
