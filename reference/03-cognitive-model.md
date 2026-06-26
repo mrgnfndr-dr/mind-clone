@@ -2,7 +2,7 @@
 
 This is the core of the skill. You are not summarizing *what the author said* — you are reconstructing *how the author thinks*, so the clone can reason about questions the author never addressed.
 
-Input: the evidence table (`clone.db`, queried via `scripts/clone.py` — built from `evidence.jsonl`) + `raw/*`. Output: `cognitive-model.md`, `reasoning-traces.md`, `persona.md` (use `templates/cognitive-model.md` and `templates/persona.md` for structure).
+Input: the corpus, reached **only through the contour** (`loop.py`: `fts` / `map` / `get` / `render brain`) + `raw/*`. Output: the **relation overlay on the `ep` rows** — each EP point gets its `subject –relation→ object`, its `group`/`vector` placement, a confidence (`H/M/L`) and (when time-bound) `as_of`. The "brain" (axioms, frameworks, belief graph, heuristics, stances, antipatterns, traces) is **`render brain`**, not a stored prose file. Refine grouping/relations incrementally via the EP append-only pipeline (`reference/07-ep-store.md`).
 
 ## Principle: capture reasoning, not slogans
 
@@ -75,5 +75,5 @@ Short: bio, current/past roles, domains of expertise, audience, and a few voice 
 
 ## Output quality bar
 
-- Designed for a single read: an agent should be able to internalize `cognitive-model.md` in one pass and start reasoning. Principle-first, with one sharp example each — not an exhaustive dump.
+- Designed for a single read: `render brain` should be internalizable in one pass and let an agent start reasoning. Principle-first, with one sharp example each — not an exhaustive dump.
 - Honest coverage note at the bottom: which domains are well-evidenced vs thin. This directly feeds confidence calibration in CHAT mode.

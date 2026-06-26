@@ -124,25 +124,30 @@ Rules:
 
 > **Reasoning-fidelity note:** because default mode discards full transcripts, reasoning traces built later can only draw on what's in `evidence.jsonl`. If faithful, re-derivable reasoning chains matter for this clone, run with **`--archive-raw`** so Phase 4 (and future updates) can re-read full context instead of re-fetching. Flag any trace step that is your reconstruction (connecting separate beliefs) vs the author's explicit chain.
 
-## Load into the table store (end of harvest)
+## Write into the store through the contour (end of harvest)
 
-`evidence.jsonl` / `sources.jsonl` are the **emit format**, not the canonical store. Once harvest
-is done (or after each incremental batch):
+> **Terminology:** throughout this doc the "distillate" / "evidence" is the **EP-point delta** —
+> a transient `.jsonl` (one EP per line: `meta_id, grp, vector, kind, text, t_start, deeplink,
+> backing, …`, plus `_t:"meta"` rows for sources). It is **thrown away after import**; the
+> canonical store is the `ep` + `meta` tables in `clone.db`.
+
+The delta is the **emit format**, not the canonical store. Once harvest is done (or after each
+incremental batch):
 
 ```
-python <skill>/scripts/clone.py import .     # validates on write: bad kind / dangling FK / missing field are REJECTED
-python <skill>/scripts/manifest.py .          # (re)generate MANIFEST.md from the live clone.db
+python -s <skill>/scripts/loop.py <slug> import <delta.jsonl>   # validation-on-write -> log
 ```
 
-- `import` builds `clone.db` (SQLite: CHECK-enum on `kind`, FK `evidence.source→sources.id`, NOT NULL,
-  FTS5). Legacy/dirty `kind` values are normalized (e.g. `causal-belief→causal`); anything still invalid
-  is reported, not silently dropped — fix it in the JSONL and re-import.
-- From here, **all access is through `clone.py`** (`query`/`fts`/`get`/`stats`); nothing reads the raw table.
-- `manifest.py --verify` must pass before the clone is used — it guarantees `MANIFEST.md` reflects the
-  current schema. See `ARCHITECTURE.md`.
+- `import` inserts into `clone.db` under CHECK-enum on `kind`, FK `ep.meta_id→meta.id`, NOT NULL,
+  FTS5. Invalid rows (bad `kind`, dangling source, missing field) are **rejected with a reason and
+  logged**, never silently dropped — fix them in the delta and re-import.
+- From here, **all access is through the contour** (`loop.py`: drill-down read, `render`, `get`);
+  nothing reads the raw table. There is no `MANIFEST.md` file — the contract is `render manifest`.
+- See `ARCHITECTURE.md` for invariants.
 
 ## Quality gates
 - Prefer **primary** + reasoning-rich sources (interviews, essays) over press blurbs.
-- Aim for **3+ independent sources** behind any belief that will enter the cognitive model.
-- After harvest, write a one-line coverage report: `extracted X / failed Y / not_transcribed Z (whisper skipped/declined)`. Gaps carry into `manifest.json`. Silent truncation is forbidden.
-- Confirm `clone.py validate .` reports `0 violations` and `manifest.py . --verify` says in sync.
+- Aim for **3+ independent sources** behind any belief that will enter the model.
+- After harvest, the `import` **log** is the coverage report: `loaded / rejected (+why)`. Plus a
+  one-line note on `failed Y / not_transcribed Z`. Gaps go into `config.json`. Silent truncation is forbidden.
+- Confirm the `import` log shows `rejected=0` (or every rejection explained and resolved).
