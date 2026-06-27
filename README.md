@@ -71,6 +71,7 @@ Think of it like making a really good study guide about *how someone thinks* —
 - **Receipts.** Every grounded claim is quoted and **deep-linked to the exact second** of the source. At answer time it re-opens the source live to quote the real passage, so citations don't drift from what the author actually said.
 - **Executable, not just inspirational.** If the author teaches a method, you get a real step-by-step playbook with their exact numbers and scripts — not vibes.
 - **Honest by design.** Public sources only. Predictions are labeled as predictions. Missing coverage is reported, never hidden. Quotes are never fabricated.
+- **Built on proven LLM principles.** Grounded retrieval over memorized facts. Traceability over fluency. Stated uncertainty over confident hallucination. The same ideas Andrej Karpathy argues every serious LLM system should follow.
 
 ## Under the hood (the technical version)
 
