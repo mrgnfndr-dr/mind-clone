@@ -1,0 +1,345 @@
+1
+00:00:00,000 --> 00:00:01,910
+ 
+I built a successful media company that
+
+2
+00:00:01,910 --> 00:00:01,920
+I built a successful media company that
+ 
+
+3
+00:00:01,920 --> 00:00:04,150
+I built a successful media company that
+uses custom AI to go and comb through
+
+4
+00:00:04,150 --> 00:00:04,160
+uses custom AI to go and comb through
+ 
+
+5
+00:00:04,160 --> 00:00:06,390
+uses custom AI to go and comb through
+Reddit comments to discover what content
+
+6
+00:00:06,390 --> 00:00:06,400
+Reddit comments to discover what content
+ 
+
+7
+00:00:06,400 --> 00:00:07,909
+Reddit comments to discover what content
+I should create. [music] This is
+
+8
+00:00:07,909 --> 00:00:07,919
+I should create. [music] This is
+ 
+
+9
+00:00:07,919 --> 00:00:10,870
+I should create. [music] This is
+actually insane. Reddit is a gold mine
+
+10
+00:00:10,870 --> 00:00:10,880
+actually insane. Reddit is a gold mine
+ 
+
+11
+00:00:10,880 --> 00:00:12,390
+actually insane. Reddit is a gold mine
+for customer insights. [music] And just
+
+12
+00:00:12,390 --> 00:00:12,400
+for customer insights. [music] And just
+ 
+
+13
+00:00:12,400 --> 00:00:13,990
+for customer insights. [music] And just
+a side note, even if you're just
+
+14
+00:00:13,990 --> 00:00:14,000
+a side note, even if you're just
+ 
+
+15
+00:00:14,000 --> 00:00:15,669
+a side note, even if you're just
+starting a business, this thing will
+
+16
+00:00:15,669 --> 00:00:15,679
+starting a business, this thing will
+ 
+
+17
+00:00:15,679 --> 00:00:17,020
+starting a business, this thing will
+work for you as well. Here's how this
+
+18
+00:00:17,020 --> 00:00:17,030
+work for you as well. Here's how this
+ 
+
+19
+00:00:17,030 --> 00:00:18,470
+work for you as well. Here's how this
+[music] works. It's going to go and
+
+20
+00:00:18,470 --> 00:00:18,480
+[music] works. It's going to go and
+ 
+
+21
+00:00:18,480 --> 00:00:20,790
+[music] works. It's going to go and
+target your dream clients inside of the
+
+22
+00:00:20,790 --> 00:00:20,800
+target your dream clients inside of the
+ 
+
+23
+00:00:20,800 --> 00:00:22,260
+target your dream clients inside of the
+different subreddits that they exist in.
+
+24
+00:00:22,260 --> 00:00:22,270
+different subreddits that they exist in.
+ 
+
+25
+00:00:22,270 --> 00:00:23,509
+different subreddits that they exist in.
+[music] It's going to go and comb
+
+26
+00:00:23,509 --> 00:00:23,519
+[music] It's going to go and comb
+ 
+
+27
+00:00:23,519 --> 00:00:25,189
+[music] It's going to go and comb
+through every single post and not just
+
+28
+00:00:25,189 --> 00:00:25,199
+through every single post and not just
+ 
+
+29
+00:00:25,199 --> 00:00:27,029
+through every single post and not just
+the posts themselves, but all of the
+
+30
+00:00:27,029 --> 00:00:27,039
+the posts themselves, but all of the
+ 
+
+31
+00:00:27,039 --> 00:00:28,810
+the posts themselves, but all of the
+nested comments within those posts.
+
+32
+00:00:28,810 --> 00:00:28,820
+nested comments within those posts.
+ 
+
+33
+00:00:28,820 --> 00:00:30,150
+nested comments within those posts.
+[music] Every single piece of content
+
+34
+00:00:30,150 --> 00:00:30,160
+[music] Every single piece of content
+ 
+
+35
+00:00:30,160 --> 00:00:31,910
+[music] Every single piece of content
+then passes through our AI, which we
+
+36
+00:00:31,910 --> 00:00:31,920
+then passes through our AI, which we
+ 
+
+37
+00:00:31,920 --> 00:00:33,510
+then passes through our AI, which we
+call the angle finder, which is going to
+
+38
+00:00:33,510 --> 00:00:33,520
+call the angle finder, which is going to
+ 
+
+39
+00:00:33,520 --> 00:00:35,670
+call the angle finder, which is going to
+go and find 13 different marketing
+
+40
+00:00:35,670 --> 00:00:35,680
+go and find 13 different marketing
+ 
+
+41
+00:00:35,680 --> 00:00:37,910
+go and find 13 different marketing
+angles to go and hit people with based
+
+42
+00:00:37,910 --> 00:00:37,920
+angles to go and hit people with based
+ 
+
+43
+00:00:37,920 --> 00:00:39,430
+angles to go and hit people with based
+on [music] the different insights that
+
+44
+00:00:39,430 --> 00:00:39,440
+on [music] the different insights that
+ 
+
+45
+00:00:39,440 --> 00:00:41,270
+on [music] the different insights that
+we gather from these subreddits. And so
+
+46
+00:00:41,270 --> 00:00:41,280
+we gather from these subreddits. And so
+ 
+
+47
+00:00:41,280 --> 00:00:43,350
+we gather from these subreddits. And so
+you're getting this massive database of
+
+48
+00:00:43,350 --> 00:00:43,360
+you're getting this massive database of
+ 
+
+49
+00:00:43,360 --> 00:00:44,950
+you're getting this massive database of
+customer sentiment [music] and how the
+
+50
+00:00:44,950 --> 00:00:44,960
+customer sentiment [music] and how the
+ 
+
+51
+00:00:44,960 --> 00:00:46,790
+customer sentiment [music] and how the
+trend line of your customers is changing
+
+52
+00:00:46,790 --> 00:00:46,800
+trend line of your customers is changing
+ 
+
+53
+00:00:46,800 --> 00:00:48,790
+trend line of your customers is changing
+so that you have the most up-to-date
+
+54
+00:00:48,790 --> 00:00:48,800
+so that you have the most up-to-date
+ 
+
+55
+00:00:48,800 --> 00:00:51,110
+so that you have the most up-to-date
+strategies every given month and are
+
+56
+00:00:51,110 --> 00:00:51,120
+strategies every given month and are
+ 
+
+57
+00:00:51,120 --> 00:00:52,869
+strategies every given month and are
+tapping into the core things people are
+
+58
+00:00:52,869 --> 00:00:52,879
+tapping into the core things people are
+ 
+
+59
+00:00:52,879 --> 00:00:54,709
+tapping into the core things people are
+talking about and [music] inserting your
+
+60
+00:00:54,709 --> 00:00:54,719
+talking about and [music] inserting your
+ 
+
+61
+00:00:54,719 --> 00:00:56,630
+talking about and [music] inserting your
+brand into those conversations. If you
+
+62
+00:00:56,630 --> 00:00:56,640
+brand into those conversations. If you
+ 
+
+63
+00:00:56,640 --> 00:00:57,910
+brand into those conversations. If you
+want to learn how this architecture
+
+64
+00:00:57,910 --> 00:00:57,920
+want to learn how this architecture
+ 
+
+65
+00:00:57,920 --> 00:00:59,590
+want to learn how this architecture
+works under the hood, well, you guessed
+
+66
+00:00:59,590 --> 00:00:59,600
+works under the hood, well, you guessed
+ 
+
+67
+00:00:59,600 --> 00:01:04,180
+works under the hood, well, you guessed
+it.
+
+68
+00:01:04,180 --> 00:01:04,190
+
+ 
+
+69
+00:01:04,190 --> 00:01:06,210
+
+>> [music]
+

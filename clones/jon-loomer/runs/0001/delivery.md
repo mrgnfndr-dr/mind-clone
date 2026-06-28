@@ -1,0 +1,8 @@
+# Delivery — run 0001
+> Interpret using ONLY these rows. Cite [id]; an id not here = no claim.
+
+- [e_s336_01] (s336/detailed-targeting · belief · conf H) The argument to abandon detailed targeting grows stronger by the day: Meta has removed far more interests and behaviors than it added, and studies show interests are not only incomplete but often inaccurate.  → https://www.youtube.com/watch?v=1j6-uQwsEJI&t=16s
+- [e_s336_02] (s336/detailed-targeting · observation · conf H) If you use detailed targeting while optimizing for conversions, Advantage detailed targeting is automatically turned on, so the audience is expanded and not as refined as you might think. There's also a push to go completely broad, removing all targeting but location.  → https://www.youtube.com/watch?v=1j6-uQwsEJI&t=34s
+- [e_s336_03] (s336/detailed-targeting · heuristic · conf H) Is detailed targeting dead? As long as it exists it's a case-by-case basis: split test it against going completely broad. If detailed targeting consistently beats broad, keep using it; if not, you may be overthinking targeting and should just go broad.  → https://www.youtube.com/watch?v=1j6-uQwsEJI&t=48s
+- [e_s336_04] (s336/broad-targeting · stance · conf H) Personally Jon has mostly abandoned detailed targeting. He still uses some remarketing for warm audiences, but his cold targeting approach is almost always going broad.  → https://www.youtube.com/watch?v=1j6-uQwsEJI&t=65s
+- [e_s157_03] (s157/detailed-targeting · belief · conf H) Jon generally recommends deprioritizing interests and behaviors anyway. The belief that Meta needs these inputs is a targeting myth.  → https://www.youtube.com/watch?v=T_bIWD9MEYU&t=45s

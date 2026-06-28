@@ -1,0 +1,4 @@
+{"cmd": "intent", "text": "How should a small creator grow on Instagram in 2025?"}
+{"cmd": "map", "source": "s002", "vectors": 14}
+{"cmd": "select", "source": "s002", "vectors": ["growth-advice"]}
+{"cmd": "compile", "eps": 7}

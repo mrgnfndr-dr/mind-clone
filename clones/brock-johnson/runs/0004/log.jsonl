@@ -1,0 +1,4 @@
+{"cmd": "intent", "text": "What is the number one reason people dont grow on Instagram?"}
+{"cmd": "select", "source": "s118", "vectors": ["niche"]}
+{"cmd": "select", "source": "s002", "vectors": ["niche"]}
+{"cmd": "compile", "eps": 2}

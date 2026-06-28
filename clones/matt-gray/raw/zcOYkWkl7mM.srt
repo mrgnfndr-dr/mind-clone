@@ -1,0 +1,4685 @@
+1
+00:00:00,080 --> 00:00:01,750
+ 
+If you open your calendar right now and
+
+2
+00:00:01,750 --> 00:00:01,760
+If you open your calendar right now and
+ 
+
+3
+00:00:01,760 --> 00:00:04,070
+If you open your calendar right now and
+you say, "I don't have time." Or you
+
+4
+00:00:04,070 --> 00:00:04,080
+you say, "I don't have time." Or you
+ 
+
+5
+00:00:04,080 --> 00:00:06,390
+you say, "I don't have time." Or you
+look at your Stripe balance and say, "I
+
+6
+00:00:06,390 --> 00:00:06,400
+look at your Stripe balance and say, "I
+ 
+
+7
+00:00:06,400 --> 00:00:08,470
+look at your Stripe balance and say, "I
+can't afford that." Then I'm going to be
+
+8
+00:00:08,470 --> 00:00:08,480
+can't afford that." Then I'm going to be
+ 
+
+9
+00:00:08,480 --> 00:00:09,910
+can't afford that." Then I'm going to be
+honest with you, you're not thinking
+
+10
+00:00:09,910 --> 00:00:09,920
+honest with you, you're not thinking
+ 
+
+11
+00:00:09,920 --> 00:00:11,910
+honest with you, you're not thinking
+like a millionaire. You're thinking like
+
+12
+00:00:11,910 --> 00:00:11,920
+like a millionaire. You're thinking like
+ 
+
+13
+00:00:11,920 --> 00:00:13,990
+like a millionaire. You're thinking like
+a prisoner. Because wealthy founders,
+
+14
+00:00:13,990 --> 00:00:14,000
+a prisoner. Because wealthy founders,
+ 
+
+15
+00:00:14,000 --> 00:00:15,589
+a prisoner. Because wealthy founders,
+well, they don't ask, "How much does it
+
+16
+00:00:15,589 --> 00:00:15,599
+well, they don't ask, "How much does it
+ 
+
+17
+00:00:15,599 --> 00:00:18,710
+well, they don't ask, "How much does it
+cost?" They ask, "What's the ROI if this
+
+18
+00:00:18,710 --> 00:00:18,720
+cost?" They ask, "What's the ROI if this
+ 
+
+19
+00:00:18,720 --> 00:00:21,029
+cost?" They ask, "What's the ROI if this
+works?" This one shift will either set
+
+20
+00:00:21,029 --> 00:00:21,039
+works?" This one shift will either set
+ 
+
+21
+00:00:21,039 --> 00:00:23,509
+works?" This one shift will either set
+you free or keep you stuck in a prison
+
+22
+00:00:23,509 --> 00:00:23,519
+you free or keep you stuck in a prison
+ 
+
+23
+00:00:23,519 --> 00:00:25,750
+you free or keep you stuck in a prison
+disguised as a business. And when this
+
+24
+00:00:25,750 --> 00:00:25,760
+disguised as a business. And when this
+ 
+
+25
+00:00:25,760 --> 00:00:27,349
+disguised as a business. And when this
+clicked for me, I went from working
+
+26
+00:00:27,349 --> 00:00:27,359
+clicked for me, I went from working
+ 
+
+27
+00:00:27,359 --> 00:00:29,990
+clicked for me, I went from working
+15-hour days in a business that stole my
+
+28
+00:00:29,990 --> 00:00:30,000
+15-hour days in a business that stole my
+ 
+
+29
+00:00:30,000 --> 00:00:31,910
+15-hour days in a business that stole my
+life to building two systemized
+
+30
+00:00:31,910 --> 00:00:31,920
+life to building two systemized
+ 
+
+31
+00:00:31,920 --> 00:00:34,069
+life to building two systemized
+companies that now run with less than 4
+
+32
+00:00:34,069 --> 00:00:34,079
+companies that now run with less than 4
+ 
+
+33
+00:00:34,079 --> 00:00:36,389
+companies that now run with less than 4
+hours of my time each day, giving me the
+
+34
+00:00:36,389 --> 00:00:36,399
+hours of my time each day, giving me the
+ 
+
+35
+00:00:36,399 --> 00:00:38,470
+hours of my time each day, giving me the
+freedom to grow a profitable media
+
+36
+00:00:38,470 --> 00:00:38,480
+freedom to grow a profitable media
+ 
+
+37
+00:00:38,480 --> 00:00:40,869
+freedom to grow a profitable media
+empire, travel the world, and never
+
+38
+00:00:40,869 --> 00:00:40,879
+empire, travel the world, and never
+ 
+
+39
+00:00:40,879 --> 00:00:42,630
+empire, travel the world, and never
+worry about money again. And so, I'm
+
+40
+00:00:42,630 --> 00:00:42,640
+worry about money again. And so, I'm
+ 
+
+41
+00:00:42,640 --> 00:00:45,030
+worry about money again. And so, I'm
+going to show you exactly how I did it.
+
+42
+00:00:45,030 --> 00:00:45,040
+going to show you exactly how I did it.
+ 
+
+43
+00:00:45,040 --> 00:00:47,110
+going to show you exactly how I did it.
+I'm Matt Gray. I build companies that
+
+44
+00:00:47,110 --> 00:00:47,120
+I'm Matt Gray. I build companies that
+ 
+
+45
+00:00:47,120 --> 00:00:48,790
+I'm Matt Gray. I build companies that
+scale without me because I learned the
+
+46
+00:00:48,790 --> 00:00:48,800
+scale without me because I learned the
+ 
+
+47
+00:00:48,800 --> 00:00:51,110
+scale without me because I learned the
+hard way that hustle doesn't equal
+
+48
+00:00:51,110 --> 00:00:51,120
+hard way that hustle doesn't equal
+ 
+
+49
+00:00:51,120 --> 00:00:53,510
+hard way that hustle doesn't equal
+freedom. Today I help founders replace
+
+50
+00:00:53,510 --> 00:00:53,520
+freedom. Today I help founders replace
+ 
+
+51
+00:00:53,520 --> 00:00:56,310
+freedom. Today I help founders replace
+chaos with systems and scale personal
+
+52
+00:00:56,310 --> 00:00:56,320
+chaos with systems and scale personal
+ 
+
+53
+00:00:56,320 --> 00:00:59,189
+chaos with systems and scale personal
+brands that sell while they sleep. Today
+
+54
+00:00:59,189 --> 00:00:59,199
+brands that sell while they sleep. Today
+ 
+
+55
+00:00:59,199 --> 00:01:01,510
+brands that sell while they sleep. Today
+I run Founder OS where we install
+
+56
+00:01:01,510 --> 00:01:01,520
+I run Founder OS where we install
+ 
+
+57
+00:01:01,520 --> 00:01:03,549
+I run Founder OS where we install
+systems for founders doing anywhere from
+
+58
+00:01:03,549 --> 00:01:03,559
+systems for founders doing anywhere from
+ 
+
+59
+00:01:03,559 --> 00:01:06,789
+systems for founders doing anywhere from
+$30,000 to $500,000 per month. We've
+
+60
+00:01:06,789 --> 00:01:06,799
+$30,000 to $500,000 per month. We've
+ 
+
+61
+00:01:06,799 --> 00:01:08,469
+$30,000 to $500,000 per month. We've
+worked with everyone from rising
+
+62
+00:01:08,469 --> 00:01:08,479
+worked with everyone from rising
+ 
+
+63
+00:01:08,479 --> 00:01:11,030
+worked with everyone from rising
+creators to 8 figure brands helping them
+
+64
+00:01:11,030 --> 00:01:11,040
+creators to 8 figure brands helping them
+ 
+
+65
+00:01:11,040 --> 00:01:13,190
+creators to 8 figure brands helping them
+scale without burning out. But this
+
+66
+00:01:13,190 --> 00:01:13,200
+scale without burning out. But this
+ 
+
+67
+00:01:13,200 --> 00:01:15,510
+scale without burning out. But this
+expertise didn't come easily. It came
+
+68
+00:01:15,510 --> 00:01:15,520
+expertise didn't come easily. It came
+ 
+
+69
+00:01:15,520 --> 00:01:17,830
+expertise didn't come easily. It came
+from hardearned lessons building and
+
+70
+00:01:17,830 --> 00:01:17,840
+from hardearned lessons building and
+ 
+
+71
+00:01:17,840 --> 00:01:20,310
+from hardearned lessons building and
+scaling my own companies. So here's a
+
+72
+00:01:20,310 --> 00:01:20,320
+scaling my own companies. So here's a
+ 
+
+73
+00:01:20,320 --> 00:01:22,710
+scaling my own companies. So here's a
+bit of the backstory. Back in 2015, Herb
+
+74
+00:01:22,710 --> 00:01:22,720
+bit of the backstory. Back in 2015, Herb
+ 
+
+75
+00:01:22,720 --> 00:01:25,109
+bit of the backstory. Back in 2015, Herb
+was doing about 140K a month in revenue.
+
+76
+00:01:25,109 --> 00:01:25,119
+was doing about 140K a month in revenue.
+ 
+
+77
+00:01:25,119 --> 00:01:27,350
+was doing about 140K a month in revenue.
+Solid business, but we'd hit a plateau.
+
+78
+00:01:27,350 --> 00:01:27,360
+Solid business, but we'd hit a plateau.
+ 
+
+79
+00:01:27,360 --> 00:01:29,429
+Solid business, but we'd hit a plateau.
+For context, Herb is a cannabis media
+
+80
+00:01:29,429 --> 00:01:29,439
+For context, Herb is a cannabis media
+ 
+
+81
+00:01:29,439 --> 00:01:31,030
+For context, Herb is a cannabis media
+company I built into the largest
+
+82
+00:01:31,030 --> 00:01:31,040
+company I built into the largest
+ 
+
+83
+00:01:31,040 --> 00:01:33,350
+company I built into the largest
+cannabis media company in the world with
+
+84
+00:01:33,350 --> 00:01:33,360
+cannabis media company in the world with
+ 
+
+85
+00:01:33,360 --> 00:01:35,670
+cannabis media company in the world with
+over 14 million followers. We create
+
+86
+00:01:35,670 --> 00:01:35,680
+over 14 million followers. We create
+ 
+
+87
+00:01:35,680 --> 00:01:37,350
+over 14 million followers. We create
+content, have a highly engaged
+
+88
+00:01:37,350 --> 00:01:37,360
+content, have a highly engaged
+ 
+
+89
+00:01:37,360 --> 00:01:39,670
+content, have a highly engaged
+community, and develop enterprise tech
+
+90
+00:01:39,670 --> 00:01:39,680
+community, and develop enterprise tech
+ 
+
+91
+00:01:39,680 --> 00:01:42,149
+community, and develop enterprise tech
+to help convert cannabis consumers into
+
+92
+00:01:42,149 --> 00:01:42,159
+to help convert cannabis consumers into
+ 
+
+93
+00:01:42,159 --> 00:01:44,069
+to help convert cannabis consumers into
+customers. I was at this founder dinner
+
+94
+00:01:44,069 --> 00:01:44,079
+customers. I was at this founder dinner
+ 
+
+95
+00:01:44,079 --> 00:01:46,069
+customers. I was at this founder dinner
+in Los Angeles when I overheard this
+
+96
+00:01:46,069 --> 00:01:46,079
+in Los Angeles when I overheard this
+ 
+
+97
+00:01:46,079 --> 00:01:47,670
+in Los Angeles when I overheard this
+conversation and someone had mentioned
+
+98
+00:01:47,670 --> 00:01:47,680
+conversation and someone had mentioned
+ 
+
+99
+00:01:47,680 --> 00:01:49,190
+conversation and someone had mentioned
+that they had connections with several
+
+100
+00:01:49,190 --> 00:01:49,200
+that they had connections with several
+ 
+
+101
+00:01:49,200 --> 00:01:52,310
+that they had connections with several
+NFL and NBA players who were advocates
+
+102
+00:01:52,310 --> 00:01:52,320
+NFL and NBA players who were advocates
+ 
+
+103
+00:01:52,320 --> 00:01:54,149
+NFL and NBA players who were advocates
+for cannabis, especially for pain
+
+104
+00:01:54,149 --> 00:01:54,159
+for cannabis, especially for pain
+ 
+
+105
+00:01:54,159 --> 00:01:56,310
+for cannabis, especially for pain
+management and recovery. A light bulb
+
+106
+00:01:56,310 --> 00:01:56,320
+management and recovery. A light bulb
+ 
+
+107
+00:01:56,320 --> 00:01:58,149
+management and recovery. A light bulb
+went off. Man, I've got to meet these
+
+108
+00:01:58,149 --> 00:01:58,159
+went off. Man, I've got to meet these
+ 
+
+109
+00:01:58,159 --> 00:01:59,830
+went off. Man, I've got to meet these
+people. These aren't just any athletes,
+
+110
+00:01:59,830 --> 00:01:59,840
+people. These aren't just any athletes,
+ 
+
+111
+00:01:59,840 --> 00:02:02,069
+people. These aren't just any athletes,
+right? These are household names with
+
+112
+00:02:02,069 --> 00:02:02,079
+right? These are household names with
+ 
+
+113
+00:02:02,079 --> 00:02:04,230
+right? These are household names with
+millions of followers who could
+
+114
+00:02:04,230 --> 00:02:04,240
+millions of followers who could
+ 
+
+115
+00:02:04,240 --> 00:02:06,310
+millions of followers who could
+completely transform how people viewed
+
+116
+00:02:06,310 --> 00:02:06,320
+completely transform how people viewed
+ 
+
+117
+00:02:06,320 --> 00:02:08,630
+completely transform how people viewed
+cannabis. The next morning, I reached
+
+118
+00:02:08,630 --> 00:02:08,640
+cannabis. The next morning, I reached
+ 
+
+119
+00:02:08,640 --> 00:02:10,949
+cannabis. The next morning, I reached
+out and discovered that we could go and
+
+120
+00:02:10,949 --> 00:02:10,959
+out and discovered that we could go and
+ 
+
+121
+00:02:10,959 --> 00:02:13,190
+out and discovered that we could go and
+get these three NFL stars for a
+
+122
+00:02:13,190 --> 00:02:13,200
+get these three NFL stars for a
+ 
+
+123
+00:02:13,200 --> 00:02:15,430
+get these three NFL stars for a
+professional video series about their
+
+124
+00:02:15,430 --> 00:02:15,440
+professional video series about their
+ 
+
+125
+00:02:15,440 --> 00:02:17,589
+professional video series about their
+cannabis consumption and how it helped
+
+126
+00:02:17,589 --> 00:02:17,599
+cannabis consumption and how it helped
+ 
+
+127
+00:02:17,599 --> 00:02:19,270
+cannabis consumption and how it helped
+their journey as an athlete. The
+
+128
+00:02:19,270 --> 00:02:19,280
+their journey as an athlete. The
+ 
+
+129
+00:02:19,280 --> 00:02:21,350
+their journey as an athlete. The
+production would be top tier, the kind
+
+130
+00:02:21,350 --> 00:02:21,360
+production would be top tier, the kind
+ 
+
+131
+00:02:21,360 --> 00:02:22,869
+production would be top tier, the kind
+of content that looks like it belongs in
+
+132
+00:02:22,869 --> 00:02:22,879
+of content that looks like it belongs in
+ 
+
+133
+00:02:22,879 --> 00:02:25,270
+of content that looks like it belongs in
+a Netflix documentary, not some YouTube
+
+134
+00:02:25,270 --> 00:02:25,280
+a Netflix documentary, not some YouTube
+ 
+
+135
+00:02:25,280 --> 00:02:27,830
+a Netflix documentary, not some YouTube
+video. The price tag, 29K. When I
+
+136
+00:02:27,830 --> 00:02:27,840
+video. The price tag, 29K. When I
+ 
+
+137
+00:02:27,840 --> 00:02:29,110
+video. The price tag, 29K. When I
+brought this to my chief financial
+
+138
+00:02:29,110 --> 00:02:29,120
+brought this to my chief financial
+ 
+
+139
+00:02:29,120 --> 00:02:31,670
+brought this to my chief financial
+officer, he had a heart attack. Matt,
+
+140
+00:02:31,670 --> 00:02:31,680
+officer, he had a heart attack. Matt,
+ 
+
+141
+00:02:31,680 --> 00:02:33,270
+officer, he had a heart attack. Matt,
+that's almost half of our monthly
+
+142
+00:02:33,270 --> 00:02:33,280
+that's almost half of our monthly
+ 
+
+143
+00:02:33,280 --> 00:02:35,190
+that's almost half of our monthly
+revenue. Now, we can't justify that kind
+
+144
+00:02:35,190 --> 00:02:35,200
+revenue. Now, we can't justify that kind
+ 
+
+145
+00:02:35,200 --> 00:02:37,350
+revenue. Now, we can't justify that kind
+of expense. What if these players back
+
+146
+00:02:37,350 --> 00:02:37,360
+of expense. What if these players back
+ 
+
+147
+00:02:37,360 --> 00:02:39,110
+of expense. What if these players back
+out? You know, what if this doesn't even
+
+148
+00:02:39,110 --> 00:02:39,120
+out? You know, what if this doesn't even
+ 
+
+149
+00:02:39,120 --> 00:02:40,949
+out? You know, what if this doesn't even
+convert? To be honest, his concerns were
+
+150
+00:02:40,949 --> 00:02:40,959
+convert? To be honest, his concerns were
+ 
+
+151
+00:02:40,959 --> 00:02:42,390
+convert? To be honest, his concerns were
+valid. You know, we weren't flushed with
+
+152
+00:02:42,390 --> 00:02:42,400
+valid. You know, we weren't flushed with
+ 
+
+153
+00:02:42,400 --> 00:02:44,550
+valid. You know, we weren't flushed with
+cash. Spending 29K could actually be
+
+154
+00:02:44,550 --> 00:02:44,560
+cash. Spending 29K could actually be
+ 
+
+155
+00:02:44,560 --> 00:02:46,390
+cash. Spending 29K could actually be
+seen as irresponsible. But I sat with
+
+156
+00:02:46,390 --> 00:02:46,400
+seen as irresponsible. But I sat with
+ 
+
+157
+00:02:46,400 --> 00:02:47,990
+seen as irresponsible. But I sat with
+the decision for a couple days, and I
+
+158
+00:02:47,990 --> 00:02:48,000
+the decision for a couple days, and I
+ 
+
+159
+00:02:48,000 --> 00:02:49,430
+the decision for a couple days, and I
+realized that we were asking the wrong
+
+160
+00:02:49,430 --> 00:02:49,440
+realized that we were asking the wrong
+ 
+
+161
+00:02:49,440 --> 00:02:51,270
+realized that we were asking the wrong
+questions. Instead of asking, can we
+
+162
+00:02:51,270 --> 00:02:51,280
+questions. Instead of asking, can we
+ 
+
+163
+00:02:51,280 --> 00:02:53,270
+questions. Instead of asking, can we
+afford this? I started asking, "What's
+
+164
+00:02:53,270 --> 00:02:53,280
+afford this? I started asking, "What's
+ 
+
+165
+00:02:53,280 --> 00:02:55,670
+afford this? I started asking, "What's
+the long-term value of associating our
+
+166
+00:02:55,670 --> 00:02:55,680
+the long-term value of associating our
+ 
+
+167
+00:02:55,680 --> 00:02:57,910
+the long-term value of associating our
+brand with these respected athletes? How
+
+168
+00:02:57,910 --> 00:02:57,920
+brand with these respected athletes? How
+ 
+
+169
+00:02:57,920 --> 00:02:59,350
+brand with these respected athletes? How
+would this change our brand positioning
+
+170
+00:02:59,350 --> 00:02:59,360
+would this change our brand positioning
+ 
+
+171
+00:02:59,360 --> 00:03:01,110
+would this change our brand positioning
+in this industry? And what's the cost of
+
+172
+00:03:01,110 --> 00:03:01,120
+in this industry? And what's the cost of
+ 
+
+173
+00:03:01,120 --> 00:03:03,190
+in this industry? And what's the cost of
+staying where we are for another 6
+
+174
+00:03:03,190 --> 00:03:03,200
+staying where we are for another 6
+ 
+
+175
+00:03:03,200 --> 00:03:04,949
+staying where we are for another 6
+months?" When I reframed these
+
+176
+00:03:04,949 --> 00:03:04,959
+months?" When I reframed these
+ 
+
+177
+00:03:04,959 --> 00:03:07,670
+months?" When I reframed these
+questions, the decision became obvious.
+
+178
+00:03:07,670 --> 00:03:07,680
+questions, the decision became obvious.
+ 
+
+179
+00:03:07,680 --> 00:03:09,589
+questions, the decision became obvious.
+I called up the production company and I
+
+180
+00:03:09,589 --> 00:03:09,599
+I called up the production company and I
+ 
+
+181
+00:03:09,599 --> 00:03:11,589
+I called up the production company and I
+said, "Yes, let's move forward." The day
+
+182
+00:03:11,589 --> 00:03:11,599
+said, "Yes, let's move forward." The day
+ 
+
+183
+00:03:11,599 --> 00:03:13,509
+said, "Yes, let's move forward." The day
+that we released that first video, the
+
+184
+00:03:13,509 --> 00:03:13,519
+that we released that first video, the
+ 
+
+185
+00:03:13,519 --> 00:03:14,949
+that we released that first video, the
+series was picked up by Sports
+
+186
+00:03:14,949 --> 00:03:14,959
+series was picked up by Sports
+ 
+
+187
+00:03:14,959 --> 00:03:17,350
+series was picked up by Sports
+Illustrated and a dozen other massive
+
+188
+00:03:17,350 --> 00:03:17,360
+Illustrated and a dozen other massive
+ 
+
+189
+00:03:17,360 --> 00:03:19,509
+Illustrated and a dozen other massive
+cannabis publications. Our social
+
+190
+00:03:19,509 --> 00:03:19,519
+cannabis publications. Our social
+ 
+
+191
+00:03:19,519 --> 00:03:22,390
+cannabis publications. Our social
+following over that next month grew by
+
+192
+00:03:22,390 --> 00:03:22,400
+following over that next month grew by
+ 
+
+193
+00:03:22,400 --> 00:03:24,630
+following over that next month grew by
+127,000 people. Here's where it also
+
+194
+00:03:24,630 --> 00:03:24,640
+127,000 people. Here's where it also
+ 
+
+195
+00:03:24,640 --> 00:03:26,309
+127,000 people. Here's where it also
+gets interesting and what most founders
+
+196
+00:03:26,309 --> 00:03:26,319
+gets interesting and what most founders
+ 
+
+197
+00:03:26,319 --> 00:03:28,630
+gets interesting and what most founders
+miss about ROI thinking. The real
+
+198
+00:03:28,630 --> 00:03:28,640
+miss about ROI thinking. The real
+ 
+
+199
+00:03:28,640 --> 00:03:31,589
+miss about ROI thinking. The real
+return, it wasn't just traffic or sales.
+
+200
+00:03:31,589 --> 00:03:31,599
+return, it wasn't just traffic or sales.
+ 
+
+201
+00:03:31,599 --> 00:03:33,589
+return, it wasn't just traffic or sales.
+It was in brand positioning. Before this
+
+202
+00:03:33,589 --> 00:03:33,599
+It was in brand positioning. Before this
+ 
+
+203
+00:03:33,599 --> 00:03:35,990
+It was in brand positioning. Before this
+NFL series, we were just seen as another
+
+204
+00:03:35,990 --> 00:03:36,000
+NFL series, we were just seen as another
+ 
+
+205
+00:03:36,000 --> 00:03:38,309
+NFL series, we were just seen as another
+cannabis media company. After, we were
+
+206
+00:03:38,309 --> 00:03:38,319
+cannabis media company. After, we were
+ 
+
+207
+00:03:38,319 --> 00:03:40,470
+cannabis media company. After, we were
+the premium brand connecting mainstream
+
+208
+00:03:40,470 --> 00:03:40,480
+the premium brand connecting mainstream
+ 
+
+209
+00:03:40,480 --> 00:03:42,949
+the premium brand connecting mainstream
+culture with cannabis education. Within
+
+210
+00:03:42,949 --> 00:03:42,959
+culture with cannabis education. Within
+ 
+
+211
+00:03:42,959 --> 00:03:45,509
+culture with cannabis education. Within
+3 months, our monthly revenue jumped to
+
+212
+00:03:45,509 --> 00:03:45,519
+3 months, our monthly revenue jumped to
+ 
+
+213
+00:03:45,519 --> 00:03:46,750
+3 months, our monthly revenue jumped to
+over
+
+214
+00:03:46,750 --> 00:03:46,760
+over
+ 
+
+215
+00:03:46,760 --> 00:03:49,750
+over
+$240,000. And within 6 months, we landed
+
+216
+00:03:49,750 --> 00:03:49,760
+$240,000. And within 6 months, we landed
+ 
+
+217
+00:03:49,760 --> 00:03:52,309
+$240,000. And within 6 months, we landed
+our first major deal with a company that
+
+218
+00:03:52,309 --> 00:03:52,319
+our first major deal with a company that
+ 
+
+219
+00:03:52,319 --> 00:03:54,710
+our first major deal with a company that
+had been previously refusing to go and
+
+220
+00:03:54,710 --> 00:03:54,720
+had been previously refusing to go and
+ 
+
+221
+00:03:54,720 --> 00:03:56,710
+had been previously refusing to go and
+enter the cannabis space. Their exact
+
+222
+00:03:56,710 --> 00:03:56,720
+enter the cannabis space. Their exact
+ 
+
+223
+00:03:56,720 --> 00:03:58,789
+enter the cannabis space. Their exact
+words were, "No, Matt, we watched that
+
+224
+00:03:58,789 --> 00:03:58,799
+words were, "No, Matt, we watched that
+ 
+
+225
+00:03:58,799 --> 00:04:00,789
+words were, "No, Matt, we watched that
+series with those NFL players. you've
+
+226
+00:04:00,789 --> 00:04:00,799
+series with those NFL players. you've
+ 
+
+227
+00:04:00,799 --> 00:04:02,309
+series with those NFL players. you've
+really changed our view on how we look
+
+228
+00:04:02,309 --> 00:04:02,319
+really changed our view on how we look
+ 
+
+229
+00:04:02,319 --> 00:04:03,910
+really changed our view on how we look
+at this industry and we're ready to move
+
+230
+00:04:03,910 --> 00:04:03,920
+at this industry and we're ready to move
+ 
+
+231
+00:04:03,920 --> 00:04:06,550
+at this industry and we're ready to move
+forward. That 29K investment generated
+
+232
+00:04:06,550 --> 00:04:06,560
+forward. That 29K investment generated
+ 
+
+233
+00:04:06,560 --> 00:04:07,390
+forward. That 29K investment generated
+over
+
+234
+00:04:07,390 --> 00:04:07,400
+over
+ 
+
+235
+00:04:07,400 --> 00:04:09,830
+over
+$700,000 in direct revenue within the
+
+236
+00:04:09,830 --> 00:04:09,840
+$700,000 in direct revenue within the
+ 
+
+237
+00:04:09,840 --> 00:04:11,910
+$700,000 in direct revenue within the
+first year. More importantly, it
+
+238
+00:04:11,910 --> 00:04:11,920
+first year. More importantly, it
+ 
+
+239
+00:04:11,920 --> 00:04:13,750
+first year. More importantly, it
+completely repositioned our brand in the
+
+240
+00:04:13,750 --> 00:04:13,760
+completely repositioned our brand in the
+ 
+
+241
+00:04:13,760 --> 00:04:15,350
+completely repositioned our brand in the
+market. I see this pattern repeating
+
+242
+00:04:15,350 --> 00:04:15,360
+market. I see this pattern repeating
+ 
+
+243
+00:04:15,360 --> 00:04:17,270
+market. I see this pattern repeating
+itself time and time again with founders
+
+244
+00:04:17,270 --> 00:04:17,280
+itself time and time again with founders
+ 
+
+245
+00:04:17,280 --> 00:04:19,110
+itself time and time again with founders
+that are trying to hit that 100K per
+
+246
+00:04:19,110 --> 00:04:19,120
+that are trying to hit that 100K per
+ 
+
+247
+00:04:19,120 --> 00:04:21,270
+that are trying to hit that 100K per
+month mark. They start playing defense
+
+248
+00:04:21,270 --> 00:04:21,280
+month mark. They start playing defense
+ 
+
+249
+00:04:21,280 --> 00:04:22,870
+month mark. They start playing defense
+with their money instead of playing
+
+250
+00:04:22,870 --> 00:04:22,880
+with their money instead of playing
+ 
+
+251
+00:04:22,880 --> 00:04:24,710
+with their money instead of playing
+offense with their money. When I talk to
+
+252
+00:04:24,710 --> 00:04:24,720
+offense with their money. When I talk to
+ 
+
+253
+00:04:24,720 --> 00:04:26,469
+offense with their money. When I talk to
+founders considering a $50,000
+
+254
+00:04:26,469 --> 00:04:26,479
+founders considering a $50,000
+ 
+
+255
+00:04:26,479 --> 00:04:29,350
+founders considering a $50,000
+mastermind or a $30,000 content series,
+
+256
+00:04:29,350 --> 00:04:29,360
+mastermind or a $30,000 content series,
+ 
+
+257
+00:04:29,360 --> 00:04:31,189
+mastermind or a $30,000 content series,
+I always ask them, you know, are you
+
+258
+00:04:31,189 --> 00:04:31,199
+I always ask them, you know, are you
+ 
+
+259
+00:04:31,199 --> 00:04:33,749
+I always ask them, you know, are you
+calculating the full ROI? Not just the
+
+260
+00:04:33,749 --> 00:04:33,759
+calculating the full ROI? Not just the
+ 
+
+261
+00:04:33,759 --> 00:04:35,510
+calculating the full ROI? Not just the
+immediate return, but the doors that
+
+262
+00:04:35,510 --> 00:04:35,520
+immediate return, but the doors that
+ 
+
+263
+00:04:35,520 --> 00:04:37,350
+immediate return, but the doors that
+might open, what positioning it might
+
+264
+00:04:37,350 --> 00:04:37,360
+might open, what positioning it might
+ 
+
+265
+00:04:37,360 --> 00:04:39,590
+might open, what positioning it might
+create for you, what opportunities then
+
+266
+00:04:39,590 --> 00:04:39,600
+create for you, what opportunities then
+ 
+
+267
+00:04:39,600 --> 00:04:41,830
+create for you, what opportunities then
+become possible. Most aren't. They're
+
+268
+00:04:41,830 --> 00:04:41,840
+become possible. Most aren't. They're
+ 
+
+269
+00:04:41,840 --> 00:04:43,830
+become possible. Most aren't. They're
+stuck in expense thinking. They're
+
+270
+00:04:43,830 --> 00:04:43,840
+stuck in expense thinking. They're
+ 
+
+271
+00:04:43,840 --> 00:04:45,590
+stuck in expense thinking. They're
+thinking small. That's too much money
+
+272
+00:04:45,590 --> 00:04:45,600
+thinking small. That's too much money
+ 
+
+273
+00:04:45,600 --> 00:04:47,590
+thinking small. That's too much money
+for what it is. Or, you know, I can't
+
+274
+00:04:47,590 --> 00:04:47,600
+for what it is. Or, you know, I can't
+ 
+
+275
+00:04:47,600 --> 00:04:49,909
+for what it is. Or, you know, I can't
+afford that. But at 100K per month,
+
+276
+00:04:49,909 --> 00:04:49,919
+afford that. But at 100K per month,
+ 
+
+277
+00:04:49,919 --> 00:04:51,909
+afford that. But at 100K per month,
+you're not paying for what it is. You're
+
+278
+00:04:51,909 --> 00:04:51,919
+you're not paying for what it is. You're
+ 
+
+279
+00:04:51,919 --> 00:04:54,070
+you're not paying for what it is. You're
+paying for what makes it possible. That
+
+280
+00:04:54,070 --> 00:04:54,080
+paying for what makes it possible. That
+ 
+
+281
+00:04:54,080 --> 00:04:56,469
+paying for what makes it possible. That
+NFL content series wasn't just videos.
+
+282
+00:04:56,469 --> 00:04:56,479
+NFL content series wasn't just videos.
+ 
+
+283
+00:04:56,479 --> 00:04:58,629
+NFL content series wasn't just videos.
+It was the key that unlocked an entirely
+
+284
+00:04:58,629 --> 00:04:58,639
+It was the key that unlocked an entirely
+ 
+
+285
+00:04:58,639 --> 00:05:01,189
+It was the key that unlocked an entirely
+new level for our business. The $29,000
+
+286
+00:05:01,189 --> 00:05:01,199
+new level for our business. The $29,000
+ 
+
+287
+00:05:01,199 --> 00:05:03,270
+new level for our business. The $29,000
+wasn't an expense. It was the admission
+
+288
+00:05:03,270 --> 00:05:03,280
+wasn't an expense. It was the admission
+ 
+
+289
+00:05:03,280 --> 00:05:06,469
+wasn't an expense. It was the admission
+price to a different league. And that's
+
+290
+00:05:06,469 --> 00:05:06,479
+price to a different league. And that's
+ 
+
+291
+00:05:06,479 --> 00:05:08,230
+price to a different league. And that's
+the shift that separates founders who
+
+292
+00:05:08,230 --> 00:05:08,240
+the shift that separates founders who
+ 
+
+293
+00:05:08,240 --> 00:05:10,310
+the shift that separates founders who
+stay stuck at 100K per month and those
+
+294
+00:05:10,310 --> 00:05:10,320
+stay stuck at 100K per month and those
+ 
+
+295
+00:05:10,320 --> 00:05:12,550
+stay stuck at 100K per month and those
+that end up scaling to 500K per month.
+
+296
+00:05:12,550 --> 00:05:12,560
+that end up scaling to 500K per month.
+ 
+
+297
+00:05:12,560 --> 00:05:14,230
+that end up scaling to 500K per month.
+So, when you're considering that next
+
+298
+00:05:14,230 --> 00:05:14,240
+So, when you're considering that next
+ 
+
+299
+00:05:14,240 --> 00:05:16,550
+So, when you're considering that next
+big investment, that high ticket coach,
+
+300
+00:05:16,550 --> 00:05:16,560
+big investment, that high ticket coach,
+ 
+
+301
+00:05:16,560 --> 00:05:18,790
+big investment, that high ticket coach,
+that mastermind, that premium content
+
+302
+00:05:18,790 --> 00:05:18,800
+that mastermind, that premium content
+ 
+
+303
+00:05:18,800 --> 00:05:21,670
+that mastermind, that premium content
+series, and it seems too expensive, I
+
+304
+00:05:21,670 --> 00:05:21,680
+series, and it seems too expensive, I
+ 
+
+305
+00:05:21,680 --> 00:05:23,510
+series, and it seems too expensive, I
+want you to ask yourself, what's the
+
+306
+00:05:23,510 --> 00:05:23,520
+want you to ask yourself, what's the
+ 
+
+307
+00:05:23,520 --> 00:05:25,590
+want you to ask yourself, what's the
+real cost of staying where I am right
+
+308
+00:05:25,590 --> 00:05:25,600
+real cost of staying where I am right
+ 
+
+309
+00:05:25,600 --> 00:05:28,150
+real cost of staying where I am right
+now? And what becomes possible if this
+
+310
+00:05:28,150 --> 00:05:28,160
+now? And what becomes possible if this
+ 
+
+311
+00:05:28,160 --> 00:05:30,390
+now? And what becomes possible if this
+actually works? That question has made
+
+312
+00:05:30,390 --> 00:05:30,400
+actually works? That question has made
+ 
+
+313
+00:05:30,400 --> 00:05:32,710
+actually works? That question has made
+me millions over the years. Let's get
+
+314
+00:05:32,710 --> 00:05:32,720
+me millions over the years. Let's get
+ 
+
+315
+00:05:32,720 --> 00:05:34,629
+me millions over the years. Let's get
+into the core problem I see. Most
+
+316
+00:05:34,629 --> 00:05:34,639
+into the core problem I see. Most
+ 
+
+317
+00:05:34,639 --> 00:05:36,469
+into the core problem I see. Most
+founders stay broke not because they
+
+318
+00:05:36,469 --> 00:05:36,479
+founders stay broke not because they
+ 
+
+319
+00:05:36,479 --> 00:05:38,469
+founders stay broke not because they
+don't work hard enough, but because they
+
+320
+00:05:38,469 --> 00:05:38,479
+don't work hard enough, but because they
+ 
+
+321
+00:05:38,479 --> 00:05:40,790
+don't work hard enough, but because they
+make decisions like broke people. Here's
+
+322
+00:05:40,790 --> 00:05:40,800
+make decisions like broke people. Here's
+ 
+
+323
+00:05:40,800 --> 00:05:43,029
+make decisions like broke people. Here's
+how to tell which mindset you're in.
+
+324
+00:05:43,029 --> 00:05:43,039
+how to tell which mindset you're in.
+ 
+
+325
+00:05:43,039 --> 00:05:45,029
+how to tell which mindset you're in.
+Expense thinking asks questions like,
+
+326
+00:05:45,029 --> 00:05:45,039
+Expense thinking asks questions like,
+ 
+
+327
+00:05:45,039 --> 00:05:47,029
+Expense thinking asks questions like,
+"How much does it cost? Can I do this
+
+328
+00:05:47,029 --> 00:05:47,039
+"How much does it cost? Can I do this
+ 
+
+329
+00:05:47,039 --> 00:05:49,350
+"How much does it cost? Can I do this
+myself? Let's wait until we're ready.
+
+330
+00:05:49,350 --> 00:05:49,360
+myself? Let's wait until we're ready.
+ 
+
+331
+00:05:49,360 --> 00:05:52,070
+myself? Let's wait until we're ready.
+That seems too expensive." ROI thinking,
+
+332
+00:05:52,070 --> 00:05:52,080
+That seems too expensive." ROI thinking,
+ 
+
+333
+00:05:52,080 --> 00:05:53,909
+That seems too expensive." ROI thinking,
+on the other side of things, asks,
+
+334
+00:05:53,909 --> 00:05:53,919
+on the other side of things, asks,
+ 
+
+335
+00:05:53,919 --> 00:05:56,230
+on the other side of things, asks,
+"What's the upside if this works? What
+
+336
+00:05:56,230 --> 00:05:56,240
+"What's the upside if this works? What
+ 
+
+337
+00:05:56,240 --> 00:05:58,230
+"What's the upside if this works? What
+does this free me up to focus on? What
+
+338
+00:05:58,230 --> 00:05:58,240
+does this free me up to focus on? What
+ 
+
+339
+00:05:58,240 --> 00:06:00,629
+does this free me up to focus on? What
+would this make possible? How fast can
+
+340
+00:06:00,629 --> 00:06:00,639
+would this make possible? How fast can
+ 
+
+341
+00:06:00,639 --> 00:06:02,629
+would this make possible? How fast can
+we test it?" Expense thinking is really
+
+342
+00:06:02,629 --> 00:06:02,639
+we test it?" Expense thinking is really
+ 
+
+343
+00:06:02,639 --> 00:06:04,710
+we test it?" Expense thinking is really
+going to focus on preserving what you
+
+344
+00:06:04,710 --> 00:06:04,720
+going to focus on preserving what you
+ 
+
+345
+00:06:04,720 --> 00:06:07,110
+going to focus on preserving what you
+have. It's that scarcity mindset. ROI
+
+346
+00:06:07,110 --> 00:06:07,120
+have. It's that scarcity mindset. ROI
+ 
+
+347
+00:06:07,120 --> 00:06:09,189
+have. It's that scarcity mindset. ROI
+thinking focuses on multiplying what you
+
+348
+00:06:09,189 --> 00:06:09,199
+thinking focuses on multiplying what you
+ 
+
+349
+00:06:09,199 --> 00:06:11,270
+thinking focuses on multiplying what you
+have. It's that abundance mindset.
+
+350
+00:06:11,270 --> 00:06:11,280
+have. It's that abundance mindset.
+ 
+
+351
+00:06:11,280 --> 00:06:13,350
+have. It's that abundance mindset.
+Here's the kicker. Your decisions are
+
+352
+00:06:13,350 --> 00:06:13,360
+Here's the kicker. Your decisions are
+ 
+
+353
+00:06:13,360 --> 00:06:15,270
+Here's the kicker. Your decisions are
+your destiny. If every time an
+
+354
+00:06:15,270 --> 00:06:15,280
+your destiny. If every time an
+ 
+
+355
+00:06:15,280 --> 00:06:16,790
+your destiny. If every time an
+opportunity comes your way, you pause
+
+356
+00:06:16,790 --> 00:06:16,800
+opportunity comes your way, you pause
+ 
+
+357
+00:06:16,800 --> 00:06:18,550
+opportunity comes your way, you pause
+and say, "That's too expensive." What
+
+358
+00:06:18,550 --> 00:06:18,560
+and say, "That's too expensive." What
+ 
+
+359
+00:06:18,560 --> 00:06:19,909
+and say, "That's too expensive." What
+you're really saying is, "I don't
+
+360
+00:06:19,909 --> 00:06:19,919
+you're really saying is, "I don't
+ 
+
+361
+00:06:19,919 --> 00:06:21,749
+you're really saying is, "I don't
+believe I'll get a return." Back in
+
+362
+00:06:21,749 --> 00:06:21,759
+believe I'll get a return." Back in
+ 
+
+363
+00:06:21,759 --> 00:06:23,909
+believe I'll get a return." Back in
+2018, I was struggling with a major
+
+364
+00:06:23,909 --> 00:06:23,919
+2018, I was struggling with a major
+ 
+
+365
+00:06:23,919 --> 00:06:25,510
+2018, I was struggling with a major
+decision for Herb. We were doing around
+
+366
+00:06:25,510 --> 00:06:25,520
+decision for Herb. We were doing around
+ 
+
+367
+00:06:25,520 --> 00:06:28,309
+decision for Herb. We were doing around
+285K in monthly revenue, which sounds
+
+368
+00:06:28,309 --> 00:06:28,319
+285K in monthly revenue, which sounds
+ 
+
+369
+00:06:28,319 --> 00:06:30,230
+285K in monthly revenue, which sounds
+impressive from the outside, but we'd
+
+370
+00:06:30,230 --> 00:06:30,240
+impressive from the outside, but we'd
+ 
+
+371
+00:06:30,240 --> 00:06:32,629
+impressive from the outside, but we'd
+hit a serious plateau. Traffic was
+
+372
+00:06:32,629 --> 00:06:32,639
+hit a serious plateau. Traffic was
+ 
+
+373
+00:06:32,639 --> 00:06:35,029
+hit a serious plateau. Traffic was
+stagnant, growth had flatlined, and the
+
+374
+00:06:35,029 --> 00:06:35,039
+stagnant, growth had flatlined, and the
+ 
+
+375
+00:06:35,039 --> 00:06:37,430
+stagnant, growth had flatlined, and the
+cannabis industry was getting more and
+
+376
+00:06:37,430 --> 00:06:37,440
+cannabis industry was getting more and
+ 
+
+377
+00:06:37,440 --> 00:06:39,909
+cannabis industry was getting more and
+more competitive every single day. I
+
+378
+00:06:39,909 --> 00:06:39,919
+more competitive every single day. I
+ 
+
+379
+00:06:39,919 --> 00:06:41,510
+more competitive every single day. I
+knew we needed a complete brand
+
+380
+00:06:41,510 --> 00:06:41,520
+knew we needed a complete brand
+ 
+
+381
+00:06:41,520 --> 00:06:43,990
+knew we needed a complete brand
+overhaul. New design, new website, new
+
+382
+00:06:43,990 --> 00:06:44,000
+overhaul. New design, new website, new
+ 
+
+383
+00:06:44,000 --> 00:06:45,670
+overhaul. New design, new website, new
+content strategy, the works. When I got
+
+384
+00:06:45,670 --> 00:06:45,680
+content strategy, the works. When I got
+ 
+
+385
+00:06:45,680 --> 00:06:47,230
+content strategy, the works. When I got
+a quote, it came in at
+
+386
+00:06:47,230 --> 00:06:47,240
+a quote, it came in at
+ 
+
+387
+00:06:47,240 --> 00:06:49,749
+a quote, it came in at
+$78,000. At the time, this felt like a
+
+388
+00:06:49,749 --> 00:06:49,759
+$78,000. At the time, this felt like a
+ 
+
+389
+00:06:49,759 --> 00:06:51,990
+$78,000. At the time, this felt like a
+massive expense. My immediate reaction
+
+390
+00:06:51,990 --> 00:06:52,000
+massive expense. My immediate reaction
+ 
+
+391
+00:06:52,000 --> 00:06:54,150
+massive expense. My immediate reaction
+was pure expense thinking. It's a lot of
+
+392
+00:06:54,150 --> 00:06:54,160
+was pure expense thinking. It's a lot of
+ 
+
+393
+00:06:54,160 --> 00:06:55,990
+was pure expense thinking. It's a lot of
+money for a rebrand, and we already have
+
+394
+00:06:55,990 --> 00:06:56,000
+money for a rebrand, and we already have
+ 
+
+395
+00:06:56,000 --> 00:06:57,749
+money for a rebrand, and we already have
+a functioning website. We should just be
+
+396
+00:06:57,749 --> 00:06:57,759
+a functioning website. We should just be
+ 
+
+397
+00:06:57,759 --> 00:06:59,990
+a functioning website. We should just be
+focusing on operations, not pure
+
+398
+00:06:59,990 --> 00:07:00,000
+focusing on operations, not pure
+ 
+
+399
+00:07:00,000 --> 00:07:02,070
+focusing on operations, not pure
+aesthetics. I spent weeks trying to
+
+400
+00:07:02,070 --> 00:07:02,080
+aesthetics. I spent weeks trying to
+ 
+
+401
+00:07:02,080 --> 00:07:04,110
+aesthetics. I spent weeks trying to
+figure out cheaper alternatives,
+
+402
+00:07:04,110 --> 00:07:04,120
+figure out cheaper alternatives,
+ 
+
+403
+00:07:04,120 --> 00:07:06,550
+figure out cheaper alternatives,
+freelancers, templates. Could I just do
+
+404
+00:07:06,550 --> 00:07:06,560
+freelancers, templates. Could I just do
+ 
+
+405
+00:07:06,560 --> 00:07:08,710
+freelancers, templates. Could I just do
+this myself maybe for half as much? Then
+
+406
+00:07:08,710 --> 00:07:08,720
+this myself maybe for half as much? Then
+ 
+
+407
+00:07:08,720 --> 00:07:10,550
+this myself maybe for half as much? Then
+I had a conversation that changed
+
+408
+00:07:10,550 --> 00:07:10,560
+I had a conversation that changed
+ 
+
+409
+00:07:10,560 --> 00:07:12,390
+I had a conversation that changed
+everything. I was having dinner with my
+
+410
+00:07:12,390 --> 00:07:12,400
+everything. I was having dinner with my
+ 
+
+411
+00:07:12,400 --> 00:07:14,390
+everything. I was having dinner with my
+close mentor, Greg, watching the sunset
+
+412
+00:07:14,390 --> 00:07:14,400
+close mentor, Greg, watching the sunset
+ 
+
+413
+00:07:14,400 --> 00:07:16,870
+close mentor, Greg, watching the sunset
+over Lake Ontario. And I asked him about
+
+414
+00:07:16,870 --> 00:07:16,880
+over Lake Ontario. And I asked him about
+ 
+
+415
+00:07:16,880 --> 00:07:19,029
+over Lake Ontario. And I asked him about
+the situation. You know, Greg put down
+
+416
+00:07:19,029 --> 00:07:19,039
+the situation. You know, Greg put down
+ 
+
+417
+00:07:19,039 --> 00:07:20,950
+the situation. You know, Greg put down
+his fork. He looked at me directly and
+
+418
+00:07:20,950 --> 00:07:20,960
+his fork. He looked at me directly and
+ 
+
+419
+00:07:20,960 --> 00:07:22,950
+his fork. He looked at me directly and
+he said, "What's the cost of staying the
+
+420
+00:07:22,950 --> 00:07:22,960
+he said, "What's the cost of staying the
+ 
+
+421
+00:07:22,960 --> 00:07:24,870
+he said, "What's the cost of staying the
+same for another year, Matt?" The
+
+422
+00:07:24,870 --> 00:07:24,880
+same for another year, Matt?" The
+ 
+
+423
+00:07:24,880 --> 00:07:27,029
+same for another year, Matt?" The
+question hit me like a thunderbolt. I
+
+424
+00:07:27,029 --> 00:07:27,039
+question hit me like a thunderbolt. I
+ 
+
+425
+00:07:27,039 --> 00:07:28,309
+question hit me like a thunderbolt. I
+started calculating. You know, my
+
+426
+00:07:28,309 --> 00:07:28,319
+started calculating. You know, my
+ 
+
+427
+00:07:28,319 --> 00:07:30,870
+started calculating. You know, my
+current monthly revenue was 285K. My
+
+428
+00:07:30,870 --> 00:07:30,880
+current monthly revenue was 285K. My
+ 
+
+429
+00:07:30,880 --> 00:07:32,710
+current monthly revenue was 285K. My
+projected monthly revenue with this
+
+430
+00:07:32,710 --> 00:07:32,720
+projected monthly revenue with this
+ 
+
+431
+00:07:32,720 --> 00:07:35,589
+projected monthly revenue with this
+rebrand was 450K. And that was just a
+
+432
+00:07:35,589 --> 00:07:35,599
+rebrand was 450K. And that was just a
+ 
+
+433
+00:07:35,599 --> 00:07:37,270
+rebrand was 450K. And that was just a
+conservative estimate. The difference
+
+434
+00:07:37,270 --> 00:07:37,280
+conservative estimate. The difference
+ 
+
+435
+00:07:37,280 --> 00:07:40,390
+conservative estimate. The difference
+was 165K per month. The potential cost
+
+436
+00:07:40,390 --> 00:07:40,400
+was 165K per month. The potential cost
+ 
+
+437
+00:07:40,400 --> 00:07:43,029
+was 165K per month. The potential cost
+of not doing the rebrand was about 1.9
+
+438
+00:07:43,029 --> 00:07:43,039
+of not doing the rebrand was about 1.9
+ 
+
+439
+00:07:43,039 --> 00:07:45,110
+of not doing the rebrand was about 1.9
+million over a year. And suddenly that
+
+440
+00:07:45,110 --> 00:07:45,120
+million over a year. And suddenly that
+ 
+
+441
+00:07:45,120 --> 00:07:47,430
+million over a year. And suddenly that
+78K investment, it looked completely
+
+442
+00:07:47,430 --> 00:07:47,440
+78K investment, it looked completely
+ 
+
+443
+00:07:47,440 --> 00:07:49,589
+78K investment, it looked completely
+different. It wasn't an expense. It was
+
+444
+00:07:49,589 --> 00:07:49,599
+different. It wasn't an expense. It was
+ 
+
+445
+00:07:49,599 --> 00:07:52,629
+different. It wasn't an expense. It was
+an investment with a potential 2500%
+
+446
+00:07:52,629 --> 00:07:52,639
+an investment with a potential 2500%
+ 
+
+447
+00:07:52,639 --> 00:07:54,950
+an investment with a potential 2500%
+return in just one year. I was so caught
+
+448
+00:07:54,950 --> 00:07:54,960
+return in just one year. I was so caught
+ 
+
+449
+00:07:54,960 --> 00:07:56,869
+return in just one year. I was so caught
+up in how much does this cost that I
+
+450
+00:07:56,869 --> 00:07:56,879
+up in how much does this cost that I
+ 
+
+451
+00:07:56,879 --> 00:07:58,710
+up in how much does this cost that I
+wasn't thinking about how much will this
+
+452
+00:07:58,710 --> 00:07:58,720
+wasn't thinking about how much will this
+ 
+
+453
+00:07:58,720 --> 00:08:01,029
+wasn't thinking about how much will this
+make us and what's the opportunity cost
+
+454
+00:08:01,029 --> 00:08:01,039
+make us and what's the opportunity cost
+ 
+
+455
+00:08:01,039 --> 00:08:03,589
+make us and what's the opportunity cost
+of an action. This was expense thinking
+
+456
+00:08:03,589 --> 00:08:03,599
+of an action. This was expense thinking
+ 
+
+457
+00:08:03,599 --> 00:08:05,990
+of an action. This was expense thinking
+versus ROI thinking and it was keeping
+
+458
+00:08:05,990 --> 00:08:06,000
+versus ROI thinking and it was keeping
+ 
+
+459
+00:08:06,000 --> 00:08:08,230
+versus ROI thinking and it was keeping
+me small. The next day I approved the
+
+460
+00:08:08,230 --> 00:08:08,240
+me small. The next day I approved the
+ 
+
+461
+00:08:08,240 --> 00:08:10,390
+me small. The next day I approved the
+project. Within 3 months, the rebrand
+
+462
+00:08:10,390 --> 00:08:10,400
+project. Within 3 months, the rebrand
+ 
+
+463
+00:08:10,400 --> 00:08:12,550
+project. Within 3 months, the rebrand
+was complete. One year later, our
+
+464
+00:08:12,550 --> 00:08:12,560
+was complete. One year later, our
+ 
+
+465
+00:08:12,560 --> 00:08:14,230
+was complete. One year later, our
+monthly revenue hadn't just hit that
+
+466
+00:08:14,230 --> 00:08:14,240
+monthly revenue hadn't just hit that
+ 
+
+467
+00:08:14,240 --> 00:08:17,230
+monthly revenue hadn't just hit that
+450K mark. It had exceeded reaching
+
+468
+00:08:17,230 --> 00:08:17,240
+450K mark. It had exceeded reaching
+ 
+
+469
+00:08:17,240 --> 00:08:20,390
+450K mark. It had exceeded reaching
+$500,000 per month. The 78K expense
+
+470
+00:08:20,390 --> 00:08:20,400
+$500,000 per month. The 78K expense
+ 
+
+471
+00:08:20,400 --> 00:08:22,629
+$500,000 per month. The 78K expense
+ended up generating over $2 million in
+
+472
+00:08:22,629 --> 00:08:22,639
+ended up generating over $2 million in
+ 
+
+473
+00:08:22,639 --> 00:08:24,469
+ended up generating over $2 million in
+additional revenue in the first year
+
+474
+00:08:24,469 --> 00:08:24,479
+additional revenue in the first year
+ 
+
+475
+00:08:24,479 --> 00:08:26,309
+additional revenue in the first year
+alone. I've seen this pattern repeat
+
+476
+00:08:26,309 --> 00:08:26,319
+alone. I've seen this pattern repeat
+ 
+
+477
+00:08:26,319 --> 00:08:28,150
+alone. I've seen this pattern repeat
+with founders time and time again. When
+
+478
+00:08:28,150 --> 00:08:28,160
+with founders time and time again. When
+ 
+
+479
+00:08:28,160 --> 00:08:30,230
+with founders time and time again. When
+I was building Founder OS, I invested
+
+480
+00:08:30,230 --> 00:08:30,240
+I was building Founder OS, I invested
+ 
+
+481
+00:08:30,240 --> 00:08:33,190
+I was building Founder OS, I invested
+$68,000 in a video production system far
+
+482
+00:08:33,190 --> 00:08:33,200
+$68,000 in a video production system far
+ 
+
+483
+00:08:33,200 --> 00:08:35,029
+$68,000 in a video production system far
+earlier than most would consider
+
+484
+00:08:35,029 --> 00:08:35,039
+earlier than most would consider
+ 
+
+485
+00:08:35,039 --> 00:08:37,430
+earlier than most would consider
+affordable for a company at our stage.
+
+486
+00:08:37,430 --> 00:08:37,440
+affordable for a company at our stage.
+ 
+
+487
+00:08:37,440 --> 00:08:38,949
+affordable for a company at our stage.
+One founder in our community asked me,
+
+488
+00:08:38,949 --> 00:08:38,959
+One founder in our community asked me,
+ 
+
+489
+00:08:38,959 --> 00:08:41,110
+One founder in our community asked me,
+"Matt, how can you justify such an
+
+490
+00:08:41,110 --> 00:08:41,120
+"Matt, how can you justify such an
+ 
+
+491
+00:08:41,120 --> 00:08:43,670
+"Matt, how can you justify such an
+expense as big as that when you're just
+
+492
+00:08:43,670 --> 00:08:43,680
+expense as big as that when you're just
+ 
+
+493
+00:08:43,680 --> 00:08:45,829
+expense as big as that when you're just
+starting out?" I told him it wasn't just
+
+494
+00:08:45,829 --> 00:08:45,839
+starting out?" I told him it wasn't just
+ 
+
+495
+00:08:45,839 --> 00:08:48,150
+starting out?" I told him it wasn't just
+an expense, it was a revenue engine.
+
+496
+00:08:48,150 --> 00:08:48,160
+an expense, it was a revenue engine.
+ 
+
+497
+00:08:48,160 --> 00:08:50,350
+an expense, it was a revenue engine.
+That video system generated over
+
+498
+00:08:50,350 --> 00:08:50,360
+That video system generated over
+ 
+
+499
+00:08:50,360 --> 00:08:53,430
+That video system generated over
+$840,000 in sales in the first 90 days.
+
+500
+00:08:53,430 --> 00:08:53,440
+$840,000 in sales in the first 90 days.
+ 
+
+501
+00:08:53,440 --> 00:08:55,350
+$840,000 in sales in the first 90 days.
+I've noticed two types of founders. You
+
+502
+00:08:55,350 --> 00:08:55,360
+I've noticed two types of founders. You
+ 
+
+503
+00:08:55,360 --> 00:08:57,990
+I've noticed two types of founders. You
+know, when you see a 68k price tag for
+
+504
+00:08:57,990 --> 00:08:58,000
+know, when you see a 68k price tag for
+ 
+
+505
+00:08:58,000 --> 00:08:59,430
+know, when you see a 68k price tag for
+joining an elite mastermind, do you
+
+506
+00:08:59,430 --> 00:08:59,440
+joining an elite mastermind, do you
+ 
+
+507
+00:08:59,440 --> 00:09:01,430
+joining an elite mastermind, do you
+think, "Wow, like that's expensive as
+
+508
+00:09:01,430 --> 00:09:01,440
+think, "Wow, like that's expensive as
+ 
+
+509
+00:09:01,440 --> 00:09:03,670
+think, "Wow, like that's expensive as
+hell. I can't justify that." Or if I get
+
+510
+00:09:03,670 --> 00:09:03,680
+hell. I can't justify that." Or if I get
+ 
+
+511
+00:09:03,680 --> 00:09:05,269
+hell. I can't justify that." Or if I get
+just three to four new high ticket
+
+512
+00:09:05,269 --> 00:09:05,279
+just three to four new high ticket
+ 
+
+513
+00:09:05,279 --> 00:09:06,710
+just three to four new high ticket
+clients from the connections and
+
+514
+00:09:06,710 --> 00:09:06,720
+clients from the connections and
+ 
+
+515
+00:09:06,720 --> 00:09:09,030
+clients from the connections and
+strategies, this pays for itself many
+
+516
+00:09:09,030 --> 00:09:09,040
+strategies, this pays for itself many
+ 
+
+517
+00:09:09,040 --> 00:09:11,269
+strategies, this pays for itself many
+times over. Founders in camp 1
+
+518
+00:09:11,269 --> 00:09:11,279
+times over. Founders in camp 1
+ 
+
+519
+00:09:11,279 --> 00:09:12,870
+times over. Founders in camp 1
+ultimately become the bottleneck to
+
+520
+00:09:12,870 --> 00:09:12,880
+ultimately become the bottleneck to
+ 
+
+521
+00:09:12,880 --> 00:09:15,350
+ultimately become the bottleneck to
+their own growth. Founders in camp 2, on
+
+522
+00:09:15,350 --> 00:09:15,360
+their own growth. Founders in camp 2, on
+ 
+
+523
+00:09:15,360 --> 00:09:17,430
+their own growth. Founders in camp 2, on
+the other side, experience exponential
+
+524
+00:09:17,430 --> 00:09:17,440
+the other side, experience exponential
+ 
+
+525
+00:09:17,440 --> 00:09:19,030
+the other side, experience exponential
+growth because they run more
+
+526
+00:09:19,030 --> 00:09:19,040
+growth because they run more
+ 
+
+527
+00:09:19,040 --> 00:09:21,110
+growth because they run more
+experiments, pursue more opportunities
+
+528
+00:09:21,110 --> 00:09:21,120
+experiments, pursue more opportunities
+ 
+
+529
+00:09:21,120 --> 00:09:23,509
+experiments, pursue more opportunities
+with a high potential for ROI. It's not
+
+530
+00:09:23,509 --> 00:09:23,519
+with a high potential for ROI. It's not
+ 
+
+531
+00:09:23,519 --> 00:09:25,590
+with a high potential for ROI. It's not
+about being reckless with money. It's
+
+532
+00:09:25,590 --> 00:09:25,600
+about being reckless with money. It's
+ 
+
+533
+00:09:25,600 --> 00:09:28,389
+about being reckless with money. It's
+about calculating return, not just cost.
+
+534
+00:09:28,389 --> 00:09:28,399
+about calculating return, not just cost.
+ 
+
+535
+00:09:28,399 --> 00:09:30,310
+about calculating return, not just cost.
+And this mindset applies beyond business
+
+536
+00:09:30,310 --> 00:09:30,320
+And this mindset applies beyond business
+ 
+
+537
+00:09:30,320 --> 00:09:32,630
+And this mindset applies beyond business
+investments. It applies to your time,
+
+538
+00:09:32,630 --> 00:09:32,640
+investments. It applies to your time,
+ 
+
+539
+00:09:32,640 --> 00:09:34,790
+investments. It applies to your time,
+your energy, your focus. Are you
+
+540
+00:09:34,790 --> 00:09:34,800
+your energy, your focus. Are you
+ 
+
+541
+00:09:34,800 --> 00:09:36,310
+your energy, your focus. Are you
+calculating the ROI on how you spend
+
+542
+00:09:36,310 --> 00:09:36,320
+calculating the ROI on how you spend
+ 
+
+543
+00:09:36,320 --> 00:09:37,670
+calculating the ROI on how you spend
+your days, or are you just trying to
+
+544
+00:09:37,670 --> 00:09:37,680
+your days, or are you just trying to
+ 
+
+545
+00:09:37,680 --> 00:09:40,150
+your days, or are you just trying to
+minimize expenses? The rebrand story was
+
+546
+00:09:40,150 --> 00:09:40,160
+minimize expenses? The rebrand story was
+ 
+
+547
+00:09:40,160 --> 00:09:42,070
+minimize expenses? The rebrand story was
+my wakeup call. And since then, I've
+
+548
+00:09:42,070 --> 00:09:42,080
+my wakeup call. And since then, I've
+ 
+
+549
+00:09:42,080 --> 00:09:43,829
+my wakeup call. And since then, I've
+approached every single decision through
+
+550
+00:09:43,829 --> 00:09:43,839
+approached every single decision through
+ 
+
+551
+00:09:43,839 --> 00:09:46,310
+approached every single decision through
+the lens of ROI, not expense. And it's
+
+552
+00:09:46,310 --> 00:09:46,320
+the lens of ROI, not expense. And it's
+ 
+
+553
+00:09:46,320 --> 00:09:48,230
+the lens of ROI, not expense. And it's
+transformed not just my businesses, but
+
+554
+00:09:48,230 --> 00:09:48,240
+transformed not just my businesses, but
+ 
+
+555
+00:09:48,240 --> 00:09:50,389
+transformed not just my businesses, but
+my entire relationship with resources.
+
+556
+00:09:50,389 --> 00:09:50,399
+my entire relationship with resources.
+ 
+
+557
+00:09:50,399 --> 00:09:51,750
+my entire relationship with resources.
+So next time you're looking at a
+
+558
+00:09:51,750 --> 00:09:51,760
+So next time you're looking at a
+ 
+
+559
+00:09:51,760 --> 00:09:53,910
+So next time you're looking at a
+significant investment in your business,
+
+560
+00:09:53,910 --> 00:09:53,920
+significant investment in your business,
+ 
+
+561
+00:09:53,920 --> 00:09:55,829
+significant investment in your business,
+whether it's hiring a new team member,
+
+562
+00:09:55,829 --> 00:09:55,839
+whether it's hiring a new team member,
+ 
+
+563
+00:09:55,839 --> 00:09:57,910
+whether it's hiring a new team member,
+joining a mastermind, or implementing
+
+564
+00:09:57,910 --> 00:09:57,920
+joining a mastermind, or implementing
+ 
+
+565
+00:09:57,920 --> 00:09:59,829
+joining a mastermind, or implementing
+some new system, don't just ask
+
+566
+00:09:59,829 --> 00:09:59,839
+some new system, don't just ask
+ 
+
+567
+00:09:59,839 --> 00:10:02,230
+some new system, don't just ask
+yourself, how much does this cost? Ask
+
+568
+00:10:02,230 --> 00:10:02,240
+yourself, how much does this cost? Ask
+ 
+
+569
+00:10:02,240 --> 00:10:05,190
+yourself, how much does this cost? Ask
+yourself, what's the ROI if this works?
+
+570
+00:10:05,190 --> 00:10:05,200
+yourself, what's the ROI if this works?
+ 
+
+571
+00:10:05,200 --> 00:10:07,269
+yourself, what's the ROI if this works?
+And what's the cost if I do nothing?
+
+572
+00:10:07,269 --> 00:10:07,279
+And what's the cost if I do nothing?
+ 
+
+573
+00:10:07,279 --> 00:10:09,110
+And what's the cost if I do nothing?
+That shift in thinking might be the
+
+574
+00:10:09,110 --> 00:10:09,120
+That shift in thinking might be the
+ 
+
+575
+00:10:09,120 --> 00:10:10,630
+That shift in thinking might be the
+difference between staying where you are
+
+576
+00:10:10,630 --> 00:10:10,640
+difference between staying where you are
+ 
+
+577
+00:10:10,640 --> 00:10:12,630
+difference between staying where you are
+right now and building your dream
+
+578
+00:10:12,630 --> 00:10:12,640
+right now and building your dream
+ 
+
+579
+00:10:12,640 --> 00:10:14,150
+right now and building your dream
+business. That's the difference between
+
+580
+00:10:14,150 --> 00:10:14,160
+business. That's the difference between
+ 
+
+581
+00:10:14,160 --> 00:10:16,949
+business. That's the difference between
+founders who scale and founders who stay
+
+582
+00:10:16,949 --> 00:10:16,959
+founders who scale and founders who stay
+ 
+
+583
+00:10:16,959 --> 00:10:18,790
+founders who scale and founders who stay
+stuck. So, here's where the rubber hits
+
+584
+00:10:18,790 --> 00:10:18,800
+stuck. So, here's where the rubber hits
+ 
+
+585
+00:10:18,800 --> 00:10:20,870
+stuck. So, here's where the rubber hits
+the road. Let's get tactical. Here's the
+
+586
+00:10:20,870 --> 00:10:20,880
+the road. Let's get tactical. Here's the
+ 
+
+587
+00:10:20,880 --> 00:10:23,590
+the road. Let's get tactical. Here's the
+four question system I use to rewire my
+
+588
+00:10:23,590 --> 00:10:23,600
+four question system I use to rewire my
+ 
+
+589
+00:10:23,600 --> 00:10:25,829
+four question system I use to rewire my
+brain out of expense thinking and then
+
+590
+00:10:25,829 --> 00:10:25,839
+brain out of expense thinking and then
+ 
+
+591
+00:10:25,839 --> 00:10:28,230
+brain out of expense thinking and then
+into ROI thinking. Number one, what's
+
+592
+00:10:28,230 --> 00:10:28,240
+into ROI thinking. Number one, what's
+ 
+
+593
+00:10:28,240 --> 00:10:30,310
+into ROI thinking. Number one, what's
+the money multiplier? Most people look
+
+594
+00:10:30,310 --> 00:10:30,320
+the money multiplier? Most people look
+ 
+
+595
+00:10:30,320 --> 00:10:32,150
+the money multiplier? Most people look
+at a price tag and they think, can I
+
+596
+00:10:32,150 --> 00:10:32,160
+at a price tag and they think, can I
+ 
+
+597
+00:10:32,160 --> 00:10:34,790
+at a price tag and they think, can I
+afford this? That's the wrong question.
+
+598
+00:10:34,790 --> 00:10:34,800
+afford this? That's the wrong question.
+ 
+
+599
+00:10:34,800 --> 00:10:37,030
+afford this? That's the wrong question.
+The right question is, if I put a dollar
+
+600
+00:10:37,030 --> 00:10:37,040
+The right question is, if I put a dollar
+ 
+
+601
+00:10:37,040 --> 00:10:38,870
+The right question is, if I put a dollar
+into this, how many dollars will come
+
+602
+00:10:38,870 --> 00:10:38,880
+into this, how many dollars will come
+ 
+
+603
+00:10:38,880 --> 00:10:40,710
+into this, how many dollars will come
+back to me? Let me show you what I mean.
+
+604
+00:10:40,710 --> 00:10:40,720
+back to me? Let me show you what I mean.
+ 
+
+605
+00:10:40,720 --> 00:10:42,230
+back to me? Let me show you what I mean.
+Last year, a founder in our community
+
+606
+00:10:42,230 --> 00:10:42,240
+Last year, a founder in our community
+ 
+
+607
+00:10:42,240 --> 00:10:44,310
+Last year, a founder in our community
+named Sarah was debating whether to
+
+608
+00:10:44,310 --> 00:10:44,320
+named Sarah was debating whether to
+ 
+
+609
+00:10:44,320 --> 00:10:47,190
+named Sarah was debating whether to
+spend $5,000 on a professional video
+
+610
+00:10:47,190 --> 00:10:47,200
+spend $5,000 on a professional video
+ 
+
+611
+00:10:47,200 --> 00:10:49,910
+spend $5,000 on a professional video
+team for her upcoming course launch. Her
+
+612
+00:10:49,910 --> 00:10:49,920
+team for her upcoming course launch. Her
+ 
+
+613
+00:10:49,920 --> 00:10:52,710
+team for her upcoming course launch. Her
+first thought was, "That's expensive. I
+
+614
+00:10:52,710 --> 00:10:52,720
+first thought was, "That's expensive. I
+ 
+
+615
+00:10:52,720 --> 00:10:54,550
+first thought was, "That's expensive. I
+could just use my iPhone to film this."
+
+616
+00:10:54,550 --> 00:10:54,560
+could just use my iPhone to film this."
+ 
+
+617
+00:10:54,560 --> 00:10:56,389
+could just use my iPhone to film this."
+Then she asked the money multiplier
+
+618
+00:10:56,389 --> 00:10:56,399
+Then she asked the money multiplier
+ 
+
+619
+00:10:56,399 --> 00:10:59,269
+Then she asked the money multiplier
+question. If this $5,000 video helps me
+
+620
+00:10:59,269 --> 00:10:59,279
+question. If this $5,000 video helps me
+ 
+
+621
+00:10:59,279 --> 00:11:02,310
+question. If this $5,000 video helps me
+sell just five more courses at $2,000
+
+622
+00:11:02,310 --> 00:11:02,320
+sell just five more courses at $2,000
+ 
+
+623
+00:11:02,320 --> 00:11:05,350
+sell just five more courses at $2,000
+each, that's a $10,000 return. So, she
+
+624
+00:11:05,350 --> 00:11:05,360
+each, that's a $10,000 return. So, she
+ 
+
+625
+00:11:05,360 --> 00:11:08,230
+each, that's a $10,000 return. So, she
+invested the $5,000. The result, she
+
+626
+00:11:08,230 --> 00:11:08,240
+invested the $5,000. The result, she
+ 
+
+627
+00:11:08,240 --> 00:11:10,790
+invested the $5,000. The result, she
+sold 27 more courses than her previous
+
+628
+00:11:10,790 --> 00:11:10,800
+sold 27 more courses than her previous
+ 
+
+629
+00:11:10,800 --> 00:11:13,590
+sold 27 more courses than her previous
+launch. That's $54,000 in additional
+
+630
+00:11:13,590 --> 00:11:13,600
+launch. That's $54,000 in additional
+ 
+
+631
+00:11:13,600 --> 00:11:16,069
+launch. That's $54,000 in additional
+revenue from a $5,000 investment. That's
+
+632
+00:11:16,069 --> 00:11:16,079
+revenue from a $5,000 investment. That's
+ 
+
+633
+00:11:16,079 --> 00:11:18,949
+revenue from a $5,000 investment. That's
+a 10.8x money multiplier. This isn't
+
+634
+00:11:18,949 --> 00:11:18,959
+a 10.8x money multiplier. This isn't
+ 
+
+635
+00:11:18,959 --> 00:11:20,870
+a 10.8x money multiplier. This isn't
+about spending money. It's about seeing
+
+636
+00:11:20,870 --> 00:11:20,880
+about spending money. It's about seeing
+ 
+
+637
+00:11:20,880 --> 00:11:23,269
+about spending money. It's about seeing
+opportunities where others see expenses.
+
+638
+00:11:23,269 --> 00:11:23,279
+opportunities where others see expenses.
+ 
+
+639
+00:11:23,279 --> 00:11:24,710
+opportunities where others see expenses.
+View your business as if you're a
+
+640
+00:11:24,710 --> 00:11:24,720
+View your business as if you're a
+ 
+
+641
+00:11:24,720 --> 00:11:26,630
+View your business as if you're a
+portfolio manager. Your role is to
+
+642
+00:11:26,630 --> 00:11:26,640
+portfolio manager. Your role is to
+ 
+
+643
+00:11:26,640 --> 00:11:29,190
+portfolio manager. Your role is to
+identify high ROI investments and then
+
+644
+00:11:29,190 --> 00:11:29,200
+identify high ROI investments and then
+ 
+
+645
+00:11:29,200 --> 00:11:31,750
+identify high ROI investments and then
+pull the trigger on them fast. Two,
+
+646
+00:11:31,750 --> 00:11:31,760
+pull the trigger on them fast. Two,
+ 
+
+647
+00:11:31,760 --> 00:11:33,509
+pull the trigger on them fast. Two,
+what's the cost of waiting? Most
+
+648
+00:11:33,509 --> 00:11:33,519
+what's the cost of waiting? Most
+ 
+
+649
+00:11:33,519 --> 00:11:35,430
+what's the cost of waiting? Most
+founders think delaying a decision saves
+
+650
+00:11:35,430 --> 00:11:35,440
+founders think delaying a decision saves
+ 
+
+651
+00:11:35,440 --> 00:11:37,949
+founders think delaying a decision saves
+money, but it doesn't. It costs
+
+652
+00:11:37,949 --> 00:11:37,959
+money, but it doesn't. It costs
+ 
+
+653
+00:11:37,959 --> 00:11:40,470
+money, but it doesn't. It costs
+opportunity. Every day that you wait is
+
+654
+00:11:40,470 --> 00:11:40,480
+opportunity. Every day that you wait is
+ 
+
+655
+00:11:40,480 --> 00:11:42,630
+opportunity. Every day that you wait is
+a day that you're not making progress.
+
+656
+00:11:42,630 --> 00:11:42,640
+a day that you're not making progress.
+ 
+
+657
+00:11:42,640 --> 00:11:44,389
+a day that you're not making progress.
+James, a founder friend of mine, was
+
+658
+00:11:44,389 --> 00:11:44,399
+James, a founder friend of mine, was
+ 
+
+659
+00:11:44,399 --> 00:11:47,350
+James, a founder friend of mine, was
+hesitant about hiring a VA for $3,000 a
+
+660
+00:11:47,350 --> 00:11:47,360
+hesitant about hiring a VA for $3,000 a
+ 
+
+661
+00:11:47,360 --> 00:11:49,430
+hesitant about hiring a VA for $3,000 a
+month. I asked him, "What's the cost of
+
+662
+00:11:49,430 --> 00:11:49,440
+month. I asked him, "What's the cost of
+ 
+
+663
+00:11:49,440 --> 00:11:51,590
+month. I asked him, "What's the cost of
+waiting 90 days to make that hire?" And
+
+664
+00:11:51,590 --> 00:11:51,600
+waiting 90 days to make that hire?" And
+ 
+
+665
+00:11:51,600 --> 00:11:54,230
+waiting 90 days to make that hire?" And
+he calculated it. 3 hours saved daily is
+
+666
+00:11:54,230 --> 00:11:54,240
+he calculated it. 3 hours saved daily is
+ 
+
+667
+00:11:54,240 --> 00:11:57,269
+he calculated it. 3 hours saved daily is
+270 hours over 90 days. His hourly value
+
+668
+00:11:57,269 --> 00:11:57,279
+270 hours over 90 days. His hourly value
+ 
+
+669
+00:11:57,279 --> 00:11:59,990
+270 hours over 90 days. His hourly value
+on sales calls is $500 an hour. So the
+
+670
+00:11:59,990 --> 00:12:00,000
+on sales calls is $500 an hour. So the
+ 
+
+671
+00:12:00,000 --> 00:12:02,829
+on sales calls is $500 an hour. So the
+potential lost revenue is
+
+672
+00:12:02,829 --> 00:12:02,839
+potential lost revenue is
+ 
+
+673
+00:12:02,839 --> 00:12:05,910
+potential lost revenue is
+$135,000. Suddenly that $9,000, which is
+
+674
+00:12:05,910 --> 00:12:05,920
+$135,000. Suddenly that $9,000, which is
+ 
+
+675
+00:12:05,920 --> 00:12:08,629
+$135,000. Suddenly that $9,000, which is
+3 months at 3K, looked tiny compared to
+
+676
+00:12:08,629 --> 00:12:08,639
+3 months at 3K, looked tiny compared to
+ 
+
+677
+00:12:08,639 --> 00:12:11,509
+3 months at 3K, looked tiny compared to
+the $135,000 cost of waiting. He made
+
+678
+00:12:11,509 --> 00:12:11,519
+the $135,000 cost of waiting. He made
+ 
+
+679
+00:12:11,519 --> 00:12:14,389
+the $135,000 cost of waiting. He made
+the hire that week. Within 60 days, his
+
+680
+00:12:14,389 --> 00:12:14,399
+the hire that week. Within 60 days, his
+ 
+
+681
+00:12:14,399 --> 00:12:17,110
+the hire that week. Within 60 days, his
+revenue increased by $42,000 a month.
+
+682
+00:12:17,110 --> 00:12:17,120
+revenue increased by $42,000 a month.
+ 
+
+683
+00:12:17,120 --> 00:12:19,269
+revenue increased by $42,000 a month.
+The real cost wasn't the hire. The real
+
+684
+00:12:19,269 --> 00:12:19,279
+The real cost wasn't the hire. The real
+ 
+
+685
+00:12:19,279 --> 00:12:21,110
+The real cost wasn't the hire. The real
+cost was waiting. Question three is,
+
+686
+00:12:21,110 --> 00:12:21,120
+cost was waiting. Question three is,
+ 
+
+687
+00:12:21,120 --> 00:12:23,190
+cost was waiting. Question three is,
+what will this free me up to do? This is
+
+688
+00:12:23,190 --> 00:12:23,200
+what will this free me up to do? This is
+ 
+
+689
+00:12:23,200 --> 00:12:24,870
+what will this free me up to do? This is
+the question that most founders never
+
+690
+00:12:24,870 --> 00:12:24,880
+the question that most founders never
+ 
+
+691
+00:12:24,880 --> 00:12:26,710
+the question that most founders never
+ask. When you spend money, you're not
+
+692
+00:12:26,710 --> 00:12:26,720
+ask. When you spend money, you're not
+ 
+
+693
+00:12:26,720 --> 00:12:28,790
+ask. When you spend money, you're not
+just buying a thing. You're buying back
+
+694
+00:12:28,790 --> 00:12:28,800
+just buying a thing. You're buying back
+ 
+
+695
+00:12:28,800 --> 00:12:30,790
+just buying a thing. You're buying back
+your time, and that's your most valuable
+
+696
+00:12:30,790 --> 00:12:30,800
+your time, and that's your most valuable
+ 
+
+697
+00:12:30,800 --> 00:12:32,710
+your time, and that's your most valuable
+resource. What you do with your time
+
+698
+00:12:32,710 --> 00:12:32,720
+resource. What you do with your time
+ 
+
+699
+00:12:32,720 --> 00:12:34,710
+resource. What you do with your time
+determines everything. Another founder I
+
+700
+00:12:34,710 --> 00:12:34,720
+determines everything. Another founder I
+ 
+
+701
+00:12:34,720 --> 00:12:36,870
+determines everything. Another founder I
+know, Michelle, was spending 15 hours
+
+702
+00:12:36,870 --> 00:12:36,880
+know, Michelle, was spending 15 hours
+ 
+
+703
+00:12:36,880 --> 00:12:38,629
+know, Michelle, was spending 15 hours
+weekly on content creation for her
+
+704
+00:12:38,629 --> 00:12:38,639
+weekly on content creation for her
+ 
+
+705
+00:12:38,639 --> 00:12:40,870
+weekly on content creation for her
+design business. She hesitated to hire a
+
+706
+00:12:40,870 --> 00:12:40,880
+design business. She hesitated to hire a
+ 
+
+707
+00:12:40,880 --> 00:12:43,350
+design business. She hesitated to hire a
+content manager for $4,500 a month. So,
+
+708
+00:12:43,350 --> 00:12:43,360
+content manager for $4,500 a month. So,
+ 
+
+709
+00:12:43,360 --> 00:12:45,509
+content manager for $4,500 a month. So,
+I asked her, "If you get these 15 hours
+
+710
+00:12:45,509 --> 00:12:45,519
+I asked her, "If you get these 15 hours
+ 
+
+711
+00:12:45,519 --> 00:12:47,190
+I asked her, "If you get these 15 hours
+back each week, what would you do
+
+712
+00:12:47,190 --> 00:12:47,200
+back each week, what would you do
+ 
+
+713
+00:12:47,200 --> 00:12:49,190
+back each week, what would you do
+instead?" Her answer was, "I'd focus on
+
+714
+00:12:49,190 --> 00:12:49,200
+instead?" Her answer was, "I'd focus on
+ 
+
+715
+00:12:49,200 --> 00:12:51,350
+instead?" Her answer was, "I'd focus on
+partnership calls with bigger brands."
+
+716
+00:12:51,350 --> 00:12:51,360
+partnership calls with bigger brands."
+ 
+
+717
+00:12:51,360 --> 00:12:53,350
+partnership calls with bigger brands."
+The math was simple. One partnership
+
+718
+00:12:53,350 --> 00:12:53,360
+The math was simple. One partnership
+ 
+
+719
+00:12:53,360 --> 00:12:56,790
+The math was simple. One partnership
+deal equals $25,000. One deal per month
+
+720
+00:12:56,790 --> 00:12:56,800
+deal equals $25,000. One deal per month
+ 
+
+721
+00:12:56,800 --> 00:12:59,670
+deal equals $25,000. One deal per month
+equals $300,000 per year. A cost of a
+
+722
+00:12:59,670 --> 00:12:59,680
+equals $300,000 per year. A cost of a
+ 
+
+723
+00:12:59,680 --> 00:13:02,470
+equals $300,000 per year. A cost of a
+content manager is $54,000 per year. So
+
+724
+00:13:02,470 --> 00:13:02,480
+content manager is $54,000 per year. So
+ 
+
+725
+00:13:02,480 --> 00:13:05,350
+content manager is $54,000 per year. So
+that's a 5.5x return just by focusing
+
+726
+00:13:05,350 --> 00:13:05,360
+that's a 5.5x return just by focusing
+ 
+
+727
+00:13:05,360 --> 00:13:07,269
+that's a 5.5x return just by focusing
+her freed up time on high lever
+
+728
+00:13:07,269 --> 00:13:07,279
+her freed up time on high lever
+ 
+
+729
+00:13:07,279 --> 00:13:08,949
+her freed up time on high lever
+activities. She'd get this insane
+
+730
+00:13:08,949 --> 00:13:08,959
+activities. She'd get this insane
+ 
+
+731
+00:13:08,959 --> 00:13:11,269
+activities. She'd get this insane
+return. This isn't just delegation, it's
+
+732
+00:13:11,269 --> 00:13:11,279
+return. This isn't just delegation, it's
+ 
+
+733
+00:13:11,279 --> 00:13:13,430
+return. This isn't just delegation, it's
+time leverage, turning average hours
+
+734
+00:13:13,430 --> 00:13:13,440
+time leverage, turning average hours
+ 
+
+735
+00:13:13,440 --> 00:13:15,269
+time leverage, turning average hours
+into golden opportunities. Question
+
+736
+00:13:15,269 --> 00:13:15,279
+into golden opportunities. Question
+ 
+
+737
+00:13:15,279 --> 00:13:17,430
+into golden opportunities. Question
+number four is, can I survive the worst
+
+738
+00:13:17,430 --> 00:13:17,440
+number four is, can I survive the worst
+ 
+
+739
+00:13:17,440 --> 00:13:19,829
+number four is, can I survive the worst
+case? Most people focus so much on what
+
+740
+00:13:19,829 --> 00:13:19,839
+case? Most people focus so much on what
+ 
+
+741
+00:13:19,839 --> 00:13:21,829
+case? Most people focus so much on what
+might go wrong that they miss what could
+
+742
+00:13:21,829 --> 00:13:21,839
+might go wrong that they miss what could
+ 
+
+743
+00:13:21,839 --> 00:13:24,550
+might go wrong that they miss what could
+go right. Smart ROI thinkers ask, if
+
+744
+00:13:24,550 --> 00:13:24,560
+go right. Smart ROI thinkers ask, if
+ 
+
+745
+00:13:24,560 --> 00:13:26,870
+go right. Smart ROI thinkers ask, if
+this fails completely, can I survive it?
+
+746
+00:13:26,870 --> 00:13:26,880
+this fails completely, can I survive it?
+ 
+
+747
+00:13:26,880 --> 00:13:29,269
+this fails completely, can I survive it?
+If yes, and the upside is significant,
+
+748
+00:13:29,269 --> 00:13:29,279
+If yes, and the upside is significant,
+ 
+
+749
+00:13:29,279 --> 00:13:31,509
+If yes, and the upside is significant,
+it's almost always worth the risk.
+
+750
+00:13:31,509 --> 00:13:31,519
+it's almost always worth the risk.
+ 
+
+751
+00:13:31,519 --> 00:13:33,509
+it's almost always worth the risk.
+Another example, Mark, a founder I know,
+
+752
+00:13:33,509 --> 00:13:33,519
+Another example, Mark, a founder I know,
+ 
+
+753
+00:13:33,519 --> 00:13:34,870
+Another example, Mark, a founder I know,
+wanted to launch a high ticket
+
+754
+00:13:34,870 --> 00:13:34,880
+wanted to launch a high ticket
+ 
+
+755
+00:13:34,880 --> 00:13:36,710
+wanted to launch a high ticket
+mastermind, but was afraid to invest
+
+756
+00:13:36,710 --> 00:13:36,720
+mastermind, but was afraid to invest
+ 
+
+757
+00:13:36,720 --> 00:13:39,110
+mastermind, but was afraid to invest
+$20,000 in marketing. The worst case, he
+
+758
+00:13:39,110 --> 00:13:39,120
+$20,000 in marketing. The worst case, he
+ 
+
+759
+00:13:39,120 --> 00:13:41,829
+$20,000 in marketing. The worst case, he
+loses $20,000. The best case is he
+
+760
+00:13:41,829 --> 00:13:41,839
+loses $20,000. The best case is he
+ 
+
+761
+00:13:41,839 --> 00:13:44,710
+loses $20,000. The best case is he
+enrolls 10 members at 25,000 each and
+
+762
+00:13:44,710 --> 00:13:44,720
+enrolls 10 members at 25,000 each and
+ 
+
+763
+00:13:44,720 --> 00:13:45,550
+enrolls 10 members at 25,000 each and
+makes
+
+764
+00:13:45,550 --> 00:13:45,560
+makes
+ 
+
+765
+00:13:45,560 --> 00:13:48,629
+makes
+$250,000. That's a 12.5x potential
+
+766
+00:13:48,629 --> 00:13:48,639
+$250,000. That's a 12.5x potential
+ 
+
+767
+00:13:48,639 --> 00:13:51,269
+$250,000. That's a 12.5x potential
+return. Could he survive losing 20,000?
+
+768
+00:13:51,269 --> 00:13:51,279
+return. Could he survive losing 20,000?
+ 
+
+769
+00:13:51,279 --> 00:13:54,470
+return. Could he survive losing 20,000?
+Yeah. Was a potential $250,000 worth the
+
+770
+00:13:54,470 --> 00:13:54,480
+Yeah. Was a potential $250,000 worth the
+ 
+
+771
+00:13:54,480 --> 00:13:57,110
+Yeah. Was a potential $250,000 worth the
+risk? Absolutely. This isn't reckless.
+
+772
+00:13:57,110 --> 00:13:57,120
+risk? Absolutely. This isn't reckless.
+ 
+
+773
+00:13:57,120 --> 00:13:59,350
+risk? Absolutely. This isn't reckless.
+It's calculated courage. Now, I want to
+
+774
+00:13:59,350 --> 00:13:59,360
+It's calculated courage. Now, I want to
+ 
+
+775
+00:13:59,360 --> 00:14:01,110
+It's calculated courage. Now, I want to
+give you the most powerful shift that
+
+776
+00:14:01,110 --> 00:14:01,120
+give you the most powerful shift that
+ 
+
+777
+00:14:01,120 --> 00:14:03,189
+give you the most powerful shift that
+changed everything for me. This isn't
+
+778
+00:14:03,189 --> 00:14:03,199
+changed everything for me. This isn't
+ 
+
+779
+00:14:03,199 --> 00:14:05,350
+changed everything for me. This isn't
+about just asking better questions. It's
+
+780
+00:14:05,350 --> 00:14:05,360
+about just asking better questions. It's
+ 
+
+781
+00:14:05,360 --> 00:14:07,430
+about just asking better questions. It's
+about becoming a different kind of
+
+782
+00:14:07,430 --> 00:14:07,440
+about becoming a different kind of
+ 
+
+783
+00:14:07,440 --> 00:14:09,430
+about becoming a different kind of
+founder, a different thinker. Here's the
+
+784
+00:14:09,430 --> 00:14:09,440
+founder, a different thinker. Here's the
+ 
+
+785
+00:14:09,440 --> 00:14:11,350
+founder, a different thinker. Here's the
+sentence that transformed my entire
+
+786
+00:14:11,350 --> 00:14:11,360
+sentence that transformed my entire
+ 
+
+787
+00:14:11,360 --> 00:14:13,829
+sentence that transformed my entire
+business. Expense thinkers cut costs to
+
+788
+00:14:13,829 --> 00:14:13,839
+business. Expense thinkers cut costs to
+ 
+
+789
+00:14:13,839 --> 00:14:15,910
+business. Expense thinkers cut costs to
+survive. ROI thinkers invest
+
+790
+00:14:15,910 --> 00:14:15,920
+survive. ROI thinkers invest
+ 
+
+791
+00:14:15,920 --> 00:14:18,150
+survive. ROI thinkers invest
+strategically to thrive. I see the
+
+792
+00:14:18,150 --> 00:14:18,160
+strategically to thrive. I see the
+ 
+
+793
+00:14:18,160 --> 00:14:20,150
+strategically to thrive. I see the
+difference every single day at Founder
+
+794
+00:14:20,150 --> 00:14:20,160
+difference every single day at Founder
+ 
+
+795
+00:14:20,160 --> 00:14:22,150
+difference every single day at Founder
+OS. The founders who grow the fastest
+
+796
+00:14:22,150 --> 00:14:22,160
+OS. The founders who grow the fastest
+ 
+
+797
+00:14:22,160 --> 00:14:24,150
+OS. The founders who grow the fastest
+aren't the ones with the best ideas.
+
+798
+00:14:24,150 --> 00:14:24,160
+aren't the ones with the best ideas.
+ 
+
+799
+00:14:24,160 --> 00:14:25,829
+aren't the ones with the best ideas.
+They're the ones who make decisions
+
+800
+00:14:25,829 --> 00:14:25,839
+They're the ones who make decisions
+ 
+
+801
+00:14:25,839 --> 00:14:27,430
+They're the ones who make decisions
+differently. Let me show you what this
+
+802
+00:14:27,430 --> 00:14:27,440
+differently. Let me show you what this
+ 
+
+803
+00:14:27,440 --> 00:14:29,509
+differently. Let me show you what this
+looks like in real life. An expense
+
+804
+00:14:29,509 --> 00:14:29,519
+looks like in real life. An expense
+ 
+
+805
+00:14:29,519 --> 00:14:31,110
+looks like in real life. An expense
+thinker says things like, "I can't
+
+806
+00:14:31,110 --> 00:14:31,120
+thinker says things like, "I can't
+ 
+
+807
+00:14:31,120 --> 00:14:32,949
+thinker says things like, "I can't
+afford a team right now. Maybe when we
+
+808
+00:14:32,949 --> 00:14:32,959
+afford a team right now. Maybe when we
+ 
+
+809
+00:14:32,959 --> 00:14:35,030
+afford a team right now. Maybe when we
+hit 100K per month." On the other side
+
+810
+00:14:35,030 --> 00:14:35,040
+hit 100K per month." On the other side
+ 
+
+811
+00:14:35,040 --> 00:14:37,189
+hit 100K per month." On the other side
+of it, an ROI thinker says, "I can't
+
+812
+00:14:37,189 --> 00:14:37,199
+of it, an ROI thinker says, "I can't
+ 
+
+813
+00:14:37,199 --> 00:14:39,430
+of it, an ROI thinker says, "I can't
+afford to not build a team." Each hire
+
+814
+00:14:39,430 --> 00:14:39,440
+afford to not build a team." Each hire
+ 
+
+815
+00:14:39,440 --> 00:14:41,670
+afford to not build a team." Each hire
+should 3x their salary and value. An
+
+816
+00:14:41,670 --> 00:14:41,680
+should 3x their salary and value. An
+ 
+
+817
+00:14:41,680 --> 00:14:43,110
+should 3x their salary and value. An
+expense thinker is going to say, "Let's
+
+818
+00:14:43,110 --> 00:14:43,120
+expense thinker is going to say, "Let's
+ 
+
+819
+00:14:43,120 --> 00:14:45,189
+expense thinker is going to say, "Let's
+cut the software budget by 20% to
+
+820
+00:14:45,189 --> 00:14:45,199
+cut the software budget by 20% to
+ 
+
+821
+00:14:45,199 --> 00:14:47,590
+cut the software budget by 20% to
+improve our margins." An ROI thinker is
+
+822
+00:14:47,590 --> 00:14:47,600
+improve our margins." An ROI thinker is
+ 
+
+823
+00:14:47,600 --> 00:14:49,430
+improve our margins." An ROI thinker is
+going to say, "Let's invest in software
+
+824
+00:14:49,430 --> 00:14:49,440
+going to say, "Let's invest in software
+ 
+
+825
+00:14:49,440 --> 00:14:51,350
+going to say, "Let's invest in software
+that makes us 5x more efficient and
+
+826
+00:14:51,350 --> 00:14:51,360
+that makes us 5x more efficient and
+ 
+
+827
+00:14:51,360 --> 00:14:53,350
+that makes us 5x more efficient and
+eliminates human error." An expense
+
+828
+00:14:53,350 --> 00:14:53,360
+eliminates human error." An expense
+ 
+
+829
+00:14:53,360 --> 00:14:54,629
+eliminates human error." An expense
+thinker is going to say, "We need to
+
+830
+00:14:54,629 --> 00:14:54,639
+thinker is going to say, "We need to
+ 
+
+831
+00:14:54,639 --> 00:14:56,629
+thinker is going to say, "We need to
+reduce our content budget until our
+
+832
+00:14:56,629 --> 00:14:56,639
+reduce our content budget until our
+ 
+
+833
+00:14:56,639 --> 00:14:58,550
+reduce our content budget until our
+revenue improves." An ROI thinker is
+
+834
+00:14:58,550 --> 00:14:58,560
+revenue improves." An ROI thinker is
+ 
+
+835
+00:14:58,560 --> 00:15:00,389
+revenue improves." An ROI thinker is
+going to say, "Let's double down on the
+
+836
+00:15:00,389 --> 00:15:00,399
+going to say, "Let's double down on the
+ 
+
+837
+00:15:00,399 --> 00:15:02,470
+going to say, "Let's double down on the
+organic content with the highest return
+
+838
+00:15:02,470 --> 00:15:02,480
+organic content with the highest return
+ 
+
+839
+00:15:02,480 --> 00:15:04,710
+organic content with the highest return
+and then cut the rest." This identity
+
+840
+00:15:04,710 --> 00:15:04,720
+and then cut the rest." This identity
+ 
+
+841
+00:15:04,720 --> 00:15:07,430
+and then cut the rest." This identity
+shift from expense thinking to ROI
+
+842
+00:15:07,430 --> 00:15:07,440
+shift from expense thinking to ROI
+ 
+
+843
+00:15:07,440 --> 00:15:09,590
+shift from expense thinking to ROI
+thinking is what separates good founders
+
+844
+00:15:09,590 --> 00:15:09,600
+thinking is what separates good founders
+ 
+
+845
+00:15:09,600 --> 00:15:12,230
+thinking is what separates good founders
+from the greatest. One sees cost, the
+
+846
+00:15:12,230 --> 00:15:12,240
+from the greatest. One sees cost, the
+ 
+
+847
+00:15:12,240 --> 00:15:14,389
+from the greatest. One sees cost, the
+other sees investments. One plays
+
+848
+00:15:14,389 --> 00:15:14,399
+other sees investments. One plays
+ 
+
+849
+00:15:14,399 --> 00:15:17,350
+other sees investments. One plays
+defense, the other plays offense. One
+
+850
+00:15:17,350 --> 00:15:17,360
+defense, the other plays offense. One
+ 
+
+851
+00:15:17,360 --> 00:15:20,550
+defense, the other plays offense. One
+stays stuck, the other one scales. There
+
+852
+00:15:20,550 --> 00:15:20,560
+stays stuck, the other one scales. There
+ 
+
+853
+00:15:20,560 --> 00:15:23,269
+stays stuck, the other one scales. There
+are two currencies in business, money
+
+854
+00:15:23,269 --> 00:15:23,279
+are two currencies in business, money
+ 
+
+855
+00:15:23,279 --> 00:15:25,590
+are two currencies in business, money
+and time. Only one of them is infinite.
+
+856
+00:15:25,590 --> 00:15:25,600
+and time. Only one of them is infinite.
+ 
+
+857
+00:15:25,600 --> 00:15:27,829
+and time. Only one of them is infinite.
+Every single day, founders make a fatal
+
+858
+00:15:27,829 --> 00:15:27,839
+Every single day, founders make a fatal
+ 
+
+859
+00:15:27,839 --> 00:15:29,990
+Every single day, founders make a fatal
+mistake. They save money, but then they
+
+860
+00:15:29,990 --> 00:15:30,000
+mistake. They save money, but then they
+ 
+
+861
+00:15:30,000 --> 00:15:32,550
+mistake. They save money, but then they
+spend time. They DIY their website to
+
+862
+00:15:32,550 --> 00:15:32,560
+spend time. They DIY their website to
+ 
+
+863
+00:15:32,560 --> 00:15:34,870
+spend time. They DIY their website to
+save 5K, but then spend 40 hours
+
+864
+00:15:34,870 --> 00:15:34,880
+save 5K, but then spend 40 hours
+ 
+
+865
+00:15:34,880 --> 00:15:36,389
+save 5K, but then spend 40 hours
+building it themselves. They handle
+
+866
+00:15:36,389 --> 00:15:36,399
+building it themselves. They handle
+ 
+
+867
+00:15:36,399 --> 00:15:38,550
+building it themselves. They handle
+their own bookkeeping to save 5,000 a
+
+868
+00:15:38,550 --> 00:15:38,560
+their own bookkeeping to save 5,000 a
+ 
+
+869
+00:15:38,560 --> 00:15:40,870
+their own bookkeeping to save 5,000 a
+month, but waste 6 hours a month on a
+
+870
+00:15:40,870 --> 00:15:40,880
+month, but waste 6 hours a month on a
+ 
+
+871
+00:15:40,880 --> 00:15:43,110
+month, but waste 6 hours a month on a
+task that they hate. They write their
+
+872
+00:15:43,110 --> 00:15:43,120
+task that they hate. They write their
+ 
+
+873
+00:15:43,120 --> 00:15:45,750
+task that they hate. They write their
+own content to save 5,000, but then
+
+874
+00:15:45,750 --> 00:15:45,760
+own content to save 5,000, but then
+ 
+
+875
+00:15:45,760 --> 00:15:47,430
+own content to save 5,000, but then
+spend 10 hours creating something that
+
+876
+00:15:47,430 --> 00:15:47,440
+spend 10 hours creating something that
+ 
+
+877
+00:15:47,440 --> 00:15:48,870
+spend 10 hours creating something that
+doesn't even convert. Money is
+
+878
+00:15:48,870 --> 00:15:48,880
+doesn't even convert. Money is
+ 
+
+879
+00:15:48,880 --> 00:15:51,990
+doesn't even convert. Money is
+renewable. Your time is not. This is the
+
+880
+00:15:51,990 --> 00:15:52,000
+renewable. Your time is not. This is the
+ 
+
+881
+00:15:52,000 --> 00:15:53,670
+renewable. Your time is not. This is the
+prison that you've built for yourself.
+
+882
+00:15:53,670 --> 00:15:53,680
+prison that you've built for yourself.
+ 
+
+883
+00:15:53,680 --> 00:15:55,509
+prison that you've built for yourself.
+And the key to escape it isn't working
+
+884
+00:15:55,509 --> 00:15:55,519
+And the key to escape it isn't working
+ 
+
+885
+00:15:55,519 --> 00:15:57,430
+And the key to escape it isn't working
+harder. It isn't even hiring more
+
+886
+00:15:57,430 --> 00:15:57,440
+harder. It isn't even hiring more
+ 
+
+887
+00:15:57,440 --> 00:15:59,670
+harder. It isn't even hiring more
+people. It isn't even making more money.
+
+888
+00:15:59,670 --> 00:15:59,680
+people. It isn't even making more money.
+ 
+
+889
+00:15:59,680 --> 00:16:01,990
+people. It isn't even making more money.
+It's changing how you think about money.
+
+890
+00:16:01,990 --> 00:16:02,000
+It's changing how you think about money.
+ 
+
+891
+00:16:02,000 --> 00:16:04,870
+It's changing how you think about money.
+Stop asking how much does this cost.
+
+892
+00:16:04,870 --> 00:16:04,880
+Stop asking how much does this cost.
+ 
+
+893
+00:16:04,880 --> 00:16:07,350
+Stop asking how much does this cost.
+Start asking what's the ROI if this
+
+894
+00:16:07,350 --> 00:16:07,360
+Start asking what's the ROI if this
+ 
+
+895
+00:16:07,360 --> 00:16:09,269
+Start asking what's the ROI if this
+works. Because the real question isn't
+
+896
+00:16:09,269 --> 00:16:09,279
+works. Because the real question isn't
+ 
+
+897
+00:16:09,279 --> 00:16:11,189
+works. Because the real question isn't
+whether you can afford to invest. It's
+
+898
+00:16:11,189 --> 00:16:11,199
+whether you can afford to invest. It's
+ 
+
+899
+00:16:11,199 --> 00:16:13,269
+whether you can afford to invest. It's
+whether you can afford not to. If you're
+
+900
+00:16:13,269 --> 00:16:13,279
+whether you can afford not to. If you're
+ 
+
+901
+00:16:13,279 --> 00:16:15,430
+whether you can afford not to. If you're
+tired of being the bottleneck in your
+
+902
+00:16:15,430 --> 00:16:15,440
+tired of being the bottleneck in your
+ 
+
+903
+00:16:15,440 --> 00:16:17,030
+tired of being the bottleneck in your
+business. And if you want a business
+
+904
+00:16:17,030 --> 00:16:17,040
+business. And if you want a business
+ 
+
+905
+00:16:17,040 --> 00:16:18,870
+business. And if you want a business
+that serves your life instead of
+
+906
+00:16:18,870 --> 00:16:18,880
+that serves your life instead of
+ 
+
+907
+00:16:18,880 --> 00:16:21,189
+that serves your life instead of
+consuming it, well then it's time to
+
+908
+00:16:21,189 --> 00:16:21,199
+consuming it, well then it's time to
+ 
+
+909
+00:16:21,199 --> 00:16:23,509
+consuming it, well then it's time to
+install systems that will think for you.
+
+910
+00:16:23,509 --> 00:16:23,519
+install systems that will think for you.
+ 
+
+911
+00:16:23,519 --> 00:16:25,990
+install systems that will think for you.
+That's exactly what we do at Founder OS.
+
+912
+00:16:25,990 --> 00:16:26,000
+That's exactly what we do at Founder OS.
+ 
+
+913
+00:16:26,000 --> 00:16:28,470
+That's exactly what we do at Founder OS.
+We don't just teach theory. It's no BS.
+
+914
+00:16:28,470 --> 00:16:28,480
+We don't just teach theory. It's no BS.
+ 
+
+915
+00:16:28,480 --> 00:16:31,110
+We don't just teach theory. It's no BS.
+No fluff. We help founders build systems
+
+916
+00:16:31,110 --> 00:16:31,120
+No fluff. We help founders build systems
+ 
+
+917
+00:16:31,120 --> 00:16:33,430
+No fluff. We help founders build systems
+that transform how you think, how you
+
+918
+00:16:33,430 --> 00:16:33,440
+that transform how you think, how you
+ 
+
+919
+00:16:33,440 --> 00:16:35,030
+that transform how you think, how you
+work, and how you build. Now, you don't
+
+920
+00:16:35,030 --> 00:16:35,040
+work, and how you build. Now, you don't
+ 
+
+921
+00:16:35,040 --> 00:16:36,629
+work, and how you build. Now, you don't
+have to choose between success and
+
+922
+00:16:36,629 --> 00:16:36,639
+have to choose between success and
+ 
+
+923
+00:16:36,639 --> 00:16:38,550
+have to choose between success and
+freedom. You can have both. We have the
+
+924
+00:16:38,550 --> 00:16:38,560
+freedom. You can have both. We have the
+ 
+
+925
+00:16:38,560 --> 00:16:40,230
+freedom. You can have both. We have the
+community, the mentorship. You'll get
+
+926
+00:16:40,230 --> 00:16:40,240
+community, the mentorship. You'll get
+ 
+
+927
+00:16:40,240 --> 00:16:42,550
+community, the mentorship. You'll get
+direct access to me to get all your
+
+928
+00:16:42,550 --> 00:16:42,560
+direct access to me to get all your
+ 
+
+929
+00:16:42,560 --> 00:16:44,629
+direct access to me to get all your
+questions answered and ensure that you
+
+930
+00:16:44,629 --> 00:16:44,639
+questions answered and ensure that you
+ 
+
+931
+00:16:44,639 --> 00:16:47,110
+questions answered and ensure that you
+get unstuck and able to scale. If you
+
+932
+00:16:47,110 --> 00:16:47,120
+get unstuck and able to scale. If you
+ 
+
+933
+00:16:47,120 --> 00:16:48,790
+get unstuck and able to scale. If you
+enjoyed this video, be sure to like and
+
+934
+00:16:48,790 --> 00:16:48,800
+enjoyed this video, be sure to like and
+ 
+
+935
+00:16:48,800 --> 00:16:51,610
+enjoyed this video, be sure to like and
+subscribe. Apply to Founder S below.
+
+936
+00:16:51,610 --> 00:16:51,620
+subscribe. Apply to Founder S below.
+ 
+
+937
+00:16:51,620 --> 00:16:53,850
+subscribe. Apply to Founder S below.
+[Music]
+

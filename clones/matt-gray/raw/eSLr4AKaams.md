@@ -1,0 +1,8 @@
+1|So, this is Poppy AI, and what I'm going to show you here is how I quickly come up with new titles for an upcoming YouTube video and help me get into that brainstorming mode. So, what we're going to go do is we're going to go to my
+11|YouTube channel. And so, we'll pull that up. Now, the cool thing is I can go and copy this link. I can paste it into Poppy AI. Okay, so here it is. It's pasting it. Now, it's going and
+22|synthesizing all the titles and everything that exists on my YouTube page. I can then go and hook up a YouTube chat window here. So, this AI chat, I can connect it to my YouTube
+32|channel. Here you can see it's synthesizing all of the different titles, the YouTube videos that I have, and now it's connected to on this AI chat, which is hooked up to Claude 4
+42|Sonnet. So, there we go. We've got my channel, and now we've got this. So, what I'm going to go and do is I'm just going to put, all right, let's see what it comes up with here. Now, it's going and analyzing my channel, and it's
+52|coming up with a bunch of different titles here. Okay? You know, as with anything with AI, right? You need to make sure that you're actually using your own human ingenuity here as well,
+63|right? We're not just taking anything as it is. We're always going and adding our own spark and creativity. What I see as like the future with AI is that creators go from always being the one that has to
+73|build things from the ground up to just having an assistant along the way with you. But, you still have to be that editor, that chief detail officer, that person that is looking at the details and making sure that, you know, the stuff is just right.

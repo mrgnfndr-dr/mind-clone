@@ -1,0 +1,5 @@
+1|When you feel overwhelmed, you don't need more effort. You need a board meeting with yourself. I'll take some time, generally about an hour around the end of a month to go and really get outside of my environment. I'll oftentimes go to my favorite cafe in a
+11|given city. I'll go and do some reflection. I'll go and think about, you know, over the past 30 days, what were the things that I loved the most? What are the things that I learned the most? And what do I need to go and
+22|focus on to make the next month the best month of my life? I have board meetings from like a decade ago, which is a pretty awesome experience to be able to go back to 2015 and go and
+33|look at where was I then? What was I currently thinking about? The board meeting serves as this awesome anchor that keeps you grounded. It also serves as this amazing lighthouse that
+44|kind of shows you the way. And when you give yourself time to actually do this exercise, I think you're giving yourself an amazing amount of time to level up as a leader and leave those negative thoughts behind

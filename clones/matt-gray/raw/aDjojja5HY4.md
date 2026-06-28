@@ -1,0 +1,5 @@
+1|the measuring stick I use for every business I create is What's called the one month test ask yourself this if I take a one month break will I come back to my business stronger than before if the answer is no then you need to learn
+11|the art of creating systems here are four steps to mastering this step one create a Google doc outline to clear one-ear goal then reverse engineer that Vision into 90day goals write up the
+22|list of steps you need to achieve the goal who's going to do the work and how they're going to do it step two record a loom create a 5-minute loom video covering the pass from top to bottom explain what needs to be done how it
+33|needs to be done and where to go for inspiration when they get stuck step three set a weekly meeting meet with the systems owner ensure you're on the same page and check the system is working as planned step four refine the system make
+45|changes to the Google Doc when necessary Implement feedback and keep on refining until you leave your business for a month and know it will keep running without you

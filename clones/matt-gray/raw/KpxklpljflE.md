@@ -1,0 +1,3 @@
+2|the reason most people don't succeed is because they see failures as obstacles instead of opportunities no matter what you're doing you're going to make mistakes but those failures are not evidence of your own inadequacy they're evidence of growth because you're doing
+12|something you've never done before and so there's a lot to learn most people's greatest fear though is to discover that they're fundamentally inadequate to achieve their dreams that somehow their imagination is more capable than they
+23|are but the only fundamental inadequacy is believing that failures are indications that you should quit every failure has a lesson to teach and all you've got to do is listen

@@ -1,0 +1,20 @@
+{"cmd": "intent", "text": "Mergen MRR solo-predprinimatel, organicheskoe prodvizhenie svoego proekta dlya solo cherez korotkoe video, kontent-zavody, UGC-mashiny; tezis kanal diktuet proekt; auditoriya predprinimateli 25-45 kotorye umeyut delat produkt no zastrevayut na prodvizhenii; Instagram osnovnaya platforma; tsel za 12 mesyatsev vyrastit Instagram, stat ekspertom i vyiti na MRR cherez infobiz"}
+{"cmd": "sources", "n": 254}
+{"cmd": "map", "source": "s081", "vectors": 1}
+{"cmd": "map", "source": "s067", "vectors": 1}
+{"cmd": "map", "source": "s002", "vectors": 6}
+{"cmd": "select", "source": "s081", "vectors": ["entrepreneurship"]}
+{"cmd": "select", "source": "s067", "vectors": ["business-model"]}
+{"cmd": "select", "source": "s087", "vectors": ["funnel"]}
+{"cmd": "select", "source": "s002", "vectors": ["brand-building", "entrepreneurship"]}
+{"cmd": "select", "source": "s010", "vectors": ["ai-and-authenticity"]}
+{"cmd": "select", "source": "s105", "vectors": ["online-courses"]}
+{"cmd": "select", "source": "s103", "vectors": ["affiliate-marketing"]}
+{"cmd": "select", "source": "s019", "vectors": ["brand-building"]}
+{"cmd": "select", "source": "s044", "vectors": ["content-strategy"]}
+{"cmd": "select", "source": "s072", "vectors": ["content-strategy"]}
+{"cmd": "select", "source": "s034", "vectors": ["niche"]}
+{"cmd": "select", "source": "s071", "vectors": ["algorithm"]}
+{"cmd": "select", "source": "s055", "vectors": ["strategy"]}
+{"cmd": "select", "source": "s085", "vectors": ["strategy", "niche"]}
+{"cmd": "compile", "eps": 24}

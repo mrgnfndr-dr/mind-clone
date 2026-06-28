@@ -1,0 +1,4 @@
+1|I learned this from Mel Robbins. She says something that rewired my brain. It's called the 5-second rule. Now, whenever you think of something that you need to get done, you go simply and countdown from 5 4 3 2 1 and then take
+14|the smallest action possible to immediately move forward and get that thing going. Too many people get caught up in perfectionism when the truth is that done is better than perfect. It
+24|started to hit me that damn, I was really getting in the way of my own momentum. I had become my own worst enemy. So I made a new pack with myself. I would start seeking the pain and
+34|getting through this discomfort. It was from this discomfort that I was able to finally go and start getting the real results that I crave. As Walt Disney said, the way to get started is to quit talking and begin

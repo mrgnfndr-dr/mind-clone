@@ -1,0 +1,6 @@
+1|if you feel lost when you sit down to post content you need a brand strategy here are five pillars to my brand strategy system I use these to grow my audience to 1.8 million in under a year find your zone of Genius the most
+11|important aspect of your content is the experience you bring to it focus on something you have already achieved and your audience growth will be exponential choose your Target customer the Target
+21|customer is the person who needs what you already know speak to them and help them level up pick your positioning your positioning is what makes you stand out it's your unique solution to your customer's pain point you want to be so
+32|specific with the problems you solve that you become number one in your category Define your vision your vision is the destination of your business my vision with founder OS is to build a community of 10 million Founders who are
+42|changing the world the bigger the better Define your mission your vision is what your company is working towards your mission is how you'll get it done the clearer you are in your brand strategy the more you'll feel excited about
+52|posting content your growth will compound until it becomes Unstoppable

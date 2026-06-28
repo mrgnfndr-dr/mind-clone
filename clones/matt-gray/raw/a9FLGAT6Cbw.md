@@ -1,0 +1,4 @@
+2|you're not lazy your goals just suck here's a three-part system to set goals that make you jump out of bed in the morning make deadlines meaningful reward yourself once you've completed a task or set a penalty for not finishing before
+12|the deadline optimize for making your motivation greater than your discomfort put your heart in it if you don't care about a project your heart won't be in it optimize your goal setting towards serving others and the motivation will
+23|naturally flow set yourself up for Success create a plan for execution when will you finish how are you going to carry it out how long do you you need then block off work in your calendar create a space for flow no phone no TV
+35|no unnecessary tabs set task that can be completed in no more than 4 hours of deep work a day

@@ -1,0 +1,4225 @@
+1
+00:00:01,320 --> 00:00:03,230
+ 
+Most founders are still creating content
+
+2
+00:00:03,230 --> 00:00:03,240
+Most founders are still creating content
+ 
+
+3
+00:00:03,240 --> 00:00:04,710
+Most founders are still creating content
+like creators when you need to be
+
+4
+00:00:04,710 --> 00:00:04,720
+like creators when you need to be
+ 
+
+5
+00:00:04,720 --> 00:00:07,030
+like creators when you need to be
+posting content like an architect
+
+6
+00:00:07,030 --> 00:00:07,040
+posting content like an architect
+ 
+
+7
+00:00:07,040 --> 00:00:08,950
+posting content like an architect
+because a founder-led business needs
+
+8
+00:00:08,950 --> 00:00:08,960
+because a founder-led business needs
+ 
+
+9
+00:00:08,960 --> 00:00:11,590
+because a founder-led business needs
+content that behaves like a sales team,
+
+10
+00:00:11,590 --> 00:00:11,600
+content that behaves like a sales team,
+ 
+
+11
+00:00:11,600 --> 00:00:14,070
+content that behaves like a sales team,
+a trust engine, and a customer journey
+
+12
+00:00:14,070 --> 00:00:14,080
+a trust engine, and a customer journey
+ 
+
+13
+00:00:14,080 --> 00:00:16,630
+a trust engine, and a customer journey
+all at once. It's a hard balance to
+
+14
+00:00:16,630 --> 00:00:16,640
+all at once. It's a hard balance to
+ 
+
+15
+00:00:16,640 --> 00:00:18,830
+all at once. It's a hard balance to
+find. I get it, which is exactly why I
+
+16
+00:00:18,830 --> 00:00:18,840
+find. I get it, which is exactly why I
+ 
+
+17
+00:00:18,840 --> 00:00:21,390
+find. I get it, which is exactly why I
+built the Content GPS, which does it for
+
+18
+00:00:21,390 --> 00:00:21,400
+built the Content GPS, which does it for
+ 
+
+19
+00:00:21,400 --> 00:00:24,070
+built the Content GPS, which does it for
+you. It has 180 components mapped across
+
+20
+00:00:24,070 --> 00:00:24,080
+you. It has 180 components mapped across
+ 
+
+21
+00:00:24,080 --> 00:00:26,550
+you. It has 180 components mapped across
+seven core stages, and today it runs the
+
+22
+00:00:26,550 --> 00:00:26,560
+seven core stages, and today it runs the
+ 
+
+23
+00:00:26,560 --> 00:00:29,070
+seven core stages, and today it runs the
+social media engine behind my 3 million
+
+24
+00:00:29,070 --> 00:00:29,080
+social media engine behind my 3 million
+ 
+
+25
+00:00:29,080 --> 00:00:31,150
+social media engine behind my 3 million
+followers and a business doing over $14
+
+26
+00:00:31,150 --> 00:00:31,160
+followers and a business doing over $14
+ 
+
+27
+00:00:31,160 --> 00:00:33,990
+followers and a business doing over $14
+million a year led by organic content.
+
+28
+00:00:33,990 --> 00:00:34,000
+million a year led by organic content.
+ 
+
+29
+00:00:34,000 --> 00:00:35,670
+million a year led by organic content.
+First things first is we've really got
+
+30
+00:00:35,670 --> 00:00:35,680
+First things first is we've really got
+ 
+
+31
+00:00:35,680 --> 00:00:38,310
+First things first is we've really got
+seven core components to a Content GPS.
+
+32
+00:00:38,310 --> 00:00:38,320
+seven core components to a Content GPS.
+ 
+
+33
+00:00:38,320 --> 00:00:40,350
+seven core components to a Content GPS.
+We have traffic, right? Actually going
+
+34
+00:00:40,350 --> 00:00:40,360
+We have traffic, right? Actually going
+ 
+
+35
+00:00:40,360 --> 00:00:42,190
+We have traffic, right? Actually going
+and generating traffic on platforms like
+
+36
+00:00:42,190 --> 00:00:42,200
+and generating traffic on platforms like
+ 
+
+37
+00:00:42,200 --> 00:00:44,230
+and generating traffic on platforms like
+YouTube, Instagram, X, and LinkedIn.
+
+38
+00:00:44,230 --> 00:00:44,240
+YouTube, Instagram, X, and LinkedIn.
+ 
+
+39
+00:00:44,240 --> 00:00:45,670
+YouTube, Instagram, X, and LinkedIn.
+When I'm going and helping founders, I
+
+40
+00:00:45,670 --> 00:00:45,680
+When I'm going and helping founders, I
+ 
+
+41
+00:00:45,680 --> 00:00:46,510
+When I'm going and helping founders, I
+think it's important that you think
+
+42
+00:00:46,510 --> 00:00:46,520
+think it's important that you think
+ 
+
+43
+00:00:46,520 --> 00:00:48,510
+think it's important that you think
+about are you more of a writing-first
+
+44
+00:00:48,510 --> 00:00:48,520
+about are you more of a writing-first
+ 
+
+45
+00:00:48,520 --> 00:00:50,430
+about are you more of a writing-first
+founder and thereby going on platforms
+
+46
+00:00:50,430 --> 00:00:50,440
+founder and thereby going on platforms
+ 
+
+47
+00:00:50,440 --> 00:00:52,710
+founder and thereby going on platforms
+like X and LinkedIn, or are you more of
+
+48
+00:00:52,710 --> 00:00:52,720
+like X and LinkedIn, or are you more of
+ 
+
+49
+00:00:52,720 --> 00:00:54,950
+like X and LinkedIn, or are you more of
+a video-first founder? And in that case,
+
+50
+00:00:54,950 --> 00:00:54,960
+a video-first founder? And in that case,
+ 
+
+51
+00:00:54,960 --> 00:00:56,830
+a video-first founder? And in that case,
+you may go and choose platforms like
+
+52
+00:00:56,830 --> 00:00:56,840
+you may go and choose platforms like
+ 
+
+53
+00:00:56,840 --> 00:00:59,070
+you may go and choose platforms like
+YouTube and Instagram. And so then when
+
+54
+00:00:59,070 --> 00:00:59,080
+YouTube and Instagram. And so then when
+ 
+
+55
+00:00:59,080 --> 00:01:00,870
+YouTube and Instagram. And so then when
+it comes to leads then, okay? The big
+
+56
+00:01:00,870 --> 00:01:00,880
+it comes to leads then, okay? The big
+ 
+
+57
+00:01:00,880 --> 00:01:01,950
+it comes to leads then, okay? The big
+thing here obviously is we want to be
+
+58
+00:01:01,950 --> 00:01:01,960
+thing here obviously is we want to be
+ 
+
+59
+00:01:01,960 --> 00:01:03,790
+thing here obviously is we want to be
+driving people to an email list. You're
+
+60
+00:01:03,790 --> 00:01:03,800
+driving people to an email list. You're
+ 
+
+61
+00:01:03,800 --> 00:01:06,190
+driving people to an email list. You're
+going to convert around 37 times better
+
+62
+00:01:06,190 --> 00:01:06,200
+going to convert around 37 times better
+ 
+
+63
+00:01:06,200 --> 00:01:08,190
+going to convert around 37 times better
+via your email list than social media,
+
+64
+00:01:08,190 --> 00:01:08,200
+via your email list than social media,
+ 
+
+65
+00:01:08,200 --> 00:01:09,710
+via your email list than social media,
+and most founders aren't even thinking
+
+66
+00:01:09,710 --> 00:01:09,720
+and most founders aren't even thinking
+ 
+
+67
+00:01:09,720 --> 00:01:11,510
+and most founders aren't even thinking
+about really owning that audience. Now,
+
+68
+00:01:11,510 --> 00:01:11,520
+about really owning that audience. Now,
+ 
+
+69
+00:01:11,520 --> 00:01:13,590
+about really owning that audience. Now,
+the best way by far that I've ever found
+
+70
+00:01:13,590 --> 00:01:13,600
+the best way by far that I've ever found
+ 
+
+71
+00:01:13,600 --> 00:01:15,190
+the best way by far that I've ever found
+to go and capture people from my
+
+72
+00:01:15,190 --> 00:01:15,200
+to go and capture people from my
+ 
+
+73
+00:01:15,200 --> 00:01:17,350
+to go and capture people from my
+audience and convert these people is
+
+74
+00:01:17,350 --> 00:01:17,360
+audience and convert these people is
+ 
+
+75
+00:01:17,360 --> 00:01:19,950
+audience and convert these people is
+contextual lead magnets. So here you can
+
+76
+00:01:19,950 --> 00:01:19,960
+contextual lead magnets. So here you can
+ 
+
+77
+00:01:19,960 --> 00:01:22,550
+contextual lead magnets. So here you can
+see my lead magnets and opt-in pages.
+
+78
+00:01:22,550 --> 00:01:22,560
+see my lead magnets and opt-in pages.
+ 
+
+79
+00:01:22,560 --> 00:01:24,310
+see my lead magnets and opt-in pages.
+What I've gone and done here is that
+
+80
+00:01:24,310 --> 00:01:24,320
+What I've gone and done here is that
+ 
+
+81
+00:01:24,320 --> 00:01:26,110
+What I've gone and done here is that
+basically over the last four years
+
+82
+00:01:26,110 --> 00:01:26,120
+basically over the last four years
+ 
+
+83
+00:01:26,120 --> 00:01:27,670
+basically over the last four years
+building my personal brand, I think
+
+84
+00:01:27,670 --> 00:01:27,680
+building my personal brand, I think
+ 
+
+85
+00:01:27,680 --> 00:01:29,310
+building my personal brand, I think
+about creating topics around like my
+
+86
+00:01:29,310 --> 00:01:29,320
+about creating topics around like my
+ 
+
+87
+00:01:29,320 --> 00:01:30,990
+about creating topics around like my
+Ikigai or helping people get more of
+
+88
+00:01:30,990 --> 00:01:31,000
+Ikigai or helping people get more of
+ 
+
+89
+00:01:31,000 --> 00:01:32,630
+Ikigai or helping people get more of
+their time back, my personal board
+
+90
+00:01:32,630 --> 00:01:32,640
+their time back, my personal board
+ 
+
+91
+00:01:32,640 --> 00:01:34,430
+their time back, my personal board
+meeting. And I've gone and synthesized
+
+92
+00:01:34,430 --> 00:01:34,440
+meeting. And I've gone and synthesized
+ 
+
+93
+00:01:34,440 --> 00:01:35,590
+meeting. And I've gone and synthesized
+some of these things that I just
+
+94
+00:01:35,590 --> 00:01:35,600
+some of these things that I just
+ 
+
+95
+00:01:35,600 --> 00:01:37,630
+some of these things that I just
+naturally do daily, and basically I've
+
+96
+00:01:37,630 --> 00:01:37,640
+naturally do daily, and basically I've
+ 
+
+97
+00:01:37,640 --> 00:01:40,070
+naturally do daily, and basically I've
+given it all away, okay? And what I'm
+
+98
+00:01:40,070 --> 00:01:40,080
+given it all away, okay? And what I'm
+ 
+
+99
+00:01:40,080 --> 00:01:41,710
+given it all away, okay? And what I'm
+doing there is essentially going and
+
+100
+00:01:41,710 --> 00:01:41,720
+doing there is essentially going and
+ 
+
+101
+00:01:41,720 --> 00:01:43,910
+doing there is essentially going and
+taking the given system, so let's just
+
+102
+00:01:43,910 --> 00:01:43,920
+taking the given system, so let's just
+ 
+
+103
+00:01:43,920 --> 00:01:47,230
+taking the given system, so let's just
+say it's something like this perfect day
+
+104
+00:01:47,230 --> 00:01:47,240
+say it's something like this perfect day
+ 
+
+105
+00:01:47,240 --> 00:01:49,790
+say it's something like this perfect day
+assignment or something like my, you
+
+106
+00:01:49,790 --> 00:01:49,800
+assignment or something like my, you
+ 
+
+107
+00:01:49,800 --> 00:01:52,670
+assignment or something like my, you
+know, CEO time leverage audit. What I go
+
+108
+00:01:52,670 --> 00:01:52,680
+know, CEO time leverage audit. What I go
+ 
+
+109
+00:01:52,680 --> 00:01:55,470
+know, CEO time leverage audit. What I go
+and do is put this behind a landing
+
+110
+00:01:55,470 --> 00:01:55,480
+and do is put this behind a landing
+ 
+
+111
+00:01:55,480 --> 00:01:57,590
+and do is put this behind a landing
+page, right? And so every single lead
+
+112
+00:01:57,590 --> 00:01:57,600
+page, right? And so every single lead
+ 
+
+113
+00:01:57,600 --> 00:01:59,470
+page, right? And so every single lead
+magnet gets a landing page. In this
+
+114
+00:01:59,470 --> 00:01:59,480
+magnet gets a landing page. In this
+ 
+
+115
+00:01:59,480 --> 00:02:00,870
+magnet gets a landing page. In this
+case, it's how to run a content system
+
+116
+00:02:00,870 --> 00:02:00,880
+case, it's how to run a content system
+ 
+
+117
+00:02:00,880 --> 00:02:02,590
+case, it's how to run a content system
+that actually works, right? People enter
+
+118
+00:02:02,590 --> 00:02:02,600
+that actually works, right? People enter
+ 
+
+119
+00:02:02,600 --> 00:02:04,550
+that actually works, right? People enter
+their name, their email, right? Their
+
+120
+00:02:04,550 --> 00:02:04,560
+their name, their email, right? Their
+ 
+
+121
+00:02:04,560 --> 00:02:06,630
+their name, their email, right? Their
+phone number, and then in exchange for
+
+122
+00:02:06,630 --> 00:02:06,640
+phone number, and then in exchange for
+ 
+
+123
+00:02:06,640 --> 00:02:08,109
+phone number, and then in exchange for
+that, they're going to go and get this
+
+124
+00:02:08,109 --> 00:02:08,119
+that, they're going to go and get this
+ 
+
+125
+00:02:08,119 --> 00:02:10,190
+that, they're going to go and get this
+free thing. Now, that allows me to then
+
+126
+00:02:10,190 --> 00:02:10,200
+free thing. Now, that allows me to then
+ 
+
+127
+00:02:10,200 --> 00:02:11,790
+free thing. Now, that allows me to then
+go and market to these people off of
+
+128
+00:02:11,790 --> 00:02:11,800
+go and market to these people off of
+ 
+
+129
+00:02:11,800 --> 00:02:13,670
+go and market to these people off of
+social media in a more intimate, rich
+
+130
+00:02:13,670 --> 00:02:13,680
+social media in a more intimate, rich
+ 
+
+131
+00:02:13,680 --> 00:02:16,030
+social media in a more intimate, rich
+way, like email or like text. And in
+
+132
+00:02:16,030 --> 00:02:16,040
+way, like email or like text. And in
+ 
+
+133
+00:02:16,040 --> 00:02:19,030
+way, like email or like text. And in
+exchange, they go and they get the
+
+134
+00:02:19,030 --> 00:02:19,040
+exchange, they go and they get the
+ 
+
+135
+00:02:19,040 --> 00:02:20,710
+exchange, they go and they get the
+actual lead magnet itself. So, in this
+
+136
+00:02:20,710 --> 00:02:20,720
+actual lead magnet itself. So, in this
+ 
+
+137
+00:02:20,720 --> 00:02:23,310
+actual lead magnet itself. So, in this
+case, it's simply just a Google Doc. The
+
+138
+00:02:23,310 --> 00:02:23,320
+case, it's simply just a Google Doc. The
+ 
+
+139
+00:02:23,320 --> 00:02:25,230
+case, it's simply just a Google Doc. The
+cool thing here for you, right, is don't
+
+140
+00:02:25,230 --> 00:02:25,240
+cool thing here for you, right, is don't
+ 
+
+141
+00:02:25,240 --> 00:02:26,670
+cool thing here for you, right, is don't
+overcomplicate lead magnets, right? They
+
+142
+00:02:26,670 --> 00:02:26,680
+overcomplicate lead magnets, right? They
+ 
+
+143
+00:02:26,680 --> 00:02:28,470
+overcomplicate lead magnets, right? They
+don't need to be some fancy PDF or some
+
+144
+00:02:28,470 --> 00:02:28,480
+don't need to be some fancy PDF or some
+ 
+
+145
+00:02:28,480 --> 00:02:29,990
+don't need to be some fancy PDF or some
+insane tool. If you're just getting
+
+146
+00:02:29,990 --> 00:02:30,000
+insane tool. If you're just getting
+ 
+
+147
+00:02:30,000 --> 00:02:32,270
+insane tool. If you're just getting
+going, just start with a simple Google
+
+148
+00:02:32,270 --> 00:02:32,280
+going, just start with a simple Google
+ 
+
+149
+00:02:32,280 --> 00:02:34,350
+going, just start with a simple Google
+Doc around your expertise, giving away
+
+150
+00:02:34,350 --> 00:02:34,360
+Doc around your expertise, giving away
+ 
+
+151
+00:02:34,360 --> 00:02:35,990
+Doc around your expertise, giving away
+something that you think would be really
+
+152
+00:02:35,990 --> 00:02:36,000
+something that you think would be really
+ 
+
+153
+00:02:36,000 --> 00:02:38,510
+something that you think would be really
+valuable to your audience. That's kind
+
+154
+00:02:38,510 --> 00:02:38,520
+valuable to your audience. That's kind
+ 
+
+155
+00:02:38,520 --> 00:02:40,070
+valuable to your audience. That's kind
+of that lead magnet piece. The next
+
+156
+00:02:40,070 --> 00:02:40,080
+of that lead magnet piece. The next
+ 
+
+157
+00:02:40,080 --> 00:02:42,470
+of that lead magnet piece. The next
+piece here is then conversion, okay? The
+
+158
+00:02:42,470 --> 00:02:42,480
+piece here is then conversion, okay? The
+ 
+
+159
+00:02:42,480 --> 00:02:45,110
+piece here is then conversion, okay? The
+big piece with conversion, right, is
+
+160
+00:02:45,110 --> 00:02:45,120
+big piece with conversion, right, is
+ 
+
+161
+00:02:45,120 --> 00:02:47,590
+big piece with conversion, right, is
+nailing your nurture sequence. When
+
+162
+00:02:47,590 --> 00:02:47,600
+nailing your nurture sequence. When
+ 
+
+163
+00:02:47,600 --> 00:02:49,710
+nailing your nurture sequence. When
+someone goes and gets that lead magnet,
+
+164
+00:02:49,710 --> 00:02:49,720
+someone goes and gets that lead magnet,
+ 
+
+165
+00:02:49,720 --> 00:02:51,710
+someone goes and gets that lead magnet,
+they're added to an email list, and over
+
+166
+00:02:51,710 --> 00:02:51,720
+they're added to an email list, and over
+ 
+
+167
+00:02:51,720 --> 00:02:53,870
+they're added to an email list, and over
+9 days, they're going to get five
+
+168
+00:02:53,870 --> 00:02:53,880
+9 days, they're going to get five
+ 
+
+169
+00:02:53,880 --> 00:02:57,150
+9 days, they're going to get five
+educational emails and five FOMO emails
+
+170
+00:02:57,150 --> 00:02:57,160
+educational emails and five FOMO emails
+ 
+
+171
+00:02:57,160 --> 00:02:59,350
+educational emails and five FOMO emails
+driving folks to, in this case, his
+
+172
+00:02:59,350 --> 00:02:59,360
+driving folks to, in this case, his
+ 
+
+173
+00:02:59,360 --> 00:03:01,790
+driving folks to, in this case, his
+Wealth OS, which is his kind of
+
+174
+00:03:01,790 --> 00:03:01,800
+Wealth OS, which is his kind of
+ 
+
+175
+00:03:01,800 --> 00:03:03,830
+Wealth OS, which is his kind of
+educational program he's building around
+
+176
+00:03:03,830 --> 00:03:03,840
+educational program he's building around
+ 
+
+177
+00:03:03,840 --> 00:03:05,710
+educational program he's building around
+his wealth management firm. Now, on the
+
+178
+00:03:05,710 --> 00:03:05,720
+his wealth management firm. Now, on the
+ 
+
+179
+00:03:05,720 --> 00:03:07,790
+his wealth management firm. Now, on the
+sales side, the most important thing
+
+180
+00:03:07,790 --> 00:03:07,800
+sales side, the most important thing
+ 
+
+181
+00:03:07,800 --> 00:03:09,509
+sales side, the most important thing
+here that I think a lot of people screw
+
+182
+00:03:09,509 --> 00:03:09,519
+here that I think a lot of people screw
+ 
+
+183
+00:03:09,519 --> 00:03:12,830
+here that I think a lot of people screw
+up is really the most valuable page in
+
+184
+00:03:12,830 --> 00:03:12,840
+up is really the most valuable page in
+ 
+
+185
+00:03:12,840 --> 00:03:16,310
+up is really the most valuable page in
+the whole sequence, which is your
+
+186
+00:03:16,310 --> 00:03:16,320
+the whole sequence, which is your
+ 
+
+187
+00:03:16,320 --> 00:03:19,310
+the whole sequence, which is your
+version of this founder os.com/apply
+
+188
+00:03:19,310 --> 00:03:19,320
+version of this founder os.com/apply
+ 
+
+189
+00:03:19,320 --> 00:03:21,270
+version of this founder os.com/apply
+page. Typically, what you have is all of
+
+190
+00:03:21,270 --> 00:03:21,280
+page. Typically, what you have is all of
+ 
+
+191
+00:03:21,280 --> 00:03:24,350
+page. Typically, what you have is all of
+your social media, right, directing to
+
+192
+00:03:24,350 --> 00:03:24,360
+your social media, right, directing to
+ 
+
+193
+00:03:24,360 --> 00:03:26,229
+your social media, right, directing to
+core lead magnets, and then you're
+
+194
+00:03:26,229 --> 00:03:26,239
+core lead magnets, and then you're
+ 
+
+195
+00:03:26,239 --> 00:03:28,070
+core lead magnets, and then you're
+driving people to some sort of link. And
+
+196
+00:03:28,070 --> 00:03:28,080
+driving people to some sort of link. And
+ 
+
+197
+00:03:28,080 --> 00:03:30,110
+driving people to some sort of link. And
+so, what you want to have is a page like
+
+198
+00:03:30,110 --> 00:03:30,120
+so, what you want to have is a page like
+ 
+
+199
+00:03:30,120 --> 00:03:32,910
+so, what you want to have is a page like
+this, right? I call it my apply page,
+
+200
+00:03:32,910 --> 00:03:32,920
+this, right? I call it my apply page,
+ 
+
+201
+00:03:32,920 --> 00:03:35,790
+this, right? I call it my apply page,
+and the winning page here has a bold
+
+202
+00:03:35,790 --> 00:03:35,800
+and the winning page here has a bold
+ 
+
+203
+00:03:35,800 --> 00:03:36,870
+and the winning page here has a bold
+headline that allows people to
+
+204
+00:03:36,870 --> 00:03:36,880
+headline that allows people to
+ 
+
+205
+00:03:36,880 --> 00:03:38,590
+headline that allows people to
+understand exactly what you do. In our
+
+206
+00:03:38,590 --> 00:03:38,600
+understand exactly what you do. In our
+ 
+
+207
+00:03:38,600 --> 00:03:40,509
+understand exactly what you do. In our
+case at Founder OS, it's helping people
+
+208
+00:03:40,509 --> 00:03:40,519
+case at Founder OS, it's helping people
+ 
+
+209
+00:03:40,519 --> 00:03:43,270
+case at Founder OS, it's helping people
+build a social media machine for them,
+
+210
+00:03:43,270 --> 00:03:43,280
+build a social media machine for them,
+ 
+
+211
+00:03:43,280 --> 00:03:44,910
+build a social media machine for them,
+right? We work one-on-one with you to
+
+212
+00:03:44,910 --> 00:03:44,920
+right? We work one-on-one with you to
+ 
+
+213
+00:03:44,920 --> 00:03:47,550
+right? We work one-on-one with you to
+install the exact systems behind my $15
+
+214
+00:03:47,550 --> 00:03:47,560
+install the exact systems behind my $15
+ 
+
+215
+00:03:47,560 --> 00:03:50,430
+install the exact systems behind my $15
+personal brand and drive, you know, its
+
+216
+00:03:50,430 --> 00:03:50,440
+personal brand and drive, you know, its
+ 
+
+217
+00:03:50,440 --> 00:03:52,110
+personal brand and drive, you know, its
+you know, growth, right? And then we
+
+218
+00:03:52,110 --> 00:03:52,120
+you know, growth, right? And then we
+ 
+
+219
+00:03:52,120 --> 00:03:54,710
+you know, growth, right? And then we
+have a video sales letter here that
+
+220
+00:03:54,710 --> 00:03:54,720
+have a video sales letter here that
+ 
+
+221
+00:03:54,720 --> 00:03:56,990
+have a video sales letter here that
+gives people a sense of what we do, what
+
+222
+00:03:56,990 --> 00:03:57,000
+gives people a sense of what we do, what
+ 
+
+223
+00:03:57,000 --> 00:03:58,190
+gives people a sense of what we do, what
+it's all about, the kind of people that
+
+224
+00:03:58,190 --> 00:03:58,200
+it's all about, the kind of people that
+ 
+
+225
+00:03:58,200 --> 00:03:59,910
+it's all about, the kind of people that
+we've worked with, and then allow people
+
+226
+00:03:59,910 --> 00:03:59,920
+we've worked with, and then allow people
+ 
+
+227
+00:03:59,920 --> 00:04:01,990
+we've worked with, and then allow people
+to go and book their brand strategy
+
+228
+00:04:01,990 --> 00:04:02,000
+to go and book their brand strategy
+ 
+
+229
+00:04:02,000 --> 00:04:04,390
+to go and book their brand strategy
+call. This then leads people to a brief
+
+230
+00:04:04,390 --> 00:04:04,400
+call. This then leads people to a brief
+ 
+
+231
+00:04:04,400 --> 00:04:06,790
+call. This then leads people to a brief
+10-question application, and this is a
+
+232
+00:04:06,790 --> 00:04:06,800
+10-question application, and this is a
+ 
+
+233
+00:04:06,800 --> 00:04:09,110
+10-question application, and this is a
+smart router that then routes the right
+
+234
+00:04:09,110 --> 00:04:09,120
+smart router that then routes the right
+ 
+
+235
+00:04:09,120 --> 00:04:11,110
+smart router that then routes the right
+people to the right product. And so
+
+236
+00:04:11,110 --> 00:04:11,120
+people to the right product. And so
+ 
+
+237
+00:04:11,120 --> 00:04:12,790
+people to the right product. And so
+we're only getting on calls with folks
+
+238
+00:04:12,790 --> 00:04:12,800
+we're only getting on calls with folks
+ 
+
+239
+00:04:12,800 --> 00:04:14,470
+we're only getting on calls with folks
+that make sense for what we've got going
+
+240
+00:04:14,470 --> 00:04:14,480
+that make sense for what we've got going
+ 
+
+241
+00:04:14,480 --> 00:04:16,509
+that make sense for what we've got going
+on, and the rest of folks will just get
+
+242
+00:04:16,509 --> 00:04:16,519
+on, and the rest of folks will just get
+ 
+
+243
+00:04:16,519 --> 00:04:18,550
+on, and the rest of folks will just get
+sent to an offer that's right for them.
+
+244
+00:04:18,550 --> 00:04:18,560
+sent to an offer that's right for them.
+ 
+
+245
+00:04:18,560 --> 00:04:20,390
+sent to an offer that's right for them.
+Now, the offer, right? This is one of
+
+246
+00:04:20,390 --> 00:04:20,400
+Now, the offer, right? This is one of
+ 
+
+247
+00:04:20,400 --> 00:04:22,230
+Now, the offer, right? This is one of
+your most high-leverage aspects of the
+
+248
+00:04:22,230 --> 00:04:22,240
+your most high-leverage aspects of the
+ 
+
+249
+00:04:22,240 --> 00:04:23,590
+your most high-leverage aspects of the
+whole GPS. This is obviously where we're
+
+250
+00:04:23,590 --> 00:04:23,600
+whole GPS. This is obviously where we're
+ 
+
+251
+00:04:23,600 --> 00:04:25,190
+whole GPS. This is obviously where we're
+going to actually make money. And so
+
+252
+00:04:25,190 --> 00:04:25,200
+going to actually make money. And so
+ 
+
+253
+00:04:25,200 --> 00:04:26,590
+going to actually make money. And so
+when in doubt, if you're not really
+
+254
+00:04:26,590 --> 00:04:26,600
+when in doubt, if you're not really
+ 
+
+255
+00:04:26,600 --> 00:04:28,390
+when in doubt, if you're not really
+hitting your profit goals in your
+
+256
+00:04:28,390 --> 00:04:28,400
+hitting your profit goals in your
+ 
+
+257
+00:04:28,400 --> 00:04:30,230
+hitting your profit goals in your
+business, and you're finding that, you
+
+258
+00:04:30,230 --> 00:04:30,240
+business, and you're finding that, you
+ 
+
+259
+00:04:30,240 --> 00:04:32,630
+business, and you're finding that, you
+know, your close rate is below 20%,
+
+260
+00:04:32,630 --> 00:04:32,640
+know, your close rate is below 20%,
+ 
+
+261
+00:04:32,640 --> 00:04:34,510
+know, your close rate is below 20%,
+chances are you probably need to take a
+
+262
+00:04:34,510 --> 00:04:34,520
+chances are you probably need to take a
+ 
+
+263
+00:04:34,520 --> 00:04:36,470
+chances are you probably need to take a
+look at that offer and go and dial it up
+
+264
+00:04:36,470 --> 00:04:36,480
+look at that offer and go and dial it up
+ 
+
+265
+00:04:36,480 --> 00:04:38,590
+look at that offer and go and dial it up
+a bit. From there, it's your delivery
+
+266
+00:04:38,590 --> 00:04:38,600
+a bit. From there, it's your delivery
+ 
+
+267
+00:04:38,600 --> 00:04:40,310
+a bit. From there, it's your delivery
+end. Most businesses, after they've
+
+268
+00:04:40,310 --> 00:04:40,320
+end. Most businesses, after they've
+ 
+
+269
+00:04:40,320 --> 00:04:42,270
+end. Most businesses, after they've
+nailed the offer, the next area that
+
+270
+00:04:42,270 --> 00:04:42,280
+nailed the offer, the next area that
+ 
+
+271
+00:04:42,280 --> 00:04:44,310
+nailed the offer, the next area that
+they break is their delivery. Now,
+
+272
+00:04:44,310 --> 00:04:44,320
+they break is their delivery. Now,
+ 
+
+273
+00:04:44,320 --> 00:04:46,030
+they break is their delivery. Now,
+systems then are what kind of bring it
+
+274
+00:04:46,030 --> 00:04:46,040
+systems then are what kind of bring it
+ 
+
+275
+00:04:46,040 --> 00:04:48,190
+systems then are what kind of bring it
+all together, right? And here, the big
+
+276
+00:04:48,190 --> 00:04:48,200
+all together, right? And here, the big
+ 
+
+277
+00:04:48,200 --> 00:04:49,430
+all together, right? And here, the big
+thing is that we want to make sure that
+
+278
+00:04:49,430 --> 00:04:49,440
+thing is that we want to make sure that
+ 
+
+279
+00:04:49,440 --> 00:04:50,870
+thing is that we want to make sure that
+if you're building this, right? You got
+
+280
+00:04:50,870 --> 00:04:50,880
+if you're building this, right? You got
+ 
+
+281
+00:04:50,880 --> 00:04:52,510
+if you're building this, right? You got
+time to actually build the business. You
+
+282
+00:04:52,510 --> 00:04:52,520
+time to actually build the business. You
+ 
+
+283
+00:04:52,520 --> 00:04:54,110
+time to actually build the business. You
+know, I really talk about in my content
+
+284
+00:04:54,110 --> 00:04:54,120
+know, I really talk about in my content
+ 
+
+285
+00:04:54,120 --> 00:04:55,190
+know, I really talk about in my content
+all the time the difference between
+
+286
+00:04:55,190 --> 00:04:55,200
+all the time the difference between
+ 
+
+287
+00:04:55,200 --> 00:04:58,630
+all the time the difference between
+creators and CEOs, right? Creators go
+
+288
+00:04:58,630 --> 00:04:58,640
+creators and CEOs, right? Creators go
+ 
+
+289
+00:04:58,640 --> 00:05:00,190
+creators and CEOs, right? Creators go
+and make money from just making content
+
+290
+00:05:00,190 --> 00:05:00,200
+and make money from just making content
+ 
+
+291
+00:05:00,200 --> 00:05:01,630
+and make money from just making content
+off the backs of ads, but that's not
+
+292
+00:05:01,630 --> 00:05:01,640
+off the backs of ads, but that's not
+ 
+
+293
+00:05:01,640 --> 00:05:03,310
+off the backs of ads, but that's not
+like you, and that certainly ain't me.
+
+294
+00:05:03,310 --> 00:05:03,320
+like you, and that certainly ain't me.
+ 
+
+295
+00:05:03,320 --> 00:05:04,630
+like you, and that certainly ain't me.
+And so what we need to be focused on is
+
+296
+00:05:04,630 --> 00:05:04,640
+And so what we need to be focused on is
+ 
+
+297
+00:05:04,640 --> 00:05:06,750
+And so what we need to be focused on is
+having the right systems around us so we
+
+298
+00:05:06,750 --> 00:05:06,760
+having the right systems around us so we
+ 
+
+299
+00:05:06,760 --> 00:05:09,510
+having the right systems around us so we
+can go and, you know, hit it and quit it
+
+300
+00:05:09,510 --> 00:05:09,520
+can go and, you know, hit it and quit it
+ 
+
+301
+00:05:09,520 --> 00:05:11,510
+can go and, you know, hit it and quit it
+with content, right? And be able to do,
+
+302
+00:05:11,510 --> 00:05:11,520
+with content, right? And be able to do,
+ 
+
+303
+00:05:11,520 --> 00:05:13,070
+with content, right? And be able to do,
+you know, a bunch of videos, bunch of
+
+304
+00:05:13,070 --> 00:05:13,080
+you know, a bunch of videos, bunch of
+ 
+
+305
+00:05:13,080 --> 00:05:15,030
+you know, a bunch of videos, bunch of
+content over a couple days, and then
+
+306
+00:05:15,030 --> 00:05:15,040
+content over a couple days, and then
+ 
+
+307
+00:05:15,040 --> 00:05:17,030
+content over a couple days, and then
+have 2 months back to then focus on the
+
+308
+00:05:17,030 --> 00:05:17,040
+have 2 months back to then focus on the
+ 
+
+309
+00:05:17,040 --> 00:05:18,790
+have 2 months back to then focus on the
+business. And so when it comes to your
+
+310
+00:05:18,790 --> 00:05:18,800
+business. And so when it comes to your
+ 
+
+311
+00:05:18,800 --> 00:05:21,190
+business. And so when it comes to your
+platform strategy there, okay? The big
+
+312
+00:05:21,190 --> 00:05:21,200
+platform strategy there, okay? The big
+ 
+
+313
+00:05:21,200 --> 00:05:23,830
+platform strategy there, okay? The big
+thing here is then going and translating
+
+314
+00:05:23,830 --> 00:05:23,840
+thing here is then going and translating
+ 
+
+315
+00:05:23,840 --> 00:05:25,630
+thing here is then going and translating
+that GPS to the core platforms you're
+
+316
+00:05:25,630 --> 00:05:25,640
+that GPS to the core platforms you're
+ 
+
+317
+00:05:25,640 --> 00:05:27,630
+that GPS to the core platforms you're
+on. So, let me show you how I think
+
+318
+00:05:27,630 --> 00:05:27,640
+on. So, let me show you how I think
+ 
+
+319
+00:05:27,640 --> 00:05:29,230
+on. So, let me show you how I think
+about this for say LinkedIn. On
+
+320
+00:05:29,230 --> 00:05:29,240
+about this for say LinkedIn. On
+ 
+
+321
+00:05:29,240 --> 00:05:31,070
+about this for say LinkedIn. On
+LinkedIn, I've grown my audience here to
+
+322
+00:05:31,070 --> 00:05:31,080
+LinkedIn, I've grown my audience here to
+ 
+
+323
+00:05:31,080 --> 00:05:34,190
+LinkedIn, I've grown my audience here to
+over 908,000 followers, all organically
+
+324
+00:05:34,190 --> 00:05:34,200
+over 908,000 followers, all organically
+ 
+
+325
+00:05:34,200 --> 00:05:35,950
+over 908,000 followers, all organically
+over the last few years, okay? And
+
+326
+00:05:35,950 --> 00:05:35,960
+over the last few years, okay? And
+ 
+
+327
+00:05:35,960 --> 00:05:37,750
+over the last few years, okay? And
+across every single piece of content
+
+328
+00:05:37,750 --> 00:05:37,760
+across every single piece of content
+ 
+
+329
+00:05:37,760 --> 00:05:39,350
+across every single piece of content
+here on this page, you know, we'll click
+
+330
+00:05:39,350 --> 00:05:39,360
+here on this page, you know, we'll click
+ 
+
+331
+00:05:39,360 --> 00:05:41,390
+here on this page, you know, we'll click
+into any one of these, you'll see that
+
+332
+00:05:41,390 --> 00:05:41,400
+into any one of these, you'll see that
+ 
+
+333
+00:05:41,400 --> 00:05:44,230
+into any one of these, you'll see that
+it's always a banger hook to go and stop
+
+334
+00:05:44,230 --> 00:05:44,240
+it's always a banger hook to go and stop
+ 
+
+335
+00:05:44,240 --> 00:05:46,190
+it's always a banger hook to go and stop
+the scroll, okay? Which you can see
+
+336
+00:05:46,190 --> 00:05:46,200
+the scroll, okay? Which you can see
+ 
+
+337
+00:05:46,200 --> 00:05:47,670
+the scroll, okay? Which you can see
+here, Steve Jobs once said, "The most
+
+338
+00:05:47,670 --> 00:05:47,680
+here, Steve Jobs once said, "The most
+ 
+
+339
+00:05:47,680 --> 00:05:49,510
+here, Steve Jobs once said, "The most
+powerful person in the world is the
+
+340
+00:05:49,510 --> 00:05:49,520
+powerful person in the world is the
+ 
+
+341
+00:05:49,520 --> 00:05:51,390
+powerful person in the world is the
+storyteller." Then there's long-form
+
+342
+00:05:51,390 --> 00:05:51,400
+storyteller." Then there's long-form
+ 
+
+343
+00:05:51,400 --> 00:05:52,790
+storyteller." Then there's long-form
+value here, and you can see this is all
+
+344
+00:05:52,790 --> 00:05:52,800
+value here, and you can see this is all
+ 
+
+345
+00:05:52,800 --> 00:05:54,870
+value here, and you can see this is all
+easily scannable. And so, we always have
+
+346
+00:05:54,870 --> 00:05:54,880
+easily scannable. And so, we always have
+ 
+
+347
+00:05:54,880 --> 00:05:56,670
+easily scannable. And so, we always have
+these value-dense images as well on
+
+348
+00:05:56,670 --> 00:05:56,680
+these value-dense images as well on
+ 
+
+349
+00:05:56,680 --> 00:05:58,830
+these value-dense images as well on
+LinkedIn. And then, making sure
+
+350
+00:05:58,830 --> 00:05:58,840
+LinkedIn. And then, making sure
+ 
+
+351
+00:05:58,840 --> 00:06:01,150
+LinkedIn. And then, making sure
+everything right in terms of the CTA is
+
+352
+00:06:01,150 --> 00:06:01,160
+everything right in terms of the CTA is
+ 
+
+353
+00:06:01,160 --> 00:06:03,030
+everything right in terms of the CTA is
+contextual to what's above. So,
+
+354
+00:06:03,030 --> 00:06:03,040
+contextual to what's above. So,
+ 
+
+355
+00:06:03,040 --> 00:06:04,430
+contextual to what's above. So,
+obviously I'm talking about storytelling
+
+356
+00:06:04,430 --> 00:06:04,440
+obviously I'm talking about storytelling
+ 
+
+357
+00:06:04,440 --> 00:06:06,230
+obviously I'm talking about storytelling
+in this post, and I'm giving people a
+
+358
+00:06:06,230 --> 00:06:06,240
+in this post, and I'm giving people a
+ 
+
+359
+00:06:06,240 --> 00:06:09,070
+in this post, and I'm giving people a
+storytelling growth assessment. Now,
+
+360
+00:06:09,070 --> 00:06:09,080
+storytelling growth assessment. Now,
+ 
+
+361
+00:06:09,080 --> 00:06:11,830
+storytelling growth assessment. Now,
+similar here on YouTube, right? The flow
+
+362
+00:06:11,830 --> 00:06:11,840
+similar here on YouTube, right? The flow
+ 
+
+363
+00:06:11,840 --> 00:06:14,230
+similar here on YouTube, right? The flow
+here is we can pick any given post here.
+
+364
+00:06:14,230 --> 00:06:14,240
+here is we can pick any given post here.
+ 
+
+365
+00:06:14,240 --> 00:06:16,070
+here is we can pick any given post here.
+You know, I just put up this one here,
+
+366
+00:06:16,070 --> 00:06:16,080
+You know, I just put up this one here,
+ 
+
+367
+00:06:16,080 --> 00:06:17,230
+You know, I just put up this one here,
+which is "If I wanted to build a
+
+368
+00:06:17,230 --> 00:06:17,240
+which is "If I wanted to build a
+ 
+
+369
+00:06:17,240 --> 00:06:19,190
+which is "If I wanted to build a
+personal brand in 2026, I would do
+
+370
+00:06:19,190 --> 00:06:19,200
+personal brand in 2026, I would do
+ 
+
+371
+00:06:19,200 --> 00:06:21,990
+personal brand in 2026, I would do
+this." It's about a 17-minute video. In
+
+372
+00:06:21,990 --> 00:06:22,000
+this." It's about a 17-minute video. In
+ 
+
+373
+00:06:22,000 --> 00:06:24,710
+this." It's about a 17-minute video. In
+minute four, roughly, and minute 12,
+
+374
+00:06:24,710 --> 00:06:24,720
+minute four, roughly, and minute 12,
+ 
+
+375
+00:06:24,720 --> 00:06:26,510
+minute four, roughly, and minute 12,
+we're driving people down to the link in
+
+376
+00:06:26,510 --> 00:06:26,520
+we're driving people down to the link in
+ 
+
+377
+00:06:26,520 --> 00:06:29,270
+we're driving people down to the link in
+the description to get a lead magnet to
+
+378
+00:06:29,270 --> 00:06:29,280
+the description to get a lead magnet to
+ 
+
+379
+00:06:29,280 --> 00:06:31,470
+the description to get a lead magnet to
+help them go and scale their personal
+
+380
+00:06:31,470 --> 00:06:31,480
+help them go and scale their personal
+ 
+
+381
+00:06:31,480 --> 00:06:33,390
+help them go and scale their personal
+brand. Okay? And so, again, the lead
+
+382
+00:06:33,390 --> 00:06:33,400
+brand. Okay? And so, again, the lead
+ 
+
+383
+00:06:33,400 --> 00:06:36,070
+brand. Okay? And so, again, the lead
+magnets are always contextual to the
+
+384
+00:06:36,070 --> 00:06:36,080
+magnets are always contextual to the
+ 
+
+385
+00:06:36,080 --> 00:06:37,990
+magnets are always contextual to the
+piece of content. And then, you can see
+
+386
+00:06:37,990 --> 00:06:38,000
+piece of content. And then, you can see
+ 
+
+387
+00:06:38,000 --> 00:06:39,510
+piece of content. And then, you can see
+I'm also driving people to go and work
+
+388
+00:06:39,510 --> 00:06:39,520
+I'm also driving people to go and work
+ 
+
+389
+00:06:39,520 --> 00:06:42,950
+I'm also driving people to go and work
+with me, which leads people to that core
+
+390
+00:06:42,950 --> 00:06:42,960
+with me, which leads people to that core
+ 
+
+391
+00:06:42,960 --> 00:06:45,830
+with me, which leads people to that core
+apply page I was going over earlier.
+
+392
+00:06:45,830 --> 00:06:45,840
+apply page I was going over earlier.
+ 
+
+393
+00:06:45,840 --> 00:06:48,390
+apply page I was going over earlier.
+Right? So, we're driving all traffic,
+
+394
+00:06:48,390 --> 00:06:48,400
+Right? So, we're driving all traffic,
+ 
+
+395
+00:06:48,400 --> 00:06:50,550
+Right? So, we're driving all traffic,
+once people are nurtured, to this core
+
+396
+00:06:50,550 --> 00:06:50,560
+once people are nurtured, to this core
+ 
+
+397
+00:06:50,560 --> 00:06:54,430
+once people are nurtured, to this core
+apply page, headline, VSL, and then the
+
+398
+00:06:54,430 --> 00:06:54,440
+apply page, headline, VSL, and then the
+ 
+
+399
+00:06:54,440 --> 00:06:56,110
+apply page, headline, VSL, and then the
+application link. If you're looking at
+
+400
+00:06:56,110 --> 00:06:56,120
+application link. If you're looking at
+ 
+
+401
+00:06:56,120 --> 00:06:57,710
+application link. If you're looking at
+what this looks like across my whole
+
+402
+00:06:57,710 --> 00:06:57,720
+what this looks like across my whole
+ 
+
+403
+00:06:57,720 --> 00:06:59,230
+what this looks like across my whole
+business for a second, okay? This is
+
+404
+00:06:59,230 --> 00:06:59,240
+business for a second, okay? This is
+ 
+
+405
+00:06:59,240 --> 00:07:01,470
+business for a second, okay? This is
+what, you know, Founder OS looks like in
+
+406
+00:07:01,470 --> 00:07:01,480
+what, you know, Founder OS looks like in
+ 
+
+407
+00:07:01,480 --> 00:07:03,190
+what, you know, Founder OS looks like in
+a nutshell. Right? So, I'm driving
+
+408
+00:07:03,190 --> 00:07:03,200
+a nutshell. Right? So, I'm driving
+ 
+
+409
+00:07:03,200 --> 00:07:05,870
+a nutshell. Right? So, I'm driving
+traffic across platforms like YouTube,
+
+410
+00:07:05,870 --> 00:07:05,880
+traffic across platforms like YouTube,
+ 
+
+411
+00:07:05,880 --> 00:07:08,790
+traffic across platforms like YouTube,
+Instagram, X, and LinkedIn. I have my
+
+412
+00:07:08,790 --> 00:07:08,800
+Instagram, X, and LinkedIn. I have my
+ 
+
+413
+00:07:08,800 --> 00:07:10,750
+Instagram, X, and LinkedIn. I have my
+email sequences, email courses, and lead
+
+414
+00:07:10,750 --> 00:07:10,760
+email sequences, email courses, and lead
+ 
+
+415
+00:07:10,760 --> 00:07:13,350
+email sequences, email courses, and lead
+magnets like I just showed you. Now, all
+
+416
+00:07:13,350 --> 00:07:13,360
+magnets like I just showed you. Now, all
+ 
+
+417
+00:07:13,360 --> 00:07:15,510
+magnets like I just showed you. Now, all
+of those different nurture sources then
+
+418
+00:07:15,510 --> 00:07:15,520
+of those different nurture sources then
+ 
+
+419
+00:07:15,520 --> 00:07:17,150
+of those different nurture sources then
+lead people to our different
+
+420
+00:07:17,150 --> 00:07:17,160
+lead people to our different
+ 
+
+421
+00:07:17,160 --> 00:07:19,230
+lead people to our different
+monetization opportunities. Our core
+
+422
+00:07:19,230 --> 00:07:19,240
+monetization opportunities. Our core
+ 
+
+423
+00:07:19,240 --> 00:07:21,350
+monetization opportunities. Our core
+product is called Founder OS Velocity.
+
+424
+00:07:21,350 --> 00:07:21,360
+product is called Founder OS Velocity.
+ 
+
+425
+00:07:21,360 --> 00:07:23,510
+product is called Founder OS Velocity.
+That's where we go and build your social
+
+426
+00:07:23,510 --> 00:07:23,520
+That's where we go and build your social
+ 
+
+427
+00:07:23,520 --> 00:07:25,510
+That's where we go and build your social
+media machine for you. Over the course
+
+428
+00:07:25,510 --> 00:07:25,520
+media machine for you. Over the course
+ 
+
+429
+00:07:25,520 --> 00:07:28,550
+media machine for you. Over the course
+of 60 days, we deliver over 50 assets to
+
+430
+00:07:28,550 --> 00:07:28,560
+of 60 days, we deliver over 50 assets to
+ 
+
+431
+00:07:28,560 --> 00:07:29,630
+of 60 days, we deliver over 50 assets to
+help you with all the core
+
+432
+00:07:29,630 --> 00:07:29,640
+help you with all the core
+ 
+
+433
+00:07:29,640 --> 00:07:31,510
+help you with all the core
+infrastructure behind building an
+
+434
+00:07:31,510 --> 00:07:31,520
+infrastructure behind building an
+ 
+
+435
+00:07:31,520 --> 00:07:33,550
+infrastructure behind building an
+amazing, profitable personal brand, as
+
+436
+00:07:33,550 --> 00:07:33,560
+amazing, profitable personal brand, as
+ 
+
+437
+00:07:33,560 --> 00:07:35,470
+amazing, profitable personal brand, as
+well as your company brand. Things like
+
+438
+00:07:35,470 --> 00:07:35,480
+well as your company brand. Things like
+ 
+
+439
+00:07:35,480 --> 00:07:37,310
+well as your company brand. Things like
+your landing pages, lead magnets,
+
+440
+00:07:37,310 --> 00:07:37,320
+your landing pages, lead magnets,
+ 
+
+441
+00:07:37,320 --> 00:07:39,550
+your landing pages, lead magnets,
+content machine, conversion assets, you
+
+442
+00:07:39,550 --> 00:07:39,560
+content machine, conversion assets, you
+ 
+
+443
+00:07:39,560 --> 00:07:41,190
+content machine, conversion assets, you
+know, all the stuff that I've gone over
+
+444
+00:07:41,190 --> 00:07:41,200
+know, all the stuff that I've gone over
+ 
+
+445
+00:07:41,200 --> 00:07:44,030
+know, all the stuff that I've gone over
+here is what we build for founders for
+
+446
+00:07:44,030 --> 00:07:44,040
+here is what we build for founders for
+ 
+
+447
+00:07:44,040 --> 00:07:46,390
+here is what we build for founders for
+them in just 60 days. Just showing you
+
+448
+00:07:46,390 --> 00:07:46,400
+them in just 60 days. Just showing you
+ 
+
+449
+00:07:46,400 --> 00:07:48,470
+them in just 60 days. Just showing you
+kind of how I look at this stuff. And so
+
+450
+00:07:48,470 --> 00:07:48,480
+kind of how I look at this stuff. And so
+ 
+
+451
+00:07:48,480 --> 00:07:49,750
+kind of how I look at this stuff. And so
+here we can see that we've done just
+
+452
+00:07:49,750 --> 00:07:49,760
+here we can see that we've done just
+ 
+
+453
+00:07:49,760 --> 00:07:51,710
+here we can see that we've done just
+that for James here, okay? We've gone
+
+454
+00:07:51,710 --> 00:07:51,720
+that for James here, okay? We've gone
+ 
+
+455
+00:07:51,720 --> 00:07:53,870
+that for James here, okay? We've gone
+and shown, you know, LinkedIn, YouTube,
+
+456
+00:07:53,870 --> 00:07:53,880
+and shown, you know, LinkedIn, YouTube,
+ 
+
+457
+00:07:53,880 --> 00:07:55,590
+and shown, you know, LinkedIn, YouTube,
+his newsletter and podcast, and then all
+
+458
+00:07:55,590 --> 00:07:55,600
+his newsletter and podcast, and then all
+ 
+
+459
+00:07:55,600 --> 00:07:56,790
+his newsletter and podcast, and then all
+the different formats we're going to be
+
+460
+00:07:56,790 --> 00:07:56,800
+the different formats we're going to be
+ 
+
+461
+00:07:56,800 --> 00:07:59,110
+the different formats we're going to be
+doing inside of that. When I think about
+
+462
+00:07:59,110 --> 00:07:59,120
+doing inside of that. When I think about
+ 
+
+463
+00:07:59,120 --> 00:08:01,470
+doing inside of that. When I think about
+the formats that really are working best
+
+464
+00:08:01,470 --> 00:08:01,480
+the formats that really are working best
+ 
+
+465
+00:08:01,480 --> 00:08:03,190
+the formats that really are working best
+for me right now that I think you should
+
+466
+00:08:03,190 --> 00:08:03,200
+for me right now that I think you should
+ 
+
+467
+00:08:03,200 --> 00:08:06,150
+for me right now that I think you should
+look out for your own market, number one
+
+468
+00:08:06,150 --> 00:08:06,160
+look out for your own market, number one
+ 
+
+469
+00:08:06,160 --> 00:08:08,310
+look out for your own market, number one
+are screen shares, right? Going into
+
+470
+00:08:08,310 --> 00:08:08,320
+are screen shares, right? Going into
+ 
+
+471
+00:08:08,320 --> 00:08:10,030
+are screen shares, right? Going into
+showing behind the scenes just like I've
+
+472
+00:08:10,030 --> 00:08:10,040
+showing behind the scenes just like I've
+ 
+
+473
+00:08:10,040 --> 00:08:11,670
+showing behind the scenes just like I've
+doing with you right now on what you
+
+474
+00:08:11,670 --> 00:08:11,680
+doing with you right now on what you
+ 
+
+475
+00:08:11,680 --> 00:08:14,390
+doing with you right now on what you
+actually do. The second type is going
+
+476
+00:08:14,390 --> 00:08:14,400
+actually do. The second type is going
+ 
+
+477
+00:08:14,400 --> 00:08:16,350
+actually do. The second type is going
+and showing yourself with clients
+
+478
+00:08:16,350 --> 00:08:16,360
+and showing yourself with clients
+ 
+
+479
+00:08:16,360 --> 00:08:18,110
+and showing yourself with clients
+actually helping them. I've done this
+
+480
+00:08:18,110 --> 00:08:18,120
+actually helping them. I've done this
+ 
+
+481
+00:08:18,120 --> 00:08:20,630
+actually helping them. I've done this
+with folks like Ali Abdaal, Blake Rocha,
+
+482
+00:08:20,630 --> 00:08:20,640
+with folks like Ali Abdaal, Blake Rocha,
+ 
+
+483
+00:08:20,640 --> 00:08:21,870
+with folks like Ali Abdaal, Blake Rocha,
+so many others, right? On these
+
+484
+00:08:21,870 --> 00:08:21,880
+so many others, right? On these
+ 
+
+485
+00:08:21,880 --> 00:08:23,270
+so many others, right? On these
+whiteboard sessions that I've become
+
+486
+00:08:23,270 --> 00:08:23,280
+whiteboard sessions that I've become
+ 
+
+487
+00:08:23,280 --> 00:08:25,950
+whiteboard sessions that I've become
+known for. The last type is really just
+
+488
+00:08:25,950 --> 00:08:25,960
+known for. The last type is really just
+ 
+
+489
+00:08:25,960 --> 00:08:27,790
+known for. The last type is really just
+having some fun and having like a wild
+
+490
+00:08:27,790 --> 00:08:27,800
+having some fun and having like a wild
+ 
+
+491
+00:08:27,800 --> 00:08:29,470
+having some fun and having like a wild
+card type category, right? Not
+
+492
+00:08:29,470 --> 00:08:29,480
+card type category, right? Not
+ 
+
+493
+00:08:29,480 --> 00:08:31,110
+card type category, right? Not
+everything needs to be, you know, so
+
+494
+00:08:31,110 --> 00:08:31,120
+everything needs to be, you know, so
+ 
+
+495
+00:08:31,120 --> 00:08:32,550
+everything needs to be, you know, so
+rigid. And I've done this with things
+
+496
+00:08:32,550 --> 00:08:32,560
+rigid. And I've done this with things
+ 
+
+497
+00:08:32,560 --> 00:08:34,350
+rigid. And I've done this with things
+like vlogs I've done snowboarding in
+
+498
+00:08:34,350 --> 00:08:34,360
+like vlogs I've done snowboarding in
+ 
+
+499
+00:08:34,360 --> 00:08:37,029
+like vlogs I've done snowboarding in
+Japan to this video over here, you'd be
+
+500
+00:08:37,029 --> 00:08:37,039
+Japan to this video over here, you'd be
+ 
+
+501
+00:08:37,039 --> 00:08:38,709
+Japan to this video over here, you'd be
+richer if you relax that I filmed in the
+
+502
+00:08:38,709 --> 00:08:38,719
+richer if you relax that I filmed in the
+ 
+
+503
+00:08:38,719 --> 00:08:40,990
+richer if you relax that I filmed in the
+Dolomites randomly, right? And so I
+
+504
+00:08:40,990 --> 00:08:41,000
+Dolomites randomly, right? And so I
+ 
+
+505
+00:08:41,000 --> 00:08:43,390
+Dolomites randomly, right? And so I
+think a mix of your own kind of personal
+
+506
+00:08:43,390 --> 00:08:43,400
+think a mix of your own kind of personal
+ 
+
+507
+00:08:43,400 --> 00:08:45,870
+think a mix of your own kind of personal
+narrative, vlog, like fun stuff, some
+
+508
+00:08:45,870 --> 00:08:45,880
+narrative, vlog, like fun stuff, some
+ 
+
+509
+00:08:45,880 --> 00:08:47,550
+narrative, vlog, like fun stuff, some
+stuff showing you with clients, and then
+
+510
+00:08:47,550 --> 00:08:47,560
+stuff showing you with clients, and then
+ 
+
+511
+00:08:47,560 --> 00:08:49,230
+stuff showing you with clients, and then
+some screen share stuff is what's going
+
+512
+00:08:49,230 --> 00:08:49,240
+some screen share stuff is what's going
+ 
+
+513
+00:08:49,240 --> 00:08:50,910
+some screen share stuff is what's going
+to really work on platforms like YouTube
+
+514
+00:08:50,910 --> 00:08:50,920
+to really work on platforms like YouTube
+ 
+
+515
+00:08:50,920 --> 00:08:53,590
+to really work on platforms like YouTube
+these days. Now, on the newsletter side,
+
+516
+00:08:53,590 --> 00:08:53,600
+these days. Now, on the newsletter side,
+ 
+
+517
+00:08:53,600 --> 00:08:55,190
+these days. Now, on the newsletter side,
+the best thing to do there is just make
+
+518
+00:08:55,190 --> 00:08:55,200
+the best thing to do there is just make
+ 
+
+519
+00:08:55,200 --> 00:08:56,710
+the best thing to do there is just make
+sure you're publishing once a week. When
+
+520
+00:08:56,710 --> 00:08:56,720
+sure you're publishing once a week. When
+ 
+
+521
+00:08:56,720 --> 00:08:58,310
+sure you're publishing once a week. When
+it comes then to the content pillars,
+
+522
+00:08:58,310 --> 00:08:58,320
+it comes then to the content pillars,
+ 
+
+523
+00:08:58,320 --> 00:08:59,910
+it comes then to the content pillars,
+okay? I think too many people get caught
+
+524
+00:08:59,910 --> 00:08:59,920
+okay? I think too many people get caught
+ 
+
+525
+00:08:59,920 --> 00:09:01,070
+okay? I think too many people get caught
+up in their content pillars trying to
+
+526
+00:09:01,070 --> 00:09:01,080
+up in their content pillars trying to
+ 
+
+527
+00:09:01,080 --> 00:09:02,750
+up in their content pillars trying to
+perfect this. At the end of the day you
+
+528
+00:09:02,750 --> 00:09:02,760
+perfect this. At the end of the day you
+ 
+
+529
+00:09:02,760 --> 00:09:04,390
+perfect this. At the end of the day you
+want to just get into the details pretty
+
+530
+00:09:04,390 --> 00:09:04,400
+want to just get into the details pretty
+ 
+
+531
+00:09:04,400 --> 00:09:06,190
+want to just get into the details pretty
+fast. So, here for James, right? We
+
+532
+00:09:06,190 --> 00:09:06,200
+fast. So, here for James, right? We
+ 
+
+533
+00:09:06,200 --> 00:09:07,590
+fast. So, here for James, right? We
+modeled out, you know, I'm really making
+
+534
+00:09:07,590 --> 00:09:07,600
+modeled out, you know, I'm really making
+ 
+
+535
+00:09:07,600 --> 00:09:08,750
+modeled out, you know, I'm really making
+sure that he's speaking about things
+
+536
+00:09:08,750 --> 00:09:08,760
+sure that he's speaking about things
+ 
+
+537
+00:09:08,760 --> 00:09:11,070
+sure that he's speaking about things
+like wealth, tax strategy, his own
+
+538
+00:09:11,070 --> 00:09:11,080
+like wealth, tax strategy, his own
+ 
+
+539
+00:09:11,080 --> 00:09:13,910
+like wealth, tax strategy, his own
+story, and then his unique method. But I
+
+540
+00:09:13,910 --> 00:09:13,920
+story, and then his unique method. But I
+ 
+
+541
+00:09:13,920 --> 00:09:16,310
+story, and then his unique method. But I
+think it's important to quickly get into
+
+542
+00:09:16,310 --> 00:09:16,320
+think it's important to quickly get into
+ 
+
+543
+00:09:16,320 --> 00:09:17,710
+think it's important to quickly get into
+the details. And let me show you what I
+
+544
+00:09:17,710 --> 00:09:17,720
+the details. And let me show you what I
+ 
+
+545
+00:09:17,720 --> 00:09:19,190
+the details. And let me show you what I
+mean by that. I like to use a platform
+
+546
+00:09:19,190 --> 00:09:19,200
+mean by that. I like to use a platform
+ 
+
+547
+00:09:19,200 --> 00:09:21,590
+mean by that. I like to use a platform
+called One of Ten as an example, right?
+
+548
+00:09:21,590 --> 00:09:21,600
+called One of Ten as an example, right?
+ 
+
+549
+00:09:21,600 --> 00:09:23,150
+called One of Ten as an example, right?
+And inside of One of Ten when I'm
+
+550
+00:09:23,150 --> 00:09:23,160
+And inside of One of Ten when I'm
+ 
+
+551
+00:09:23,160 --> 00:09:25,990
+And inside of One of Ten when I'm
+thinking about my own YouTube videos,
+
+552
+00:09:25,990 --> 00:09:26,000
+thinking about my own YouTube videos,
+ 
+
+553
+00:09:26,000 --> 00:09:27,550
+thinking about my own YouTube videos,
+right? I have a bunch of bookmarks in
+
+554
+00:09:27,550 --> 00:09:27,560
+right? I have a bunch of bookmarks in
+ 
+
+555
+00:09:27,560 --> 00:09:31,070
+right? I have a bunch of bookmarks in
+here. I have bookmarks for my ideas, and
+
+556
+00:09:31,070 --> 00:09:31,080
+here. I have bookmarks for my ideas, and
+ 
+
+557
+00:09:31,080 --> 00:09:32,710
+here. I have bookmarks for my ideas, and
+I have bookmarks for thumbnails. And so
+
+558
+00:09:32,710 --> 00:09:32,720
+I have bookmarks for thumbnails. And so
+ 
+
+559
+00:09:32,720 --> 00:09:34,710
+I have bookmarks for thumbnails. And so
+if you go into my different ideas here,
+
+560
+00:09:34,710 --> 00:09:34,720
+if you go into my different ideas here,
+ 
+
+561
+00:09:34,720 --> 00:09:37,030
+if you go into my different ideas here,
+I can go and sort these via, you know,
+
+562
+00:09:37,030 --> 00:09:37,040
+I can go and sort these via, you know,
+ 
+
+563
+00:09:37,040 --> 00:09:39,350
+I can go and sort these via, you know,
+what I've gotten the most views. And
+
+564
+00:09:39,350 --> 00:09:39,360
+what I've gotten the most views. And
+ 
+
+565
+00:09:39,360 --> 00:09:41,590
+what I've gotten the most views. And
+here I can see a ton of different
+
+566
+00:09:41,590 --> 00:09:41,600
+here I can see a ton of different
+ 
+
+567
+00:09:41,600 --> 00:09:44,150
+here I can see a ton of different
+YouTube videos, right, around the kind
+
+568
+00:09:44,150 --> 00:09:44,160
+YouTube videos, right, around the kind
+ 
+
+569
+00:09:44,160 --> 00:09:46,070
+YouTube videos, right, around the kind
+of stuff that I think these title
+
+570
+00:09:46,070 --> 00:09:46,080
+of stuff that I think these title
+ 
+
+571
+00:09:46,080 --> 00:09:47,910
+of stuff that I think these title
+patterns in these is pretty interesting
+
+572
+00:09:47,910 --> 00:09:47,920
+patterns in these is pretty interesting
+ 
+
+573
+00:09:47,920 --> 00:09:49,950
+patterns in these is pretty interesting
+for how I could package my own content.
+
+574
+00:09:49,950 --> 00:09:49,960
+for how I could package my own content.
+ 
+
+575
+00:09:49,960 --> 00:09:51,910
+for how I could package my own content.
+The number one way to go and just break
+
+576
+00:09:51,910 --> 00:09:51,920
+The number one way to go and just break
+ 
+
+577
+00:09:51,920 --> 00:09:53,790
+The number one way to go and just break
+from all the noise and boring in
+
+578
+00:09:53,790 --> 00:09:53,800
+from all the noise and boring in
+ 
+
+579
+00:09:53,800 --> 00:09:56,270
+from all the noise and boring in
+those industries is to package your
+
+580
+00:09:56,270 --> 00:09:56,280
+those industries is to package your
+ 
+
+581
+00:09:56,280 --> 00:09:58,710
+those industries is to package your
+content, your business, your brand in an
+
+582
+00:09:58,710 --> 00:09:58,720
+content, your business, your brand in an
+ 
+
+583
+00:09:58,720 --> 00:10:00,590
+content, your business, your brand in an
+innovative way looking at the best
+
+584
+00:10:00,590 --> 00:10:00,600
+innovative way looking at the best
+ 
+
+585
+00:10:00,600 --> 00:10:02,390
+innovative way looking at the best
+outliers that exist out there. And
+
+586
+00:10:02,390 --> 00:10:02,400
+outliers that exist out there. And
+ 
+
+587
+00:10:02,400 --> 00:10:03,950
+outliers that exist out there. And
+that's exactly what platforms like One
+
+588
+00:10:03,950 --> 00:10:03,960
+that's exactly what platforms like One
+ 
+
+589
+00:10:03,960 --> 00:10:06,430
+that's exactly what platforms like One
+of Ten help with. So, from there, right,
+
+590
+00:10:06,430 --> 00:10:06,440
+of Ten help with. So, from there, right,
+ 
+
+591
+00:10:06,440 --> 00:10:08,270
+of Ten help with. So, from there, right,
+when we think about CTAs, right? Some
+
+592
+00:10:08,270 --> 00:10:08,280
+when we think about CTAs, right? Some
+ 
+
+593
+00:10:08,280 --> 00:10:09,430
+when we think about CTAs, right? Some
+folks are saying like, "Well, what the
+
+594
+00:10:09,430 --> 00:10:09,440
+folks are saying like, "Well, what the
+ 
+
+595
+00:10:09,440 --> 00:10:10,870
+folks are saying like, "Well, what the
+hell, we're only doing lead magnets
+
+596
+00:10:10,870 --> 00:10:10,880
+hell, we're only doing lead magnets
+ 
+
+597
+00:10:10,880 --> 00:10:11,950
+hell, we're only doing lead magnets
+here? We're never actually talking about
+
+598
+00:10:11,950 --> 00:10:11,960
+here? We're never actually talking about
+ 
+
+599
+00:10:11,960 --> 00:10:13,630
+here? We're never actually talking about
+our business." Here's the deal. I want
+
+600
+00:10:13,630 --> 00:10:13,640
+our business." Here's the deal. I want
+ 
+
+601
+00:10:13,640 --> 00:10:15,990
+our business." Here's the deal. I want
+you to be able to build a brand online
+
+602
+00:10:15,990 --> 00:10:16,000
+you to be able to build a brand online
+ 
+
+603
+00:10:16,000 --> 00:10:18,270
+you to be able to build a brand online
+without selling your soul. And if you're
+
+604
+00:10:18,270 --> 00:10:18,280
+without selling your soul. And if you're
+ 
+
+605
+00:10:18,280 --> 00:10:19,750
+without selling your soul. And if you're
+constantly just going and telling
+
+606
+00:10:19,750 --> 00:10:19,760
+constantly just going and telling
+ 
+
+607
+00:10:19,760 --> 00:10:21,470
+constantly just going and telling
+people, you know, "Buy my thing, buy my
+
+608
+00:10:21,470 --> 00:10:21,480
+people, you know, "Buy my thing, buy my
+ 
+
+609
+00:10:21,480 --> 00:10:22,910
+people, you know, "Buy my thing, buy my
+thing." You just end up sounding like
+
+610
+00:10:22,910 --> 00:10:22,920
+thing." You just end up sounding like
+ 
+
+611
+00:10:22,920 --> 00:10:24,550
+thing." You just end up sounding like
+some salesy piece of right? And
+
+612
+00:10:24,550 --> 00:10:24,560
+some salesy piece of right? And
+ 
+
+613
+00:10:24,560 --> 00:10:26,310
+some salesy piece of right? And
+so, what we want to do is be insanely
+
+614
+00:10:26,310 --> 00:10:26,320
+so, what we want to do is be insanely
+ 
+
+615
+00:10:26,320 --> 00:10:28,270
+so, what we want to do is be insanely
+generous with people. And about 60% of
+
+616
+00:10:28,270 --> 00:10:28,280
+generous with people. And about 60% of
+ 
+
+617
+00:10:28,280 --> 00:10:30,150
+generous with people. And about 60% of
+the time, we want to be driving people
+
+618
+00:10:30,150 --> 00:10:30,160
+the time, we want to be driving people
+ 
+
+619
+00:10:30,160 --> 00:10:32,070
+the time, we want to be driving people
+to these amazing lead magnets that
+
+620
+00:10:32,070 --> 00:10:32,080
+to these amazing lead magnets that
+ 
+
+621
+00:10:32,080 --> 00:10:34,070
+to these amazing lead magnets that
+provide a lot of value, right, and show
+
+622
+00:10:34,070 --> 00:10:34,080
+provide a lot of value, right, and show
+ 
+
+623
+00:10:34,080 --> 00:10:36,430
+provide a lot of value, right, and show
+a ton of goodwill. Then about 20% of the
+
+624
+00:10:36,430 --> 00:10:36,440
+a ton of goodwill. Then about 20% of the
+ 
+
+625
+00:10:36,440 --> 00:10:37,670
+a ton of goodwill. Then about 20% of the
+time, right, we can go and just make
+
+626
+00:10:37,670 --> 00:10:37,680
+time, right, we can go and just make
+ 
+
+627
+00:10:37,680 --> 00:10:39,710
+time, right, we can go and just make
+direct offers to people, right, actually
+
+628
+00:10:39,710 --> 00:10:39,720
+direct offers to people, right, actually
+ 
+
+629
+00:10:39,720 --> 00:10:41,550
+direct offers to people, right, actually
+just going and selling your thing. And
+
+630
+00:10:41,550 --> 00:10:41,560
+just going and selling your thing. And
+ 
+
+631
+00:10:41,560 --> 00:10:43,350
+just going and selling your thing. And
+then 20% of the time, it could be, you
+
+632
+00:10:43,350 --> 00:10:43,360
+then 20% of the time, it could be, you
+ 
+
+633
+00:10:43,360 --> 00:10:44,790
+then 20% of the time, it could be, you
+know, driving people on Instagram as an
+
+634
+00:10:44,790 --> 00:10:44,800
+know, driving people on Instagram as an
+ 
+
+635
+00:10:44,800 --> 00:10:46,550
+know, driving people on Instagram as an
+example to things like DM triggers,
+
+636
+00:10:46,550 --> 00:10:46,560
+example to things like DM triggers,
+ 
+
+637
+00:10:46,560 --> 00:10:47,870
+example to things like DM triggers,
+right? So, in this case, it's things
+
+638
+00:10:47,870 --> 00:10:47,880
+right? So, in this case, it's things
+ 
+
+639
+00:10:47,880 --> 00:10:49,829
+right? So, in this case, it's things
+like, you know, DM me tax and I'm going
+
+640
+00:10:49,829 --> 00:10:49,839
+like, you know, DM me tax and I'm going
+ 
+
+641
+00:10:49,839 --> 00:10:51,710
+like, you know, DM me tax and I'm going
+to send you an optimization guide. From
+
+642
+00:10:51,710 --> 00:10:51,720
+to send you an optimization guide. From
+ 
+
+643
+00:10:51,720 --> 00:10:54,230
+to send you an optimization guide. From
+there, inside of Instagram or LinkedIn,
+
+644
+00:10:54,230 --> 00:10:54,240
+there, inside of Instagram or LinkedIn,
+ 
+
+645
+00:10:54,240 --> 00:10:56,070
+there, inside of Instagram or LinkedIn,
+when people have gone and DM'd you for
+
+646
+00:10:56,070 --> 00:10:56,080
+when people have gone and DM'd you for
+ 
+
+647
+00:10:56,080 --> 00:10:57,910
+when people have gone and DM'd you for
+that given lead magnet, you can then
+
+648
+00:10:57,910 --> 00:10:57,920
+that given lead magnet, you can then
+ 
+
+649
+00:10:57,920 --> 00:10:59,550
+that given lead magnet, you can then
+engage in a conversation with them or
+
+650
+00:10:59,550 --> 00:10:59,560
+engage in a conversation with them or
+ 
+
+651
+00:10:59,560 --> 00:11:01,950
+engage in a conversation with them or
+have a setter on your team engaging in
+
+652
+00:11:01,950 --> 00:11:01,960
+have a setter on your team engaging in
+ 
+
+653
+00:11:01,960 --> 00:11:04,070
+have a setter on your team engaging in
+conversations. And if that person seems
+
+654
+00:11:04,070 --> 00:11:04,080
+conversations. And if that person seems
+ 
+
+655
+00:11:04,080 --> 00:11:05,390
+conversations. And if that person seems
+like they're in the market for what you
+
+656
+00:11:05,390 --> 00:11:05,400
+like they're in the market for what you
+ 
+
+657
+00:11:05,400 --> 00:11:06,870
+like they're in the market for what you
+do and seem like they're in the buying
+
+658
+00:11:06,870 --> 00:11:06,880
+do and seem like they're in the buying
+ 
+
+659
+00:11:06,880 --> 00:11:08,990
+do and seem like they're in the buying
+pocket, going and setting them to your
+
+660
+00:11:08,990 --> 00:11:09,000
+pocket, going and setting them to your
+ 
+
+661
+00:11:09,000 --> 00:11:11,670
+pocket, going and setting them to your
+sales team to close up that deal. So,
+
+662
+00:11:11,670 --> 00:11:11,680
+sales team to close up that deal. So,
+ 
+
+663
+00:11:11,680 --> 00:11:13,270
+sales team to close up that deal. So,
+the content waterfall. So many of you
+
+664
+00:11:13,270 --> 00:11:13,280
+the content waterfall. So many of you
+ 
+
+665
+00:11:13,280 --> 00:11:14,990
+the content waterfall. So many of you
+guys come to me because you want to
+
+666
+00:11:14,990 --> 00:11:15,000
+guys come to me because you want to
+ 
+
+667
+00:11:15,000 --> 00:11:16,350
+guys come to me because you want to
+learn how to go and turn your pillar
+
+668
+00:11:16,350 --> 00:11:16,360
+learn how to go and turn your pillar
+ 
+
+669
+00:11:16,360 --> 00:11:19,630
+learn how to go and turn your pillar
+piece of content into 22 other formats.
+
+670
+00:11:19,630 --> 00:11:19,640
+piece of content into 22 other formats.
+ 
+
+671
+00:11:19,640 --> 00:11:21,829
+piece of content into 22 other formats.
+These days, some of the best ways to do
+
+672
+00:11:21,829 --> 00:11:21,839
+These days, some of the best ways to do
+ 
+
+673
+00:11:21,839 --> 00:11:23,230
+These days, some of the best ways to do
+this, right, are using your YouTube
+
+674
+00:11:23,230 --> 00:11:23,240
+this, right, are using your YouTube
+ 
+
+675
+00:11:23,240 --> 00:11:25,870
+this, right, are using your YouTube
+videos, right? So, YouTube videos can
+
+676
+00:11:25,870 --> 00:11:25,880
+videos, right? So, YouTube videos can
+ 
+
+677
+00:11:25,880 --> 00:11:27,829
+videos, right? So, YouTube videos can
+easily go and become things like YouTube
+
+678
+00:11:27,829 --> 00:11:27,839
+easily go and become things like YouTube
+ 
+
+679
+00:11:27,839 --> 00:11:29,510
+easily go and become things like YouTube
+shorts just by going and cutting the
+
+680
+00:11:29,510 --> 00:11:29,520
+shorts just by going and cutting the
+ 
+
+681
+00:11:29,520 --> 00:11:31,430
+shorts just by going and cutting the
+best moments. You know, inside of a
+
+682
+00:11:31,430 --> 00:11:31,440
+best moments. You know, inside of a
+ 
+
+683
+00:11:31,440 --> 00:11:33,270
+best moments. You know, inside of a
+YouTube video, you typically will go
+
+684
+00:11:33,270 --> 00:11:33,280
+YouTube video, you typically will go
+ 
+
+685
+00:11:33,280 --> 00:11:35,950
+YouTube video, you typically will go
+through say three to five different sort
+
+686
+00:11:35,950 --> 00:11:35,960
+through say three to five different sort
+ 
+
+687
+00:11:35,960 --> 00:11:38,550
+through say three to five different sort
+of parts of a value structure, and any
+
+688
+00:11:38,550 --> 00:11:38,560
+of parts of a value structure, and any
+ 
+
+689
+00:11:38,560 --> 00:11:41,950
+of parts of a value structure, and any
+one of those pieces could easily be cut,
+
+690
+00:11:41,950 --> 00:11:41,960
+one of those pieces could easily be cut,
+ 
+
+691
+00:11:41,960 --> 00:11:44,390
+one of those pieces could easily be cut,
+right? And become a standalone video.
+
+692
+00:11:44,390 --> 00:11:44,400
+right? And become a standalone video.
+ 
+
+693
+00:11:44,400 --> 00:11:46,870
+right? And become a standalone video.
+Now, you have all this content mapped
+
+694
+00:11:46,870 --> 00:11:46,880
+Now, you have all this content mapped
+ 
+
+695
+00:11:46,880 --> 00:11:48,910
+Now, you have all this content mapped
+out, right? The big thing now is getting
+
+696
+00:11:48,910 --> 00:11:48,920
+out, right? The big thing now is getting
+ 
+
+697
+00:11:48,920 --> 00:11:51,150
+out, right? The big thing now is getting
+your content calendar going. So, here
+
+698
+00:11:51,150 --> 00:11:51,160
+your content calendar going. So, here
+ 
+
+699
+00:11:51,160 --> 00:11:52,950
+your content calendar going. So, here
+you can see, this is me going and
+
+700
+00:11:52,950 --> 00:11:52,960
+you can see, this is me going and
+ 
+
+701
+00:11:52,960 --> 00:11:54,550
+you can see, this is me going and
+actually working with James to go and
+
+702
+00:11:54,550 --> 00:11:54,560
+actually working with James to go and
+ 
+
+703
+00:11:54,560 --> 00:11:57,310
+actually working with James to go and
+show him exactly how I'd think about his
+
+704
+00:11:57,310 --> 00:11:57,320
+show him exactly how I'd think about his
+ 
+
+705
+00:11:57,320 --> 00:11:59,430
+show him exactly how I'd think about his
+posting schedule going forward, okay?
+
+706
+00:11:59,430 --> 00:11:59,440
+posting schedule going forward, okay?
+ 
+
+707
+00:11:59,440 --> 00:12:01,510
+posting schedule going forward, okay?
+Number one here is I want to make sure
+
+708
+00:12:01,510 --> 00:12:01,520
+Number one here is I want to make sure
+ 
+
+709
+00:12:01,520 --> 00:12:03,710
+Number one here is I want to make sure
+that James is posting one YouTube video
+
+710
+00:12:03,710 --> 00:12:03,720
+that James is posting one YouTube video
+ 
+
+711
+00:12:03,720 --> 00:12:05,550
+that James is posting one YouTube video
+a week. On LinkedIn, we want to be
+
+712
+00:12:05,550 --> 00:12:05,560
+a week. On LinkedIn, we want to be
+ 
+
+713
+00:12:05,560 --> 00:12:07,630
+a week. On LinkedIn, we want to be
+posting every single day at 8:00 a.m.
+
+714
+00:12:07,630 --> 00:12:07,640
+posting every single day at 8:00 a.m.
+ 
+
+715
+00:12:07,640 --> 00:12:09,950
+posting every single day at 8:00 a.m.
+EST because I've seen in the morning in
+
+716
+00:12:09,950 --> 00:12:09,960
+EST because I've seen in the morning in
+ 
+
+717
+00:12:09,960 --> 00:12:11,870
+EST because I've seen in the morning in
+your given market being the best time to
+
+718
+00:12:11,870 --> 00:12:11,880
+your given market being the best time to
+ 
+
+719
+00:12:11,880 --> 00:12:14,350
+your given market being the best time to
+post on the platform. From there, one
+
+720
+00:12:14,350 --> 00:12:14,360
+post on the platform. From there, one
+ 
+
+721
+00:12:14,360 --> 00:12:16,150
+post on the platform. From there, one
+podcast is released every week, which is
+
+722
+00:12:16,150 --> 00:12:16,160
+podcast is released every week, which is
+ 
+
+723
+00:12:16,160 --> 00:12:17,870
+podcast is released every week, which is
+really just taking that YouTube video
+
+724
+00:12:17,870 --> 00:12:17,880
+really just taking that YouTube video
+ 
+
+725
+00:12:17,880 --> 00:12:19,870
+really just taking that YouTube video
+and then uploading it to Spotify and to
+
+726
+00:12:19,870 --> 00:12:19,880
+and then uploading it to Spotify and to
+ 
+
+727
+00:12:19,880 --> 00:12:22,110
+and then uploading it to Spotify and to
+Apple Music. And then, he's got a couple
+
+728
+00:12:22,110 --> 00:12:22,120
+Apple Music. And then, he's got a couple
+ 
+
+729
+00:12:22,120 --> 00:12:24,110
+Apple Music. And then, he's got a couple
+IG posts going out per week because, you
+
+730
+00:12:24,110 --> 00:12:24,120
+IG posts going out per week because, you
+ 
+
+731
+00:12:24,120 --> 00:12:25,390
+IG posts going out per week because, you
+know, honestly, just being on LinkedIn
+
+732
+00:12:25,390 --> 00:12:25,400
+know, honestly, just being on LinkedIn
+ 
+
+733
+00:12:25,400 --> 00:12:27,190
+know, honestly, just being on LinkedIn
+and YouTube for now is enough. We're
+
+734
+00:12:27,190 --> 00:12:27,200
+and YouTube for now is enough. We're
+ 
+
+735
+00:12:27,200 --> 00:12:28,510
+and YouTube for now is enough. We're
+just doing a little bit on Instagram
+
+736
+00:12:28,510 --> 00:12:28,520
+just doing a little bit on Instagram
+ 
+
+737
+00:12:28,520 --> 00:12:29,710
+just doing a little bit on Instagram
+with some of those content waterfall
+
+738
+00:12:29,710 --> 00:12:29,720
+with some of those content waterfall
+ 
+
+739
+00:12:29,720 --> 00:12:31,310
+with some of those content waterfall
+cut- downs, keeping to a content
+
+740
+00:12:31,310 --> 00:12:31,320
+cut- downs, keeping to a content
+ 
+
+741
+00:12:31,320 --> 00:12:33,070
+cut- downs, keeping to a content
+strategy that feels sustainable, right?
+
+742
+00:12:33,070 --> 00:12:33,080
+strategy that feels sustainable, right?
+ 
+
+743
+00:12:33,080 --> 00:12:34,870
+strategy that feels sustainable, right?
+And not trying to do too much at once,
+
+744
+00:12:34,870 --> 00:12:34,880
+And not trying to do too much at once,
+ 
+
+745
+00:12:34,880 --> 00:12:36,350
+And not trying to do too much at once,
+and then, you know, just having him give
+
+746
+00:12:36,350 --> 00:12:36,360
+and then, you know, just having him give
+ 
+
+747
+00:12:36,360 --> 00:12:38,590
+and then, you know, just having him give
+up. From there, you know, I've gone and
+
+748
+00:12:38,590 --> 00:12:38,600
+up. From there, you know, I've gone and
+ 
+
+749
+00:12:38,600 --> 00:12:41,270
+up. From there, you know, I've gone and
+generated a bunch of proven hooks across
+
+750
+00:12:41,270 --> 00:12:41,280
+generated a bunch of proven hooks across
+ 
+
+751
+00:12:41,280 --> 00:12:43,390
+generated a bunch of proven hooks across
+all of these different content
+
+752
+00:12:43,390 --> 00:12:43,400
+all of these different content
+ 
+
+753
+00:12:43,400 --> 00:12:44,710
+all of these different content
+categories, right? Now, when you're
+
+754
+00:12:44,710 --> 00:12:44,720
+categories, right? Now, when you're
+ 
+
+755
+00:12:44,720 --> 00:12:46,470
+categories, right? Now, when you're
+going and coming up with hooks for your
+
+756
+00:12:46,470 --> 00:12:46,480
+going and coming up with hooks for your
+ 
+
+757
+00:12:46,480 --> 00:12:48,350
+going and coming up with hooks for your
+content, the best place to come up with
+
+758
+00:12:48,350 --> 00:12:48,360
+content, the best place to come up with
+ 
+
+759
+00:12:48,360 --> 00:12:51,190
+content, the best place to come up with
+hooks is by using a course survey you
+
+760
+00:12:51,190 --> 00:12:51,200
+hooks is by using a course survey you
+ 
+
+761
+00:12:51,200 --> 00:12:53,190
+hooks is by using a course survey you
+can go and send to your customers,
+
+762
+00:12:53,190 --> 00:12:53,200
+can go and send to your customers,
+ 
+
+763
+00:12:53,200 --> 00:12:54,310
+can go and send to your customers,
+right? Ask them, what's their biggest
+
+764
+00:12:54,310 --> 00:12:54,320
+right? Ask them, what's their biggest
+ 
+
+765
+00:12:54,320 --> 00:12:55,470
+right? Ask them, what's their biggest
+goals? What are their biggest
+
+766
+00:12:55,470 --> 00:12:55,480
+goals? What are their biggest
+ 
+
+767
+00:12:55,480 --> 00:12:57,590
+goals? What are their biggest
+challenges? And what do they most want
+
+768
+00:12:57,590 --> 00:12:57,600
+challenges? And what do they most want
+ 
+
+769
+00:12:57,600 --> 00:12:59,550
+challenges? And what do they most want
+your help with? Inevitably, content,
+
+770
+00:12:59,550 --> 00:12:59,560
+your help with? Inevitably, content,
+ 
+
+771
+00:12:59,560 --> 00:13:01,350
+your help with? Inevitably, content,
+like any product, is there to go and
+
+772
+00:13:01,350 --> 00:13:01,360
+like any product, is there to go and
+ 
+
+773
+00:13:01,360 --> 00:13:02,870
+like any product, is there to go and
+serve people. And there's no better
+
+774
+00:13:02,870 --> 00:13:02,880
+serve people. And there's no better
+ 
+
+775
+00:13:02,880 --> 00:13:04,390
+serve people. And there's no better
+people to serve than the folks that are
+
+776
+00:13:04,390 --> 00:13:04,400
+people to serve than the folks that are
+ 
+
+777
+00:13:04,400 --> 00:13:06,630
+people to serve than the folks that are
+already paying you money. And so, that's
+
+778
+00:13:06,630 --> 00:13:06,640
+already paying you money. And so, that's
+ 
+
+779
+00:13:06,640 --> 00:13:08,950
+already paying you money. And so, that's
+exactly what I did here. I generated
+
+780
+00:13:08,950 --> 00:13:08,960
+exactly what I did here. I generated
+ 
+
+781
+00:13:08,960 --> 00:13:11,829
+exactly what I did here. I generated
+over 32 proven hooks across each of
+
+782
+00:13:11,829 --> 00:13:11,839
+over 32 proven hooks across each of
+ 
+
+783
+00:13:11,839 --> 00:13:13,670
+over 32 proven hooks across each of
+these categories, wealth architecture,
+
+784
+00:13:13,670 --> 00:13:13,680
+these categories, wealth architecture,
+ 
+
+785
+00:13:13,680 --> 00:13:15,470
+these categories, wealth architecture,
+tax strategy, the Mitchell Method, and
+
+786
+00:13:15,470 --> 00:13:15,480
+tax strategy, the Mitchell Method, and
+ 
+
+787
+00:13:15,480 --> 00:13:17,390
+tax strategy, the Mitchell Method, and
+the Builder Story, to make sure that
+
+788
+00:13:17,390 --> 00:13:17,400
+the Builder Story, to make sure that
+ 
+
+789
+00:13:17,400 --> 00:13:20,030
+the Builder Story, to make sure that
+James is essentially always drowning in
+
+790
+00:13:20,030 --> 00:13:20,040
+James is essentially always drowning in
+ 
+
+791
+00:13:20,040 --> 00:13:21,790
+James is essentially always drowning in
+great content to create. There's no
+
+792
+00:13:21,790 --> 00:13:21,800
+great content to create. There's no
+ 
+
+793
+00:13:21,800 --> 00:13:23,230
+great content to create. There's no
+reason when you're building content
+
+794
+00:13:23,230 --> 00:13:23,240
+reason when you're building content
+ 
+
+795
+00:13:23,240 --> 00:13:25,470
+reason when you're building content
+online for you to be wondering what your
+
+796
+00:13:25,470 --> 00:13:25,480
+online for you to be wondering what your
+ 
+
+797
+00:13:25,480 --> 00:13:27,550
+online for you to be wondering what your
+next content idea should be. That is the
+
+798
+00:13:27,550 --> 00:13:27,560
+next content idea should be. That is the
+ 
+
+799
+00:13:27,560 --> 00:13:29,790
+next content idea should be. That is the
+content GPS, which is in Founder OS, one
+
+800
+00:13:29,790 --> 00:13:29,800
+content GPS, which is in Founder OS, one
+ 
+
+801
+00:13:29,800 --> 00:13:32,390
+content GPS, which is in Founder OS, one
+of the core pieces that we go and
+
+802
+00:13:32,390 --> 00:13:32,400
+of the core pieces that we go and
+ 
+
+803
+00:13:32,400 --> 00:13:34,070
+of the core pieces that we go and
+install inside of founders' businesses
+
+804
+00:13:34,070 --> 00:13:34,080
+install inside of founders' businesses
+ 
+
+805
+00:13:34,080 --> 00:13:35,350
+install inside of founders' businesses
+for them. You know, I'm talking about
+
+806
+00:13:35,350 --> 00:13:35,360
+for them. You know, I'm talking about
+ 
+
+807
+00:13:35,360 --> 00:13:37,670
+for them. You know, I'm talking about
+going and getting on a one-to-one call
+
+808
+00:13:37,670 --> 00:13:37,680
+going and getting on a one-to-one call
+ 
+
+809
+00:13:37,680 --> 00:13:39,670
+going and getting on a one-to-one call
+with a founder right when they join.
+
+810
+00:13:39,670 --> 00:13:39,680
+with a founder right when they join.
+ 
+
+811
+00:13:39,680 --> 00:13:40,950
+with a founder right when they join.
+From there, we go and chart out their
+
+812
+00:13:40,950 --> 00:13:40,960
+From there, we go and chart out their
+ 
+
+813
+00:13:40,960 --> 00:13:42,750
+From there, we go and chart out their
+brand positioning, get their content
+
+814
+00:13:42,750 --> 00:13:42,760
+brand positioning, get their content
+ 
+
+815
+00:13:42,760 --> 00:13:45,190
+brand positioning, get their content
+machine built. We go and get your VSL
+
+816
+00:13:45,190 --> 00:13:45,200
+machine built. We go and get your VSL
+ 
+
+817
+00:13:45,200 --> 00:13:47,590
+machine built. We go and get your VSL
+and your conversion assets all in place.
+
+818
+00:13:47,590 --> 00:13:47,600
+and your conversion assets all in place.
+ 
+
+819
+00:13:47,600 --> 00:13:49,230
+and your conversion assets all in place.
+And then from there, it's really going
+
+820
+00:13:49,230 --> 00:13:49,240
+And then from there, it's really going
+ 
+
+821
+00:13:49,240 --> 00:13:50,750
+And then from there, it's really going
+and implementing this not just in your
+
+822
+00:13:50,750 --> 00:13:50,760
+and implementing this not just in your
+ 
+
+823
+00:13:50,760 --> 00:13:52,430
+and implementing this not just in your
+business with you, but making sure your
+
+824
+00:13:52,430 --> 00:13:52,440
+business with you, but making sure your
+ 
+
+825
+00:13:52,440 --> 00:13:54,590
+business with you, but making sure your
+entire team is leveraged as well. And
+
+826
+00:13:54,590 --> 00:13:54,600
+entire team is leveraged as well. And
+ 
+
+827
+00:13:54,600 --> 00:13:56,070
+entire team is leveraged as well. And
+so, if that's interesting to you, you
+
+828
+00:13:56,070 --> 00:13:56,080
+so, if that's interesting to you, you
+ 
+
+829
+00:13:56,080 --> 00:13:56,950
+so, if that's interesting to you, you
+should definitely go and check out
+
+830
+00:13:56,950 --> 00:13:56,960
+should definitely go and check out
+ 
+
+831
+00:13:56,960 --> 00:13:58,550
+should definitely go and check out
+Founder OS. You can go and find a link
+
+832
+00:13:58,550 --> 00:13:58,560
+Founder OS. You can go and find a link
+ 
+
+833
+00:13:58,560 --> 00:14:00,550
+Founder OS. You can go and find a link
+in the description here. Go and check it
+
+834
+00:14:00,550 --> 00:14:00,560
+in the description here. Go and check it
+ 
+
+835
+00:14:00,560 --> 00:14:02,550
+in the description here. Go and check it
+out. Book a call with my team. Much
+
+836
+00:14:02,550 --> 00:14:02,560
+out. Book a call with my team. Much
+ 
+
+837
+00:14:02,560 --> 00:14:04,590
+out. Book a call with my team. Much
+love. If you liked this video, you would
+
+838
+00:14:04,590 --> 00:14:04,600
+love. If you liked this video, you would
+ 
+
+839
+00:14:04,600 --> 00:14:06,830
+love. If you liked this video, you would
+love this next video on how to go and
+
+840
+00:14:06,830 --> 00:14:06,840
+love this next video on how to go and
+ 
+
+841
+00:14:06,840 --> 00:14:09,150
+love this next video on how to go and
+craft your brand positioning. I'll see
+
+842
+00:14:09,150 --> 00:14:09,160
+craft your brand positioning. I'll see
+ 
+
+843
+00:14:09,160 --> 00:14:10,310
+craft your brand positioning. I'll see
+you over there. Be sure to like and
+
+844
+00:14:10,310 --> 00:14:10,320
+you over there. Be sure to like and
+ 
+
+845
+00:14:10,320 --> 00:14:14,040
+you over there. Be sure to like and
+subscribe, and let's win together.
+

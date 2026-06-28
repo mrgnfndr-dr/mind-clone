@@ -1,0 +1,5 @@
+1|how do you know how to make something for a million people I don't know where to start but if I pick one person in the audience and I study you and I take your journey and say how do we improve this part of the journey how do we improve that part of the journey you can
+11|actually do something really personal and if you design something keep iterating till they love it and don't stop improving until that one person loves it and you're not allowed to get the second person till the first person loves it and then you get the second
+21|person and you keep itting till they love it and then the third person and what ends up happening is when people love your service they become your marketing department they tell other people if you can design something
+31|really amazing and you use the handcrafted part of your brain to create that perfect experience then you can reverse engineer how to industrialize this Millions times over and what happens is people love your product and
+42|they tell everyone else about your product

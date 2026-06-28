@@ -1,0 +1,4 @@
+1|if you want better results from your content ask yourself these three questions they will get you crystal clear on your personal brand what do you enjoy talking about Oprah said the key to Great interviews is to ask the question she's dying to ask engaging
+12|content is the same if you don't love your content neither will your audience what does your audience need if you're not clear on your Niche then look at your audience match your passions to their pains become a subject matter
+24|specialist that people can't ignore who are your enemies Rivals sharpen your brand identity take on adversaries working against your audience's dreams be a voice your followers claim as their own reflect on the answers to these
+35|three questions and think before you publish when you have Clarity on who you are you become magnetic

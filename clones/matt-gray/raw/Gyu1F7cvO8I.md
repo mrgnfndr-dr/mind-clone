@@ -1,0 +1,6 @@
+2|We have a choice. We can either protect our comfort or we can protect our future. Comfort feels like safety, but long-term it's a slow kind of self- betrayal because growth ain't easy. And so what you want to make sure
+12|that you're doing every day is in some small way seeking discomfort. Writing 2,000 words, it means going after those 2,000 words and hitting up
+22|the gym, even when I'm feeling a bit sluggish, right? knowing that, you know, each time I do one of these hard things, it's helping me gradually go and shape the person I'm aiming to become. Someone that's
+33|healthy, someone that's creative, and unlocking their full potential. The truth is, they're not braver than you. They're just more willing to feel like for a little while while something feels a
+43|bit hard. So today, I want you to go and pick one moment where maybe you'd normally go and choose comfort and deliberately doing the uncomfortable version of that thing. Go to the gym. Take that awkward meeting. Go and write
+55|that book. Go and post that content. After you write it down, just stick to the damn plan. That's how you're building confidence and esteem in yourself, knowing that you'll do the things that you set out to

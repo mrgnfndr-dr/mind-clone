@@ -1,0 +1,13 @@
+# DI1RPA-uf2b
+Date: 
+Duration: 125s
+Caption: Follower to Client 🤑🚀
+
+-
+-
+-
+
+#onlinebusiness #instagramstrategies #socialmediaexpert #contentmarketing #socialmediatips
+
+## Transcript
+Every time you get a new follower, send them this message to turn them into a new client. Hey name, I appreciate the follow. If you don't mind, I'm thinking about what free video to create next, and I would love your input to someone who just followed. Now you set the frame of you're not selling anything, you just want to know what free content they want to see next. Keyword being free. Once those two are sent, then you're going to follow them up with, what is your biggest problem whenever it comes to blank right now? This is the question that's going to turn your new follower into a client, because they're going to willingly give you their biggest problem, because you're going to create a free video on it for them. So they're going to tell you their biggest problem, and whatever the biggest problem they give you, you're going to link it back to a product that you sell. So for this video, let's say you're going to be selling weight loss. So if they say, I don't know how to lose 20 pounds before summer, then you're going to connect it back to your product. Honestly, losing 20 pounds before summer is just too big of a problem for anyone to fully break down in a quick 60 second video. But if that is genuinely something that you're struggling with, I do have something you can check out. And then do not fuck this next part up. Now you're going to give a quick elevator pitch, just a quick summary on your product and what it will do for them. No more than two sentences. Then after you send the elevator pitch, then you end it off with this. I could give you some more details if you think you would be interested. Again, you're not asking if they want to buy it. You're just asking if they want more information. And everyone is open to information. So seven times out of 10, they'll say, sure, what is it? And then you can just start qualifying them. Cool. So I'll ask you a few questions, share some details about what your product is called and how it will help you lose 20 pounds before summer. First things first, and then you qualify them. And then next thing you know, 10 messages later, you have now turned a new follower into a new client. But you can also set up my conversion optimized automation that will turn every new follower into a paying client automatically. If you're interested, I have a course on that that teaches you how. So comment the word viral flow and I will send it to you with more details.

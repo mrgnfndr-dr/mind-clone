@@ -1,0 +1,4 @@
+1|you don't need to hustle harder you need to slow down find Clarity remember that money is not the prize don't build a business just to become a slave to it don't create a lifestyle that drains you robs you of your relationships and makes
+12|you unhappy success without fulfillment is not success at all it's just stress if you're pushing out 12 and 18 hour days to hit targets then you're playing the wrong game entrepreneurship is not
+23|about surviving entrepreneurship is about thriving revenue is the fuel on your journey of living a life you dream about the goals life you're excited to live everything else is unsustainable hustle for too long and you can't hear
+34|your heart anymore so rest meditate get into nature find Clarity on your calling and build a business that makes you excited for tomorrow

@@ -1,0 +1,4 @@
+1|What if writing down 20 bullet points on a piece of paper could actually change your life? I've been using this template for the last 15 years of my life and it's been enormously helpful in helping me design the life and business
+12|of my dreams. So, first off, we're going to go and kind of chart out our vision here. So, what's the one word for this month? I'm going to put in unstoppable. That's what we're going for
+22|here. Now, when I think about the dream outcome for the month, right, this could be anything. It could be a revenue goal you have, a profit goal, could be a health goal. I'll go and put here 800k
+36|of revenue, let's just say. Okay, that's going to give us what we need to go and invest in some insane stuff we have coming down the line. And how I want to feel at the end of the month. So how I always want to feel is I want to feel peaceful and calm.

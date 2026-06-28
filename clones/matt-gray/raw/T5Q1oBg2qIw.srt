@@ -1,0 +1,275 @@
+1
+00:00:00,080 --> 00:00:01,750
+ 
+Most creators guess what content to
+
+2
+00:00:01,750 --> 00:00:01,760
+Most creators guess what content to
+ 
+
+3
+00:00:01,760 --> 00:00:03,669
+Most creators guess what content to
+make. I use AI to create content for me
+
+4
+00:00:03,669 --> 00:00:03,679
+make. I use AI to create content for me
+ 
+
+5
+00:00:03,679 --> 00:00:05,349
+make. I use AI to create content for me
+that'll make me millions. All right. So,
+
+6
+00:00:05,349 --> 00:00:05,359
+that'll make me millions. All right. So,
+ 
+
+7
+00:00:05,359 --> 00:00:06,950
+that'll make me millions. All right. So,
+what we're going to do here is leverage
+
+8
+00:00:06,950 --> 00:00:06,960
+what we're going to do here is leverage
+ 
+
+9
+00:00:06,960 --> 00:00:09,350
+what we're going to do here is leverage
+Fathom AI, which can go and record calls
+
+10
+00:00:09,350 --> 00:00:09,360
+Fathom AI, which can go and record calls
+ 
+
+11
+00:00:09,360 --> 00:00:11,110
+Fathom AI, which can go and record calls
+that you're having to then be able to
+
+12
+00:00:11,110 --> 00:00:11,120
+that you're having to then be able to
+ 
+
+13
+00:00:11,120 --> 00:00:13,030
+that you're having to then be able to
+replicate the voice of my dream
+
+14
+00:00:13,030 --> 00:00:13,040
+replicate the voice of my dream
+ 
+
+15
+00:00:13,040 --> 00:00:15,350
+replicate the voice of my dream
+customers, feed that into Chat GBT, and
+
+16
+00:00:15,350 --> 00:00:15,360
+customers, feed that into Chat GBT, and
+ 
+
+17
+00:00:15,360 --> 00:00:16,550
+customers, feed that into Chat GBT, and
+then use that to create things like
+
+18
+00:00:16,550 --> 00:00:16,560
+then use that to create things like
+ 
+
+19
+00:00:16,560 --> 00:00:19,029
+then use that to create things like
+landing page copy, email copy, and a lot
+
+20
+00:00:19,029 --> 00:00:19,039
+landing page copy, email copy, and a lot
+ 
+
+21
+00:00:19,039 --> 00:00:21,830
+landing page copy, email copy, and a lot
+more. Right here, I have a full doc that
+
+22
+00:00:21,830 --> 00:00:21,840
+more. Right here, I have a full doc that
+ 
+
+23
+00:00:21,840 --> 00:00:24,870
+more. Right here, I have a full doc that
+is all of our paid and full deals over
+
+24
+00:00:24,870 --> 00:00:24,880
+is all of our paid and full deals over
+ 
+
+25
+00:00:24,880 --> 00:00:27,189
+is all of our paid and full deals over
+the last month. We've gone and simply
+
+26
+00:00:27,189 --> 00:00:27,199
+the last month. We've gone and simply
+ 
+
+27
+00:00:27,199 --> 00:00:30,070
+the last month. We've gone and simply
+pulled these transcripts from Fathom AI,
+
+28
+00:00:30,070 --> 00:00:30,080
+pulled these transcripts from Fathom AI,
+ 
+
+29
+00:00:30,080 --> 00:00:32,549
+pulled these transcripts from Fathom AI,
+gone and copied these into a Google doc.
+
+30
+00:00:32,549 --> 00:00:32,559
+gone and copied these into a Google doc.
+ 
+
+31
+00:00:32,559 --> 00:00:35,830
+gone and copied these into a Google doc.
+I can then go and download this doc and
+
+32
+00:00:35,830 --> 00:00:35,840
+I can then go and download this doc and
+ 
+
+33
+00:00:35,840 --> 00:00:39,190
+I can then go and download this doc and
+upload it to a voice of customer project
+
+34
+00:00:39,190 --> 00:00:39,200
+upload it to a voice of customer project
+ 
+
+35
+00:00:39,200 --> 00:00:42,229
+upload it to a voice of customer project
+that I've created inside of chatb. This
+
+36
+00:00:42,229 --> 00:00:42,239
+that I've created inside of chatb. This
+ 
+
+37
+00:00:42,239 --> 00:00:45,030
+that I've created inside of chatb. This
+voice of customer doc has a project
+
+38
+00:00:45,030 --> 00:00:45,040
+voice of customer doc has a project
+ 
+
+39
+00:00:45,040 --> 00:00:46,790
+voice of customer doc has a project
+instruction to it that says, you know,
+
+40
+00:00:46,790 --> 00:00:46,800
+instruction to it that says, you know,
+ 
+
+41
+00:00:46,800 --> 00:00:48,869
+instruction to it that says, you know,
+to transform real customer language into
+
+42
+00:00:48,869 --> 00:00:48,879
+to transform real customer language into
+ 
+
+43
+00:00:48,879 --> 00:00:51,190
+to transform real customer language into
+high converting marketing copy. From
+
+44
+00:00:51,190 --> 00:00:51,200
+high converting marketing copy. From
+ 
+
+45
+00:00:51,200 --> 00:00:52,630
+high converting marketing copy. From
+there, I can use it to create things
+
+46
+00:00:52,630 --> 00:00:52,640
+there, I can use it to create things
+ 
+
+47
+00:00:52,640 --> 00:00:55,590
+there, I can use it to create things
+like headlines for my website, CTA lines
+
+48
+00:00:55,590 --> 00:00:55,600
+like headlines for my website, CTA lines
+ 
+
+49
+00:00:55,600 --> 00:00:57,990
+like headlines for my website, CTA lines
+for different calls or workshops. I can
+
+50
+00:00:57,990 --> 00:00:58,000
+for different calls or workshops. I can
+ 
+
+51
+00:00:58,000 --> 00:00:59,910
+for different calls or workshops. I can
+use it for things like email subject
+
+52
+00:00:59,910 --> 00:00:59,920
+use it for things like email subject
+ 
+
+53
+00:00:59,920 --> 00:01:02,630
+use it for things like email subject
+lines as well as social and video hooks
+
+54
+00:01:02,630 --> 00:01:02,640
+lines as well as social and video hooks
+ 
+
+55
+00:01:02,640 --> 00:01:06,400
+lines as well as social and video hooks
+for platforms like Instagram and on
+

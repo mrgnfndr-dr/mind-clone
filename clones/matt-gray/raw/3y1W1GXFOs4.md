@@ -1,0 +1,54 @@
+2|I get this question all the time. How do I fire someone without being a dick? Now, firing can be one of the most nerve-wracking moments as a founder. And there's three stages I'm going to go over in this video that will help you go
+13|and do it in a way that feels authentic. It's being kind, but it's also preserving the sanctity of your culture, your business, and you as the founder.
+23|Think of the firing framework almost like a stoplight. I'm going to draw this out for you. So, got three lights here and we're going to get into all the details. So, we got yellow, orange, and
+35|red. Okay? And this is our firing framework. And so, let's start off with the yellow stage. This stage is where you have someone that's underperforming.
+45|You're going to give this person a warning. And the key framework here is radical cander. You're going to care deeply for this person, but you're going
+55|to speak directly. We're not sugar coating [\h__\h] As an example, if you have someone on your sales team that you've been asking them to go and complete end of day and end of week reports and they
+67|haven't been doing it, the next step for you is to go and sit down with that person and you're just going to go and tell them directly, I've been noticing over the past couple weeks, you haven't been filling out these reports that the
+77|rest of the team is all completing. Is there anything getting in your way? You're going to be looking to see if that person takes responsibility for it or on the other side makes excuses. Assuming they take responsibility for
+88|it, they tell you, "Hey, listen. I'm sorry. You know, I'm going to change." But this person's now on notice. They know that they need to perform in a certain aspect, fix it, and then move
+98|along. You know, my belief is that as you're building a company, you get what you tolerate. If you tolerate mediocre level performance, well, that's exactly what you're going to get from the people
+108|you hire. Inherently, there's nothing terribly wrong at this stage. I can speak as a founder and as a, you know, high achiever. I make mistakes all over the place. I get feedback all the time.
+118|And I think what matters most is that you're building a culture that allows people to make mistakes, but also is ruthless about not allowing people to make, you know, the same mistake two,
+128|three, four, five times. That leads to the orange stage. This is where the performance just continues, right? And you're just not seeing an improvement.
+138|This is basically your final warning before firing someone. This is where you're going and creating a PIP or a performance improvement plan. You're going to get into your values and where
+148|they're falling short, their actual performance, and what you need to see. And you're probably going to decide on a specific time frame, generally between 2 to 4 weeks. So, the PIP is pretty
+159|simple. You're going to go and simply identify across your core values as well as that person's KPIs where they are falling short. Don't over complicate it. It's probably pretty obvious right out
+170|the gate the three areas that this person's underperforming. Under my example of the salesperson that's not sending end of day reports and end of week reports. Well, at Found, we have a culture of being writing first and this
+181|person is not embodying that writing first culture. The second aspect of Found us is we take extreme ownership and this person is not running their aspect of the business like an owner.
+192|Third is that we obsess over quality. If someone's not going to go and fill this out, we don't know what's going on and we're not able to go and deliver the best quality founder experience possible. I'm going to go and detail
+202|those all out and also indicate that this is a core aspect of us even bringing that person on in the first place. From there, it's documented. I'm going to book a meeting quickly and go
+213|over this with someone. Again, speaking directly, caring deeply, but kind of letting them know that this is the final warning. If you're looking to go and get my template to build your own
+223|performance improvement plan because you've been going through this video and you're like, "Oh my gosh, I need to talk to Tim or Mary." Well, now you can go and download it via the link in the description. This is the performance
+233|improvement plan template I've been using for the last 15 years, building multiple successful companies, and well, now it's yours. So, go check this out. you can go and document that person's areas for improvement where they're
+244|going and contradicting your values and give them either two weeks, four weeks, whatever feels right for you to get things on track. Now, I generally will put someone on a 2 week sort of
+254|probation saying, "Hey, I need this to turn around and I need this to get to this specific outcome in the next 2 weeks or I think it's best that we just go separate directions." It's pretty
+264|obvious at this stage things are not working out. If performance continues the direction it's going, there's no seat for them here on the team. I'm not doing this to be a dick. I'm not doing
+274|this to attack them personally. It's just important that any business I'm creating. We obviously have a massive vision, a big mission. And mediocrity is
+284|not going to be stood for. I see a lot of founders get tripped up here because they let people underperform and then underperform and then underperform. And what ends up happening is you have a
+294|high performance culture that will eventually revert to the mean. Meaning that you look around, no one really cares. You've got a bunch of people around you that you really don't respect. You're definitely building a
+305|culture that no a player is going to want to be a part of. And so it's important that as low performers go and pop up around your culture, that you're doing everything to promptly address it.
+316|Not just because your mission requires it, but also because you've got a team of people that are likely dedicated. They're invested. They're giving it their all. And you can imagine if an A
+326|player keeps on seeing a C player around them who's not showing up the same way they are, it starts to affect their performance as well. And that's the last thing that you want. So, you go over
+336|this performance improvement plan, but inevitably you have folks that just continue to underperform. This is where we get to stage three. This is where you need to fire someone without being a
+347|dick. It's that tricky conversation, but the good news is there is a way to fire someone. First off, you're going to book some time and it's going to be you plus
+357|one person. This is just good generally for kind of legal and all that standards. Now this is not legal advice but you get it. Next aspect then is just being direct and simple with it. Okay.
+370|And then lastly you know having empathy and offering help. If you can just stick to these three aspects when you have to fire someone.
+381|It makes it clean, makes it simple and not so scary. This is just my own approach after 15 years running businesses and over the years, unfortunately, having to fire a good
+392|number of people. I think you want to keep it simple. You want to be respectful. You obviously want to have someone in that meeting with you. So, for me, typically, it'll be myself and my chief of staff, Claire, that will go
+403|and schedule a meeting with the given person and let them go. Now, first off, I like to just be direct. Couple weeks ago, we chatted. I went over your performance. Unfortunately, we haven't
+414|seen a big change there. And we think it's best that we go separate directions. That's it. It's that simple. You don't need to overexlain yourself. You don't need to get into every little bit they could have done better. At this
+425|stage, it's done. It's over. So, just keep it simple and save everyone the oxygen. Now, the second aspect of this is saying something like, I really
+435|appreciate what you've put into the company, you know, and I want to support you going forward. if I can make this transition smooth for you, make any intros to other folks or help you on your path, you know, just count me in
+445|your corner. You're not here to be a dick. You're not here to, you know, come at them in any ways. You're just saying that in terms of the mission, the vision that you have, it's just not a good fit,
+455|but you want to help them on to the next stage in their career. The third aspect here is just signing off and not overexlaining any aspect of it. Right? At this stage, sometimes you're going to
+465|get questions from someone saying, "What did I do?" or can I have a second chance, which is probably a fourth chance at this stage. Or it may just blow up into some other sort of conversation. And I'm here just to
+476|reassure you that you don't need to go all those directions. You can kind of curtail those kind of conversations by just simply saying, "We're probably both going to have different viewpoints with this and I respect your way of looking at it." That said, you know, we've
+487|thought long and hard about this and it just doesn't make sense given the stage we're at and I just think it's best we go separate directions. I'm going to follow up in an email with everything. We're going to get you offboarded now.
+497|And you know, when the dust settles, if you want to reach out or let me know how I can help you, you know, I'm here to support you. Whether it's with a reference, an intro, anything. This isn't personal. There's no hard feelings. I just got to do what's best
+507|for the team, for the mission, and for the culture. It's just simple. And I'm not getting into a long- winded, you know, affair here. The reality is you
+517|want to have empathy. I think you want to have empathy for yourself, right? This is a tricky moment as a founder, right? It's probably one of your least favorite moments of building a business. On the other side, too, the person that
+527|you're letting go, it's a really hard day for them. It may be the low moment in their year or maybe for some people even the low moment in their career. I think it's about showing up calmly with
+537|empathy, caring deeply, but speaking directly. Firing is uncomfortable because we're humans. But as a founder, firing is a necessary part of your
+547|growth. You need to embrace it. you need to borderline find it something that's enjoyable. And so what I find is that if you dread this, you end up piling up mediocre players. Whereas, if there's an
+559|aspect of you that enjoys it and knows how to handle it, you're quick to go and correct your team along the way so that you can build an empire with the top performers without being a dick.

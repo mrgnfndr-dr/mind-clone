@@ -1,0 +1,60 @@
+7|My best friends know me as an intense mother [\h__\h] People think I'm just this Zen CEO guy. And honestly, it's a bit of a lie. Here's the deal, right? When you're building a business, things can get intense, right? At times, they
+18|get a bit chaotic. And the truth is, you know, my business is no different than any business out there in terms of this default state of entropy. You know, whether it's your business, my business,
+29|you know, things come up. You know, people quit. There's still fires that happen, right? And I want to just be able to be real with you, right? That, you know, even me, you know, at 20 years into entrepreneurship,
+40|you know, I still struggle with this stuff at times. And I say this to you um because you know, I don't want to convey um some person online um that purely all
+51|the time has it like figured out. I think that all of us entrepreneurs really are just figuring it out as we go, right? And there's so many things that I don't know that I'm still learning. I was on a call with a mentor,
+63|Neil Patel, this morning talking to Neil about, you know, our current, you know, model for the company, how we're getting the business um to $2 million of cash collected per month. Um and, you know,
+74|I'm coming to him with a bit of a plan, but about 50% of that plan, I'll be honest, right? I really don't know what I'm doing. I guess I'm just saying all this because when I look at the people
+84|that I respect most, you know, Steve Jobs, Jony Ive, Brian Chesky, Elon, you know, all of us, you know, founders, we've got flaws. And it it isn't all
+95|smooth sailing. And I think that for me, when I look at my own life, probably like many of you, right? I straddle like many different vibes, many different sort of personalities almost in a way.
+106|For sure, I can be that Zen guy when I'm, you know, taking that 3-week break in the summer to go to the Dolomites or going snowboarding in Japan for 3 weeks and just unplugging. But I would
+117|actually say that a lot of my default state is I'm pretty damn intense, right? My team would say, "I'm an intense motherfucker." And I think it's interesting when I meet different founders and they get a sense for me in
+128|person, they're like, "Holy [\h__\h] You know, this guy This guy's really in it. And he's [\h__\h] passionate." They would say I'm intense. You know, I was on a call with a founder, Kyler, um who's
+138|someone inside of Founder OS Edge, uh which is a, you know, small group of founders um that I work with directly uh one-on-one, helping them every single week to help them scale up their companies. But, oftentimes what comes up
+149|on these is a lot of like mindset stuff. You know, even just how to build balance into business, right? Kyler and I were talking Kyler's been having some troubles really, you know, taking breaks
+159|from just the intensity of the work, having fun, going on adventures, having a social life. And I resonate with this because, honestly, that stuff doesn't come naturally to me, either. I'm an
+169|introvert, reading, you know, working out on my own, cold bath, sauna, and deep work. You know, that to me is like my peace. But, obviously, like, you know, having a social life and community
+180|and adventures, all this stuff is important. And you Kyler was asking me, you know, "How exactly do you fit that in? How do you think about it?" And for me, you know, I think there's a few strategies that I think about. You know, uh being an intense [\h__\h] right?
+191|How do I kind of build in these moments um that allow me to find my zen because, again, truthfully, it's not my default state. Number one is any location I go to, I have a list in my phone called,
+204|you know, "Bali peeps" or "Miami peeps" or "LA peeps", depending on where I am in the world, which is like my people. And before I go and land in that given destination, let's say I'm about to go
+215|and take off to Bali from Miami, I go and I message all 20 of those people and I let them know, "Hey, I'm landing. Would love to do something fun. Do you guys want to go on a volcano hike, do some cold bath sauna, go hang out? You
+226|know, whatever. Let's uh let's organize something." And so, sure enough, then when I've landed, right, automatically there's some of these social things going on. Inherently then, that stuff
+236|gets scheduled and it forces me to kind of pull myself away from my businesses because again, you know, I'm an intense [\h__\h] And so, if I'm not doing much or I don't have much going on, I just kind of find myself working,
+248|building because it's just what I love to do. The next thing that I love to do is basically every 6 to 8 weeks scheduling some sort of adventure. Just yesterday, I scheduled 1 week in Byron
+260|Bay, Australia. Never been before, uh but we're sending it. Um so, in 6 weeks, going with a friend, heading out there, go relax, unplug, do a bit of a dopamine detox. I find that
+270|there's not only benefit from doing these kind of soul trips every 6 to 8 weeks for the sake of actually, you know, pulling yourself away, but the nice thing, too, is that along the way, um you get to benefit from the
+280|anticipation of that thing coming up, right? So, you know, not to mention, too, it just again forces you to get away from the intensity of building. And I think for many of us, intense, crazy
+292|[\h__\h] you know, taking breaks, right, finding that zen has the same sort of benefit and you feel the same sort of way, right? Like initially, you're like, man, I don't know if I can afford to take this weekend off, you
+302|know, I don't know if I can afford to go to this social gathering tonight, you know, I don't know if I can afford to, you know, go on that vacation, right? But then sure enough, you go on it, you know, you finally have the chance to
+312|down regulate your nervous system, you know, you realize, damn, you know, I really needed that and, you know, some creative sparks start flying, you start to get that mojo back. Because, you know, when we look at our businesses, right, often times, they really are a
+324|reflection um of our nervous systems as a founder. And I know that if I get caught up too much in that intense side of things,
+334|what ends up happening is, um candidly, I'm just an [\h__\h] I'm short-fused. My intensity can turn into a like kind of overly abrupt and blunt and, you know, a
+344|lack of listening and someone that can be just too aggressive and just hard to be around. What we end up finding is, yeah, maybe you're moving a lot of things forwards, um but you're also kind of moving some things two steps
+355|backwards, you know, with Founder OS, we are, you know, really pushing the needle with everything that we're doing. I view business kind of like a video game, and the video game that we're playing is
+365|trying to build um the greatest founder infrastructure in the world. I want to allow founders to go build a plug-in to the infrastructure that we've built and be able to build out world-class
+376|distribution in media companies for them. AI is going to replace a lot of things over the next bit, but I think the final frontier of it it will not replace is your ability to build your
+386|own distribution, your own media, and control your destiny. I think there's this amazing window in this kind of category that we've been leading, and
+396|I'm really obsessed, if I'm being honest, around being at the forefront of that category, really inventing that category, right? This kind of founder infrastructure
+406|layer. And so, with that, right? Because of that, you know, obsession, because of the creativity behind it, because of this mission I feel like we're all on and that the team is really excited by
+416|and that we all know that we're really changing the game with. The reality is, you know, we are getting after it. You know, my default state is really going for it, right? Because this is something we're excited by. Bring founders these
+427|systems. We're excited to serve founders at the highest level possible. I really do believe that our, you know, care, right? Our giving-a-shit inside of the company is one of our biggest
+437|competitive advantages. While being zen is nice and all, and you know, maybe my day start in sort of a zen mode, right? Maybe listening to this meditation over here, right? which we
+448|released on YouTube about a year ago. You know, once uh once my meditation's over, right? And I'm up and at it, and we're one, you know, iced Americano down, you know, we're going to war here, though. I
+458|realize this is happening just when, you know, multiple founders like come up to me, again, they just get surprised by my intensity, you know, I'm helping them in their businesses,
+468|they're seeing the pace at which I'm moving, and, you know, just really addressing the elephant in the room, which is like, hey, like, if someone wants to build a media company, we got to put some real moves in place here,
+478|right? Like, there's not It's not going to be easy, right? This is going to be hard, you got to be committed, um and they can see a level of like yeah, just intensity on my side. And I realized
+488|that, you know, while maybe people are seeing things like the Dolomites or Bali, and, you know, truthfully, too, when I'm filming most times, I'm, you know, just in a bit of a different mode. I'm sitting down and just talking to you
+499|guys about maybe some systems I'm doing, or sharing my screen, or cuz and so that stuff's all true, right? But, what oftentimes maybe you guys aren't seeing, right, is just like the
+509|behind-the-scenes at the actual like pace um I'm pushing myself and pushing the team as well. It's that pace you set, which is kind of the company you build. Just wanted to basically We just
+520|addressed that, cuz my goal is always to come across and just be res real as possible with you guys. Um I want to paint a real picture, um and, you know, just had the thought this morning
+530|um that it was worth just uh you know, letting you guys know about this this other side of me that you may not see as much, you know, there's uh there's obviously a lot of work that goes on behind the scenes from me, from the team. Um and that work uh you know,
+542|ain't always easy, um and it ain't always pretty, and uh it certainly ain't always zen. And I just thought it'd be good to be real about that uh to set the record straight. If you're someone, you know, following this
+553|channel, you probably follow this for the idea that we can have it all as founders, right? We can have a vibrant life and a vibrant business. We can be like zen at times and be intense
+564|[\h__\h] We can want to build a beautiful, calm business, while also wanting to win our category and get the [\h__\h] after it. We can, you know, want to, you know, be able to remove
+575|ourselves in the business for 3 weeks and come back to a business that's stronger than when we left. Well, also when we're in the business and there with the team wanting to push it, right? And evolve and dominate. What makes
+586|founders special, right? Is this ability to kind of straddle two seemingly disparate worlds, right? And uh you know, sometimes I think you may see that
+597|one world of the Zen calm systems dude, right? Um but yeah, do not be mistaken, right? There is a crazy [\h__\h] also behind the scenes and I think this
+607|is you know, what I you know, see founders inside of Founder OS, you know, getting a taste of, you know, that that David Goggins side of things that's you know, pushing the needle, trying to help
+618|folks win, really helping people you know, bring a new level of caliber and expectations to how they operate and how their team operates. And it's by setting those high standards for myself
+629|as well that I've been able to be, you know, successful over the years. And so, yeah. That's kind of what I But you know, we just want to be relaxed, you know, and just drink a little, The Zen guy is not always >> Yeah, we're not we're not too Zen, but
+640|we know, we'll have a smoothie here and there. >> [snorts]

@@ -1,0 +1,14 @@
+3|This is the tech stack for my million a month business. So, first things first, my lover, Claude code. So, Claude code is an absolute beast. I spend a few hours in this every single day. If you're going to get going on it, first
+13|step is go and hook up all the connectors to it. Probably things like your HubSpot, maybe even tools you're using like your QuickBooks and things like that to make sure that HubSpot is able to speak to Claude code, and then
+24|you're able to run a bunch of cool automation. So, yeah, next thing is HubSpot. It's a CRM that we use. If you're looking to save money though, you may use things like close.io. Vercel is what I use to publish a lot of our web pages
+35|for, so different tools that we make and such. I'm publishing it to Vercel first, and then being able to hand off those Vercel, you know, kind of files to my engineer if we're going to go and then
+45|actually push them to the founder us.com website. Superbase is what we use to go and create a lot of things super fast. And it end is for a lot of the workflow automation that we use, so different
+55|tools can interact with other tools. Fathom, all calls are recorded, and the cool thing is that Fathom interacts nicely with Mr. Claude code over here. And the beautiful thing there is any
+65|call that I'm on with my team, I instantly go and take the Fathom recording afterwards, I plug it into Claude code, and I say, "Go and action every single thing that we just went
+75|over on that call, and I want you to be smarter than Jeff Bezos, Elon Musk, Jensen Huang, Warren Buffett, and Charlie Munger combined and go and move this forward. Enter plan mode, go and get that done. Come up with a plan, I'll
+86|approve it, and then we'll go get those things going by interacting with these other tools here." So, call me a little bit weird, but this is how I operate. Slack, I mean, kind of self-explanatory, you know, but you got to make sure that you have things like scheduled tasks
+98|hooked up from Claude code into Slack to eliminate all the accountability that you got to do as a business owner. You know, nothing's more tiring than having to remind people, right? And the beautiful thing is when you've hooked up
+108|Claude code correctly into your Slack, people are getting those Monday reminders through Claude as to what they need to get done that week, and then it's able to monitor all of the meetings that happen in Mr. Fathom over here to
+119|make sure that Mr. Claude is making sure that Mr. HubSpot's happy with the revenue growth, and making sure that these folks in Slack are staying super dialed. On the Calendly side, we're booking sales calls, closing revenue,
+130|making sure that Mr. HubSpot's happy. So, that is the tech stack. You know, we're talking like roughly 2K per month here, but who's checking if the cash is flowing, these costs ain't mattering
+140|much, all right?

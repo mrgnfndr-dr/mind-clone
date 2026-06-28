@@ -1,0 +1,59 @@
+{
+  "slug": "mino-lee",
+  "display_name": "Mino Lee",
+  "chat_language": "ru",
+  "name_variants": ["Mino Lee", "@mino.mp4", "@minolee.mp4", "@mino1ee", "minolee.mp4", "@SigmaMino", "Mino"],
+  "identity": {
+    "roles": [
+      "Founder, The Content Academy (contentacademy.io)",
+      "Creator-educator: organic growth on Instagram Reels & YouTube Shorts",
+      "Personal-brand / short-form content coach"
+    ],
+    "tagline": "make money with a personal brand on short-form (Reels/Shorts) without paid ads",
+    "persona": "NYC-based ~21-22 y/o college dropout entrepreneur; direct, contrarian, numbers-driven; documents income ($100k/mo, $1.2M from social media); blunt 'eat dirt and post' work ethic",
+    "books": [],
+    "domains": [
+      "viral hooks (first 3 seconds, hook archetypes, AI-assisted hooks)",
+      "script structure & retention engineering",
+      "Instagram Reels / YouTube Shorts / TikTok algorithm & distribution",
+      "personal-brand positioning, niche & ideal-viewer psychology",
+      "production workflow & batching (90 min/day, 7 reels in 2 hours)",
+      "monetization: high-ticket, course business, funnels, UGC, IG-story selling"
+    ],
+    "platforms": {
+      "youtube": "https://www.youtube.com/@mino.mp4",
+      "instagram": "@minolee.mp4",
+      "tiktok": "@mino.mp4 / @minolee.mp4 (1M+)",
+      "x": "@SigmaMino",
+      "course": "https://contentacademy.io (The Content Academy / Content Academy Lite on Whop; '1,000 True Fans Mastercourse')"
+    }
+  },
+  "build": {
+    "mode": "BUILD",
+    "depth": "exhaustive (channel-saturating on the in-window YouTube long-form corpus)",
+    "source_window": "2024-07-17 .. 2026-06-16",
+    "filters_applied": [
+      "exclude videos < 3 min (user constraint) — 1 excluded: 'Content Games | Official Trailer' (174s)",
+      "exclude anything before 2024-06-01 (user constraint) — 13 pre-window videos excluded",
+      "exclude TikTok / Instagram / Shorts short-form (user constraint)"
+    ],
+    "channel_videos_total": 81,
+    "sources_youtube_in_window": 67,
+    "sources_harvested": 67,
+    "corpus_minutes": 1723,
+    "ep_count": 1595,
+    "ep_kind_breakdown": "procedure=555, belief=185, heuristic=172, reasoning=167, framework=160, stance=111, anecdote=100, observation=72, antipattern=62, prediction=7, axiom=4",
+    "ep_group_breakdown": "monetization-offer=265, production-workflow=238, content-strategy=224, mindset-discipline=194, hooks=177, scripting=165, audience-psychology=123, creator-business-model=81, algorithm-distribution=67, growth-playbook=61",
+    "harvest_method": "yt-dlp English captions (en-orig) -> deduped to clean timestamped text -> 16 parallel extraction agents -> EP delta -> contour import (0 rejected)"
+  },
+  "coverage_gaps": [
+    "The Content Academy / '1,000 True Fans Mastercourse' (contentacademy.io, Whop) — PAID & gated, not harvested. Its methodology overlaps heavily with the free YouTube full-courses (s041, s057, s058, s062, s063) which ARE fully harvested. To deepen, supply legally-owned course material.",
+    "TikTok (@mino.mp4 / @minolee.mp4, 1M+) and Instagram (@minolee.mp4) short-form — EXCLUDED by user constraint (<3 min / shorts). The long-form YouTube corpus is the canon.",
+    "X/Twitter (@SigmaMino) text threads — not harvested (low marginal value vs the 28.7h video corpus; out of primary scope).",
+    "13 YouTube videos before 2024-06-01 excluded per the date constraint (older personal-brand/algorithm takes not represented).",
+    "No book exists.",
+    "Quotes are YouTube auto-caption grade (lowercase, occasional ASR errors) — verbatim at caption fidelity, not transcript-perfect. Deep-links jump to the exact second so the real audio always wins on any conflict."
+  ],
+  "faithfulness_smoke": "6 match / 0 partial / 0 contradiction over 6 held-out probes (runs/0001/faithfulness.md). Indicative only.",
+  "notes": "DB built on local disk then copied to the project (SQLite write-locking fails on the WSL network share; reads are fine, so CHAT works in place). Fixed group taxonomy (10 groups) used across all extraction agents for cross-source coherence. ffmpeg/whisper not installed — all 67 sources had native English captions, so no ASR was needed (0 no-transcript sources)."
+}

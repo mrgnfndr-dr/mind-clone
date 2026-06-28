@@ -1,0 +1,8956 @@
+1
+00:00:00,000 --> 00:00:04,000
+in this video we're going to talk about
+
+2
+00:00:02,000 --> 00:00:06,000
+Sam Altman and his recent interview on
+
+3
+00:00:05,000 --> 00:00:09,000
+the all-in podcast Sam Altman and open
+
+4
+00:00:08,000 --> 00:00:12,000
+AI have exploded over the last two years
+
+5
+00:00:12,000 --> 00:00:16,000
+they went from him being fired to him
+
+6
+00:00:14,000 --> 00:00:18,000
+coming back and this interview is one of
+
+7
+00:00:16,000 --> 00:00:20,000
+his first interviews back and I believe
+
+8
+00:00:18,000 --> 00:00:22,000
+it's extremely important in the digital
+
+9
+00:00:20,000 --> 00:00:24,000
+landscape in the technology landscape
+
+10
+00:00:21,000 --> 00:00:25,000
+and in the social media landscape we're
+
+11
+00:00:23,000 --> 00:00:27,000
+going to talk about it all we're going
+
+12
+00:00:24,000 --> 00:00:28,000
+to dig into the entire interview and
+
+13
+00:00:27,000 --> 00:00:31,000
+talk about why these conversation and
+
+14
+00:00:29,000 --> 00:00:33,000
+what he saying and how that's important
+
+15
+00:00:31,000 --> 00:00:35,000
+to leaders as we look to the Future and
+
+16
+00:00:34,000 --> 00:00:38,000
+how we begin to integrate AI more into
+
+17
+00:00:37,000 --> 00:00:41,000
+our businesses into our organizations
+
+18
+00:00:40,000 --> 00:00:44,000
+moving forward so let's dig into this
+
+19
+00:00:43,000 --> 00:00:47,000
+interview
+
+20
+00:00:46,000 --> 00:00:50,000
+together hey there if we haven't met yet
+
+21
+00:00:48,000 --> 00:00:52,000
+I'm Neil Smith your social media guide
+
+22
+00:00:51,000 --> 00:00:55,000
+and I help leaders maximize social media
+
+23
+00:00:54,000 --> 00:00:58,000
+and new technology and a lot of the
+
+24
+00:00:56,000 --> 00:01:00,000
+focus over the last year has been on AI
+
+25
+00:00:58,000 --> 00:01:02,000
+and I've looked at a lot of different
+
+26
+00:01:00,000 --> 00:01:04,000
+software tools that are coming out and
+
+27
+00:01:02,000 --> 00:01:06,000
+available and there is no more important
+
+28
+00:01:05,000 --> 00:01:09,000
+company I believe to follow and to
+
+29
+00:01:06,000 --> 00:01:10,000
+Monitor and Technology specifically to
+
+30
+00:01:09,000 --> 00:01:13,000
+pay attention to then chat GPT in this
+
+31
+00:01:11,000 --> 00:01:15,000
+world they are the leaders in this space
+
+32
+00:01:14,000 --> 00:01:18,000
+and Google's doing some interesting
+
+33
+00:01:15,000 --> 00:01:19,000
+stuff I think Amazon's got some stuff on
+
+34
+00:01:17,000 --> 00:01:21,000
+the horizon meta has prioritized AI into
+
+35
+00:01:20,000 --> 00:01:24,000
+the future but AI has continued to lead
+
+36
+00:01:23,000 --> 00:01:27,000
+the way and Sam Altman as the leader of
+
+37
+00:01:26,000 --> 00:01:30,000
+open AI I believe is one of the most
+
+38
+00:01:28,000 --> 00:01:32,000
+important voices and leaders and
+
+39
+00:01:30,000 --> 00:01:34,000
+innovators in this space and so I
+
+40
+00:01:32,000 --> 00:01:36,000
+believe this is a really insightful
+
+41
+00:01:34,000 --> 00:01:38,000
+conversation I listened to it this
+
+42
+00:01:36,000 --> 00:01:40,000
+weekend I thought you know what there's
+
+43
+00:01:37,000 --> 00:01:41,000
+some just nuggets out of this that I
+
+44
+00:01:39,000 --> 00:01:43,000
+want to dig into and talk about here on
+
+45
+00:01:41,000 --> 00:01:45,000
+this YouTube channel so let's jump right
+
+46
+00:01:44,000 --> 00:01:48,000
+into this podcast and I'll pause it in
+
+47
+00:01:47,000 --> 00:01:51,000
+between and share my thoughts and what I
+
+48
+00:01:49,000 --> 00:01:53,000
+believe we can take away from what he
+
+49
+00:01:51,000 --> 00:01:55,000
+shares because there's a lot of things
+
+50
+00:01:52,000 --> 00:01:56,000
+he doesn't say and he can't say but I
+
+51
+00:01:54,000 --> 00:01:58,000
+think there's some things that we need
+
+52
+00:01:55,000 --> 00:01:59,000
+to listen closely to and begin to
+
+53
+00:01:58,000 --> 00:02:02,000
+understand where this Tech techologies
+
+54
+00:02:00,000 --> 00:02:04,000
+going and how we can be prepared for
+
+55
+00:02:02,000 --> 00:02:06,000
+what's coming and how we can begin to
+
+56
+00:02:04,000 --> 00:02:08,000
+integrate these Technologies effectively
+
+57
+00:02:06,000 --> 00:02:10,000
+and efficiently into our
+
+58
+00:02:08,000 --> 00:02:12,000
+organizations experimental fund that Sam
+
+59
+00:02:11,000 --> 00:02:15,000
+and I were part of a Scouts is sequoia's
+
+60
+00:02:13,000 --> 00:02:17,000
+highest multiple returning fund couple
+
+61
+00:02:15,000 --> 00:02:19,000
+of low digigit Millions turned into over
+
+62
+00:02:17,000 --> 00:02:21,000
+200 million I'm told and then he did
+
+63
+00:02:19,000 --> 00:02:23,000
+yeah that's what I was told by ruoff
+
+64
+00:02:21,000 --> 00:02:25,000
+yeah and he did a stint at Y combinator
+
+65
+00:02:23,000 --> 00:02:27,000
+where he was president from 2014 to 2019
+
+66
+00:02:25,000 --> 00:02:29,000
+in 2016 he co-founded open AI with the
+
+67
+00:02:28,000 --> 00:02:32,000
+goal of ensuring that artificial general
+
+68
+00:02:31,000 --> 00:02:35,000
+intelligence benefits all of humanity in
+
+69
+00:02:34,000 --> 00:02:38,000
+2019 he left YC to join open aai
+
+70
+00:02:36,000 --> 00:02:40,000
+full-time as CEO things got really
+
+71
+00:02:38,000 --> 00:02:42,000
+interesting on November 30th of 2022
+
+72
+00:02:41,000 --> 00:02:45,000
+that's the day openi launched chat GPT
+
+73
+00:02:44,000 --> 00:02:48,000
+in January 2023 Microsoft invested 10
+
+74
+00:02:47,000 --> 00:02:51,000
+billion in November 2023 over a crazy 5
+
+75
+00:02:51,000 --> 00:02:55,000
+days span Sam was fired from open thei
+
+76
+00:02:54,000 --> 00:02:58,000
+everybody was going to go work at
+
+77
+00:02:55,000 --> 00:02:59,000
+Microsoft a bunch of hard emojis went
+
+78
+00:02:57,000 --> 00:03:01,000
+viral on x/ Twitter and people started
+
+79
+00:03:00,000 --> 00:03:04,000
+speculating that the team had reached
+
+80
+00:03:02,000 --> 00:03:06,000
+artificial general intelligence the
+
+81
+00:03:04,000 --> 00:03:08,000
+world was going to end and suddenly a
+
+82
+00:03:06,000 --> 00:03:10,000
+couple days later he was back to being
+
+83
+00:03:08,000 --> 00:03:12,000
+the CEO of open AI in February Sam was
+
+84
+00:03:12,000 --> 00:03:16,000
+reportedly looking to raise $7 trillion
+
+85
+00:03:14,000 --> 00:03:18,000
+for an AI chip project this after was
+
+86
+00:03:17,000 --> 00:03:21,000
+reported that Sam was looking to raise a
+
+87
+00:03:18,000 --> 00:03:22,000
+billion for masu yoshian to create an
+
+88
+00:03:21,000 --> 00:03:25,000
+iPhone killer with Johnny I the
+
+89
+00:03:22,000 --> 00:03:26,000
+co-creator of the iPhone all of this
+
+90
+00:03:25,000 --> 00:03:29,000
+while cheat GPT has become better and
+
+91
+00:03:27,000 --> 00:03:31,000
+better and a household name it's having
+
+92
+00:03:29,000 --> 00:03:33,000
+a massive impact on how we work and how
+
+93
+00:03:32,000 --> 00:03:36,000
+work is getting done and it's reportedly
+
+94
+00:03:34,000 --> 00:03:38,000
+the fastest product to hit 100 million
+
+95
+00:03:36,000 --> 00:03:40,000
+users in history in just two months and
+
+96
+00:03:39,000 --> 00:03:43,000
+check out opening eyes insane Revenue
+
+97
+00:03:42,000 --> 00:03:46,000
+ramp up they reportedly hit two billion
+
+98
+00:03:43,000 --> 00:03:47,000
+in ARR last year welcome okay so let's
+
+99
+00:03:48,000 --> 00:03:52,000
+just stop right there and you know the
+
+100
+00:03:51,000 --> 00:03:55,000
+few key things to to notice here and
+
+101
+00:03:53,000 --> 00:03:57,000
+that they mentioned one I I just got to
+
+102
+00:03:55,000 --> 00:03:59,000
+say I love the Allin podcast there are a
+
+103
+00:03:57,000 --> 00:04:01,000
+few podcasts I listen to pretty much
+
+104
+00:03:59,000 --> 00:04:03,000
+every episode of and this is one of
+
+105
+00:04:02,000 --> 00:04:06,000
+those podcasts and so they're really on
+
+106
+00:04:04,000 --> 00:04:08,000
+the Forefront of new technology and
+
+107
+00:04:08,000 --> 00:04:12,000
+investing and business and and culture
+
+108
+00:04:10,000 --> 00:04:14,000
+and politics and some really interesting
+
+109
+00:04:12,000 --> 00:04:16,000
+things so I want to highly recommend the
+
+110
+00:04:14,000 --> 00:04:18,000
+Allin podcast as a great listen every
+
+111
+00:04:17,000 --> 00:04:21,000
+week and and to the leaders that are on
+
+112
+00:04:19,000 --> 00:04:23,000
+in a lot of the interviews that they do
+
+113
+00:04:22,000 --> 00:04:26,000
+but he talks about how when you know
+
+114
+00:04:24,000 --> 00:04:28,000
+open AI is one the fastest growing
+
+115
+00:04:26,000 --> 00:04:30,000
+technology from an adoption standpoint
+
+116
+00:04:27,000 --> 00:04:31,000
+in the history of technology and and
+
+117
+00:04:30,000 --> 00:04:34,000
+those of us who have kind of lived
+
+118
+00:04:31,000 --> 00:04:35,000
+through the internet social media and
+
+119
+00:04:33,000 --> 00:04:37,000
+the explosion of Tik Tok and some of
+
+120
+00:04:35,000 --> 00:04:39,000
+these platforms that have grown
+
+121
+00:04:36,000 --> 00:04:40,000
+tremendously fast this is faster than
+
+122
+00:04:39,000 --> 00:04:43,000
+anything else we've ever experienced in
+
+123
+00:04:41,000 --> 00:04:45,000
+history from an adoption standpoint and
+
+124
+00:04:43,000 --> 00:04:47,000
+then he goes on to talk about when Sam
+
+125
+00:04:45,000 --> 00:04:49,000
+Alman left everyone is going to go to
+
+126
+00:04:48,000 --> 00:04:52,000
+Microsoft and I I think this is an
+
+127
+00:04:49,000 --> 00:04:53,000
+important note that in many ways while
+
+128
+00:04:52,000 --> 00:04:56,000
+open AI isn't owned by Microsoft it is
+
+129
+00:04:55,000 --> 00:04:59,000
+Microsoft is very involved both as an
+
+130
+00:04:57,000 --> 00:05:01,000
+investor in open Ai and an integrator
+
+131
+00:05:00,000 --> 00:05:04,000
+into open Ai and so I would in some ways
+
+132
+00:05:03,000 --> 00:05:07,000
+almost consider open AI as a part of
+
+133
+00:05:07,000 --> 00:05:11,000
+Microsoft and so where we look at Gemini
+
+134
+00:05:09,000 --> 00:05:13,000
+being you know Google's AI system that
+
+135
+00:05:12,000 --> 00:05:16,000
+is fully integrated into Google and you
+
+136
+00:05:16,000 --> 00:05:20,000
+know we look at you know llama and you
+
+137
+00:05:18,000 --> 00:05:22,000
+know Facebook or meta AI being their big
+
+138
+00:05:22,000 --> 00:05:26,000
+investment Microsoft is investing
+
+139
+00:05:24,000 --> 00:05:28,000
+through openai and integrating uh very
+
+140
+00:05:26,000 --> 00:05:30,000
+closely with open Ai and so I think that
+
+141
+00:05:29,000 --> 00:05:33,000
+connection
+
+142
+00:05:30,000 --> 00:05:34,000
+is important as we look to the future of
+
+143
+00:05:32,000 --> 00:05:36,000
+this technology and who is involved in
+
+144
+00:05:35,000 --> 00:05:39,000
+what and where we're going to be aligned
+
+145
+00:05:38,000 --> 00:05:42,000
+and and then the other thing is is that
+
+146
+00:05:40,000 --> 00:05:44,000
+basically people perceive chat GPD to be
+
+147
+00:05:43,000 --> 00:05:47,000
+this free tool that's available online
+
+148
+00:05:45,000 --> 00:05:49,000
+and app their free version is incredible
+
+149
+00:05:48,000 --> 00:05:52,000
+but they're also making a lot of money
+
+150
+00:05:50,000 --> 00:05:54,000
+now practically as I understand they're
+
+151
+00:05:51,000 --> 00:05:55,000
+Lo still losing money their spend is
+
+152
+00:05:54,000 --> 00:05:58,000
+higher than their revenue and so they
+
+153
+00:05:57,000 --> 00:06:01,000
+still have a burn right and things
+
+154
+00:05:59,000 --> 00:06:03,000
+they've got to figure out from a revenue
+
+155
+00:06:02,000 --> 00:06:06,000
+model standpoint but they figured out
+
+156
+00:06:04,000 --> 00:06:08,000
+how to make money and and just to grow
+
+157
+00:06:06,000 --> 00:06:10,000
+that fast in annual revenue is just
+
+158
+00:06:09,000 --> 00:06:13,000
+unbelievable and so yeah it's pretty
+
+159
+00:06:12,000 --> 00:06:16,000
+impressive what Sam Alman has done
+
+160
+00:06:14,000 --> 00:06:18,000
+through open Ai and how fast they're
+
+161
+00:06:17,000 --> 00:06:21,000
+growing so let's get back to the
+
+162
+00:06:19,000 --> 00:06:23,000
+interview to the Allin podcast Sam thank
+
+163
+00:06:22,000 --> 00:06:26,000
+you thank you guys saak you want to Le
+
+164
+00:06:24,000 --> 00:06:28,000
+us off here okay sure I mean I I think
+
+165
+00:06:26,000 --> 00:06:30,000
+the whole industry is waiting with
+
+166
+00:06:27,000 --> 00:06:31,000
+baited breath for the release of
+
+167
+00:06:30,000 --> 00:06:34,000
+pt5 I guess it's been reported that it's
+
+168
+00:06:32,000 --> 00:06:36,000
+launching some time this summer but
+
+169
+00:06:34,000 --> 00:06:38,000
+that's a pretty big window can you
+
+170
+00:06:36,000 --> 00:06:40,000
+narrow that down I guess where where are
+
+171
+00:06:38,000 --> 00:06:42,000
+you in the release of GPT 5 uh we we
+
+172
+00:06:41,000 --> 00:06:45,000
+take our time on releases of major new
+
+173
+00:06:45,000 --> 00:06:49,000
+models and I don't think we uh I think
+
+174
+00:06:48,000 --> 00:06:52,000
+it will be great uh when we do it and I
+
+175
+00:06:51,000 --> 00:06:55,000
+think we'll be thoughtful about how we
+
+176
+00:06:53,000 --> 00:06:57,000
+do it uh like we may release it in a
+
+177
+00:06:55,000 --> 00:06:59,000
+different way than we've released
+
+178
+00:06:56,000 --> 00:07:00,000
+previous models um also I don't even
+
+179
+00:06:59,000 --> 00:07:03,000
+know if we'll call it G pt5 um what I
+
+180
+00:07:02,000 --> 00:07:06,000
+what I just going to pause it there real
+
+181
+00:07:04,000 --> 00:07:08,000
+quickly when they did this interview
+
+182
+00:07:06,000 --> 00:07:10,000
+they had not yet released chat GPT 40
+
+183
+00:07:12,000 --> 00:07:16,000
+which is not 4.04 and then the you know
+
+184
+00:07:14,000 --> 00:07:18,000
+o the the the letter O and you know you
+
+185
+00:07:19,000 --> 00:07:23,000
+might have seen some of the releases
+
+186
+00:07:20,000 --> 00:07:24,000
+that have come out where it's almost
+
+187
+00:07:21,000 --> 00:07:25,000
+more like an Alexa for chat GPT but it
+
+188
+00:07:24,000 --> 00:07:28,000
+can do a lot more things for you and
+
+189
+00:07:27,000 --> 00:07:31,000
+it's free and accessible to everyone and
+
+190
+00:07:29,000 --> 00:07:33,000
+and so it's one of things that chat GPT
+
+191
+00:07:32,000 --> 00:07:36,000
+just keeps getting better and it's able
+
+192
+00:07:35,000 --> 00:07:39,000
+to use things like your camera and it's
+
+193
+00:07:38,000 --> 00:07:42,000
+able to use more video integration and
+
+194
+00:07:40,000 --> 00:07:44,000
+it's more Voice driven and so for
+
+195
+00:07:43,000 --> 00:07:47,000
+instead of being text input text output
+
+196
+00:07:46,000 --> 00:07:50,000
+it's now voice input video output or
+
+197
+00:07:48,000 --> 00:07:52,000
+Graphics output or you know it's more
+
+198
+00:07:51,000 --> 00:07:55,000
+conversational in nature more natural
+
+199
+00:07:54,000 --> 00:07:58,000
+conversation not just text
+
+200
+00:07:56,000 --> 00:08:00,000
+conversational so he's not talking about
+
+201
+00:07:59,000 --> 00:08:03,000
+that here because it hadn't yet been
+
+202
+00:08:01,000 --> 00:08:05,000
+released in this interview and so just
+
+203
+00:08:03,000 --> 00:08:07,000
+timing I think was tough there of you
+
+204
+00:08:06,000 --> 00:08:10,000
+know you can see him kind of avoiding
+
+205
+00:08:08,000 --> 00:08:12,000
+that but he is speaking to you know
+
+206
+00:08:10,000 --> 00:08:14,000
+we're we're we're constantly looking to
+
+207
+00:08:12,000 --> 00:08:16,000
+innovate we're trying to be thoughtful
+
+208
+00:08:14,000 --> 00:08:18,000
+with our releases and and moving quickly
+
+209
+00:08:17,000 --> 00:08:21,000
+but making sure everything is well baked
+
+210
+00:08:20,000 --> 00:08:24,000
+before we release it to the public I
+
+211
+00:08:22,000 --> 00:08:26,000
+will say is you know a lot of people
+
+212
+00:08:24,000 --> 00:08:28,000
+have noticed how much better gbd4 has
+
+213
+00:08:26,000 --> 00:08:30,000
+gotten um since we've released it and
+
+214
+00:08:28,000 --> 00:08:32,000
+particularly over the last few months I
+
+215
+00:08:31,000 --> 00:08:35,000
+think I think that's like a better hint
+
+216
+00:08:35,000 --> 00:08:39,000
+of what the world looks like where it's
+
+217
+00:08:37,000 --> 00:08:41,000
+not the like 1 2 3 4 5 six seven but you
+
+218
+00:08:41,000 --> 00:08:45,000
+you just you use an AI system and the
+
+219
+00:08:44,000 --> 00:08:48,000
+whole system just gets better and better
+
+220
+00:08:45,000 --> 00:08:49,000
+fairly continuously uh and I I just want
+
+221
+00:08:49,000 --> 00:08:53,000
+to add in here as a chat gp4 user I you
+
+222
+00:08:53,000 --> 00:08:57,000
+know as I think about all my different
+
+223
+00:08:55,000 --> 00:08:59,000
+subscriptions that I use professionally
+
+224
+00:08:57,000 --> 00:09:01,000
+the 20 bucks a month I spend spend on I
+
+225
+00:09:00,000 --> 00:09:04,000
+think it's what I spend on GPT 4 is it's
+
+226
+00:09:04,000 --> 00:09:08,000
+probably the last one I would cancel I
+
+227
+00:09:06,000 --> 00:09:10,000
+mean maybe my my Google Suite with Gmail
+
+228
+00:09:09,000 --> 00:09:13,000
+and Google Drive is maybe the very last
+
+229
+00:09:11,000 --> 00:09:15,000
+one and then gp4 being the next one it
+
+230
+00:09:14,000 --> 00:09:18,000
+is such a valuable tool for the work I'm
+
+231
+00:09:17,000 --> 00:09:21,000
+doing and it is it since I you know
+
+232
+00:09:19,000 --> 00:09:23,000
+subscribed maybe four months ago to you
+
+233
+00:09:22,000 --> 00:09:26,000
+know how I'm using it today I've seen it
+
+234
+00:09:25,000 --> 00:09:29,000
+improved and so I you know I'm I'm
+
+235
+00:09:27,000 --> 00:09:31,000
+seeing that as well as not just even
+
+236
+00:09:29,000 --> 00:09:33,000
+with the iterative improvements just the
+
+237
+00:09:31,000 --> 00:09:35,000
+ongoing you know improvements that that
+
+238
+00:09:33,000 --> 00:09:37,000
+that I'm seeing on a regular basis of
+
+239
+00:09:34,000 --> 00:09:38,000
+using gp4 and so yeah I I second that
+
+240
+00:09:38,000 --> 00:09:42,000
+we've seen improvements along the way um
+
+241
+00:09:42,000 --> 00:09:46,000
+I think that's like both a better
+
+242
+00:09:44,000 --> 00:09:48,000
+technological Direction I think that's
+
+243
+00:09:45,000 --> 00:09:49,000
+like easier for society to adapt to um
+
+244
+00:09:49,000 --> 00:09:53,000
+but but I assume that's where we'll head
+
+245
+00:09:51,000 --> 00:09:55,000
+does that mean that there's not going to
+
+246
+00:09:52,000 --> 00:09:56,000
+be long training cycles and it's
+
+247
+00:09:55,000 --> 00:09:59,000
+continuously retraining or training
+
+248
+00:09:58,000 --> 00:10:02,000
+submodels Sam and maybe you could just
+
+249
+00:09:59,000 --> 00:10:03,000
+speak to us about what might change
+
+250
+00:10:01,000 --> 00:10:05,000
+architecturally going forward with
+
+251
+00:10:03,000 --> 00:10:07,000
+respect to large
+
+252
+00:10:05,000 --> 00:10:09,000
+models well I mean one one one thing
+
+253
+00:10:08,000 --> 00:10:12,000
+that you could imagine is this just that
+
+254
+00:10:10,000 --> 00:10:14,000
+you keep training right a model uh that
+
+255
+00:10:13,000 --> 00:10:17,000
+that would seem like a reasonable thing
+
+256
+00:10:14,000 --> 00:10:18,000
+to
+
+257
+00:10:15,000 --> 00:10:19,000
+me do you think you talked about
+
+258
+00:10:17,000 --> 00:10:21,000
+releasing it differently this time are
+
+259
+00:10:19,000 --> 00:10:23,000
+you thinking maybe releasing it to the
+
+260
+00:10:21,000 --> 00:10:25,000
+paid users first or you know a slower
+
+261
+00:10:24,000 --> 00:10:28,000
+roll out to get the red teams tight
+
+262
+00:10:27,000 --> 00:10:31,000
+since now they's so much at stake you
+
+263
+00:10:29,000 --> 00:10:33,000
+have so many customers actually paying
+
+264
+00:10:31,000 --> 00:10:35,000
+and you've got everybody watching
+
+265
+00:10:33,000 --> 00:10:37,000
+everything you do you know is it is it
+
+266
+00:10:36,000 --> 00:10:40,000
+more now yeah still only available to
+
+267
+00:10:39,000 --> 00:10:43,000
+the paid users but one of the things
+
+268
+00:10:40,000 --> 00:10:44,000
+that we really want to do is figure out
+
+269
+00:10:43,000 --> 00:10:47,000
+how to make more advanced technology
+
+270
+00:10:45,000 --> 00:10:49,000
+available to free users too I think
+
+271
+00:10:47,000 --> 00:10:51,000
+that's a super important part of our
+
+272
+00:10:49,000 --> 00:10:53,000
+mission uh and and this idea that we
+
+273
+00:10:52,000 --> 00:10:56,000
+build AI tools and make them super
+
+274
+00:10:54,000 --> 00:10:58,000
+widely
+
+275
+00:10:55,000 --> 00:10:59,000
+available free or you know not that
+
+276
+00:10:57,000 --> 00:11:01,000
+expensive whatever it is so that people
+
+277
+00:10:59,000 --> 00:11:03,000
+can use them to go kind of invent the
+
+278
+00:11:01,000 --> 00:11:05,000
+future rather than the magic AGI in the
+
+279
+00:11:04,000 --> 00:11:08,000
+sky inventing the future and showing it
+
+280
+00:11:06,000 --> 00:11:10,000
+down upon us uh that seems like a much
+
+281
+00:11:08,000 --> 00:11:12,000
+better path it seems like a more
+
+282
+00:11:09,000 --> 00:11:13,000
+inspiring path I also think it's where
+
+283
+00:11:11,000 --> 00:11:15,000
+things are actually heading so it makes
+
+284
+00:11:14,000 --> 00:11:18,000
+me sad that we have not figure out how
+
+285
+00:11:15,000 --> 00:11:19,000
+to make gp4 level technology available
+
+286
+00:11:18,000 --> 00:11:22,000
+to free users it's something we really
+
+287
+00:11:19,000 --> 00:11:23,000
+want to do it's just very expensive I
+
+288
+00:11:21,000 --> 00:11:25,000
+take it's very expensive yeah and I I
+
+289
+00:11:24,000 --> 00:11:28,000
+just want to add to this of it's very
+
+290
+00:11:26,000 --> 00:11:30,000
+expensive and sometimes people don't
+
+291
+00:11:27,000 --> 00:11:31,000
+understand that the cost of technology
+
+292
+00:11:31,000 --> 00:11:35,000
+and it's not just the developers to
+
+293
+00:11:32,000 --> 00:11:36,000
+develop the software in a technology
+
+294
+00:11:34,000 --> 00:11:38,000
+like this it is all of the and you'll
+
+295
+00:11:37,000 --> 00:11:41,000
+hear Sam talk about it later and and
+
+296
+00:11:38,000 --> 00:11:42,000
+you'll hear it if you listen to other
+
+297
+00:11:40,000 --> 00:11:44,000
+interviews is it's the compute needed is
+
+298
+00:11:43,000 --> 00:11:47,000
+the processing needed to have all of
+
+299
+00:11:45,000 --> 00:11:49,000
+this data to input in you know your your
+
+300
+00:11:49,000 --> 00:11:53,000
+you know request your message it's not
+
+301
+00:11:52,000 --> 00:11:56,000
+just like a Google Search and an
+
+302
+00:11:53,000 --> 00:11:57,000
+algorithm it is having to basically
+
+303
+00:11:55,000 --> 00:11:59,000
+aggregate all of that knowledge and then
+
+304
+00:11:57,000 --> 00:12:01,000
+output so rapidly it takes a lot of
+
+305
+00:12:00,000 --> 00:12:04,000
+computing power and so if you think
+
+306
+00:12:02,000 --> 00:12:06,000
+early days of the internet part of the
+
+307
+00:12:05,000 --> 00:12:09,000
+challenge was we people wouldn't want
+
+308
+00:12:06,000 --> 00:12:10,000
+too much traffic because that would cost
+
+309
+00:12:09,000 --> 00:12:13,000
+them a lot more in their servers and and
+
+310
+00:12:12,000 --> 00:12:16,000
+so even you know platforms like Facebook
+
+311
+00:12:14,000 --> 00:12:18,000
+wouldn't have video natively into their
+
+312
+00:12:16,000 --> 00:12:20,000
+platform because that that processing
+
+313
+00:12:19,000 --> 00:12:23,000
+power was too expensive for the revenue
+
+314
+00:12:21,000 --> 00:12:25,000
+they were generating so they had to some
+
+315
+00:12:23,000 --> 00:12:27,000
+way slow down Innovation because of
+
+316
+00:12:27,000 --> 00:12:31,000
+computing power and that's where you are
+
+317
+00:12:28,000 --> 00:12:32,000
+they
+
+318
+00:12:29,000 --> 00:12:33,000
+is a lot of it is the expense of the
+
+319
+00:12:31,000 --> 00:12:35,000
+computing power not just the development
+
+320
+00:12:33,000 --> 00:12:37,000
+cost but the actual server systems that
+
+321
+00:12:36,000 --> 00:12:40,000
+power this kind of technology and so
+
+322
+00:12:38,000 --> 00:12:42,000
+making it available for free is just
+
+323
+00:12:40,000 --> 00:12:44,000
+cost prohibitive even the $20 a month
+
+324
+00:12:43,000 --> 00:12:47,000
+I'm I'm confident they're losing money
+
+325
+00:12:45,000 --> 00:12:49,000
+on those subscriptions they just get
+
+326
+00:12:47,000 --> 00:12:51,000
+more you know Insight you know from
+
+327
+00:12:49,000 --> 00:12:53,000
+those users and it helps offset some of
+
+328
+00:12:52,000 --> 00:12:56,000
+those costs while they innovate and
+
+329
+00:12:53,000 --> 00:12:57,000
+prepare for the future but it's not you
+
+330
+00:12:56,000 --> 00:13:00,000
+know Amazon lost money for a long long
+
+331
+00:12:58,000 --> 00:13:02,000
+time
+
+332
+00:12:59,000 --> 00:13:03,000
+but they kept building that ecosystem
+
+333
+00:13:01,000 --> 00:13:05,000
+they kept building the processes where
+
+334
+00:13:03,000 --> 00:13:07,000
+they were able to in time make money on
+
+335
+00:13:05,000 --> 00:13:09,000
+fractions of pennies and so they had a
+
+336
+00:13:08,000 --> 00:13:12,000
+long-term plan and I think chat GPT or
+
+337
+00:13:10,000 --> 00:13:14,000
+open AI being the parent company has a
+
+338
+00:13:12,000 --> 00:13:16,000
+great structure and idea I you also want
+
+339
+00:13:15,000 --> 00:13:19,000
+to note people have often commented on
+
+340
+00:13:18,000 --> 00:13:22,000
+you know Sam Alman 15 years old he looks
+
+341
+00:13:20,000 --> 00:13:24,000
+so young and I don't know how old he is
+
+342
+00:13:23,000 --> 00:13:27,000
+but but he's not this isn't his first
+
+343
+00:13:25,000 --> 00:13:29,000
+rodeo the guy the guy has had tremendous
+
+344
+00:13:27,000 --> 00:13:31,000
+business success in the past and and I
+
+345
+00:13:30,000 --> 00:13:34,000
+think he he really from my perspective
+
+346
+00:13:33,000 --> 00:13:37,000
+and what I've you know paid attention to
+
+347
+00:13:35,000 --> 00:13:39,000
+in his background and what he's doing is
+
+348
+00:13:38,000 --> 00:13:42,000
+you know he's he's a really good leader
+
+349
+00:13:41,000 --> 00:13:45,000
+thoughtful leader and and I think you'll
+
+350
+00:13:42,000 --> 00:13:46,000
+pick that up in this interview so I'm
+
+351
+00:13:45,000 --> 00:13:49,000
+I'm just impressed with how he has led
+
+352
+00:13:47,000 --> 00:13:51,000
+open Ai and his perspective and how
+
+353
+00:13:50,000 --> 00:13:54,000
+they're building their business for the
+
+354
+00:13:51,000 --> 00:13:55,000
+long term not just for the immediate
+
+355
+00:13:54,000 --> 00:13:58,000
+Revenue
+
+356
+00:13:56,000 --> 00:14:00,000
+opportunities chamach your thoughts I
+
+357
+00:13:58,000 --> 00:14:02,000
+think maybe the the two big vectors Sam
+
+358
+00:14:00,000 --> 00:14:04,000
+that people always talk about is that
+
+359
+00:14:03,000 --> 00:14:07,000
+underlying cost and sort of the latency
+
+360
+00:14:06,000 --> 00:14:10,000
+that's kind of rate limited a killer app
+
+361
+00:14:09,000 --> 00:14:13,000
+and
+
+362
+00:14:10,000 --> 00:14:14,000
+then I think the second is sort of the
+
+363
+00:14:13,000 --> 00:14:17,000
+long-term ability for people to build in
+
+364
+00:14:15,000 --> 00:14:19,000
+an open source World versus a closed
+
+365
+00:14:17,000 --> 00:14:21,000
+Source world and I think the crazy thing
+
+366
+00:14:20,000 --> 00:14:24,000
+about this space is that the open source
+
+367
+00:14:23,000 --> 00:14:27,000
+Community is rabid so one example that I
+
+368
+00:14:25,000 --> 00:14:29,000
+think is incredible is you know we had
+
+369
+00:14:27,000 --> 00:14:31,000
+these guys do a pretty crazy demo for
+
+370
+00:14:30,000 --> 00:14:34,000
+Devon remember like even like five or
+
+371
+00:14:33,000 --> 00:14:37,000
+six weeks ago that looked incredible and
+
+372
+00:14:35,000 --> 00:14:39,000
+then some kid just published it under an
+
+373
+00:14:37,000 --> 00:14:41,000
+open MIT license like open Devon and
+
+374
+00:14:40,000 --> 00:14:44,000
+it's incredibly good and almost as good
+
+375
+00:14:44,000 --> 00:14:48,000
+as that other thing that was closed
+
+376
+00:14:46,000 --> 00:14:50,000
+toour us so maybe we can just start with
+
+377
+00:14:48,000 --> 00:14:52,000
+that which is tell me about the business
+
+378
+00:14:51,000 --> 00:14:55,000
+decision to keep these models close
+
+379
+00:14:53,000 --> 00:14:57,000
+source and where do you see things going
+
+380
+00:14:56,000 --> 00:15:00,000
+in the next couple years so on the first
+
+381
+00:14:59,000 --> 00:15:03,000
+part of your question um speed and cost
+
+382
+00:15:01,000 --> 00:15:05,000
+those are hugely important to us and I
+
+383
+00:15:05,000 --> 00:15:09,000
+don't want to like give a timeline on
+
+384
+00:15:08,000 --> 00:15:12,000
+when we can bring them down a lot
+
+385
+00:15:09,000 --> 00:15:13,000
+because research is hard but I am
+
+386
+00:15:11,000 --> 00:15:15,000
+confident we'll be able to um we want to
+
+387
+00:15:14,000 --> 00:15:18,000
+like cut the latency super dramatically
+
+388
+00:15:16,000 --> 00:15:20,000
+we want to cut the cost really really
+
+389
+00:15:18,000 --> 00:15:22,000
+dramatically um and I believe that will
+
+390
+00:15:20,000 --> 00:15:24,000
+happen we're still so early in the
+
+391
+00:15:23,000 --> 00:15:27,000
+development of the science and
+
+392
+00:15:25,000 --> 00:15:29,000
+understanding how this works plus we
+
+393
+00:15:26,000 --> 00:15:30,000
+have all the engineering Tailwinds so
+
+394
+00:15:29,000 --> 00:15:33,000
+I let me just pause it I don't know like
+
+395
+00:15:32,000 --> 00:15:36,000
+when we just pausing this real quick I I
+
+396
+00:15:35,000 --> 00:15:39,000
+think that what we just heard right
+
+397
+00:15:37,000 --> 00:15:41,000
+there is really important we are still
+
+398
+00:15:39,000 --> 00:15:43,000
+so early to this science to this
+
+399
+00:15:43,000 --> 00:15:47,000
+Innovation and and I think this is
+
+400
+00:15:45,000 --> 00:15:49,000
+important to remember this is dialup
+
+401
+00:15:47,000 --> 00:15:51,000
+internet days of the worldwide web and
+
+402
+00:15:50,000 --> 00:15:54,000
+and the internet that we know today the
+
+403
+00:15:52,000 --> 00:15:56,000
+internet wasn't always on a phone in our
+
+404
+00:15:54,000 --> 00:15:58,000
+pocket with highspeed data access it was
+
+405
+00:15:57,000 --> 00:16:01,000
+you know many of us remember when we had
+
+406
+00:15:59,000 --> 00:16:03,000
+to plug in a computer with AOL and and
+
+407
+00:16:02,000 --> 00:16:06,000
+and it would take us you know five
+
+408
+00:16:04,000 --> 00:16:08,000
+minutes to download just one image
+
+409
+00:16:06,000 --> 00:16:10,000
+that's where we are in this technology
+
+410
+00:16:08,000 --> 00:16:12,000
+this is the worst it's ever going to be
+
+411
+00:16:10,000 --> 00:16:14,000
+man we are still early and they're
+
+412
+00:16:13,000 --> 00:16:17,000
+moving really fast we get to
+
+413
+00:16:15,000 --> 00:16:19,000
+intelligence too cheap to meter and so
+
+414
+00:16:17,000 --> 00:16:21,000
+fast that it feels instantaneous to us
+
+415
+00:16:18,000 --> 00:16:22,000
+and everything else but I do believe we
+
+416
+00:16:21,000 --> 00:16:25,000
+can get there for you know a pretty high
+
+417
+00:16:25,000 --> 00:16:29,000
+level of intelligence and um I it's
+
+418
+00:16:29,000 --> 00:16:33,000
+important to us it's clearly important
+
+419
+00:16:31,000 --> 00:16:35,000
+to users and it'll unlock a lot of stuff
+
+420
+00:16:33,000 --> 00:16:37,000
+on the sort of Open Source closed Source
+
+421
+00:16:35,000 --> 00:16:39,000
+thing I think there's great roles for
+
+422
+00:16:37,000 --> 00:16:41,000
+both I think um you know we've open
+
+423
+00:16:41,000 --> 00:16:45,000
+sourced some stuff we'll open source
+
+424
+00:16:42,000 --> 00:16:46,000
+more stuff in the future but really like
+
+425
+00:16:44,000 --> 00:16:48,000
+our mission is to build towards AGI and
+
+426
+00:16:47,000 --> 00:16:51,000
+to figure out how to broadly distribute
+
+427
+00:16:49,000 --> 00:16:53,000
+its benefits we have a strategy for that
+
+428
+00:16:51,000 --> 00:16:55,000
+seems to be resonating with a lot of
+
+429
+00:16:53,000 --> 00:16:57,000
+people it obviously isn't for everyone
+
+430
+00:16:55,000 --> 00:16:59,000
+and there's like a big ecosystem and
+
+431
+00:16:57,000 --> 00:17:01,000
+there will also be open source model and
+
+432
+00:16:59,000 --> 00:17:03,000
+people who built that way um one area
+
+433
+00:17:01,000 --> 00:17:05,000
+that I'm particularly interested
+
+434
+00:17:03,000 --> 00:17:07,000
+personally in open source for is I want
+
+435
+00:17:06,000 --> 00:17:10,000
+an open source model that is as good as
+
+436
+00:17:08,000 --> 00:17:12,000
+it can be that runs on my phone and that
+
+437
+00:17:12,000 --> 00:17:16,000
+I think is going to you know the world
+
+438
+00:17:14,000 --> 00:17:18,000
+doesn't quite have the technology for
+
+439
+00:17:16,000 --> 00:17:20,000
+for a good version of that yet but that
+
+440
+00:17:17,000 --> 00:17:21,000
+seems like a really important thing to
+
+441
+00:17:19,000 --> 00:17:23,000
+go do at some point will you do will you
+
+442
+00:17:21,000 --> 00:17:25,000
+do that will you release I don't know if
+
+443
+00:17:22,000 --> 00:17:26,000
+we will or someone will but someone what
+
+444
+00:17:24,000 --> 00:17:28,000
+about llama 3 llama 3 running on a phone
+
+445
+00:17:28,000 --> 00:17:32,000
+well I guess maybe there's a 7
+
+446
+00:17:30,000 --> 00:17:34,000
+billion version yeah yeah uh I don't
+
+447
+00:17:33,000 --> 00:17:37,000
+know if that's if that will fit on a
+
+448
+00:17:34,000 --> 00:17:38,000
+phone or not but that should be fitable
+
+449
+00:17:38,000 --> 00:17:42,000
+on a phone but I don't I I'm not I'm not
+
+450
+00:17:39,000 --> 00:17:43,000
+sure if that one is like I haven't
+
+451
+00:17:41,000 --> 00:17:45,000
+played with it I don't know if it's like
+
+452
+00:17:42,000 --> 00:17:46,000
+good enough to kind of do the thing I'm
+
+453
+00:17:43,000 --> 00:17:47,000
+thinking about so let's talk quickly
+
+454
+00:17:46,000 --> 00:17:50,000
+about open source versus closed source
+
+455
+00:17:48,000 --> 00:17:52,000
+and there's lots of debates about this
+
+456
+00:17:50,000 --> 00:17:54,000
+in you know just the development world
+
+457
+00:17:52,000 --> 00:17:56,000
+and open source I think has been made
+
+458
+00:17:54,000 --> 00:17:58,000
+Popular by WordPress being an
+
+459
+00:17:57,000 --> 00:18:01,000
+open-source you know website it you know
+
+460
+00:17:59,000 --> 00:18:03,000
+content management system that people
+
+461
+00:18:01,000 --> 00:18:05,000
+could then build these plugins and they
+
+462
+00:18:02,000 --> 00:18:06,000
+could you know use it and then resell
+
+463
+00:18:04,000 --> 00:18:08,000
+these themes and different things of It
+
+464
+00:18:06,000 --> 00:18:10,000
+kind of built a base of technology that
+
+465
+00:18:09,000 --> 00:18:13,000
+could people could build on top of and
+
+466
+00:18:11,000 --> 00:18:15,000
+then sell things around it and meta has
+
+467
+00:18:15,000 --> 00:18:19,000
+really communicated their objective in
+
+468
+00:18:18,000 --> 00:18:22,000
+their AI development has been to build
+
+469
+00:18:20,000 --> 00:18:24,000
+an open source a you know AI structure
+
+470
+00:18:24,000 --> 00:18:28,000
+for developers to to work with and what
+
+471
+00:18:27,000 --> 00:18:31,000
+that does is that speeds up innovation
+
+472
+00:18:28,000 --> 00:18:32,000
+so that other developers that aren't you
+
+473
+00:18:31,000 --> 00:18:35,000
+know based on the core you know
+
+474
+00:18:33,000 --> 00:18:37,000
+technology system can the open AI or
+
+475
+00:18:36,000 --> 00:18:40,000
+whoever is building it can focus on the
+
+476
+00:18:38,000 --> 00:18:42,000
+core system while other developers kind
+
+477
+00:18:40,000 --> 00:18:44,000
+of work on kind of the side aspects of
+
+478
+00:18:43,000 --> 00:18:47,000
+how people can use that system and so
+
+479
+00:18:46,000 --> 00:18:50,000
+there are benefits and and you know good
+
+480
+00:18:48,000 --> 00:18:52,000
+and bad things of Open Source verus
+
+481
+00:18:49,000 --> 00:18:53,000
+closed source and I think what he's
+
+482
+00:18:50,000 --> 00:18:54,000
+saying here is there's there's going to
+
+483
+00:18:52,000 --> 00:18:56,000
+be opportunities in this space not just
+
+484
+00:18:54,000 --> 00:18:58,000
+for open AI but it was really started
+
+485
+00:18:57,000 --> 00:19:01,000
+with the idea of being open source and
+
+486
+00:18:59,000 --> 00:19:03,000
+this is where he and Elon had a lot of
+
+487
+00:19:01,000 --> 00:19:05,000
+following out falling out is that it's
+
+488
+00:19:03,000 --> 00:19:07,000
+now moved to being more of a private
+
+489
+00:19:05,000 --> 00:19:09,000
+company and closed Source model here so
+
+490
+00:19:09,000 --> 00:19:13,000
+when when llama 3 got released I think
+
+491
+00:19:11,000 --> 00:19:15,000
+the big takeaway for a lot of people was
+
+492
+00:19:13,000 --> 00:19:17,000
+oh wow they've like caught up to GPT 4 I
+
+493
+00:19:15,000 --> 00:19:19,000
+don't think it's equal in all Dimensions
+
+494
+00:19:18,000 --> 00:19:22,000
+but it's like pretty pretty closed or
+
+495
+00:19:20,000 --> 00:19:24,000
+pretty in the ballpark I guess the
+
+496
+00:19:22,000 --> 00:19:26,000
+question is you know you guys released
+
+497
+00:19:24,000 --> 00:19:28,000
+four a while ago you're working on five
+
+498
+00:19:27,000 --> 00:19:31,000
+or you know more upgrades to four I mean
+
+499
+00:19:30,000 --> 00:19:34,000
+I think to jamas point about Devon how
+
+500
+00:19:32,000 --> 00:19:36,000
+do you stay ahead of Open Source I mean
+
+501
+00:19:34,000 --> 00:19:38,000
+it's just that's like a very hard thing
+
+502
+00:19:36,000 --> 00:19:40,000
+to do in general right I mean how do you
+
+503
+00:19:38,000 --> 00:19:42,000
+think about
+
+504
+00:19:39,000 --> 00:19:43,000
+that what we're trying to do is not
+
+505
+00:19:43,000 --> 00:19:47,000
+make the sort of
+
+506
+00:19:46,000 --> 00:19:50,000
+smartest set of Weights that we can but
+
+507
+00:19:49,000 --> 00:19:53,000
+we're trying to make is like this useful
+
+508
+00:19:51,000 --> 00:19:55,000
+intelligence layer for people to use and
+
+509
+00:19:55,000 --> 00:19:59,000
+a model is part of that I think we will
+
+510
+00:19:57,000 --> 00:20:01,000
+stay pretty far ahead of I hope say
+
+511
+00:20:00,000 --> 00:20:04,000
+pretty far ahead of the rest of the
+
+512
+00:20:01,000 --> 00:20:05,000
+world on that um but there's a lot of
+
+513
+00:20:05,000 --> 00:20:09,000
+other work around the whole system
+
+514
+00:20:08,000 --> 00:20:12,000
+that's not just that you know the the
+
+515
+00:20:10,000 --> 00:20:14,000
+model Waits and we'll have to build up
+
+516
+00:20:13,000 --> 00:20:17,000
+enduring value the old fashion way like
+
+517
+00:20:15,000 --> 00:20:19,000
+any other business does we'll have to
+
+518
+00:20:16,000 --> 00:20:20,000
+figure out a great product and reasons
+
+519
+00:20:18,000 --> 00:20:22,000
+to stick with it and uh you know deliver
+
+520
+00:20:20,000 --> 00:20:24,000
+it at a great price when you founded the
+
+521
+00:20:23,000 --> 00:20:27,000
+organization you the stated goal or part
+
+522
+00:20:26,000 --> 00:20:30,000
+of what you discussed was hey this is
+
+523
+00:20:28,000 --> 00:20:32,000
+too important for any one company to own
+
+524
+00:20:30,000 --> 00:20:34,000
+it so def needs to be open then there
+
+525
+00:20:32,000 --> 00:20:36,000
+was the switch hey it's too dangerous
+
+526
+00:20:35,000 --> 00:20:39,000
+for anybody to be able to see it and we
+
+527
+00:20:37,000 --> 00:20:41,000
+need to lock this down because you you
+
+528
+00:20:39,000 --> 00:20:43,000
+had some fear about that I think is that
+
+529
+00:20:42,000 --> 00:20:46,000
+accurate because the cynical side is
+
+530
+00:20:43,000 --> 00:20:47,000
+like well this is a capitalistic move
+
+531
+00:20:46,000 --> 00:20:50,000
+and then the I
+
+532
+00:20:48,000 --> 00:20:52,000
+think you know I'm I'm curious what the
+
+533
+00:20:51,000 --> 00:20:55,000
+decision was here in terms of going from
+
+534
+00:20:53,000 --> 00:20:57,000
+open we the world needs to see this it's
+
+535
+00:20:55,000 --> 00:20:59,000
+really important to close only we can
+
+536
+00:20:57,000 --> 00:21:01,000
+see it well how did you come to that
+
+537
+00:21:00,000 --> 00:21:04,000
+that conclusion what would the part of
+
+538
+00:21:02,000 --> 00:21:06,000
+the reason that we released chat GPT was
+
+539
+00:21:03,000 --> 00:21:07,000
+we want the world to see this and we've
+
+540
+00:21:05,000 --> 00:21:09,000
+been trying to tell people that AI is
+
+541
+00:21:07,000 --> 00:21:11,000
+really important and if you go back to
+
+542
+00:21:08,000 --> 00:21:12,000
+like uh October of 2022 not that many
+
+543
+00:21:11,000 --> 00:21:15,000
+people thought AI was going to be that
+
+544
+00:21:13,000 --> 00:21:17,000
+important or that it was really
+
+545
+00:21:14,000 --> 00:21:18,000
+happening um and a huge part of what we
+
+546
+00:21:17,000 --> 00:21:21,000
+we try to do is put the technology in
+
+547
+00:21:21,000 --> 00:21:25,000
+the hands of people uh now again there's
+
+548
+00:21:23,000 --> 00:21:27,000
+different ways to do that and I think
+
+549
+00:21:24,000 --> 00:21:28,000
+there really is an important role to
+
+550
+00:21:26,000 --> 00:21:30,000
+just say like here's the weights have at
+
+551
+00:21:28,000 --> 00:21:32,000
+it but the fact that we have so many
+
+552
+00:21:30,000 --> 00:21:34,000
+people using a free version of chat GPT
+
+553
+00:21:33,000 --> 00:21:37,000
+that we don't you know we don't run ads
+
+554
+00:21:35,000 --> 00:21:39,000
+on we don't try to like make money on we
+
+555
+00:21:36,000 --> 00:21:40,000
+just put out there because we want
+
+556
+00:21:37,000 --> 00:21:41,000
+people to have these tools um I think
+
+557
+00:21:40,000 --> 00:21:44,000
+it's done a lot to provide a lot of
+
+558
+00:21:42,000 --> 00:21:46,000
+value and you know teach people how to
+
+559
+00:21:44,000 --> 00:21:48,000
+fish but also to get the world um really
+
+560
+00:21:48,000 --> 00:21:52,000
+thoughtful about what's happening here
+
+561
+00:21:49,000 --> 00:21:53,000
+now we still don't have all the answers
+
+562
+00:21:51,000 --> 00:21:55,000
+and uh we're fumbling our way through
+
+563
+00:21:53,000 --> 00:21:57,000
+this like everybody else and I assume
+
+564
+00:21:54,000 --> 00:21:58,000
+we'll change strategy many more times as
+
+565
+00:21:57,000 --> 00:22:01,000
+we learn new things
+
+566
+00:21:59,000 --> 00:22:03,000
+I I just want to pause real quick and
+
+567
+00:22:00,000 --> 00:22:04,000
+and and he's saying here that we just
+
+568
+00:22:03,000 --> 00:22:07,000
+want to generously give away GPT 3.5 or
+
+569
+00:22:07,000 --> 00:22:11,000
+this free version to people and and
+
+570
+00:22:10,000 --> 00:22:14,000
+while I think there is pro a general
+
+571
+00:22:12,000 --> 00:22:16,000
+desire to do that and and make it more
+
+572
+00:22:15,000 --> 00:22:19,000
+accessible I think the reality is while
+
+573
+00:22:18,000 --> 00:22:22,000
+doing that they're able to get
+
+574
+00:22:20,000 --> 00:22:24,000
+tremendous insights on how people are
+
+575
+00:22:22,000 --> 00:22:26,000
+using it and the system becomes smarter
+
+576
+00:22:25,000 --> 00:22:29,000
+the more people use it and and he said
+
+577
+00:22:28,000 --> 00:22:32,000
+earlier
+
+578
+00:22:29,000 --> 00:22:33,000
+to we're focused on intelligence and I
+
+579
+00:22:32,000 --> 00:22:36,000
+think people often forget about this
+
+580
+00:22:33,000 --> 00:22:37,000
+with artificial intelligence that this
+
+581
+00:22:36,000 --> 00:22:40,000
+isn't just you know I think when we
+
+582
+00:22:37,000 --> 00:22:41,000
+think about the worldwide web it was an
+
+583
+00:22:40,000 --> 00:22:44,000
+aggregate of data and information where
+
+584
+00:22:43,000 --> 00:22:47,000
+intelligence goes a step further where
+
+585
+00:22:45,000 --> 00:22:49,000
+it takes that aggregate of intell of
+
+586
+00:22:48,000 --> 00:22:52,000
+knowledge and information that used an
+
+587
+00:22:51,000 --> 00:22:55,000
+algorithm to then help help you find
+
+588
+00:22:53,000 --> 00:22:57,000
+that knowledge and integration to
+
+589
+00:22:56,000 --> 00:23:00,000
+intelligence takes your knowledge and
+
+590
+00:22:58,000 --> 00:23:02,000
+and you make decisions based on your
+
+591
+00:23:01,000 --> 00:23:05,000
+knowledge to effectively respond to
+
+592
+00:23:03,000 --> 00:23:07,000
+situations and people and to take
+
+593
+00:23:06,000 --> 00:23:10,000
+actions and and so that's what this is
+
+594
+00:23:08,000 --> 00:23:12,000
+doing is it's taking knowledge and it's
+
+595
+00:23:11,000 --> 00:23:15,000
+aligning a you know layer of
+
+596
+00:23:13,000 --> 00:23:17,000
+Intelligence on top of that to get
+
+597
+00:23:16,000 --> 00:23:20,000
+smarter when somebody requests this this
+
+598
+00:23:19,000 --> 00:23:23,000
+is how I go and find them and help them
+
+599
+00:23:21,000 --> 00:23:25,000
+you know solve this problem and make
+
+600
+00:23:23,000 --> 00:23:27,000
+this decision and do this task on their
+
+601
+00:23:26,000 --> 00:23:30,000
+behalf and so this is where intelligence
+
+602
+00:23:28,000 --> 00:23:32,000
+becomes this just mindblowing you know
+
+603
+00:23:32,000 --> 00:23:36,000
+Innovation and what happens for all of
+
+604
+00:23:34,000 --> 00:23:38,000
+us as people intelligent beings is the
+
+605
+00:23:38,000 --> 00:23:42,000
+more decisions we make the more things
+
+606
+00:23:40,000 --> 00:23:44,000
+we learn the more experiences we have
+
+607
+00:23:42,000 --> 00:23:46,000
+the smarter we get the more intelligent
+
+608
+00:23:44,000 --> 00:23:48,000
+we become and that's what they are
+
+609
+00:23:46,000 --> 00:23:50,000
+building this system to do is to
+
+610
+00:23:48,000 --> 00:23:52,000
+basically take not just our brains to
+
+611
+00:23:51,000 --> 00:23:55,000
+store knowledge but our decision making
+
+612
+00:23:55,000 --> 00:23:59,000
+our intelligence processing that we de
+
+613
+00:23:58,000 --> 00:24:02,000
+develop as humans over time and build
+
+614
+00:24:00,000 --> 00:24:04,000
+these systems to be intelligent similar
+
+615
+00:24:03,000 --> 00:24:07,000
+to how humans are you know when we
+
+616
+00:24:05,000 --> 00:24:09,000
+started open AI we had really no idea
+
+617
+00:24:08,000 --> 00:24:12,000
+about how things were going to go um
+
+618
+00:24:11,000 --> 00:24:15,000
+that we'd make a language model we'd
+
+619
+00:24:12,000 --> 00:24:16,000
+ever make a product we started off just
+
+620
+00:24:15,000 --> 00:24:19,000
+I remember very clearly that first day
+
+621
+00:24:17,000 --> 00:24:21,000
+we were like well now we're all here
+
+622
+00:24:19,000 --> 00:24:23,000
+that was you know it's difficult to get
+
+623
+00:24:20,000 --> 00:24:24,000
+this set up but what happens now maybe
+
+624
+00:24:22,000 --> 00:24:26,000
+we should write some papers maybe we
+
+625
+00:24:24,000 --> 00:24:28,000
+should stand around a whiteboard and
+
+626
+00:24:26,000 --> 00:24:30,000
+we've just been trying to like put one
+
+627
+00:24:28,000 --> 00:24:32,000
+foot front of the other and figure out
+
+628
+00:24:29,000 --> 00:24:33,000
+what's next and what's next and what's
+
+629
+00:24:32,000 --> 00:24:36,000
+and I think we'll keep doing that can I
+
+630
+00:24:35,000 --> 00:24:39,000
+just replay something and just make sure
+
+631
+00:24:36,000 --> 00:24:40,000
+I heard it right I think what you were
+
+632
+00:24:38,000 --> 00:24:42,000
+saying on the open source close Source
+
+633
+00:24:41,000 --> 00:24:45,000
+thing is if I heard it right all these
+
+634
+00:24:44,000 --> 00:24:48,000
+models independent of the business
+
+635
+00:24:46,000 --> 00:24:50,000
+decision you make are going to become
+
+636
+00:24:48,000 --> 00:24:52,000
+asymptotically accurate towards some
+
+637
+00:24:51,000 --> 00:24:55,000
+amount of accuracy like not all but like
+
+638
+00:24:53,000 --> 00:24:57,000
+let's just say there's four or five that
+
+639
+00:24:55,000 --> 00:24:59,000
+are well capitalized enough you guys
+
+640
+00:24:58,000 --> 00:25:02,000
+meta Google Microsoft whomever right so
+
+641
+00:25:01,000 --> 00:25:05,000
+let's just say four or five maybe one
+
+642
+00:25:04,000 --> 00:25:08,000
+startup and on the open web and then
+
+643
+00:25:08,000 --> 00:25:12,000
+quickly the accuracy or the value of
+
+644
+00:25:11,000 --> 00:25:15,000
+these models will probably shift to
+
+645
+00:25:12,000 --> 00:25:16,000
+these proprietary sources of training
+
+646
+00:25:14,000 --> 00:25:18,000
+data that you could get that others
+
+647
+00:25:16,000 --> 00:25:20,000
+can't or others can get that you can't
+
+648
+00:25:18,000 --> 00:25:22,000
+is that how you see this thing evolving
+
+649
+00:25:21,000 --> 00:25:25,000
+where the open web gets everybody to a
+
+650
+00:25:23,000 --> 00:25:27,000
+certain threshold and then it's just an
+
+651
+00:25:25,000 --> 00:25:29,000
+arms race for data beyond that doesn't
+
+652
+00:25:29,000 --> 00:25:33,000
+so I definitely don't think it'll be an
+
+653
+00:25:30,000 --> 00:25:34,000
+arms race for data because when the
+
+654
+00:25:32,000 --> 00:25:36,000
+models get smart enough at some point it
+
+655
+00:25:33,000 --> 00:25:37,000
+shouldn't be about more data at least
+
+656
+00:25:35,000 --> 00:25:39,000
+not for training it may matter data to
+
+657
+00:25:37,000 --> 00:25:41,000
+make it useful um look the the one thing
+
+658
+00:25:41,000 --> 00:25:45,000
+that I have learned most throughout all
+
+659
+00:25:44,000 --> 00:25:48,000
+this is that uh it's hard to make
+
+660
+00:25:46,000 --> 00:25:50,000
+confident statements a couple of years
+
+661
+00:25:47,000 --> 00:25:51,000
+in the future about where this is all
+
+662
+00:25:49,000 --> 00:25:53,000
+going to go and so don't want to try now
+
+663
+00:25:51,000 --> 00:25:55,000
+I I will say that I I expect lots of
+
+664
+00:25:54,000 --> 00:25:58,000
+very capable models in the world and you
+
+665
+00:25:57,000 --> 00:26:01,000
+know like
+
+666
+00:25:59,000 --> 00:26:03,000
+it feels to me like we just like
+
+667
+00:26:01,000 --> 00:26:05,000
+stumbled on a new fact of nature or
+
+668
+00:26:03,000 --> 00:26:07,000
+science or whatever you want to call it
+
+669
+00:26:04,000 --> 00:26:08,000
+which is like we can create you can like
+
+670
+00:26:10,000 --> 00:26:14,000
+I mean I don't believe this literally
+
+671
+00:26:11,000 --> 00:26:15,000
+but it's like a spiritual point you know
+
+672
+00:26:14,000 --> 00:26:18,000
+intelligence is just this emergent
+
+673
+00:26:15,000 --> 00:26:19,000
+property of matter and that's like a
+
+674
+00:26:17,000 --> 00:26:21,000
+that's like a rule of physics or
+
+675
+00:26:18,000 --> 00:26:22,000
+something um so people are going to
+
+676
+00:26:21,000 --> 00:26:25,000
+figure that out but there will be all
+
+677
+00:26:22,000 --> 00:26:26,000
+these different ways to design the
+
+678
+00:26:23,000 --> 00:26:27,000
+systems people will make different
+
+679
+00:26:25,000 --> 00:26:29,000
+choices figure out new ideas and I'm
+
+680
+00:26:28,000 --> 00:26:32,000
+sure like you
+
+681
+00:26:32,000 --> 00:26:36,000
+know like any other industry I would
+
+682
+00:26:35,000 --> 00:26:39,000
+expect there to be multiple approaches
+
+683
+00:26:37,000 --> 00:26:41,000
+and different people like different ones
+
+684
+00:26:39,000 --> 00:26:43,000
+you know some people like iPhones some
+
+685
+00:26:40,000 --> 00:26:44,000
+people like an Android phone I think
+
+686
+00:26:42,000 --> 00:26:46,000
+there'll be some effect like that I want
+
+687
+00:26:44,000 --> 00:26:48,000
+to go back to he he's continuing to
+
+688
+00:26:46,000 --> 00:26:50,000
+repeat the word intelligence and that
+
+689
+00:26:49,000 --> 00:26:53,000
+this is not about more data and and I
+
+690
+00:26:51,000 --> 00:26:55,000
+think we can see and I think it's often
+
+691
+00:26:54,000 --> 00:26:58,000
+being compared to like Google and search
+
+692
+00:26:57,000 --> 00:27:01,000
+engines and I think we've seen Yahoo and
+
+693
+00:27:00,000 --> 00:27:04,000
+Bing and other search engines and Google
+
+694
+00:27:03,000 --> 00:27:07,000
+won the race for search engines and it
+
+695
+00:27:05,000 --> 00:27:09,000
+became better by aggregating as much
+
+696
+00:27:08,000 --> 00:27:12,000
+data and the algorithms it built
+
+697
+00:27:10,000 --> 00:27:14,000
+connected to this data what this is is
+
+698
+00:27:13,000 --> 00:27:17,000
+being built is is is basically like we
+
+699
+00:27:15,000 --> 00:27:19,000
+have access to all of the the data in
+
+700
+00:27:17,000 --> 00:27:21,000
+the world the worldwide web has given us
+
+701
+00:27:19,000 --> 00:27:23,000
+that now it's
+
+702
+00:27:21,000 --> 00:27:25,000
+basically how intelligence how
+
+703
+00:27:24,000 --> 00:27:28,000
+intelligent can these models become will
+
+704
+00:27:26,000 --> 00:27:30,000
+these models become more intelligent by
+
+705
+00:27:28,000 --> 00:27:32,000
+training them and that's done by through
+
+706
+00:27:30,000 --> 00:27:34,000
+development but it's also done by users
+
+707
+00:27:32,000 --> 00:27:36,000
+using it and giving it feedback and just
+
+708
+00:27:35,000 --> 00:27:39,000
+like we as humans we get better through
+
+709
+00:27:38,000 --> 00:27:42,000
+every experience that we have and the
+
+710
+00:27:40,000 --> 00:27:44,000
+more experiences we have the more
+
+711
+00:27:42,000 --> 00:27:46,000
+intelligent we become but our minds
+
+712
+00:27:46,000 --> 00:27:50,000
+sometimes deteriorate or you know have
+
+713
+00:27:48,000 --> 00:27:52,000
+have certain weaknesses but these
+
+714
+00:27:50,000 --> 00:27:54,000
+Technologies don't you know have that
+
+715
+00:27:51,000 --> 00:27:55,000
+same human you know limitation they have
+
+716
+00:27:54,000 --> 00:27:58,000
+higher capacity in so many ways and so
+
+717
+00:27:57,000 --> 00:28:01,000
+it's of like if you're going to choose
+
+718
+00:27:59,000 --> 00:28:03,000
+between gemini or llama or chat GPT
+
+719
+00:28:04,000 --> 00:28:08,000
+you're going to choose the most
+
+720
+00:28:05,000 --> 00:28:09,000
+intelligent one the one that really is
+
+721
+00:28:07,000 --> 00:28:11,000
+the smartest and it's like hiring your
+
+722
+00:28:09,000 --> 00:28:13,000
+next executive leader which one is the
+
+723
+00:28:12,000 --> 00:28:16,000
+smartest that's going to help you make
+
+724
+00:28:13,000 --> 00:28:17,000
+the best decisions or is not going to
+
+725
+00:28:15,000 --> 00:28:19,000
+help you but maybe just make themselves
+
+726
+00:28:17,000 --> 00:28:21,000
+the best decisions that's the AI model
+
+727
+00:28:20,000 --> 00:28:24,000
+that you want to use and so that's
+
+728
+00:28:22,000 --> 00:28:26,000
+that's really what they're they're
+
+729
+00:28:23,000 --> 00:28:27,000
+developing intelligence which is it's
+
+730
+00:28:26,000 --> 00:28:30,000
+just it's a whole new mindset shift that
+
+731
+00:28:29,000 --> 00:28:33,000
+we've got to make as we approach this
+
+732
+00:28:32,000 --> 00:28:36,000
+Technology Innovation let's go back to
+
+733
+00:28:34,000 --> 00:28:38,000
+that first section of just the the cost
+
+734
+00:28:37,000 --> 00:28:41,000
+and the
+
+735
+00:28:38,000 --> 00:28:42,000
+speed all of you guys are sort of a
+
+736
+00:28:40,000 --> 00:28:44,000
+little bit rate limited on literally
+
+737
+00:28:43,000 --> 00:28:47,000
+nvidia's throughput right and I think
+
+738
+00:28:45,000 --> 00:28:49,000
+that you and most everybody else have
+
+739
+00:28:47,000 --> 00:28:51,000
+sort of effectively announced how much
+
+740
+00:28:49,000 --> 00:28:53,000
+capacity you can get just because it's
+
+741
+00:28:51,000 --> 00:28:55,000
+as much as they can spin out what needs
+
+742
+00:28:53,000 --> 00:28:57,000
+to happen at the substrate so that you
+
+743
+00:28:55,000 --> 00:28:59,000
+can actually compute cheaper
+
+744
+00:28:58,000 --> 00:29:02,000
+compute faster get access to more energy
+
+745
+00:29:01,000 --> 00:29:05,000
+how are you helping to frame out the
+
+746
+00:29:04,000 --> 00:29:08,000
+industry solving those problems well
+
+747
+00:29:07,000 --> 00:29:11,000
+we'll we'll make huge algorithmic gains
+
+748
+00:29:08,000 --> 00:29:12,000
+for sure and I don't want to Discount
+
+749
+00:29:10,000 --> 00:29:14,000
+that you know I very interested in chips
+
+750
+00:29:12,000 --> 00:29:16,000
+and energy but if we can make our if we
+
+751
+00:29:15,000 --> 00:29:19,000
+can make a same quality model twice as
+
+752
+00:29:17,000 --> 00:29:21,000
+efficient that's like we had twice as
+
+753
+00:29:19,000 --> 00:29:23,000
+much compute right and I think there's a
+
+754
+00:29:22,000 --> 00:29:26,000
+gigantic amount of work to be done there
+
+755
+00:29:26,000 --> 00:29:30,000
+uh and I hope we start really seeing
+
+756
+00:29:28,000 --> 00:29:32,000
+those results um other than that the
+
+757
+00:29:32,000 --> 00:29:36,000
+whole supply chain is like very
+
+758
+00:29:33,000 --> 00:29:37,000
+complicated you know there's there's
+
+759
+00:29:36,000 --> 00:29:40,000
+logic Fab capacity there's how much hbm
+
+760
+00:29:38,000 --> 00:29:42,000
+the world can make there's how quickly
+
+761
+00:29:40,000 --> 00:29:44,000
+you can like get permits and pour the
+
+762
+00:29:41,000 --> 00:29:45,000
+concrete make the data centers and then
+
+763
+00:29:43,000 --> 00:29:47,000
+have people in there wiring them all up
+
+764
+00:29:44,000 --> 00:29:48,000
+there's fin the energy which is a huge
+
+765
+00:29:46,000 --> 00:29:50,000
+bottleneck but
+
+766
+00:29:48,000 --> 00:29:52,000
+uh I think when there's this much value
+
+767
+00:29:51,000 --> 00:29:55,000
+to people uh the world will do its thing
+
+768
+00:29:54,000 --> 00:29:58,000
+we'll try to help it happen faster um
+
+769
+00:29:57,000 --> 00:30:01,000
+and there's probably like I don't know
+
+770
+00:29:59,000 --> 00:30:03,000
+how to give it a number but there's like
+
+771
+00:30:00,000 --> 00:30:04,000
+some percentage chance where there is as
+
+772
+00:30:04,000 --> 00:30:08,000
+you were saying like a huge substrate
+
+773
+00:30:05,000 --> 00:30:09,000
+breakthrough and we have like a
+
+774
+00:30:07,000 --> 00:30:11,000
+massively more efficient way to do
+
+775
+00:30:08,000 --> 00:30:12,000
+Computing but I don't I don't like Bank
+
+776
+00:30:11,000 --> 00:30:15,000
+on that or spend too much time thinking
+
+777
+00:30:12,000 --> 00:30:16,000
+about it what about the device side and
+
+778
+00:30:16,000 --> 00:30:20,000
+sort of you mentioned sort of the models
+
+779
+00:30:19,000 --> 00:30:23,000
+that can fit on a phone so obviously
+
+780
+00:30:21,000 --> 00:30:25,000
+whether that's an llm or some slm or
+
+781
+00:30:23,000 --> 00:30:27,000
+something I'm sure you're thinking about
+
+782
+00:30:24,000 --> 00:30:28,000
+that but then does the device itself
+
+783
+00:30:26,000 --> 00:30:30,000
+change I mean is it does it meet to be
+
+784
+00:30:28,000 --> 00:30:32,000
+as expensive as an iPhone
+
+785
+00:30:32,000 --> 00:30:36,000
+uh I'm super interested in this uh I I
+
+786
+00:30:35,000 --> 00:30:39,000
+love like great new form factors of
+
+787
+00:30:38,000 --> 00:30:42,000
+computing and it feels like with every
+
+788
+00:30:40,000 --> 00:30:44,000
+major technological Advance a new thing
+
+789
+00:30:42,000 --> 00:30:46,000
+becomes
+
+790
+00:30:43,000 --> 00:30:47,000
+possible
+
+791
+00:30:45,000 --> 00:30:49,000
+uh phones are unbelievably good so I
+
+792
+00:30:48,000 --> 00:30:52,000
+think the threshold is like very high
+
+793
+00:30:50,000 --> 00:30:54,000
+here like what like I think think like I
+
+794
+00:30:53,000 --> 00:30:57,000
+personally think an iPhone is like the
+
+795
+00:30:55,000 --> 00:30:59,000
+greatest piece of technology enity has
+
+796
+00:30:58,000 --> 00:31:02,000
+ever made it's really a wonderful
+
+797
+00:31:00,000 --> 00:31:04,000
+product what comes after it like I don't
+
+798
+00:31:02,000 --> 00:31:06,000
+know I mean I was going to that was what
+
+799
+00:31:03,000 --> 00:31:07,000
+I was saying it's so good that to get
+
+800
+00:31:05,000 --> 00:31:09,000
+Beyond it I think the bar is like quite
+
+801
+00:31:08,000 --> 00:31:12,000
+High well you you've been working with
+
+802
+00:31:10,000 --> 00:31:14,000
+Johnny IV on on something right I I I
+
+803
+00:31:13,000 --> 00:31:17,000
+want to just pause here real quickly is
+
+804
+00:31:15,000 --> 00:31:19,000
+they're talking about you know basically
+
+805
+00:31:17,000 --> 00:31:21,000
+Hardware now and one you know the
+
+806
+00:31:19,000 --> 00:31:23,000
+hardware needed with servers and things
+
+807
+00:31:21,000 --> 00:31:25,000
+like that that that I mentioned earlier
+
+808
+00:31:23,000 --> 00:31:27,000
+but now they're talking about basically
+
+809
+00:31:25,000 --> 00:31:29,000
+the iPhone being such a great product
+
+810
+00:31:27,000 --> 00:31:31,000
+and people are often like what's the
+
+811
+00:31:29,000 --> 00:31:33,000
+next thing is it VR is it AR is it you
+
+812
+00:31:33,000 --> 00:31:37,000
+know mixed reality is it like Google
+
+813
+00:31:34,000 --> 00:31:38,000
+Glasses things like that and he's like I
+
+814
+00:31:36,000 --> 00:31:40,000
+don't know you know so this is a guy
+
+815
+00:31:38,000 --> 00:31:42,000
+that lives in this world and he knows
+
+816
+00:31:40,000 --> 00:31:44,000
+what's limiting his essentially software
+
+817
+00:31:44,000 --> 00:31:48,000
+to be accessible to everyone and him
+
+818
+00:31:46,000 --> 00:31:50,000
+saying the iPhone is the greatest
+
+819
+00:31:48,000 --> 00:31:52,000
+invention ever made or basically
+
+820
+00:31:50,000 --> 00:31:54,000
+Hardware device ever created and I think
+
+821
+00:31:52,000 --> 00:31:56,000
+that's pretty significant to understand
+
+822
+00:31:55,000 --> 00:31:59,000
+and I think how important that mobile
+
+823
+00:31:58,000 --> 00:32:02,000
+technology is going to continue to be
+
+824
+00:32:01,000 --> 00:32:05,000
+into the future and so he he he really
+
+825
+00:32:04,000 --> 00:32:08,000
+is kind of like look this is the the
+
+826
+00:32:06,000 --> 00:32:10,000
+basically the primary Hardware platform
+
+827
+00:32:08,000 --> 00:32:12,000
+that we believe we need to be
+
+828
+00:32:10,000 --> 00:32:14,000
+integrating with for this technology to
+
+829
+00:32:14,000 --> 00:32:18,000
+get the best adoption in use and so I I
+
+830
+00:32:17,000 --> 00:32:21,000
+think this just speaks to our mobile
+
+831
+00:32:20,000 --> 00:32:24,000
+world is going to probably stay mobile
+
+832
+00:32:22,000 --> 00:32:26,000
+for you know a a distant future and so
+
+833
+00:32:26,000 --> 00:32:30,000
+as disruptive as the phone was there's
+
+834
+00:32:28,000 --> 00:32:32,000
+not going to be anytime soon likely
+
+835
+00:32:31,000 --> 00:32:35,000
+another phone that that is going to be
+
+836
+00:32:33,000 --> 00:32:37,000
+so significant to disruption from a
+
+837
+00:32:36,000 --> 00:32:40,000
+hardware perspective been discussing
+
+838
+00:32:38,000 --> 00:32:42,000
+ideas but uh I don't like if I knew is
+
+839
+00:32:42,000 --> 00:32:46,000
+it that that it has to be more
+
+840
+00:32:43,000 --> 00:32:47,000
+complicated or actually just much much
+
+841
+00:32:45,000 --> 00:32:49,000
+cheaper and simpler well every almost
+
+842
+00:32:48,000 --> 00:32:52,000
+everyone's willing to pay for a phone
+
+843
+00:32:49,000 --> 00:32:53,000
+anyway so if you could like make a way
+
+844
+00:32:51,000 --> 00:32:55,000
+cheaper device I think the barrier to
+
+845
+00:32:53,000 --> 00:32:57,000
+carry a second thing or use a second
+
+846
+00:32:56,000 --> 00:33:00,000
+thing is pretty high so I don't think C
+
+847
+00:32:59,000 --> 00:33:03,000
+given that we're all willing to pay for
+
+848
+00:33:00,000 --> 00:33:04,000
+phones or most of us are I don't think
+
+849
+00:33:02,000 --> 00:33:06,000
+cheaper is the
+
+850
+00:33:04,000 --> 00:33:08,000
+answer different is the answer then
+
+851
+00:33:07,000 --> 00:33:11,000
+would there be like a specialized chip
+
+852
+00:33:09,000 --> 00:33:13,000
+that would run on the phone that was
+
+853
+00:33:10,000 --> 00:33:14,000
+really good at powering a you know a
+
+854
+00:33:13,000 --> 00:33:17,000
+phone size AI model probably but the
+
+855
+00:33:15,000 --> 00:33:19,000
+phone manufacturers are going to do that
+
+856
+00:33:16,000 --> 00:33:20,000
+for sure that doesn't that doesn't
+
+857
+00:33:18,000 --> 00:33:22,000
+necessitate a new device I think you'd
+
+858
+00:33:20,000 --> 00:33:24,000
+have to like find some really different
+
+859
+00:33:22,000 --> 00:33:26,000
+interaction Paradigm that the technology
+
+860
+00:33:25,000 --> 00:33:29,000
+enables uh and if I knew what was I
+
+861
+00:33:28,000 --> 00:33:32,000
+would be excited to be working on it
+
+862
+00:33:30,000 --> 00:33:34,000
+right now but oh you have you have voice
+
+863
+00:33:32,000 --> 00:33:36,000
+working right now in the app in fact I
+
+864
+00:33:34,000 --> 00:33:38,000
+set my action button on my phone to go
+
+865
+00:33:35,000 --> 00:33:39,000
+directly to chat gpt's voice app and I
+
+866
+00:33:38,000 --> 00:33:42,000
+use it with my kids and they love it
+
+867
+00:33:40,000 --> 00:33:44,000
+talking to it it's got latency issues
+
+868
+00:33:42,000 --> 00:33:46,000
+but it's really we'll we'll get that
+
+869
+00:33:44,000 --> 00:33:48,000
+we'll get that better and I think voice
+
+870
+00:33:46,000 --> 00:33:50,000
+is a hint to whatever the next thing is
+
+871
+00:33:49,000 --> 00:33:53,000
+like if you can get voice interaction to
+
+872
+00:33:51,000 --> 00:33:55,000
+be really good it
+
+873
+00:33:53,000 --> 00:33:57,000
+feels I think that feels like a
+
+874
+00:33:55,000 --> 00:33:59,000
+different way to use a computer oh okay
+
+875
+00:33:58,000 --> 00:34:02,000
+this this was a big and I think he's
+
+876
+00:34:00,000 --> 00:34:04,000
+really teasing chat GPT for in in this
+
+877
+00:34:04,000 --> 00:34:08,000
+statement as voice is a hint and and I
+
+878
+00:34:06,000 --> 00:34:10,000
+think we have seen this development
+
+879
+00:34:08,000 --> 00:34:12,000
+through the years with Alexa and as
+
+880
+00:34:10,000 --> 00:34:14,000
+Alexa has integrated into our homes more
+
+881
+00:34:12,000 --> 00:34:16,000
+and into you know our mobile devices and
+
+882
+00:34:15,000 --> 00:34:19,000
+and become a very valuable tool to use
+
+883
+00:34:17,000 --> 00:34:21,000
+our voice to get information off of the
+
+884
+00:34:19,000 --> 00:34:23,000
+internet but now voice is expanding to
+
+885
+00:34:22,000 --> 00:34:26,000
+another level to actually be intelligent
+
+886
+00:34:25,000 --> 00:34:29,000
+and so we are now having or can have a
+
+887
+00:34:28,000 --> 00:34:32,000
+conversation with an a form of
+
+888
+00:34:31,000 --> 00:34:35,000
+intelligence and not just a you know a
+
+889
+00:34:34,000 --> 00:34:38,000
+voice triggered action item driven by an
+
+890
+00:34:37,000 --> 00:34:41,000
+algorithm and so this is I think a big
+
+891
+00:34:40,000 --> 00:34:44,000
+significant development of where this is
+
+892
+00:34:42,000 --> 00:34:46,000
+going is we've seen it as a chat box on
+
+893
+00:34:45,000 --> 00:34:49,000
+a screen to now a conversation that we
+
+894
+00:34:48,000 --> 00:34:52,000
+can have in our headphones or with our
+
+895
+00:34:51,000 --> 00:34:55,000
+our home speakers and things like that
+
+896
+00:34:53,000 --> 00:34:57,000
+so I think this is a pretty pretty
+
+897
+00:34:55,000 --> 00:34:59,000
+significant kind of leak that he's
+
+898
+00:34:58,000 --> 00:35:02,000
+hinting at here or or kind of teasing
+
+899
+00:35:00,000 --> 00:35:04,000
+out here but again with that by the way
+
+900
+00:35:03,000 --> 00:35:07,000
+like why why is it not responsive and
+
+901
+00:35:06,000 --> 00:35:10,000
+you know it's it feels like a CB you
+
+902
+00:35:08,000 --> 00:35:12,000
+know like over over it's really annoying
+
+903
+00:35:11,000 --> 00:35:15,000
+to use you know uh in that way but it's
+
+904
+00:35:14,000 --> 00:35:18,000
+also brilliant when it gives you the
+
+905
+00:35:15,000 --> 00:35:19,000
+right answer we are working on that uh
+
+906
+00:35:18,000 --> 00:35:22,000
+it's it's so clunky right now it's slow
+
+907
+00:35:20,000 --> 00:35:24,000
+it's like kind of doesn't feel very
+
+908
+00:35:23,000 --> 00:35:27,000
+smooth or authentic or organic like
+
+909
+00:35:25,000 --> 00:35:29,000
+we'll get all that to be much better
+
+910
+00:35:29,000 --> 00:35:33,000
+what about computer vision I mean they
+
+911
+00:35:31,000 --> 00:35:35,000
+have classes or maybe you could wear a
+
+912
+00:35:33,000 --> 00:35:37,000
+pendant I mean you take the combination
+
+913
+00:35:36,000 --> 00:35:40,000
+of visual or video data combine it with
+
+914
+00:35:40,000 --> 00:35:44,000
+voice and now ai knows everything that's
+
+915
+00:35:42,000 --> 00:35:46,000
+happening around you super powerful to
+
+916
+00:35:44,000 --> 00:35:48,000
+be able to like the multimodality of
+
+917
+00:35:47,000 --> 00:35:51,000
+saying like hey chbt what am I looking
+
+918
+00:35:50,000 --> 00:35:54,000
+at or like what kind of plant is this I
+
+919
+00:35:52,000 --> 00:35:56,000
+can't quite tell
+
+920
+00:35:54,000 --> 00:35:58,000
+um that's obvious that that's like a
+
+921
+00:35:57,000 --> 00:36:01,000
+that's another I think think like hint
+
+922
+00:35:58,000 --> 00:36:02,000
+but whether people want to wear glasses
+
+923
+00:36:00,000 --> 00:36:04,000
+or like hold up something when they want
+
+924
+00:36:02,000 --> 00:36:06,000
+that like I I there's a bunch of just
+
+925
+00:36:05,000 --> 00:36:09,000
+like like the the sort of like societal
+
+926
+00:36:08,000 --> 00:36:12,000
+interpersonal issues here are all very
+
+927
+00:36:11,000 --> 00:36:15,000
+complicated about wearing a computer on
+
+928
+00:36:12,000 --> 00:36:16,000
+your face um we we saw that with Google
+
+929
+00:36:15,000 --> 00:36:19,000
+Glass people got punched in the face in
+
+930
+00:36:17,000 --> 00:36:21,000
+the mission started a lot of I forgot
+
+931
+00:36:19,000 --> 00:36:23,000
+about that forgot about that so so I I
+
+932
+00:36:21,000 --> 00:36:25,000
+think it's
+
+933
+00:36:23,000 --> 00:36:27,000
+like what are the apps that could be
+
+934
+00:36:25,000 --> 00:36:29,000
+unlocked if AI was of ubiquitous on
+
+935
+00:36:28,000 --> 00:36:32,000
+people's
+
+936
+00:36:29,000 --> 00:36:33,000
+phones do you have a sense of that or
+
+937
+00:36:32,000 --> 00:36:36,000
+what would you want to see built
+
+938
+00:36:36,000 --> 00:36:40,000
+uh I I think what I want is just this
+
+939
+00:36:39,000 --> 00:36:43,000
+always on like super low
+
+940
+00:36:43,000 --> 00:36:47,000
+friction thing where I
+
+941
+00:36:46,000 --> 00:36:50,000
+can either by voice or by text or
+
+942
+00:36:49,000 --> 00:36:53,000
+ideally like some other it just kind of
+
+943
+00:36:51,000 --> 00:36:55,000
+knows what do I want have this like
+
+944
+00:36:53,000 --> 00:36:57,000
+constant thing helping me throughout my
+
+945
+00:36:54,000 --> 00:36:58,000
+day that's got like as much context on
+
+946
+00:36:56,000 --> 00:37:00,000
+as possible it's like the world's
+
+947
+00:36:58,000 --> 00:37:02,000
+greatest assistant um and it's just this
+
+948
+00:37:01,000 --> 00:37:05,000
+like thing working to make me better and
+
+949
+00:37:03,000 --> 00:37:07,000
+better uh there's there there's like a
+
+950
+00:37:06,000 --> 00:37:10,000
+and when you hear people like talk about
+
+951
+00:37:07,000 --> 00:37:11,000
+the AI future they imag they imagine
+
+952
+00:37:10,000 --> 00:37:14,000
+there's sort of
+
+953
+00:37:11,000 --> 00:37:15,000
+two different approaches and they don't
+
+954
+00:37:14,000 --> 00:37:18,000
+sound that different but I think they're
+
+955
+00:37:15,000 --> 00:37:19,000
+like very different for how we'll design
+
+956
+00:37:16,000 --> 00:37:20,000
+the system in practice there's the I
+
+957
+00:37:19,000 --> 00:37:23,000
+want an extension of myself um I want
+
+958
+00:37:23,000 --> 00:37:27,000
+like a ghost or an alter ego or this
+
+959
+00:37:26,000 --> 00:37:30,000
+thing that really like is me is acting
+
+960
+00:37:28,000 --> 00:37:32,000
+on my behalf is um responding to emails
+
+961
+00:37:32,000 --> 00:37:36,000
+not even telling me about it is is is
+
+962
+00:37:34,000 --> 00:37:38,000
+sort of like it it becomes more me and
+
+963
+00:37:38,000 --> 00:37:42,000
+is me and then there's this other thing
+
+964
+00:37:40,000 --> 00:37:44,000
+which is like I want a great senior
+
+965
+00:37:43,000 --> 00:37:47,000
+employee it may get to know me very well
+
+966
+00:37:45,000 --> 00:37:49,000
+I may delegate it you know you can like
+
+967
+00:37:47,000 --> 00:37:51,000
+have access to my email and I'll tell
+
+968
+00:37:49,000 --> 00:37:53,000
+you the constraints but but I think of
+
+969
+00:37:51,000 --> 00:37:55,000
+it is this like separate entity and I
+
+970
+00:37:55,000 --> 00:37:59,000
+personally like the entity approach
+
+971
+00:38:03,000 --> 00:38:07,000
+better the thing is not you but it's
+
+972
+00:38:06,000 --> 00:38:10,000
+it's like a always available always
+
+973
+00:38:08,000 --> 00:38:12,000
+great super capable assistant EXA okay
+
+974
+00:38:13,000 --> 00:38:17,000
+now I think we're getting into where AI
+
+975
+00:38:16,000 --> 00:38:20,000
+is replacing jobs and and I think he's
+
+976
+00:38:19,000 --> 00:38:23,000
+saying basically it can be that
+
+977
+00:38:21,000 --> 00:38:25,000
+assistant that is taking notes in your
+
+978
+00:38:23,000 --> 00:38:27,000
+meeting we're seeing AI apps like that
+
+979
+00:38:25,000 --> 00:38:29,000
+and or can be that assistant that you
+
+980
+00:38:27,000 --> 00:38:31,000
+don't like you're like hey what is that
+
+981
+00:38:28,000 --> 00:38:32,000
+that I'm looking at and it can tell you
+
+982
+00:38:30,000 --> 00:38:34,000
+what that is or you know even look when
+
+983
+00:38:32,000 --> 00:38:36,000
+you look at the the refrigerator that
+
+984
+00:38:34,000 --> 00:38:38,000
+your milk is getting low so I'm going to
+
+985
+00:38:35,000 --> 00:38:39,000
+just automatically order that for you or
+
+986
+00:38:37,000 --> 00:38:41,000
+and it's just always there to help you
+
+987
+00:38:39,000 --> 00:38:43,000
+throughout your day whether that's work
+
+988
+00:38:41,000 --> 00:38:45,000
+related personal related calendar
+
+989
+00:38:43,000 --> 00:38:47,000
+related email related it's assisting you
+
+990
+00:38:46,000 --> 00:38:50,000
+in those kind of just tasks that we just
+
+991
+00:38:48,000 --> 00:38:52,000
+have to get done but then he's also
+
+992
+00:38:50,000 --> 00:38:54,000
+saying it can also be like a senior
+
+993
+00:38:53,000 --> 00:38:57,000
+level you know executive too that can
+
+994
+00:38:56,000 --> 00:39:00,000
+help you make better just decisions and
+
+995
+00:38:58,000 --> 00:39:02,000
+analyze and see things on the horizon
+
+996
+00:39:01,000 --> 00:39:05,000
+and and I think this is a unique
+
+997
+00:39:03,000 --> 00:39:07,000
+challenge with Humanity we have seen new
+
+998
+00:39:07,000 --> 00:39:11,000
+technologies you know through the years
+
+999
+00:39:09,000 --> 00:39:13,000
+and in agriculture and other things that
+
+1000
+00:39:12,000 --> 00:39:16,000
+have replaced human labor jobs but I
+
+1001
+00:39:15,000 --> 00:39:19,000
+think this is replacing a lot of both
+
+1002
+00:39:19,000 --> 00:39:23,000
+you know hourly employee type of work
+
+1003
+00:39:22,000 --> 00:39:26,000
+and you know salary executive type of
+
+1004
+00:39:26,000 --> 00:39:30,000
+work and decision making that might
+
+1005
+00:39:28,000 --> 00:39:32,000
+require fewer Executives in an
+
+1006
+00:39:30,000 --> 00:39:34,000
+organization because AI now has a seat
+
+1007
+00:39:33,000 --> 00:39:37,000
+at the table to help you make uh better
+
+1008
+00:39:35,000 --> 00:39:39,000
+decisions you might not need that
+
+1009
+00:39:37,000 --> 00:39:41,000
+consultant or you might not need those
+
+1010
+00:39:39,000 --> 00:39:43,000
+other senior level Executives because AI
+
+1011
+00:39:42,000 --> 00:39:46,000
+is using its intelligence to help you so
+
+1012
+00:39:44,000 --> 00:39:48,000
+it's just pretty big conversation of
+
+1013
+00:39:47,000 --> 00:39:51,000
+what's to come and you can see where and
+
+1014
+00:39:49,000 --> 00:39:53,000
+that's really beneficial from an
+
+1015
+00:39:51,000 --> 00:39:55,000
+efficiency standpoint but and that gets
+
+1016
+00:39:53,000 --> 00:39:57,000
+really complicated from a societal
+
+1017
+00:39:55,000 --> 00:39:59,000
+standpoint an agent in a way like it'ss
+
+1018
+00:39:57,000 --> 00:40:01,000
+out there working on your behalf and
+
+1019
+00:40:00,000 --> 00:40:04,000
+understands what you want and
+
+1020
+00:40:01,000 --> 00:40:05,000
+anticipates what you want is what I'm
+
+1021
+00:40:03,000 --> 00:40:07,000
+reading into what you're saying I think
+
+1022
+00:40:04,000 --> 00:40:08,000
+there'd be agent like Behavior but
+
+1023
+00:40:07,000 --> 00:40:11,000
+there's like a difference
+
+1024
+00:40:09,000 --> 00:40:13,000
+between a senior employee and an agent
+
+1025
+00:40:12,000 --> 00:40:16,000
+yeah and like I want it you know I think
+
+1026
+00:40:15,000 --> 00:40:19,000
+of like my I think like a like one of
+
+1027
+00:40:18,000 --> 00:40:22,000
+the things that I like about a senior
+
+1028
+00:40:21,000 --> 00:40:25,000
+employee is
+
+1029
+00:40:25,000 --> 00:40:29,000
+they'll they'll push back on me they
+
+1030
+00:40:27,000 --> 00:40:31,000
+will sometimes not do something I ask or
+
+1031
+00:40:30,000 --> 00:40:34,000
+they sometimes will say like I can do
+
+1032
+00:40:31,000 --> 00:40:35,000
+that thing if you want but if I do it
+
+1033
+00:40:33,000 --> 00:40:37,000
+here's what I think would happen and
+
+1034
+00:40:34,000 --> 00:40:38,000
+then this and then that and are you
+
+1035
+00:40:36,000 --> 00:40:40,000
+really
+
+1036
+00:40:37,000 --> 00:40:41,000
+sure I definitely want that kind of vibe
+
+1037
+00:40:40,000 --> 00:40:44,000
+which not not just like this thing that
+
+1038
+00:40:41,000 --> 00:40:45,000
+I asking at blend does it can reason
+
+1039
+00:40:45,000 --> 00:40:49,000
+yeah yeah and push back it can reason it
+
+1040
+00:40:46,000 --> 00:40:50,000
+has like the kind of relationship with
+
+1041
+00:40:48,000 --> 00:40:52,000
+me that I would expect out of a really
+
+1042
+00:40:50,000 --> 00:40:54,000
+competent person that I worked with
+
+1043
+00:40:53,000 --> 00:40:57,000
+which is different from like a siop Fant
+
+1044
+00:40:55,000 --> 00:40:59,000
+yeah I I think this is an important note
+
+1045
+00:40:58,000 --> 00:41:02,000
+here of we are going to have a form of
+
+1046
+00:41:03,000 --> 00:41:07,000
+relationship with AI or with you know AI
+
+1047
+00:41:07,000 --> 00:41:11,000
+systems that is complicated and and I
+
+1048
+00:41:11,000 --> 00:41:15,000
+think we're seeing even the societal
+
+1049
+00:41:13,000 --> 00:41:17,000
+impact of that already where people are
+
+1050
+00:41:15,000 --> 00:41:19,000
+in many ways having like a romantic
+
+1051
+00:41:17,000 --> 00:41:21,000
+relationship with these AI Bots and it's
+
+1052
+00:41:19,000 --> 00:41:23,000
+kind of sick and twisted in a lot of
+
+1053
+00:41:21,000 --> 00:41:25,000
+ways but it becomes you know it's
+
+1054
+00:41:25,000 --> 00:41:29,000
+interesting because you know my kids
+
+1055
+00:41:27,000 --> 00:41:31,000
+might tell you that Alexa is a part of
+
+1056
+00:41:29,000 --> 00:41:33,000
+our household but it's not like we have
+
+1057
+00:41:31,000 --> 00:41:35,000
+an actual relationship but this AI that
+
+1058
+00:41:34,000 --> 00:41:38,000
+we're really talking about here is going
+
+1059
+00:41:35,000 --> 00:41:39,000
+to learn us it's going to understand
+
+1060
+00:41:37,000 --> 00:41:41,000
+it's going to understand how we need to
+
+1061
+00:41:39,000 --> 00:41:43,000
+be communicated with and how we like to
+
+1062
+00:41:41,000 --> 00:41:45,000
+be communicated with and it will adapt
+
+1063
+00:41:44,000 --> 00:41:48,000
+to us and we will have you know a
+
+1064
+00:41:47,000 --> 00:41:51,000
+relationship it's different than human
+
+1065
+00:41:50,000 --> 00:41:54,000
+relationship but I think sometimes it's
+
+1066
+00:41:51,000 --> 00:41:55,000
+going to be complicated of do we end up
+
+1067
+00:41:55,000 --> 00:41:59,000
+liking AI better than we like other
+
+1068
+00:41:57,000 --> 00:42:01,000
+people people you know like this AI is
+
+1069
+00:41:59,000 --> 00:42:03,000
+going to do whatever we ask it to do but
+
+1070
+00:42:01,000 --> 00:42:05,000
+it's also saying it's going to push back
+
+1071
+00:42:02,000 --> 00:42:06,000
+on you too maybe if you want it to and
+
+1072
+00:42:05,000 --> 00:42:09,000
+so this is this is a really interesting
+
+1073
+00:42:08,000 --> 00:42:12,000
+dynamic as we start thinking about
+
+1074
+00:42:10,000 --> 00:42:14,000
+intelligence and and the interactions
+
+1075
+00:42:12,000 --> 00:42:16,000
+that we're going to have with this
+
+1076
+00:42:14,000 --> 00:42:18,000
+technology in the future and so yeah
+
+1077
+00:42:16,000 --> 00:42:20,000
+it's it's very heady when you start
+
+1078
+00:42:19,000 --> 00:42:23,000
+going down those paths in your mind and
+
+1079
+00:42:21,000 --> 00:42:25,000
+obviously they're they're putting a lot
+
+1080
+00:42:22,000 --> 00:42:26,000
+of thought and and and insights into how
+
+1081
+00:42:25,000 --> 00:42:29,000
+they're developing it around those
+
+1082
+00:42:26,000 --> 00:42:30,000
+things in that world where if you have
+
+1083
+00:42:28,000 --> 00:42:32,000
+this like Jarvis like thing that can
+
+1084
+00:42:32,000 --> 00:42:36,000
+reason what do you think it does to
+
+1085
+00:42:36,000 --> 00:42:40,000
+products that you use today where the
+
+1086
+00:42:38,000 --> 00:42:42,000
+interface is very valuable so for
+
+1087
+00:42:40,000 --> 00:42:44,000
+example if you look at an instacart or
+
+1088
+00:42:42,000 --> 00:42:46,000
+if you look at an Uber or if you look at
+
+1089
+00:42:44,000 --> 00:42:48,000
+a door Dash these are not services that
+
+1090
+00:42:46,000 --> 00:42:50,000
+are meant to be pipes that are just
+
+1091
+00:42:49,000 --> 00:42:53,000
+providing a set of apis to a Smart Set
+
+1092
+00:42:52,000 --> 00:42:56,000
+of agents that ubiquitously work on
+
+1093
+00:42:54,000 --> 00:42:58,000
+behalf of 8 billion
+
+1094
+00:42:55,000 --> 00:42:59,000
+people what do you think has to change
+
+1095
+00:42:58,000 --> 00:43:02,000
+in how we think about how apps need to
+
+1096
+00:42:59,000 --> 00:43:03,000
+work of how this entire infrastructure
+
+1097
+00:43:01,000 --> 00:43:05,000
+of experiences need to work in a world
+
+1098
+00:43:03,000 --> 00:43:07,000
+where you're agentically interfacing to
+
+1099
+00:43:05,000 --> 00:43:09,000
+the world I'm actually very interested
+
+1100
+00:43:07,000 --> 00:43:11,000
+in designing a world that is equally
+
+1101
+00:43:11,000 --> 00:43:15,000
+usable by humans and by AIS so I
+
+1102
+00:43:16,000 --> 00:43:20,000
+I I I like the interpretability of that
+
+1103
+00:43:19,000 --> 00:43:23,000
+I like the smoothness of the handoffs I
+
+1104
+00:43:21,000 --> 00:43:25,000
+like the ability that we can provide
+
+1105
+00:43:22,000 --> 00:43:26,000
+feedback or whatever so you know door
+
+1106
+00:43:25,000 --> 00:43:29,000
+Dash could just expose some
+
+1107
+00:43:28,000 --> 00:43:32,000
+API to my future AI assistant and they
+
+1108
+00:43:31,000 --> 00:43:35,000
+could go put the order in whatever or I
+
+1109
+00:43:34,000 --> 00:43:38,000
+could say like I could be holding my
+
+1110
+00:43:35,000 --> 00:43:39,000
+phone and I could say okay AI assistant
+
+1111
+00:43:37,000 --> 00:43:41,000
+like you put in this order on door Dash
+
+1112
+00:43:40,000 --> 00:43:44,000
+please and I could like watch the app
+
+1113
+00:43:42,000 --> 00:43:46,000
+open and see the thing clicking around
+
+1114
+00:43:43,000 --> 00:43:47,000
+and I could say hey no not this or like
+
+1115
+00:43:46,000 --> 00:43:50,000
+um there there's something about
+
+1116
+00:43:49,000 --> 00:43:53,000
+designing a world that is
+
+1117
+00:43:52,000 --> 00:43:56,000
+usable equally well by humans and AIS
+
+1118
+00:43:55,000 --> 00:43:59,000
+that I think is a interesting concept
+
+1119
+00:43:58,000 --> 00:44:02,000
+I'm like excited about humanoid robots
+
+1120
+00:44:00,000 --> 00:44:04,000
+than sort of robots of like very other
+
+1121
+00:44:02,000 --> 00:44:06,000
+shapes the world is very much designed
+
+1122
+00:44:04,000 --> 00:44:08,000
+for humans I think we should absolutely
+
+1123
+00:44:05,000 --> 00:44:09,000
+keep it that way and a shared interface
+
+1124
+00:44:07,000 --> 00:44:11,000
+is nice so you see voice chat that
+
+1125
+00:44:11,000 --> 00:44:15,000
+modality kind of gets rid of apps you
+
+1126
+00:44:13,000 --> 00:44:17,000
+just ask it for sushi it knows Sushi you
+
+1127
+00:44:15,000 --> 00:44:19,000
+likeed before it knows what you don't
+
+1128
+00:44:16,000 --> 00:44:20,000
+like and does its best shot at doing it
+
+1129
+00:44:19,000 --> 00:44:23,000
+I it's hard for me to imagine that we
+
+1130
+00:44:22,000 --> 00:44:26,000
+just go to a world totally where you say
+
+1131
+00:44:24,000 --> 00:44:28,000
+like hey Chachi BT order me sushi and
+
+1132
+00:44:26,000 --> 00:44:30,000
+it's say okay do you want it from this
+
+1133
+00:44:28,000 --> 00:44:32,000
+restaurant what kind what time whatever
+
+1134
+00:44:30,000 --> 00:44:34,000
+I think user I think visual user
+
+1135
+00:44:33,000 --> 00:44:37,000
+interfaces are super good for a lot of
+
+1136
+00:44:35,000 --> 00:44:39,000
+things um and it's hard of me to imagine
+
+1137
+00:44:38,000 --> 00:44:42,000
+like a world
+
+1138
+00:44:39,000 --> 00:44:43,000
+where you'd
+
+1139
+00:44:42,000 --> 00:44:46,000
+never look at a screen and just use
+
+1140
+00:44:46,000 --> 00:44:50,000
+voice mode only but I I can imagine that
+
+1141
+00:44:48,000 --> 00:44:52,000
+for a lot of things yeah I mean Apple
+
+1142
+00:44:50,000 --> 00:44:54,000
+tried with Siri like you supposedly you
+
+1143
+00:44:52,000 --> 00:44:56,000
+can order an Uber automatically with
+
+1144
+00:44:54,000 --> 00:44:58,000
+Siri I don't think anybody's ever done
+
+1145
+00:44:55,000 --> 00:44:59,000
+it because
+
+1146
+00:44:57,000 --> 00:45:01,000
+why would you take the risk of not well
+
+1147
+00:44:59,000 --> 00:45:03,000
+the quality to your point the quality is
+
+1148
+00:45:01,000 --> 00:45:05,000
+not good but when the quality is good
+
+1149
+00:45:03,000 --> 00:45:07,000
+enough you're you'll actually prefer it
+
+1150
+00:45:05,000 --> 00:45:09,000
+just because it's just lighter weight
+
+1151
+00:45:06,000 --> 00:45:10,000
+you don't have to take your phone out
+
+1152
+00:45:07,000 --> 00:45:11,000
+you don't have to search for your app
+
+1153
+00:45:09,000 --> 00:45:13,000
+and press it and oh it automatically
+
+1154
+00:45:11,000 --> 00:45:15,000
+logged you out oh hold on log back in oh
+
+1155
+00:45:14,000 --> 00:45:18,000
+TFA it's a whole pain in the ass you
+
+1156
+00:45:15,000 --> 00:45:19,000
+know it's like setting a timer with Siri
+
+1157
+00:45:17,000 --> 00:45:21,000
+I do every time because it works really
+
+1158
+00:45:20,000 --> 00:45:24,000
+well and it's great I need more
+
+1159
+00:45:22,000 --> 00:45:26,000
+information but ordering an Uber like I
+
+1160
+00:45:25,000 --> 00:45:29,000
+want to see the prices for few different
+
+1161
+00:45:27,000 --> 00:45:31,000
+options I want to see how far away it is
+
+1162
+00:45:29,000 --> 00:45:33,000
+I want to see like maybe even where they
+
+1163
+00:45:31,000 --> 00:45:35,000
+are on the map because I might walk
+
+1164
+00:45:32,000 --> 00:45:36,000
+somewhere I get a lot more information
+
+1165
+00:45:35,000 --> 00:45:39,000
+by I think in less time by looking at
+
+1166
+00:45:37,000 --> 00:45:41,000
+that order the Uber screen than I would
+
+1167
+00:45:39,000 --> 00:45:43,000
+if I had to do that all through the
+
+1168
+00:45:40,000 --> 00:45:44,000
+audio Channel I like your idea of
+
+1169
+00:45:43,000 --> 00:45:47,000
+watching it happen that's kind of cool I
+
+1170
+00:45:45,000 --> 00:45:49,000
+think there will just be like yeah
+
+1171
+00:45:48,000 --> 00:45:52,000
+different there are different interfaces
+
+1172
+00:45:50,000 --> 00:45:54,000
+we use for different tasks and I think
+
+1173
+00:45:51,000 --> 00:45:55,000
+that'll keep going of all the developers
+
+1174
+00:45:53,000 --> 00:45:57,000
+that are building apps and experiences
+
+1175
+00:45:56,000 --> 00:46:00,000
+on open AI are there a few that stand
+
+1176
+00:45:58,000 --> 00:46:02,000
+out for you where you're like okay this
+
+1177
+00:46:00,000 --> 00:46:04,000
+is directionally going in a super
+
+1178
+00:46:02,000 --> 00:46:06,000
+interesting area even if it's like a toy
+
+1179
+00:46:04,000 --> 00:46:08,000
+app but are there things that you guys
+
+1180
+00:46:06,000 --> 00:46:10,000
+point to and say this is really
+
+1181
+00:46:09,000 --> 00:46:13,000
+important um I met with a new company
+
+1182
+00:46:13,000 --> 00:46:17,000
+this morning or I'm barely even a
+
+1183
+00:46:15,000 --> 00:46:19,000
+company it's like two people that are
+
+1184
+00:46:16,000 --> 00:46:20,000
+going to work on a summer project trying
+
+1185
+00:46:18,000 --> 00:46:22,000
+to actually finally make the AI tutor
+
+1186
+00:46:21,000 --> 00:46:25,000
+like and I've always been interested in
+
+1187
+00:46:23,000 --> 00:46:27,000
+this space a lot of people have done
+
+1188
+00:46:24,000 --> 00:46:28,000
+great stuff on our platform but if if
+
+1189
+00:46:26,000 --> 00:46:30,000
+someone can deliver like the way that
+
+1190
+00:46:32,000 --> 00:46:36,000
+you actually
+
+1191
+00:46:33,000 --> 00:46:37,000
+like they used a phrase I love which is
+
+1192
+00:46:35,000 --> 00:46:39,000
+this is going to be like a monory level
+
+1193
+00:46:37,000 --> 00:46:41,000
+reinvention for how people how people
+
+1194
+00:46:39,000 --> 00:46:43,000
+learn things yeah um but if you can like
+
+1195
+00:46:41,000 --> 00:46:45,000
+find this new way to like let people
+
+1196
+00:46:42,000 --> 00:46:46,000
+explore and learn in new ways on their
+
+1197
+00:46:44,000 --> 00:46:48,000
+own I'm personally super excited about
+
+1198
+00:46:47,000 --> 00:46:51,000
+that I I just want to add to this even
+
+1199
+00:46:50,000 --> 00:46:54,000
+as a parent and and a learner that that
+
+1200
+00:46:53,000 --> 00:46:57,000
+this is a really powerful opportunity is
+
+1201
+00:46:56,000 --> 00:47:00,000
+the Educational Opportunity where you
+
+1202
+00:46:58,000 --> 00:47:02,000
+could say chat gbt teach me how to play
+
+1203
+00:47:01,000 --> 00:47:05,000
+the violin and then it is like our coach
+
+1204
+00:47:04,000 --> 00:47:08,000
+along the way and it's learning like no
+
+1205
+00:47:05,000 --> 00:47:09,000
+CH change that or do this and it's a
+
+1206
+00:47:08,000 --> 00:47:12,000
+personalized tutor that knows where we
+
+1207
+00:47:10,000 --> 00:47:14,000
+are can respond to that and and I think
+
+1208
+00:47:13,000 --> 00:47:17,000
+about how we've done that to date a lot
+
+1209
+00:47:15,000 --> 00:47:19,000
+of times we'll just either buy a course
+
+1210
+00:47:17,000 --> 00:47:21,000
+online or we'll you know go to YouTube
+
+1211
+00:47:21,000 --> 00:47:25,000
+and like teach me how to do this or you
+
+1212
+00:47:22,000 --> 00:47:26,000
+know somebody's training and now chat
+
+1213
+00:47:25,000 --> 00:47:29,000
+GPT can actually be a teacher that is
+
+1214
+00:47:28,000 --> 00:47:32,000
+creating a
+
+1215
+00:47:29,000 --> 00:47:33,000
+personalized teaching experience for you
+
+1216
+00:47:32,000 --> 00:47:36,000
+now I'm really intrigued of what does
+
+1217
+00:47:34,000 --> 00:47:38,000
+this look like in you know the the
+
+1218
+00:47:36,000 --> 00:47:40,000
+actual education space for kids growing
+
+1219
+00:47:38,000 --> 00:47:42,000
+up but I think even as adults anything
+
+1220
+00:47:41,000 --> 00:47:45,000
+we want to learn how to do allowing you
+
+1221
+00:47:44,000 --> 00:47:48,000
+know AI systems to be educational for us
+
+1222
+00:47:48,000 --> 00:47:52,000
+as humans is is a really fascinating use
+
+1223
+00:47:52,000 --> 00:47:56,000
+of this technology I love that that he's
+
+1224
+00:47:54,000 --> 00:47:58,000
+focused on that um a lot of the coding
+
+1225
+00:47:58,000 --> 00:48:02,000
+related stuff you mentioned Devon
+
+1226
+00:47:59,000 --> 00:48:03,000
+earlier I think that's like a super cool
+
+1227
+00:48:01,000 --> 00:48:05,000
+vision of the future the thing that I am
+
+1228
+00:48:03,000 --> 00:48:07,000
+Health Healthcare I I believe should be
+
+1229
+00:48:08,000 --> 00:48:12,000
+pretty transformed by this but the thing
+
+1230
+00:48:10,000 --> 00:48:14,000
+I'm personally most EXC yeah I just want
+
+1231
+00:48:12,000 --> 00:48:16,000
+to pause there so he said coding and
+
+1232
+00:48:14,000 --> 00:48:18,000
+Healthcare I'm very intrigued by both of
+
+1233
+00:48:16,000 --> 00:48:20,000
+these I've worked kind of in both of
+
+1234
+00:48:17,000 --> 00:48:21,000
+these spaces coding you know one of the
+
+1235
+00:48:19,000 --> 00:48:23,000
+things they they've often said is you
+
+1236
+00:48:22,000 --> 00:48:26,000
+know as these things come along we're
+
+1237
+00:48:23,000 --> 00:48:27,000
+going to just teach people how to code I
+
+1238
+00:48:25,000 --> 00:48:29,000
+think coding is actually going to become
+
+1239
+00:48:26,000 --> 00:48:30,000
+more of the least useful you know things
+
+1240
+00:48:28,000 --> 00:48:32,000
+to to know in the future because AI will
+
+1241
+00:48:31,000 --> 00:48:35,000
+code better than humans code that would
+
+1242
+00:48:33,000 --> 00:48:37,000
+be one of the first tasks I think that
+
+1243
+00:48:35,000 --> 00:48:39,000
+AI or is already one of the first tasks
+
+1244
+00:48:38,000 --> 00:48:42,000
+that that is being replaced by Ai and so
+
+1245
+00:48:41,000 --> 00:48:45,000
+why coding infrastructure software
+
+1246
+00:48:43,000 --> 00:48:47,000
+engineering is is still going to be
+
+1247
+00:48:45,000 --> 00:48:49,000
+critically important what direction we
+
+1248
+00:48:46,000 --> 00:48:50,000
+take it but the actual writing of code
+
+1249
+00:48:48,000 --> 00:48:52,000
+can be done so well by Ai and then the
+
+1250
+00:48:50,000 --> 00:48:54,000
+healthcare side of if you think about
+
+1251
+00:48:52,000 --> 00:48:56,000
+just even some of the scans the way AI
+
+1252
+00:48:55,000 --> 00:48:59,000
+could re scans could read our blood you
+
+1253
+00:48:59,000 --> 00:49:03,000
+know and we run things through computers
+
+1254
+00:49:01,000 --> 00:49:05,000
+already but it's going to go to another
+
+1255
+00:49:03,000 --> 00:49:07,000
+level of just learning and understanding
+
+1256
+00:49:05,000 --> 00:49:09,000
+health and wellness and basically being
+
+1257
+00:49:08,000 --> 00:49:12,000
+able to better give us insights of each
+
+1258
+00:49:10,000 --> 00:49:14,000
+of us individually what our bodies are
+
+1259
+00:49:12,000 --> 00:49:16,000
+needing and where deficiencies are and
+
+1260
+00:49:14,000 --> 00:49:18,000
+we've seen this even with like the Apple
+
+1261
+00:49:15,000 --> 00:49:19,000
+watch and some of the features that are
+
+1262
+00:49:17,000 --> 00:49:21,000
+available through new technologies but
+
+1263
+00:49:20,000 --> 00:49:24,000
+AI is going to be a big part of that and
+
+1264
+00:49:22,000 --> 00:49:26,000
+it's very exciting and I'm I'm really
+
+1265
+00:49:24,000 --> 00:49:28,000
+intrigued to see even with cancer
+
+1266
+00:49:25,000 --> 00:49:29,000
+research where a plays into that so huge
+
+1267
+00:49:28,000 --> 00:49:32,000
+opportunities there excited about is the
+
+1268
+00:49:31,000 --> 00:49:35,000
+sort of doing faster and better
+
+1269
+00:49:34,000 --> 00:49:38,000
+scientific discovery gp4 clearly not
+
+1270
+00:49:37,000 --> 00:49:41,000
+there in a big way although maybe it
+
+1271
+00:49:38,000 --> 00:49:42,000
+accelerates things a little bit by
+
+1272
+00:49:39,000 --> 00:49:43,000
+making scientists more
+
+1273
+00:49:41,000 --> 00:49:45,000
+productive but Alpha 43 yeah that's like
+
+1274
+00:49:46,000 --> 00:49:50,000
+but Sam that will be a Triumph those are
+
+1275
+00:49:50,000 --> 00:49:54,000
+not like these these models are trained
+
+1276
+00:49:55,000 --> 00:49:59,000
+and built differently than the language
+
+1277
+00:49:58,000 --> 00:50:02,000
+models I mean to some obviously there's
+
+1278
+00:50:00,000 --> 00:50:04,000
+a lot that's similar but there's a lot
+
+1279
+00:50:02,000 --> 00:50:06,000
+um there's kind of a groundup
+
+1280
+00:50:04,000 --> 00:50:08,000
+architecture to a lot of these models
+
+1281
+00:50:05,000 --> 00:50:09,000
+that are being applied to these specific
+
+1282
+00:50:07,000 --> 00:50:11,000
+problem sets these specific applications
+
+1283
+00:50:10,000 --> 00:50:14,000
+like chemistry interaction modeling for
+
+1284
+00:50:13,000 --> 00:50:17,000
+example does you you'll need some of
+
+1285
+00:50:16,000 --> 00:50:20,000
+that for sure but the the thing that I
+
+1286
+00:50:17,000 --> 00:50:21,000
+think we're missing across the board
+
+1287
+00:50:20,000 --> 00:50:24,000
+from many of these things we've been
+
+1288
+00:50:21,000 --> 00:50:25,000
+talking about is models that can do
+
+1289
+00:50:23,000 --> 00:50:27,000
+reasoning and once you have reasoning
+
+1290
+00:50:25,000 --> 00:50:29,000
+you can connect it to chemistry
+
+1291
+00:50:27,000 --> 00:50:31,000
+simulators or I guess yeah that's the
+
+1292
+00:50:29,000 --> 00:50:33,000
+important question I I wanted to kind of
+
+1293
+00:50:31,000 --> 00:50:35,000
+talk about today was this idea
+
+1294
+00:50:34,000 --> 00:50:38,000
+of networks of models people talk a lot
+
+1295
+00:50:37,000 --> 00:50:41,000
+about agents as if there's kind of this
+
+1296
+00:50:40,000 --> 00:50:44,000
+linear set of call functions that happen
+
+1297
+00:50:43,000 --> 00:50:47,000
+but one of the things that
+
+1298
+00:50:45,000 --> 00:50:49,000
+arises in biology is networks of systems
+
+1299
+00:50:49,000 --> 00:50:53,000
+that have cross interactions that the
+
+1300
+00:50:52,000 --> 00:50:56,000
+aggregation of the system the
+
+1301
+00:50:54,000 --> 00:50:58,000
+aggregation of the network produces an
+
+1302
+00:50:56,000 --> 00:51:00,000
+output rather than one thing calling
+
+1303
+00:50:58,000 --> 00:51:02,000
+another that thing calling another do we
+
+1304
+00:51:00,000 --> 00:51:04,000
+see like an emergence in this
+
+1305
+00:51:02,000 --> 00:51:06,000
+architecture of either specialized
+
+1306
+00:51:03,000 --> 00:51:07,000
+models or network models that work
+
+1307
+00:51:05,000 --> 00:51:09,000
+together to address bigger problem sets
+
+1308
+00:51:08,000 --> 00:51:12,000
+use reasoning there's computational
+
+1309
+00:51:10,000 --> 00:51:14,000
+models that do things like chemistry or
+
+1310
+00:51:12,000 --> 00:51:16,000
+arithmetic and there's other models that
+
+1311
+00:51:13,000 --> 00:51:17,000
+do rather than one model to rule them
+
+1312
+00:51:16,000 --> 00:51:20,000
+all that's purely
+
+1313
+00:51:19,000 --> 00:51:23,000
+generalized I don't know
+
+1314
+00:51:24,000 --> 00:51:28,000
+um I don't know how much reasoning
+
+1315
+00:51:28,000 --> 00:51:32,000
+is going to turn out to be a super
+
+1316
+00:51:30,000 --> 00:51:34,000
+generalizable thing I suspect it will
+
+1317
+00:51:32,000 --> 00:51:36,000
+but that's more just like an intuition
+
+1318
+00:51:34,000 --> 00:51:38,000
+and a hope and it would be nice if it
+
+1319
+00:51:36,000 --> 00:51:40,000
+worked out that way I I don't know if
+
+1320
+00:51:38,000 --> 00:51:42,000
+that's
+
+1321
+00:51:41,000 --> 00:51:45,000
+like but let's walk through the the
+
+1322
+00:51:43,000 --> 00:51:47,000
+protein modeling
+
+1323
+00:51:45,000 --> 00:51:49,000
+example there's a bunch of training data
+
+1324
+00:51:48,000 --> 00:51:52,000
+images of proteins and then sequence
+
+1325
+00:51:51,000 --> 00:51:55,000
+data and they build a model predictive
+
+1326
+00:51:53,000 --> 00:51:57,000
+model and they have a set of processes
+
+1327
+00:51:54,000 --> 00:51:58,000
+and steps for doing that do Envision
+
+1328
+00:51:57,000 --> 00:52:01,000
+that there's this artificial general
+
+1329
+00:52:00,000 --> 00:52:04,000
+intelligence or this great reasoning
+
+1330
+00:52:01,000 --> 00:52:05,000
+model that then figures out how to build
+
+1331
+00:52:03,000 --> 00:52:07,000
+that sub model that figures out how to
+
+1332
+00:52:04,000 --> 00:52:08,000
+solve that problem by acquiring the
+
+1333
+00:52:06,000 --> 00:52:10,000
+necessary data and then resolving
+
+1334
+00:52:09,000 --> 00:52:13,000
+there's so many ways where that could go
+
+1335
+00:52:11,000 --> 00:52:15,000
+like maybe it is it trains a literal
+
+1336
+00:52:13,000 --> 00:52:17,000
+model for it or maybe it just like knows
+
+1337
+00:52:16,000 --> 00:52:20,000
+the one big model what it can like go
+
+1338
+00:52:18,000 --> 00:52:22,000
+pick what other training data it needs
+
+1339
+00:52:20,000 --> 00:52:24,000
+and ask a question and then update on
+
+1340
+00:52:21,000 --> 00:52:25,000
+that um I guess the real question is are
+
+1341
+00:52:25,000 --> 00:52:29,000
+all these startups going to die because
+
+1342
+00:52:26,000 --> 00:52:30,000
+so many startups are I I just want to
+
+1343
+00:52:29,000 --> 00:52:33,000
+jump in here as we think about where
+
+1344
+00:52:31,000 --> 00:52:35,000
+this technology is going you can hear
+
+1345
+00:52:33,000 --> 00:52:37,000
+you know the these wheels spinning among
+
+1346
+00:52:35,000 --> 00:52:39,000
+the these different leaders and and I
+
+1347
+00:52:38,000 --> 00:52:42,000
+think this is like early days of the
+
+1348
+00:52:40,000 --> 00:52:44,000
+internet is who like one we didn't even
+
+1349
+00:52:42,000 --> 00:52:46,000
+know about a phone that was going to
+
+1350
+00:52:44,000 --> 00:52:48,000
+come or we we couldn't have predicted
+
+1351
+00:52:47,000 --> 00:52:51,000
+highspeed internet and that you know our
+
+1352
+00:52:49,000 --> 00:52:53,000
+televisions would now be all connected
+
+1353
+00:52:50,000 --> 00:52:54,000
+to the internet and all the TV we'd
+
+1354
+00:52:52,000 --> 00:52:56,000
+watch would be on the internet and we'd
+
+1355
+00:52:53,000 --> 00:52:57,000
+have a mobile device that we use for our
+
+1356
+00:52:56,000 --> 00:53:00,000
+camera camera and we watch you know
+
+1357
+00:52:58,000 --> 00:53:02,000
+videos on and we use to Uber a car or
+
+1358
+00:53:02,000 --> 00:53:06,000
+deliver food or pay our bills and
+
+1359
+00:53:04,000 --> 00:53:08,000
+deposit checks and all the things that
+
+1360
+00:53:07,000 --> 00:53:11,000
+our phones do today with the internet
+
+1361
+00:53:10,000 --> 00:53:14,000
+and so it's kind of this innovation of
+
+1362
+00:53:12,000 --> 00:53:16,000
+hardware and software that has made our
+
+1363
+00:53:16,000 --> 00:53:20,000
+lives better in a lot of ways and more
+
+1364
+00:53:18,000 --> 00:53:22,000
+accessible and simultaneously I think we
+
+1365
+00:53:21,000 --> 00:53:25,000
+we can agree that there's been aspects
+
+1366
+00:53:22,000 --> 00:53:26,000
+of the addictiveness of social media and
+
+1367
+00:53:26,000 --> 00:53:30,000
+just screen use that has been
+
+1368
+00:53:28,000 --> 00:53:32,000
+problematic too to society and so we're
+
+1369
+00:53:32,000 --> 00:53:36,000
+we're in this day of like we can see
+
+1370
+00:53:35,000 --> 00:53:39,000
+what's developing and and beginning to
+
+1371
+00:53:37,000 --> 00:53:41,000
+connect dots of now we can do this or
+
+1372
+00:53:39,000 --> 00:53:43,000
+now we can unlock this and now and so it
+
+1373
+00:53:43,000 --> 00:53:47,000
+it simultaneously there's some
+
+1374
+00:53:44,000 --> 00:53:48,000
+complexities we have to be thinking
+
+1375
+00:53:46,000 --> 00:53:50,000
+about but there's also just all of these
+
+1376
+00:53:48,000 --> 00:53:52,000
+potential new opportunities and I think
+
+1377
+00:53:51,000 --> 00:53:55,000
+this is where there's such a unique
+
+1378
+00:53:52,000 --> 00:53:56,000
+opportunity for leaders is when when you
+
+1379
+00:53:56,000 --> 00:54:00,000
+you have to understand what this is and
+
+1380
+00:53:59,000 --> 00:54:03,000
+and functionally how it works but then
+
+1381
+00:54:01,000 --> 00:54:05,000
+when you can begin to connect those dots
+
+1382
+00:54:03,000 --> 00:54:07,000
+to your mission and what you're doing
+
+1383
+00:54:06,000 --> 00:54:10,000
+and and I think the other side of it is
+
+1384
+00:54:08,000 --> 00:54:12,000
+we also have to part of our reaction can
+
+1385
+00:54:11,000 --> 00:54:15,000
+be well this is going to cost people
+
+1386
+00:54:15,000 --> 00:54:19,000
+like what what are they going to do
+
+1387
+00:54:16,000 --> 00:54:20,000
+anymore what are they going to do or you
+
+1388
+00:54:17,000 --> 00:54:21,000
+know and and and the reality is is every
+
+1389
+00:54:20,000 --> 00:54:24,000
+entity even pre- internet you know
+
+1390
+00:54:23,000 --> 00:54:27,000
+there's things that ways that we
+
+1391
+00:54:24,000 --> 00:54:28,000
+communicate we sent out Direct Mail we
+
+1392
+00:54:26,000 --> 00:54:30,000
+did manual phone calls and then we used
+
+1393
+00:54:27,000 --> 00:54:31,000
+email and then we you know moved to text
+
+1394
+00:54:29,000 --> 00:54:33,000
+messaging and and so we we have
+
+1395
+00:54:32,000 --> 00:54:36,000
+different ways that we do things and we
+
+1396
+00:54:35,000 --> 00:54:39,000
+are going to adapt adapting to this
+
+1397
+00:54:38,000 --> 00:54:42,000
+Innovation is going to be such a an
+
+1398
+00:54:41,000 --> 00:54:45,000
+important issue for us as Leaders to
+
+1399
+00:54:44,000 --> 00:54:48,000
+adapt within our organizations but I
+
+1400
+00:54:46,000 --> 00:54:50,000
+think we need to not just think about
+
+1401
+00:54:48,000 --> 00:54:52,000
+how we're going to react to to some of
+
+1402
+00:54:51,000 --> 00:54:55,000
+the the adjustments that are going to be
+
+1403
+00:54:53,000 --> 00:54:57,000
+need to made but how are we going to
+
+1404
+00:54:55,000 --> 00:54:59,000
+need to lean into the opportunities that
+
+1405
+00:54:58,000 --> 00:55:02,000
+are now going to be created I think
+
+1406
+00:54:59,000 --> 00:55:03,000
+that's where we we can really get into
+
+1407
+00:55:02,000 --> 00:55:06,000
+some exciting potential with this and so
+
+1408
+00:55:05,000 --> 00:55:09,000
+yeah I I think I I hope your wheels are
+
+1409
+00:55:08,000 --> 00:55:12,000
+spinning like theirs are around some
+
+1410
+00:55:10,000 --> 00:55:14,000
+just ideas of when you really think
+
+1411
+00:55:12,000 --> 00:55:16,000
+about this innovation of Intelligence
+
+1412
+00:55:15,000 --> 00:55:19,000
+being created and how that can be
+
+1413
+00:55:17,000 --> 00:55:21,000
+utilized within our organizations
+
+1414
+00:55:20,000 --> 00:55:24,000
+working in map modality which is go get
+
+1415
+00:55:21,000 --> 00:55:25,000
+special data and then train a new model
+
+1416
+00:55:24,000 --> 00:55:28,000
+on that special data from the ground up
+
+1417
+00:55:26,000 --> 00:55:30,000
+and then it only does that one sort of
+
+1418
+00:55:27,000 --> 00:55:31,000
+thing and it works really well at that
+
+1419
+00:55:30,000 --> 00:55:34,000
+one thing and it works better than
+
+1420
+00:55:31,000 --> 00:55:35,000
+anything else at that one thing you know
+
+1421
+00:55:32,000 --> 00:55:36,000
+there there's like a version of this I
+
+1422
+00:55:35,000 --> 00:55:39,000
+think you can
+
+1423
+00:55:37,000 --> 00:55:41,000
+like already see when you were when you
+
+1424
+00:55:40,000 --> 00:55:44,000
+were talking about like biology and
+
+1425
+00:55:41,000 --> 00:55:45,000
+these complicated networks of systems
+
+1426
+00:55:43,000 --> 00:55:47,000
+the reason I was sming I I got super
+
+1427
+00:55:45,000 --> 00:55:49,000
+sick recently and I'm mostly better now
+
+1428
+00:55:48,000 --> 00:55:52,000
+but it was just like body like got beat
+
+1429
+00:55:50,000 --> 00:55:54,000
+up like one system at a time F like you
+
+1430
+00:55:52,000 --> 00:55:56,000
+can really tell like okay it's this
+
+1431
+00:55:54,000 --> 00:55:58,000
+cascading thing and uh and that reminded
+
+1432
+00:55:58,000 --> 00:56:02,000
+me of you like talking about the like
+
+1433
+00:55:59,000 --> 00:56:03,000
+biology is just these like you have no
+
+1434
+00:56:01,000 --> 00:56:05,000
+idea how much these systems interact
+
+1435
+00:56:02,000 --> 00:56:06,000
+with each other until things start going
+
+1436
+00:56:04,000 --> 00:56:08,000
+wrong and that was sort of like
+
+1437
+00:56:05,000 --> 00:56:09,000
+interesting to see but I was using
+
+1438
+00:56:09,000 --> 00:56:13,000
+um I was like using chat GPT uh to try
+
+1439
+00:56:12,000 --> 00:56:16,000
+to like figure out like what was
+
+1440
+00:56:14,000 --> 00:56:18,000
+happening whatever and and would say
+
+1441
+00:56:16,000 --> 00:56:20,000
+well I'm you know unsure of this one
+
+1442
+00:56:18,000 --> 00:56:22,000
+thing and then I just like posted a
+
+1443
+00:56:20,000 --> 00:56:24,000
+paper on it without even reading the
+
+1444
+00:56:22,000 --> 00:56:26,000
+paper um like in the context and it says
+
+1445
+00:56:24,000 --> 00:56:28,000
+oh that was the thing I was unsure of
+
+1446
+00:56:25,000 --> 00:56:29,000
+like I think this instead so there's
+
+1447
+00:56:28,000 --> 00:56:32,000
+like a that was like a small version of
+
+1448
+00:56:30,000 --> 00:56:34,000
+what you're talking about where you can
+
+1449
+00:56:32,000 --> 00:56:36,000
+like can say this I don't I don't know
+
+1450
+00:56:35,000 --> 00:56:39,000
+this thing you can put more information
+
+1451
+00:56:36,000 --> 00:56:40,000
+you don't retrain the model you're just
+
+1452
+00:56:37,000 --> 00:56:41,000
+adding it to the context here and now
+
+1453
+00:56:39,000 --> 00:56:43,000
+you're getting them so these models that
+
+1454
+00:56:41,000 --> 00:56:45,000
+are predicting protein structure like
+
+1455
+00:56:44,000 --> 00:56:48,000
+let's say right this is the whole basis
+
+1456
+00:56:45,000 --> 00:56:49,000
+and now now other molecules and Alpha
+
+1457
+00:56:49,000 --> 00:56:53,000
+3 can they can yeah I mean is it
+
+1458
+00:56:53,000 --> 00:56:57,000
+basically a world where the best
+
+1459
+00:56:55,000 --> 00:56:59,000
+generalized model goes in and gets that
+
+1460
+00:56:57,000 --> 00:57:01,000
+training data and then figures out on
+
+1461
+00:56:59,000 --> 00:57:03,000
+its own and maybe you could maybe you
+
+1462
+00:57:02,000 --> 00:57:06,000
+could use an example for us can you tell
+
+1463
+00:57:03,000 --> 00:57:07,000
+us about Sora your video model that
+
+1464
+00:57:05,000 --> 00:57:09,000
+generates amazing moving images moving
+
+1465
+00:57:08,000 --> 00:57:12,000
+video and and what's different about the
+
+1466
+00:57:11,000 --> 00:57:15,000
+architecture there whatever you're
+
+1467
+00:57:12,000 --> 00:57:16,000
+willing to share on how how that is
+
+1468
+00:57:15,000 --> 00:57:19,000
+different yeah so my on the general
+
+1469
+00:57:18,000 --> 00:57:22,000
+thing first
+
+1470
+00:57:22,000 --> 00:57:26,000
+my you clearly will need special
+
+1471
+00:57:27,000 --> 00:57:31,000
+ized simulators connectors pieces of
+
+1472
+00:57:30,000 --> 00:57:34,000
+data whatever but my
+
+1473
+00:57:34,000 --> 00:57:38,000
+intuition and again I don't have this
+
+1474
+00:57:35,000 --> 00:57:39,000
+like backed up with science my intuition
+
+1475
+00:57:37,000 --> 00:57:41,000
+would be if we can figure out the core
+
+1476
+00:57:39,000 --> 00:57:43,000
+of generalized reasoning connecting that
+
+1477
+00:57:42,000 --> 00:57:46,000
+to new problem domains in the same way
+
+1478
+00:57:44,000 --> 00:57:48,000
+that humans are generalized
+
+1479
+00:57:47,000 --> 00:57:51,000
+reasoners would I think be be doable
+
+1480
+00:57:50,000 --> 00:57:54,000
+it's like a fast unlock faster unlock
+
+1481
+00:57:52,000 --> 00:57:56,000
+than I think I I think so um
+
+1482
+00:57:59,000 --> 00:58:03,000
+but yeah you Sora like does not start
+
+1483
+00:58:01,000 --> 00:58:05,000
+with a language model um it's that
+
+1484
+00:58:03,000 --> 00:58:07,000
+that's a model that is like customized
+
+1485
+00:58:05,000 --> 00:58:09,000
+to do video uh and and so like we're
+
+1486
+00:58:10,000 --> 00:58:14,000
+clearly not at that world yet right so
+
+1487
+00:58:12,000 --> 00:58:16,000
+you guys so just as an example for you
+
+1488
+00:58:14,000 --> 00:58:18,000
+guys to build a good video model you
+
+1489
+00:58:17,000 --> 00:58:21,000
+built it from scratch using I'm assuming
+
+1490
+00:58:20,000 --> 00:58:24,000
+some different architecture and
+
+1491
+00:58:22,000 --> 00:58:26,000
+different data but in the future The
+
+1492
+00:58:25,000 --> 00:58:29,000
+General generalized reasoning system the
+
+1493
+00:58:28,000 --> 00:58:32,000
+AGI whatever system thetically could
+
+1494
+00:58:31,000 --> 00:58:35,000
+render that by figuring out how to do it
+
+1495
+00:58:34,000 --> 00:58:38,000
+yeah I mean one example of this is like
+
+1496
+00:58:36,000 --> 00:58:40,000
+okay you know as far as I know all the
+
+1497
+00:58:38,000 --> 00:58:42,000
+best text models in the world are still
+
+1498
+00:58:40,000 --> 00:58:44,000
+Auto regressive models and the best
+
+1499
+00:58:42,000 --> 00:58:46,000
+image and video models are diffusion
+
+1500
+00:58:44,000 --> 00:58:48,000
+models and that's like sort of strange
+
+1501
+00:58:46,000 --> 00:58:50,000
+in some sense yeah yeah so there's s
+
+1502
+00:58:51,000 --> 00:58:55,000
+want to speak to this real quick and
+
+1503
+00:58:52,000 --> 00:58:56,000
+what he's kind of saying is when you get
+
+1504
+00:58:54,000 --> 00:58:58,000
+to AGI you know artificial general
+
+1505
+00:58:57,000 --> 00:59:01,000
+intelligence is the word that's used
+
+1506
+00:58:59,000 --> 00:59:03,000
+here a lot this is what scares a lot of
+
+1507
+00:59:01,000 --> 00:59:05,000
+people is basically this is when it
+
+1508
+00:59:03,000 --> 00:59:07,000
+becomes smarter than humans and when
+
+1509
+00:59:07,000 --> 00:59:11,000
+when you get there essentially if the
+
+1510
+00:59:11,000 --> 00:59:15,000
+you know the the intelligence doesn't
+
+1511
+00:59:13,000 --> 00:59:17,000
+yet know how to do something it
+
+1512
+00:59:15,000 --> 00:59:19,000
+basically goes and says then I'm going
+
+1513
+00:59:17,000 --> 00:59:21,000
+to tell myself to go and learn how to do
+
+1514
+00:59:20,000 --> 00:59:24,000
+that and so you almost teach it how to
+
+1515
+00:59:22,000 --> 00:59:26,000
+learn and then when it learns how to
+
+1516
+00:59:24,000 --> 00:59:28,000
+learn that it learn you know and it and
+
+1517
+00:59:26,000 --> 00:59:30,000
+so this is how it just keeps learning is
+
+1518
+00:59:29,000 --> 00:59:33,000
+it in many ways it learns how to learn
+
+1519
+00:59:33,000 --> 00:59:37,000
+and and just mindblowing how this will
+
+1520
+00:59:36,000 --> 00:59:40,000
+work and and honestly just how smart
+
+1521
+00:59:40,000 --> 00:59:44,000
+these intelligence
+
+1522
+00:59:42,000 --> 00:59:46,000
+models can and will become and and I
+
+1523
+00:59:45,000 --> 00:59:49,000
+think this is where you know for many
+
+1524
+00:59:47,000 --> 00:59:51,000
+people it gets scary to think about but
+
+1525
+00:59:49,000 --> 00:59:53,000
+yeah pretty pretty heavy you know he
+
+1526
+00:59:52,000 --> 00:59:56,000
+stuff to think about the big debate
+
+1527
+00:59:54,000 --> 00:59:58,000
+about uh training data you guys have
+
+1528
+00:59:57,000 --> 01:00:01,000
+been I think the most thoughtful of any
+
+1529
+00:59:59,000 --> 01:00:03,000
+company you've got licensing deals now
+
+1530
+01:00:01,000 --> 01:00:05,000
+ft Etc and uh we got I guess be gentle
+
+1531
+01:00:05,000 --> 01:00:09,000
+here because you're involved in a New
+
+1532
+01:00:07,000 --> 01:00:11,000
+York Times lawsuit you weren't able to
+
+1533
+01:00:08,000 --> 01:00:12,000
+settle I guess an arrangement with them
+
+1534
+01:00:10,000 --> 01:00:14,000
+for training data how do you think about
+
+1535
+01:00:14,000 --> 01:00:18,000
+fairness in fair
+
+1536
+01:00:16,000 --> 01:00:20,000
+use we've had big debates here on the
+
+1537
+01:00:19,000 --> 01:00:23,000
+Pod obviously your actions are you know
+
+1538
+01:00:22,000 --> 01:00:26,000
+speak volumes that you're trying to be
+
+1539
+01:00:24,000 --> 01:00:28,000
+fair by doing licensing deals so what
+
+1540
+01:00:26,000 --> 01:00:30,000
+what's your personal position on the
+
+1541
+01:00:29,000 --> 01:00:33,000
+rights of artists who create beautiful
+
+1542
+01:00:32,000 --> 01:00:36,000
+music lyrics books and you taking that
+
+1543
+01:00:36,000 --> 01:00:40,000
+and then making a derivative product out
+
+1544
+01:00:38,000 --> 01:00:42,000
+of it and and then monetizing it and and
+
+1545
+01:00:41,000 --> 01:00:45,000
+what's fair here and how do we get to a
+
+1546
+01:00:43,000 --> 01:00:47,000
+world where you know artists can make
+
+1547
+01:00:46,000 --> 01:00:50,000
+content in the world and then decide
+
+1548
+01:00:48,000 --> 01:00:52,000
+what they want other people to do with
+
+1549
+01:00:50,000 --> 01:00:54,000
+it yeah and and I'm just TR to your
+
+1550
+01:00:52,000 --> 01:00:56,000
+personal belief because I know you to be
+
+1551
+01:00:54,000 --> 01:00:58,000
+a thoughtful person on this and I know a
+
+1552
+01:00:55,000 --> 01:00:59,000
+lot of other people in our industry are
+
+1553
+01:00:58,000 --> 01:01:02,000
+not very thoughtful about how they think
+
+1554
+01:01:00,000 --> 01:01:04,000
+about content
+
+1555
+01:01:01,000 --> 01:01:05,000
+creators so I think it's very different
+
+1556
+01:01:04,000 --> 01:01:08,000
+for different kinds of I mean look on
+
+1557
+01:01:05,000 --> 01:01:09,000
+unfair use I think we have a a very
+
+1558
+01:01:07,000 --> 01:01:11,000
+reasonable position under the current
+
+1559
+01:01:10,000 --> 01:01:14,000
+law but I think AI is so different that
+
+1560
+01:01:13,000 --> 01:01:17,000
+for things like art we'll need to think
+
+1561
+01:01:14,000 --> 01:01:18,000
+about them in different ways but I would
+
+1562
+01:01:17,000 --> 01:01:21,000
+say if you go read a bunch of math on
+
+1563
+01:01:21,000 --> 01:01:25,000
+the internet and learn how to do math
+
+1564
+01:01:25,000 --> 01:01:29,000
+that
+
+1565
+01:01:26,000 --> 01:01:30,000
+I think seems unobjectionable to most
+
+1566
+01:01:29,000 --> 01:01:33,000
+people and then there's like you know
+
+1567
+01:01:30,000 --> 01:01:34,000
+another set of people who might have a
+
+1568
+01:01:31,000 --> 01:01:35,000
+different opinion well what if you
+
+1569
+01:01:37,000 --> 01:01:41,000
+like actually let me not get into that
+
+1570
+01:01:39,000 --> 01:01:43,000
+just in interest of not making this
+
+1571
+01:01:40,000 --> 01:01:44,000
+answer too long so I think there's like
+
+1572
+01:01:41,000 --> 01:01:45,000
+one category people are like okay
+
+1573
+01:01:42,000 --> 01:01:46,000
+there's like generalized human knowledge
+
+1574
+01:01:45,000 --> 01:01:49,000
+you can kind of like go if you learn
+
+1575
+01:01:48,000 --> 01:01:52,000
+that like that's that that's like open
+
+1576
+01:01:50,000 --> 01:01:54,000
+domain or something if you kind of go
+
+1577
+01:01:52,000 --> 01:01:56,000
+learn about the Pythagorean theorem um
+
+1578
+01:01:55,000 --> 01:01:59,000
+that one end of the spectrum and then I
+
+1579
+01:01:57,000 --> 01:02:01,000
+think the other extreme end of the
+
+1580
+01:01:58,000 --> 01:02:02,000
+spectrum is um is Art and maybe even
+
+1581
+01:02:03,000 --> 01:02:07,000
+like more than more specifically I would
+
+1582
+01:02:06,000 --> 01:02:10,000
+say it's like
+
+1583
+01:02:07,000 --> 01:02:11,000
+doing it's a system generating art in
+
+1584
+01:02:10,000 --> 01:02:14,000
+the style or the likeness of another
+
+1585
+01:02:13,000 --> 01:02:17,000
+artist um would be kind of the furthest
+
+1586
+01:02:15,000 --> 01:02:19,000
+end of
+
+1587
+01:02:16,000 --> 01:02:20,000
+that and then there's many many cases on
+
+1588
+01:02:19,000 --> 01:02:23,000
+the Spectrum in between
+
+1589
+01:02:22,000 --> 01:02:26,000
+uh I think the conversation has been
+
+1590
+01:02:25,000 --> 01:02:29,000
+historically caught up on training data
+
+1591
+01:02:28,000 --> 01:02:32,000
+but it will increasingly become more
+
+1592
+01:02:30,000 --> 01:02:34,000
+about what happens at inference time as
+
+1593
+01:02:33,000 --> 01:02:37,000
+training data
+
+1594
+01:02:35,000 --> 01:02:39,000
+becomes less valuable and the what the
+
+1595
+01:02:40,000 --> 01:02:44,000
+system does accessing you know
+
+1596
+01:02:43,000 --> 01:02:47,000
+information in in context in real time
+
+1597
+01:02:47,000 --> 01:02:51,000
+or uh you know taking like like
+
+1598
+01:02:50,000 --> 01:02:54,000
+something like that what happens at
+
+1599
+01:02:51,000 --> 01:02:55,000
+inference time will become more debated
+
+1600
+01:02:53,000 --> 01:02:57,000
+and and how the what the new econom IC
+
+1601
+01:02:56,000 --> 01:03:00,000
+model is there so if you say like
+
+1602
+01:03:00,000 --> 01:03:04,000
+uh song in this in the style of Taylor
+
+1603
+01:03:05,000 --> 01:03:09,000
+Swift even if the model were never
+
+1604
+01:03:07,000 --> 01:03:11,000
+trained on any Taylor Swift songs at all
+
+1605
+01:03:10,000 --> 01:03:14,000
+you can still have a problem which is it
+
+1606
+01:03:12,000 --> 01:03:16,000
+may have read about Taylor Swift it may
+
+1607
+01:03:13,000 --> 01:03:17,000
+know about her themes Taylor Swift means
+
+1608
+01:03:15,000 --> 01:03:19,000
+something and then and then the question
+
+1609
+01:03:18,000 --> 01:03:22,000
+is like should that model even if it
+
+1610
+01:03:20,000 --> 01:03:24,000
+were never trained on any Taylor Swift
+
+1611
+01:03:21,000 --> 01:03:25,000
+song whatsoever be allowed to do that
+
+1612
+01:03:24,000 --> 01:03:28,000
+and if so um how should Taylor get paid
+
+1613
+01:03:29,000 --> 01:03:33,000
+right so I think this this is so
+
+1614
+01:03:31,000 --> 01:03:35,000
+interesting and and a big debate and I
+
+1615
+01:03:33,000 --> 01:03:37,000
+don't live in in this world so much but
+
+1616
+01:03:36,000 --> 01:03:40,000
+but I think about as you think about
+
+1617
+01:03:38,000 --> 01:03:42,000
+this being intelligence that that there
+
+1618
+01:03:41,000 --> 01:03:45,000
+is this complexity of you know
+
+1619
+01:03:44,000 --> 01:03:48,000
+practically any artist that is creating
+
+1620
+01:03:46,000 --> 01:03:50,000
+something has been inspired by other
+
+1621
+01:03:48,000 --> 01:03:52,000
+artists to develop their art and
+
+1622
+01:03:50,000 --> 01:03:54,000
+essentially what these intelligence
+
+1623
+01:03:52,000 --> 01:03:56,000
+models that are already creating art
+
+1624
+01:03:54,000 --> 01:03:58,000
+they can create graphics or if you ask
+
+1625
+01:03:56,000 --> 01:04:00,000
+chat G to write you a poem about red
+
+1626
+01:03:59,000 --> 01:04:03,000
+roses it will write you a poem about red
+
+1627
+01:04:01,000 --> 01:04:05,000
+roses and and it's pretty good and then
+
+1628
+01:04:04,000 --> 01:04:08,000
+that was created based on just
+
+1629
+01:04:06,000 --> 01:04:10,000
+inspiration from other poems that
+
+1630
+01:04:07,000 --> 01:04:11,000
+historically been created and the
+
+1631
+01:04:09,000 --> 01:04:13,000
+intelligence these systems have gained
+
+1632
+01:04:11,000 --> 01:04:15,000
+from things like that and so it really
+
+1633
+01:04:14,000 --> 01:04:18,000
+is complicated as we think about what
+
+1634
+01:04:17,000 --> 01:04:21,000
+the future of Art and even films will be
+
+1635
+01:04:20,000 --> 01:04:24,000
+you could have it in the future just say
+
+1636
+01:04:21,000 --> 01:04:25,000
+hey create a cartoon about this and this
+
+1637
+01:04:25,000 --> 01:04:29,000
+you know you know and these AI systems
+
+1638
+01:04:27,000 --> 01:04:31,000
+will be able to generate this art for
+
+1639
+01:04:30,000 --> 01:04:34,000
+you and and I think this is going to be
+
+1640
+01:04:33,000 --> 01:04:37,000
+a big question into the future of I
+
+1641
+01:04:35,000 --> 01:04:39,000
+think some of the questions are what
+
+1642
+01:04:36,000 --> 01:04:40,000
+what should and what from a consumption
+
+1643
+01:04:38,000 --> 01:04:42,000
+standpoint do we want to consume things
+
+1644
+01:04:40,000 --> 01:04:44,000
+that were created by AI or do we really
+
+1645
+01:04:42,000 --> 01:04:46,000
+want to guard you know art in in certain
+
+1646
+01:04:46,000 --> 01:04:50,000
+ways or different mediums so yeah it's
+
+1647
+01:04:50,000 --> 01:04:54,000
+really really fascinating uh to to begin
+
+1648
+01:04:52,000 --> 01:04:56,000
+to think about there's an opt-in opt out
+
+1649
+01:04:54,000 --> 01:04:58,000
+in that case first of all and there's an
+
+1650
+01:04:56,000 --> 01:05:00,000
+economic model um staying on the music
+
+1651
+01:04:58,000 --> 01:05:02,000
+example there is something interesting
+
+1652
+01:05:00,000 --> 01:05:04,000
+to look at from the historical
+
+1653
+01:05:03,000 --> 01:05:07,000
+perspective here which is uh sampling
+
+1654
+01:05:05,000 --> 01:05:09,000
+and how the economics around that work
+
+1655
+01:05:07,000 --> 01:05:11,000
+this is not quite the same thing but
+
+1656
+01:05:09,000 --> 01:05:13,000
+it's like an interesting place to start
+
+1657
+01:05:10,000 --> 01:05:14,000
+looking Sam let me just challenge that
+
+1658
+01:05:12,000 --> 01:05:16,000
+what's the difference in the example
+
+1659
+01:05:14,000 --> 01:05:18,000
+you're giving of the model learning
+
+1660
+01:05:16,000 --> 01:05:20,000
+about things like song structure Tempo
+
+1661
+01:05:20,000 --> 01:05:24,000
+Melody Harmony relationships all the
+
+1662
+01:05:23,000 --> 01:05:27,000
+discovering all the underlying structure
+
+1663
+01:05:24,000 --> 01:05:28,000
+that makes music successful and then
+
+1664
+01:05:27,000 --> 01:05:31,000
+building new music using training data
+
+1665
+01:05:30,000 --> 01:05:34,000
+and what a human does that listens to
+
+1666
+01:05:32,000 --> 01:05:36,000
+lots of music learns about and and their
+
+1667
+01:05:35,000 --> 01:05:39,000
+brain is processing and building all
+
+1668
+01:05:37,000 --> 01:05:41,000
+those same sort of predictive models or
+
+1669
+01:05:39,000 --> 01:05:43,000
+those same sort of uh discoveries or
+
+1670
+01:05:42,000 --> 01:05:46,000
+understandings what's the difference
+
+1671
+01:05:43,000 --> 01:05:47,000
+here and why why are you making the case
+
+1672
+01:05:46,000 --> 01:05:50,000
+that perhaps artists should be uniquely
+
+1673
+01:05:50,000 --> 01:05:54,000
+paid this is not a sampling situation
+
+1674
+01:05:51,000 --> 01:05:55,000
+you're not the AI is not outputting and
+
+1675
+01:05:53,000 --> 01:05:57,000
+it's not storing in the model the actual
+
+1676
+01:05:55,000 --> 01:05:59,000
+ual original song learning structure
+
+1677
+01:05:58,000 --> 01:06:02,000
+right I wasn't trying to make that that
+
+1678
+01:06:00,000 --> 01:06:04,000
+point because I agree like in the same
+
+1679
+01:06:02,000 --> 01:06:06,000
+way that humans are inspired by other
+
+1680
+01:06:03,000 --> 01:06:07,000
+humans I was saying if you if you say
+
+1681
+01:06:06,000 --> 01:06:10,000
+generate me a song in the style of
+
+1682
+01:06:07,000 --> 01:06:11,000
+Taylor Swift I see right okay where the
+
+1683
+01:06:10,000 --> 01:06:14,000
+prompt leverages some artist I I think
+
+1684
+01:06:13,000 --> 01:06:17,000
+personally that's a different case would
+
+1685
+01:06:15,000 --> 01:06:19,000
+you be comfortable asking or would you
+
+1686
+01:06:18,000 --> 01:06:22,000
+be comfortable letting the model train
+
+1687
+01:06:20,000 --> 01:06:24,000
+itself well a music model being trained
+
+1688
+01:06:22,000 --> 01:06:26,000
+on the whole Corpus of music that humans
+
+1689
+01:06:24,000 --> 01:06:28,000
+have created without royalties being
+
+1690
+01:06:27,000 --> 01:06:31,000
+paid to the artists that um that music
+
+1691
+01:06:30,000 --> 01:06:34,000
+is being fed in and then you're not
+
+1692
+01:06:31,000 --> 01:06:35,000
+allowed to ask you know artists specific
+
+1693
+01:06:33,000 --> 01:06:37,000
+prompts you could just say hey pay me
+
+1694
+01:06:35,000 --> 01:06:39,000
+play me a a really cool pop song that's
+
+1695
+01:06:37,000 --> 01:06:41,000
+fairly modern about heartbreak you know
+
+1696
+01:06:39,000 --> 01:06:43,000
+with a female voice you know we we have
+
+1697
+01:06:42,000 --> 01:06:46,000
+currently made the decision not to do
+
+1698
+01:06:44,000 --> 01:06:48,000
+music and partly because exactly these
+
+1699
+01:06:47,000 --> 01:06:51,000
+questions of where you draw the lines
+
+1700
+01:06:48,000 --> 01:06:52,000
+and you know like
+
+1701
+01:06:51,000 --> 01:06:55,000
+even I was meeting with several
+
+1702
+01:06:54,000 --> 01:06:58,000
+musicians I really admire recently just
+
+1703
+01:06:55,000 --> 01:06:59,000
+trying to like talk about some of these
+
+1704
+01:06:56,000 --> 01:07:00,000
+edge cases but even the world in
+
+1705
+01:07:01,000 --> 01:07:05,000
+which if
+
+1706
+01:07:03,000 --> 01:07:07,000
+we went and let's say we paid 10,000
+
+1707
+01:07:07,000 --> 01:07:11,000
+musicians to create a bunch of music
+
+1708
+01:07:09,000 --> 01:07:13,000
+just to make a great training set where
+
+1709
+01:07:11,000 --> 01:07:15,000
+the music model could learn everything
+
+1710
+01:07:13,000 --> 01:07:17,000
+about strong song structure um
+
+1711
+01:07:17,000 --> 01:07:21,000
+and what makes a good catchy beat and
+
+1712
+01:07:21,000 --> 01:07:25,000
+everything else um and only trained on
+
+1713
+01:07:23,000 --> 01:07:27,000
+that let's say we could still make a
+
+1714
+01:07:24,000 --> 01:07:28,000
+great music model which may maybe we
+
+1715
+01:07:26,000 --> 01:07:30,000
+could um you know I was kind of like
+
+1716
+01:07:28,000 --> 01:07:32,000
+posing that as a thought experiment to
+
+1717
+01:07:29,000 --> 01:07:33,000
+musicians and they're like well I can't
+
+1718
+01:07:31,000 --> 01:07:35,000
+object to that on any principal basis at
+
+1719
+01:07:33,000 --> 01:07:37,000
+that point um and yet there's still
+
+1720
+01:07:35,000 --> 01:07:39,000
+something I don't like about it now
+
+1721
+01:07:36,000 --> 01:07:40,000
+that's not a reason not to do it um
+
+1722
+01:07:39,000 --> 01:07:43,000
+necessarily but it
+
+1723
+01:07:42,000 --> 01:07:46,000
+is did you see that ad that Apple put
+
+1724
+01:07:45,000 --> 01:07:49,000
+out maybe it was yesterday or something
+
+1725
+01:07:46,000 --> 01:07:50,000
+of like squishing all of human
+
+1726
+01:07:48,000 --> 01:07:52,000
+creativity down into one really thin
+
+1727
+01:07:49,000 --> 01:07:53,000
+iPad what was your take on
+
+1728
+01:07:51,000 --> 01:07:55,000
+it uh people got really emotional about
+
+1729
+01:07:54,000 --> 01:07:58,000
+it yeah yeah stronger reaction than you
+
+1730
+01:07:57,000 --> 01:08:01,000
+would think there's something
+
+1731
+01:08:02,000 --> 01:08:06,000
+about I'm obviously hugely positive on
+
+1732
+01:08:04,000 --> 01:08:08,000
+AI but there is something that I think
+
+1733
+01:08:07,000 --> 01:08:11,000
+is beautiful about human creativity and
+
+1734
+01:08:09,000 --> 01:08:13,000
+human artistic expression and you know
+
+1735
+01:08:12,000 --> 01:08:16,000
+for an AI that just does better science
+
+1736
+01:08:14,000 --> 01:08:18,000
+like great bring that on but an AI that
+
+1737
+01:08:16,000 --> 01:08:20,000
+is going to do this like deeply
+
+1738
+01:08:17,000 --> 01:08:21,000
+beautiful human creative expression I
+
+1739
+01:08:20,000 --> 01:08:24,000
+think we should like figure out it's
+
+1740
+01:08:23,000 --> 01:08:27,000
+going to happen it's going to be a tool
+
+1741
+01:08:26,000 --> 01:08:30,000
+I I I just I love you know and and you
+
+1742
+01:08:29,000 --> 01:08:33,000
+can hear his wrestle this is one of the
+
+1743
+01:08:31,000 --> 01:08:35,000
+things I love is it's not like you know
+
+1744
+01:08:33,000 --> 01:08:37,000
+what we just need to get over ourselves
+
+1745
+01:08:35,000 --> 01:08:39,000
+and you know like AI is going to just
+
+1746
+01:08:37,000 --> 01:08:41,000
+you know like we need to embrace all the
+
+1747
+01:08:39,000 --> 01:08:43,000
+great things it does and he's he's
+
+1748
+01:08:41,000 --> 01:08:45,000
+really sharing this very real wrestle
+
+1749
+01:08:44,000 --> 01:08:48,000
+with humanity and how Humanity will be
+
+1750
+01:08:46,000 --> 01:08:50,000
+affected by this technology and how
+
+1751
+01:08:49,000 --> 01:08:53,000
+important this aspect of humanity is
+
+1752
+01:08:52,000 --> 01:08:56,000
+that you know maybe there's not maybe
+
+1753
+01:08:54,000 --> 01:08:58,000
+this really does diminish our our
+
+1754
+01:08:57,000 --> 01:09:01,000
+Humanity if we prioritize this aspect of
+
+1755
+01:09:01,000 --> 01:09:05,000
+innovation with AI and so I I I love
+
+1756
+01:09:04,000 --> 01:09:08,000
+that he's at least articulating this
+
+1757
+01:09:05,000 --> 01:09:09,000
+tension because it's kind of say it's
+
+1758
+01:09:06,000 --> 01:09:10,000
+going to happen whether we like it or
+
+1759
+01:09:08,000 --> 01:09:12,000
+not but there's also like something
+
+1760
+01:09:10,000 --> 01:09:14,000
+maybe we should be intentional to guard
+
+1761
+01:09:12,000 --> 01:09:16,000
+this aspect of humanity that will lead
+
+1762
+01:09:14,000 --> 01:09:18,000
+us to Greater creative Heights but I
+
+1763
+01:09:16,000 --> 01:09:20,000
+think we should figure out how to do it
+
+1764
+01:09:18,000 --> 01:09:22,000
+in a way that like preserves the spirit
+
+1765
+01:09:19,000 --> 01:09:23,000
+of what we all care about here and I I
+
+1766
+01:09:22,000 --> 01:09:26,000
+think your actions speak loudly we were
+
+1767
+01:09:26,000 --> 01:09:30,000
+trying to do Star Wars characters in
+
+1768
+01:09:30,000 --> 01:09:34,000
+Dolly and if you asked for Darth Vader
+
+1769
+01:09:33,000 --> 01:09:37,000
+it says hey we can't do that so you've I
+
+1770
+01:09:35,000 --> 01:09:39,000
+guess red teamed or whatever you call it
+
+1771
+01:09:37,000 --> 01:09:41,000
+internally you're yeah you're not
+
+1772
+01:09:39,000 --> 01:09:43,000
+allowing people to use other people's IP
+
+1773
+01:09:42,000 --> 01:09:46,000
+so you've taken that decision now if you
+
+1774
+01:09:43,000 --> 01:09:47,000
+asked it to make a Jedi Bulldog or a
+
+1775
+01:09:46,000 --> 01:09:50,000
+Sith Lord Bulldog which I did it made my
+
+1776
+01:09:48,000 --> 01:09:52,000
+bulldogs at Sith bulldogs so there's an
+
+1777
+01:09:51,000 --> 01:09:55,000
+interesting question Spectrum right yeah
+
+1778
+01:09:53,000 --> 01:09:57,000
+you know we put out this thing yesterday
+
+1779
+01:09:54,000 --> 01:09:58,000
+called the spec um where we're trying to
+
+1780
+01:09:57,000 --> 01:10:01,000
+say here are here's here's how our model
+
+1781
+01:10:00,000 --> 01:10:04,000
+is supposed to
+
+1782
+01:10:01,000 --> 01:10:05,000
+behave and it's very hard it's a long
+
+1783
+01:10:04,000 --> 01:10:08,000
+document it's very hard to like specify
+
+1784
+01:10:06,000 --> 01:10:10,000
+exactly in each case where the limits
+
+1785
+01:10:08,000 --> 01:10:12,000
+should be and I view this as like a
+
+1786
+01:10:10,000 --> 01:10:14,000
+discussion that's going to need a lot
+
+1787
+01:10:12,000 --> 01:10:16,000
+more input um but but these sorts of
+
+1788
+01:10:16,000 --> 01:10:20,000
+questions
+
+1789
+01:10:17,000 --> 01:10:21,000
+about okay maybe it shouldn't generate
+
+1790
+01:10:20,000 --> 01:10:24,000
+Darth Vader but the idea of a Sith Lord
+
+1791
+01:10:22,000 --> 01:10:26,000
+or a Sith style thing or Jedi at this
+
+1792
+01:10:24,000 --> 01:10:28,000
+point is like part of of the culture
+
+1793
+01:10:26,000 --> 01:10:30,000
+like like these are these are all hard
+
+1794
+01:10:28,000 --> 01:10:32,000
+decisions yeah and and I think you're
+
+1795
+01:10:30,000 --> 01:10:34,000
+right the music industry is going to
+
+1796
+01:10:33,000 --> 01:10:37,000
+consider this opportunity to make tellor
+
+1797
+01:10:35,000 --> 01:10:39,000
+swi songs their opportuni it's part of
+
+1798
+01:10:37,000 --> 01:10:41,000
+the four-part fair use test is you know
+
+1799
+01:10:40,000 --> 01:10:44,000
+these who gets to capitalize on new
+
+1800
+01:10:42,000 --> 01:10:46,000
+Innovations for existing art and and
+
+1801
+01:10:44,000 --> 01:10:48,000
+Disney has an argument that hey you know
+
+1802
+01:10:47,000 --> 01:10:51,000
+if if you're going to make Sora versions
+
+1803
+01:10:49,000 --> 01:10:53,000
+of a aoka or whatever Obi-Wan Kenobi
+
+1804
+01:10:53,000 --> 01:10:57,000
+that's Disney's opportunity and that's a
+
+1805
+01:10:54,000 --> 01:10:58,000
+great part parnership for
+
+1806
+01:10:56,000 --> 01:11:00,000
+you you know to pursue so we're I think
+
+1807
+01:11:00,000 --> 01:11:04,000
+this section I would label as AI in the
+
+1808
+01:11:02,000 --> 01:11:06,000
+law so let me ask maybe a higher level
+
+1809
+01:11:05,000 --> 01:11:09,000
+question what does it mean when people
+
+1810
+01:11:08,000 --> 01:11:12,000
+say regulate AI totally Sam what does it
+
+1811
+01:11:11,000 --> 01:11:15,000
+what does that even mean and comment on
+
+1812
+01:11:13,000 --> 01:11:17,000
+California's new proposed regulations as
+
+1813
+01:11:16,000 --> 01:11:20,000
+well if you if you're up for it uh I'm
+
+1814
+01:11:19,000 --> 01:11:23,000
+concerned I mean there's so many
+
+1815
+01:11:20,000 --> 01:11:24,000
+proposed regulations but most of the
+
+1816
+01:11:22,000 --> 01:11:26,000
+ones I've seen on the California state
+
+1817
+01:11:23,000 --> 01:11:27,000
+things I'm concerned about I also have a
+
+1818
+01:11:26,000 --> 01:11:30,000
+general fear of the states all doing
+
+1819
+01:11:28,000 --> 01:11:32,000
+this them themselves um when people say
+
+1820
+01:11:30,000 --> 01:11:34,000
+regulate AI I don't think they mean one
+
+1821
+01:11:33,000 --> 01:11:37,000
+thing I think there's like some people
+
+1822
+01:11:35,000 --> 01:11:39,000
+are like be on the whole thing some
+
+1823
+01:11:36,000 --> 01:11:40,000
+people like don't allow it to be open
+
+1824
+01:11:38,000 --> 01:11:42,000
+source required to be open source um the
+
+1825
+01:11:40,000 --> 01:11:44,000
+thing that I am personally most
+
+1826
+01:11:42,000 --> 01:11:46,000
+interested in is I think there will
+
+1827
+01:11:46,000 --> 01:11:50,000
+come look I may be wrong about this I
+
+1828
+01:11:48,000 --> 01:11:52,000
+will acknowledge that this is a
+
+1829
+01:11:50,000 --> 01:11:54,000
+forward-looking statement and those are
+
+1830
+01:11:51,000 --> 01:11:55,000
+always dangerous to make but I think
+
+1831
+01:11:53,000 --> 01:11:57,000
+there will come a time in the not super
+
+1832
+01:11:55,000 --> 01:11:59,000
+distant future like you know we're not
+
+1833
+01:11:57,000 --> 01:12:01,000
+talking like decades and decades from
+
+1834
+01:11:58,000 --> 01:12:02,000
+now where AI the frontier AI systems are
+
+1835
+01:12:02,000 --> 01:12:06,000
+capable of causing
+
+1836
+01:12:05,000 --> 01:12:09,000
+signant Global harm and for those kinds
+
+1837
+01:12:10,000 --> 01:12:14,000
+of systems and the same way we have like
+
+1838
+01:12:12,000 --> 01:12:16,000
+Global oversight of nuclear weapons or
+
+1839
+01:12:15,000 --> 01:12:19,000
+synthetic bio or things that can really
+
+1840
+01:12:17,000 --> 01:12:21,000
+like have a very negative impact Way
+
+1841
+01:12:19,000 --> 01:12:23,000
+Beyond the realm of one country uh I
+
+1842
+01:12:22,000 --> 01:12:26,000
+would like to see some sort of
+
+1843
+01:12:23,000 --> 01:12:27,000
+international agency that is looking at
+
+1844
+01:12:25,000 --> 01:12:29,000
+the most powerful systems and ensuring
+
+1845
+01:12:28,000 --> 01:12:32,000
+like reasonable safety testing you know
+
+1846
+01:12:30,000 --> 01:12:34,000
+these things are not going to escape in
+
+1847
+01:12:32,000 --> 01:12:36,000
+recursively self-improve or
+
+1848
+01:12:34,000 --> 01:12:38,000
+whatever I I I just want to speak to
+
+1849
+01:12:37,000 --> 01:12:41,000
+even the way he talked about art and the
+
+1850
+01:12:39,000 --> 01:12:43,000
+way he's talking about this is that that
+
+1851
+01:12:42,000 --> 01:12:46,000
+he's and and and in other things he's
+
+1852
+01:12:44,000 --> 01:12:48,000
+been proactive in just saying this space
+
+1853
+01:12:47,000 --> 01:12:51,000
+needs regulation we need you know some
+
+1854
+01:12:49,000 --> 01:12:53,000
+boundaries to work within and I think we
+
+1855
+01:12:51,000 --> 01:12:55,000
+have seen this with big Tech that in
+
+1856
+01:12:53,000 --> 01:12:57,000
+many ways they've gone they've moved
+
+1857
+01:12:55,000 --> 01:12:59,000
+faster than government regulation can
+
+1858
+01:12:57,000 --> 01:13:01,000
+keep up with and and I think this is
+
+1859
+01:13:00,000 --> 01:13:04,000
+another you know situation here where
+
+1860
+01:13:02,000 --> 01:13:06,000
+the government doesn't know what it is
+
+1861
+01:13:05,000 --> 01:13:09,000
+even to make regulation around it and so
+
+1862
+01:13:08,000 --> 01:13:12,000
+I I don't know you know the answer here
+
+1863
+01:13:11,000 --> 01:13:15,000
+I you know I think what gives
+
+1864
+01:13:13,000 --> 01:13:17,000
+me peace in this is everything I hear
+
+1865
+01:13:17,000 --> 01:13:21,000
+and see and experience with Sam Alman
+
+1866
+01:13:19,000 --> 01:13:23,000
+and some of these other leaders is I
+
+1867
+01:13:20,000 --> 01:13:24,000
+think their intentions are good and how
+
+1868
+01:13:22,000 --> 01:13:26,000
+do we prevent this from being used
+
+1869
+01:13:25,000 --> 01:13:29,000
+you know in in negative ways and in
+
+1870
+01:13:28,000 --> 01:13:32,000
+dangerous ways because there will be
+
+1871
+01:13:30,000 --> 01:13:34,000
+opportunities to do that and I think if
+
+1872
+01:13:31,000 --> 01:13:35,000
+we can get ahead of what those ways
+
+1873
+01:13:34,000 --> 01:13:38,000
+might be and how to regulate it we can
+
+1874
+01:13:35,000 --> 01:13:39,000
+actually create you know greater safety
+
+1875
+01:13:38,000 --> 01:13:42,000
+boundaries for these companies and for
+
+1876
+01:13:41,000 --> 01:13:45,000
+these innovators and you know even for
+
+1877
+01:13:43,000 --> 01:13:47,000
+the government and how the government
+
+1878
+01:13:45,000 --> 01:13:49,000
+uses Ai and so I I think this is a
+
+1879
+01:13:48,000 --> 01:13:52,000
+really important conversation and I
+
+1880
+01:13:50,000 --> 01:13:54,000
+think it's not a real easy conversation
+
+1881
+01:13:53,000 --> 01:13:57,000
+but I think his concerns are valid is
+
+1882
+01:13:55,000 --> 01:13:59,000
+some of the regulations people are
+
+1883
+01:13:57,000 --> 01:14:01,000
+talking about are all over the place and
+
+1884
+01:13:58,000 --> 01:14:02,000
+I think they come in many ways from from
+
+1885
+01:14:01,000 --> 01:14:05,000
+a lot of ignorance too that that's going
+
+1886
+01:14:03,000 --> 01:14:07,000
+to limit innovation in some ways create
+
+1887
+01:14:07,000 --> 01:14:11,000
+even more reactive behavior when when we
+
+1888
+01:14:11,000 --> 01:14:15,000
+get behind as you know with with this
+
+1889
+01:14:14,000 --> 01:14:18,000
+technology so it's a it's an interesting
+
+1890
+01:14:17,000 --> 01:14:21,000
+topic that doesn't have a good solution
+
+1891
+01:14:20,000 --> 01:14:24,000
+but it anything that has been proposed
+
+1892
+01:14:22,000 --> 01:14:26,000
+to date definitely does not seem like
+
+1893
+01:14:25,000 --> 01:14:29,000
+the optimal Solution that's for sure the
+
+1894
+01:14:27,000 --> 01:14:31,000
+criticism of this is that you're you
+
+1895
+01:14:30,000 --> 01:14:34,000
+have the resources to Cozy up to Lobby
+
+1896
+01:14:34,000 --> 01:14:38,000
+to be involved and you've been very
+
+1897
+01:14:36,000 --> 01:14:40,000
+involved with politicians and then
+
+1898
+01:14:37,000 --> 01:14:41,000
+startups which you're also passionate
+
+1899
+01:14:39,000 --> 01:14:43,000
+about and invest in um are not going to
+
+1900
+01:14:41,000 --> 01:14:45,000
+have the ability to Resource uh and deal
+
+1901
+01:14:44,000 --> 01:14:48,000
+with this and that this regulatory
+
+1902
+01:14:46,000 --> 01:14:50,000
+capture as per our friend you know Bill
+
+1903
+01:14:48,000 --> 01:14:52,000
+Gurley did a great talk last year about
+
+1904
+01:14:50,000 --> 01:14:54,000
+it so maybe you could address that
+
+1905
+01:14:51,000 --> 01:14:55,000
+headon do do you if the line were we're
+
+1906
+01:14:54,000 --> 01:14:58,000
+only going to look look at models that
+
+1907
+01:14:55,000 --> 01:14:59,000
+are trained on computers that cost more
+
+1908
+01:14:58,000 --> 01:15:02,000
+than 10 billion or more than 100 billion
+
+1909
+01:14:59,000 --> 01:15:03,000
+or whatever dollars I'd be fine with
+
+1910
+01:15:02,000 --> 01:15:06,000
+that there'd be some line that'd be fine
+
+1911
+01:15:04,000 --> 01:15:08,000
+and uh I don't think that puts any
+
+1912
+01:15:06,000 --> 01:15:10,000
+regulatory burden on startups so if you
+
+1913
+01:15:08,000 --> 01:15:12,000
+have like the the nuclear raw material
+
+1914
+01:15:11,000 --> 01:15:15,000
+to make a nuclear bomb like there's a
+
+1915
+01:15:12,000 --> 01:15:16,000
+small Subs set of people who have that
+
+1916
+01:15:14,000 --> 01:15:18,000
+therefore you use the analogy of like a
+
+1917
+01:15:16,000 --> 01:15:20,000
+a nuclear inspector kind of situation
+
+1918
+01:15:18,000 --> 01:15:22,000
+yeah I think that that's interesting sax
+
+1919
+01:15:21,000 --> 01:15:25,000
+you have a question tras go ahead you
+
+1920
+01:15:23,000 --> 01:15:27,000
+had to follow
+
+1921
+01:15:25,000 --> 01:15:29,000
+can I say one more thing about that of
+
+1922
+01:15:26,000 --> 01:15:30,000
+course I'd be super nervous about
+
+1923
+01:15:29,000 --> 01:15:33,000
+regulatory overreach here I think we can
+
+1924
+01:15:30,000 --> 01:15:34,000
+get this wrong by doing way too much I
+
+1925
+01:15:33,000 --> 01:15:37,000
+or even a little too much I think we can
+
+1926
+01:15:34,000 --> 01:15:38,000
+get this round by doing not enough
+
+1927
+01:15:36,000 --> 01:15:40,000
+but but I do think part of and
+
+1928
+01:15:41,000 --> 01:15:45,000
+I and now I mean you know we have seen
+
+1929
+01:15:45,000 --> 01:15:49,000
+regulatory overstepping or capture just
+
+1930
+01:15:47,000 --> 01:15:51,000
+get super bad in other areas um and you
+
+1931
+01:15:52,000 --> 01:15:56,000
+know like also maybe nothing will happen
+
+1932
+01:15:54,000 --> 01:15:58,000
+but but I think it is part of our duty
+
+1933
+01:15:56,000 --> 01:16:00,000
+and our mission to like talk about what
+
+1934
+01:15:59,000 --> 01:16:03,000
+we believe is likely to happen and what
+
+1935
+01:16:02,000 --> 01:16:06,000
+it takes to get that right the challenge
+
+1936
+01:16:04,000 --> 01:16:08,000
+Sam is that we have statute that is
+
+1937
+01:16:07,000 --> 01:16:11,000
+meant to protect people protect Society
+
+1938
+01:16:09,000 --> 01:16:13,000
+at large what we're creating however a
+
+1939
+01:16:12,000 --> 01:16:16,000
+statute that gives the government rights
+
+1940
+01:16:16,000 --> 01:16:20,000
+to go in and audit code to audit
+
+1941
+01:16:20,000 --> 01:16:24,000
+business um Trade Secrets uh we've never
+
+1942
+01:16:24,000 --> 01:16:28,000
+seen that to this degree before
+
+1943
+01:16:27,000 --> 01:16:31,000
+basically the California legislation
+
+1944
+01:16:28,000 --> 01:16:32,000
+that's proposed and some of the federal
+
+1945
+01:16:30,000 --> 01:16:34,000
+legislation that's been proposed
+
+1946
+01:16:32,000 --> 01:16:36,000
+basically requires the fed the
+
+1947
+01:16:34,000 --> 01:16:38,000
+government to audit a model to audit
+
+1948
+01:16:37,000 --> 01:16:41,000
+software to audit and review the
+
+1949
+01:16:39,000 --> 01:16:43,000
+parameters and the weightings of the
+
+1950
+01:16:40,000 --> 01:16:44,000
+model and then you need their check mark
+
+1951
+01:16:43,000 --> 01:16:47,000
+in order to deploy it for commercial or
+
+1952
+01:16:47,000 --> 01:16:51,000
+public use and for me it just feels like
+
+1953
+01:16:51,000 --> 01:16:55,000
+we're trying to re in the the the the
+
+1954
+01:16:55,000 --> 01:16:59,000
+government agencies for fear and and
+
+1955
+01:16:57,000 --> 01:17:01,000
+because folks have a hard time
+
+1956
+01:16:59,000 --> 01:17:03,000
+understanding this and are scared about
+
+1957
+01:17:00,000 --> 01:17:04,000
+the implications of it they want to
+
+1958
+01:17:02,000 --> 01:17:06,000
+control it and because they want and the
+
+1959
+01:17:04,000 --> 01:17:08,000
+only way to control it is to say give me
+
+1960
+01:17:05,000 --> 01:17:09,000
+a right to audit before you can release
+
+1961
+01:17:07,000 --> 01:17:11,000
+it clueless they're cluess I mean the
+
+1962
+01:17:10,000 --> 01:17:14,000
+way that the the stuff is written you
+
+1963
+01:17:11,000 --> 01:17:15,000
+read it you're like G to pull your hair
+
+1964
+01:17:12,000 --> 01:17:16,000
+out because as you know better than
+
+1965
+01:17:14,000 --> 01:17:18,000
+anyone in 12 months none of this stuff's
+
+1966
+01:17:16,000 --> 01:17:20,000
+going to make sense anyway totally right
+
+1967
+01:17:18,000 --> 01:17:22,000
+look the reason I have pushed for an
+
+1968
+01:17:20,000 --> 01:17:24,000
+agency based approach for for kind of
+
+1969
+01:17:23,000 --> 01:17:27,000
+like the big picture stuff and not a
+
+1970
+01:17:25,000 --> 01:17:29,000
+like write it in laws I don't in 12
+
+1971
+01:17:27,000 --> 01:17:31,000
+months it will all be written wrong and
+
+1972
+01:17:29,000 --> 01:17:33,000
+I don't think even if these people were
+
+1973
+01:17:32,000 --> 01:17:36,000
+like True World experts I don't think
+
+1974
+01:17:34,000 --> 01:17:38,000
+they could get it right looking at 12 or
+
+1975
+01:17:36,000 --> 01:17:40,000
+24 months um and I don't these policies
+
+1976
+01:17:39,000 --> 01:17:43,000
+which is like we're going to look at you
+
+1977
+01:17:42,000 --> 01:17:46,000
+know we're going to audit all of your
+
+1978
+01:17:43,000 --> 01:17:47,000
+source code and like look at all of your
+
+1979
+01:17:45,000 --> 01:17:49,000
+weights one by one like yeah I think
+
+1980
+01:17:48,000 --> 01:17:52,000
+there's a lot of crazy proposals out
+
+1981
+01:17:49,000 --> 01:17:53,000
+there um by the way especially if the
+
+1982
+01:17:51,000 --> 01:17:55,000
+models are always being retrained all
+
+1983
+01:17:53,000 --> 01:17:57,000
+the time if they become more dynamic
+
+1984
+01:17:54,000 --> 01:17:58,000
+again this is why I think it's yeah but
+
+1985
+01:17:56,000 --> 01:18:00,000
+but like when before an airplane gets
+
+1986
+01:17:59,000 --> 01:18:03,000
+certified there's like a set of safety
+
+1987
+01:18:01,000 --> 01:18:05,000
+tests we put the airplane through it um
+
+1988
+01:18:04,000 --> 01:18:08,000
+and totally it's different than reading
+
+1989
+01:18:06,000 --> 01:18:10,000
+all of your code that's reviewing the
+
+1990
+01:18:08,000 --> 01:18:12,000
+output of the model not reviewing the
+
+1991
+01:18:10,000 --> 01:18:14,000
+insights of the model and and so what I
+
+1992
+01:18:13,000 --> 01:18:17,000
+was going to say is I that is the kind
+
+1993
+01:18:15,000 --> 01:18:19,000
+of thing that I think as safety testing
+
+1994
+01:18:19,000 --> 01:18:23,000
+makes sense how are we going to get that
+
+1995
+01:18:20,000 --> 01:18:24,000
+to happen Sam and I'm not just speaking
+
+1996
+01:18:22,000 --> 01:18:26,000
+for open a I speak for the industry for
+
+1997
+01:18:24,000 --> 01:18:28,000
+for Humanity because I am concerned that
+
+1998
+01:18:27,000 --> 01:18:31,000
+we draw ourselves into almost like a
+
+1999
+01:18:29,000 --> 01:18:33,000
+dark ages type of era by restricting the
+
+2000
+01:18:32,000 --> 01:18:36,000
+growth of these incredible technologies
+
+2001
+01:18:34,000 --> 01:18:38,000
+that can prosper human that that
+
+2002
+01:18:36,000 --> 01:18:40,000
+Humanity can prosper from so
+
+2003
+01:18:37,000 --> 01:18:41,000
+significantly how do we change the the
+
+2004
+01:18:39,000 --> 01:18:43,000
+sentiment and get that to happen because
+
+2005
+01:18:41,000 --> 01:18:45,000
+this is all moving so quickly at the
+
+2006
+01:18:42,000 --> 01:18:46,000
+government levels and folks seem to be
+
+2007
+01:18:44,000 --> 01:18:48,000
+getting it wrong and I'm I'm person
+
+2008
+01:18:46,000 --> 01:18:50,000
+concern just to Sam the architectural
+
+2009
+01:18:49,000 --> 01:18:53,000
+decision for example that llama took is
+
+2010
+01:18:52,000 --> 01:18:56,000
+pretty interesting in that it's like
+
+2011
+01:18:55,000 --> 01:18:59,000
+we're going to let llama grow and be as
+
+2012
+01:18:57,000 --> 01:19:01,000
+unfettered as possible and we have this
+
+2013
+01:18:58,000 --> 01:19:02,000
+other kind of thing that we call Lama
+
+2014
+01:19:01,000 --> 01:19:05,000
+guard that's meant to be these
+
+2015
+01:19:02,000 --> 01:19:06,000
+protective guard rails is that how you
+
+2016
+01:19:04,000 --> 01:19:08,000
+see the problem being solved correctly
+
+2017
+01:19:06,000 --> 01:19:10,000
+or do you see at the current at the
+
+2018
+01:19:08,000 --> 01:19:12,000
+current strength of models definitely
+
+2019
+01:19:11,000 --> 01:19:15,000
+some things are going to go wrong and I
+
+2020
+01:19:13,000 --> 01:19:17,000
+don't want to like make light of those
+
+2021
+01:19:15,000 --> 01:19:19,000
+or not take those seriously but I'm not
+
+2022
+01:19:17,000 --> 01:19:21,000
+like I don't have any like catastrophic
+
+2023
+01:19:19,000 --> 01:19:23,000
+risk worries with a gp4 level model um
+
+2024
+01:19:24,000 --> 01:19:28,000
+and I think there's many safe ways to
+
+2025
+01:19:26,000 --> 01:19:30,000
+choose to deploy this
+
+2026
+01:19:28,000 --> 01:19:32,000
+[Music]
+
+2027
+01:19:30,000 --> 01:19:34,000
+uh may maybe we'd find more common
+
+2028
+01:19:32,000 --> 01:19:36,000
+ground if we said that uh and I like you
+
+2029
+01:19:36,000 --> 01:19:40,000
+know the specific example of models that
+
+2030
+01:19:39,000 --> 01:19:43,000
+are capable that are technically capable
+
+2031
+01:19:42,000 --> 01:19:46,000
+not even if they're not going to be used
+
+2032
+01:19:43,000 --> 01:19:47,000
+this way of recursive
+
+2033
+01:19:46,000 --> 01:19:50,000
+self-improvement um or
+
+2034
+01:19:49,000 --> 01:19:53,000
+of you know
+
+2035
+01:19:52,000 --> 01:19:56,000
+autonomously designing and deploying a
+
+2036
+01:19:55,000 --> 01:19:59,000
+bioweapon or something like that or new
+
+2037
+01:19:57,000 --> 01:20:01,000
+model that was the recursive
+
+2038
+01:19:59,000 --> 01:20:03,000
+self-improvement Point um you know we
+
+2039
+01:20:02,000 --> 01:20:06,000
+should have safety testing on the
+
+2040
+01:20:05,000 --> 01:20:09,000
+outputs at an international level for
+
+2041
+01:20:06,000 --> 01:20:10,000
+models that you know have a reasonable
+
+2042
+01:20:09,000 --> 01:20:13,000
+chance of of posing a threat there uh I
+
+2043
+01:20:13,000 --> 01:20:17,000
+don't think like GPT 4 of course does
+
+2044
+01:20:18,000 --> 01:20:22,000
+not pose any sort of well I want to say
+
+2045
+01:20:21,000 --> 01:20:25,000
+any sort cuz you don't yeah I don't
+
+2046
+01:20:24,000 --> 01:20:28,000
+think the gp4 poses a material threat on
+
+2047
+01:20:27,000 --> 01:20:31,000
+those kinds of things I I just want to
+
+2048
+01:20:29,000 --> 01:20:33,000
+add real quick on this point is that I
+
+2049
+01:20:32,000 --> 01:20:36,000
+think this is really smart is let's
+
+2050
+01:20:35,000 --> 01:20:39,000
+create some Universal just safety
+
+2051
+01:20:37,000 --> 01:20:41,000
+testing procedures before any model is
+
+2052
+01:20:41,000 --> 01:20:45,000
+released to the public now this
+
+2053
+01:20:43,000 --> 01:20:47,000
+obviously we've got to have efficiency
+
+2054
+01:20:45,000 --> 01:20:49,000
+in those processes so they don't just
+
+2055
+01:20:47,000 --> 01:20:51,000
+get stalled but just like before you
+
+2056
+01:20:50,000 --> 01:20:54,000
+release you know medicine or any other
+
+2057
+01:20:53,000 --> 01:20:57,000
+things before they release the public
+
+2058
+01:20:54,000 --> 01:20:58,000
+they got to go through testing and and I
+
+2059
+01:20:57,000 --> 01:21:01,000
+think that that this is a thoughtful way
+
+2060
+01:21:00,000 --> 01:21:04,000
+to make sure that there's room for
+
+2061
+01:21:03,000 --> 01:21:07,000
+constant Innovation but there's also you
+
+2062
+01:21:06,000 --> 01:21:10,000
+know effective safety testing and you
+
+2063
+01:21:08,000 --> 01:21:12,000
+know maybe you know stamps of approval
+
+2064
+01:21:11,000 --> 01:21:15,000
+that that get put on on certain models
+
+2065
+01:21:13,000 --> 01:21:17,000
+that that become before they become more
+
+2066
+01:21:15,000 --> 01:21:19,000
+publicly available and I think there's
+
+2067
+01:21:17,000 --> 01:21:21,000
+many safe ways to releas a model like
+
+2068
+01:21:18,000 --> 01:21:22,000
+this um but you know when like
+
+2069
+01:21:22,000 --> 01:21:26,000
+significant loss of human life
+
+2070
+01:21:25,000 --> 01:21:29,000
+is a serious possibility like airplanes
+
+2071
+01:21:29,000 --> 01:21:33,000
+or any number of other examples where I
+
+2072
+01:21:32,000 --> 01:21:36,000
+think we're happy to have some sort of
+
+2073
+01:21:33,000 --> 01:21:37,000
+testing framework like I don't think
+
+2074
+01:21:35,000 --> 01:21:39,000
+about an airplane when I get on it I
+
+2075
+01:21:36,000 --> 01:21:40,000
+just assume it's going to be safe right
+
+2076
+01:21:39,000 --> 01:21:43,000
+right there's a lot of hand ringing
+
+2077
+01:21:40,000 --> 01:21:44,000
+right now Sam about
+
+2078
+01:21:42,000 --> 01:21:46,000
+jobs and you had a lot of I think you
+
+2079
+01:21:44,000 --> 01:21:48,000
+did like some sort of a test when you
+
+2080
+01:21:46,000 --> 01:21:50,000
+were at YC about Ubi and you've been our
+
+2081
+01:21:48,000 --> 01:21:52,000
+results in that come out very soon just
+
+2082
+01:21:50,000 --> 01:21:54,000
+it was a 5-year study that wrapped up um
+
+2083
+01:21:53,000 --> 01:21:57,000
+or started 5
+
+2084
+01:21:55,000 --> 01:21:59,000
+ago well there was like a beta study
+
+2085
+01:21:57,000 --> 01:22:01,000
+first and there was like a long one that
+
+2086
+01:21:58,000 --> 01:22:02,000
+ran but can you explain yeah why you
+
+2087
+01:22:01,000 --> 01:22:05,000
+start why you start it maybe just
+
+2088
+01:22:02,000 --> 01:22:06,000
+explain Ubi and why you started it um so
+
+2089
+01:22:06,000 --> 01:22:10,000
+we started thinking about this in 2016
+
+2090
+01:22:08,000 --> 01:22:12,000
+uh kind of about the same time started
+
+2091
+01:22:11,000 --> 01:22:15,000
+taking AI really seriously and the
+
+2092
+01:22:14,000 --> 01:22:18,000
+theory was that the magnitude of the
+
+2093
+01:22:16,000 --> 01:22:20,000
+change that may
+
+2094
+01:22:18,000 --> 01:22:22,000
+come to society
+
+2095
+01:22:21,000 --> 01:22:25,000
+and jobs in the economy and sort of in
+
+2096
+01:22:24,000 --> 01:22:28,000
+some deeper sense than that like what
+
+2097
+01:22:25,000 --> 01:22:29,000
+the social contract looks like
+
+2098
+01:22:29,000 --> 01:22:33,000
+um meant that we should have many
+
+2099
+01:22:31,000 --> 01:22:35,000
+studies to study many ideas about new
+
+2100
+01:22:34,000 --> 01:22:38,000
+new ways to
+
+2101
+01:22:36,000 --> 01:22:40,000
+arrange that um I also think that you
+
+2102
+01:22:40,000 --> 01:22:44,000
+know I'm not like a super fan of how the
+
+2103
+01:22:42,000 --> 01:22:46,000
+government has handled most policies
+
+2104
+01:22:45,000 --> 01:22:49,000
+designed to help poor people and I kind
+
+2105
+01:22:47,000 --> 01:22:51,000
+of believe that if you could just give
+
+2106
+01:22:50,000 --> 01:22:54,000
+people money they would make good
+
+2107
+01:22:52,000 --> 01:22:56,000
+decisions the market would do its thing
+
+2108
+01:22:53,000 --> 01:22:57,000
+and you know I'm very much in favor of
+
+2109
+01:22:57,000 --> 01:23:01,000
+lifting up the floor and reducing
+
+2110
+01:23:00,000 --> 01:23:04,000
+eliminating poverty um but I'm
+
+2111
+01:23:02,000 --> 01:23:06,000
+interested in better ways to do that
+
+2112
+01:23:03,000 --> 01:23:07,000
+than what we have tried for the existing
+
+2113
+01:23:06,000 --> 01:23:10,000
+social safety net and and kind of the
+
+2114
+01:23:08,000 --> 01:23:12,000
+way things have been handled and I think
+
+2115
+01:23:10,000 --> 01:23:14,000
+giving people money is not going to go
+
+2116
+01:23:13,000 --> 01:23:17,000
+solve all problems it's certainly not
+
+2117
+01:23:14,000 --> 01:23:18,000
+going to make people happy but it
+
+2118
+01:23:17,000 --> 01:23:21,000
+might it might solve some problems and
+
+2119
+01:23:20,000 --> 01:23:24,000
+it might give people a better Horizon
+
+2120
+01:23:24,000 --> 01:23:28,000
+with which to help themselves and I'm
+
+2121
+01:23:26,000 --> 01:23:30,000
+interested in that I I think
+
+2122
+01:23:28,000 --> 01:23:32,000
+that now that we see some of the ways so
+
+2123
+01:23:32,000 --> 01:23:36,000
+2016 was very long time ago uh you know
+
+2124
+01:23:35,000 --> 01:23:39,000
+now that we see some of the ways that AI
+
+2125
+01:23:36,000 --> 01:23:40,000
+is developing I wonder if there's better
+
+2126
+01:23:39,000 --> 01:23:43,000
+things to do than the
+
+2127
+01:23:42,000 --> 01:23:46,000
+traditional um conceptualization of Ubi
+
+2128
+01:23:46,000 --> 01:23:50,000
+uh like I
+
+2129
+01:23:47,000 --> 01:23:51,000
+wonder I wonder if the future looks
+
+2130
+01:23:49,000 --> 01:23:53,000
+something like more like Universal basic
+
+2131
+01:23:51,000 --> 01:23:55,000
+compute than Universal basic income and
+
+2132
+01:23:53,000 --> 01:23:57,000
+everybody get gets like a slice of GPT
+
+2133
+01:23:55,000 --> 01:23:59,000
+7's compute and they can use it they can
+
+2134
+01:23:58,000 --> 01:24:02,000
+resell it they can donate it to somebody
+
+2135
+01:24:00,000 --> 01:24:04,000
+to use for cancer research but but what
+
+2136
+01:24:02,000 --> 01:24:06,000
+you get is not dollars but this like
+
+2137
+01:24:05,000 --> 01:24:09,000
+productiv slice yeah you own like part
+
+2138
+01:24:07,000 --> 01:24:11,000
+of the productivity right I would like
+
+2139
+01:24:09,000 --> 01:24:13,000
+to shift to the gossip so I I think this
+
+2140
+01:24:12,000 --> 01:24:16,000
+is one of the most interesting aspects
+
+2141
+01:24:16,000 --> 01:24:20,000
+of this conversation where he's getting
+
+2142
+01:24:18,000 --> 01:24:22,000
+into Universe basic income and the
+
+2143
+01:24:21,000 --> 01:24:25,000
+societal effects of and and he talked
+
+2144
+01:24:23,000 --> 01:24:27,000
+about something that is that before they
+
+2145
+01:24:25,000 --> 01:24:29,000
+even started developing a chat GPT they
+
+2146
+01:24:27,000 --> 01:24:31,000
+started thinking about what could be the
+
+2147
+01:24:30,000 --> 01:24:34,000
+societal effects of this technology and
+
+2148
+01:24:33,000 --> 01:24:37,000
+maybe we need to do some research around
+
+2149
+01:24:35,000 --> 01:24:39,000
+Universal basic income or he proposes
+
+2150
+01:24:37,000 --> 01:24:41,000
+their Universal basic compute that seem
+
+2151
+01:24:41,000 --> 01:24:45,000
+Ubi is already hard you know I think to
+
+2152
+01:24:43,000 --> 01:24:47,000
+to comprehend just giving away money and
+
+2153
+01:24:45,000 --> 01:24:49,000
+how that will affect things but
+
+2154
+01:24:47,000 --> 01:24:51,000
+Universal comp complicates that even
+
+2155
+01:24:49,000 --> 01:24:53,000
+more but but really interesting that
+
+2156
+01:24:51,000 --> 01:24:55,000
+that you could tell even from the
+
+2157
+01:24:53,000 --> 01:24:57,000
+beginning of open AI they've been
+
+2158
+01:24:55,000 --> 01:24:59,000
+thinking about how big this is and how
+
+2159
+01:24:58,000 --> 01:25:02,000
+significant this will affect the future
+
+2160
+01:25:00,000 --> 01:25:04,000
+and I love that they approached it from
+
+2161
+01:25:04,000 --> 01:25:08,000
+that standpoint instead of just
+
+2162
+01:25:05,000 --> 01:25:09,000
+developing something been like oh no now
+
+2163
+01:25:07,000 --> 01:25:11,000
+what do we do and I think that's kind of
+
+2164
+01:25:08,000 --> 01:25:12,000
+what happened with Facebook is it just
+
+2165
+01:25:09,000 --> 01:25:13,000
+got so big and they're like we're going
+
+2166
+01:25:11,000 --> 01:25:15,000
+to connect the world but no now that you
+
+2167
+01:25:13,000 --> 01:25:17,000
+know this is affecting people and it's
+
+2168
+01:25:15,000 --> 01:25:19,000
+addictive and you know now now I don't
+
+2169
+01:25:17,000 --> 01:25:21,000
+know what to do now and obviously
+
+2170
+01:25:18,000 --> 01:25:22,000
+there's been some you know progress made
+
+2171
+01:25:20,000 --> 01:25:24,000
+and priorities you know adjusted but so
+
+2172
+01:25:23,000 --> 01:25:27,000
+often Innovation happens and then we
+
+2173
+01:25:24,000 --> 01:25:28,000
+react to the The Fallout of it and
+
+2174
+01:25:28,000 --> 01:25:32,000
+they're thinking ahead of that even from
+
+2175
+01:25:30,000 --> 01:25:34,000
+the beginning of building out the
+
+2176
+01:25:32,000 --> 01:25:36,000
+technology so I just want to wrap up
+
+2177
+01:25:34,000 --> 01:25:38,000
+this video and this conversation and I I
+
+2178
+01:25:36,000 --> 01:25:40,000
+ended you can go listen to the rest of
+
+2179
+01:25:38,000 --> 01:25:42,000
+the conversation that kind of get into
+
+2180
+01:25:39,000 --> 01:25:43,000
+the drama of what happened at Microsoft
+
+2181
+01:25:42,000 --> 01:25:46,000
+and with open Ai and him getting fired
+
+2182
+01:25:44,000 --> 01:25:48,000
+and and and you know I think that's an
+
+2183
+01:25:45,000 --> 01:25:49,000
+interesting story but but I think at the
+
+2184
+01:25:47,000 --> 01:25:51,000
+end of the day I I think what we can
+
+2185
+01:25:49,000 --> 01:25:53,000
+hear here he here but but we what we can
+
+2186
+01:25:53,000 --> 01:25:57,000
+pay attention to is that this is very
+
+2187
+01:25:55,000 --> 01:25:59,000
+significant open AI has been very
+
+2188
+01:25:57,000 --> 01:26:01,000
+thoughtful in what they're building and
+
+2189
+01:25:59,000 --> 01:26:03,000
+that this is just the beginning and so
+
+2190
+01:26:02,000 --> 01:26:06,000
+I'm I'm really I think the more I listen
+
+2191
+01:26:04,000 --> 01:26:08,000
+to Sam Alman the more I'm impressed with
+
+2192
+01:26:06,000 --> 01:26:10,000
+him as a leader the more my mind begins
+
+2193
+01:26:09,000 --> 01:26:13,000
+to think about what's coming and
+
+2194
+01:26:11,000 --> 01:26:15,000
+practically what I'm seeing is Chad gbt
+
+2195
+01:26:13,000 --> 01:26:17,000
+is incredibly efficient and effective
+
+2196
+01:26:16,000 --> 01:26:20,000
+for me today but what it's going to be a
+
+2197
+01:26:18,000 --> 01:26:22,000
+year from now is going to be way better
+
+2198
+01:26:20,000 --> 01:26:24,000
+than what it is today honestly what it
+
+2199
+01:26:22,000 --> 01:26:26,000
+is since this interview came out and
+
+2200
+01:26:23,000 --> 01:26:27,000
+with you know GPT 40 uh it has gotten
+
+2201
+01:26:27,000 --> 01:26:31,000
+even better and so I'm really excited
+
+2202
+01:26:29,000 --> 01:26:33,000
+about where it's going I'm really
+
+2203
+01:26:31,000 --> 01:26:35,000
+excited about the opportunities I I want
+
+2204
+01:26:33,000 --> 01:26:37,000
+to continue to also lean into the
+
+2205
+01:26:35,000 --> 01:26:39,000
+societal effects and and be a part of
+
+2206
+01:26:37,000 --> 01:26:41,000
+those Solutions as well and so for
+
+2207
+01:26:39,000 --> 01:26:43,000
+leaders I think we have an opportunity
+
+2208
+01:26:41,000 --> 01:26:45,000
+here to continue to learn continue to
+
+2209
+01:26:43,000 --> 01:26:47,000
+lean in and pay attention to what open
+
+2210
+01:26:47,000 --> 01:26:51,000
+AI is doing and and what meta is doing
+
+2211
+01:26:49,000 --> 01:26:53,000
+what Google is doing and this Technology
+
+2212
+01:26:52,000 --> 01:26:56,000
+Innovation is going to imp impact our
+
+2213
+01:26:54,000 --> 01:26:58,000
+world I believe just as significantly as
+
+2214
+01:26:56,000 --> 01:27:00,000
+the internet has and as our mobile
+
+2215
+01:26:58,000 --> 01:27:02,000
+devices have and maybe even more so and
+
+2216
+01:27:01,000 --> 01:27:05,000
+so this this is coming this isn't kind
+
+2217
+01:27:04,000 --> 01:27:08,000
+of a a quick Trend this isn't basically
+
+2218
+01:27:06,000 --> 01:27:10,000
+like a new website this is a new this is
+
+2219
+01:27:09,000 --> 01:27:13,000
+intelligence that is being built into
+
+2220
+01:27:12,000 --> 01:27:16,000
+technology and it's powerful and it's
+
+2221
+01:27:16,000 --> 01:27:20,000
+exciting and it's scary and it's
+
+2222
+01:27:18,000 --> 01:27:22,000
+overwhelming and and I think we've got
+
+2223
+01:27:20,000 --> 01:27:24,000
+to just lean in in this moment and learn
+
+2224
+01:27:23,000 --> 01:27:27,000
+and prepare and adapt and adjust and so
+
+2225
+01:27:26,000 --> 01:27:30,000
+I'm excited I would love to know what do
+
+2226
+01:27:27,000 --> 01:27:31,000
+you think about drop it in the comments
+
+2227
+01:27:30,000 --> 01:27:34,000
+I'd love to hear from you and hear your
+
+2228
+01:27:33,000 --> 01:27:37,000
+thoughts on this conversation thanks so
+
+2229
+01:27:35,000 --> 01:27:39,000
+much for listening and watching and I
+
+2230
+01:27:37,000 --> 01:27:41,000
+look forward to connecting with you and
+
+2231
+01:27:39,000 --> 01:27:43,000
+growing with you together as we lean
+
+2232
+01:27:41,000 --> 01:27:45,000
+into social media Technology Innovation
+
+2233
+01:27:44,000 --> 01:27:48,000
+all the things and become better leaders
+
+2234
+01:27:46,000 --> 01:27:50,000
+as we lean in to these Technologies
+
+2235
+01:27:48,000 --> 01:27:52,000
+thanks so much for watching and we'll
+
+2236
+01:27:50,000 --> 01:27:54,000
+talk to you again on the next video
+
+2237
+01:27:53,000 --> 01:27:57,000
+[Music]
+
+2238
+01:27:57,000 --> 01:28:01,000
+oh
+
+2239
+01:28:04,000 --> 01:28:08,000
+[Music]
+

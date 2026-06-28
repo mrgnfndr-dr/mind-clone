@@ -1,0 +1,6 @@
+1|If it takes you hours to make a post, you're not a perfectionist. You're using the wrong system. Let's get into how to go and use AI as a brainstorming partner here. Now, to be clear, you know, I don't recommend that you just go and publish AI content typically, just
+12|because number one, it doesn't perform all that well with the different algorithms. And number two is that, you know, people always need that kind of human element, right? To really gravitate to your own authenticity and
+23|your energy, which is your uniqueness. And so what you're seeing here is this 286 page prompt project. Just take whatever you've got and upload that to the
+34|project knowledge so that Claude can start writing like you speak. And so what I'm able to do here is essentially use Claude as this sparring and brainstorming partner, helping me come
+44|up with things like, you know, the different structures of the video, helping me research the stuff that would probably be most retentive, the stuff that you guys really need, so that I can jam-pack each video with the highest
+55|value per second possible to make sure I'm being as generous as possible in every single video we put out every Tuesday and every Friday.

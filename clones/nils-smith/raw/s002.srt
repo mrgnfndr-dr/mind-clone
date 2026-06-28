@@ -1,0 +1,1920 @@
+1
+00:00:00,000 --> 00:00:04,000
+In this video, I'm going to talk about
+
+2
+00:00:01,000 --> 00:00:05,000
+all the websites we built at Faith
+
+3
+00:00:03,000 --> 00:00:07,000
+Driven Movements, what technology we
+
+4
+00:00:05,000 --> 00:00:09,000
+used, what systems we used, what
+
+5
+00:00:06,000 --> 00:00:10,000
+strategy we used, and where we're going
+
+6
+00:00:09,000 --> 00:00:13,000
+with our website infrastructure. Lean in
+
+7
+00:00:11,000 --> 00:00:15,000
+to this. We're going to get a little
+
+8
+00:00:12,000 --> 00:00:16,000
+technical, uh, but really at the core,
+
+9
+00:00:15,000 --> 00:00:19,000
+we all have a website that we need to
+
+10
+00:00:18,000 --> 00:00:22,000
+prioritize, or websites in our case. And
+
+11
+00:00:20,000 --> 00:00:24,000
+I want to talk about how we've
+
+12
+00:00:21,000 --> 00:00:25,000
+approached this, what we're doing, what
+
+13
+00:00:23,000 --> 00:00:27,000
+we've done, and where we're going.
+
+14
+00:00:26,000 --> 00:00:30,000
+Hey there. If we haven't met yet, I'm
+
+15
+00:00:28,000 --> 00:00:32,000
+Neil Smith, the VP of Marketing at Faith
+
+16
+00:00:30,000 --> 00:00:34,000
+Driven Movements. And I'm just doing
+
+17
+00:00:32,000 --> 00:00:36,000
+this series to learn out loud, to build
+
+18
+00:00:34,000 --> 00:00:38,000
+in public, uh, to share what I'm
+
+19
+00:00:36,000 --> 00:00:40,000
+learning in the process of leading our
+
+20
+00:00:38,000 --> 00:00:42,000
+marketing team, leading our marketing
+
+21
+00:00:40,000 --> 00:00:44,000
+efforts as we are building a rocket ship
+
+22
+00:00:42,000 --> 00:00:46,000
+in the air. Uh, what God is doing, uh,
+
+23
+00:00:45,000 --> 00:00:49,000
+through Faith Driven Movements is is
+
+24
+00:00:46,000 --> 00:00:50,000
+just miraculous, but also very
+
+25
+00:00:48,000 --> 00:00:52,000
+intentional, also very strategic. Uh,
+
+26
+00:00:51,000 --> 00:00:55,000
+and so a big part of that, [music]
+
+27
+00:00:53,000 --> 00:00:57,000
+uh, is our our our our websites. It is
+
+28
+00:00:56,000 --> 00:01:00,000
+our home base uh, in many ways as we as
+
+29
+00:00:58,000 --> 00:01:02,000
+we move people in strategically into our
+
+30
+00:01:01,000 --> 00:01:05,000
+organization. We will often say, "Come
+
+31
+00:01:03,000 --> 00:01:07,000
+for the content, stay for the
+
+32
+00:01:04,000 --> 00:01:08,000
+community." Uh, and so I want to talk
+
+33
+00:01:07,000 --> 00:01:11,000
+about how we're doing that with our
+
+34
+00:01:08,000 --> 00:01:12,000
+websites. And practically, I see
+
+35
+00:01:10,000 --> 00:01:14,000
+marketing in [music] three key buckets
+
+36
+00:01:13,000 --> 00:01:17,000
+of of the pathway of one is awareness,
+
+37
+00:01:16,000 --> 00:01:20,000
+uh, which is often done on social media
+
+38
+00:01:17,000 --> 00:01:21,000
+and through advertising. The other is
+
+39
+00:01:19,000 --> 00:01:23,000
+consideration, where you're checking
+
+40
+00:01:20,000 --> 00:01:24,000
+out, uh, the organization. That's
+
+41
+00:01:22,000 --> 00:01:26,000
+primarily done
+
+42
+00:01:24,000 --> 00:01:28,000
+on the website,
+
+43
+00:01:25,000 --> 00:01:29,000
+&gt;&gt; [music]
+
+44
+00:01:25,000 --> 00:01:29,000
+&gt;&gt; uh, and often through email, and then
+
+45
+00:01:28,000 --> 00:01:32,000
+conversion, which is done either through
+
+46
+00:01:30,000 --> 00:01:34,000
+an advertising effort or sometimes even
+
+47
+00:01:33,000 --> 00:01:37,000
+a conversation, an interaction, or just
+
+48
+00:01:35,000 --> 00:01:39,000
+a sheer transaction, uh, that's that's
+
+49
+00:01:38,000 --> 00:01:42,000
+happening. For us, that's often getting
+
+50
+00:01:40,000 --> 00:01:44,000
+somebody into a foundation group. And so
+
+51
+00:01:42,000 --> 00:01:46,000
+uh, we offer free community groups of
+
+52
+00:01:44,000 --> 00:01:48,000
+our content is free, our groups are
+
+53
+00:01:46,000 --> 00:01:50,000
+free. Uh, it's confusing, uh, for some,
+
+54
+00:01:49,000 --> 00:01:53,000
+um, and as I've shared before,
+
+55
+00:01:52,000 --> 00:01:56,000
+&gt;&gt; [music]
+
+56
+00:01:52,000 --> 00:01:56,000
+&gt;&gt; uh, I want to encourage you to go back
+
+57
+00:01:53,000 --> 00:01:57,000
+to see the other videos. Uh, we have a
+
+58
+00:01:55,000 --> 00:01:59,000
+value proposition that seems too good to
+
+59
+00:01:57,000 --> 00:02:01,000
+be true, yet it is better uh, than it is
+
+60
+00:02:00,000 --> 00:02:04,000
+even perceived uh, to be and that's one
+
+61
+00:02:02,000 --> 00:02:06,000
+of the unique marketing challenges and
+
+62
+00:02:04,000 --> 00:02:08,000
+opportunities uh, that we have and I
+
+63
+00:02:06,000 --> 00:02:10,000
+believe why we're growing as fast as we
+
+64
+00:02:08,000 --> 00:02:12,000
+are. So, let's talk about the websites.
+
+65
+00:02:09,000 --> 00:02:13,000
+When I started with Interim Movements,
+
+66
+00:02:11,000 --> 00:02:15,000
+one of the things that just attracted me
+
+67
+00:02:13,000 --> 00:02:17,000
+to the organization was just the
+
+68
+00:02:15,000 --> 00:02:19,000
+excellence in which I saw all of their
+
+69
+00:02:17,000 --> 00:02:21,000
+websites. They just looked professional,
+
+70
+00:02:20,000 --> 00:02:24,000
+uh, they looked beautiful, they they
+
+71
+00:02:22,000 --> 00:02:26,000
+were clearly very strategically designed
+
+72
+00:02:25,000 --> 00:02:29,000
+and built, uh, great copy and messaging
+
+73
+00:02:28,000 --> 00:02:32,000
+uh, on the websites. I I would say if
+
+74
+00:02:29,000 --> 00:02:33,000
+there's one
+
+75
+00:02:31,000 --> 00:02:35,000
+you know, knock I would have on the
+
+76
+00:02:32,000 --> 00:02:36,000
+websites is that they're cluttered and a
+
+77
+00:02:34,000 --> 00:02:38,000
+little crowded. I would say we still
+
+78
+00:02:36,000 --> 00:02:40,000
+have this challenge because the problem
+
+79
+00:02:38,000 --> 00:02:42,000
+is we have so much content, we have so
+
+80
+00:02:40,000 --> 00:02:44,000
+much stuff uh, that we want to just give
+
+81
+00:02:43,000 --> 00:02:47,000
+uh, to uh, those that are coming into
+
+82
+00:02:45,000 --> 00:02:49,000
+our organization that we have a hard
+
+83
+00:02:46,000 --> 00:02:50,000
+time of where do we prioritize to make a
+
+84
+00:02:49,000 --> 00:02:53,000
+clear, concise path for people. So, it
+
+85
+00:02:52,000 --> 00:02:56,000
+is a tension that we are managing uh, on
+
+86
+00:02:54,000 --> 00:02:58,000
+our websites of how do we include
+
+87
+00:02:56,000 --> 00:03:00,000
+everything and make it navi [music] you
+
+88
+00:02:58,000 --> 00:03:02,000
+know, where you can easily navigate uh,
+
+89
+00:03:00,000 --> 00:03:04,000
+but then also get people to what they
+
+90
+00:03:01,000 --> 00:03:05,000
+want to do. But, the first thing I had
+
+91
+00:03:03,000 --> 00:03:07,000
+to do uh, or that I felt as it was a
+
+92
+00:03:05,000 --> 00:03:09,000
+priority is that in our organization
+
+93
+00:03:09,000 --> 00:03:13,000
+we were in transition. The majority of
+
+94
+00:03:11,000 --> 00:03:15,000
+the websites had initially been built in
+
+95
+00:03:12,000 --> 00:03:16,000
+Squarespace and [music] were being moved
+
+96
+00:03:15,000 --> 00:03:19,000
+into WordPress uh, and then WordPress
+
+97
+00:03:17,000 --> 00:03:21,000
+more specifically we use Nexus hosting,
+
+98
+00:03:19,000 --> 00:03:23,000
+we use GoDaddy uh, domain management and
+
+99
+00:03:21,000 --> 00:03:25,000
+then we use Divi uh, as our you know,
+
+100
+00:03:24,000 --> 00:03:28,000
+basically theme uh, within our websites
+
+101
+00:03:26,000 --> 00:03:30,000
+to build on top of uh, my in the
+
+102
+00:03:29,000 --> 00:03:33,000
+background I'm a big fan [music] of
+
+103
+00:03:30,000 --> 00:03:34,000
+WordPress uh, for the last you know, I
+
+104
+00:03:32,000 --> 00:03:36,000
+don't know 15, 20 years
+
+105
+00:03:34,000 --> 00:03:38,000
+uh, so definitely not new new to
+
+106
+00:03:35,000 --> 00:03:39,000
+WordPress. I have primarily used
+
+107
+00:03:37,000 --> 00:03:41,000
+Elementor. Uh, so if you're familiar
+
+108
+00:03:39,000 --> 00:03:43,000
+with Elementor, Divi is very similar to
+
+109
+00:03:42,000 --> 00:03:46,000
+um, and works great, you know, lots of
+
+110
+00:03:44,000 --> 00:03:48,000
+great functionality. It is it is kind of
+
+111
+00:03:46,000 --> 00:03:50,000
+a best-in-class platform. Squarespace
+
+112
+00:03:48,000 --> 00:03:52,000
+I've always been a big fan of and I
+
+113
+00:03:50,000 --> 00:03:54,000
+think it was a good move for for Faith
+
+114
+00:03:52,000 --> 00:03:56,000
+Driven start at Squarespace because it's
+
+115
+00:03:54,000 --> 00:03:58,000
+I compared to Apple, it's hard to break,
+
+116
+00:03:56,000 --> 00:04:00,000
+but it's also hard to really customize.
+
+117
+00:03:58,000 --> 00:04:02,000
+And so, you can only take it so far. And
+
+118
+00:04:00,000 --> 00:04:04,000
+I think with our organization growing as
+
+119
+00:04:02,000 --> 00:04:06,000
+fast as we are with it as unique as as
+
+120
+00:04:04,000 --> 00:04:08,000
+we are, we needed something that could
+
+121
+00:04:06,000 --> 00:04:10,000
+scale with us. And so, having already
+
+122
+00:04:08,000 --> 00:04:12,000
+made that decision to move to WordPress
+
+123
+00:04:11,000 --> 00:04:15,000
+and with Divi, I think it was a wise
+
+124
+00:04:13,000 --> 00:04:17,000
+move that I inherited. And so, I'm glad
+
+125
+00:04:15,000 --> 00:04:19,000
+to be able to just take that and run
+
+126
+00:04:17,000 --> 00:04:21,000
+further with it.
+
+127
+00:04:18,000 --> 00:04:22,000
+But we we had about half of our websites
+
+128
+00:04:20,000 --> 00:04:24,000
+not on Divi. So, we had to really
+
+129
+00:04:23,000 --> 00:04:27,000
+you know, prioritize
+
+130
+00:04:25,000 --> 00:04:29,000
+getting everything over. Now, we're
+
+131
+00:04:27,000 --> 00:04:31,000
+talking hundreds of pages, things that
+
+132
+00:04:29,000 --> 00:04:33,000
+have been developed over, you know, the
+
+133
+00:04:30,000 --> 00:04:34,000
+[music] last 5 years.
+
+134
+00:04:32,000 --> 00:04:36,000
+And what needs to come, what needs to
+
+135
+00:04:34,000 --> 00:04:38,000
+stay, what needs to go. The truth is a
+
+136
+00:04:36,000 --> 00:04:40,000
+year later, we're still working through
+
+137
+00:04:37,000 --> 00:04:41,000
+this. We still have old blog content
+
+138
+00:04:39,000 --> 00:04:43,000
+that we need to get active. And
+
+139
+00:04:42,000 --> 00:04:46,000
+you know, people that have been in our
+
+140
+00:04:43,000 --> 00:04:47,000
+videos and and bios that that need to
+
+141
+00:04:45,000 --> 00:04:49,000
+get updated and revised. It is a
+
+142
+00:04:48,000 --> 00:04:52,000
+never-ending project. And things like
+
+143
+00:04:50,000 --> 00:04:54,000
+SEO that we're continuing [music] to
+
+144
+00:04:52,000 --> 00:04:56,000
+optimize. But one of the first steps
+
+145
+00:04:53,000 --> 00:04:57,000
+that we had to make and probably took us
+
+146
+00:04:55,000 --> 00:04:59,000
+about 4 months is to get everything from
+
+147
+00:04:58,000 --> 00:05:02,000
+Squarespace and out of Squarespace and
+
+148
+00:05:00,000 --> 00:05:04,000
+into
+
+149
+00:05:01,000 --> 00:05:05,000
+Divi with WordPress. And so, we were
+
+150
+00:05:03,000 --> 00:05:07,000
+able to prioritize that. All of our
+
+151
+00:05:05,000 --> 00:05:09,000
+websites are now on Divi.
+
+152
+00:05:07,000 --> 00:05:11,000
+And
+
+153
+00:05:08,000 --> 00:05:12,000
+and and are now being optimized. We've
+
+154
+00:05:11,000 --> 00:05:15,000
+got a great team. You know, want to
+
+155
+00:05:12,000 --> 00:05:16,000
+highlight Eric, [music]
+
+156
+00:05:14,000 --> 00:05:18,000
+Angela, Julian, John, Errol. John's
+
+157
+00:05:18,000 --> 00:05:22,000
+John's really been our WordPress expert
+
+158
+00:05:20,000 --> 00:05:24,000
+to to help us
+
+159
+00:05:21,000 --> 00:05:25,000
+in so many ways to to really maximize
+
+160
+00:05:23,000 --> 00:05:27,000
+some of the WordPress functionality. And
+
+161
+00:05:25,000 --> 00:05:29,000
+now we're getting more and even SEO as
+
+162
+00:05:27,000 --> 00:05:31,000
+we're digging deeper in the pages as we
+
+163
+00:05:29,000 --> 00:05:33,000
+want every page to be optimized well.
+
+164
+00:05:32,000 --> 00:05:36,000
+And there's some great tools out there
+
+165
+00:05:34,000 --> 00:05:38,000
+to help.
+
+166
+00:05:35,000 --> 00:05:39,000
+Help like SEMrush is a platform that
+
+167
+00:05:37,000 --> 00:05:41,000
+that we've used more recently. But just
+
+168
+00:05:40,000 --> 00:05:44,000
+to help to clean up the the way some of
+
+169
+00:05:42,000 --> 00:05:46,000
+your back pages work, some of your 404
+
+170
+00:05:44,000 --> 00:05:48,000
+pages, getting it into the weeds of it.
+
+171
+00:05:46,000 --> 00:05:50,000
+So, we we've really been prioritizing
+
+172
+00:05:48,000 --> 00:05:52,000
+the technical side
+
+173
+00:05:50,000 --> 00:05:54,000
+of the
+
+174
+00:05:51,000 --> 00:05:55,000
+website. But, what we you [music] know
+
+175
+00:05:54,000 --> 00:05:58,000
+and and what
+
+176
+00:05:55,000 --> 00:05:59,000
+I've talked about in previous videos is
+
+177
+00:05:57,000 --> 00:06:01,000
+that it's not necessarily what you have,
+
+178
+00:05:59,000 --> 00:06:03,000
+it's how you use it. We could be on
+
+179
+00:06:01,000 --> 00:06:05,000
+Squarespace and if we had a bad website,
+
+180
+00:06:04,000 --> 00:06:08,000
+it doesn't matter how well
+
+181
+00:06:05,000 --> 00:06:09,000
+you know, how strong it is technically,
+
+182
+00:06:08,000 --> 00:06:12,000
+if it doesn't message the right thing to
+
+183
+00:06:10,000 --> 00:06:14,000
+the right audience in the right way,
+
+184
+00:06:11,000 --> 00:06:15,000
+make it easy for them to take action,
+
+185
+00:06:13,000 --> 00:06:17,000
+it's broken.
+
+186
+00:06:15,000 --> 00:06:19,000
+And so, we we've really needed to
+
+187
+00:06:16,000 --> 00:06:20,000
+prioritize our messaging. We're
+
+188
+00:06:18,000 --> 00:06:22,000
+constantly testing. We're doing a lot of
+
+189
+00:06:20,000 --> 00:06:24,000
+AB testing.
+
+190
+00:06:21,000 --> 00:06:25,000
+Love some different tools out there
+
+191
+00:06:24,000 --> 00:06:28,000
+&gt;&gt; [music]
+
+192
+00:06:25,000 --> 00:06:29,000
+&gt;&gt; that my team knows I don't necessarily
+
+193
+00:06:27,000 --> 00:06:31,000
+know or can share with them and we're so
+
+194
+00:06:30,000 --> 00:06:34,000
+early to using them, probably not
+
+195
+00:06:31,000 --> 00:06:35,000
+comfortable promoting them as of yet
+
+196
+00:06:34,000 --> 00:06:38,000
+&gt;&gt; [music]
+
+197
+00:06:34,000 --> 00:06:38,000
+&gt;&gt; because we're still so new into some of
+
+198
+00:06:36,000 --> 00:06:40,000
+the AB testing that we're doing live on
+
+199
+00:06:38,000 --> 00:06:42,000
+the website, but excited about what that
+
+200
+00:06:40,000 --> 00:06:44,000
+is going to open up for our website
+
+201
+00:06:42,000 --> 00:06:46,000
+users. So, let me actually just go ahead
+
+202
+00:06:44,000 --> 00:06:48,000
+and go to one of our websites and just
+
+203
+00:06:46,000 --> 00:06:50,000
+show you
+
+204
+00:06:47,000 --> 00:06:51,000
+what it looks like and what we're
+
+205
+00:06:48,000 --> 00:06:52,000
+prioritizing when it comes to the
+
+206
+00:06:50,000 --> 00:06:54,000
+website itself.
+
+207
+00:06:55,000 --> 00:06:59,000
+This is our Faith-Driven Entrepreneur
+
+208
+00:06:58,000 --> 00:07:02,000
+website and you can see up here at the
+
+209
+00:07:00,000 --> 00:07:04,000
+top, we've got a lot going [music] on
+
+210
+00:07:02,000 --> 00:07:06,000
+here in the navigation. This is probably
+
+211
+00:07:05,000 --> 00:07:09,000
+our longest
+
+212
+00:07:06,000 --> 00:07:10,000
+first website
+
+213
+00:07:08,000 --> 00:07:12,000
+and so, there is years and years of
+
+214
+00:07:10,000 --> 00:07:14,000
+content. One of the first things you'll
+
+215
+00:07:12,000 --> 00:07:16,000
+see is our first process in the
+
+216
+00:07:13,000 --> 00:07:17,000
+navigation is
+
+217
+00:07:15,000 --> 00:07:19,000
+content and the foundation course, video
+
+218
+00:07:17,000 --> 00:07:21,000
+courses, teens course, podcast, books,
+
+219
+00:07:21,000 --> 00:07:25,000
+research, insights, we got an app, we
+
+220
+00:07:24,000 --> 00:07:28,000
+have U version, reading plans in the
+
+221
+00:07:27,000 --> 00:07:31,000
+Bible app.
+
+222
+00:07:28,000 --> 00:07:32,000
+And so, you can go through our website,
+
+223
+00:07:29,000 --> 00:07:33,000
+you can actually see here, these are our
+
+224
+00:07:31,000 --> 00:07:35,000
+key calls to action, places that you can
+
+225
+00:07:33,000 --> 00:07:37,000
+take action getting on our email [music]
+
+226
+00:07:35,000 --> 00:07:39,000
+list, signing up for our teens course.
+
+227
+00:07:37,000 --> 00:07:41,000
+By the way, I got two teenagers that
+
+228
+00:07:39,000 --> 00:07:43,000
+just we completely go through the teens
+
+229
+00:07:41,000 --> 00:07:45,000
+course, it's free now. So, if you're
+
+230
+00:07:43,000 --> 00:07:47,000
+watching this,
+
+231
+00:07:44,000 --> 00:07:48,000
+uh it might still uh be free. It was
+
+232
+00:07:46,000 --> 00:07:50,000
+$100. It'll probably go back to $100,
+
+233
+00:07:48,000 --> 00:07:52,000
+but uh I I'd go check it out. Um it is
+
+234
+00:07:51,000 --> 00:07:55,000
+incredible uh content. Um and the we
+
+235
+00:07:55,000 --> 00:07:59,000
+have the Table Group has partnered with
+
+236
+00:07:57,000 --> 00:08:01,000
+us, and
+
+237
+00:07:58,000 --> 00:08:02,000
+um yeah, just it's it's so cool. Um
+
+238
+00:08:01,000 --> 00:08:05,000
+and uh yeah, we've got our book here.
+
+239
+00:08:03,000 --> 00:08:07,000
+So, some other activities you can see
+
+240
+00:08:04,000 --> 00:08:08,000
+there here. We're featuring one of our
+
+241
+00:08:06,000 --> 00:08:10,000
+videos uh that you can just jump right
+
+242
+00:08:07,000 --> 00:08:11,000
+into
+
+243
+00:08:08,000 --> 00:08:12,000
+uh that that we want to highlight there.
+
+244
+00:08:10,000 --> 00:08:14,000
+Content, community, coaching,
+
+245
+00:08:12,000 --> 00:08:16,000
+connection. Uh this is what we do. Try
+
+246
+00:08:14,000 --> 00:08:18,000
+to inspire people to get in the game. Um
+
+247
+00:08:17,000 --> 00:08:21,000
+and so, here's a great video
+
+248
+00:08:19,000 --> 00:08:23,000
+um
+
+249
+00:08:20,000 --> 00:08:24,000
+that is uh David Platt uh did with us uh
+
+250
+00:08:24,000 --> 00:08:28,000
+called Dear Entrepreneur.
+
+251
+00:08:26,000 --> 00:08:30,000
+Um it just really introduces why we
+
+252
+00:08:28,000 --> 00:08:32,000
+exist and how uh you [music] uh can get
+
+253
+00:08:31,000 --> 00:08:35,000
+involved and engaged.
+
+254
+00:08:33,000 --> 00:08:37,000
+Um I'm even seeing right here just the
+
+255
+00:08:34,000 --> 00:08:38,000
+blurriness of that image. Something for
+
+256
+00:08:36,000 --> 00:08:40,000
+us to improve uh here on the website.
+
+257
+00:08:38,000 --> 00:08:42,000
+So, every day we're just looking at how
+
+258
+00:08:39,000 --> 00:08:43,000
+can we improve? Um
+
+259
+00:08:42,000 --> 00:08:46,000
+and what can we pay attention to? One of
+
+260
+00:08:44,000 --> 00:08:48,000
+the things I And And then practically,
+
+261
+00:08:46,000 --> 00:08:50,000
+what we've really identified is if
+
+262
+00:08:48,000 --> 00:08:52,000
+you're coming for the content and then
+
+263
+00:08:50,000 --> 00:08:54,000
+you're staying for the community, what
+
+264
+00:08:52,000 --> 00:08:56,000
+is that process for [music] one Are
+
+265
+00:08:54,000 --> 00:08:58,000
+people coming to our website, and are
+
+266
+00:08:55,000 --> 00:08:59,000
+they looking at content? So, So, we're
+
+267
+00:08:57,000 --> 00:09:01,000
+tracking that. And then the other is
+
+268
+00:08:59,000 --> 00:09:03,000
+this find a group.
+
+269
+00:09:01,000 --> 00:09:05,000
+&gt;&gt; [music]
+
+270
+00:09:01,000 --> 00:09:05,000
+&gt;&gt; Uh when somebody goes here, uh we they
+
+271
+00:09:03,000 --> 00:09:07,000
+go to find a group, and do they choose
+
+272
+00:09:05,000 --> 00:09:09,000
+entrepreneur or investor? And
+
+273
+00:09:07,000 --> 00:09:11,000
+uh and this is how they get into a group
+
+274
+00:09:09,000 --> 00:09:13,000
+on our our web page. And so, does our
+
+275
+00:09:11,000 --> 00:09:15,000
+site do a good job of getting people
+
+276
+00:09:13,000 --> 00:09:17,000
+into both finding a group and starting a
+
+277
+00:09:16,000 --> 00:09:20,000
+group? Um and [music] so, one of the
+
+278
+00:09:19,000 --> 00:09:23,000
+things we've really prioritized is these
+
+279
+00:09:20,000 --> 00:09:24,000
+pages in particular.
+
+280
+00:09:22,000 --> 00:09:26,000
+And so, as you think about your website,
+
+281
+00:09:24,000 --> 00:09:28,000
+one of the things I would encourage you
+
+282
+00:09:25,000 --> 00:09:29,000
+to do is to think about what is the key
+
+283
+00:09:29,000 --> 00:09:33,000
+action you want somebody that's visiting
+
+284
+00:09:30,000 --> 00:09:34,000
+your website to take. And And so, for
+
+285
+00:09:33,000 --> 00:09:37,000
+us, you know, the first thing we hope
+
+286
+00:09:34,000 --> 00:09:38,000
+they do is look at get on email list.
+
+287
+00:09:36,000 --> 00:09:40,000
+And so, are we providing a good value
+
+288
+00:09:37,000 --> 00:09:41,000
+proposition as to why they should get on
+
+289
+00:09:40,000 --> 00:09:44,000
+our email list? So,
+
+290
+00:09:41,000 --> 00:09:45,000
+the value proposition comes with is the
+
+291
+00:09:43,000 --> 00:09:47,000
+value you're already providing for free,
+
+292
+00:09:45,000 --> 00:09:49,000
+is it valuable? And so, if I give you my
+
+293
+00:09:48,000 --> 00:09:52,000
+email, is the additional value going to
+
+294
+00:09:50,000 --> 00:09:54,000
+also be valuable? If what you're already
+
+295
+00:09:52,000 --> 00:09:56,000
+providing isn't real valuable, I'm not
+
+296
+00:09:54,000 --> 00:09:58,000
+convinced that, you know, me giving you
+
+297
+00:09:56,000 --> 00:10:00,000
+my email address is going to all of a
+
+298
+00:09:58,000 --> 00:10:02,000
+sudden bring new value. And so, we we're
+
+299
+00:10:01,000 --> 00:10:05,000
+we're testing how can we get somebody to
+
+300
+00:10:03,000 --> 00:10:07,000
+sign up for our email list better? We're
+
+301
+00:10:05,000 --> 00:10:09,000
+testing a lot of different even pop-ups
+
+302
+00:10:07,000 --> 00:10:11,000
+and
+
+303
+00:10:08,000 --> 00:10:12,000
+&gt;&gt; [music]
+
+304
+00:10:08,000 --> 00:10:12,000
+&gt;&gt; just newsletter sign-up forms. And then
+
+305
+00:10:10,000 --> 00:10:14,000
+the second is is joining a group. Is is
+
+306
+00:10:13,000 --> 00:10:17,000
+what happens when people join a group?
+
+307
+00:10:14,000 --> 00:10:18,000
+And so, one of the things we're using to
+
+308
+00:10:16,000 --> 00:10:20,000
+really test this is we're actually
+
+309
+00:10:17,000 --> 00:10:21,000
+testing different language of is it join
+
+310
+00:10:19,000 --> 00:10:23,000
+a group or is it get in a group or is it
+
+311
+00:10:22,000 --> 00:10:26,000
+find a group?
+
+312
+00:10:23,000 --> 00:10:27,000
+So, is is there language that works
+
+313
+00:10:26,000 --> 00:10:30,000
+better? [music] Is the button being
+
+314
+00:10:27,000 --> 00:10:31,000
+orange or gold going to be better? Which
+
+315
+00:10:30,000 --> 00:10:34,000
+one drives more action?
+
+316
+00:10:32,000 --> 00:10:36,000
+And so, we're we're finding a lot of
+
+317
+00:10:34,000 --> 00:10:38,000
+just great insights by just doing a lot
+
+318
+00:10:36,000 --> 00:10:40,000
+of AB testing with some of those
+
+319
+00:10:38,000 --> 00:10:42,000
+messaging. And then the other thing
+
+320
+00:10:39,000 --> 00:10:43,000
+we're using is heat maps. So, we're
+
+321
+00:10:41,000 --> 00:10:45,000
+using Microsoft's Clarity platform to
+
+322
+00:10:44,000 --> 00:10:48,000
+heat map all of our web pages
+
+323
+00:10:46,000 --> 00:10:50,000
+&gt;&gt; [music]
+
+324
+00:10:46,000 --> 00:10:50,000
+&gt;&gt; and give us insights into
+
+325
+00:10:48,000 --> 00:10:52,000
+how are people behaving on our websites?
+
+326
+00:10:51,000 --> 00:10:55,000
+What actions are they taking and how can
+
+327
+00:10:53,000 --> 00:10:57,000
+we improve? Maybe we need to move this
+
+328
+00:10:55,000 --> 00:10:59,000
+call to action up. Maybe we need to
+
+329
+00:10:57,000 --> 00:11:01,000
+remove a whole block from a web page
+
+330
+00:10:59,000 --> 00:11:03,000
+where we have too much information on
+
+331
+00:11:01,000 --> 00:11:05,000
+that page where they're leaving after
+
+332
+00:11:03,000 --> 00:11:07,000
+this and they're not engaging past a
+
+333
+00:11:05,000 --> 00:11:09,000
+certain point on the page. And so, yeah,
+
+334
+00:11:07,000 --> 00:11:11,000
+we're we're putting in and doing a lot
+
+335
+00:11:09,000 --> 00:11:13,000
+of testing and now and I think we're
+
+336
+00:11:10,000 --> 00:11:14,000
+moving it from a marketing perspective
+
+337
+00:11:12,000 --> 00:11:16,000
+into build and into to optimize. [music]
+
+338
+00:11:15,000 --> 00:11:19,000
+And we're optimizing based on data and
+
+339
+00:11:18,000 --> 00:11:22,000
+analytics. And so, I'll get into that
+
+340
+00:11:20,000 --> 00:11:24,000
+further how we moved into
+
+341
+00:11:22,000 --> 00:11:26,000
+a really significant priority of
+
+342
+00:11:24,000 --> 00:11:28,000
+analytics and data in our marketing
+
+343
+00:11:26,000 --> 00:11:30,000
+systems and strategy. But that's where
+
+344
+00:11:28,000 --> 00:11:32,000
+our websites have come. So, we've gone
+
+345
+00:11:29,000 --> 00:11:33,000
+from focusing on the technical to then
+
+346
+00:11:32,000 --> 00:11:36,000
+really prioritizing the content and the
+
+347
+00:11:34,000 --> 00:11:38,000
+engagement and conversion on these
+
+348
+00:11:36,000 --> 00:11:40,000
+platforms. I just want to interrupt
+
+349
+00:11:38,000 --> 00:11:42,000
+myself real quick, get back to the video
+
+350
+00:11:40,000 --> 00:11:44,000
+in a minute, but want to highlight
+
+351
+00:11:42,000 --> 00:11:46,000
+Amplify Social Media. Amplify is the
+
+352
+00:11:44,000 --> 00:11:48,000
+agency that I started more than a dozen
+
+353
+00:11:46,000 --> 00:11:50,000
+years ago. I transitioned out, handed
+
+354
+00:11:47,000 --> 00:11:51,000
+the company over to Matt Williams,
+
+355
+00:11:49,000 --> 00:11:53,000
+Jerilyn, the incredible team at Amplify.
+
+356
+00:11:51,000 --> 00:11:55,000
+They're continuing to help me. I'm a
+
+357
+00:11:52,000 --> 00:11:56,000
+client now at Amplify, still an owner,
+
+358
+00:11:54,000 --> 00:11:58,000
+still have an aspect of involvement, but
+
+359
+00:11:56,000 --> 00:12:00,000
+really focused on but I work at Faith
+
+360
+00:11:57,000 --> 00:12:01,000
+Driven Movements. And so, I'm so proud
+
+361
+00:12:00,000 --> 00:12:04,000
+of the team at Amplify and I want to
+
+362
+00:12:02,000 --> 00:12:06,000
+make sure that you, as you're watching
+
+363
+00:12:04,000 --> 00:12:08,000
+this, if you are looking for help
+
+364
+00:12:05,000 --> 00:12:09,000
+amplifying your message like I am with
+
+365
+00:12:07,000 --> 00:12:11,000
+this video, reach out to the team at
+
+366
+00:12:08,000 --> 00:12:12,000
+Amplify. AmplifySocial.Media.
+
+367
+00:12:10,000 --> 00:12:14,000
+Talk to Matt, talk to Kelly, talk to
+
+368
+00:12:12,000 --> 00:12:16,000
+Farina, talk to Jerilyn, talk to Roy,
+
+369
+00:12:14,000 --> 00:12:18,000
+talk to any of the incredible team
+
+370
+00:12:16,000 --> 00:12:20,000
+members there at Amplify and I know they
+
+371
+00:12:18,000 --> 00:12:22,000
+would love to help you amplify your
+
+372
+00:12:20,000 --> 00:12:24,000
+message. They do everything from social
+
+373
+00:12:21,000 --> 00:12:25,000
+media to podcast to YouTube videos like
+
+374
+00:12:23,000 --> 00:12:27,000
+this to all kinds of content, websites,
+
+375
+00:12:26,000 --> 00:12:30,000
+anything digital. They do not just
+
+376
+00:12:28,000 --> 00:12:32,000
+social media, well that is our [music]
+
+377
+00:12:30,000 --> 00:12:34,000
+specialty, but where we really started,
+
+378
+00:12:31,000 --> 00:12:35,000
+our services have expanded. So, make
+
+379
+00:12:33,000 --> 00:12:37,000
+sure you reach out to the team at
+
+380
+00:12:34,000 --> 00:12:38,000
+Amplify. It doesn't cost you [music]
+
+381
+00:12:35,000 --> 00:12:39,000
+anything to talk to them, worth the
+
+382
+00:12:37,000 --> 00:12:41,000
+conversation, see what they can do and
+
+383
+00:12:38,000 --> 00:12:42,000
+if they can help you amplify your
+
+384
+00:12:40,000 --> 00:12:44,000
+message. Let's get back to the video.
+
+385
+00:12:41,000 --> 00:12:45,000
+And and now, I think we're going to move
+
+386
+00:12:43,000 --> 00:12:47,000
+into hyper engagement with that
+
+387
+00:12:46,000 --> 00:12:50,000
+while while also continuing to refine
+
+388
+00:12:49,000 --> 00:12:53,000
+what what do we need to add to our
+
+389
+00:12:50,000 --> 00:12:54,000
+websites? What, you know, are more pages
+
+390
+00:12:52,000 --> 00:12:56,000
+going to be helpful for SEO? And as we
+
+391
+00:12:54,000 --> 00:12:58,000
+get into more
+
+392
+00:12:55,000 --> 00:12:59,000
+&gt;&gt; [music]
+
+393
+00:12:55,000 --> 00:12:59,000
+&gt;&gt; chat GPT kind of SEO
+
+394
+00:12:58,000 --> 00:13:02,000
+functionality, what's going to be
+
+395
+00:13:00,000 --> 00:13:04,000
+important for that for people to find
+
+396
+00:13:01,000 --> 00:13:05,000
+our websites and engage with them? And
+
+397
+00:13:03,000 --> 00:13:07,000
+then beyond that,
+
+398
+00:13:04,000 --> 00:13:08,000
+it is what what are what do we need to
+
+399
+00:13:06,000 --> 00:13:10,000
+do to to trim our websites? Where where
+
+400
+00:13:09,000 --> 00:13:13,000
+have our websites gotten fatter? You
+
+401
+00:13:10,000 --> 00:13:14,000
+have pages that are outdated or
+
+402
+00:13:12,000 --> 00:13:16,000
+information that that's inaccurate or no
+
+403
+00:13:14,000 --> 00:13:18,000
+longer accurate or no longer represents
+
+404
+00:13:17,000 --> 00:13:21,000
+our organization well. We need to
+
+405
+00:13:19,000 --> 00:13:23,000
+constantly be refining those websites
+
+406
+00:13:21,000 --> 00:13:25,000
+and so,
+
+407
+00:13:22,000 --> 00:13:26,000
+our web pages can get very old and
+
+408
+00:13:25,000 --> 00:13:29,000
+outdated and people can land on old
+
+409
+00:13:26,000 --> 00:13:30,000
+pages and get very confused. Or one of
+
+410
+00:13:28,000 --> 00:13:32,000
+the things I see all the time is, you
+
+411
+00:13:30,000 --> 00:13:34,000
+know, the wrong date. It's 2025
+
+412
+00:13:33,000 --> 00:13:37,000
+uh or now, probably 2026,
+
+413
+00:13:35,000 --> 00:13:39,000
+uh and it still says 2022 at the bottom
+
+414
+00:13:38,000 --> 00:13:42,000
+of your website. Uh do you have the
+
+415
+00:13:40,000 --> 00:13:44,000
+right date? Uh because that can tell
+
+416
+00:13:41,000 --> 00:13:45,000
+people of like, "Are they even still in
+
+417
+00:13:43,000 --> 00:13:47,000
+business?"
+
+418
+00:13:44,000 --> 00:13:48,000
+Um and so, we we need to make sure uh
+
+419
+00:13:47,000 --> 00:13:51,000
+we're prioritizing these little things
+
+420
+00:13:49,000 --> 00:13:53,000
+on our website. So, uh the other last
+
+421
+00:13:51,000 --> 00:13:55,000
+thing I want to note when it comes to
+
+422
+00:13:53,000 --> 00:13:57,000
+our website
+
+423
+00:13:54,000 --> 00:13:58,000
+is having people that have a high
+
+424
+00:13:57,000 --> 00:14:01,000
+attention to detail involved in your
+
+425
+00:13:59,000 --> 00:14:03,000
+website process. Well, I mean, I
+
+426
+00:14:00,000 --> 00:14:04,000
+mentioned before that we hired a
+
+427
+00:14:02,000 --> 00:14:06,000
+marketing director. Uh her name is
+
+428
+00:14:04,000 --> 00:14:08,000
+Kristen. She has been such a great asset
+
+429
+00:14:06,000 --> 00:14:10,000
+uh to our organization. And one of those
+
+430
+00:14:08,000 --> 00:14:12,000
+things is just her high attention to
+
+431
+00:14:10,000 --> 00:14:14,000
+detail uh when it comes to not just not
+
+432
+00:14:12,000 --> 00:14:16,000
+just, you know, project management, but
+
+433
+00:14:14,000 --> 00:14:18,000
+really like making sure these pages uh
+
+434
+00:14:16,000 --> 00:14:20,000
+the copy is getting integrated with the
+
+435
+00:14:18,000 --> 00:14:22,000
+pages well, uh that the the design is
+
+436
+00:14:21,000 --> 00:14:25,000
+fitting well, that the uh that that
+
+437
+00:14:23,000 --> 00:14:27,000
+we're doing it in our QA processes. We
+
+438
+00:14:25,000 --> 00:14:29,000
+now have a
+
+439
+00:14:26,000 --> 00:14:30,000
+a QA person on our team that that's
+
+440
+00:14:28,000 --> 00:14:32,000
+their job is to QA
+
+441
+00:14:30,000 --> 00:14:34,000
+um primarily our web pages. Uh and so,
+
+442
+00:14:32,000 --> 00:14:36,000
+we're really beginning to prioritize
+
+443
+00:14:34,000 --> 00:14:38,000
+that that quality uh level uh when we
+
+444
+00:14:37,000 --> 00:14:41,000
+get to the optimization of our web
+
+445
+00:14:39,000 --> 00:14:43,000
+pages. So, hope that helps uh as we're
+
+446
+00:14:42,000 --> 00:14:46,000
+continuing to build out loud, um that's
+
+447
+00:14:44,000 --> 00:14:48,000
+where we're at uh with our web pages. We
+
+448
+00:14:46,000 --> 00:14:50,000
+have seen great progress. I think this
+
+449
+00:14:48,000 --> 00:14:52,000
+is probably an area uh that that you'll
+
+450
+00:14:51,000 --> 00:14:55,000
+see and I'll I'll continue to
+
+451
+00:14:52,000 --> 00:14:56,000
+uh share
+
+452
+00:14:54,000 --> 00:14:58,000
+our learnings. Uh but, I don't think
+
+453
+00:14:55,000 --> 00:14:59,000
+we're going to change a whole lot
+
+454
+00:14:56,000 --> 00:15:00,000
+technically in the future, but I think
+
+455
+00:14:58,000 --> 00:15:02,000
+we're going to take a lot of this AB
+
+456
+00:14:59,000 --> 00:15:03,000
+testing that we're doing, integrate
+
+457
+00:15:01,000 --> 00:15:05,000
+this, and so you guys see uh a lot of
+
+458
+00:15:04,000 --> 00:15:08,000
+just little small refinements happening
+
+459
+00:15:06,000 --> 00:15:10,000
+uh that we believe are going to help to
+
+460
+00:15:08,000 --> 00:15:12,000
+really scale our core objectives uh as
+
+461
+00:15:11,000 --> 00:15:15,000
+we're learning from the data that's
+
+462
+00:15:13,000 --> 00:15:17,000
+coming into the website and the user
+
+463
+00:15:14,000 --> 00:15:18,000
+behaviors into our website. So, thanks
+
+464
+00:15:16,000 --> 00:15:20,000
+so much for watching. If you have any
+
+465
+00:15:17,000 --> 00:15:21,000
+questions, don't hesitate to drop those
+
+466
+00:15:19,000 --> 00:15:23,000
+uh in the comments. I'd love to answer
+
+467
+00:15:21,000 --> 00:15:25,000
+those. Uh if you're not yet engaged with
+
+468
+00:15:23,000 --> 00:15:27,000
+faith driven entrepreneur solving the
+
+469
+00:15:24,000 --> 00:15:28,000
+world's greatest problems, faith driven
+
+470
+00:15:25,000 --> 00:15:29,000
+investor, we just have so many great
+
+471
+00:15:27,000 --> 00:15:31,000
+things going on with the faith driven
+
+472
+00:15:29,000 --> 00:15:33,000
+movements. I hope you'll get involved. I
+
+473
+00:15:31,000 --> 00:15:35,000
+think it's there's something here for
+
+474
+00:15:33,000 --> 00:15:37,000
+everyone. It has been such an honor for
+
+475
+00:15:35,000 --> 00:15:39,000
+me to lead as the VP of marketing and I
+
+476
+00:15:37,000 --> 00:15:41,000
+hope it's helpful for you as I'm
+
+477
+00:15:39,000 --> 00:15:43,000
+learning out loud here as we're building
+
+478
+00:15:42,000 --> 00:15:46,000
+in public. Thanks for watching. We'll
+
+479
+00:15:44,000 --> 00:15:48,000
+talk to you again on the next video.
+
+480
+00:15:50,000 --> 00:15:54,000
+&gt;&gt; [music]
+

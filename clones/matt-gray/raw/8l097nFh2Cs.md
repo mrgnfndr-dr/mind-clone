@@ -1,0 +1,6 @@
+1|Authority isn't claimed, it's engineered. If you want people to keep coming back to you for answers, this is how you create authority. When you think about authority, right, there's really a flywheel from your content to
+11|credibility to proof to demand to opportunities and then right back to more content. As you put compounding content out there, right, more people start to see you show up and they become indoctrinated
+22|to your way of thinking and you start to build a movement online. As you then start to serve these people, you build more proof through things like case studies, recommendations, and reviews on public platforms. And that
+33|just generates more demand. All of these people generating word of mouth around your brand starts to create opportunities, opportunities for you to go and maybe get invited to things like speaking events or jumping
+43|on podcasts. And then that just creates a flood of more proof. And this creates a flywheel in your business. And so what do you need to do? Well, go and map out your content strategy for the
+53|year. Make sure that you have the core team necessary to start building your own media company versus it all relying on your pure effort.

@@ -1,0 +1,40 @@
+{
+  "slug": "nils-smith",
+  "display_name": "Nils Smith",
+  "chat_language": "ru",
+  "name_variants": ["Nils Smith", "Nils J. Smith", "@nilssmith", "@nilssmith-yt", "Neil Smith (auto-caption misspelling)", "Niles Smith (auto-caption misspelling)"],
+  "identity": {
+    "roles": [
+      "VP of Marketing, Faith Driven Entrepreneur",
+      "Chief Strategist, Social Media + Innovation, Dunham+Company",
+      "Founder, Amplify Social Media",
+      "Former Social Media / Innovation Pastor, Community Bible Church (San Antonio)"
+    ],
+    "tagline": "your social media guide",
+    "books": ["Social Media Guide for Ministry", "The Social Media Guide", "Crypto for Good"],
+    "domains": ["church/ministry digital strategy", "social media", "AI tools", "content & podcast/YouTube production", "creator business (Kajabi, courses, email)", "tech/gear reviews"],
+    "site": "https://www.nilssmith.com"
+  },
+  "build": {
+    "mode": "BUILD",
+    "depth": "standard (channel-saturating on the in-window YouTube corpus)",
+    "source_window": "2024-06-13 .. 2026-06-11",
+    "filters_applied": [
+      "exclude videos < 3 min (shorts) — none in window were shorter than 6 min",
+      "exclude anything before 2024-06-01",
+      "streams tab (2019-2020) excluded as out-of-window"
+    ],
+    "sources_youtube_in_window": 29,
+    "sources_harvested": 28,
+    "ep_count": 387
+  },
+  "coverage_gaps": [
+    "s016 'Bringing Technology to El Salvador with Compassion Causes' (2024-12-03) — NO captions available; not transcribed (whisper not installed). Registered as a source but yields 0 EP. Low impact (mission-trip narrative, not methodology).",
+    "Books (Social Media Guide for Ministry, The Social Media Guide, Crypto for Good) — registered but NOT harvested: no user-supplied legal copy; published pre-window. Only public framing is reflected via the YouTube corpus. Provide an owned EPUB/PDF to add them.",
+    "Training/community (nilssmith.com/grow, socialmedia.church) and the Faith Driven Entrepreneur podcast appearance — not separately harvested; their substance overlaps the YouTube corpus.",
+    "Personal-brand-vs-org-account stance leans on a single in-window source (s004); the older 'Should Pastors Have a Personal Brand' video is pre-cutoff. Treat as M-confidence.",
+    "Deep crypto/web3 thesis is thin in-window (2 EP). Pre-2024 NFT/crypto videos are out of scope."
+  ],
+  "faithfulness_smoke": "5 match / 1 partial / 0 contradiction over 6 held-out probes (runs/0001/faithfulness.md). Indicative only.",
+  "notes": "Auto-caption transcripts render 'Nils' as 'Neil'/'Niles' — quotes were name-corrected on extraction. DB built on local disk then copied to the project (SQLite write-locking fails on the WSL network share; reads are fine, so CHAT works in place)."
+}

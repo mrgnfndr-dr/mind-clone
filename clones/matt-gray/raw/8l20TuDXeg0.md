@@ -1,0 +1,4 @@
+2|my own experience, it's hard sometimes to discern these things. Is it actually something that's accelerating your vision and going to get you the cash you need and be this proof point of what you're building and and be that or is it a distraction constantly like trying to figure out like is this thing helping me
+12|or is this thing like hurting me? You know, how do you decide based on experience? One of that is like the criteria of like a hell yes or a no. Does this feel like it's like a definite hell yes and it's like, oh yeah, like
+24|this is definitely going to help us. This moves us forward. Like this is in line with what we're doing. or does it like feel somewhat murky and it's like the money's good but [\h__\h] I can't totally see how it accelerates it and
+36|like we're serving filmmakers we're not serving like the core thing is not this thing this is a different thing.

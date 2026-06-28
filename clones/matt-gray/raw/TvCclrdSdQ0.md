@@ -1,0 +1,5 @@
+2|need better habits let's do it together here are the four areas I'm focused on habits for your mind this year I'm blocking out 4 hours every morning for deep work no distractions no deviations your life is decided by your ability to
+12|protect your time from now on I evaluate opportunities is either a h yes or it's a no habits for your body I do at least 60 Minutes of intense exercise a day I take 10,000 daily steps I do yoga three
+24|times a week and do regular ice baths and saunas for energy recovery habits for your business I talked to 10 customers a month I want to understand problems find Opportunities and keep my business evolving I'm committed to
+34|building a personal Board of advisers each month I talk to my mentors they accelerate my growth in areas I don't understand I also create content daily with no excuses habits for your
+44|relationships always remember birthdays ask about family care about every person you talk to the single greatest people skill is a highly developed and authentic interest in others

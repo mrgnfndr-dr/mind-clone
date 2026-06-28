@@ -1,0 +1,8 @@
+2|What a beautiful time to be alive, y'all. Why tools beat lead magnets. So, first off, a lot of you guys have lead magnets and there's these basic PDFs and [\h__\h] right? And while that's cool and all, the next stage here are tools.
+14|Reason why tools are cool, they get used daily and also they lead to this next aspect, which allows you to grade your leads, qualify them, and then make sure that they're interactive. So, you're
+24|collecting maximum amounts of data and then getting these folks warm and closing them, right? And so, the beautiful thing about a tool is that it can go and direct the right people to
+35|the right next step. So, they're more interactive and dynamic and smart and intelligent versus just some static PDF. And so, this is really the future and if you're looking to go and get started
+46|with tools, think about whether you want to create some sort of quiz or score or calculator. Maybe you got another idea, right? And you can use tools like Cloud Code, Lovable to go and spin these things up
+57|super easily, publish them to things like Vercel or your Webflow website, and just get experimenting with them, right? If you've not ever built a tool before, just go and pick something that'd be
+67|exciting to you, keep it kind of small, concise, maybe just have like seven questions that people go and fill out. Thereby, it's both a tool, but it's also sort of a qualification layer for you
+78|and can move people quicker down your funnel and do it in a way that's memorable for them and useful to you and overall a win-win. So, tools over lead magnets, folks.

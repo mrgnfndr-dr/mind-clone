@@ -1,0 +1,79 @@
+1|What if I told you that the only thing you need to get unstuck and make progress faster than 99% of people is a simple 10-minute system? This system took me from trapped in a cycle of burnout and procrastination to being
+11|able to work 4 hours a day building a portfolio of online businesses from anywhere in the world. So, here's my simple five-step system so you can get unstuck and level up so fast it feels like cheating. Step one, the 2-minute
+22|mental cleanse. This part takes 2 minutes. The reason why this works is because of Newton's first law, the physics of momentum. When you're stuck, it's because you're at rest. You're
+32|trying to overcome this inertia. But once you start moving, even just tiny movements forward, that momentum starts to pick up and move you forward. So, here's what you're going to do. You're going to go and write down everything
+42|that's causing you mental static and get it out of your head. Every unfinished task, everything that you're just circulating over and over in your head, just get it down and onto paper. And
+52|there's actual neuroscience to back this. Your brain treats starting as the hardest part of the task. though if you can just get going even as tiny or insignificant as it may seem you know
+62|often times I'll go and just pick the smallest part of any task you know say I need to go and write a new newsletter I may just go and decide on the subject line or if I need to write an ex post it
+74|may start by just sitting at my computer opening up Hype Fury and just writing that first sentence just take the smallest action possible tiny actions now lead to big results over the long
+86|term in addition Addition to doing the 2-minute mental cleanse in the morning, you can also apply this technique all throughout your day. Stuck writing a blog post? Start with the worst paragraph possible, 2 minutes. If stuck
+96|going and creating your first YouTube video? Just sit down and turn the camera on. The magic isn't in the 2 minutes. It's in the pattern of breaking the overthinking. Every morning, start the
+106|clock. Do your brain dump onto a pen and paper. Pick the biggest task you need to get done that day. And then ask yourself, what would the quickest version in 2 minutes of this task look
+116|like? and then just get going. Forel has this amazing quote. The creative advice I would give right now, all your fears, your flaws, your insecurities, your guilts, your pressures, look at them on
+127|a list. Know they are all distractions. Once you do that, you'll experience your life uninterrupted. Action beats anxiety. Step two, the momentum multiplier. This part takes 2 minutes.
+137|Jerry Seinfeld focused on one small win. Writing one joke every single day. this small tiny win, right, of just creating one joke a day. Fast forward 10 years
+148|later, 20 years later, Jerry Seinfeld is worth over $1.1 billion and the Seinfeld show is worth over 7.6 billion. Insane. You go and you think about creating a $7
+159|billion show, many people just get paralyzed going, "Where the hell do I start?" It starts in your daily actions. I was talking to a founder named Pierre last week, and I asked Pierre, you know,
+169|Pierre, what are your five-year goals? Now, he told me that he wanted to be making $80 million per year. So, then I went to him and I said, "Well, what are you currently doing right now?" He said, " $10,000 a month." I said, "Okay, quite
+181|the gap." And so, what are the actions that you're currently looking at taking? And he told me how he was rejigging his offer. He was launching a new e-commerce site. He was launching a new YouTube
+191|channel. He was going to launch a new YouTube business channel as well as a newsletter. And what I realized was that because he was trying to do something so big, you know, he thought that the
+201|actions that he needed to take this week were that big as well. And what this was causing Pierre was just a lot of analysis paralysis. The truth is to get to that kind of number, you need to
+211|focus on the smallest amount of actions today that you can take to go and get there. Here's some examples of some small win categories. Now, on the learning side of things, it may just
+221|mean going and starting a new book and reading the first 10 pages. On the revenue side of things, it may mean just rejigging one offer or getting your first 10 customers. Now, creation wins
+232|could be writing a hundred words. It could just mean publishing that first post. Every morning when doing this 2-minute exercise, ask yourself, "What's one small win I can generate today?" Write it down. Make it specific,
+244|measurable, actionable, realistic, and time bound. As Les Brown said, "You don't have to be great to get started, but you have to get started to be great." Show up small and keep showing up. Step three, the discomfort
+255|challenge. This takes one minute. It's called the 5-second rule. Now, whenever you think of something that you need to get done, you go simply and countdown from 5 4 3 2 1 and then take the
+269|smallest action possible to immediately move forward and get that thing going. After going and practicing this for just one week, it completely rewired my brain
+279|at 25 years old. Because the truth is that even just a messy first action is better than a perfect action in one year. I used to run from every uncomfortable feeling. You know, having
+289|that hard conversation with a new hire, I'd avoid it. Publishing a piece of content, I'd wait till it's perfect. Releasing that new product, I'd have to run it by 10 people before I felt ready. The truth was that I was getting in the
+300|way of my own success. All this perfectionism was causing me to be paralyzed and to not just release things. That's when I developed the pain-seeking system. It started to hit
+310|me that damn, I was really getting in the way of my own momentum. You know, I had become my own worst enemy. So, I made a new pack with myself. I would start seeking the pain and getting
+320|through this discomfort. It was from this discomfort that I was able to finally go and start getting the real results that I craved. Now, Mel Robbins isn't the only person that has this kind
+330|of 54 321 rule. Elon Musk is the same way. inside of his companies. He has one operating principle, a maniacal sense of urgency. When someone goes and says,
+340|"Oh, we can have that done in a year." It's why not one month or hey, I'll get that done to you next Friday. Why not this Tuesday? Often times, our job as leaders is to amp it up. To take those
+351|longer timelines and make them shorter and if we want to expect this of the teams and people around us, well, we have to expect it of ourselves. Here are discomfort examples by level. So level
+361|one beginner is just, you know, trying a new type of food or just diving into that simple task that you've been putting off. Level two is intermediate. This is when you're going to go and ask
+371|for that raise you've been putting off or maybe it's letting go of someone in the company you started. Level three is expert. This is when you have the courage to go and maybe pivot a business
+381|that's no longer working and choose a new direction. Or maybe it's quitting your job to go and bet on your calling in life. No matter what stage you're at, you know, leaning into discomfort in
+392|life is where the real magic happens. As Walt Disney said, the way to get started is to quit talking and begin doing. Push into your discomfort. Pain is the path. And that leads us to the next step. Step
+402|four, the ship messy protocol. This takes 2 minutes. It's not ready yet. I said those words 127 times before starting Founder OS. You know, at first,
+413|you know, I wasn't sure. Did I have the skills and ability to go and teach people audience growth? Sure. I had built Herb to 14 million people and I'd been doing this stuff for 10 years. But there were parts of me that still
+423|wondered if I was ready. You know, I know that this isn't just me, right? Thousands, if not millions of other people also struggle with this same limiting belief before launching something. You know, there's this myth
+433|in entrepreneurship that, you know, you need to have it all figured out and then launch it. When the truth is that you launch it and then you figure it out. The ship messy protocol all comes down
+443|to launching something when it's at 70%. You know, when it doesn't quite look right, that's probably the time just to get it out there. If you're not embarrassed by your first launch of a
+454|product, you probably launch too late. So, here's what you're going to do. You're going to write down what you're overperfecting. You're going to write it down and then you're going to go and ship it today. You know, I shipped Founder OS just at 70%. I had six
+466|modules, a community built in school, and I had the first 47 sales in one day. From all that feedback, I was then able to iterate, launch six more modules that
+476|people actually wanted, launch a founder retreat, and compound it now today of a community of over 1,400 high growth founders. And this doesn't just apply to
+486|business. You know, it can apply to learning a new skill like that first string on a guitar or running that first mile of a 5m race. Here's why the 70% rule works. You know, at 40%, you should
+496|probably hold off. You know, if you launch this thing, you may actually damage your reputation. At 70%, you're still a bit embarrassed by it, but this is the perfect time to put that thing out there. At 90%, you've probably
+508|waited far too long and you may have even missed the boat. Here's some shipping messy examples. Know you wanted to start that community forever, just go and launch something in school. You've always wanted to have a newsletter, go
+519|and publish the first one using Kit. You want to launch a new business, just go and launch a landing page. You know, oftentimes these big projects start with
+529|just shipping the first thing messy. The ship messy protocol is what's going to help you go and accomplish your goals. Let's go and break it down to the five core steps. Number one, define your minimum viable value. Right? What's that
+541|bit of value that you can get going and then launch it. Two, define the 70% rule. Once you've got 70% towards where you're trying to really get to with it, launch it. Number three, launch the
+553|thing with a disclaimer. Let people know this is just version one. Number four, open yourself up to feedback. Tell people to go and let you know how they can improve the product and what they
+563|want to see. And then go and number five, respond to that feedback, iterate on the product, and just keep going. You know, your ability to go and iterate quickly on these five cycles is what is
+575|going to help create a loyal consumer base. Mark Zuckerberg famously said, "Move fast and break things." And this is what has made him one of many Silicon Valley billionaires. And the truth is
+586|that when you're building something, you just need to get it out there. The market, AI, everything is moving so fast these days. And speed is your competitive advantage as a founder. You
+596|will benefit by just shipping messy and getting it out there. Step five, the one domino decision. This part takes 3 minutes. Just 4 months ago, I was in big su California on the coast taking some
+607|time away from all technology to just reflect on you know my life, my business and you know what the core things I could focus on to really move my life forward as fast as possible and hit my
+618|10-year goals in the next 6 months. And when I went and distilled what the one big domino would be to go and get myself, you know, towards this big dream, this vision, it was having 4
+629|hours daily to work on an exceptional piece of content every day and ship it. You know, if you're stuck, it's often times because you're just trying to do way too many things all at once versus
+639|focused on the one core thing that can go and move things forward in your life in a big way. Is it crafting your offer? Is it refining your product? Is it making one big hire? Now, why is this
+650|called the one domino framework? Imagine every second of your life as a domino. Each domino is tipping the future in one direction or another. And here's the crazy part. If you line them up
+660|correctly, a single domino today can unleash unstoppable momentum, knocking down walls you thought were impossible. So many founders go and tell me that they don't have enough time. But the
+670|truth is, they just don't have their priorities right. So, here's what you're going to do. You're going to go and review all your goals and take 3 minutes and then write down the one most important thing. your one big domino.
+680|You may be wondering, "Well, Matt, how did you figure out that exceptional content creation was that one big domino?" You know, years ago when I was first starting my personal brand at the age of 30, I had a mentor named Justin.
+691|And I said, you know, Justin, I just want to do whatever it takes to, you know, go and achieve this mission of inspiring 100 million founders to accomplish their dreams through proven systems. You know, what's that one thing
+702|you think I should really focus on? His next statement literally changed my life. He said, "Matt, set your audience on fire." It was that statement that
+712|caused me to go on a deep dive of what it would take to go and set my online audience on fire. And after a lot of analysis, it came down to just one simple thing. Exceptional content
+723|creation. I stopped everything. I focused only on amazing content across YouTube, Instagram, Tik Tok, X, and LinkedIn. And everything changed. You know, this content didn't just drive
+733|leads. It created a movement. It created, you know, an ability to go and hire people so much easier and it built what Founder OS is today. So, here's some real examples. You know, you're
+743|stuck because you're not going for workouts. Well, your one domino maybe just to go and walk to the gym today. Stuck going and trying to create an offer. Well, your one domino may be to go and write a one pager on who you're
+753|looking to target and how you can help them. So, here's how you can go and use this in your everyday life. You know, when you go into any day, make sure that you are clear on that one domino you can complete that will make that day a
+765|success. If you just get this thing done, when you stack that up over 365 days, getting 1% better every single day, you're 37 times better in a year,
+775|and making massive leaps towards your dreams. As Winston Churchill once said, "Perfection is the enemy of progress. Done is better than perfect." Some of you are going to go and watch this and
+785|do nothing. You're going to wait for motivation and it's never going to strike. But a small select few of you will do this every day for the next 90 days. Tomorrow, your mind will be clear
+795|with this 10-minute system. In 30 days, you'll be mind blown around the things you're able to achieve. In 90 days, your one big domino, as well as all that 70% rule stacked up, is going to help you go
+806|and accomplish those goals at record speed. And in one year, you'll be shocked about where you're at. If you're looking to go and join a community of like-minded founders that are all going
+816|and gaining momentum in their lives and businesses, you should go and check out Founder OS via the link in the description. I've also gone and prepared an unstuck playbook, which is everything in this video listed into an insane
+827|checklist you can go and implement today in your life. And you can go and check that out in the description as well. Don't forget to hit subscribe and I'll see you in the next

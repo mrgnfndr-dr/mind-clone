@@ -1,0 +1,16 @@
+{"cmd": "intent", "text": "Mergen MRR — solo founder, left employment, 12 months to point of no return, build in public to MRR. Niche: organic promotion for solo projects — short video, content factories, UGC machines. Method: deep analysis of references (what worked, in which channel, why); thesis 'channel dictates project, not trends'. Audience: entrepreneurs/product/programmers/managers 25-45 who build product but get stuck on promotion. Platform: Instagram, short video. Pillars: success story breakdowns; solo playbooks; UGC/content factories; build in public with numbers; solo founder mindset. Goal: 12 months grow Instagram, become niche expert, reach MRR via infoproducts."}
+{"cmd": "sources", "n": 21}
+{"cmd": "map", "source": "s013", "vectors": 2}
+{"cmd": "map", "source": "s014", "vectors": 7}
+{"cmd": "map", "source": "s015", "vectors": 6}
+{"cmd": "map", "source": "s004", "vectors": 35}
+{"cmd": "map", "source": "s005", "vectors": 22}
+{"cmd": "map", "source": "s013", "vectors": 2}
+{"cmd": "select", "source": "s013", "vectors": ["grows-method", "grows-pillar-selection"]}
+{"cmd": "select", "source": "s014", "vectors": ["accel-framework", "accel-content-format", "accel-posting-schedule", "accel-engagement-routine", "accel-liftoff", "accel-audience-research", "shares-metric"]}
+{"cmd": "select", "source": "s015", "vectors": ["4-1-1-content-calendar", "consistency-vs-frequency", "quality-over-quantity", "follower-goals", "series-content"]}
+{"cmd": "select", "source": "s004", "vectors": ["ebook-as-engine", "ebook-content-engine", "first-product-launch", "first-product", "pricing-philosophy", "authentic-video", "brand-partnerships", "email-list-priority", "personality-over-information", "beginner-mindset", "connection-teacher", "fear-of-judgment"]}
+{"cmd": "select", "source": "s005", "vectors": ["stories-strategy", "stories-selling", "carousel-tactics", "carousel-production", "reels-strategy", "saves-as-metric", "audience-size-philosophy", "silent-audience", "consumer-to-creator-shift", "instagram-lives", "instagram-seo", "seo-and-discovery", "video-content"]}
+{"cmd": "compile", "eps": 68}
+{"cmd": "map", "source": "s004", "vectors": 35}
+{"cmd": "select", "source": "s004", "vectors": ["engagement-over-content", "one-believer-is-enough", "trust-builds-courage", "career-logic"]}

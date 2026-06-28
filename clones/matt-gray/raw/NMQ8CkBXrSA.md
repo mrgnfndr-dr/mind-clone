@@ -1,0 +1,59 @@
+1|All right, I got a confession to make. I am more of an artist than an entrepreneur. I'm not actually that obsessed with systems for systems sake. Systems are something I create so that I
+12|can get the freedom to get out of the [\h__\h] that I hate and focus on the kind of stuff I love. My inner soul, all right, is an artist. Someone that loves
+23|free time and space to think, to scheme, to plot, really to build, too. I talked to founders all too often. In their heart of hearts, right, they're an artist just like me. But somewhere along
+34|the way, you know, they built an offer, they grew a team, they're making money now, and they're kind of larping as a CEO. But when they actually go and take some time to reflect, right, they get some
+45|space from their business, they realize in some way, shape, or form they're kind of losing themselves. And I think there's so many of us, right, that at the end of the day we just want to be creative, right? We want to build great
+55|products uh with customers that we genuinely love. We want those uh products to be sold to a, you know, smaller group of amazing humans that
+65|really value what we do and will pay us great prices to do those things so that we can run, you know, a really like lean, beautiful, cash-flowing lifestyle
+75|business. Yeah, live vibrant lives, make an impact, um and have fun. These days I've been insanely obsessed with you know, just cranking on Cloud Code,
+86|building dashboards across our entire team, really going and making sure that the whole company infrastructure layer is, you know, tight, going and building a new product called Henzo, which allows
+97|people to go and generate a really pristine LinkedIn content based on the exact formats and everything I've learned growing my LinkedIn to over 900,000 followers all organically
+107|without paid ads. Lots going on there, right? But that all comes from an inner artist in me. It's not that inherently, you know, I love the business business side of things, right? Or the operations
+118|side of things, you know? The systems side of me is how I feel is just like a necessity to get out of operations, which really I kind of hate. I think it's this combination of being an artist
+130|with an autonomous engine around us. By artist, I mean someone that every day gets paid to do the kind of [\h__\h] you love. I think that's when you're like really leaning into your own creativity.
+140|My belief in any business, right, is that, you know, there's a lot of things that have limits. Your cash flow's maybe limited initially, your resources maybe limited, your people are limited. One thing that's limitless, though, is your
+151|creativity. You know, at any given moment, you could make a YouTube video that's so creative it blows up and change the trajectory of your business. At any given moment, you could make a newsletter that's so powerful that it
+161|completely transforms the trajectory of your business. At any given moment, you could architect a funnel, right, that's so good that it changes the trajectory of your business. And so, that all comes
+171|down to you leaning into that core artistry. When I think about building organic content funnels around my business, going from social to our founder west.com/apply page, to the video there, to then the emails that
+181|people get, the flows they get in, all of that to me is like a work of art. And when I'm able to pull and push my artistry kind of into those projects, that's when I've gotten the greatest
+191|returns in life. Now, that's the artist side of it. But, the other side is this autonomous engine. Something I'm passionate about, right, is really going and running a lean team, a highly cash
+202|flowing business that's generating over 50% plus margins, making sure that my business is strictly A players, and really having it be this like lean mean
+213|machine. You know, somewhere along the way, I think in entrepreneurship, so many folks have just been led astray, right? Running bloated teams, you know, getting lost in a web of confusion,
+224|overwhelm, night after night wondering like, "What the hell am I even doing? How did my business end up like this?" No, I'm just here to say like there's definitely a better way because I was
+234|just like that. I'll be honest like even these days, I find at some points, you know, I think it's kind of the default state of where your business is always by nature kind of pulling itself, right?
+245|It's kind of pulling itself to chaos, pulling itself to entropy, right? And you constantly have to kind of be conscious of that to make sure that it stays on the path that's kind of your
+257|true north. True north for people I think that are as part of this channel, right? Is you know, a business that's systematized is a small lean team of
+268|weapons. A business that actually fires you up is, you know, working with customers you actually love and saying no to ones that are not a good fit. I think true north is being able to charge proper prices so you can have healthy
+279|margins and be able to also build a brand and build like, you know, your business as this kind of work of art. And true north I think is being able to build amazing content around your business so that leads are coming
+290|organically. Um you don't need to go and get on some ads treadmill. Um you don't need to just rely on referrals or wonder where your next leads are coming from. You know, you've got a powerful organic
+300|social media machine, owning your distribution so that you really control your destiny as a founder. You know, I'll be real with you, right? I think that every business as it grows, right?
+310|You end up scaling up, you end up kind of going through these stages of expansion, building out new product lines, right? And often times you're going and adding new team members. And then before you know it, there's like a
+320|few stragglers. I know I'm speaking with like my COO Dawn and Diego on my team and you know, you can kind of tell on the team the kind of people that are like one of us, right? The kind of people that care a lot, right? They go
+331|above and beyond, they have an all-in mentality, um they obsess over quality, they really um want to pursue like elevated design and are product obsessed. And then, you know, every time
+341|you know, you're maybe building a company of like 16, 17 people, often times here and there like one or two folks come along and you're like oh man not the best of hires, right? Not someone that's actually in the game.
+353|What I'm passionate about on that side is overall like having a lean team of like say 12 or so folks and then having an autonomous engine that's built across
+363|the company so that by default, right? We're automating roles versus hiring new people. More than ever right? It's you know, kind of viewing hiring as a failure and finding areas that you can
+373|just automate these aspects. Having an automated organic content funnel. Having automated emails around your business. Having automated follow-ups after sales calls. Having automated ways of grading
+385|your sales team to make sure that folks are staying on track and if they're not being able to remove them and having automated hiring funnels to bring on new folks. You know, having automated ways of going and discovering the best kind
+396|of content that you should make. Having automated ways of tracking your financials, tracking the growth across the business, getting dashboards served up to you so that you can, you know, really go and double down on the patterns across you know, finance, ops,
+408|content, marketing that are going to keep pushing you forward and doing less of the stuff that's not working. You know, versus trying to scramble in your business and really just kind of burn out. It's this kind of artist plus
+419|autonomous engine that I think is the winner. Now, when you have an autonomous engine in place, right? This is where I think you get the peace of mind to then, you know, it kind of is a flywheel back to the artistry. You're able to rely on
+429|things. You're not dealing with a bunch of [\h__\h] constantly. And so because of that you're able to relax, right? And it's from that state of relaxation, from that state of calm that you're then able
+440|to go and be your most creative self. You know, I know for an example, right? If I were to go and go and film some videos and that morning I'm dealing with some fire for some reason, oh my lord,
+450|you know, my ability to go and articulate myself in a video, I'm screwed, right? Because my mind is just scrambled. On the other side, you know, when my business is, you know, running nicely, when things are going the way
+461|they should be going, when, you know, pieces are automated and I'm not dealing with some random crazy text from someone on the team, you know, able just to lock in, to focus, and do what I do best,
+471|making exceptional content, going and building the business, serving founders, publishing the book, you name it. I think it's those two pieces, right, that we're all really after, right? And the
+482|artistry comes from knowing your zone of genius and the kind of stuff that you should be most focused on and getting the rest of it automated or delegated to core weapons on your team. And the
+492|autonomous engine comes from really zooming out from your business for a second and thinking about your business as more of a machine. This machine is there to serve you, right?
+503|It's not there to be run by you and then simultaneously run you into the ground. When I go and I think about this, oftentimes the best tactic I have for building that autonomous engine is
+513|honestly getting a few core people on your team in a room, getting a whiteboard, looking at your business from a bit of a bird's-eye view across sales, inquiry, onboarding, awareness,
+524|finance, ops, renewal, and going and thinking about the different components in all of these areas and who needs to own which parts, who's responsible, who
+534|needs to be accountable, who needs to be consulted with certain decisions, and who just needs to be informed, who's going to be the different systems owners for the different pieces of your business, and across this machine now,
+544|which parts can you go and automate so that it doesn't even need any human involvement. And these days with tools like Claude Code hooked up with, you know, Vercel and your HubSpot or
+554|whatever CRM you're using, you know, you're really limitless in terms of what you can automate. I have ambitious goals of, you know, building this founder infrastructure layer beyond the give, the whole side of our business that is
+565|automated to founders and to help them grow their own autonomous engines because I think this is the future. This is what I'm most focused on helping founders with these days. Um I think
+575|that, you know, if this is something that's interesting to you, this is exactly what we help people with in Founderwise and giving you that founder infrastructure layer so that you can be an artist with a beautiful autonomous
+585|engine. And so if that's interesting to you, you want us to go and build your social media machine, your engine to go and drive your content through to leads, you go and check out Founderwise via the
+596|link in the description. We'd love just to book a call, see if we can help you. When you get this right, right, you're moving from just someone that's an operator in your business, right? Getting sucked into all the business
+606|[\h__\h] to be able to be more of an architect. You know, that was my core theme this year inside of business, right? It's like really architecting the kind of business that I love, the life
+616|that I love, and helping others do the same. So, hopefully that resonates. Thanks so much for watching. Sure like and subscribe and I'll see you in the next one.

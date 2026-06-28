@@ -1,0 +1,3 @@
+1|the best work life balance for the ultra ambitious is like a pendulum it's not about finding balance it's about swinging back and forth between extremes hustle burn the candle at both ends push yourself to your limits then rest
+12|recharge find your inner peace and spend time with loved ones these two extremes might be separated by weeks or even months the seasons of life for Ultra ambitious people don't allow for the
+23|traditional concept of work life balance the pendulum swings to one extreme then the other Mr BEAST's advice was simple work crazy hours when you feel like it but then recharge

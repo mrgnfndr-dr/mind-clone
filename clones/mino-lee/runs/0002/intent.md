@@ -1,0 +1,1 @@
+I am a solo founder starting a brand-new Instagram personal brand from 0 followers — build-in-public toward monthly recurring revenue. Give me the correct step-by-step plan to start: niche/viewer, what to post, hooks, scripting, posting cadence, how to grow and eventually monetize.

@@ -1,0 +1,1388 @@
+1
+00:00:00,000 --> 00:00:02,000
+Mr. Beast, I everyone in this audience
+
+2
+00:00:02,000 --> 00:00:04,000
+already knows who that is. I don't need to explain who Mr.
+
+3
+00:00:04,000 --> 00:00:06,000
+Beast is. He posted actually on Threads.
+
+4
+00:00:06,000 --> 00:00:11,000
+This was his thread's post, which is also your platform that it's scary times
+
+5
+00:00:11,000 --> 00:00:15,000
+for creators because of these Genii tools that are coming out.
+
+6
+00:00:15,000 --> 00:00:18,000
+What do you think should. Should creators be scared is a scary
+
+7
+00:00:18,000 --> 00:00:21,000
+times. I think things are changing really
+
+8
+00:00:21,000 --> 00:00:25,000
+quickly, and I think that means that a lot of us.
+
+9
+00:00:25,000 --> 00:00:30,000
+Whether you're using a platform like Jumia's or rebuilding a platform like we
+
+10
+00:00:30,000 --> 00:00:36,000
+do on our team are having to think about how we need to evolve, how we do what we
+
+11
+00:00:36,000 --> 00:00:38,000
+do. The jobs are changing.
+
+12
+00:00:38,000 --> 00:00:42,000
+And so I don't think that technology from the creator side is going to
+
+13
+00:00:42,000 --> 00:00:46,000
+replace creativity. I think it's going to change who can be
+
+14
+00:00:46,000 --> 00:00:49,000
+creative. I think it's going to change how people
+
+15
+00:00:49,000 --> 00:00:52,000
+tell their stories. But at the end of the day, I think that
+
+16
+00:00:52,000 --> 00:00:57,000
+people have creators and creatives. They have their taste, they have their
+
+17
+00:00:57,000 --> 00:01:01,000
+processes, they have their judgments, they have their cultural commentary, and
+
+18
+00:01:01,000 --> 00:01:07,000
+they're going to use those in different ways than before, because to produce a
+
+19
+00:01:07,000 --> 00:01:11,000
+video isn't going to require what Jimmy has historically done with Mr.
+
+20
+00:01:11,000 --> 00:01:16,000
+Beast and these huge sets and these amazing elaborate production teams.
+
+21
+00:01:16,000 --> 00:01:20,000
+It's going to be something that anybody can do with access to the right model,
+
+22
+00:01:20,000 --> 00:01:23,000
+right? So on the one hand, it will make certain
+
+23
+00:01:23,000 --> 00:01:27,000
+things easier. It will lower the bar for what it takes
+
+24
+00:01:27,000 --> 00:01:31,000
+to, you know, produce maybe something that feels highly
+
+25
+00:01:31,000 --> 00:01:36,000
+like produced. Does this create more creators?
+
+26
+00:01:36,000 --> 00:01:40,000
+Does this create a upper crust of creators?
+
+27
+00:01:40,000 --> 00:01:44,000
+You know, because there's now so many more people who can do this?
+
+28
+00:01:44,000 --> 00:01:49,000
+I think it'll mean that today's creators, if they lean into the tools,
+
+29
+00:01:49,000 --> 00:01:52,000
+are the ones who do, will be able to create more or even better content.
+
+30
+00:01:52,000 --> 00:01:57,000
+But I think it also means that there are going to be people who couldn't be
+
+31
+00:01:57,000 --> 00:02:01,000
+creators before, who can now actually produce content of a certain quality or
+
+32
+00:02:01,000 --> 00:02:04,000
+at a certain scale. But it also means they're going to be
+
+33
+00:02:04,000 --> 00:02:07,000
+bad actors who try to leverage these technologies for, you know, nefarious
+
+34
+00:02:07,000 --> 00:02:12,000
+purposes as well. So, yeah, it's going to be
+
+35
+00:02:12,000 --> 00:02:16,000
+well, if you take a big step back, what the Internet did, among other things,
+
+36
+00:02:16,000 --> 00:02:20,000
+was allow almost anyone to become a publisher by reducing the cost of
+
+37
+00:02:20,000 --> 00:02:24,000
+distributing content to essentially zero.
+
+38
+00:02:24,000 --> 00:02:27,000
+And what some of these generative A.I. models look like they're going to do is
+
+39
+00:02:27,000 --> 00:02:32,000
+they're going to reduce the cost of producing content to basically zero.
+
+40
+00:02:32,000 --> 00:02:36,000
+So that will be a multiplier effect on the things that we're already seeing,
+
+41
+00:02:36,000 --> 00:02:40,000
+which is that there's more people producing more content and reaching more
+
+42
+00:02:40,000 --> 00:02:44,000
+people, and there's a lot of good and bad that comes downstream from that.
+
+43
+00:02:44,000 --> 00:02:46,000
+Yeah. So as someone who creates an algorithm
+
+44
+00:02:46,000 --> 00:02:52,000
+intended to show people things that they want to see, do you anticipate I don't
+
+45
+00:02:52,000 --> 00:02:55,000
+know if you can break down what the average person is seeing right now in
+
+46
+00:02:55,000 --> 00:02:58,000
+terms of stuff that's air generated versus, you know, maybe more traditional
+
+47
+00:02:58,000 --> 00:03:00,000
+human generated. But what's that going to look like in a
+
+48
+00:03:00,000 --> 00:03:04,000
+year or in five years? Are we going to be seeing a feed just
+
+49
+00:03:04,000 --> 00:03:08,000
+full of AI stuff or is there a human element that's going to be important
+
+50
+00:03:08,000 --> 00:03:11,000
+here? Well, today on the big platforms like
+
+51
+00:03:11,000 --> 00:03:16,000
+Instagram and TikTok and Facebook and YouTube, I think there's actually a lot
+
+52
+00:03:16,000 --> 00:03:19,000
+of hybrid content. And too often we talk about synthetic
+
+53
+00:03:19,000 --> 00:03:23,000
+content and organic content and never the twain shall meet.
+
+54
+00:03:23,000 --> 00:03:26,000
+But there's a lot of content where AI is part of the workflow, right?
+
+55
+00:03:26,000 --> 00:03:30,000
+Like you might not even know it, you might be whatever app you're using to do
+
+56
+00:03:30,000 --> 00:03:34,000
+color correction might be using models to do so, you know, stamp to on
+
+57
+00:03:34,000 --> 00:03:38,000
+Photoshop in the old days to get rid of a pimple, those types of things.
+
+58
+00:03:38,000 --> 00:03:41,000
+But that line is going to be more and more blurred.
+
+59
+00:03:41,000 --> 00:03:46,000
+So it's going to be a little bit less like what is organic content and what is
+
+60
+00:03:46,000 --> 00:03:49,000
+synthetic content and what the percentages are I think is going to be
+
+61
+00:03:49,000 --> 00:03:53,000
+actually more in the middle than pure synthetic content for a while.
+
+62
+00:03:53,000 --> 00:03:57,000
+But you will also see experiences that are pure the A.I., right?
+
+63
+00:03:57,000 --> 00:04:02,000
+You see this in the last two weeks with vibes in the app and with Socrata from
+
+64
+00:04:02,000 --> 00:04:05,000
+Openai. So I think you're going to see both.
+
+65
+00:04:05,000 --> 00:04:10,000
+You mentioned there's a lot of potential for bad actors out there.
+
+66
+00:04:10,000 --> 00:04:15,000
+We talked a few weeks ago actually, Instagram announced 3 billion users
+
+67
+00:04:15,000 --> 00:04:17,000
+and we had a conversation then. And one of the things you said was, you
+
+68
+00:04:17,000 --> 00:04:21,000
+know, you rely especially with AI on a lot of self-reporting.
+
+69
+00:04:21,000 --> 00:04:25,000
+People have to sort of let their audience know.
+
+70
+00:04:25,000 --> 00:04:29,000
+I used AI for this. A lot of people don't do that.
+
+71
+00:04:29,000 --> 00:04:34,000
+I'm curious what responsibility you think Instagram and media have versus
+
+72
+00:04:34,000 --> 00:04:37,000
+how much of that is on the content creator themselves.
+
+73
+00:04:37,000 --> 00:04:41,000
+Like, do you need to be identifying that something as AI and alerting the
+
+74
+00:04:41,000 --> 00:04:45,000
+audience to it? Or is it all on the Creator?
+
+75
+00:04:45,000 --> 00:04:50,000
+I think that we can do more to identify content that was created with I.
+
+76
+00:04:50,000 --> 00:04:54,000
+We actually when we first did it, we were doing we were using the EXIF data
+
+77
+00:04:54,000 --> 00:04:58,000
+and a bunch of people got mad at us because Photoshop was exporting content
+
+78
+00:04:58,000 --> 00:05:01,000
+and I was part of the flow. And then we were saying it was eye
+
+79
+00:05:01,000 --> 00:05:03,000
+contact, but the creator was like, This isn't the eye content.
+
+80
+00:05:03,000 --> 00:05:06,000
+But if you actually looked at how the flow was made like they were, that they
+
+81
+00:05:06,000 --> 00:05:11,000
+thought Photoshop was a genius, some tool in Photoshop that triggered that.
+
+82
+00:05:11,000 --> 00:05:13,000
+Okay, I think it was Photoshop or maybe it was premiere.
+
+83
+00:05:13,000 --> 00:05:17,000
+I forget which shot. So it's sort of a delicate matter.
+
+84
+00:05:17,000 --> 00:05:20,000
+For what it's worth, though, I think that trying to automatically label
+
+85
+00:05:20,000 --> 00:05:24,000
+everything that was created in some part with AI, particularly when there's a lot
+
+86
+00:05:24,000 --> 00:05:30,000
+of hybrid content, was only part of the process is a little bit of it's not a
+
+87
+00:05:30,000 --> 00:05:33,000
+fool's errand but it's it's maybe the wrong focus.
+
+88
+00:05:33,000 --> 00:05:39,000
+I think what's going to happen quickly is that you can still kind of tell when
+
+89
+00:05:39,000 --> 00:05:42,000
+content was created by not always, but usually in pretty good.
+
+90
+00:05:42,000 --> 00:05:45,000
+It's it's hard, harder. It's getting harder.
+
+91
+00:05:45,000 --> 00:05:48,000
+And I think pretty soon it'll be almost impossible.
+
+92
+00:05:48,000 --> 00:05:51,000
+Yeah. And so I think what we need to do is
+
+93
+00:05:51,000 --> 00:05:57,000
+sure we can work more on labeling, but we also need to provide
+
+94
+00:05:57,000 --> 00:06:01,000
+more context for people to make more informed decisions about what to believe
+
+95
+00:06:01,000 --> 00:06:06,000
+in, to not so like the way you think about, you know, literacy for my kids.
+
+96
+00:06:06,000 --> 00:06:08,000
+My kids are young. They're nine, seven and five.
+
+97
+00:06:08,000 --> 00:06:12,000
+I need them to understand as they grow up and they get exposed to the Internet
+
+98
+00:06:12,000 --> 00:06:15,000
+that just because they're seeing a video of something doesn't mean it actually
+
+99
+00:06:15,000 --> 00:06:19,000
+happened. And they when I grew up and I saw a
+
+100
+00:06:19,000 --> 00:06:23,000
+video, I could assume that that was a capture of a moment that happened in the
+
+101
+00:06:23,000 --> 00:06:26,000
+real world. And what they're going to need to do is
+
+102
+00:06:26,000 --> 00:06:28,000
+they're going to need to think about who is saying it.
+
+103
+00:06:28,000 --> 00:06:31,000
+Yeah. Who's sharing it in this case and what
+
+104
+00:06:31,000 --> 00:06:34,000
+are their incentives and why might they be saying it.
+
+105
+00:06:34,000 --> 00:06:39,000
+And there's going to be way more importance if you're going to make
+
+106
+00:06:39,000 --> 00:06:44,000
+good decisions about what to trust and what to allow to inform your own
+
+107
+00:06:44,000 --> 00:06:47,000
+opinions. This is an if we're going to shift
+
+108
+00:06:47,000 --> 00:06:52,000
+emphasis away from the content itself and not to ignore it, but just away from
+
+109
+00:06:52,000 --> 00:06:56,000
+it and put more on who's saying it and why they might be saying it.
+
+110
+00:06:56,000 --> 00:06:59,000
+Yeah, but you're doing that as a as an involved parent, but as a platform we
+
+111
+00:06:59,000 --> 00:07:01,000
+can provide context to. Right.
+
+112
+00:07:01,000 --> 00:07:03,000
+Like and we do today, but we can do more like today.
+
+113
+00:07:03,000 --> 00:07:07,000
+If you go to my profile, you can go to about this profile, you can see how long
+
+114
+00:07:07,000 --> 00:07:12,000
+I've had this profile, what country I'm based in, how many times I've changed my
+
+115
+00:07:12,000 --> 00:07:18,000
+username, a series of signals that you can use to decide how much you want to
+
+116
+00:07:18,000 --> 00:07:22,000
+trust or not trust. Or maybe is that even about positive or
+
+117
+00:07:22,000 --> 00:07:25,000
+negative? Maybe it's just about my political bias
+
+118
+00:07:25,000 --> 00:07:28,000
+or my financial bias or any other kind of bias.
+
+119
+00:07:28,000 --> 00:07:32,000
+So yeah, it feels like it's evolving. Obviously, the Instagram app is evolving
+
+120
+00:07:32,000 --> 00:07:34,000
+as well. That was a big part of our last
+
+121
+00:07:34,000 --> 00:07:37,000
+conversation. I think people still think of.
+
+122
+00:07:37,000 --> 00:07:41,000
+I shouldn't say I certainly still part of me thinks of Instagram as this feed
+
+123
+00:07:41,000 --> 00:07:46,000
+of of beautiful curated photos and videos like that is maybe it's certainly
+
+124
+00:07:46,000 --> 00:07:50,000
+an older way of thinking about it. You're leaning very hard into this sort
+
+125
+00:07:50,000 --> 00:07:56,000
+of newer version of Instagram, which is DMS stories reels.
+
+126
+00:07:56,000 --> 00:07:59,000
+Walk us through a little bit about where your priorities are with Instagram right
+
+127
+00:07:59,000 --> 00:08:02,000
+now. Like, is the traditional feed a thing of
+
+128
+00:08:02,000 --> 00:08:05,000
+the past at this point? It's certainly changing.
+
+129
+00:08:05,000 --> 00:08:10,000
+The all the growth in Instagram over the last five years or more have really has
+
+130
+00:08:10,000 --> 00:08:16,000
+really come from DMS and reels and recommendations and stories.
+
+131
+00:08:16,000 --> 00:08:22,000
+But we started as a feed of hyper saturated photos, you know, glossy
+
+132
+00:08:22,000 --> 00:08:25,000
+landscapes. You guys can all picture the aesthetic
+
+133
+00:08:25,000 --> 00:08:28,000
+and that's just not how people use Instagram anymore.
+
+134
+00:08:28,000 --> 00:08:31,000
+Our biggest risk is that the world evolves.
+
+135
+00:08:31,000 --> 00:08:34,000
+We don't keep up and we just become irrelevant.
+
+136
+00:08:34,000 --> 00:08:39,000
+If we can build dams and stories and reels, you wouldn't be interviewing me
+
+137
+00:08:39,000 --> 00:08:41,000
+on stage today. We wouldn't be relevant, Relevant enough
+
+138
+00:08:41,000 --> 00:08:45,000
+to show up at screen time. Yeah, but moving it forward is also
+
+139
+00:08:45,000 --> 00:08:49,000
+tricky. People get frustrated when you have and
+
+140
+00:08:49,000 --> 00:08:52,000
+when they have an experience that they use for.
+
+141
+00:08:52,000 --> 00:08:54,000
+Call it half an hour a day and then someone comes and changes it without
+
+142
+00:08:54,000 --> 00:08:56,000
+asking them. So it's a balance.
+
+143
+00:08:56,000 --> 00:09:00,000
+But but we have to because if we didn't, we would be in trouble.
+
+144
+00:09:00,000 --> 00:09:03,000
+I mean, like, I think we probably shouldn't do this because nobody can see
+
+145
+00:09:03,000 --> 00:09:06,000
+the audience on camera. But how many of you use Instagram?
+
+146
+00:09:06,000 --> 00:09:09,000
+It's okay if you don't raise your hand really high, so I can see.
+
+147
+00:09:09,000 --> 00:09:12,000
+Cool. How many of you keep your hand up?
+
+148
+00:09:12,000 --> 00:09:16,000
+Have messaged someone in the last two days.
+
+149
+00:09:16,000 --> 00:09:18,000
+Great. How many now?
+
+150
+00:09:18,000 --> 00:09:22,000
+How many of you have posted a story in the last couple of days?
+
+151
+00:09:22,000 --> 00:09:25,000
+All right. So maybe about half from about it was
+
+152
+00:09:25,000 --> 00:09:27,000
+like 80%. How many of you posted something to feed
+
+153
+00:09:27,000 --> 00:09:31,000
+in the last two days? Those watching, the number of hands is
+
+154
+00:09:31,000 --> 00:09:33,000
+very minimal. We have seven.
+
+155
+00:09:33,000 --> 00:09:35,000
+We went from, like all of us, everybody to seven.
+
+156
+00:09:35,000 --> 00:09:39,000
+Yeah. That's how Instagram is used.
+
+157
+00:09:39,000 --> 00:09:43,000
+We connect with friends, we explore our interests, but we do so by seeing a will
+
+158
+00:09:43,000 --> 00:09:47,000
+and sending it to someone who we think might enjoy it, or responding to a story
+
+159
+00:09:47,000 --> 00:09:49,000
+or sharing a fleeting moment or posting a note.
+
+160
+00:09:49,000 --> 00:09:53,000
+Actually, if you're, you know, younger than I am,
+
+161
+00:09:53,000 --> 00:09:57,000
+it's posting to your feed is just not the primary way people express
+
+162
+00:09:57,000 --> 00:09:59,000
+themselves. Yeah, and that's evidenced by some of
+
+163
+00:09:59,000 --> 00:10:03,000
+the stuff you're doing. So I want to get into this sort of
+
+164
+00:10:03,000 --> 00:10:07,000
+test you're doing with reels. You launch an iPad app which people have
+
+165
+00:10:07,000 --> 00:10:12,000
+been clamoring for for a long time. If the iPad opens directly into reels so
+
+166
+00:10:12,000 --> 00:10:15,000
+it doesn't open into the traditional feed, you're now kicked into this short
+
+167
+00:10:15,000 --> 00:10:19,000
+form video experience. You're testing that in India as well.
+
+168
+00:10:19,000 --> 00:10:23,000
+Yeah. Is this the future, like a year from
+
+169
+00:10:23,000 --> 00:10:25,000
+now? Are we all going to open up Instagram
+
+170
+00:10:25,000 --> 00:10:29,000
+and it's of seeing that that feed or are we just going to be kicked into, you
+
+171
+00:10:29,000 --> 00:10:33,000
+know, what maybe feels like TikTok? So, yeah, so the test in India right now
+
+172
+00:10:33,000 --> 00:10:36,000
+is an opt in and it opens. You have stories at the top still, but
+
+173
+00:10:36,000 --> 00:10:39,000
+if you scroll down it scrolls into reels.
+
+174
+00:10:39,000 --> 00:10:44,000
+But if you look at the reels tab in the main feed tab, there are two primary
+
+175
+00:10:44,000 --> 00:10:48,000
+differences that one is full screen media at all times.
+
+176
+00:10:48,000 --> 00:10:51,000
+You see one piece, one photo or video at a time
+
+177
+00:10:51,000 --> 00:10:56,000
+and that is the reals tab, whereas feed is free scrolling and then reels has
+
+178
+00:10:56,000 --> 00:11:00,000
+more videos and more recommendations and feed has less.
+
+179
+00:11:00,000 --> 00:11:04,000
+But they both have recommendations, they both have photos, they both have
+
+180
+00:11:04,000 --> 00:11:06,000
+carousels and they both have videos. It's just a balance.
+
+181
+00:11:06,000 --> 00:11:10,000
+And so it's really a design difference and then a ranking difference.
+
+182
+00:11:10,000 --> 00:11:13,000
+I think just swapping them doesn't really make sense.
+
+183
+00:11:13,000 --> 00:11:18,000
+But I think that if a more immersive media is really driving all our growth,
+
+184
+00:11:18,000 --> 00:11:23,000
+if we can figure out a way to transition the app to that being the experience
+
+185
+00:11:23,000 --> 00:11:28,000
+that you swipe into, then that would probably be a good thing if we can make
+
+186
+00:11:28,000 --> 00:11:30,000
+it happen. The question is can we make it happen
+
+187
+00:11:30,000 --> 00:11:34,000
+responsibly without, you know, pissing everybody off, without really hurting
+
+188
+00:11:34,000 --> 00:11:36,000
+the business? Because the monetization efficiency of
+
+189
+00:11:36,000 --> 00:11:39,000
+video is lower by finding the right balance, it's probably not ranked
+
+190
+00:11:39,000 --> 00:11:43,000
+exactly as one is or the other is today. But that is that is something I want to
+
+191
+00:11:43,000 --> 00:11:45,000
+explore. Yeah, I mean, from the outside, it's
+
+192
+00:11:45,000 --> 00:11:49,000
+hard not to look at that and think, tick tock, tick tock Is driving this change
+
+193
+00:11:49,000 --> 00:11:53,000
+for you. How much do you think about tick tock as
+
+194
+00:11:53,000 --> 00:11:57,000
+a it's obviously a major competitor, but I'm wondering how much something like
+
+195
+00:11:57,000 --> 00:12:02,000
+this is driven maybe by what you're seeing from kind of competition.
+
+196
+00:12:02,000 --> 00:12:05,000
+Curious about this data. What is this data does 18 to 34 average
+
+197
+00:12:05,000 --> 00:12:08,000
+audience by our. I don't know what that means.
+
+198
+00:12:08,000 --> 00:12:11,000
+Cool. Definitely think about tick tock,
+
+199
+00:12:11,000 --> 00:12:15,000
+Definitely think about YouTube and think about Snapchat.
+
+200
+00:12:15,000 --> 00:12:18,000
+I mean, the immersive viewer is three days Tick tock, right?
+
+201
+00:12:18,000 --> 00:12:23,000
+I think Kakao Stories pioneered the stories format, which was an immersive
+
+202
+00:12:23,000 --> 00:12:24,000
+viewer. Yeah.
+
+203
+00:12:24,000 --> 00:12:29,000
+In Korea, it was popularized by Snapchat worldwide, so they should get a lot of
+
+204
+00:12:29,000 --> 00:12:32,000
+credit for that. Tick Tock was applying that immersive
+
+205
+00:12:32,000 --> 00:12:39,000
+viewer, that native first experience to short form video and they should get a
+
+206
+00:12:39,000 --> 00:12:41,000
+lot of credit for that. And now obviously you've got YouTube
+
+207
+00:12:41,000 --> 00:12:44,000
+shorts, Instagram reels, Facebook reels and the rest of it.
+
+208
+00:12:44,000 --> 00:12:47,000
+We think a lot about Tik Tok because they are really good at what they do.
+
+209
+00:12:47,000 --> 00:12:51,000
+They are better than I think the rest of the industry at this point.
+
+210
+00:12:51,000 --> 00:12:55,000
+And a couple of things at breaking new talent
+
+211
+00:12:55,000 --> 00:12:58,000
+at isn't like identifying up and coming creators.
+
+212
+00:12:58,000 --> 00:12:59,000
+Is that what you mean. Yeah.
+
+213
+00:12:59,000 --> 00:13:04,000
+So if you the way it works is when you're ranking content and then you want
+
+214
+00:13:04,000 --> 00:13:08,000
+to drive engagement, it's easier to drive engagement by showing content that
+
+215
+00:13:08,000 --> 00:13:13,000
+you know, lots of people like then to try and discover content that you might
+
+216
+00:13:13,000 --> 00:13:15,000
+love that you didn't even know about yet.
+
+217
+00:13:15,000 --> 00:13:18,000
+That might be from a really small or small creator, and that's called
+
+218
+00:13:18,000 --> 00:13:23,000
+exploration based ranking. When you try to literally almost test
+
+219
+00:13:23,000 --> 00:13:28,000
+out things to see if they have legs or if there's an audience, whether
+
+220
+00:13:28,000 --> 00:13:32,000
+they are really good at exploration based ranking, we're closing that gap,
+
+221
+00:13:32,000 --> 00:13:37,000
+but we're not all the way there yet. YouTube isn't actually great at that.
+
+222
+00:13:37,000 --> 00:13:41,000
+YouTube is the best, I think, in the market at paying out creators to share
+
+223
+00:13:41,000 --> 00:13:44,000
+and has. That's because they're still mostly
+
+224
+00:13:44,000 --> 00:13:47,000
+longform and long form. They've done a really good job with
+
+225
+00:13:47,000 --> 00:13:51,000
+their in in the pre roles and their mid roles.
+
+226
+00:13:51,000 --> 00:13:55,000
+But I think Tik Tok has been like really culturally relevant because they've been
+
+227
+00:13:55,000 --> 00:13:57,000
+able to break small names, They've been really timely.
+
+228
+00:13:57,000 --> 00:14:01,000
+So trends happen really quickly. They've just been reliably really fun
+
+229
+00:14:01,000 --> 00:14:03,000
+and entertaining. Yeah, there is.
+
+230
+00:14:03,000 --> 00:14:09,000
+Obviously, I'm sure you've followed there's a deal now, a proposed deal for
+
+231
+00:14:09,000 --> 00:14:14,000
+TikTok to stay in the United States is kind of unique because it calls for the
+
+232
+00:14:14,000 --> 00:14:19,000
+US government to be somewhat involved. And, you know, if not managing at least
+
+233
+00:14:19,000 --> 00:14:22,000
+overseeing this new U.S. tech talk.
+
+234
+00:14:22,000 --> 00:14:27,000
+Does this were you at all late that the US government might perhaps have an
+
+235
+00:14:27,000 --> 00:14:33,000
+incentive for particular. Talk to do better than Instagram.
+
+236
+00:14:33,000 --> 00:14:36,000
+Be careful of my words. We're all friends here.
+
+237
+00:14:36,000 --> 00:14:40,000
+You're welcome to say whatever you want. What could go wrong?
+
+238
+00:14:40,000 --> 00:14:46,000
+Yeah. I'll say a few things.
+
+239
+00:14:46,000 --> 00:14:49,000
+One, I do think it's good that Tok is still going to be in the US.
+
+240
+00:14:49,000 --> 00:14:53,000
+It would certainly make our lives easier on the professional side to have less
+
+241
+00:14:53,000 --> 00:14:55,000
+competition. But I think competition is fundamentally
+
+242
+00:14:55,000 --> 00:14:57,000
+healthy. They push us to do better work.
+
+243
+00:14:57,000 --> 00:15:00,000
+I think it's good for the consumer and it's good for competition.
+
+244
+00:15:00,000 --> 00:15:02,000
+So I'm glad that they're still going to be around.
+
+245
+00:15:02,000 --> 00:15:09,000
+On the specifics of the deal, it just seems all very hard to pass.
+
+246
+00:15:09,000 --> 00:15:15,000
+It looks like more or less there is a bit of an ownership and a share change,
+
+247
+00:15:15,000 --> 00:15:20,000
+but not an actual real change in how it's built
+
+248
+00:15:20,000 --> 00:15:25,000
+and in, you know, because they, you know, buy dance and Tik Tok share code.
+
+249
+00:15:25,000 --> 00:15:28,000
+Historically, most of the most the strongest ranking workers come out of
+
+250
+00:15:28,000 --> 00:15:33,000
+China. They're like, I don't see anything that
+
+251
+00:15:33,000 --> 00:15:37,000
+suggests that any of how it's actually built is going to meaningfully change.
+
+252
+00:15:37,000 --> 00:15:42,000
+It just seems like an ownership stake and the share.
+
+253
+00:15:42,000 --> 00:15:47,000
+Going that split between obviously by dance and then yeah, there is here but
+
+254
+00:15:47,000 --> 00:15:51,000
+it's the same map, the same ranking system, you know, the same creators that
+
+255
+00:15:51,000 --> 00:15:54,000
+you're following, the same people. It all sort of is sort of similar.
+
+256
+00:15:54,000 --> 00:15:58,000
+So it seems a little bit hard to I'm not sure what to make of that.
+
+257
+00:15:58,000 --> 00:16:01,000
+It doesn't seem like it's a major change in terms of incentives.
+
+258
+00:16:01,000 --> 00:16:03,000
+Yeah, I mean, we always want to be considered.
+
+259
+00:16:03,000 --> 00:16:07,000
+We always want to consider all the incentives of the most relevant parties
+
+260
+00:16:07,000 --> 00:16:09,000
+involved. But I just want to stay focused on how
+
+261
+00:16:09,000 --> 00:16:13,000
+do we make sure Instagram does a great job where they're better than us, how do
+
+262
+00:16:13,000 --> 00:16:16,000
+we catch up where we think we've got a competitive advantage?
+
+263
+00:16:16,000 --> 00:16:19,000
+How do we double down and how do we keep moving forward and
+
+264
+00:16:19,000 --> 00:16:24,000
+trying to make Instagram as valuable as possible for people and then try not to
+
+265
+00:16:24,000 --> 00:16:30,000
+get too sucked into the noise of the of the trauma of the we may be supporting
+
+266
+00:16:30,000 --> 00:16:34,000
+your direct competitors, all that stuff. We think about it, but we try to focus
+
+267
+00:16:34,000 --> 00:16:38,000
+on what we can control and spend less time on what we can only have a few more
+
+268
+00:16:38,000 --> 00:16:41,000
+minutes. It's always fly by it really.
+
+269
+00:16:41,000 --> 00:16:44,000
+There was a report that you guys are building a TV app.
+
+270
+00:16:44,000 --> 00:16:48,000
+Are you building a TV app? Let's make some news.
+
+271
+00:16:48,000 --> 00:16:50,000
+This is it. We're exploring TV.
+
+272
+00:16:50,000 --> 00:16:54,000
+TV is an increasingly important service.
+
+273
+00:16:54,000 --> 00:16:57,000
+It's been very important for YouTube. Neil's talked about that publicly.
+
+274
+00:16:57,000 --> 00:17:00,000
+The CEO there. It's been very important for TikTok.
+
+275
+00:17:00,000 --> 00:17:04,000
+So we'd like to figure out how to make sure that we have we did.
+
+276
+00:17:04,000 --> 00:17:08,000
+We show up in a compelling way on all the relevant devices.
+
+277
+00:17:08,000 --> 00:17:11,000
+So we're definitely exploring it, but nothing to announce today.
+
+278
+00:17:11,000 --> 00:17:16,000
+Why now? Why explore now versus a few years ago?
+
+279
+00:17:16,000 --> 00:17:19,000
+Because as you point out, I wish we had exploded a few years.
+
+280
+00:17:19,000 --> 00:17:20,000
+Okay. Why didn't you?
+
+281
+00:17:20,000 --> 00:17:25,000
+We've been. Busy.
+
+282
+00:17:25,000 --> 00:17:29,000
+It seems like every year is a little bit more intense and a lot more wild.
+
+283
+00:17:29,000 --> 00:17:34,000
+I see that as a mistake, though, on my part, so I'll take ownership for that.
+
+284
+00:17:34,000 --> 00:17:37,000
+I mean, we've been focusing a lot on ranking.
+
+285
+00:17:37,000 --> 00:17:39,000
+We've been focusing a lot on evolving the experience forward.
+
+286
+00:17:39,000 --> 00:17:42,000
+We've been focusing a lot on safety and parents.
+
+287
+00:17:42,000 --> 00:17:45,000
+We've been focusing a lot on just compliance.
+
+288
+00:17:45,000 --> 00:17:49,000
+Like I said, the biggest risk that we face is that the world changes too
+
+289
+00:17:49,000 --> 00:17:52,000
+quickly, not too quickly. It's got to change quickly and we don't
+
+290
+00:17:52,000 --> 00:17:57,000
+change quickly to adapt. And if behavior in the consumption of
+
+291
+00:17:57,000 --> 00:18:01,000
+these platforms is moving to TV, then we need to move to TV too, as a form
+
+292
+00:18:01,000 --> 00:18:04,000
+factor. And if we're late, that's on us.
+
+293
+00:18:04,000 --> 00:18:05,000
+Right now. It's on me.
+
+294
+00:18:05,000 --> 00:18:09,000
+It's on you right now. These videos, your deep voice that
+
+295
+00:18:09,000 --> 00:18:12,000
+sounded heavy. It did say it came off a little more
+
+296
+00:18:12,000 --> 00:18:14,000
+dramatic. When I'm on Instagram looking at video,
+
+297
+00:18:14,000 --> 00:18:19,000
+it's almost all vertical video. When I look at a TV, it's not.
+
+298
+00:18:19,000 --> 00:18:24,000
+Have you and through this exploration, have you thought about whether the stuff
+
+299
+00:18:24,000 --> 00:18:28,000
+that's on Instagram today works on TV or do you need to go out and, you know,
+
+300
+00:18:28,000 --> 00:18:33,000
+basically source new video that that fits a TV screen?
+
+301
+00:18:33,000 --> 00:18:37,000
+I think the vertical content can work on TV because I think we can also show
+
+302
+00:18:37,000 --> 00:18:40,000
+there's a we can show social context, we can show you the comments, we can show
+
+303
+00:18:40,000 --> 00:18:42,000
+who else is watching. There's a bunch of things we can do with
+
+304
+00:18:42,000 --> 00:18:45,000
+that space. We might We do still have horizontal
+
+305
+00:18:45,000 --> 00:18:47,000
+content. We might need to lean into that too, but
+
+306
+00:18:47,000 --> 00:18:54,000
+I'd rather first figure out how we can embrace the content ecosystem that
+
+307
+00:18:54,000 --> 00:18:57,000
+already exists and the creatives that already exist on the platform.
+
+308
+00:18:57,000 --> 00:19:00,000
+And if we have to expand, if it turns out we have to expand, then we'll
+
+309
+00:19:00,000 --> 00:19:03,000
+certainly consider that. Then everyone says are world in which
+
+310
+00:19:03,000 --> 00:19:08,000
+you go and, you know, license or kickback content.
+
+311
+00:19:08,000 --> 00:19:13,000
+I don't like licensing content if I can avoid it the way that we pay for lots of
+
+312
+00:19:13,000 --> 00:19:16,000
+licensing in general for people going to share stuff on our platform, whether or
+
+313
+00:19:16,000 --> 00:19:18,000
+not we want them to, music licenses, etc.
+
+314
+00:19:18,000 --> 00:19:22,000
+we're always going to try to make sure we pay people for the rights, you know,
+
+315
+00:19:22,000 --> 00:19:25,000
+when we need to. But I wouldn't I'm not interested in
+
+316
+00:19:25,000 --> 00:19:30,000
+trying to go get sports rights or exclusive entertainment rights because
+
+317
+00:19:30,000 --> 00:19:34,000
+I'd much rather be the second screen. I'd much rather be where you talk about
+
+318
+00:19:34,000 --> 00:19:40,000
+the the game or the movie we're in. I feel like connecting with your friends
+
+319
+00:19:40,000 --> 00:19:44,000
+and short form video can be really symbiotic and short form video and long
+
+320
+00:19:44,000 --> 00:19:47,000
+form video can be really symbiotic, but long form video and connecting with your
+
+321
+00:19:47,000 --> 00:19:49,000
+friends is really difficult to do in one place.
+
+322
+00:19:49,000 --> 00:19:54,000
+If you're just watching a basketball game or a movie or an hour long show,
+
+323
+00:19:54,000 --> 00:19:58,000
+it's a lot of time that you're not actually talking to a friend.
+
+324
+00:19:58,000 --> 00:20:00,000
+A lot of things you're not sending to friends or seeing that you might send to
+
+325
+00:20:00,000 --> 00:20:05,000
+friends, etc. So I I'd rather focus on user generated
+
+326
+00:20:05,000 --> 00:20:11,000
+content creators, A.I. and less on premium long form licensed
+
+327
+00:20:11,000 --> 00:20:14,000
+content. We've had all the zeros very last so
+
+328
+00:20:14,000 --> 00:20:17,000
+that I don't get in trouble. What's your one tip if you're if you're
+
+329
+00:20:17,000 --> 00:20:22,000
+a creator trying to hit a big on Instagram today, what's the one piece of
+
+330
+00:20:22,000 --> 00:20:26,000
+advice you would give? And again, short so that I don't get you
+
+331
+00:20:26,000 --> 00:20:29,000
+know, you're in too much trouble and I can just filibustering.
+
+332
+00:20:29,000 --> 00:20:31,000
+Yeah, exactly. Get me back.
+
+333
+00:20:31,000 --> 00:20:36,000
+I think it's really important to be intentional, specifically to articulate
+
+334
+00:20:36,000 --> 00:20:41,000
+what you're trying to accomplish by using a platform like Instagram.
+
+335
+00:20:41,000 --> 00:20:45,000
+So you might be trying to sell a product or rent or raise awareness for a cause
+
+336
+00:20:45,000 --> 00:20:51,000
+or, you know, build up demand for a brand, but just write down what you're
+
+337
+00:20:51,000 --> 00:20:53,000
+trying to accomplish. And then also to be very clear about
+
+338
+00:20:53,000 --> 00:20:57,000
+what is going to actually resonate with an audience.
+
+339
+00:20:57,000 --> 00:21:01,000
+What's going to work on the platform. And you need to find a content strategy
+
+340
+00:21:01,000 --> 00:21:05,000
+that is a the overlap of those two things because reaches grief and reach
+
+341
+00:21:05,000 --> 00:21:08,000
+is a means to an end. So if you find content that is engaging,
+
+342
+00:21:08,000 --> 00:21:12,000
+but it's not actually helping you move towards your goals, it's useless.
+
+343
+00:21:12,000 --> 00:21:15,000
+And if you find content that is going to help you with your goals, but no one
+
+344
+00:21:15,000 --> 00:21:20,000
+sees it, it's not going to be effective. It is much harder to find a content
+
+345
+00:21:20,000 --> 00:21:24,000
+strategy that does both. But that's the job, that's the work, and
+
+346
+00:21:24,000 --> 00:21:27,000
+that's going to require persistence, intentionality and experimentation.
+
+347
+00:21:27,000 --> 00:21:31,000
+But I really I really preach the overlap.
+

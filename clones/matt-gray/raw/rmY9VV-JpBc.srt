@@ -1,0 +1,355 @@
+1
+00:00:00,160 --> 00:00:01,590
+ 
+If you're running every part of your
+
+2
+00:00:01,590 --> 00:00:01,600
+If you're running every part of your
+ 
+
+3
+00:00:01,600 --> 00:00:03,510
+If you're running every part of your
+business, you're not the CEO, you're the
+
+4
+00:00:03,510 --> 00:00:03,520
+business, you're not the CEO, you're the
+ 
+
+5
+00:00:03,520 --> 00:00:05,430
+business, you're not the CEO, you're the
+bottleneck. Let's fix that. You can't
+
+6
+00:00:05,430 --> 00:00:05,440
+bottleneck. Let's fix that. You can't
+ 
+
+7
+00:00:05,440 --> 00:00:07,430
+bottleneck. Let's fix that. You can't
+scale if you're stuck in the weeds of
+
+8
+00:00:07,430 --> 00:00:07,440
+scale if you're stuck in the weeds of
+ 
+
+9
+00:00:07,440 --> 00:00:08,629
+scale if you're stuck in the weeds of
+your business. What's the reason why
+
+10
+00:00:08,629 --> 00:00:08,639
+your business. What's the reason why
+ 
+
+11
+00:00:08,639 --> 00:00:10,310
+your business. What's the reason why
+most founders can't step away? They
+
+12
+00:00:10,310 --> 00:00:10,320
+most founders can't step away? They
+ 
+
+13
+00:00:10,320 --> 00:00:11,749
+most founders can't step away? They
+haven't built a business, they've built
+
+14
+00:00:11,749 --> 00:00:11,759
+haven't built a business, they've built
+ 
+
+15
+00:00:11,759 --> 00:00:13,589
+haven't built a business, they've built
+a job. Here's how I remove myself from
+
+16
+00:00:13,589 --> 00:00:13,599
+a job. Here's how I remove myself from
+ 
+
+17
+00:00:13,599 --> 00:00:16,109
+a job. Here's how I remove myself from
+operations without all the
+
+18
+00:00:16,109 --> 00:00:16,119
+operations without all the
+ 
+
+19
+00:00:16,119 --> 00:00:19,029
+operations without all the
+chaos. Step one, document everything and
+
+20
+00:00:19,029 --> 00:00:19,039
+chaos. Step one, document everything and
+ 
+
+21
+00:00:19,039 --> 00:00:21,269
+chaos. Step one, document everything and
+make Loom videos. Write down how you do
+
+22
+00:00:21,269 --> 00:00:21,279
+make Loom videos. Write down how you do
+ 
+
+23
+00:00:21,279 --> 00:00:22,950
+make Loom videos. Write down how you do
+every single thing in your business and
+
+24
+00:00:22,950 --> 00:00:22,960
+every single thing in your business and
+ 
+
+25
+00:00:22,960 --> 00:00:24,870
+every single thing in your business and
+then record yourself actually doing that
+
+26
+00:00:24,870 --> 00:00:24,880
+then record yourself actually doing that
+ 
+
+27
+00:00:24,880 --> 00:00:26,470
+then record yourself actually doing that
+thing. Your brain needs to stop being
+
+28
+00:00:26,470 --> 00:00:26,480
+thing. Your brain needs to stop being
+ 
+
+29
+00:00:26,480 --> 00:00:28,630
+thing. Your brain needs to stop being
+the operating system. Step two, delegate
+
+30
+00:00:28,630 --> 00:00:28,640
+the operating system. Step two, delegate
+ 
+
+31
+00:00:28,640 --> 00:00:30,230
+the operating system. Step two, delegate
+to weapons. Hire people who are better
+
+32
+00:00:30,230 --> 00:00:30,240
+to weapons. Hire people who are better
+ 
+
+33
+00:00:30,240 --> 00:00:32,069
+to weapons. Hire people who are better
+at execution than you are and then give
+
+34
+00:00:32,069 --> 00:00:32,079
+at execution than you are and then give
+ 
+
+35
+00:00:32,079 --> 00:00:33,590
+at execution than you are and then give
+them the playbooks that you've made and
+
+36
+00:00:33,590 --> 00:00:33,600
+them the playbooks that you've made and
+ 
+
+37
+00:00:33,600 --> 00:00:35,190
+them the playbooks that you've made and
+then let them just run with it. Core
+
+38
+00:00:35,190 --> 00:00:35,200
+then let them just run with it. Core
+ 
+
+39
+00:00:35,200 --> 00:00:37,030
+then let them just run with it. Core
+hires are your tech lead, chief of
+
+40
+00:00:37,030 --> 00:00:37,040
+hires are your tech lead, chief of
+ 
+
+41
+00:00:37,040 --> 00:00:39,190
+hires are your tech lead, chief of
+staff, executive assistant, closer,
+
+42
+00:00:39,190 --> 00:00:39,200
+staff, executive assistant, closer,
+ 
+
+43
+00:00:39,200 --> 00:00:41,110
+staff, executive assistant, closer,
+setter, and customer success. Step
+
+44
+00:00:41,110 --> 00:00:41,120
+setter, and customer success. Step
+ 
+
+45
+00:00:41,120 --> 00:00:43,110
+setter, and customer success. Step
+three, build deep systems. Automate
+
+46
+00:00:43,110 --> 00:00:43,120
+three, build deep systems. Automate
+ 
+
+47
+00:00:43,120 --> 00:00:44,630
+three, build deep systems. Automate
+repetitive tasks with tools like a
+
+48
+00:00:44,630 --> 00:00:44,640
+repetitive tasks with tools like a
+ 
+
+49
+00:00:44,640 --> 00:00:46,950
+repetitive tasks with tools like a
+sauna, notion, and Zapier. And then have
+
+50
+00:00:46,950 --> 00:00:46,960
+sauna, notion, and Zapier. And then have
+ 
+
+51
+00:00:46,960 --> 00:00:48,869
+sauna, notion, and Zapier. And then have
+your systems run on autopilot so
+
+52
+00:00:48,869 --> 00:00:48,879
+your systems run on autopilot so
+ 
+
+53
+00:00:48,879 --> 00:00:50,310
+your systems run on autopilot so
+everything in your business is nice and
+
+54
+00:00:50,310 --> 00:00:50,320
+everything in your business is nice and
+ 
+
+55
+00:00:50,320 --> 00:00:52,950
+everything in your business is nice and
+calm. So the secret sauce, let go.
+
+56
+00:00:52,950 --> 00:00:52,960
+calm. So the secret sauce, let go.
+ 
+
+57
+00:00:52,960 --> 00:00:54,310
+calm. So the secret sauce, let go.
+Freedom comes when you stop
+
+58
+00:00:54,310 --> 00:00:54,320
+Freedom comes when you stop
+ 
+
+59
+00:00:54,320 --> 00:00:56,229
+Freedom comes when you stop
+micromanaging. Now, your business isn't
+
+60
+00:00:56,229 --> 00:00:56,239
+micromanaging. Now, your business isn't
+ 
+
+61
+00:00:56,239 --> 00:00:58,069
+micromanaging. Now, your business isn't
+just a job. It's an engine. One that
+
+62
+00:00:58,069 --> 00:00:58,079
+just a job. It's an engine. One that
+ 
+
+63
+00:00:58,079 --> 00:00:59,830
+just a job. It's an engine. One that
+grows while you just live your life,
+
+64
+00:00:59,830 --> 00:00:59,840
+grows while you just live your life,
+ 
+
+65
+00:00:59,840 --> 00:01:01,270
+grows while you just live your life,
+travel the world, and have things like
+
+66
+00:01:01,270 --> 00:01:01,280
+travel the world, and have things like
+ 
+
+67
+00:01:01,280 --> 00:01:03,189
+travel the world, and have things like
+time freedom, location freedom, and
+
+68
+00:01:03,189 --> 00:01:03,199
+time freedom, location freedom, and
+ 
+
+69
+00:01:03,199 --> 00:01:05,109
+time freedom, location freedom, and
+financial freedom. That is the ultimate
+
+70
+00:01:05,109 --> 00:01:05,119
+financial freedom. That is the ultimate
+ 
+
+71
+00:01:05,119 --> 00:01:07,280
+financial freedom. That is the ultimate
+goal.
+

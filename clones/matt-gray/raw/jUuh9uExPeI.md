@@ -1,0 +1,6 @@
+1|Five habits that make success inevitable. Number one, treating your body like hardware for your goals, right? Sleep, food, movement. These are things that you must prioritize. Number two, planning your day before it starts.
+11|Before you go to bed, go and write down the seven core things that you need to get done the next day that are going to make the most impact in your life and business. Number three, doing the boring high impact task first. Even
+23|when every cell in your body wants you to check your phone, you just got to go and do the that other people are not willing to do. And when you compound that long enough, great things happen. Number four, say no to
+34|99% of fake urgency. You need to go and say no to most things in life to say hell yes to the stuff that's actually going to move the needle for you over the next decade. Number five, asking
+45|what did I do to create this instead of why is this happening to me? You got to shed that victim mindset, right? it's never going to help you. The mindset that helps is taking ownership
+55|of your circumstances. And when you go and you develop high agency over where you're at now and then are able to gradually make those shifts, your world changes.

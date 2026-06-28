@@ -1,0 +1,8 @@
+3|You'd be richer if you had some systems in place because here's the deal. If you don't have systems, well, you are the system and you're the engine of your business because if you stop for a
+14|weekend or you go on a week vacation, everything stops. So, what systems do you need to have in place? Well, I like to think about the core three. Number one, having a founder scorecard. Seven
+25|core metrics across your business and having leaders on your team that own each one of those metrics. From there, you also want quarterly targets. We're talking targets for your company, but
+36|also for the individuals and how what they're going to get done in a given quarter lads up ladders up to the company's goals. From there, I like to also have velocity meetings. We're talking one leadership meeting per week.
+48|We're covering wins and number going over issues, opportunities, challenges, and the things that are coming up that we need to solve to move the needle forward. We're also then reviewing that
+60|founder scorecard and making sure that the metrics are moving in the right direction and that we're all hyper-focused on the biggest constraint in the business and solving these damn things. From there,
+71|you want to have a content waterfall, right? A weekly or bi-weekly content ritual that's going to produce all the content that you need across all platforms and making sure that you're building your distribution as well as a
+81|founder and as a company and having the right team in place to do that. Social media manager, a writer, a video editor. These are the systems that I think need to get going with today.

@@ -1,0 +1,3 @@
+1|here's a question that thing you're really passionate about doing the thing you believe can have a meaningful impact and really change your life what if you did that thing every day for the next decade could you fail most of us think in terms of months or years but the
+12|really amazing stuff happens as a result of daily action over decades think about it if you did that thing every day for the next decade even with the good days and the bad days there's virtually no
+23|way you could fail because you'd have done it long enough that the Universe would simply see your persistence and give you what you want the next time you're feeling discouraged remember you're in it for the long term not just to make a quick splash

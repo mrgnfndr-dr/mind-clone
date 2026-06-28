@@ -1,0 +1,4 @@
+1|If you're micromanaging, you're admitting you built a weak system. The problem with micromanaging is that you make your business founder dependent versus founder independent and you slow down all decision-m in your company. If
+12|every decision needs to come down to you, well, you only have so much capacity in a day and you become the bottleneck of the business. What you want to go is make sure that you're asking the golden question. The golden
+23|question in any business is what is best for the enterprise. Now you've brought on all these people around you so you might as well be using them for their maximum potential. And so one practice
+33|is instead of going and making the decision when someone comes to you go and ask them what is your recommendation? You're slowly empowering your team to use their judgment, their intuition, and data to go and make the

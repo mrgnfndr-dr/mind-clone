@@ -1,0 +1,5 @@
+1|This cloud prompt generates me thousands of emails that generate me thousands in revenue. So, if you're looking to go and scale up a business or even start it, one thing that you should definitely have in place is a 5day email miniourse
+12|compiled with a 5-day FOMO series, which stands for fear of missing out. That's going to go and sell people more on exactly what you do and convert them into customers. Let me go and show you how to go and create this for your
+23|business. What I've gone and created here is a Claude project called email courses. Inside of the instructions, you can see I've created this master prompt and we're off and going. Now, keep in
+33|mind in the project knowledge inside of Claude as well, I've put all of the core documentation across Founder OS and my personal brand so that Claude's not just reinventing the wheel or using some
+43|generic BS. It's actually using real words, systems, frameworks, and blueprints that I've invented. So all of that heavy lifting is being done without me, which saves me hours of

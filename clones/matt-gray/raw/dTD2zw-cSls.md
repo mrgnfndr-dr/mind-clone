@@ -1,0 +1,6 @@
+1|Your vibe is the unfair advantage that you have in this for you social media era. Here's why. The reality is is that there's so much stuff out there constantly causing people distractions. And what really can separate you from everyone else is your own
+12|authenticity. Step one is to create a three-word vibe compass. Pick three words that describe how you want people to feel when they encounter your brand. For example, calm, creative, world class. Post them on your wall, your
+23|notion board, your Google Docs, wherever, and use them as a filter for everything you design, write, or say. Step two is to build a personal mood board. I like to do this on platforms like Pinterest or you could
+34|use Instagram collections to save a bunch of content that you feel really encapsulates your three-word vibe. This becomes your brand's visual DNA. From there, step three is to audit
+44|your social media presence for alignment. You want to make sure that your profile photos, cover photos, the overall content you're putting out there is in alignment with those three words. Now, it's okay if there's a gap. Welcome to building something. It's all
+55|about iteration and getting 10% better with every piece of content you put

@@ -1,0 +1,5 @@
+1|Your mental spiral can be stopped with just one domino. Before I learned this trick, you know, I'd find myself in these crazy spirals. I wouldn't even take the time to step back for a second and ask myself, what's that one domino
+12|that if I just did that one thing, it would make everything else in my life easier or unnecessary. This breaks the loop because of something called the zing effect. Essentially, just doing one thing, one that just moves you
+24|forward ever so slightly can oftenimes set up a chain reaction that helps you start building the momentum, getting your confidence, and getting out of whatever's leading you to those negative thoughts. So, here's how to go
+35|and find your one big domino. Go and write down the answers to these questions that come into your mind. What thought is taking up most of my mental space right now? What actions
+45|would make this thought lose its power? If I only had 10 minutes, what would I do first? The one domino is your ticket out of analysis paralysis and into action.

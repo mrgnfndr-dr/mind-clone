@@ -1,0 +1,5 @@
+1|This system writes me YouTube scripts that generate millions of views and hundreds of thousands of dollars. So, here's how it works. Inside of Poppy, I have my YouTube goat script writing board, which has everything that I need to go and create an insane script in
+13|minutes. So, what I do is I go and feed this board all of the best title research, thumbnail research, script writing research from legends across YouTube like Colin and Samir, Patty
+23|Galloway, Mr. Beast, and April and Alter, and then put all of these pieces together. So, what it's being able to do then is go and take the best research out there, go and use my authentic voice, as well as go and analyze the
+34|patterns of my best performing videos to go and synthesize all of that research and give me a concept that is virtually guaranteed to hit. I know that the biggest YouTube channels out there have
+44|an AI researcher or a content researcher on their team, but with Poppy AI, I can have a lean, mean team and make banger videos twice per

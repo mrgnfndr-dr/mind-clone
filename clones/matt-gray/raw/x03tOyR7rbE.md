@@ -1,0 +1,68 @@
+24|imagine having four systems that allow you to travel the world build your dream life and scale your business effortlessly every single month while controlling who you work with and what you work on I'm about to break down all
+35|four systems in detail in this video Let's dive in the systems I'm about to show you are
+46|about 15 years in the making over the last 15 years I've traveled and worked in countries like Bali Sedona Arizona Mexico City New Zealand it didn't always
+57|look this way though when starting my first business bit me maker I was building in a snowy cold winter in Toronto Ontario Canada it was a brick-and mortar business and I had no
+68|ability to travel the world in some senses I just felt stuck I was overwhelmed and had no ability to travel a couple years later I was able to sell bitmaker to General Assembly and
+78|realized that it was finally time to double down on freedom having the ability to travel wherever I want whenever I want work with whoever I want on whatever I want as Founders we really
+89|really got into business to have freedom in life so I'm going to break down the first system that will help you achieve this Freedom so you can travel the world it's all around controlling where you
+101|work now there's two parts of this first is determining where do you even want to work and then secondly how do you work from anywhere it's important that when you're thinking about where you want to
+111|work that you really hone in on what I call your location radar all right so I'm a lot better at showing you than just telling you so let's into the location radar on the left side here
+122|I've got and listed how I judge any location in the world my seven core criteria are you know how is it for opportunity Wi-Fi it's got to have amazing access to Nature I need to have
+133|amazing Founders around me an amazing community business friendliness and access to an airport so I can just Jet Set whenever I want so what I've gone here is and I've listed five of my
+143|favorite locations you can see here Sedona Dubai Mexico City dolomites and Bali but you could put any location there across The Columns from there you go and rank each location from 1 to 10
+153|one if it's absolute garbage 10 if it hits that criteria out of the park for Sedona as an example opportunity there probably like a five realistically it's kind of out in the country Wi-Fi 10
+165|Founders are probably like a three there but nature is a 10 Community I mean I like the community there eight business friendliness we'll give it a six access to airport like a eight when it comes to say Mexico City which is actually where
+176|I've recently set up a home base opportunity give it a nine Wi-Fi 10 access nature is actually pretty damn solid Founders solid Community amazing
+186|business friendliness love it access to airport Banger when I go and I tally all this up we get a score of at a 70 across these seven criteria of 69 not bad when
+197|we look at Sedona as an example here we get a score of 50 so pretty good but somewhere I'd only drop into maybe like a month of the year when I may be writing my book I'll go and do this for each location that I'm considering that
+209|will kind of give a bit of an objective measure as to where I should be located in the world this is all good but some of you may not even know which locations to even consider let's get on to the
+219|location radar prompt we have a prompt here that says you an expert at advising Founders on where to live in the world to have the most Freedom adventure fun and success you help people live the
+229|most fulfilling lives possible and get the most out of life here are mat seven criteria on where to live in the world opportunity Wi-Fi nature Founders community business friendliness and
+239|access to airport come up with 20 of the best locations in the world for Matt based on these criteria in two sentences on what makes it the best rank the locations from best to worse let's just
+249|see what Mr jet gbt comes up with so here's my rank list well look at that number one who would have guessed it Mexico City Mexico so about the same ranking as I just found out myself right
+260|thriving hub for found Founders which I agree with exceptional Wi-Fi hell yeah welcoming community of creators and Founders definitely love it for that reason number two Lisbon Portugal three three Dubai which was also on the list
+271|four Bali which was on my list five is Singapore medine Barcelona Austin Cape Town Vancouver Bangkok Berlin go and take this location radar GPT prompt
+282|first spin yourself if you're having troubles of figuring out even where the hell you travel in the world now you figured out where you're going to go work but now you need to figure out how you can actually get the freedom to work from anywhere there are business models
+293|that are easy mode and then there are business models that are hard mode for traveling the world hard mode business models are like brick mortar manufacturing businesses anything that
+303|keeps you stuck in one spot on the other side businesses like courses digital products masterminds anything online and you're good to go a lot of Founders make
+313|the mistake when they're first picking their business they pick the wrong kind of business that's not going to be conducive to being able to travel the world when I went and built founder OS I conceived a business that was built
+323|around my calling in life things like proven systems building communities helping founders with distribution helping Founders scale their businesses and Lifestyles I doubled down on those
+333|things and built it all online for the community we built it on school for our newsletter we built it on convert kit for the sales engine of things we built it on stripe all of my content is
+343|scheduled via hype Fury we have all the right Tools in place to run this online business on autopilot that allow myself to remove myself from operations and be able to travel the world and enjoy the
+353|beauty of the sites when I'm in different locations now we've talked about where and how how you can just have the freedom to go anywhere in the world let's talk about what to work
+364|on the next system you want to think about is really being able to focus on your zone of genius and then understanding the math to delegation when you're going and thinking about traveling you should be making sure that
+375|you are positioned as close to revenue generating activities as possible anything that does not fulfill your hourly rate you should delegate automate or eliminate you may go and find
+386|yourself going and scheduling a bunch of content on social media and when you think about hiring someone for this role it's about a $7,000 monthly role if going and hiring that social media manager saves you 10 hours a week or 40
+398|hours a month it's worth doing this delegation math to make sense of the ROI for making that hire we talked about how much time you're going to save from a new hire so as just say you're hiring a social media manager okay and that
+408|person's going to save you 10 hours a week or 40 hours a month as a CEO and your hourly rate let's just say is $2,000 now the cost of a new social media manager is likely say $7,000 per
+419|month month and your profit margin let's just say was 80% okay so here we can see that with the time Save times your hourly rate we get to 880,000 okay so 40
+429|* 2K $80,000 in revenue generated for that save time that you've gotten back because of this higher at a profit margin of 80% your profit from that
+439|reallocated time now is $644,000 so 64k minus 7K is 57k you made an 8X Roi on this hire from hiring a social media
+449|manager Getting Back 40 hours of your time back every month you get an 8X Roi assuming you make $2,000 per hour now you've got the delegation math right and this is going to allow you to remove
+459|yourself from of your business and build an Empire of weapons around you have people like a social media manager a writer having someone on the tech side the finance side having a cro to manage
+469|a whole sales team essentially being able to remove yourself from all the stuff you hate so all you're left with are the tasks that you love to do in a location that develops an amazing amount of awe every single day this math is
+481|lifechanging because when you get it right you remove yourself when working in your business and give yourself the freedom to work on your business this makes all the difference because there's
+491|no sense going and traveling somewhere beautiful like Indonesia when you can't actually go and enjoy those waterfalls or traveling the dolomites and just getting stuck behind a computer instead of being able to RI down Hills on a
+501|mountain bike now we've gone and got what to work on let's talk about when to work when you think about working in any given location anywhere in the world what I see people
+511|make the mistake in is when they travel the world they start to get on all these different routines while it can look sexy from the outside on the inside if you're not able to stick to a consistent
+521|routine no matter where you are in the world it's going to break you I like to stick to the same routine no matter where I am the location may change the routine stays the same a strong founder
+531|is built on strong systems making sure that you have a strong daily routine for when you work when you explore is going to give you a certain level of stability no matter where you are in the world now
+542|that we've got where you're going to work what you're going to work on and when you're going to work let's talk about who you're going to work
+554|with strong businesses are built by weapons weapons are people that you can bring on your team they're able to go and Elevate the culture they take extreme ownership they're down with a proven track record the key thing here is to make sure when
+564|you're interviewing people you have the right hiring process to make sure that you're being surrounded by a team of Avengers the truth is to get to $10 million and Beyond a year you need an
+574|amazing closer you need an amazing operator an amazing designer amazing Tech person and likely a chief of staff how do you actually go and find these people first rule of finding the best
+584|possible people to work with is to go and ask 30 a players you know if they know any amazing people for the given roles you're looking to bring on now once you've recruited those people in the interview process you want to make
+595|sure that you're clear on the three values of your company so for me it's that they need to have a pro track record take extreme ownership and be a down and then I'm going to have three to four interview questions that go through each of those three
+606|values so I'm going to ask people you know would you ever want to be a CEO do you enjoy taking responsibility tell me about a time that you dealt with a difficult situation and how you spearheaded that what's the moment that you're most proud of in your life what
+617|are you most embarrassed of what's a moment where you had to go and take a project from nothing through to a million dollars a year in profit I want to go and dig deep and understand are they able to actually go and relieve me
+627|of the workload so I can enjoy my time while I'm traveling the number one thing that I want to make sure that any person's doing Beyond helping us get to 10 million a year they're bringing me peace of mind so I can sleep at night
+638|knowing the business is safe and I can actually enjoy my life versus being stressed burnt out and overwhelmed the next aspect then is making sure you have them complete a challenge generally
+648|going to be around five questions that are going to give people a task that I actually would want from that role over the next couple months I'm not just hoping that they pan out when they get started I'm virtually guaranteed te that
+659|they're an amazing hire so say I'm going and hiring a cro to go and manage my sales team I'm going to go and ask this person in the interview process things like I want you to come up with your 90-day goals and break down your plan to
+670|go and execute these number two I want you to go and come up with a sales quota for the three sales people on my team and then an incentive structure to go and make sure they hit 120% of Koda I'm going to go and make sure this person is
+680|not able to just do the job but excel at the job I often talk to Founders that have scaled up their team and before you know it they've scaled up their own prison and they are the prisoner they've
+690|built a team of mediocrity people aren't actually doing their roles it's a big playground of people screwing around and they're trying to get the freedom to travel and just enjoy life but before
+700|you know it they're down depressed and screwed over the key thing is to make sure that you're bringing on the right people and putting them in the right seats with the right interview process
+711|the right rigor and the right onboarding when you get these things right you build a team that is high performing it has a high IQ high energy High work
+721|ethic and you can accomplish high standards 15 years ago I promised myself that when I discovered these four systems I would share it with as many Founders as possible this is your chance
+731|you owe it to yourself Implement these four systems so you can have the most epic year of your life travel the world and make more money than you imagined let's go

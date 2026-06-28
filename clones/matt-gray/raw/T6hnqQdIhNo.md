@@ -1,0 +1,2 @@
+1|What if I told you that your taste is the most underrated advantage that you have online? And while a lot of people just ship a bunch of garbage, you have the opportunity to go and really elevate the quality of everything you put out there. Make art, not content. I think
+13|that too much of content is just getting lost in this soup of sameness. Everyone's doing the same thing as everyone else. And you have an opportunity to actually go and make things different.

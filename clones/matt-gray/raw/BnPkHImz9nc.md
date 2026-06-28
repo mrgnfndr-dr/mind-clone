@@ -1,0 +1,3 @@
+1|If you want people to actually listen to you, don't make this mistake. The truth is, if you don't structure ideas as stories, people won't remember them. And if they don't remember them, you don't exist. Storytelling is really what connects us all as humans. It's what
+12|allows ideas to travel. As you're looking to go and make your brand more of a household name, you're looking to build a cult following around what you do, you need to go invest in your stories. You know, when you have this
+22|whole story infrastructure, you kind of have the fabric that people can now use to understand who you are as a human. Because when people are able to connect with you on a deep level, they're going to follow you and follow your

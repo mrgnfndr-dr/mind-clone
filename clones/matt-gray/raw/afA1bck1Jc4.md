@@ -1,0 +1,2 @@
+3|dreaming is hard building a business is hard writing a book is hard making millions impacting thousands and doing things that matter to you is hard but the alternative is to do what's easy to not dream to not have an impact to not
+15|do the things that mean something to you to be given the gift of life and to squander it when you feel discouraged ask yourself but what's the alternative because doing what's easy just isn't worth it

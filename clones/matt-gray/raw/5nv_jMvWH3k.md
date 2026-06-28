@@ -1,0 +1,6 @@
+1|These are three types of content you need to be posting if you're looking to grow on social media. Number one, listicles. Number two, how-tos. And number three, storytelling based content. Listicles are great just because they're easily digestible and
+11|they have a clear value ladder that people can follow. Your how-tos are going to give people a deeper dive into how you can actually provide value for them. These kinds of content are going to be the ones that probably convert the
+21|highest. On the storytelling side, this is the kind of content that allows people to develop a level of emotional resonance with you. It gives people the ability to get to know you. where your failures, your mistakes, challenges,
+31|wins, successes, all that stuff that allows people to really get to know the real you. So once you then have these three types of content, what you want to be doing is content waterfalling these into all the platforms to become
+42|omnipresent. Simply taking one pillar piece of content, say an in-depth how-to video, and then turning that into three Instagram reels, three YouTube shorts, a newsletter in a few weeks, a
+52|podcast, you get it. When you can maximize each of these formats, you can double down on making the most exceptional content in your niche.

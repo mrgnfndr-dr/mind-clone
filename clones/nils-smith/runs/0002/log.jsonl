@@ -1,0 +1,18 @@
+{"cmd": "intent", "text": "Mergen wants to start Instagram for a solo founder personal brand, short-video first, build-in-public. Give the right plan/playbook."}
+{"cmd": "map", "source": "s004", "vectors": 8}
+{"cmd": "map", "source": "s006", "vectors": 14}
+{"cmd": "map", "source": "s001", "vectors": 14}
+{"cmd": "map", "source": "s023", "vectors": 19}
+{"cmd": "map", "source": "s026", "vectors": 9}
+{"cmd": "map", "source": "s019", "vectors": 9}
+{"cmd": "map", "source": "s005", "vectors": 5}
+{"cmd": "select", "source": "s004", "vectors": ["founder-led-personal-brand", "posting-cadence", "platform-priority", "collective-engagement"]}
+{"cmd": "select", "source": "s006", "vectors": ["systems-and-rhythms", "value-equation", "content-to-community", "learning-in-public", "value-for-free"]}
+{"cmd": "select", "source": "s001", "vectors": ["come-for-content-stay-for-community", "growth-formula", "great-content-underperforms-without-packaging", "thumbnail-title-testing", "learning-out-loud", "ads-only-after-organic"]}
+{"cmd": "select", "source": "s023", "vectors": ["organic-social-biggest-opportunity", "attention-without-paying", "lean-in-not-fear", "watch-the-trends"]}
+{"cmd": "select", "source": "s026", "vectors": ["create-great-content-first", "shorts-for-new-audience", "thumbnail-is-the-trigger", "searchable-titles", "diagnose-content-not-promotion"]}
+{"cmd": "select", "source": "s019", "vectors": ["podcast-repurposing", "algorithm-flywheel"]}
+{"cmd": "select", "source": "s005", "vectors": ["response-infrastructure", "social-listening"]}
+{"cmd": "compile", "eps": 40}
+{"cmd": "verify", "cited": 0, "bad": [], "accepted": false}
+{"cmd": "verify", "cited": 33, "bad": [], "accepted": true}

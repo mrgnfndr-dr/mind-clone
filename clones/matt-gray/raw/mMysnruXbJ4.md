@@ -1,0 +1,5 @@
+1|here are five crazy facts about human productivity that will make you rethink your work schedule multitasking doesn't exist in an 8h hour workday the average person is productive for only 2 hours and 53 minutes if you work for yourself
+12|spend less time at the desk and more time actually getting stuff done limit yourself to 4 to 5 hours of deep focus work per day research suggests that when you get under 5 hours of sleep you undermine your productivity by 29% the
+24|best way to get great sleep is to create a schedule go to bed at the same time every night and wake up at the same time every morning Mondays and Tuesdays are the most productive weekdays frontload your most important work to the beginning of the week you'll get more
+35|done and output better quality you can Master any new skill with 1 hour a day by dedicating 1 hour a day 7 hours a week or 365 hours a year to self-study
+45|within 3 to 5 years you'll be a master apply these five facts to your life and you'll get more done in less time than 99% of people

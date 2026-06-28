@@ -1,0 +1,11 @@
+{"cmd": "intent", "text": "How does Jon test creatives? his method/process"}
+{"cmd": "select", "source": "s074", "vectors": ["creative-testing-tool", "ab-testing"]}
+{"cmd": "select", "source": "s046", "vectors": ["creative-testing-tool"]}
+{"cmd": "select", "source": "s055", "vectors": ["creative-testing-tool", "test-discipline"]}
+{"cmd": "select", "source": "s068", "vectors": ["creative-testing-tool", "creative-diversification"]}
+{"cmd": "select", "source": "s090", "vectors": ["test-discipline"]}
+{"cmd": "select", "source": "s097", "vectors": ["creative-testing-tool"]}
+{"cmd": "select", "source": "s077", "vectors": ["creative-testing-tool"]}
+{"cmd": "select", "source": "s079", "vectors": ["creative-testing-tool"]}
+{"cmd": "compile", "eps": 27}
+{"cmd": "verify", "cited": 26, "bad": [], "accepted": true}

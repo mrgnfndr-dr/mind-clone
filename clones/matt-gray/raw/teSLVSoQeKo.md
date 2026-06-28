@@ -1,0 +1,3 @@
+1|if you find yourself not wanting to get out of bed in the morning then you need a new vision for your life something that excites you a destination that makes you enjoy every step of the journey ask yourself what your best life looks like what will you have achieved
+11|how will you feel about yourself how will you look what are you working on if your vision doesn't set your soul on fire then go back dig deeper dream bigger think of an insane 10-year goal
+21|that lights you up break it down into three-year goals into one-ear goals into 90-day goals start taking Massive Action knowing that each day is an opportunity to bring you closer to your dream

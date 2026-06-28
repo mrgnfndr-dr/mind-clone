@@ -1,0 +1,3 @@
+1|This AI tool may be into an absolute productivity machine. The tool is called Whisper Flow. This is how to turn your voice into a productivity tool. So essentially any text box across your computer, you're able to go and just press one key on your keyboard, recite
+12|whatever it is you want to write, and then boom, you know, your voice is put all over the place without you having to type at all. You know, I use this probably 30 plus times a day and it's probably my most used AI tool because
+24|truthfully, you know, when I'm going between different chats in Slack or when I'm messaging a bunch of people in the day, it just saves me so much

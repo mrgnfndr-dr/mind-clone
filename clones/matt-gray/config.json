@@ -1,0 +1,18 @@
+{
+  "name": "Matt Gray",
+  "slug": "matt-gray",
+  "chat_language": "Russian",
+  "name_variants": ["Matt Gray", "realmattgray", "Matthew Gray"],
+  "affiliations": ["Founder OS — Founder & CEO", "Bitmaker — founder (acquired by General Assembly)", "The Matt Gray Show — podcast"],
+  "domains": ["personal brand / personal media company", "organic content systems", "monetization & premium offers", "founder operating systems & automation", "AI leverage", "discipline & mindset", "business scaling", "sales psychology", "distribution & audience growth", "team & delegation"],
+  "source_window": {"from": "2024-06-01", "to": "2026-06-27", "platforms": ["YouTube long-form", "YouTube Shorts"]},
+  "excluded_by_request": ["TikTok", "Instagram", "videos before 2024-06-01"],
+  "coverage_gaps": [
+    "No published book found (digital programs/newsletter only) — playbook drawn from the video corpus.",
+    "Founder OS paid-program internals not harvested (public/free material only).",
+    "~14 Shorts skipped as non-substantive (music/lyrics/garbled captions); a few caption-less Shorts excluded (no ASR by default).",
+    "42 older long-form videos (<2024-06-01) excluded by date rule."
+  ],
+  "build": {"sources": 551, "long_form": 140, "shorts": 411, "eps": 1895, "built_on": "2026-06-28"},
+  "faithfulness_smoke": "5/5 probes returned coherent, consistent, on-author EPs with deeplinks; no contradictions (indicative only)."
+}

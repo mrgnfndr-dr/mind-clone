@@ -1,0 +1,34 @@
+{"cmd": "intent", "text": "Mergen MRR — solo-founder, ushel iz nayma, 12 mesyatsev do tochki nevozvrata, build in public k MRR. Nisha: organicheskoe prodvizhenie proekta dlya solo — korotkoe video, kontent-zavody, UGC-mashiny. Metod Mergen — glubokiy analiz referensov; tezis kanal diktuet proekt. Auditoriya: predprinimateli/prodakty/programmisty/menedzhery 25-45. Platforma: Instagram, korotkoe video. Stolby: razbory success stories; pleybuki dlya solo; UGC/kontent-zavody; build in public s ciframi; myshlenie solo-predprinimatelya. Cel: za 12 mesyatsev vyrastit Instagram, stat ekspertom i vyyti na MRR cherez infobiz."}
+{"cmd": "sources", "n": 29}
+{"cmd": "map", "source": "s024", "vectors": 3}
+{"cmd": "map", "source": "s011", "vectors": 4}
+{"cmd": "map", "source": "s016", "vectors": 4}
+{"cmd": "map", "source": "s017", "vectors": 4}
+{"cmd": "map", "source": "s010", "vectors": 3}
+{"cmd": "map", "source": "s019", "vectors": 4}
+{"cmd": "select", "source": "s004", "vectors": ["hook-design"]}
+{"cmd": "select", "source": "s012", "vectors": ["viral-formula"]}
+{"cmd": "select", "source": "s024", "vectors": ["viral-formula"]}
+{"cmd": "select", "source": "s017", "vectors": ["follower-conversion"]}
+{"cmd": "select", "source": "s017", "vectors": ["engagement"]}
+{"cmd": "select", "source": "s017", "vectors": ["monetization"]}
+{"cmd": "select", "source": "s016", "vectors": ["monetization"]}
+{"cmd": "select", "source": "s016", "vectors": ["instagram-growth"]}
+{"cmd": "select", "source": "s016", "vectors": ["identity"]}
+{"cmd": "select", "source": "s011", "vectors": ["client-work"]}
+{"cmd": "select", "source": "s011", "vectors": ["monetization"]}
+{"cmd": "select", "source": "s011", "vectors": ["content-ideation"]}
+{"cmd": "select", "source": "s010", "vectors": ["monetization"]}
+{"cmd": "select", "source": "s010", "vectors": ["storytelling"]}
+{"cmd": "select", "source": "s010", "vectors": ["client-work"]}
+{"cmd": "select", "source": "s019", "vectors": ["content-ideation"]}
+{"cmd": "select", "source": "s019", "vectors": ["hook-design"]}
+{"cmd": "select", "source": "s019", "vectors": ["viral-formula"]}
+{"cmd": "select", "source": "s021", "vectors": ["instagram-growth"]}
+{"cmd": "select", "source": "s021", "vectors": ["hook-design"]}
+{"cmd": "select", "source": "s021", "vectors": ["monetization"]}
+{"cmd": "select", "source": "s024", "vectors": ["posting-cadence"]}
+{"cmd": "select", "source": "s024", "vectors": ["monetization"]}
+{"cmd": "compile", "eps": 39}
+{"cmd": "import", "loaded": {"meta": 39, "ep": 0}, "rejected": [], "hygiene": []}
+{"cmd": "import", "loaded": {"meta": 0, "ep": 152}, "rejected": [], "hygiene": []}

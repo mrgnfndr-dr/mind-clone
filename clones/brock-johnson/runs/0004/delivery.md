@@ -1,0 +1,5 @@
+# Delivery — run 0004
+> Interpret using ONLY these rows. Cite [id]; an id not here = no claim.
+
+- [e_s118_01] (s118/niche · antipattern · conf H) 97% of new InstaClubHub members haven't picked a clear niche = the #1 reason accounts don't grow. Mechanism: great content → profile visit → 'this person posts everything' → no follow. The niche is what people follow you FOR. Rule: niche down to almost uncomfortable specificity. A visitor has a split second to decide if your profile deserves a follow — if they can't immediately identify what you post about, they leave. Supply-demand imbalance means you can't afford niche confusion — people actively avoid following new accounts.  → https://www.youtube.com/watch?v=fYuBRPJ5Q1A&t=1s
+- [e_s002_09] (s002/niche · heuristic · conf H) Riches are in the niches. Define niche = who you attract + what you post about. Niche down early = raving community of super fans. Then as you grow, expand into other interests. Rebranding/pivoting only possible once you have an audience. Niching down = more money, faster follower growth, more consistent views.  → https://www.youtube.com/watch?v=oPCnHa6WWdg&t=1323s

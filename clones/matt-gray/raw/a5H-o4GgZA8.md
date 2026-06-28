@@ -1,0 +1,8 @@
+1|Here's the thing that nobody tells you about hiring. Most founders hire as a panic button. They get overwhelmed, they bring someone on, and they feel better for about 2 weeks. And then they realize that they've created more overhead, more
+12|culture risk, and honestly just more management work than before. >> >> I call this the founder prison. And freedom requires a completely different way of thinking about your team.
+22|I'd bring someone on whenever I felt like I was drowning, and instead of getting lighter, I just felt like I got more to manage. More context to share, more questions to answer,
+32|more culture to protect. The moment I started really focusing on hiring for ROI, everything changed. So, every founder I've coached who makes this shift says the same thing. It's
+42|like someone lifts a weight off their shoulders that they didn't even know that they were carrying. The business feels lighter, the decisions feel cleaner, and for the first time you start to feel like the owner of
+52|your business instead of some employee inside of it. That's the shift, and here's how you can actually make it. Every person you bring onto your team should hit one specific number. If
+63|they don't hit it, you're not ready to hire. And that number again is return on investment. I have a founder who I've been helping for the last 3 years, and he's automated 95% of his business by building the right team and
+74|applying this delegation framework properly. Now, he spends entire summers with his family, not checking Slack at dinner, not stepping out for meetings. >> >> I mean like actually present.

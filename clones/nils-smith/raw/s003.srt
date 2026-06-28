@@ -1,0 +1,1604 @@
+1
+00:00:00,000 --> 00:00:04,000
+Hey guys, today we're going to be
+
+2
+00:00:01,000 --> 00:00:05,000
+looking at HeatBit, a Bitcoin miner
+
+3
+00:00:03,000 --> 00:00:07,000
+that's also a heater for your house.
+
+4
+00:00:05,000 --> 00:00:09,000
+We're going to ask a question, can you
+
+5
+00:00:06,000 --> 00:00:10,000
+effectively heat your house and mine
+
+6
+00:00:09,000 --> 00:00:13,000
+Bitcoin at the same time? Is it worth
+
+7
+00:00:11,000 --> 00:00:15,000
+the price?
+
+8
+00:00:13,000 --> 00:00:17,000
+&gt;&gt; [music]
+
+9
+00:00:23,000 --> 00:00:27,000
+&gt;&gt; Let's take a look. I'm going to open the
+
+10
+00:00:24,000 --> 00:00:28,000
+box with you today and we're going to
+
+11
+00:00:26,000 --> 00:00:30,000
+hook it up, see how easy it is to use,
+
+12
+00:00:28,000 --> 00:00:32,000
+and how much Bitcoin does it actually
+
+13
+00:00:31,000 --> 00:00:35,000
+generate as a miner, and how warm does
+
+14
+00:00:33,000 --> 00:00:37,000
+it actually heat my little office here
+
+15
+00:00:35,000 --> 00:00:39,000
+in New York City. Let's jump into the
+
+16
+00:00:37,000 --> 00:00:41,000
+video.
+
+17
+00:00:45,000 --> 00:00:49,000
+&gt;&gt; [music]
+
+18
+00:00:46,000 --> 00:00:50,000
+&gt;&gt; Hey there, if we haven't met yet, I'm
+
+19
+00:00:47,000 --> 00:00:51,000
+Neil Smith. I'm actually author of a
+
+20
+00:00:49,000 --> 00:00:53,000
+book called Crypto for Good. I wrote
+
+21
+00:00:50,000 --> 00:00:54,000
+this book several years ago, probably
+
+22
+00:00:52,000 --> 00:00:56,000
+seven years ago now, with my friend Nick
+
+23
+00:00:55,000 --> 00:00:59,000
+Runyon. I believe significantly in the
+
+24
+00:00:58,000 --> 00:01:02,000
+power of the blockchain, the power of
+
+25
+00:00:59,000 --> 00:01:03,000
+Bitcoin, and the opportunities that it's
+
+26
+00:01:02,000 --> 00:01:06,000
+going to create and already has created
+
+27
+00:01:04,000 --> 00:01:08,000
+for so many. It's gone through waves. It
+
+28
+00:01:06,000 --> 00:01:10,000
+goes through waves
+
+29
+00:01:08,000 --> 00:01:12,000
+and and I think we're seeing the shift
+
+30
+00:01:09,000 --> 00:01:13,000
+in attention and focus as mine has
+
+31
+00:01:11,000 --> 00:01:15,000
+shifted to AI, but blockchain technology
+
+32
+00:01:14,000 --> 00:01:18,000
+is far from gone, far from being a fad
+
+33
+00:01:16,000 --> 00:01:20,000
+that disappeared. It is continuing to
+
+34
+00:01:19,000 --> 00:01:23,000
+develop [music] and this is a hardware
+
+35
+00:01:21,000 --> 00:01:25,000
+device that I'm pretty excited to try.
+
+36
+00:01:23,000 --> 00:01:27,000
+When HeatBit reached out to me, I was
+
+37
+00:01:24,000 --> 00:01:28,000
+very excited to try out the product, but
+
+38
+00:01:25,000 --> 00:01:29,000
+I was very transparent with them.
+
+39
+00:01:27,000 --> 00:01:31,000
+[music] You can send it to me, I'll try
+
+40
+00:01:28,000 --> 00:01:32,000
+it out, I'll post a video about it, but
+
+41
+00:01:30,000 --> 00:01:34,000
+I'm going to be honest if I like it or
+
+42
+00:01:32,000 --> 00:01:36,000
+not. So, I'm always glad to test out new
+
+43
+00:01:35,000 --> 00:01:39,000
+products, but one of the things I'm
+
+44
+00:01:36,000 --> 00:01:40,000
+committed to here is to be honest with
+
+45
+00:01:38,000 --> 00:01:42,000
+you. And you watched, if you watched my
+
+46
+00:01:40,000 --> 00:01:44,000
+other videos, there's a lot of software
+
+47
+00:01:42,000 --> 00:01:46,000
+and [music] even hardware devices that
+
+48
+00:01:43,000 --> 00:01:47,000
+I'm like, man, that sounded cool, but
+
+49
+00:01:45,000 --> 00:01:49,000
+when I actually got to using it, it
+
+50
+00:01:46,000 --> 00:01:50,000
+wasn't or, you know, I thought it was
+
+51
+00:01:48,000 --> 00:01:52,000
+going to be this and it actually is way
+
+52
+00:01:49,000 --> 00:01:53,000
+better. So, if you're considering this
+
+53
+00:01:51,000 --> 00:01:55,000
+device, I hope this video helps you
+
+54
+00:01:52,000 --> 00:01:56,000
+decide whether it's the right device for
+
+55
+00:01:54,000 --> 00:01:58,000
+you or not. So, let's get into the
+
+56
+00:01:56,000 --> 00:02:00,000
+video. Step one, let's get to the box.
+
+57
+00:02:05,000 --> 00:02:09,000
+It is a huge box. So, let's see if you
+
+58
+00:02:07,000 --> 00:02:11,000
+can [music] see this whole thing. So,
+
+59
+00:02:09,000 --> 00:02:13,000
+this just got to my office.
+
+60
+00:02:11,000 --> 00:02:15,000
+My office is not a
+
+61
+00:02:13,000 --> 00:02:17,000
+big space and so it is way bigger than I
+
+62
+00:02:17,000 --> 00:02:21,000
+anticipated.
+
+63
+00:02:18,000 --> 00:02:22,000
+&gt;&gt; [music]
+
+64
+00:02:19,000 --> 00:02:23,000
+&gt;&gt; So, yeah, know that. It's a big device,
+
+65
+00:02:22,000 --> 00:02:26,000
+or at least the box is big and some
+
+66
+00:02:24,000 --> 00:02:28,000
+weight to [music] it. So, let's get into
+
+67
+00:02:26,000 --> 00:02:30,000
+the box.
+
+68
+00:02:42,000 --> 00:02:46,000
+Okay, so here we are. I got the HeatBit.
+
+69
+00:02:44,000 --> 00:02:48,000
+This is the full device. It is still
+
+70
+00:02:46,000 --> 00:02:50,000
+very large, but you can see the big box
+
+71
+00:02:48,000 --> 00:02:52,000
+behind me, so it is much smaller
+
+72
+00:02:50,000 --> 00:02:54,000
+than the box. It also came with this
+
+73
+00:02:54,000 --> 00:02:58,000
+charging cable and this little piece of
+
+74
+00:02:56,000 --> 00:03:00,000
+cloth. I don't know what the piece of
+
+75
+00:02:57,000 --> 00:03:01,000
+cloth is for, but
+
+76
+00:02:59,000 --> 00:03:03,000
+we'll find [music] out. So, let's get
+
+77
+00:03:00,000 --> 00:03:04,000
+this thing plugged in and see how it
+
+78
+00:03:02,000 --> 00:03:06,000
+works.
+
+79
+00:03:08,000 --> 00:03:12,000
+&gt;&gt; [music]
+
+80
+00:03:16,000 --> 00:03:20,000
+&gt;&gt; Turn it on.
+
+81
+00:03:19,000 --> 00:03:23,000
+Mode select, [music] hold. Okay, so this
+
+82
+00:03:22,000 --> 00:03:26,000
+is mode select.
+
+83
+00:03:29,000 --> 00:03:33,000
+Start. 5 seconds switching heating and
+
+84
+00:03:31,000 --> 00:03:35,000
+air purifying. Huh, it's an air
+
+85
+00:03:32,000 --> 00:03:36,000
+purifier, too.
+
+86
+00:03:36,000 --> 00:03:40,000
+Nice.
+
+87
+00:03:44,000 --> 00:03:48,000
+Very cool.
+
+88
+00:03:47,000 --> 00:03:51,000
+All right, I think I will keep it mostly
+
+89
+00:03:48,000 --> 00:03:52,000
+in air purifying mode
+
+90
+00:03:50,000 --> 00:03:54,000
+in my office.
+
+91
+00:03:58,000 --> 00:04:02,000
+Yep, plus and minus to switch
+
+92
+00:04:00,000 --> 00:04:04,000
+temperatures.
+
+93
+00:04:02,000 --> 00:04:06,000
+Nice. And then this is the turboing. So,
+
+94
+00:04:05,000 --> 00:04:09,000
+this is turbo, [music] this is auto,
+
+95
+00:04:08,000 --> 00:04:12,000
+this is light when it comes to the
+
+96
+00:04:09,000 --> 00:04:13,000
+mining boards. And so, what's [music]
+
+97
+00:04:11,000 --> 00:04:15,000
+affecting here is turbo is going to be a
+
+98
+00:04:14,000 --> 00:04:18,000
+little louder
+
+99
+00:04:16,000 --> 00:04:20,000
+and then auto is going to keep the
+
+100
+00:04:19,000 --> 00:04:23,000
+desired temperature
+
+101
+00:04:20,000 --> 00:04:24,000
+and adapt the mining boards to keep
+
+102
+00:04:22,000 --> 00:04:26,000
+[music] the space perfectly balanced.
+
+103
+00:04:24,000 --> 00:04:28,000
+And then this is light, so I'll probably
+
+104
+00:04:26,000 --> 00:04:30,000
+keep it in this auto zone mostly. Okay,
+
+105
+00:04:29,000 --> 00:04:33,000
+so just like that, we've got the Bitcoin
+
+106
+00:04:32,000 --> 00:04:36,000
+miner, heater, air purifier all set up.
+
+107
+00:04:35,000 --> 00:04:39,000
+I'd say it took about 10 minutes
+
+108
+00:04:37,000 --> 00:04:41,000
+to unbox, connect to the Wi-Fi, turn on,
+
+109
+00:04:41,000 --> 00:04:45,000
+see how it works. I'll tell you, as just
+
+110
+00:04:43,000 --> 00:04:47,000
+a piece of hardware, it is huge. It's
+
+111
+00:04:45,000 --> 00:04:49,000
+it's a big piece of hardware. It just
+
+112
+00:04:47,000 --> 00:04:51,000
+feels legit and professional. It is
+
+113
+00:04:50,000 --> 00:04:54,000
+heavy duty. Puts off pretty good heat,
+
+114
+00:04:53,000 --> 00:04:57,000
+quick heat. [music]
+
+115
+00:04:54,000 --> 00:04:58,000
+Curious to see how it works as an air
+
+116
+00:04:55,000 --> 00:04:59,000
+purifier. I'm going to be monitoring
+
+117
+00:04:57,000 --> 00:05:01,000
+that in the app. But the big question is
+
+118
+00:05:00,000 --> 00:05:04,000
+is this worth it? Is this worth it for
+
+119
+00:05:02,000 --> 00:05:06,000
+you to buy? And I think the question is
+
+120
+00:05:04,000 --> 00:05:08,000
+is really how
+
+121
+00:05:05,000 --> 00:05:09,000
+&gt;&gt; [music]
+
+122
+00:05:06,000 --> 00:05:10,000
+&gt;&gt; good of an air purifier is it and
+
+123
+00:05:07,000 --> 00:05:11,000
+heater. And you compare that to another
+
+124
+00:05:09,000 --> 00:05:13,000
+and maybe that's worth $200. But the
+
+125
+00:05:12,000 --> 00:05:16,000
+question is as a Bitcoin miner, you
+
+126
+00:05:14,000 --> 00:05:18,000
+know, how effective is it? Is it loud?
+
+127
+00:05:16,000 --> 00:05:20,000
+Is it annoying? [music]
+
+128
+00:05:17,000 --> 00:05:21,000
+We'll see. Time will tell. What I'm
+
+129
+00:05:19,000 --> 00:05:23,000
+going to do is I'm going to take about a
+
+130
+00:05:20,000 --> 00:05:24,000
+week. I'm going to monitor just how much
+
+131
+00:05:23,000 --> 00:05:27,000
+Bitcoin is mined in that time.
+
+132
+00:05:25,000 --> 00:05:29,000
+I'm going to test some different
+
+133
+00:05:27,000 --> 00:05:31,000
+settings and then I'll come back and
+
+134
+00:05:28,000 --> 00:05:32,000
+I'll share my feedback. I'll do it in
+
+135
+00:05:30,000 --> 00:05:34,000
+this video, so you don't have to wait
+
+136
+00:05:31,000 --> 00:05:35,000
+till the next video.
+
+137
+00:05:32,000 --> 00:05:36,000
+&gt;&gt; [music]
+
+138
+00:05:32,000 --> 00:05:36,000
+&gt;&gt; Until then, I'm going to be playing with
+
+139
+00:05:34,000 --> 00:05:38,000
+this and yeah, we'll see. I'll be back
+
+140
+00:05:36,000 --> 00:05:40,000
+in a week. Well, actually a few seconds
+
+141
+00:05:39,000 --> 00:05:43,000
+for you, a week [music] for me.
+
+142
+00:05:43,000 --> 00:05:47,000
+We're back. I have been using the
+
+143
+00:05:46,000 --> 00:05:50,000
+HeatBit here in my New York City office
+
+144
+00:05:49,000 --> 00:05:53,000
+for about 2 weeks. So, I've got some
+
+145
+00:05:51,000 --> 00:05:55,000
+data. And and as I look at the HeatBit,
+
+146
+00:05:53,000 --> 00:05:57,000
+let me just give some quick updates
+
+147
+00:05:55,000 --> 00:05:59,000
+[music] after 2 weeks of using it. One,
+
+148
+00:05:58,000 --> 00:06:02,000
+the device is just really solid. You
+
+149
+00:06:00,000 --> 00:06:04,000
+know, I think I think if you look at it
+
+150
+00:06:01,000 --> 00:06:05,000
+just from a heater standpoint, a mining
+
+151
+00:06:04,000 --> 00:06:08,000
+miner
+
+152
+00:06:05,000 --> 00:06:09,000
+standpoint, a
+
+153
+00:06:08,000 --> 00:06:12,000
+air filter standpoint, it's just a
+
+154
+00:06:09,000 --> 00:06:13,000
+really solid [music]
+
+155
+00:06:11,000 --> 00:06:15,000
+device and it just works good, it looks
+
+156
+00:06:13,000 --> 00:06:17,000
+good.
+
+157
+00:06:15,000 --> 00:06:19,000
+Yeah, it works, you know, functions
+
+158
+00:06:16,000 --> 00:06:20,000
+[music] really good. The other side is
+
+159
+00:06:18,000 --> 00:06:22,000
+as a heater, air filter, and as a miner,
+
+160
+00:06:20,000 --> 00:06:24,000
+if I've used other miners, they're
+
+161
+00:06:22,000 --> 00:06:26,000
+really loud.
+
+162
+00:06:24,000 --> 00:06:28,000
+This thing is really [music] quiet. It's
+
+163
+00:06:25,000 --> 00:06:29,000
+about the same as any other air filter
+
+164
+00:06:27,000 --> 00:06:31,000
+heater that I've had, so it's really no
+
+165
+00:06:29,000 --> 00:06:33,000
+different. And so,
+
+166
+00:06:30,000 --> 00:06:34,000
+practically, you know this, this is the
+
+167
+00:06:32,000 --> 00:06:36,000
+core of the product is
+
+168
+00:06:34,000 --> 00:06:38,000
+it's [music] if you're already going to
+
+169
+00:06:36,000 --> 00:06:40,000
+be heating something, you can also
+
+170
+00:06:38,000 --> 00:06:42,000
+basically mine Bitcoin at the same time.
+
+171
+00:06:41,000 --> 00:06:45,000
+Now, it doesn't work, the air filter
+
+172
+00:06:43,000 --> 00:06:47,000
+doesn't work. I think some people have
+
+173
+00:06:45,000 --> 00:06:49,000
+been curious, I was curious, maybe just
+
+174
+00:06:46,000 --> 00:06:50,000
+the air filter work when I don't need
+
+175
+00:06:47,000 --> 00:06:51,000
+the heater
+
+176
+00:06:48,000 --> 00:06:52,000
+to to mine, it doesn't.
+
+177
+00:06:50,000 --> 00:06:54,000
+&gt;&gt; [music]
+
+178
+00:06:50,000 --> 00:06:54,000
+&gt;&gt; You need the heater
+
+179
+00:06:53,000 --> 00:06:57,000
+or, you know, when it's mining and
+
+180
+00:06:54,000 --> 00:06:58,000
+putting out heat [music] is when you
+
+181
+00:06:56,000 --> 00:07:00,000
+kind of get that dual benefit of the
+
+182
+00:06:58,000 --> 00:07:02,000
+two. So, here's the thing. I I think the
+
+183
+00:07:00,000 --> 00:07:04,000
+best part of this device is not actually
+
+184
+00:07:02,000 --> 00:07:06,000
+the hardware, maybe it is the hardware,
+
+185
+00:07:04,000 --> 00:07:08,000
+but it's the software [music]
+
+186
+00:07:05,000 --> 00:07:09,000
+that they built in. I've had other
+
+187
+00:07:07,000 --> 00:07:11,000
+devices like this, the software is
+
+188
+00:07:09,000 --> 00:07:13,000
+clunky, the device is, you know,
+
+189
+00:07:12,000 --> 00:07:16,000
+kind of rigged [music]
+
+190
+00:07:13,000 --> 00:07:17,000
+together. This is a professional
+
+191
+00:07:15,000 --> 00:07:19,000
+hardware device
+
+192
+00:07:17,000 --> 00:07:21,000
+and and probably what I like best about
+
+193
+00:07:20,000 --> 00:07:24,000
+this platform [music]
+
+194
+00:07:21,000 --> 00:07:25,000
+is their app. So, let's go into the app.
+
+195
+00:07:25,000 --> 00:07:29,000
+So, when you log in to the HeatBit app,
+
+196
+00:07:28,000 --> 00:07:32,000
+at the top you can see the balance.
+
+197
+00:07:30,000 --> 00:07:34,000
+Basically, how much [music]
+
+198
+00:07:31,000 --> 00:07:35,000
+Bitcoin has been mined. You can see it's
+
+199
+00:07:33,000 --> 00:07:37,000
+been 10,888 satoshis, satoshis $7.67.
+
+200
+00:07:38,000 --> 00:07:42,000
+&gt;&gt; [music]
+
+201
+00:07:38,000 --> 00:07:42,000
+&gt;&gt; I've been using this device for about 2
+
+202
+00:07:41,000 --> 00:07:45,000
+weeks. Only had it heating
+
+203
+00:07:43,000 --> 00:07:47,000
+&gt;&gt; [music]
+
+204
+00:07:43,000 --> 00:07:47,000
+&gt;&gt; for honestly because it got so warm in
+
+205
+00:07:46,000 --> 00:07:50,000
+my office. So, I've only had it heating
+
+206
+00:07:48,000 --> 00:07:52,000
+probably about [music] 6 or 7 days, 6 7,
+
+207
+00:07:51,000 --> 00:07:55,000
+see what I did there. That was
+
+208
+00:07:52,000 --> 00:07:56,000
+unintentional and you can see I've got
+
+209
+00:07:54,000 --> 00:07:58,000
+$7.67
+
+210
+00:07:57,000 --> 00:08:01,000
+&gt;&gt; [music]
+
+211
+00:07:57,000 --> 00:08:01,000
+&gt;&gt; in
+
+212
+00:07:58,000 --> 00:08:02,000
+USD value in the Bitcoin that has been
+
+213
+00:08:01,000 --> 00:08:05,000
+mined. So,
+
+214
+00:08:03,000 --> 00:08:07,000
+I would estimate probably about 50 cents
+
+215
+00:08:06,000 --> 00:08:10,000
+a day
+
+216
+00:08:07,000 --> 00:08:11,000
+&gt;&gt; [music]
+
+217
+00:08:08,000 --> 00:08:12,000
+&gt;&gt; in mining
+
+218
+00:08:09,000 --> 00:08:13,000
+returns at the current price of [music]
+
+219
+00:08:12,000 --> 00:08:16,000
+Bitcoin. And you can see here in the app
+
+220
+00:08:14,000 --> 00:08:18,000
+that current price is about $70,400.
+
+221
+00:08:19,000 --> 00:08:23,000
+So, yeah, you can also see if if you go
+
+222
+00:08:22,000 --> 00:08:26,000
+down, you can see kind of the current
+
+223
+00:08:23,000 --> 00:08:27,000
+state of the heater and it's currently
+
+224
+00:08:25,000 --> 00:08:29,000
+in [music] heating mode. If you're in my
+
+225
+00:08:27,000 --> 00:08:31,000
+office and I don't have any noise
+
+226
+00:08:29,000 --> 00:08:33,000
+cancellation turned on, you can't hear
+
+227
+00:08:32,000 --> 00:08:36,000
+that
+
+228
+00:08:33,000 --> 00:08:37,000
+it at all. And so, you'd actually be
+
+229
+00:08:35,000 --> 00:08:39,000
+hearing my AC if you're hearing a noise
+
+230
+00:08:37,000 --> 00:08:41,000
+that's louder [music] than the heater
+
+231
+00:08:40,000 --> 00:08:44,000
+right now. Now, I do have it set on a
+
+232
+00:08:41,000 --> 00:08:45,000
+lower setting
+
+233
+00:08:42,000 --> 00:08:46,000
+and so that's where that is, [music] but
+
+234
+00:08:44,000 --> 00:08:48,000
+you can see the temperature, you can see
+
+235
+00:08:46,000 --> 00:08:50,000
+the performance and so what
+
+236
+00:08:48,000 --> 00:08:52,000
+hash rate is and then the consumption
+
+237
+00:08:50,000 --> 00:08:54,000
+[music] of from a power standpoint.
+
+238
+00:08:54,000 --> 00:08:58,000
+And then you can just see, you know, how
+
+239
+00:08:55,000 --> 00:08:59,000
+you're heating, you know, what level I
+
+240
+00:08:56,000 --> 00:09:00,000
+can I can turn that up or down
+
+241
+00:08:59,000 --> 00:09:03,000
+&gt;&gt; [music]
+
+242
+00:08:59,000 --> 00:09:03,000
+&gt;&gt; with the directly on the device. I can't
+
+243
+00:09:02,000 --> 00:09:06,000
+actually control it, or at least I
+
+244
+00:09:04,000 --> 00:09:08,000
+didn't figure out how to control it from
+
+245
+00:09:07,000 --> 00:09:11,000
+the device. I can just monitor it from
+
+246
+00:09:09,000 --> 00:09:13,000
+this device. [music]
+
+247
+00:09:11,000 --> 00:09:15,000
+And then air purification, it will
+
+248
+00:09:12,000 --> 00:09:16,000
+actually tell me how humid my office is,
+
+249
+00:09:15,000 --> 00:09:19,000
+the air inside is moderate, like is it
+
+250
+00:09:17,000 --> 00:09:21,000
+clean or is it not? And yeah, [music]
+
+251
+00:09:20,000 --> 00:09:24,000
+and then I I looked at just how to
+
+252
+00:09:22,000 --> 00:09:26,000
+change the filters. I didn't change the
+
+253
+00:09:24,000 --> 00:09:28,000
+filters, it, you know, came built in,
+
+254
+00:09:26,000 --> 00:09:30,000
+but
+
+255
+00:09:27,000 --> 00:09:31,000
+really easy to do. I have another
+
+256
+00:09:29,000 --> 00:09:33,000
+air filter air purification air
+
+257
+00:09:31,000 --> 00:09:35,000
+filtration system in my [music] office
+
+258
+00:09:33,000 --> 00:09:37,000
+very similar to how that works. And so,
+
+259
+00:09:37,000 --> 00:09:41,000
+and then here within the app, you can
+
+260
+00:09:38,000 --> 00:09:42,000
+see the stats. So, where kind of mining
+
+261
+00:09:40,000 --> 00:09:44,000
+rewards are, you can see peak and so
+
+262
+00:09:42,000 --> 00:09:46,000
+[music]
+
+263
+00:09:43,000 --> 00:09:47,000
+I was running it more last week and so
+
+264
+00:09:44,000 --> 00:09:48,000
+then it dropped off after I came back to
+
+265
+00:09:46,000 --> 00:09:50,000
+my office and haven't been running it
+
+266
+00:09:47,000 --> 00:09:51,000
+[music] every day.
+
+267
+00:09:49,000 --> 00:09:53,000
+And then here's a wallet where I can
+
+268
+00:09:51,000 --> 00:09:55,000
+transfer
+
+269
+00:09:52,000 --> 00:09:56,000
+those into Coinbase or Binance. Here's a
+
+270
+00:09:55,000 --> 00:09:59,000
+chat. One of the things I actually loved
+
+271
+00:09:57,000 --> 00:10:01,000
+is
+
+272
+00:09:58,000 --> 00:10:02,000
+uh
+
+273
+00:09:58,000 --> 00:10:02,000
+&gt;&gt; [music]
+
+274
+00:09:58,000 --> 00:10:02,000
+&gt;&gt; I needed some help in the setup.
+
+275
+00:10:01,000 --> 00:10:05,000
+Uh I was do It was It was actually user
+
+276
+00:10:03,000 --> 00:10:07,000
+error. Uh but I was able to talk to a
+
+277
+00:10:05,000 --> 00:10:09,000
+person, a real life person,
+
+278
+00:10:07,000 --> 00:10:11,000
+&gt;&gt; [music]
+
+279
+00:10:07,000 --> 00:10:11,000
+&gt;&gt; uh in the app within seconds of of
+
+280
+00:10:10,000 --> 00:10:14,000
+logging in and getting help. Uh that is
+
+281
+00:10:12,000 --> 00:10:16,000
+rare. Uh as anybody knows that needs
+
+282
+00:10:15,000 --> 00:10:19,000
+help with technology. So, that was
+
+283
+00:10:17,000 --> 00:10:21,000
+[music] a a big positive. Uh and then
+
+284
+00:10:19,000 --> 00:10:23,000
+you can see the account. You can you can
+
+285
+00:10:20,000 --> 00:10:24,000
+update some things. So, all that said,
+
+286
+00:10:22,000 --> 00:10:26,000
+the app is [music] great. Uh and it
+
+287
+00:10:25,000 --> 00:10:29,000
+works great. The device is great. So,
+
+288
+00:10:27,000 --> 00:10:31,000
+here's the question. Do I recommend the
+
+289
+00:10:30,000 --> 00:10:34,000
+Heatbit? Would I Would I buy [music] it?
+
+290
+00:10:32,000 --> 00:10:36,000
+If I had $800 to buy this device or not?
+
+291
+00:10:36,000 --> 00:10:40,000
+And the answer is maybe. And And let me
+
+292
+00:10:39,000 --> 00:10:43,000
+just be honest with that. [music] Uh
+
+293
+00:10:41,000 --> 00:10:45,000
+people want to know is
+
+294
+00:10:44,000 --> 00:10:48,000
+am I going to get $800 in Bitcoin back?
+
+295
+00:10:46,000 --> 00:10:50,000
+How long would that take? Now, I would
+
+296
+00:10:48,000 --> 00:10:52,000
+estimate that's probably going to take
+
+297
+00:10:49,000 --> 00:10:53,000
+you about 2 years if you're running it
+
+298
+00:10:50,000 --> 00:10:54,000
+all the time or [music] or pretty
+
+299
+00:10:52,000 --> 00:10:56,000
+consistently, maybe a year and a half if
+
+300
+00:10:53,000 --> 00:10:57,000
+you're running it all the time. But it
+
+301
+00:10:55,000 --> 00:10:59,000
+puts out pretty significant heat, so you
+
+302
+00:10:56,000 --> 00:11:00,000
+got to have a place where you can,
+
+303
+00:10:58,000 --> 00:11:02,000
+&gt;&gt; [music]
+
+304
+00:10:58,000 --> 00:11:02,000
+&gt;&gt; you know, offset some of that heat. And
+
+305
+00:10:59,000 --> 00:11:03,000
+And then you got to look at the cost of
+
+306
+00:11:01,000 --> 00:11:05,000
+your electricity.
+
+307
+00:11:02,000 --> 00:11:06,000
+Um and so, realistically, if you're
+
+308
+00:11:05,000 --> 00:11:09,000
+looking for [music] this to become
+
+309
+00:11:07,000 --> 00:11:11,000
+something that is like a in the
+
+310
+00:11:09,000 --> 00:11:13,000
+background money printer for you,
+
+311
+00:11:11,000 --> 00:11:15,000
+[music] you're probably better off just
+
+312
+00:11:12,000 --> 00:11:16,000
+getting an actual mining miner. And that
+
+313
+00:11:15,000 --> 00:11:19,000
+that can put out more Bitcoin and mine
+
+314
+00:11:18,000 --> 00:11:22,000
+mine more uh significantly. [music]
+
+315
+00:11:21,000 --> 00:11:25,000
+But if you're somebody that that loves
+
+316
+00:11:23,000 --> 00:11:27,000
+Bitcoin, that loves the ecosystem, that
+
+317
+00:11:24,000 --> 00:11:28,000
+wants to be a part of the ecosystem,
+
+318
+00:11:26,000 --> 00:11:30,000
+that has a space, that needs a heater,
+
+319
+00:11:28,000 --> 00:11:32,000
+that needs air I think we all need air
+
+320
+00:11:30,000 --> 00:11:34,000
+purifiers [music]
+
+321
+00:11:31,000 --> 00:11:35,000
+in our spaces, uh then this is an
+
+322
+00:11:34,000 --> 00:11:38,000
+excellent device. It's going to be more
+
+323
+00:11:35,000 --> 00:11:39,000
+expensive, naturally, than another
+
+324
+00:11:37,000 --> 00:11:41,000
+heater. It's going to be more expensive
+
+325
+00:11:38,000 --> 00:11:42,000
+than a regular air purification, but
+
+326
+00:11:40,000 --> 00:11:44,000
+it's all-in-one. And you're a part of
+
+327
+00:11:43,000 --> 00:11:47,000
+the Bitcoin [music] ecosystem, which I
+
+328
+00:11:44,000 --> 00:11:48,000
+love to be a part of it. So, all that
+
+329
+00:11:46,000 --> 00:11:50,000
+said of yeah, I'd probably buy one
+
+330
+00:11:48,000 --> 00:11:52,000
+[music] because I'm pretty passionate
+
+331
+00:11:50,000 --> 00:11:54,000
+about Bitcoin and loving supporting it.
+
+332
+00:11:52,000 --> 00:11:56,000
+And it's a great
+
+333
+00:11:53,000 --> 00:11:57,000
+&gt;&gt; [music]
+
+334
+00:11:54,000 --> 00:11:58,000
+&gt;&gt; It It looks good in my office. I'm going
+
+335
+00:11:56,000 --> 00:12:00,000
+to turn it off. It's a pretty big
+
+336
+00:11:57,000 --> 00:12:01,000
+device. All that to say, it is going to
+
+337
+00:12:00,000 --> 00:12:04,000
+return some [music] money back to you in
+
+338
+00:12:02,000 --> 00:12:06,000
+Bitcoin. You're going to get some
+
+339
+00:12:03,000 --> 00:12:07,000
+returns. But But I think at the end of
+
+340
+00:12:05,000 --> 00:12:09,000
+the day, you're you're really supporting
+
+341
+00:12:06,000 --> 00:12:10,000
+the Bitcoin ecosystem. You're getting a
+
+342
+00:12:08,000 --> 00:12:12,000
+little return. You're getting a device
+
+343
+00:12:09,000 --> 00:12:13,000
+you probably already need. And so, you
+
+344
+00:12:12,000 --> 00:12:16,000
+add all that together, and I think it's
+
+345
+00:12:14,000 --> 00:12:18,000
+probably a break [music] even. So, if
+
+346
+00:12:16,000 --> 00:12:20,000
+you love Bitcoin and you want to be a
+
+347
+00:12:17,000 --> 00:12:21,000
+part of the ecosystem, great. If you're
+
+348
+00:12:19,000 --> 00:12:23,000
+looking for a heater that's going to
+
+349
+00:12:21,000 --> 00:12:25,000
+make you money
+
+350
+00:12:22,000 --> 00:12:26,000
+&gt;&gt; [music]
+
+351
+00:12:22,000 --> 00:12:26,000
+&gt;&gt; heating your apartment, that
+
+352
+00:12:23,000 --> 00:12:27,000
+that's probably not going to happen.
+
+353
+00:12:25,000 --> 00:12:29,000
+That's not realistic. But if you're
+
+354
+00:12:27,000 --> 00:12:31,000
+looking at that heater that can return
+
+355
+00:12:29,000 --> 00:12:33,000
+some money and uh in a cool way, [music]
+
+356
+00:12:31,000 --> 00:12:35,000
+and you're passionate about Bitcoin, and
+
+357
+00:12:33,000 --> 00:12:37,000
+you want to be on the cutting edge, uh I
+
+358
+00:12:35,000 --> 00:12:39,000
+would 100% get one of these, if not one
+
+359
+00:12:37,000 --> 00:12:41,000
+for every room in your house. [music]
+
+360
+00:12:39,000 --> 00:12:43,000
+This, literally, as a heater,
+
+361
+00:12:41,000 --> 00:12:45,000
+I'm convinced this could Now, we live in
+
+362
+00:12:42,000 --> 00:12:46,000
+a a two-bedroom apartment, but I'm
+
+363
+00:12:45,000 --> 00:12:49,000
+convinced it would it [music] would heat
+
+364
+00:12:46,000 --> 00:12:50,000
+our whole apartment. I probably actually
+
+365
+00:12:48,000 --> 00:12:52,000
+will take it home as my apartment is
+
+366
+00:12:51,000 --> 00:12:55,000
+bigger than my office.
+
+367
+00:12:53,000 --> 00:12:57,000
+Um and so, yeah, it is a cool [music]
+
+368
+00:12:55,000 --> 00:12:59,000
+device. I definitely recommend it for
+
+369
+00:12:57,000 --> 00:13:01,000
+those that are Bitcoin enthusiasts, but
+
+370
+00:13:00,000 --> 00:13:04,000
+I don't recommend it for those that are
+
+371
+00:13:02,000 --> 00:13:06,000
+looking to get financial return on
+
+372
+00:13:04,000 --> 00:13:08,000
+investment on [music] a Bitcoin miner.
+
+373
+00:13:06,000 --> 00:13:10,000
+So, I hope that helps in making your
+
+374
+00:13:07,000 --> 00:13:11,000
+decision. Great device, Heatbit. Thank
+
+375
+00:13:10,000 --> 00:13:14,000
+you for letting me be an early tester of
+
+376
+00:13:13,000 --> 00:13:17,000
+this technology. I will be utilizing
+
+377
+00:13:14,000 --> 00:13:18,000
+[music]
+
+378
+00:13:15,000 --> 00:13:19,000
+it. I will be testing it both at home
+
+379
+00:13:17,000 --> 00:13:21,000
+and continue to use it here in my
+
+380
+00:13:19,000 --> 00:13:23,000
+office. And so, yeah, cool device.
+
+381
+00:13:21,000 --> 00:13:25,000
+Excited [music] to see where Heatbit
+
+382
+00:13:23,000 --> 00:13:27,000
+goes. Really impressed by both the
+
+383
+00:13:26,000 --> 00:13:30,000
+hardware and the software.
+
+384
+00:13:27,000 --> 00:13:31,000
+&gt;&gt; [music]
+
+385
+00:13:27,000 --> 00:13:31,000
+&gt;&gt; Love when I get to test device and just
+
+386
+00:13:30,000 --> 00:13:34,000
+let you know how cool it is and the real
+
+387
+00:13:33,000 --> 00:13:37,000
+honest truth about it. If you have any
+
+388
+00:13:34,000 --> 00:13:38,000
+questions, drop them in the comments.
+
+389
+00:13:36,000 --> 00:13:40,000
+Happy to answer any questions you might
+
+390
+00:13:38,000 --> 00:13:42,000
+have, and and I'll keep you posted. I'm
+
+391
+00:13:40,000 --> 00:13:44,000
+guessing, based on just even how good
+
+392
+00:13:42,000 --> 00:13:46,000
+this device is and their software is,
+
+393
+00:13:44,000 --> 00:13:48,000
+that there's going to be updates along
+
+394
+00:13:45,000 --> 00:13:49,000
+the way. So, I'll probably do a an
+
+395
+00:13:47,000 --> 00:13:51,000
+update to 7 months. Maybe we'll keep it
+
+396
+00:13:49,000 --> 00:13:53,000
+&gt;&gt; [music]
+
+397
+00:13:49,000 --> 00:13:53,000
+&gt;&gt; at that pace for the theme of this
+
+398
+00:13:52,000 --> 00:13:56,000
+video. Thanks so much for watching. I
+
+399
+00:13:54,000 --> 00:13:58,000
+look forward to talking to you again on
+
+400
+00:13:55,000 --> 00:13:59,000
+the next video.
+
+401
+00:14:00,000 --> 00:14:04,000
+Hi.
+

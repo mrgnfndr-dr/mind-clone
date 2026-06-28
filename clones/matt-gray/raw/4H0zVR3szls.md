@@ -1,0 +1,6 @@
+2|Attention is the new distribution. Trust is the new currency. And content is the cheapest way to earn both. When you go and think about building a company, I want you to remember this one line. First time founders focus on product. Second time founders focus on
+12|distribution. Distribution is shifting right to the founder. People want to get to know you, your point of view, and what makes you unique. And so the advantage of putting content out there is that that content is like a
+23|salesperson that never sleeps. It's helping you drive leads. It's helping you attract top talent. It's opening up different partnerships and credibility and also helping you over time have more pricing power.
+33|Start your content ideation with actually understanding your dream customer. And the best way to do this is number one to listen back to sales call transcripts and understand what their
+43|core problems are, what their constraints are, what their dreams are, and what they're hoping to get your help with. The second aspect is to literally survey them, asking them what's their main goal this year, what's
+53|keeping them up at night, and if they were to wave a magic wand, what would they most want your help with? The answers to these questions contain the kernels for high converting content that's going to help you get ahead.

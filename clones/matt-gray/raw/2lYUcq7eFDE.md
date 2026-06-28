@@ -1,0 +1,5 @@
+2|I've interviewed over 134 millionaires here at five things I've learned number one relationships are your Runway nobody builds a successful business alone you need to cultivate relationships with other winners and maintain them number two iron out your values the more clear
+14|you are about what really matters to you the easier it is to make money and have an impact number three invest in your culture your business culture can either encourage people to do their best work or to do the bare minimum cultivate a
+24|hardworking culture and it'll pay dividends number four demonstrate don't dictate great ERS embody their values they don't just talk about them become a living breathing example of your core
+35|values and others will follow number five provide immense value the only way to build trust with a massive audience in today's world is to provide immense value for free don't hold back spoil
+45|your audience and your customers with free value and they will buy from you when the time comes

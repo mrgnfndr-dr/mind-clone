@@ -1,0 +1,595 @@
+1
+00:00:00,560 --> 00:00:02,830
+ 
+This is the one-page operating system
+
+2
+00:00:02,830 --> 00:00:02,840
+This is the one-page operating system
+ 
+
+3
+00:00:02,840 --> 00:00:05,030
+This is the one-page operating system
+behind my $12 million a year business,
+
+4
+00:00:05,030 --> 00:00:05,040
+behind my $12 million a year business,
+ 
+
+5
+00:00:05,040 --> 00:00:07,950
+behind my $12 million a year business,
+okay? So, I learned this from Marc
+
+6
+00:00:07,950 --> 00:00:07,960
+okay? So, I learned this from Marc
+ 
+
+7
+00:00:07,960 --> 00:00:09,630
+okay? So, I learned this from Marc
+Benioff, the founder and CEO of
+
+8
+00:00:09,630 --> 00:00:09,640
+Benioff, the founder and CEO of
+ 
+
+9
+00:00:09,640 --> 00:00:12,190
+Benioff, the founder and CEO of
+Salesforce. Early on, he had a one-pager
+
+10
+00:00:12,190 --> 00:00:12,200
+Salesforce. Early on, he had a one-pager
+ 
+
+11
+00:00:12,200 --> 00:00:14,190
+Salesforce. Early on, he had a one-pager
+just like this, and I stole this from
+
+12
+00:00:14,190 --> 00:00:14,200
+just like this, and I stole this from
+ 
+
+13
+00:00:14,200 --> 00:00:16,070
+just like this, and I stole this from
+the book that I read on him called Into
+
+14
+00:00:16,070 --> 00:00:16,080
+the book that I read on him called Into
+ 
+
+15
+00:00:16,080 --> 00:00:18,670
+the book that I read on him called Into
+the Cloud. And so, first off, we want to
+
+16
+00:00:18,670 --> 00:00:18,680
+the Cloud. And so, first off, we want to
+ 
+
+17
+00:00:18,680 --> 00:00:21,030
+the Cloud. And so, first off, we want to
+have our mission statement. Talking one
+
+18
+00:00:21,030 --> 00:00:21,040
+have our mission statement. Talking one
+ 
+
+19
+00:00:21,040 --> 00:00:22,870
+have our mission statement. Talking one
+sentence, for me, it's helping 100
+
+20
+00:00:22,870 --> 00:00:22,880
+sentence, for me, it's helping 100
+ 
+
+21
+00:00:22,880 --> 00:00:24,430
+sentence, for me, it's helping 100
+million founders accomplish their dreams
+
+22
+00:00:24,430 --> 00:00:24,440
+million founders accomplish their dreams
+ 
+
+23
+00:00:24,440 --> 00:00:26,190
+million founders accomplish their dreams
+through proven systems. You then want to
+
+24
+00:00:26,190 --> 00:00:26,200
+through proven systems. You then want to
+ 
+
+25
+00:00:26,200 --> 00:00:28,590
+through proven systems. You then want to
+have your avatar, right? One core person
+
+26
+00:00:28,590 --> 00:00:28,600
+have your avatar, right? One core person
+ 
+
+27
+00:00:28,600 --> 00:00:30,150
+have your avatar, right? One core person
+that you're looking to help. Not a
+
+28
+00:00:30,150 --> 00:00:30,160
+that you're looking to help. Not a
+ 
+
+29
+00:00:30,160 --> 00:00:32,070
+that you're looking to help. Not a
+demographic, right? We're talking about
+
+30
+00:00:32,070 --> 00:00:32,080
+demographic, right? We're talking about
+ 
+
+31
+00:00:32,080 --> 00:00:34,350
+demographic, right? We're talking about
+an actual person that then all of your
+
+32
+00:00:34,350 --> 00:00:34,360
+an actual person that then all of your
+ 
+
+33
+00:00:34,360 --> 00:00:36,870
+an actual person that then all of your
+content is directed at that one core
+
+34
+00:00:36,870 --> 00:00:36,880
+content is directed at that one core
+ 
+
+35
+00:00:36,880 --> 00:00:40,230
+content is directed at that one core
+avatar. Your offer, okay? What is it?
+
+36
+00:00:40,230 --> 00:00:40,240
+avatar. Your offer, okay? What is it?
+ 
+
+37
+00:00:40,240 --> 00:00:41,710
+avatar. Your offer, okay? What is it?
+One transformation, you should be able
+
+38
+00:00:41,710 --> 00:00:41,720
+One transformation, you should be able
+ 
+
+39
+00:00:41,720 --> 00:00:43,710
+One transformation, you should be able
+to explain it really clearly. For
+
+40
+00:00:43,710 --> 00:00:43,720
+to explain it really clearly. For
+ 
+
+41
+00:00:43,720 --> 00:00:45,830
+to explain it really clearly. For
+Founder OS Velocity, we're helping
+
+42
+00:00:45,830 --> 00:00:45,840
+Founder OS Velocity, we're helping
+ 
+
+43
+00:00:45,840 --> 00:00:48,990
+Founder OS Velocity, we're helping
+founders go and build their social media
+
+44
+00:00:48,990 --> 00:00:49,000
+founders go and build their social media
+ 
+
+45
+00:00:49,000 --> 00:00:51,670
+founders go and build their social media
+machine for them. We do it all.
+
+46
+00:00:51,670 --> 00:00:51,680
+machine for them. We do it all.
+ 
+
+47
+00:00:51,680 --> 00:00:53,070
+machine for them. We do it all.
+Now, the next aspect here is your
+
+48
+00:00:53,070 --> 00:00:53,080
+Now, the next aspect here is your
+ 
+
+49
+00:00:53,080 --> 00:00:55,070
+Now, the next aspect here is your
+channel. What's the one platform you're
+
+50
+00:00:55,070 --> 00:00:55,080
+channel. What's the one platform you're
+ 
+
+51
+00:00:55,080 --> 00:00:56,430
+channel. What's the one platform you're
+getting started with and getting going
+
+52
+00:00:56,430 --> 00:00:56,440
+getting started with and getting going
+ 
+
+53
+00:00:56,440 --> 00:00:58,590
+getting started with and getting going
+on? My biggest channel right now is
+
+54
+00:00:58,590 --> 00:00:58,600
+on? My biggest channel right now is
+ 
+
+55
+00:00:58,600 --> 00:01:00,670
+on? My biggest channel right now is
+YouTube, second biggest is LinkedIn.
+
+56
+00:01:00,670 --> 00:01:00,680
+YouTube, second biggest is LinkedIn.
+ 
+
+57
+00:01:00,680 --> 00:01:02,350
+YouTube, second biggest is LinkedIn.
+We're omnipresent across all channels,
+
+58
+00:01:02,350 --> 00:01:02,360
+We're omnipresent across all channels,
+ 
+
+59
+00:01:02,360 --> 00:01:04,390
+We're omnipresent across all channels,
+but getting going at first, I was
+
+60
+00:01:04,390 --> 00:01:04,400
+but getting going at first, I was
+ 
+
+61
+00:01:04,400 --> 00:01:06,230
+but getting going at first, I was
+actually most focused on Twitter at the
+
+62
+00:01:06,230 --> 00:01:06,240
+actually most focused on Twitter at the
+ 
+
+63
+00:01:06,240 --> 00:01:07,310
+actually most focused on Twitter at the
+time.
+
+64
+00:01:07,310 --> 00:01:07,320
+time.
+ 
+
+65
+00:01:07,320 --> 00:01:09,630
+time.
+Now, the metric. What is the one number
+
+66
+00:01:09,630 --> 00:01:09,640
+Now, the metric. What is the one number
+ 
+
+67
+00:01:09,640 --> 00:01:11,630
+Now, the metric. What is the one number
+you must be most focused on? For most of
+
+68
+00:01:11,630 --> 00:01:11,640
+you must be most focused on? For most of
+ 
+
+69
+00:01:11,640 --> 00:01:13,350
+you must be most focused on? For most of
+you, it's probably something like cash
+
+70
+00:01:13,350 --> 00:01:13,360
+you, it's probably something like cash
+ 
+
+71
+00:01:13,360 --> 00:01:14,710
+you, it's probably something like cash
+collected.
+
+72
+00:01:14,710 --> 00:01:14,720
+collected.
+ 
+
+73
+00:01:14,720 --> 00:01:17,070
+collected.
+The ritual, right? What is the meeting
+
+74
+00:01:17,070 --> 00:01:17,080
+The ritual, right? What is the meeting
+ 
+
+75
+00:01:17,080 --> 00:01:19,270
+The ritual, right? What is the meeting
+that you have each week that sets the
+
+76
+00:01:19,270 --> 00:01:19,280
+that you have each week that sets the
+ 
+
+77
+00:01:19,280 --> 00:01:21,070
+that you have each week that sets the
+tone? It's like the heartbeat of your
+
+78
+00:01:21,070 --> 00:01:21,080
+tone? It's like the heartbeat of your
+ 
+
+79
+00:01:21,080 --> 00:01:22,990
+tone? It's like the heartbeat of your
+company. For me, it's our Level 10
+
+80
+00:01:22,990 --> 00:01:23,000
+company. For me, it's our Level 10
+ 
+
+81
+00:01:23,000 --> 00:01:24,630
+company. For me, it's our Level 10
+Meeting, is a concept I learned from the
+
+82
+00:01:24,630 --> 00:01:24,640
+Meeting, is a concept I learned from the
+ 
+
+83
+00:01:24,640 --> 00:01:26,190
+Meeting, is a concept I learned from the
+book Traction. I've been using it for
+
+84
+00:01:26,190 --> 00:01:26,200
+book Traction. I've been using it for
+ 
+
+85
+00:01:26,200 --> 00:01:29,030
+book Traction. I've been using it for
+over 19 years now. We start off with
+
+86
+00:01:29,030 --> 00:01:29,040
+over 19 years now. We start off with
+ 
+
+87
+00:01:29,040 --> 00:01:31,710
+over 19 years now. We start off with
+wins, move over to a scoreboard, then
+
+88
+00:01:31,710 --> 00:01:31,720
+wins, move over to a scoreboard, then
+ 
+
+89
+00:01:31,720 --> 00:01:33,750
+wins, move over to a scoreboard, then
+get into any issues, opportunities, we
+
+90
+00:01:33,750 --> 00:01:33,760
+get into any issues, opportunities, we
+ 
+
+91
+00:01:33,760 --> 00:01:35,430
+get into any issues, opportunities, we
+solve problems together, and then go
+
+92
+00:01:35,430 --> 00:01:35,440
+solve problems together, and then go
+ 
+
+93
+00:01:35,440 --> 00:01:36,510
+solve problems together, and then go
+through the checklist of things that we
+
+94
+00:01:36,510 --> 00:01:36,520
+through the checklist of things that we
+ 
+
+95
+00:01:36,520 --> 00:01:38,150
+through the checklist of things that we
+got to get done that week, and then
+
+96
+00:01:38,150 --> 00:01:38,160
+got to get done that week, and then
+ 
+
+97
+00:01:38,160 --> 00:01:39,950
+got to get done that week, and then
+Cloud Code through some automations
+
+98
+00:01:39,950 --> 00:01:39,960
+Cloud Code through some automations
+ 
+
+99
+00:01:39,960 --> 00:01:41,550
+Cloud Code through some automations
+keeps folks accountable so that by
+
+100
+00:01:41,550 --> 00:01:41,560
+keeps folks accountable so that by
+ 
+
+101
+00:01:41,560 --> 00:01:43,230
+keeps folks accountable so that by
+Friday, all of those things are checked
+
+102
+00:01:43,230 --> 00:01:43,240
+Friday, all of those things are checked
+ 
+
+103
+00:01:43,240 --> 00:01:45,870
+Friday, all of those things are checked
+off. Then the system, right? Having one
+
+104
+00:01:45,870 --> 00:01:45,880
+off. Then the system, right? Having one
+ 
+
+105
+00:01:45,880 --> 00:01:47,510
+off. Then the system, right? Having one
+core dashboard that shows all of your
+
+106
+00:01:47,510 --> 00:01:47,520
+core dashboard that shows all of your
+ 
+
+107
+00:01:47,520 --> 00:01:49,110
+core dashboard that shows all of your
+metrics all the way from top of funnel
+
+108
+00:01:49,110 --> 00:01:49,120
+metrics all the way from top of funnel
+ 
+
+109
+00:01:49,120 --> 00:01:50,790
+metrics all the way from top of funnel
+to bottom of funnel, so you can spot the
+
+110
+00:01:50,790 --> 00:01:50,800
+to bottom of funnel, so you can spot the
+ 
+
+111
+00:01:50,800 --> 00:01:53,190
+to bottom of funnel, so you can spot the
+constraint and solve it. And then, the
+
+112
+00:01:53,190 --> 00:01:53,200
+constraint and solve it. And then, the
+ 
+
+113
+00:01:53,200 --> 00:01:55,230
+constraint and solve it. And then, the
+rule, right? If it's not on this page,
+
+114
+00:01:55,230 --> 00:01:55,240
+rule, right? If it's not on this page,
+ 
+
+115
+00:01:55,240 --> 00:01:57,670
+rule, right? If it's not on this page,
+probably ain't a priority. So, that's
+
+116
+00:01:57,670 --> 00:01:57,680
+probably ain't a priority. So, that's
+ 
+
+117
+00:01:57,680 --> 00:01:59,150
+probably ain't a priority. So, that's
+your one-page operating system. Let's
+
+118
+00:01:59,150 --> 00:01:59,160
+your one-page operating system. Let's
+ 
+
+119
+00:01:59,160 --> 00:02:01,760
+your one-page operating system. Let's
+get busy.
+

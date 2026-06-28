@@ -1,0 +1,9 @@
+1|Now, look. Cool thing is I still have that icky guy. And what's changed? Well, I've optimized this consistently now for about 3 years. And it's trippy because like I mean I'm living it. Hiking, mountain biking,
+11|living the dream, coaching founders, you know, traveling the world, living the dream, right? Like it's all coming true. What will you do? I'm going to set my personal brand on fire. At back here I said I'd get my Twitter to 100k,
+21|LinkedIn to 100k, email to 50k. Now my Twitter's at 360k, LinkedIn's at 840k, email's at 190k. Pretty insane. I said I'd launch a social entrepreneurship
+31|course. Well, now I run something called Founder OS. Helping founders achieve their dreams through proven systems. And you know, that's what we're all about, right? But you can see how small I was starting here, right? I wanted to have a community product bring me in 500k a
+41|year. Now we do 10x that. You know, I wanted to have, you know, yeah, two masterminds a year in nature. We're now doing that. I want to get Herb to around autopilot. And now it does that, right? The books I'm going to read. Again, you
+51|can see I was always just investing in books and upping my game in personal development. You want to go and rise in success, you have to rise as a leader. And the way to rise as a leader is to
+61|invest in personal development, right? Personal development is the key to your success because you need to upgrade yourself. What I'm going to launch, you know, all these things, right? You can just see what I was learning back then.
+72|What I'm going to write, you know, website copy, all this good stuff. Business 30-day goals, personal 30-day goals, what went well, right? I, you know, upgraded my game. What didn't go well? I was still, you know, lots of
+83|things didn't improve. What did I learn? And that's that.

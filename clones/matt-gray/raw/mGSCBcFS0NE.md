@@ -1,0 +1,3 @@
+2|you're not stuck One path might be closed but another remains open just because you make a mistake doesn't mean you're screwed every step you take is a new learning a new opportunity for growth there is no win or loss good or
+12|bad there is only learning Marcus aurelus once said the impediment to action advances action what stands in the way becomes the way an obstacle might be able to stop you from moving
+22|forward but it can't stop you from taking a different path or changing your mind or remaining patient or using the obstacle to your advantage every path has obstacles lean in not out

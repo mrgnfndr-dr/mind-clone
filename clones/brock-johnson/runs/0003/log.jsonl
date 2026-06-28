@@ -1,0 +1,4 @@
+{"cmd": "intent", "text": "How many Instagram Stories should I post per day to get maximum views?"}
+{"cmd": "select", "source": "s099", "vectors": ["algorithm"]}
+{"cmd": "select", "source": "s050", "vectors": ["stories"]}
+{"cmd": "compile", "eps": 2}

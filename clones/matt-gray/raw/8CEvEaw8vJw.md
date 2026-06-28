@@ -1,0 +1,10 @@
+1|Now, as you can see, we have all of this all in here, right? We've got our title research, we've got thumbnail research, we've got intro research, we've got our script writing research all in here. It's like 40 plus videos including my
+13|popular videos all ripping ready to go. What I'm going to now go do is work some magic on this. We are going to go and put this in here, and this is an AI chat. So, you saw that in seconds, I can
+24|go and embed an AI chat into Poppy. In here, you can go and click on any tool you want to use inside of it, but I'm going to use Claude 4 Sonnet. I've gone and used that voice to go and now prompt
+35|it, and it's been fed all of my most popular YouTube videos, and so we'll give that a second. While we're waiting there, we can go and create this text field here. Now, it's gone and it's
+45|taken my entire voice here, and it's created a complete framework out of it. Based on analysis of your most popular YouTube videos, here's a comprehensive system to capture and replicate your unique voice and intellectual property.
+56|So, our core brand identity and mission, you know, I help 100 million founders accomplish their dreams through proven systems, the core value prop, systems first approach everything, organic content over paid ads, founder freedom through automation, build businesses
+66|that serve you, not imprison you. It knows all my four pillars of leverage, the AED system to automate, eliminate, and delegate, the four W's framework, you know, working where you want, when
+76|you want, and what you want, with who you want, my content systems like my content waterfall system, content GPS, content idea machine. It knows all of my audience growth systems, the founder flywheel, and then my signature phrases
+87|that I use frequently like proven systems, rented versus owned audience, the zone of genius, systems designers craft their own. I mean, this is insane, right? So, we can go create a new text
+97|file and go and copy that all in. So, this becomes our new framework now for my voice.

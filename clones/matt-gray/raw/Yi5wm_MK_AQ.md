@@ -1,0 +1,9 @@
+2|comes to customers now, you want to go and obviously make sure that your content that you're putting out there is converting those leads to customers. When you're going and actually putting out content, you want to pay attention first off, what are people asking you
+13|for? Looking at the comments, looking at, you know, different responses you're getting from your newsletter. What are people really resonating with? I know that a lot of the founders that I help,
+23|they're looking to get more of their time back. And so, I'm going to go and create content, whether it's here on YouTube, Instagram, X, LinkedIn, TikTok, you name it. We're going to create content that gives people proven systems
+33|to get more of their time back because we see that as founders scale, their real desire goes from, you know, just making more money to actually getting more time back, which for successful
+43|founders is the real currency. So, we want to see what content topics really resonate with our audience. And you can do this a lot of ways. One amazing way is you can go to your best customers and
+53|go and ask them via Typeform survey, "What is it that you're trying to accomplish with me? What's your biggest challenge this year? What's keeping you up at 2:00 a.m. at night? And if I you could wave a magic wand, what would you
+64|want to have accomplished over the next year?" Then you can go and create all of those questions into a probably a Google Sheet or an Excel Sheet, go and upload that as a PDF to ChatGPT, and then have
+75|ChatGPT go and come up with 100 high-converting content ideas for you that go and serve your core market. This is a major hack and something that can help you go and unlock an insane amount
+86|of high-converting content topics based on actual research from your existing customers that are already paying you. So, you can take that one right to the bank.

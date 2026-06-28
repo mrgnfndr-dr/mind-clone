@@ -1,0 +1,15 @@
+{"cmd": "intent", "text": "how to start Instagram from zero for a solopreneur teaching organic promotion methods with build in public journey"}
+{"cmd": "sources", "n": 29}
+{"cmd": "map", "source": "s002", "vectors": 5}
+{"cmd": "map", "source": "s024", "vectors": 3}
+{"cmd": "map", "source": "s019", "vectors": 4}
+{"cmd": "map", "source": "s009", "vectors": 1}
+{"cmd": "select", "source": "s024", "vectors": ["viral-formula", "posting-cadence", "monetization"]}
+{"cmd": "select", "source": "s019", "vectors": ["viral-formula", "content-ideation", "hook-design"]}
+{"cmd": "select", "source": "s009", "vectors": ["algorithm"]}
+{"cmd": "select", "source": "s002", "vectors": ["instagram-growth", "viral-formula"]}
+{"cmd": "map", "source": "s012", "vectors": 2}
+{"cmd": "map", "source": "s011", "vectors": 4}
+{"cmd": "select", "source": "s012", "vectors": ["video-structure", "viral-formula"]}
+{"cmd": "select", "source": "s011", "vectors": ["client-work", "content-ideation"]}
+{"cmd": "compile", "eps": 31}

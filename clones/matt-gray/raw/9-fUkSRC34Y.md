@@ -1,0 +1,6 @@
+2|The problem with chatbt is it's only as good as your prompt. And so when you think about going and creating a killer prompt for chatbt, you want to make sure that you do a few things. Number one, you must make sure that you flush out
+12|the prompt as detailed as possible, indicating the bar that you're setting for it, going and giving it inspiration. And so, you know, if I'm saying, you know, I want ChatBT to go and help me 10x the profit of my business,
+23|I'm going to say, you know, I want you to advise me like, you know, Ray Deio, Jeff Bezos, Steve Jobs, and the best entrepreneurs that have ever existed. I want to go and think in systems. I want it to identify a
+33|constraint. And then I want it to go and use the org chart I've attached to go and help me go and delegate core tasks to my team so that I'm building leverage around me versus having to do all this stuff myself. The other
+44|aspect too is that your prompt is only as good as the files that you feed the given project as well. The more that you have your business systemized, the more powerful you can upload those files to the project and then the more
+56|context Chat GBT has to give you results that are contextual to your unique Possess.

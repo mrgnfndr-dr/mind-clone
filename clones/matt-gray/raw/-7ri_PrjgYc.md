@@ -1,0 +1,4 @@
+2|OpenAI finally released Atlas and people are saying that it's a Google killer. With Atlas, you can actually go and use Chat GBT and interact with the pages that you're viewing. So, let me show you an example of this on YouTube. Here we can see my YouTube channel. We've been
+13|growing this to over 204,000 subs, but I'm looking to go and dial in so I can go and prompt this thing. I want you as a YouTube strategist to go and analyze my YouTube here and go and come up with a 100red viral videos that you think
+24|will get my YouTube channel to a million subs by June 30th of 2026. chatbt atlas is going to go and analyze my YouTube page and go and come up with specific
+34|examples based on what it's seeing here. So, just like that, right? You know, it's doing a great job of kind of giving me an endless stream of content ideas that I can now go take to the team and go and

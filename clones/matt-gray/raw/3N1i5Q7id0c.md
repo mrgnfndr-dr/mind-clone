@@ -1,0 +1,3 @@
+2|imagine your goals now imagine you are running parallel to other people who are trying to achieve the exact same thing they will face the same hurdles as you deal with the same insecurities and feel the same moments of frustration with every obstacle more people fall out of
+13|the race if you don't you become part of a minority one of the unlikely winners who stuck with it in the end 92% will quit during those moments of difficulty they'll stop turn around and go home
+24|don't join the masses break through climb over find a way around your only goal is to be of the 8% who finishes the race

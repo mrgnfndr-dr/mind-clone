@@ -1,0 +1,12 @@
+4|How I filmed 30 days of content in just 4 hours. Okay, so bear with me for a sec. First things first, right? Is you want to go and write 30 hooks. You don't need to go and memorize every line of stuff,
+15|right? If you're an expert and you actually know what the hell it is that you're talking about, I think that what's most important is that you nail the hook and then just go and yap about the stuff that you're really into. Inevitably, people resonate with people,
+27|right? And so you want to go and just make sure that you're sharing, you know, the kind of stuff that you're really into, right? Versus feeling like you need to be perfect, make sure that you're not putting on some performance, just show up as you are and the right
+38|people will connect with you and then screw the rest, right? On the next aspect here then, you're just going to go and film them all back-to-back. I think that you know, when I think about this, it's like the identity is being a
+48|founder athlete, right? And creating content like this, it's athletic, let me tell you. But I'd much rather go and batch everything in one go versus having to go and create a little bit of content every
+59|single day. Screw that, right? The big wins in life happen from batching the tasks that you got going so you get into a flow, you can dial it in, ship it, and then forget it for a bit and get back to
+70|business, all right? Things like AI edits, things like Descript and such can be really useful. I know Memo on my team, an absolute legend, went and set up a clip engine that we had built off Cloud Code, which now runs our in second
+82|Matt Gray business YouTube channel, right? So AI is pretty insane. So the rules here, right? No editing stuff yourself unless it's like, you know, videos like this that don't need any
+92|edits. Keep it fun, okay? Tell yourself, "I'm not here to perform, I'm not here to impress anyone, I'm here just to give value to people, you know, just give them
+103|myself." That's it, nothing more, nothing less, right? I like to do this stuff in my morning when I'm just fresh, ready to go, and your audience, remember, they want real
+114|you, right? Not some fake performance. And so just show up as you are, have some fun with it, and realize too that you're in this kind of forever game. And so the game is just getting 1% better each time you do it, you know, if you
+125|get 10% better every month, you're like 13,800 times better in a year with this stuff, right? So just get on that train of self-improvement. You got this.

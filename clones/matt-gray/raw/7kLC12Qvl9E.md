@@ -1,0 +1,3 @@
+2|the key to company culture is Vision your vision is a picture of the future that inspires you to keep going Steve Jobs once said if you are working on something exciting that you really care about you don't have to be pushed the
+12|vision pulls you but that's not only true for you it's true for your team the most successful entrepreneurs and leaders don't keep this Vision to themselves they share it with their team they create an entire culture around it
+23|so that people aren't only working for a paycheck they're working to change the world your team doesn't want to be coddled they want to be Unleashed

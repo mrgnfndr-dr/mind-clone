@@ -1,0 +1,9144 @@
+1
+00:00:00,000 --> 00:00:01,000
+I was trying to figure out where you
+
+2
+00:00:01,000 --> 00:00:02,000
+were going with that. I was like, "Wow,
+
+3
+00:00:02,000 --> 00:00:05,000
+he's really asking his salary?"
+
+4
+00:00:05,000 --> 00:00:06,000
+&gt;&gt; [laughter]
+
+5
+00:00:06,000 --> 00:00:07,000
+&gt;&gt; Oh, yeah.
+
+6
+00:00:07,000 --> 00:00:08,000
+I'm sure that's public. I'm a
+
+7
+00:00:08,000 --> 00:00:10,000
+shareholder. I can find [laughter] that
+
+8
+00:00:10,000 --> 00:00:12,000
+out right now. Oh, man.
+
+9
+00:00:12,000 --> 00:00:14,000
+&gt;&gt; Please. All right. Let me call my RAPID
+
+10
+00:00:14,000 --> 00:00:16,000
+ROBINHOOD BROKER.
+
+11
+00:00:16,000 --> 00:00:20,000
+&gt;&gt; [laughter]
+
+12
+00:00:20,000 --> 00:00:30,000
+[singing and music]
+
+13
+00:00:30,000 --> 00:00:36,000
+[music and singing]
+
+14
+00:00:36,000 --> 00:00:38,000
+[music]
+
+15
+00:00:38,000 --> 00:00:40,000
+[singing]
+
+16
+00:00:40,000 --> 00:00:49,000
+[music]
+
+17
+00:00:49,000 --> 00:00:51,000
+&gt;&gt; MASA AND OREN, WELCOME back to the Good
+
+18
+00:00:51,000 --> 00:00:53,000
+Guys podcast. We are sitting here with
+
+19
+00:00:53,000 --> 00:00:55,000
+the president of Instagram, Adam
+
+20
+00:00:55,000 --> 00:00:58,000
+Mosseri. Hi. Thanks for having me.
+
+21
+00:00:58,000 --> 00:00:59,000
+&gt;&gt; Thanks for doing this. Wow, look at
+
+22
+00:00:59,000 --> 00:01:03,000
+this, Ben. Can you believe these stats?
+
+23
+00:01:03,000 --> 00:01:05,000
+It's fantastic. And we've been chatting
+
+24
+00:01:05,000 --> 00:01:06,000
+with Adam for the last 10 minutes, and
+
+25
+00:01:06,000 --> 00:01:08,000
+let me tell you, he is much funnier than
+
+26
+00:01:08,000 --> 00:01:10,000
+I expected. So, this episode is going to
+
+27
+00:01:10,000 --> 00:01:13,000
+be an absolute hoot. We are seven boys.
+
+28
+00:01:13,000 --> 00:01:14,000
+We've seven boys between the three of
+
+29
+00:01:14,000 --> 00:01:18,000
+us, okay? Parents over here. Good guys.
+
+30
+00:01:18,000 --> 00:01:21,000
+Adam's another good guy, and just
+
+31
+00:01:21,000 --> 00:01:23,000
+happens to run
+
+32
+00:01:23,000 --> 00:01:25,000
+a platform that is incredibly important
+
+33
+00:01:25,000 --> 00:01:27,000
+to the livelihoods of all of us. So,
+
+34
+00:01:27,000 --> 00:01:30,000
+thank you very much, Adam. Yeah, but can
+
+35
+00:01:30,000 --> 00:01:31,000
+you just allow the
+
+36
+00:01:31,000 --> 00:01:32,000
+&gt;&gt; [laughter]
+
+37
+00:01:32,000 --> 00:01:32,000
+&gt;&gt; I don't know my guy.
+
+38
+00:01:32,000 --> 00:01:35,000
+&gt;&gt; just allow the algorithm to reach a few
+
+39
+00:01:35,000 --> 00:01:36,000
+more people,
+
+40
+00:01:36,000 --> 00:01:37,000
+&gt;&gt; Yeah, yeah, yeah, yeah.
+
+41
+00:01:37,000 --> 00:01:39,000
+Well, I'm sure we'll talk about the
+
+42
+00:01:39,000 --> 00:01:41,000
+algorithm. What if the algorithm kept,
+
+43
+00:01:41,000 --> 00:01:43,000
+like, you know how the Coca-Cola recipe
+
+44
+00:01:43,000 --> 00:01:45,000
+is in like a cave in Atlanta? Yeah.
+
+45
+00:01:45,000 --> 00:01:46,000
+Like, it's [clears throat] kept
+
+46
+00:01:46,000 --> 00:01:47,000
+&gt;&gt; [laughter]
+
+47
+00:01:47,000 --> 00:01:49,000
+&gt;&gt; Like, there's only one person who has
+
+48
+00:01:49,000 --> 00:01:51,000
+the recipe, and it's like maybe one of
+
+49
+00:01:51,000 --> 00:01:53,000
+the Coke family. Where is the algorithm
+
+50
+00:01:53,000 --> 00:01:55,000
+held?
+
+51
+00:01:55,000 --> 00:01:56,000
+So,
+
+52
+00:01:56,000 --> 00:01:59,000
+to [laughter] start, we talk a lot about
+
+53
+00:01:59,000 --> 00:02:01,000
+Honestly, I I used to try to
+
+54
+00:02:01,000 --> 00:02:04,000
+reframe questions like that, cuz there
+
+55
+00:02:04,000 --> 00:02:06,000
+isn't one algorithm. There's lots of
+
+56
+00:02:06,000 --> 00:02:07,000
+things we do to try to understand how
+
+57
+00:02:07,000 --> 00:02:09,000
+interested you are in certain topics,
+
+58
+00:02:09,000 --> 00:02:11,000
+what certain content's about, match you
+
+59
+00:02:11,000 --> 00:02:12,000
+with your interests, etc.
+
+60
+00:02:12,000 --> 00:02:14,000
+But, at this point, I think everyone
+
+61
+00:02:14,000 --> 00:02:17,000
+just what they mean when they say the
+
+62
+00:02:17,000 --> 00:02:19,000
+algorithm is is the sum of all of those
+
+63
+00:02:19,000 --> 00:02:22,000
+things, and I've stopped trying to um
+
+64
+00:02:22,000 --> 00:02:24,000
+fight that framing. I just don't want
+
+65
+00:02:24,000 --> 00:02:26,000
+people to feel like the algorithm is
+
+66
+00:02:26,000 --> 00:02:28,000
+some entity that has its own agency that
+
+67
+00:02:28,000 --> 00:02:29,000
+I we hide behind. Like, we are
+
+68
+00:02:29,000 --> 00:02:31,000
+responsible for the decisions we make
+
+69
+00:02:31,000 --> 00:02:33,000
+and what we build, and that affects what
+
+70
+00:02:33,000 --> 00:02:34,000
+people see. So, I want to make sure we
+
+71
+00:02:34,000 --> 00:02:36,000
+own that. Um, but to answer your
+
+72
+00:02:36,000 --> 00:02:40,000
+question, for ranking and relevance and
+
+73
+00:02:40,000 --> 00:02:44,000
+algorithms, it is code on servers in
+
+74
+00:02:44,000 --> 00:02:45,000
+data centers all over the world. Um,
+
+75
+00:02:45,000 --> 00:02:48,000
+lots of copies of the same code. And is
+
+76
+00:02:48,000 --> 00:02:51,000
+it changing all the time? Every day. Um,
+
+77
+00:02:51,000 --> 00:02:54,000
+people often think that something major
+
+78
+00:02:54,000 --> 00:02:57,000
+has changed in the algorithm, and they
+
+79
+00:02:57,000 --> 00:02:59,000
+uh use that to explain why their reach
+
+80
+00:02:59,000 --> 00:03:01,000
+might have gone way up or way down. But,
+
+81
+00:03:01,000 --> 00:03:03,000
+the truth is, we almost never make major
+
+82
+00:03:03,000 --> 00:03:06,000
+changes to it. We constantly make small
+
+83
+00:03:06,000 --> 00:03:08,000
+changes to try to improve it over time.
+
+84
+00:03:08,000 --> 00:03:10,000
+Oh, that is You are I feel so seen.
+
+85
+00:03:10,000 --> 00:03:12,000
+That's me on the group chat with a bunch
+
+86
+00:03:12,000 --> 00:03:14,000
+of other influencers. Like, when I'm
+
+87
+00:03:14,000 --> 00:03:15,000
+having [laughter] a real [&nbsp;__&nbsp;] week, I
+
+88
+00:03:15,000 --> 00:03:17,000
+go, "They changed it, bro."
+
+89
+00:03:17,000 --> 00:03:19,000
+&gt;&gt; Yeah. Just throw me under the bus.
+
+90
+00:03:19,000 --> 00:03:21,000
+I'm shadow banned.
+
+91
+00:03:21,000 --> 00:03:22,000
+&gt;&gt; Yeah, yeah. What are you talking about?
+
+92
+00:03:22,000 --> 00:03:23,000
+Shadow [laughter] banning, yeah. They're
+
+93
+00:03:23,000 --> 00:03:26,000
+not highlighting funny right now, bro.
+
+94
+00:03:26,000 --> 00:03:28,000
+&gt;&gt; Yeah. Funny does
+
+95
+00:03:28,000 --> 00:03:29,000
+Funny [laughter] does well. Funny is one
+
+96
+00:03:29,000 --> 00:03:31,000
+of the best verticals. I
+
+97
+00:03:31,000 --> 00:03:33,000
+All the data I've seen suggests funny is
+
+98
+00:03:33,000 --> 00:03:35,000
+funny is still good, but it is tough.
+
+99
+00:03:35,000 --> 00:03:37,000
+&gt;&gt; have you been at Instagram, Adam?
+
+100
+00:03:37,000 --> 00:03:40,000
+I joined Instagram in the spring of '18.
+
+101
+00:03:40,000 --> 00:03:42,000
+I was hired to run what's called their
+
+102
+00:03:42,000 --> 00:03:45,000
+product management team by Kevin and
+
+103
+00:03:45,000 --> 00:03:46,000
+Mikey, the founders.
+
+104
+00:03:46,000 --> 00:03:48,000
+Um, they had already been at the
+
+105
+00:03:48,000 --> 00:03:51,000
+company, um, what was then called
+
+106
+00:03:51,000 --> 00:03:53,000
+Facebook, now called Meta, for about 6
+
+107
+00:03:53,000 --> 00:03:54,000
+and 1/2 years at the time, maybe 6
+
+108
+00:03:54,000 --> 00:03:56,000
+years. But, I was at Facebook for 10
+
+109
+00:03:56,000 --> 00:03:59,000
+years before that. So, 2008, right? Is
+
+110
+00:03:59,000 --> 00:04:01,000
+that when you started? I 08, I started.
+
+111
+00:04:01,000 --> 00:04:03,000
+I was a designer. Uh, we were just a
+
+112
+00:04:03,000 --> 00:04:06,000
+website. The The iPhone, I think, had
+
+113
+00:04:06,000 --> 00:04:07,000
+just come out, but we didn't have an
+
+114
+00:04:07,000 --> 00:04:08,000
+iPhone app.
+
+115
+00:04:08,000 --> 00:04:11,000
+And, you know, it was fun. It wasn't It
+
+116
+00:04:11,000 --> 00:04:13,000
+wasn't a bunch of kids in a college
+
+117
+00:04:13,000 --> 00:04:14,000
+dorm. It was You know, we had a couple
+
+118
+00:04:14,000 --> 00:04:16,000
+hundred people and an HR department.
+
+119
+00:04:16,000 --> 00:04:18,000
+There were some adults around, but we
+
+120
+00:04:18,000 --> 00:04:20,000
+were pretty young and trying to figure
+
+121
+00:04:20,000 --> 00:04:22,000
+it out on the fly. Ooh, ooh, ooh, ooh.
+
+122
+00:04:22,000 --> 00:04:24,000
+Are you represented in Social Network?
+
+123
+00:04:24,000 --> 00:04:26,000
+Is that Is that the question here?
+
+124
+00:04:26,000 --> 00:04:28,000
+&gt;&gt; think I don't think so, no. But, you
+
+125
+00:04:28,000 --> 00:04:29,000
+tell you tell people. You go, "See that
+
+126
+00:04:29,000 --> 00:04:31,000
+extra back there on the laptop?" That's
+
+127
+00:04:31,000 --> 00:04:33,000
+me. That's [laughter] me. The kid with
+
+128
+00:04:33,000 --> 00:04:36,000
+the Jewfro in the back.
+
+129
+00:04:36,000 --> 00:04:36,000
+That's cool.
+
+130
+00:04:36,000 --> 00:04:38,000
+&gt;&gt; I wanted to see it. I remember wanted to
+
+131
+00:04:38,000 --> 00:04:38,000
+see it. We all went to see it.
+
+132
+00:04:38,000 --> 00:04:41,000
+&gt;&gt; We got Facebook stock, right? Did we get
+
+133
+00:04:41,000 --> 00:04:42,000
+Facebook stock?
+
+134
+00:04:42,000 --> 00:04:43,000
+&gt;&gt; it. Yeah, yeah, yeah. The way
+
+135
+00:04:43,000 --> 00:04:45,000
+compensation is up in all tech companies
+
+136
+00:04:45,000 --> 00:04:46,000
+is
+
+137
+00:04:46,000 --> 00:04:50,000
+stock and salary. Um, and that's all We
+
+138
+00:04:50,000 --> 00:04:51,000
+We do that because we think it's good
+
+139
+00:04:51,000 --> 00:04:54,000
+for the employees to have an incentive
+
+140
+00:04:54,000 --> 00:04:55,000
+for the business to do well, not just
+
+141
+00:04:55,000 --> 00:04:57,000
+for them to do well as individuals.
+
+142
+00:04:57,000 --> 00:04:58,000
+&gt;&gt; We tried to offer Olivia stock in Good
+
+143
+00:04:58,000 --> 00:05:00,000
+Guys. She said, "No."
+
+144
+00:05:00,000 --> 00:05:06,000
+&gt;&gt; [laughter]
+
+145
+00:05:06,000 --> 00:05:07,000
+&gt;&gt; Pay me that cash.
+
+146
+00:05:07,000 --> 00:05:10,000
+&gt;&gt; I would like to see the runway.
+
+147
+00:05:10,000 --> 00:05:12,000
+Olivia, we'll offer you 25% of the
+
+148
+00:05:12,000 --> 00:05:14,000
+company or two grand in cash.
+
+149
+00:05:14,000 --> 00:05:14,000
+&gt;&gt; [laughter]
+
+150
+00:05:14,000 --> 00:05:16,000
+&gt;&gt; Two grand. She's like,
+
+151
+00:05:16,000 --> 00:05:18,000
+"I'll take a gift certificate to
+
+152
+00:05:18,000 --> 00:05:19,000
+McDonald's." [laughter]
+
+153
+00:05:19,000 --> 00:05:21,000
+Juice bar Juice
+
+154
+00:05:21,000 --> 00:05:22,000
+Equinox or something.
+
+155
+00:05:22,000 --> 00:05:24,000
+&gt;&gt; But, you were saying, so you as a
+
+156
+00:05:24,000 --> 00:05:26,000
+company went to go watch Social Network?
+
+157
+00:05:26,000 --> 00:05:28,000
+&gt;&gt; We did. We all went together. Wow, what
+
+158
+00:05:28,000 --> 00:05:30,000
+was that like? With With Mark? Yeah,
+
+159
+00:05:30,000 --> 00:05:33,000
+yeah, yeah. Uh, it was surreal. Um, it
+
+160
+00:05:33,000 --> 00:05:35,000
+was interesting cuz it's you can't help
+
+161
+00:05:35,000 --> 00:05:37,000
+but get distracted by what's accurate
+
+162
+00:05:37,000 --> 00:05:39,000
+and what's inaccurate. It's almost, you
+
+163
+00:05:39,000 --> 00:05:40,000
+know, if you've read a book and then
+
+164
+00:05:40,000 --> 00:05:41,000
+watch the movie, and then you kind of
+
+165
+00:05:41,000 --> 00:05:43,000
+get distracted by where it deviates and
+
+166
+00:05:43,000 --> 00:05:45,000
+where it lines up. It was almost like
+
+167
+00:05:45,000 --> 00:05:48,000
+that. Right. But, like, at that time,
+
+168
+00:05:48,000 --> 00:05:50,000
+you came on after like Eduardo had left
+
+169
+00:05:50,000 --> 00:05:52,000
+the company and Sean Parker was gone,
+
+170
+00:05:52,000 --> 00:05:55,000
+the whole thing. Yeah, Sean was not at
+
+171
+00:05:55,000 --> 00:05:58,000
+the company. I But, you know, we There
+
+172
+00:05:58,000 --> 00:05:59,000
+were some interactions back then, I
+
+173
+00:05:59,000 --> 00:06:01,000
+think, with him. But, no, it was just
+
+174
+00:06:01,000 --> 00:06:04,000
+after that phase. Wow. Yeah. What a
+
+175
+00:06:04,000 --> 00:06:07,000
+time. How exciting. Yeah, I mean, it was
+
+176
+00:06:07,000 --> 00:06:10,000
+It was very exciting and humbling at the
+
+177
+00:06:10,000 --> 00:06:12,000
+same time. When did you get on
+
+178
+00:06:12,000 --> 00:06:15,000
+Instagram, Ben? Probably like 2013.
+
+179
+00:06:15,000 --> 00:06:17,000
+Uh, I I was going to I was going to ask
+
+180
+00:06:17,000 --> 00:06:19,000
+this. So, I posted memes forever. That
+
+181
+00:06:19,000 --> 00:06:21,000
+was like my original Boy With No Job and
+
+182
+00:06:21,000 --> 00:06:23,000
+Girl With No Job were memes, and then we
+
+183
+00:06:23,000 --> 00:06:24,000
+pivoted over time as the platform
+
+184
+00:06:24,000 --> 00:06:26,000
+evolved, and memes sort of went away,
+
+185
+00:06:26,000 --> 00:06:27,000
+and video
+
+186
+00:06:27,000 --> 00:06:30,000
+uh started to take hold. But, it's
+
+187
+00:06:30,000 --> 00:06:31,000
+funny, even to this day, if I were to
+
+188
+00:06:31,000 --> 00:06:34,000
+post a meme, it would reach
+
+189
+00:06:34,000 --> 00:06:36,000
+four times the amount of people than a
+
+190
+00:06:36,000 --> 00:06:41,000
+video. Is there a way to let I know the
+
+191
+00:06:41,000 --> 00:06:42,000
+algorithm, you can't like talk to it. Is
+
+192
+00:06:42,000 --> 00:06:46,000
+there a way to train the algorithm to
+
+193
+00:06:46,000 --> 00:06:48,000
+let them know that you no longer post
+
+194
+00:06:48,000 --> 00:06:50,000
+that type of content, even a decade
+
+195
+00:06:50,000 --> 00:06:54,000
+later? No, but it's not always the case
+
+196
+00:06:54,000 --> 00:06:56,000
+that memes do better than videos. It
+
+197
+00:06:56,000 --> 00:06:57,000
+depends on the
+
+198
+00:06:57,000 --> 00:06:59,000
+on the person and the content. I
+
+199
+00:06:59,000 --> 00:07:01,000
+actually do think we should try to get
+
+200
+00:07:01,000 --> 00:07:02,000
+to a place where you can actually talk
+
+201
+00:07:02,000 --> 00:07:04,000
+to the algorithm, and I can talk about
+
+202
+00:07:04,000 --> 00:07:07,000
+that more if you'd like. Yeah. But, um,
+
+203
+00:07:07,000 --> 00:07:09,000
+but most of the ranking system work is
+
+204
+00:07:09,000 --> 00:07:11,000
+not actually thinking much about you and
+
+205
+00:07:11,000 --> 00:07:13,000
+your history. It's mostly oriented
+
+206
+00:07:13,000 --> 00:07:15,000
+around consumers. It's like, "Okay,
+
+207
+00:07:15,000 --> 00:07:16,000
+here's a piece of content. Who might be
+
+208
+00:07:16,000 --> 00:07:19,000
+interested in it? Let's go and find out
+
+209
+00:07:19,000 --> 00:07:20,000
+as many people as possible who we think
+
+210
+00:07:20,000 --> 00:07:22,000
+could be interested in it, whether or
+
+211
+00:07:22,000 --> 00:07:24,000
+not they follow you or not."
+
+212
+00:07:24,000 --> 00:07:26,000
+There are things that are producer-side
+
+213
+00:07:26,000 --> 00:07:28,000
+oriented, but for the most part,
+
+214
+00:07:28,000 --> 00:07:29,000
+it's
+
+215
+00:07:29,000 --> 00:07:32,000
+nothing happens when you post right
+
+216
+00:07:32,000 --> 00:07:33,000
+away. What happens is then all the
+
+217
+00:07:33,000 --> 00:07:35,000
+people who then log in and follow you,
+
+218
+00:07:35,000 --> 00:07:37,000
+open up Instagram later, and then we go
+
+219
+00:07:37,000 --> 00:07:38,000
+and look at that post and everything
+
+220
+00:07:38,000 --> 00:07:40,000
+else that was posted, and then try to
+
+221
+00:07:40,000 --> 00:07:42,000
+figure what they might be interested in.
+
+222
+00:07:42,000 --> 00:07:43,000
+It's not like a piece of mail that gets
+
+223
+00:07:43,000 --> 00:07:46,000
+sent. It's almost like a DVD added to a
+
+224
+00:07:46,000 --> 00:07:48,000
+DVD collection, and then the next person
+
+225
+00:07:48,000 --> 00:07:50,000
+who comes into the store, it's an option
+
+226
+00:07:50,000 --> 00:07:52,000
+for Is there like a a checkpoint type
+
+227
+00:07:52,000 --> 00:07:54,000
+thing in the sense of So, I post
+
+228
+00:07:54,000 --> 00:07:57,000
+something, right? Do certain things Do
+
+229
+00:07:57,000 --> 00:07:58,000
+you need to hit certain milestones
+
+230
+00:07:58,000 --> 00:08:01,000
+quickly for then it for it to be widely
+
+231
+00:08:01,000 --> 00:08:04,000
+broadcast? That's a great question. So,
+
+232
+00:08:04,000 --> 00:08:07,000
+there are two sides to how ranking works
+
+233
+00:08:07,000 --> 00:08:09,000
+for organic content. So, not ads. We're
+
+234
+00:08:09,000 --> 00:08:11,000
+just talking about when you post on
+
+235
+00:08:11,000 --> 00:08:13,000
+Instagram as a creator or as just an
+
+236
+00:08:13,000 --> 00:08:15,000
+average folk.
+
+237
+00:08:15,000 --> 00:08:17,000
+There's one side, which is for the
+
+238
+00:08:17,000 --> 00:08:19,000
+accounts that follow you. So, everyone
+
+239
+00:08:19,000 --> 00:08:22,000
+who's followed you, and they we're
+
+240
+00:08:22,000 --> 00:08:23,000
+trying to find as many of them as
+
+241
+00:08:23,000 --> 00:08:24,000
+possible who are interested in your post
+
+242
+00:08:24,000 --> 00:08:26,000
+and to show them that content. So, when
+
+243
+00:08:26,000 --> 00:08:27,000
+they open up Instagram, we look at that
+
+244
+00:08:27,000 --> 00:08:28,000
+post and all the other posts they could
+
+245
+00:08:28,000 --> 00:08:30,000
+see, and we rank them based on
+
+246
+00:08:30,000 --> 00:08:31,000
+relevance.
+
+247
+00:08:31,000 --> 00:08:32,000
+Half of the people who follow you might
+
+248
+00:08:32,000 --> 00:08:34,000
+not even use Instagram anymore or not be
+
+249
+00:08:34,000 --> 00:08:35,000
+on Instagram on that day. Maybe another
+
+250
+00:08:35,000 --> 00:08:37,000
+half of those don't scroll far enough,
+
+251
+00:08:37,000 --> 00:08:38,000
+so you're never going to reach most of
+
+252
+00:08:38,000 --> 00:08:40,000
+your followers, even though we all would
+
+253
+00:08:40,000 --> 00:08:42,000
+love to reach all of them. Um, but
+
+254
+00:08:42,000 --> 00:08:44,000
+that's that there's that system
+
+255
+00:08:44,000 --> 00:08:48,000
+where there's no sort of gate or minimum
+
+256
+00:08:48,000 --> 00:08:51,000
+thing or threshold that you sort of have
+
+257
+00:08:51,000 --> 00:08:52,000
+to cross necessarily.
+
+258
+00:08:52,000 --> 00:08:54,000
+Then, there's the unconnected side. So,
+
+259
+00:08:54,000 --> 00:08:56,000
+we try to go out and find people who
+
+260
+00:08:56,000 --> 00:08:57,000
+don't follow you who might love and be
+
+261
+00:08:57,000 --> 00:08:59,000
+interested in your content.
+
+262
+00:08:59,000 --> 00:09:03,000
+And the way that works is kind of like
+
+263
+00:09:03,000 --> 00:09:05,000
+an audition system. So, we try to make
+
+264
+00:09:05,000 --> 00:09:07,000
+sure every piece of content gets that's
+
+265
+00:09:07,000 --> 00:09:08,000
+public, that's trying to reach a lot of
+
+266
+00:09:08,000 --> 00:09:11,000
+people, gets a minimum number of views.
+
+267
+00:09:11,000 --> 00:09:13,000
+And And then, if it So, we have we set
+
+268
+00:09:13,000 --> 00:09:16,000
+aside a little bit of
+
+269
+00:09:16,000 --> 00:09:19,000
+what we call impressions or views to try
+
+270
+00:09:19,000 --> 00:09:20,000
+things out like that. And then, if it
+
+271
+00:09:20,000 --> 00:09:23,000
+does really well, then we get it we
+
+272
+00:09:23,000 --> 00:09:26,000
+broadcast that piece of content to more
+
+273
+00:09:26,000 --> 00:09:28,000
+unconnected accounts. If it does well
+
+274
+00:09:28,000 --> 00:09:30,000
+again, it gets it graduates again. So,
+
+275
+00:09:30,000 --> 00:09:32,000
+it's almost like a competition
+
+276
+00:09:32,000 --> 00:09:34,000
+where it can keep can keep if it does
+
+277
+00:09:34,000 --> 00:09:36,000
+better than everything else, continue to
+
+278
+00:09:36,000 --> 00:09:38,000
+get promoted and promoted and promoted,
+
+279
+00:09:38,000 --> 00:09:40,000
+which is how you can see content from
+
+280
+00:09:40,000 --> 00:09:42,000
+very small accounts go very viral
+
+281
+00:09:42,000 --> 00:09:44,000
+sometimes. Right.
+
+282
+00:09:44,000 --> 00:09:46,000
+Yeah, it's interesting, right, Ben? Cuz
+
+283
+00:09:46,000 --> 00:09:49,000
+like, I I'll find In general, I have
+
+284
+00:09:49,000 --> 00:09:50,000
+like the metrics for my channel, like
+
+285
+00:09:50,000 --> 00:09:52,000
+milestones where I'll see if something
+
+286
+00:09:52,000 --> 00:09:55,000
+did about 60,000 views in the first 10
+
+287
+00:09:55,000 --> 00:09:57,000
+minutes, I go, "This one's going to go."
+
+288
+00:09:57,000 --> 00:09:59,000
+Yeah, yeah, yeah. And that's not I go,
+
+289
+00:09:59,000 --> 00:10:01,000
+"You know what, babe? DoorDash."
+
+290
+00:10:01,000 --> 00:10:03,000
+&gt;&gt; Yeah. You know, like you know you
+
+291
+00:10:03,000 --> 00:10:04,000
+&gt;&gt; [laughter]
+
+292
+00:10:04,000 --> 00:10:06,000
+&gt;&gt; Let's treat ourselves to caviar tonight.
+
+293
+00:10:06,000 --> 00:10:08,000
+Yeah, it's going to be We can pay and we
+
+294
+00:10:08,000 --> 00:10:10,000
+won't do pick up, we'll do delivery. You
+
+295
+00:10:10,000 --> 00:10:12,000
+know, we'll do the charges. But then if
+
+296
+00:10:12,000 --> 00:10:14,000
+I see it like teetering at 15, you know,
+
+297
+00:10:14,000 --> 00:10:17,000
+20,000, I go, "This one I just know it's
+
+298
+00:10:17,000 --> 00:10:21,000
+not going to make it." Yeah, so that's
+
+299
+00:10:21,000 --> 00:10:24,000
+that's often true that early on you can
+
+300
+00:10:24,000 --> 00:10:25,000
+get a sense for how something's going to
+
+301
+00:10:25,000 --> 00:10:27,000
+do. But what matters is not really the
+
+302
+00:10:27,000 --> 00:10:30,000
+number of views. It's the interaction
+
+303
+00:10:30,000 --> 00:10:33,000
+rates. So, of all the people who saw it,
+
+304
+00:10:33,000 --> 00:10:35,000
+how many people liked it? Right.
+
+305
+00:10:35,000 --> 00:10:36,000
+&gt;&gt; Of all the people who saw it, how many
+
+306
+00:10:36,000 --> 00:10:39,000
+people sent it to a friend? And what
+
+307
+00:10:39,000 --> 00:10:40,000
+you're getting a sense for in those
+
+308
+00:10:40,000 --> 00:10:43,000
+first, you know, in that first hour is
+
+309
+00:10:43,000 --> 00:10:45,000
+what that rate is cuz you you're like,
+
+310
+00:10:45,000 --> 00:10:47,000
+"All right, 60,000 views, it's doing
+
+311
+00:10:47,000 --> 00:10:49,000
+better than the average thing I did."
+
+312
+00:10:49,000 --> 00:10:51,000
+For the But what's really happening
+
+313
+00:10:51,000 --> 00:10:53,000
+behind the scenes is maybe your average
+
+314
+00:10:53,000 --> 00:10:57,000
+post has like a 5% like rate had a 6%
+
+315
+00:10:57,000 --> 00:10:59,000
+like rate or 1% comment rate, so one out
+
+316
+00:10:59,000 --> 00:11:01,000
+of 100 people commented on it, this one
+
+317
+00:11:01,000 --> 00:11:02,000
+had 1.1.
+
+318
+00:11:02,000 --> 00:11:04,000
+That's actually a big delta. It doesn't
+
+319
+00:11:04,000 --> 00:11:06,000
+sound like it, but it is. Yeah. Uh and
+
+320
+00:11:06,000 --> 00:11:07,000
+you're seeing that start to get picked
+
+321
+00:11:07,000 --> 00:11:09,000
+up in the ranking system.
+
+322
+00:11:09,000 --> 00:11:10,000
+Well, it's best.
+
+323
+00:11:10,000 --> 00:11:12,000
+&gt;&gt; overreact to the first hour though.
+
+324
+00:11:12,000 --> 00:11:13,000
+Here's one more thing.
+
+325
+00:11:13,000 --> 00:11:15,000
+The comments we're trying to make sure
+
+326
+00:11:15,000 --> 00:11:17,000
+they're as
+
+327
+00:11:17,000 --> 00:11:18,000
+civil as possible. People on the
+
+328
+00:11:18,000 --> 00:11:20,000
+internet are not always as civil as we
+
+329
+00:11:20,000 --> 00:11:21,000
+would like.
+
+330
+00:11:21,000 --> 00:11:24,000
+I strongly ask anybody who struggles
+
+331
+00:11:24,000 --> 00:11:27,000
+with mean comments sometimes to just
+
+332
+00:11:27,000 --> 00:11:28,000
+give it a minute before you get in there
+
+333
+00:11:28,000 --> 00:11:29,000
+cuz
+
+334
+00:11:29,000 --> 00:11:31,000
+the people who post comments the
+
+335
+00:11:31,000 --> 00:11:32,000
+quickest
+
+336
+00:11:32,000 --> 00:11:34,000
+are the craziest. And if you just wait
+
+337
+00:11:34,000 --> 00:11:37,000
+an hour or two, normal people tend to
+
+338
+00:11:37,000 --> 00:11:40,000
+sort of drown out the wild. And so, just
+
+339
+00:11:40,000 --> 00:11:41,000
+give it a minute. Don't don't get on
+
+340
+00:11:41,000 --> 00:11:42,000
+there in the comments in those first
+
+341
+00:11:42,000 --> 00:11:44,000
+hour. I feel like that's the that's not
+
+342
+00:11:44,000 --> 00:11:46,000
+the best. And will some of those will
+
+343
+00:11:46,000 --> 00:11:48,000
+the filter catch some of those within
+
+344
+00:11:48,000 --> 00:11:50,000
+the first hour? Yeah, but there's things
+
+345
+00:11:50,000 --> 00:11:52,000
+that are not allowed, which will get
+
+346
+00:11:52,000 --> 00:11:53,000
+caught, but then there's things that are
+
+347
+00:11:53,000 --> 00:11:55,000
+allowed, but they're just mean. Oh,
+
+348
+00:11:55,000 --> 00:11:58,000
+yeah. We're aware. Yeah, and then normal
+
+349
+00:11:58,000 --> 00:12:00,000
+and nice comments will just push those
+
+350
+00:12:00,000 --> 00:12:02,000
+mean comments way down over time. But
+
+351
+00:12:02,000 --> 00:12:04,000
+there's a correlation between how
+
+352
+00:12:04,000 --> 00:12:07,000
+quickly you comment and
+
+353
+00:12:07,000 --> 00:12:08,000
+how
+
+354
+00:12:08,000 --> 00:12:10,000
+tough you can be as a commenter, turns
+
+355
+00:12:10,000 --> 00:12:12,000
+out. I have a gift for finding the mean.
+
+356
+00:12:12,000 --> 00:12:13,000
+Yeah.
+
+357
+00:12:13,000 --> 00:12:13,000
+&gt;&gt; Oh, yeah.
+
+358
+00:12:13,000 --> 00:12:15,000
+&gt;&gt; Don't look for it. Don't get I Well, you
+
+359
+00:12:15,000 --> 00:12:17,000
+should check out my comments.
+
+360
+00:12:17,000 --> 00:12:18,000
+Oh, yeah.
+
+361
+00:12:18,000 --> 00:12:19,000
+Interesting. Yeah, what are your
+
+362
+00:12:19,000 --> 00:12:22,000
+comments like?
+
+363
+00:12:22,000 --> 00:12:23,000
+So,
+
+364
+00:12:23,000 --> 00:12:24,000
+uh there's a couple.
+
+365
+00:12:24,000 --> 00:12:25,000
+&gt;&gt; [laughter]
+
+366
+00:12:25,000 --> 00:12:28,000
+&gt;&gt; There's a lot of mad about reach. Okay.
+
+367
+00:12:28,000 --> 00:12:31,000
+Give me back Chrono feed.
+
+368
+00:12:31,000 --> 00:12:32,000
+Um
+
+369
+00:12:32,000 --> 00:12:34,000
+it's my birthday. All I want for my
+
+370
+00:12:34,000 --> 00:12:36,000
+birthday is a blue checkmark. Mhm.
+
+371
+00:12:36,000 --> 00:12:37,000
+&gt;&gt; Um
+
+372
+00:12:37,000 --> 00:12:38,000
+people being upset about having some
+
+373
+00:12:38,000 --> 00:12:41,000
+piece of content uh taken down or feel
+
+374
+00:12:41,000 --> 00:12:42,000
+like they're shadowbanned or someone
+
+375
+00:12:42,000 --> 00:12:44,000
+they care about has.
+
+376
+00:12:44,000 --> 00:12:46,000
+But look, that's part of the job. Um
+
+377
+00:12:46,000 --> 00:12:47,000
+you're
+
+378
+00:12:47,000 --> 00:12:49,000
+going to if you're responsible for a
+
+379
+00:12:49,000 --> 00:12:51,000
+platform that so many people use and
+
+380
+00:12:51,000 --> 00:12:53,000
+rely on when things don't go their way,
+
+381
+00:12:53,000 --> 00:12:54,000
+even if it's a small percentage of
+
+382
+00:12:54,000 --> 00:12:56,000
+people, it's a lot of
+
+383
+00:12:56,000 --> 00:12:57,000
+it's a lot of people.
+
+384
+00:12:57,000 --> 00:13:00,000
+&gt;&gt; Billion, two billion? Three. Three.
+
+385
+00:13:00,000 --> 00:13:01,000
+There's only seven billion people in the
+
+386
+00:13:01,000 --> 00:13:04,000
+world. Three billion people a month
+
+387
+00:13:04,000 --> 00:13:05,000
+using Instagram.
+
+388
+00:13:05,000 --> 00:13:06,000
+&gt;&gt; It's it's unbelievable.
+
+389
+00:13:06,000 --> 00:13:07,000
+&gt;&gt; We just crossed that. Yeah. It's
+
+390
+00:13:07,000 --> 00:13:08,000
+unbelievable. Yeah, I don't know how to
+
+391
+00:13:08,000 --> 00:13:09,000
+run that up.
+
+392
+00:13:09,000 --> 00:13:13,000
+&gt;&gt; how big Instagram is. It's so crazy.
+
+393
+00:13:13,000 --> 00:13:15,000
+This episode of the Good Guys podcast is
+
+394
+00:13:15,000 --> 00:13:16,000
+brought to you by our friends at
+
+395
+00:13:16,000 --> 00:13:18,000
+Element. Folks, Element helps anyone
+
+396
+00:13:18,000 --> 00:13:20,000
+stay hydrated without the sugar and
+
+397
+00:13:20,000 --> 00:13:22,000
+other dodgy ingredients found in popular
+
+398
+00:13:22,000 --> 00:13:24,000
+electrolyte and sports drinks.
+
+399
+00:13:24,000 --> 00:13:25,000
+Electrolyte deficiency or imbalance can
+
+400
+00:13:25,000 --> 00:13:27,000
+cause headaches, cramps, fatigue, brain
+
+401
+00:13:27,000 --> 00:13:31,000
+fog, and weakness. Don't I know. I love
+
+402
+00:13:31,000 --> 00:13:33,000
+drinking water. I drink honestly like
+
+403
+00:13:33,000 --> 00:13:35,000
+200 million gallons a day. I drink too
+
+404
+00:13:35,000 --> 00:13:36,000
+much water. By the way, if you drink too
+
+405
+00:13:36,000 --> 00:13:39,000
+much water, you could die. So, be very,
+
+406
+00:13:39,000 --> 00:13:40,000
+very careful. That has nothing to do
+
+407
+00:13:40,000 --> 00:13:42,000
+with Element. That's just me giving you
+
+408
+00:13:42,000 --> 00:13:43,000
+a tip. Don't drink too much water. That
+
+409
+00:13:43,000 --> 00:13:45,000
+said, I'm also not fearmongering around
+
+410
+00:13:45,000 --> 00:13:47,000
+water. I'm just saying drink the proper
+
+411
+00:13:47,000 --> 00:13:49,000
+amount of water. How about we drink What
+
+412
+00:13:49,000 --> 00:13:50,000
+was that recommendation? Eight cups a
+
+413
+00:13:50,000 --> 00:13:52,000
+day? I think it was eight cups a day. If
+
+414
+00:13:52,000 --> 00:13:54,000
+you drink eight cups of water a day and
+
+415
+00:13:54,000 --> 00:13:56,000
+you have no electrolytes, you are not
+
+416
+00:13:56,000 --> 00:13:59,000
+going to not have that headache, cramp,
+
+417
+00:13:59,000 --> 00:14:01,000
+fatigue, brain fog, weakness. You know
+
+418
+00:14:01,000 --> 00:14:03,000
+why? Because you're missing the salt.
+
+419
+00:14:03,000 --> 00:14:04,000
+You're missing the magnesium. You're
+
+420
+00:14:04,000 --> 00:14:06,000
+missing all of the good stuff that comes
+
+421
+00:14:06,000 --> 00:14:09,000
+in a proper electrolyte sports drink mix
+
+422
+00:14:09,000 --> 00:14:12,000
+such as Element. And Element is a zero
+
+423
+00:14:12,000 --> 00:14:13,000
+sugar electrolyte drink mix and
+
+424
+00:14:13,000 --> 00:14:15,000
+sparkling electrolyte water born from
+
+425
+00:14:15,000 --> 00:14:16,000
+the growing body of research revealing
+
+426
+00:14:16,000 --> 00:14:18,000
+that optimal health outcomes occur at
+
+427
+00:14:18,000 --> 00:14:20,000
+sodium levels two to three times the
+
+428
+00:14:20,000 --> 00:14:22,000
+government recommendations. What are
+
+429
+00:14:22,000 --> 00:14:23,000
+you, nuts, government? Stop telling me
+
+430
+00:14:23,000 --> 00:14:25,000
+to drink eight glasses of water a day
+
+431
+00:14:25,000 --> 00:14:27,000
+without any electrolytes. And please
+
+432
+00:14:27,000 --> 00:14:30,000
+stop telling me the wrong sodium levels
+
+433
+00:14:30,000 --> 00:14:31,000
+to be taking. What are you, nuts? Each
+
+434
+00:14:31,000 --> 00:14:33,000
+stick pack delivers a meaningful dose of
+
+435
+00:14:33,000 --> 00:14:35,000
+electrolytes, free of sugar, thank God,
+
+436
+00:14:35,000 --> 00:14:37,000
+artificial colors, or other dodgy
+
+437
+00:14:37,000 --> 00:14:39,000
+ingredients. Element is formulated for
+
+438
+00:14:39,000 --> 00:14:41,000
+anyone on a mission to restore health
+
+439
+00:14:41,000 --> 00:14:43,000
+through hydration and is perfectly
+
+440
+00:14:43,000 --> 00:14:44,000
+suited for athletes, folks who are
+
+441
+00:14:44,000 --> 00:14:46,000
+fasting, or those following keto,
+
+442
+00:14:46,000 --> 00:14:48,000
+season, low carb, whole food, or paleo
+
+443
+00:14:48,000 --> 00:14:50,000
+diets. Folks, you've got to try Element.
+
+444
+00:14:50,000 --> 00:14:51,000
+If you haven't tried it yet, honestly,
+
+445
+00:14:51,000 --> 00:14:53,000
+you are missing out on the greatest
+
+446
+00:14:53,000 --> 00:14:55,000
+hydration of your life. I'm telling you,
+
+447
+00:14:55,000 --> 00:14:57,000
+Element is it. And right now Element is
+
+448
+00:14:57,000 --> 00:14:59,000
+offering a free sample pack with any
+
+449
+00:14:59,000 --> 00:15:01,000
+purchase. That's eight single serving
+
+450
+00:15:01,000 --> 00:15:04,000
+packets free with any Element order.
+
+451
+00:15:04,000 --> 00:15:05,000
+It's a great way to try all eight
+
+452
+00:15:05,000 --> 00:15:08,000
+flavors or share Element with a friend.
+
+453
+00:15:08,000 --> 00:15:12,000
+Get yours at drinklmn.com/goodguys.
+
+454
+00:15:12,000 --> 00:15:14,000
+This deal is available through our link.
+
+455
+00:15:14,000 --> 00:15:18,000
+You must go to drinklmn.com/goodguys.
+
+456
+00:15:18,000 --> 00:15:20,000
+This deal is only available through our
+
+457
+00:15:20,000 --> 00:15:25,000
+link. drinklmn.com/goodguys.
+
+458
+00:15:25,000 --> 00:15:27,000
+This episode of the Good Guys podcast is
+
+459
+00:15:27,000 --> 00:15:28,000
+brought to you by our friends at Chewy.
+
+460
+00:15:28,000 --> 00:15:30,000
+Folks, when I think about the holidays,
+
+461
+00:15:30,000 --> 00:15:32,000
+all I think about are my moments with my
+
+462
+00:15:32,000 --> 00:15:35,000
+beautiful pet. The ones that make the
+
+463
+00:15:35,000 --> 00:15:37,000
+season bright. That's why I'm joining
+
+464
+00:15:37,000 --> 00:15:39,000
+Chewy Claus who's out here making pets'
+
+465
+00:15:39,000 --> 00:15:42,000
+wishes come true. From November 4th to
+
+466
+00:15:42,000 --> 00:15:44,000
+December 24th, share your pet's wish at
+
+467
+00:15:44,000 --> 00:15:47,000
+chewy.com/chewyclaus.
+
+468
+00:15:47,000 --> 00:15:48,000
+It could become real and help others,
+
+469
+00:15:48,000 --> 00:15:51,000
+too. Each wish triggers a donation of
+
+470
+00:15:51,000 --> 00:15:53,000
+five meals to shelters and rescues
+
+471
+00:15:53,000 --> 00:15:55,000
+across the country. Submit through the
+
+472
+00:15:55,000 --> 00:15:57,000
+Chewy app and they'll double the
+
+473
+00:15:57,000 --> 00:15:59,000
+donation. A wish for a pet really is the
+
+474
+00:15:59,000 --> 00:16:01,000
+wish that keeps on giving. Friends, you
+
+475
+00:16:01,000 --> 00:16:03,000
+can send pets' wishes to
+
+476
+00:16:03,000 --> 00:16:06,000
+chewy.com/chewyclaus
+
+477
+00:16:06,000 --> 00:16:07,000
+and it might just come true. And your
+
+478
+00:16:07,000 --> 00:16:10,000
+wish spreads the joy because each wish
+
+479
+00:16:10,000 --> 00:16:12,000
+means five meals get donated to pets in
+
+480
+00:16:12,000 --> 00:16:14,000
+need. Send your pet's wish through the
+
+481
+00:16:14,000 --> 00:16:16,000
+Chewy app and they will double their
+
+482
+00:16:16,000 --> 00:16:18,000
+donation to shelters and rescues across
+
+483
+00:16:18,000 --> 00:16:20,000
+the country. Shelters and rescues can
+
+484
+00:16:20,000 --> 00:16:22,000
+join in on the joy by submitting their
+
+485
+00:16:22,000 --> 00:16:24,000
+own wish list to Chewy Claus. Their
+
+486
+00:16:24,000 --> 00:16:25,000
+community can find their wish list and
+
+487
+00:16:25,000 --> 00:16:28,000
+donate items directly to them. Chewy
+
+488
+00:16:28,000 --> 00:16:30,000
+Claus is spreading joy with your wish.
+
+489
+00:16:30,000 --> 00:16:32,000
+Folks, Chewy is already the best place
+
+490
+00:16:32,000 --> 00:16:33,000
+for you to get all of your pet
+
+491
+00:16:33,000 --> 00:16:36,000
+essentials. But now Chewy Claus, we're
+
+492
+00:16:36,000 --> 00:16:38,000
+doing good things for pets. We're
+
+493
+00:16:38,000 --> 00:16:40,000
+donating meals. They're cause-driven
+
+494
+00:16:40,000 --> 00:16:42,000
+organization. Chewy is fantastic. Each
+
+495
+00:16:42,000 --> 00:16:44,000
+pet deserves a wish come true, don't
+
+496
+00:16:44,000 --> 00:16:46,000
+they? Send your pet's wish to
+
+497
+00:16:46,000 --> 00:16:48,000
+chewy.com/chewyclaus
+
+498
+00:16:48,000 --> 00:16:50,000
+and it might become a reality. Plus,
+
+499
+00:16:50,000 --> 00:16:52,000
+your wish means Chewy will donate five
+
+500
+00:16:52,000 --> 00:16:54,000
+meals to pets in need. You want to
+
+501
+00:16:54,000 --> 00:16:56,000
+donate meals to pets in need, don't you?
+
+502
+00:16:56,000 --> 00:17:00,000
+chewy.com/chewyclaus.
+
+503
+00:17:00,000 --> 00:17:01,000
+&gt;&gt; [music]
+
+504
+00:17:01,000 --> 00:17:03,000
+&gt;&gt; The translate tool that's now I think it
+
+505
+00:17:03,000 --> 00:17:05,000
+was Is it new? I use it a lot.
+
+506
+00:17:05,000 --> 00:17:08,000
+&gt;&gt; I was excited about Like and I I like it
+
+507
+00:17:08,000 --> 00:17:11,000
+a lot and I I have noticed so all of my
+
+508
+00:17:11,000 --> 00:17:13,000
+like 3 years ago I pivoted hard into
+
+509
+00:17:13,000 --> 00:17:15,000
+cooking. All of my content now is recipe
+
+510
+00:17:15,000 --> 00:17:18,000
+reels. They're doing better than really
+
+511
+00:17:18,000 --> 00:17:19,000
+any content I've ever posted over the
+
+512
+00:17:19,000 --> 00:17:21,000
+last decade aside from memes. So, I
+
+513
+00:17:21,000 --> 00:17:23,000
+clearly found my niche. But I think that
+
+514
+00:17:23,000 --> 00:17:26,000
+the translate is is making the reach
+
+515
+00:17:26,000 --> 00:17:27,000
+even higher.
+
+516
+00:17:27,000 --> 00:17:28,000
+&gt;&gt; It is. Obviously, that would be it would
+
+517
+00:17:28,000 --> 00:17:31,000
+become relevant to people outside of the
+
+518
+00:17:31,000 --> 00:17:32,000
+US, so it makes sense. But would you
+
+519
+00:17:32,000 --> 00:17:34,000
+recommend always turning that on? Like
+
+520
+00:17:34,000 --> 00:17:36,000
+are you guys prioritizing that or just
+
+521
+00:17:36,000 --> 00:17:38,000
+naturally will feed into more circles
+
+522
+00:17:38,000 --> 00:17:40,000
+because people are understanding what
+
+523
+00:17:40,000 --> 00:17:42,000
+you're saying? Exactly. It's the latter.
+
+524
+00:17:42,000 --> 00:17:44,000
+So, it will help with reach more and
+
+525
+00:17:44,000 --> 00:17:46,000
+more over time cuz we're still getting
+
+526
+00:17:46,000 --> 00:17:47,000
+we're still new to this. So, for those
+
+527
+00:17:47,000 --> 00:17:49,000
+of you who don't know, when you post a
+
+528
+00:17:49,000 --> 00:17:50,000
+reel on Instagram, you can have it
+
+529
+00:17:50,000 --> 00:17:52,000
+translated automatically
+
+530
+00:17:52,000 --> 00:17:55,000
+into the the four languages that we
+
+531
+00:17:55,000 --> 00:17:56,000
+support are English, Spanish,
+
+532
+00:17:56,000 --> 00:17:58,000
+Portuguese, and Hindi. Which by the way
+
+533
+00:17:58,000 --> 00:18:01,000
+cover up cover the majority of users. Um
+
+534
+00:18:01,000 --> 00:18:05,000
+cuz India and Brazil are massive massive
+
+535
+00:18:05,000 --> 00:18:07,000
+countries for us. And then obviously
+
+536
+00:18:07,000 --> 00:18:08,000
+Spanish is spoken in a lot of countries
+
+537
+00:18:08,000 --> 00:18:09,000
+around
+
+538
+00:18:09,000 --> 00:18:12,000
+&gt;&gt; Told you, Josh. India. India, Josh.
+
+539
+00:18:12,000 --> 00:18:13,000
+&gt;&gt; our biggest country.
+
+540
+00:18:13,000 --> 00:18:16,000
+I know. I I You should look at my DMs.
+
+541
+00:18:16,000 --> 00:18:19,000
+Yeah. It's almost primarily Delhi. Yeah.
+
+542
+00:18:19,000 --> 00:18:20,000
+But the whole the whole idea is that
+
+543
+00:18:20,000 --> 00:18:22,000
+there's a world of content out there
+
+544
+00:18:22,000 --> 00:18:24,000
+that you might be interested in, but you
+
+545
+00:18:24,000 --> 00:18:26,000
+might not know how to speak the
+
+546
+00:18:26,000 --> 00:18:27,000
+language. Right. And so, if I can
+
+547
+00:18:27,000 --> 00:18:29,000
+explain how Instagram works and it can
+
+548
+00:18:29,000 --> 00:18:32,000
+just show up as me in my voice with
+
+549
+00:18:32,000 --> 00:18:34,000
+looking like my lips are saying words in
+
+550
+00:18:34,000 --> 00:18:37,000
+Hindi, all of a sudden I can reach an
+
+551
+00:18:37,000 --> 00:18:40,000
+audience in India who speaks Hindi and
+
+552
+00:18:40,000 --> 00:18:42,000
+doesn't speak English. Right. Which by
+
+553
+00:18:42,000 --> 00:18:44,000
+the way is only about half of India cuz
+
+554
+00:18:44,000 --> 00:18:47,000
+in there's maybe 26 official Indic
+
+555
+00:18:47,000 --> 00:18:48,000
+languages at this point. There's many,
+
+556
+00:18:48,000 --> 00:18:50,000
+many more that are actually spoken on
+
+557
+00:18:50,000 --> 00:18:51,000
+the ground. So,
+
+558
+00:18:51,000 --> 00:18:52,000
+um the whole idea here is to help
+
+559
+00:18:52,000 --> 00:18:55,000
+creatives reach
+
+560
+00:18:55,000 --> 00:18:58,000
+audiences and find fans across language
+
+561
+00:18:58,000 --> 00:19:00,000
+barriers.
+
+562
+00:19:00,000 --> 00:19:01,000
+Wow.
+
+563
+00:19:01,000 --> 00:19:03,000
+What what's uh what what's the Instagram
+
+564
+00:19:03,000 --> 00:19:04,000
+perks looking like? Is there any
+
+565
+00:19:04,000 --> 00:19:07,000
+Instagram PJ? What are we talking about?
+
+566
+00:19:07,000 --> 00:19:09,000
+Like you got to be places. The Yeah.
+
+567
+00:19:09,000 --> 00:19:11,000
+You're not flying [laughter] spirit.
+
+568
+00:19:11,000 --> 00:19:13,000
+Come on.
+
+569
+00:19:13,000 --> 00:19:16,000
+I'm a United guy. Uh United Yeah, when
+
+570
+00:19:16,000 --> 00:19:18,000
+the PJ's broken.
+
+571
+00:19:18,000 --> 00:19:19,000
+&gt;&gt; We don't have We don't have one. I'm a
+
+572
+00:19:19,000 --> 00:19:22,000
+Mark Mark I'm sure has a plane, but uh
+
+573
+00:19:22,000 --> 00:19:24,000
+the rest of us uh do not. Which is good,
+
+574
+00:19:24,000 --> 00:19:24,000
+I think.
+
+575
+00:19:24,000 --> 00:19:26,000
+Uh no, the perks are I mean like I said,
+
+576
+00:19:26,000 --> 00:19:27,000
+it's a wonderful place to work. They
+
+577
+00:19:27,000 --> 00:19:29,000
+take really good care of us.
+
+578
+00:19:29,000 --> 00:19:31,000
+I we I laughed when you first said perks
+
+579
+00:19:31,000 --> 00:19:34,000
+cuz I think of the team they love swag.
+
+580
+00:19:34,000 --> 00:19:37,000
+They love like is swag swag swag swag.
+
+581
+00:19:37,000 --> 00:19:39,000
+Um and I'm like, "Why? Why do you want
+
+582
+00:19:39,000 --> 00:19:40,000
+another shirt with like a logo
+
+583
+00:19:40,000 --> 00:19:42,000
+[laughter] on it?" Like
+
+584
+00:19:42,000 --> 00:19:44,000
+But they just can't doesn't matter
+
+585
+00:19:44,000 --> 00:19:45,000
+doesn't matter who you are, people love
+
+586
+00:19:45,000 --> 00:19:47,000
+a free T-shirt and they love a free mug.
+
+587
+00:19:47,000 --> 00:19:49,000
+One of your great employees who I've
+
+588
+00:19:49,000 --> 00:19:52,000
+known for 20 years, Justin Anthony. Yes.
+
+589
+00:19:52,000 --> 00:19:54,000
+One of the greats.
+
+590
+00:19:54,000 --> 00:19:56,000
+&gt;&gt; He and I started our careers together.
+
+591
+00:19:56,000 --> 00:19:57,000
+He was like a talent executive at
+
+592
+00:19:57,000 --> 00:20:00,000
+Nickelodeon when I was 14. Yeah. And
+
+593
+00:20:00,000 --> 00:20:02,000
+he's always championing me, and when he
+
+594
+00:20:02,000 --> 00:20:03,000
+moved over to Instagram, it just felt
+
+595
+00:20:03,000 --> 00:20:06,000
+natural. And so, he had like a summit
+
+596
+00:20:06,000 --> 00:20:08,000
+for creators years ago
+
+597
+00:20:08,000 --> 00:20:10,000
+and brought us up to the headquarters
+
+598
+00:20:10,000 --> 00:20:13,000
+and was like, "Come over. Come see." I
+
+599
+00:20:13,000 --> 00:20:15,000
+mean, was the Facebook headquarters
+
+600
+00:20:15,000 --> 00:20:17,000
+created by the people who did Disney or
+
+601
+00:20:17,000 --> 00:20:19,000
+Downtown Disney, or is that a myth? No,
+
+602
+00:20:19,000 --> 00:20:21,000
+no, it wasn't. It was the
+
+603
+00:20:21,000 --> 00:20:23,000
+Did you go to the campus that was right
+
+604
+00:20:23,000 --> 00:20:24,000
+on the Like it's by the sort of like
+
+605
+00:20:24,000 --> 00:20:26,000
+salt flats by the near kind of a water
+
+606
+00:20:26,000 --> 00:20:28,000
+body body of water? Maybe. I mean, it
+
+607
+00:20:28,000 --> 00:20:29,000
+had everything.
+
+608
+00:20:29,000 --> 00:20:31,000
+&gt;&gt; What year was it? This was probably
+
+609
+00:20:31,000 --> 00:20:33,000
+2018, 2019.
+
+610
+00:20:33,000 --> 00:20:34,000
+&gt;&gt; yeah. So, it would have been classic
+
+611
+00:20:34,000 --> 00:20:36,000
+campus, yeah. No, that's um that was
+
+612
+00:20:36,000 --> 00:20:39,000
+like an old Sun uh headquarters. It was
+
+613
+00:20:39,000 --> 00:20:41,000
+like an old Silicon Valley company
+
+614
+00:20:41,000 --> 00:20:44,000
+headquarters. It was sick. Like ice
+
+615
+00:20:44,000 --> 00:20:46,000
+cream shop, unbelievable, like five
+
+616
+00:20:46,000 --> 00:20:49,000
+different places to eat food, but the
+
+617
+00:20:49,000 --> 00:20:51,000
+best part was he took me and the other
+
+618
+00:20:51,000 --> 00:20:53,000
+influencers, and let's be honest, we
+
+619
+00:20:53,000 --> 00:20:56,000
+love free stuff. He said, "Come to the
+
+620
+00:20:56,000 --> 00:20:58,000
+Come to the company store." I got a
+
+621
+00:20:58,000 --> 00:21:00,000
+Patagonia.
+
+622
+00:21:00,000 --> 00:21:02,000
+I said, "I can have this?" He goes,
+
+623
+00:21:02,000 --> 00:21:04,000
+"Whatever [laughter] you want, Josh." I
+
+624
+00:21:04,000 --> 00:21:05,000
+said, "This is Patagonia. This is
+
+625
+00:21:05,000 --> 00:21:07,000
+high-end material." And it's got a nice
+
+626
+00:21:07,000 --> 00:21:09,000
+and it had the Facebook patch right at
+
+627
+00:21:09,000 --> 00:21:11,000
+the bottom. So,
+
+628
+00:21:11,000 --> 00:21:12,000
+&gt;&gt; It's very tasteful.
+
+629
+00:21:12,000 --> 00:21:15,000
+&gt;&gt; just like on your on your chest. Just
+
+630
+00:21:15,000 --> 00:21:16,000
+Yeah. [laughter]
+
+631
+00:21:16,000 --> 00:21:18,000
+&gt;&gt; the book. Too much, yeah.
+
+632
+00:21:18,000 --> 00:21:21,000
+That's good. That's good. Uh
+
+633
+00:21:21,000 --> 00:21:23,000
+It's It's not quite as Disneyland as it
+
+634
+00:21:23,000 --> 00:21:24,000
+used to be. I think once we you know,
+
+635
+00:21:24,000 --> 00:21:26,000
+through the pandemic and then 2022 and
+
+636
+00:21:26,000 --> 00:21:28,000
+the market contraction, we've started to
+
+637
+00:21:28,000 --> 00:21:31,000
+try to be much more judicious in our
+
+638
+00:21:31,000 --> 00:21:33,000
+expenses. Um so, it's not quite the
+
+639
+00:21:33,000 --> 00:21:37,000
+the um the wildness that it was. Uh
+
+640
+00:21:37,000 --> 00:21:38,000
+which I think is also good, but it's
+
+641
+00:21:38,000 --> 00:21:40,000
+still a wonderful place to work. I'm not
+
+642
+00:21:40,000 --> 00:21:41,000
+trying to complain at all. I was just
+
+643
+00:21:41,000 --> 00:21:43,000
+going to say, speaking of working for
+
+644
+00:21:43,000 --> 00:21:44,000
+Instagram, I think it's the perfect
+
+645
+00:21:44,000 --> 00:21:45,000
+time.
+
+646
+00:21:45,000 --> 00:21:47,000
+Uh I worked in media for a decade before
+
+647
+00:21:47,000 --> 00:21:49,000
+doing what I'm doing, and I actually
+
+648
+00:21:49,000 --> 00:21:52,000
+DM'd I looked back. I DM'd the Instagram
+
+649
+00:21:52,000 --> 00:21:54,000
+account. I'll read it to you.
+
+650
+00:21:54,000 --> 00:21:58,000
+I DM'd the Instagram account in 2019.
+
+651
+00:21:58,000 --> 00:21:58,000
+What'd you say?
+
+652
+00:21:58,000 --> 00:22:00,000
+&gt;&gt; wrote,
+
+653
+00:22:00,000 --> 00:22:02,000
+"Hey, long shot, but I saw a job at
+
+654
+00:22:02,000 --> 00:22:03,000
+Instagram that I was incredibly
+
+655
+00:22:03,000 --> 00:22:05,000
+intrigued by. I was wondering if you
+
+656
+00:22:05,000 --> 00:22:07,000
+could possibly connect me with someone
+
+657
+00:22:07,000 --> 00:22:09,000
+in recruiting to talk about it." Did it
+
+658
+00:22:09,000 --> 00:22:11,000
+just go on red? Did they Did it just
+
+659
+00:22:11,000 --> 00:22:12,000
+ghost you?
+
+660
+00:22:12,000 --> 00:22:14,000
+No one ever read it. No one
+
+661
+00:22:14,000 --> 00:22:14,000
+&gt;&gt; [laughter]
+
+662
+00:22:14,000 --> 00:22:16,000
+&gt;&gt; ever read it.
+
+663
+00:22:16,000 --> 00:22:16,000
+Uh
+
+664
+00:22:16,000 --> 00:22:18,000
+&gt;&gt; And let me tell you, this was This was
+
+665
+00:22:18,000 --> 00:22:19,000
+very talented, Ben.
+
+666
+00:22:19,000 --> 00:22:19,000
+&gt;&gt; Yeah.
+
+667
+00:22:19,000 --> 00:22:22,000
+&gt;&gt; Formerly at Vayner Media. Very ex- very
+
+668
+00:22:22,000 --> 00:22:25,000
+excited to work at Instagram. And thank
+
+669
+00:22:25,000 --> 00:22:26,000
+god it didn't happen cuz my my life
+
+670
+00:22:26,000 --> 00:22:29,000
+turned out great. But I wanted to work
+
+671
+00:22:29,000 --> 00:22:31,000
+at Instagram so badly. Does Instagram
+
+672
+00:22:31,000 --> 00:22:32,000
+check its DMs?
+
+673
+00:22:32,000 --> 00:22:32,000
+&gt;&gt; [laughter]
+
+674
+00:22:32,000 --> 00:22:35,000
+&gt;&gt; I check my DMs, but I don't check that
+
+675
+00:22:35,000 --> 00:22:37,000
+Instagram. I'm pretty sure someone does,
+
+676
+00:22:37,000 --> 00:22:39,000
+um but there's a lot. There's almost 700
+
+677
+00:22:39,000 --> 00:22:41,000
+million people follow that account. So,
+
+678
+00:22:41,000 --> 00:22:44,000
+it's There's a There's more DMs, I
+
+679
+00:22:44,000 --> 00:22:46,000
+think, than people can get to. Um I do I
+
+680
+00:22:46,000 --> 00:22:49,000
+go into my request folder every week.
+
+681
+00:22:49,000 --> 00:22:49,000
+Yeah.
+
+682
+00:22:49,000 --> 00:22:51,000
+&gt;&gt; I think it's good uh to get a sense for
+
+683
+00:22:51,000 --> 00:22:52,000
+what
+
+684
+00:22:52,000 --> 00:22:53,000
+is on people's minds, what's frustrating
+
+685
+00:22:53,000 --> 00:22:55,000
+people lately. I always respond to a
+
+686
+00:22:55,000 --> 00:22:57,000
+handful, which usually freaks them out.
+
+687
+00:22:57,000 --> 00:22:58,000
+Um
+
+688
+00:22:58,000 --> 00:23:00,000
+and [laughter]
+
+689
+00:23:00,000 --> 00:23:02,000
+Of course. Sometimes I find like
+
+690
+00:23:02,000 --> 00:23:03,000
+important people in there that I didn't
+
+691
+00:23:03,000 --> 00:23:06,000
+even know like for that it had messaged
+
+692
+00:23:06,000 --> 00:23:08,000
+me. I like missed it. And so, I'm trying
+
+693
+00:23:08,000 --> 00:23:10,000
+to get better at that. Oh, I um I've
+
+694
+00:23:10,000 --> 00:23:13,000
+been recently people will I'm I'm kind
+
+695
+00:23:13,000 --> 00:23:15,000
+of on an anti-Cameo kick cuz I don't
+
+696
+00:23:15,000 --> 00:23:16,000
+know. I don't want to pay them a vague
+
+697
+00:23:16,000 --> 00:23:18,000
+for my likeness. But, you know,
+
+698
+00:23:18,000 --> 00:23:20,000
+shout-out Cameo. But so now, if people
+
+699
+00:23:20,000 --> 00:23:24,000
+DM me, I will um I'll just answer them
+
+700
+00:23:24,000 --> 00:23:26,000
+and I'll do the request. Like if they
+
+701
+00:23:26,000 --> 00:23:27,000
+ask for a birthday shout-out, I'll be
+
+702
+00:23:27,000 --> 00:23:28,000
+like, "You don't have to pay me. I'm
+
+703
+00:23:28,000 --> 00:23:30,000
+just happy to do it." Cuz this way I can
+
+704
+00:23:30,000 --> 00:23:33,000
+do one every couple days and feel feel
+
+705
+00:23:33,000 --> 00:23:36,000
+good about it. This one girl You tell me
+
+706
+00:23:36,000 --> 00:23:37,000
+if this is nuts.
+
+707
+00:23:37,000 --> 00:23:40,000
+She's very nice. "Hello, Josh. My best
+
+708
+00:23:40,000 --> 00:23:42,000
+friend, we love you. Blah, blah, blah."
+
+709
+00:23:42,000 --> 00:23:43,000
+She's like, "Will you wish her a"
+
+710
+00:23:43,000 --> 00:23:45,000
+&gt;&gt; not sound like my DMs.
+
+711
+00:23:45,000 --> 00:23:45,000
+&gt;&gt; [laughter]
+
+712
+00:23:45,000 --> 00:23:48,000
+&gt;&gt; No one has ever been like, "Hello, Adam.
+
+713
+00:23:48,000 --> 00:23:50,000
+I love you. So happy you're doing such
+
+714
+00:23:50,000 --> 00:23:51,000
+&gt;&gt; Okay.
+
+715
+00:23:51,000 --> 00:23:51,000
+&gt;&gt; [laughter]
+
+716
+00:23:51,000 --> 00:23:52,000
+&gt;&gt; Okay.
+
+717
+00:23:52,000 --> 00:23:55,000
+There's only a kitchen. There's also a
+
+718
+00:23:55,000 --> 00:23:56,000
+&gt;&gt; [laughter]
+
+719
+00:23:56,000 --> 00:23:57,000
+&gt;&gt; There's also the side of it where they
+
+720
+00:23:57,000 --> 00:23:59,000
+call us fat, vicious pigs
+
+721
+00:23:59,000 --> 00:24:01,000
+&gt;&gt; Okay. All right. All right. Tell us how
+
+722
+00:24:01,000 --> 00:24:04,000
+Tell us how much they hate Jews. There's
+
+723
+00:24:04,000 --> 00:24:05,000
+that side of it, too. I get [laughter]
+
+724
+00:24:05,000 --> 00:24:06,000
+plenty of that. I get plenty of that,
+
+725
+00:24:06,000 --> 00:24:09,000
+too. Yeah. Yeah. You got to love it.
+
+726
+00:24:09,000 --> 00:24:10,000
+I
+
+727
+00:24:10,000 --> 00:24:12,000
+But uh and so, she says, "Can you give
+
+728
+00:24:12,000 --> 00:24:15,000
+me a birthday video for my friend?" And
+
+729
+00:24:15,000 --> 00:24:20,000
+the friend's name is C L E I L A. C L E
+
+730
+00:24:20,000 --> 00:24:22,000
+I
+
+731
+00:24:22,000 --> 00:24:24,000
+L A? Yeah. This is a smart guy. So,
+
+732
+00:24:24,000 --> 00:24:28,000
+let's see. Let's see. Cleal Cleala?
+
+733
+00:24:28,000 --> 00:24:29,000
+Clelia.
+
+734
+00:24:29,000 --> 00:24:33,000
+Okay. I write her back, "Sure. How do
+
+735
+00:24:33,000 --> 00:24:34,000
+you pronounce her name? How do you just
+
+736
+00:24:34,000 --> 00:24:36,000
+write that name? With due respect, a
+
+737
+00:24:36,000 --> 00:24:37,000
+beautiful name,
+
+738
+00:24:37,000 --> 00:24:37,000
+&gt;&gt; [laughter]
+
+739
+00:24:37,000 --> 00:24:40,000
+&gt;&gt; but you you don't just write Is it Is it
+
+740
+00:24:40,000 --> 00:24:41,000
+a beautiful name?
+
+741
+00:24:41,000 --> 00:24:44,000
+&gt;&gt; If there's a silent C, you you know, you
+
+742
+00:24:44,000 --> 00:24:46,000
+lead with that, you know?
+
+743
+00:24:46,000 --> 00:24:48,000
+&gt;&gt; It's a silence? No.
+
+744
+00:24:48,000 --> 00:24:50,000
+Oh, it's Leila? No.
+
+745
+00:24:50,000 --> 00:24:52,000
+&gt;&gt; I I asked her. So, then she she sent me
+
+746
+00:24:52,000 --> 00:24:55,000
+a voice message. You say it like Clelia.
+
+747
+00:24:55,000 --> 00:24:58,000
+Oh, that would never No one's getting
+
+748
+00:24:58,000 --> 00:25:01,000
+that. No. So, I I sent a video and I
+
+749
+00:25:01,000 --> 00:25:03,000
+told her friend what was up. Clelia,
+
+750
+00:25:03,000 --> 00:25:05,000
+what's up? It's Josh Peck. How are you?
+
+751
+00:25:05,000 --> 00:25:06,000
+Don't look at this pimple right here.
+
+752
+00:25:06,000 --> 00:25:08,000
+What can you do? Just wanted to wish you
+
+753
+00:25:08,000 --> 00:25:10,000
+happy birthday.
+
+754
+00:25:10,000 --> 00:25:12,000
+Uh your best friend, Louisa, asked me to
+
+755
+00:25:12,000 --> 00:25:14,000
+do this. So, thank her and also tell
+
+756
+00:25:14,000 --> 00:25:16,000
+your friend she wrote me your name and
+
+757
+00:25:16,000 --> 00:25:18,000
+it's beautiful. Not, you know,
+
+758
+00:25:18,000 --> 00:25:20,000
+semi-exotic. [clears throat]
+
+759
+00:25:20,000 --> 00:25:21,000
+I had never heard it before. And she was
+
+760
+00:25:21,000 --> 00:25:23,000
+like, "Oh, just can you wish my friend
+
+761
+00:25:23,000 --> 00:25:25,000
+Clelia a happy birthday?" And I wrote
+
+762
+00:25:25,000 --> 00:25:26,000
+her back. I was like, "Can you tell me
+
+763
+00:25:26,000 --> 00:25:28,000
+how to pronounce it?" Cuz this could
+
+764
+00:25:28,000 --> 00:25:31,000
+have been happy birthday Clelia or happy
+
+765
+00:25:31,000 --> 00:25:32,000
+birthday
+
+766
+00:25:32,000 --> 00:25:33,000
+Clelia. [laughter]
+
+767
+00:25:33,000 --> 00:25:35,000
+Like it just would have been I'm not a
+
+768
+00:25:35,000 --> 00:25:37,000
+smart man. But you're a smart person and
+
+769
+00:25:37,000 --> 00:25:38,000
+you're a wonderful [laughter] person,
+
+770
+00:25:38,000 --> 00:25:39,000
+and I hope you have a wonderful
+
+771
+00:25:39,000 --> 00:25:40,000
+birthday.
+
+772
+00:25:40,000 --> 00:25:43,000
+You're You're You're nuts and I love the
+
+773
+00:25:43,000 --> 00:25:46,000
+way that you code-switch. Hello, it's
+
+774
+00:25:46,000 --> 00:25:47,000
+Josh.
+
+775
+00:25:47,000 --> 00:25:48,000
+&gt;&gt; [laughter]
+
+776
+00:25:48,000 --> 00:25:50,000
+&gt;&gt; Hello, how are you? Hello, how are you
+
+777
+00:25:50,000 --> 00:25:50,000
+doing?
+
+778
+00:25:50,000 --> 00:25:52,000
+&gt;&gt; Hello Hello, Clelia. It's Josh
+
+779
+00:25:52,000 --> 00:25:54,000
+[laughter] here. I'm
+
+780
+00:25:54,000 --> 00:25:57,000
+I know. I hate my voice. But you know
+
+781
+00:25:57,000 --> 00:25:58,000
+what I'm saying? I really aired out the
+
+782
+00:25:58,000 --> 00:26:00,000
+baggage for her friend, Louisa. But
+
+783
+00:26:00,000 --> 00:26:02,000
+shout-out. I think it's great cuz if you
+
+784
+00:26:02,000 --> 00:26:04,000
+get one that's that long, it's it's it's
+
+785
+00:26:04,000 --> 00:26:05,000
+more it's more there's [laughter] more
+
+786
+00:26:05,000 --> 00:26:06,000
+goodness in it.
+
+787
+00:26:06,000 --> 00:26:08,000
+&gt;&gt; It's committed. Do you all
+
+788
+00:26:08,000 --> 00:26:09,000
+&gt;&gt; No one has ever asked me to wish one of
+
+789
+00:26:09,000 --> 00:26:12,000
+their friends a happy birthday.
+
+790
+00:26:12,000 --> 00:26:14,000
+&gt;&gt; [laughter]
+
+791
+00:26:14,000 --> 00:26:15,000
+&gt;&gt; But you're open to it. Oh, I would
+
+792
+00:26:15,000 --> 00:26:18,000
+definitely do Hearts and minds.
+
+793
+00:26:18,000 --> 00:26:20,000
+You know? You're open to it.
+
+794
+00:26:20,000 --> 00:26:20,000
+&gt;&gt; [laughter]
+
+795
+00:26:20,000 --> 00:26:22,000
+&gt;&gt; Is there an Is there
+
+796
+00:26:22,000 --> 00:26:25,000
+You know, obviously Mark is in his
+
+797
+00:26:25,000 --> 00:26:27,000
+Zuckerberg he's in his
+
+798
+00:26:27,000 --> 00:26:29,000
+oversize shirt era.
+
+799
+00:26:29,000 --> 00:26:29,000
+&gt;&gt; [laughter]
+
+800
+00:26:29,000 --> 00:26:30,000
+&gt;&gt; Are there moments where you could be
+
+801
+00:26:30,000 --> 00:26:32,000
+like, "Are you going to wear the chain
+
+802
+00:26:32,000 --> 00:26:34,000
+on the outside, Mark?" Can you have that
+
+803
+00:26:34,000 --> 00:26:35,000
+shorthand?
+
+804
+00:26:35,000 --> 00:26:36,000
+&gt;&gt; [laughter]
+
+805
+00:26:36,000 --> 00:26:38,000
+&gt;&gt; I mean, I think it's good. I think it's
+
+806
+00:26:38,000 --> 00:26:41,000
+good for him to lean into his own style
+
+807
+00:26:41,000 --> 00:26:42,000
+and figure out how he wants to express
+
+808
+00:26:42,000 --> 00:26:44,000
+himself. I've definitely had a chain out
+
+809
+00:26:44,000 --> 00:26:46,000
+at times, so I can't be throwing shade
+
+810
+00:26:46,000 --> 00:26:48,000
+at that. All right.
+
+811
+00:26:48,000 --> 00:26:50,000
+But I don't know. I just feel like for a
+
+812
+00:26:50,000 --> 00:26:53,000
+long time, it was a very focused
+
+813
+00:26:53,000 --> 00:26:54,000
+uniform. It was like, you know, jeans
+
+814
+00:26:54,000 --> 00:26:57,000
+and Adidas sandals and a gray T-shirt.
+
+815
+00:26:57,000 --> 00:26:59,000
+So, I'm I'm glad he's exploring a little
+
+816
+00:26:59,000 --> 00:27:00,000
+bit more on the fashion side. I I love
+
+817
+00:27:00,000 --> 00:27:02,000
+it. I think it humanizes him. Like for
+
+818
+00:27:02,000 --> 00:27:04,000
+so long, you were like, "Who is this
+
+819
+00:27:04,000 --> 00:27:06,000
+guy?" And like the second that he
+
+820
+00:27:06,000 --> 00:27:08,000
+started doing that, you were like, "Oh.
+
+821
+00:27:08,000 --> 00:27:10,000
+Oh, he's he's him.
+
+822
+00:27:10,000 --> 00:27:13,000
+He's him with the tees and the It's like
+
+823
+00:27:13,000 --> 00:27:14,000
+He's a real guy.
+
+824
+00:27:14,000 --> 00:27:16,000
+&gt;&gt; You got to be you.
+
+825
+00:27:16,000 --> 00:27:17,000
+You You show If you're showing up
+
+826
+00:27:17,000 --> 00:27:20,000
+online, in you know, obviously you want
+
+827
+00:27:20,000 --> 00:27:23,000
+to be thoughtful about how you show up.
+
+828
+00:27:23,000 --> 00:27:24,000
+But if you're inauthentic, people can
+
+829
+00:27:24,000 --> 00:27:26,000
+sniff it out, and people [clears throat]
+
+830
+00:27:26,000 --> 00:27:28,000
+hate that. And so, you have to find
+
+831
+00:27:28,000 --> 00:27:31,000
+something authentic to tap into, and
+
+832
+00:27:31,000 --> 00:27:32,000
+then if people like it, great. If they
+
+833
+00:27:32,000 --> 00:27:34,000
+don't, that's also okay. But if you're
+
+834
+00:27:34,000 --> 00:27:36,000
+trying to hide something or pretend to
+
+835
+00:27:36,000 --> 00:27:38,000
+be something you're not, I think people
+
+836
+00:27:38,000 --> 00:27:40,000
+can smell that. And so, I'm I'm just
+
+837
+00:27:40,000 --> 00:27:41,000
+like, "Look, you know, you be you.
+
+838
+00:27:41,000 --> 00:27:44,000
+Whatever Whatever you're into."
+
+839
+00:27:44,000 --> 00:27:45,000
+I think it's good to figure out how to
+
+840
+00:27:45,000 --> 00:27:47,000
+find a piece of that that you feel like
+
+841
+00:27:47,000 --> 00:27:48,000
+comfortable sharing if you're trying to
+
+842
+00:27:48,000 --> 00:27:50,000
+share online in the first place. I I
+
+843
+00:27:50,000 --> 00:27:52,000
+feel comfortable asking this now that
+
+844
+00:27:52,000 --> 00:27:53,000
+it's technically also an American
+
+845
+00:27:53,000 --> 00:27:55,000
+company, but like is there ever a fear
+
+846
+00:27:55,000 --> 00:27:57,000
+that like maybe there's like a spy from
+
+847
+00:27:57,000 --> 00:27:59,000
+TikTok or like there's like someone from
+
+848
+00:27:59,000 --> 00:28:01,000
+another social media company who's
+
+849
+00:28:01,000 --> 00:28:03,000
+trying to like I'm sure all of that
+
+850
+00:28:03,000 --> 00:28:05,000
+happens. That definitely happens. You
+
+851
+00:28:05,000 --> 00:28:06,000
+think so? Oh, yeah. I'm sure there are
+
+852
+00:28:06,000 --> 00:28:09,000
+companies that have people go I'm sure
+
+853
+00:28:09,000 --> 00:28:10,000
+there's I mean, I'm sure even
+
+854
+00:28:10,000 --> 00:28:12,000
+governments have done it or tried to do
+
+855
+00:28:12,000 --> 00:28:13,000
+it at times. I think we try to take
+
+856
+00:28:13,000 --> 00:28:15,000
+security really seriously, which is why
+
+857
+00:28:15,000 --> 00:28:17,000
+we, you know, lock down access to data
+
+858
+00:28:17,000 --> 00:28:18,000
+in a bunch of different ways. We track
+
+859
+00:28:18,000 --> 00:28:20,000
+everything. We try to be really, really
+
+860
+00:28:20,000 --> 00:28:22,000
+careful. But at our scale, that's
+
+861
+00:28:22,000 --> 00:28:24,000
+inevitable. Really?
+
+862
+00:28:24,000 --> 00:28:25,000
+&gt;&gt; Yeah, it's wild. So, you got a couple
+
+863
+00:28:25,000 --> 00:28:27,000
+spies out there, huh? I'm not saying
+
+864
+00:28:27,000 --> 00:28:28,000
+there
+
+865
+00:28:28,000 --> 00:28:29,000
+You don't think there's a little rat
+
+866
+00:28:29,000 --> 00:28:30,000
+&gt;&gt; [laughter]
+
+867
+00:28:30,000 --> 00:28:31,000
+&gt;&gt; I'm not
+
+868
+00:28:31,000 --> 00:28:33,000
+I'm saying Spying goes two ways. No, I'm
+
+869
+00:28:33,000 --> 00:28:36,000
+just saying that we are honest about the
+
+870
+00:28:36,000 --> 00:28:38,000
+risks and we try to reduce the chances
+
+871
+00:28:38,000 --> 00:28:41,000
+of anything bad happening.
+
+872
+00:28:41,000 --> 00:28:43,000
+Wow, so interesting.
+
+873
+00:28:43,000 --> 00:28:45,000
+That's amazing. I would I would be a
+
+874
+00:28:45,000 --> 00:28:47,000
+terrible spy. Imagine me just like
+
+875
+00:28:47,000 --> 00:28:49,000
+undercover at TikTok working for
+
+876
+00:28:49,000 --> 00:28:53,000
+Instagram. They'd catch me day of. Um
+
+877
+00:28:53,000 --> 00:28:55,000
+Adam, what's next for Instagram? Like
+
+878
+00:28:55,000 --> 00:28:59,000
+what is Like Like is there like
+
+879
+00:28:59,000 --> 00:29:01,000
+something enormous on the horizon or is
+
+880
+00:29:01,000 --> 00:29:05,000
+there like a a new North Star? Like
+
+881
+00:29:05,000 --> 00:29:06,000
+I just feel like you guys are so great
+
+882
+00:29:06,000 --> 00:29:08,000
+at pivoting with the times and always
+
+883
+00:29:08,000 --> 00:29:10,000
+sort of find like figuring out what's
+
+884
+00:29:10,000 --> 00:29:11,000
+next. Like what is next?
+
+885
+00:29:11,000 --> 00:29:13,000
+&gt;&gt; There's a lot going on right now. I
+
+886
+00:29:13,000 --> 00:29:14,000
+think
+
+887
+00:29:14,000 --> 00:29:15,000
+the
+
+888
+00:29:15,000 --> 00:29:17,000
+Well, I want to acknowledge up front
+
+889
+00:29:17,000 --> 00:29:19,000
+that I know it's frustrating when
+
+890
+00:29:19,000 --> 00:29:20,000
+Instagram changes. Cuz you feel like
+
+891
+00:29:20,000 --> 00:29:22,000
+it's yours or you got used to it or you
+
+892
+00:29:22,000 --> 00:29:24,000
+got good at it, and all of a sudden it
+
+893
+00:29:24,000 --> 00:29:25,000
+feels like we pulled the rug out from
+
+894
+00:29:25,000 --> 00:29:26,000
+under you.
+
+895
+00:29:26,000 --> 00:29:30,000
+The flip side is if we didn't evolve,
+
+896
+00:29:30,000 --> 00:29:32,000
+then we would be irrelevant. There's no
+
+897
+00:29:32,000 --> 00:29:34,000
+way I would be you'd ask me to be here
+
+898
+00:29:34,000 --> 00:29:35,000
+today or I'd be here today if we didn't
+
+899
+00:29:35,000 --> 00:29:38,000
+have stories or Reels or recommendations
+
+900
+00:29:38,000 --> 00:29:40,000
+or DMs. If we were just a feed of square
+
+901
+00:29:40,000 --> 00:29:43,000
+photos with filters, we would have kind
+
+902
+00:29:43,000 --> 00:29:45,000
+of fallen by the wayside.
+
+903
+00:29:45,000 --> 00:29:47,000
+The thing So, we always try to evolve,
+
+904
+00:29:47,000 --> 00:29:49,000
+but stay true to our core identity of,
+
+905
+00:29:49,000 --> 00:29:50,000
+you know, connecting people over
+
+906
+00:29:50,000 --> 00:29:51,000
+creativity.
+
+907
+00:29:51,000 --> 00:29:52,000
+But, the thing that I'm personally
+
+908
+00:29:52,000 --> 00:29:54,000
+really excited about right now is if a
+
+909
+00:29:54,000 --> 00:29:56,000
+big part of what we do is help people
+
+910
+00:29:56,000 --> 00:29:58,000
+explore their interests, get connected
+
+911
+00:29:58,000 --> 00:29:59,000
+to creatives in whatever they're into,
+
+912
+00:29:59,000 --> 00:30:00,000
+and then talk about them with their
+
+913
+00:30:00,000 --> 00:30:01,000
+friends.
+
+914
+00:30:01,000 --> 00:30:04,000
+I think a really interesting question is
+
+915
+00:30:04,000 --> 00:30:06,000
+how can you more actively shape that?
+
+916
+00:30:06,000 --> 00:30:07,000
+You know, we talked about talking to the
+
+917
+00:30:07,000 --> 00:30:09,000
+algorithm before. So, actually just this
+
+918
+00:30:09,000 --> 00:30:12,000
+week we started to test out this
+
+919
+00:30:12,000 --> 00:30:15,000
+sort of tune your algorithm feature. We
+
+920
+00:30:15,000 --> 00:30:17,000
+It was inspired by a meme on Threads 2
+
+921
+00:30:17,000 --> 00:30:19,000
+years ago, which was called Dear Algo.
+
+922
+00:30:19,000 --> 00:30:20,000
+So, all these people were just writing
+
+923
+00:30:20,000 --> 00:30:21,000
+to the algorithm, like, "Please stop
+
+924
+00:30:21,000 --> 00:30:23,000
+showing me friends of my high school
+
+925
+00:30:23,000 --> 00:30:24,000
+friends' kids." You know, like, stuff
+
+926
+00:30:24,000 --> 00:30:26,000
+like that.
+
+927
+00:30:26,000 --> 00:30:27,000
+Um
+
+928
+00:30:27,000 --> 00:30:28,000
+stuff that we not might not actually be
+
+929
+00:30:28,000 --> 00:30:30,000
+able to deliver on.
+
+930
+00:30:30,000 --> 00:30:31,000
+Um but, we were
+
+931
+00:30:31,000 --> 00:30:33,000
+with some of this new technology,
+
+932
+00:30:33,000 --> 00:30:35,000
+particularly around AI, there are
+
+933
+00:30:35,000 --> 00:30:37,000
+opportunities now where we can
+
+934
+00:30:37,000 --> 00:30:39,000
+both make the algorithm more
+
+935
+00:30:39,000 --> 00:30:41,000
+human-understandable
+
+936
+00:30:41,000 --> 00:30:44,000
+and malleable. So, with this one What
+
+937
+00:30:44,000 --> 00:30:45,000
+we're starting with is what we So, it's
+
+938
+00:30:45,000 --> 00:30:47,000
+simple. You can add things You can see
+
+939
+00:30:47,000 --> 00:30:48,000
+what we think you're interested in.
+
+940
+00:30:48,000 --> 00:30:50,000
+And then you can add things that we may
+
+941
+00:30:50,000 --> 00:30:52,000
+have missed, and you can remove things
+
+942
+00:30:52,000 --> 00:30:53,000
+if we're wrong about things. Or, you can
+
+943
+00:30:53,000 --> 00:30:54,000
+just even say I don't actually want to
+
+944
+00:30:54,000 --> 00:30:57,000
+see anything about whatever it is. Maybe
+
+945
+00:30:57,000 --> 00:30:58,000
+you're just like, "I you know, I quit
+
+946
+00:30:58,000 --> 00:30:59,000
+American football. I just don't want to
+
+947
+00:30:59,000 --> 00:31:00,000
+see anything about football." You can
+
+948
+00:31:00,000 --> 00:31:02,000
+actually just do that. Sure. And it's
+
+949
+00:31:02,000 --> 00:31:04,000
+pretty fun to actually go and look and
+
+950
+00:31:04,000 --> 00:31:07,000
+see what we think you're into, and then
+
+951
+00:31:07,000 --> 00:31:08,000
+go make some corrections. And then once
+
+952
+00:31:08,000 --> 00:31:10,000
+you do, right now it's just in Reels.
+
+953
+00:31:10,000 --> 00:31:12,000
+When you're scrolling through Reels,
+
+954
+00:31:12,000 --> 00:31:13,000
+well, if we showed you something that
+
+955
+00:31:13,000 --> 00:31:14,000
+you asked for, let's say you asked for
+
+956
+00:31:14,000 --> 00:31:16,000
+parenting advice. It would literally say
+
+957
+00:31:16,000 --> 00:31:18,000
+with the little, you know, tag parenting
+
+958
+00:31:18,000 --> 00:31:19,000
+advice. So, you can see that you're
+
+959
+00:31:19,000 --> 00:31:21,000
+getting it cuz you asked for it. Right.
+
+960
+00:31:21,000 --> 00:31:23,000
+&gt;&gt; And so, this idea of shaping your
+
+961
+00:31:23,000 --> 00:31:25,000
+algorithm is something I'm very excited
+
+962
+00:31:25,000 --> 00:31:27,000
+about, and it's really only possible at
+
+963
+00:31:27,000 --> 00:31:28,000
+scale
+
+964
+00:31:28,000 --> 00:31:30,000
+over the last year or so. Um so, we're
+
+965
+00:31:30,000 --> 00:31:31,000
+just starting to test this with a very
+
+966
+00:31:31,000 --> 00:31:32,000
+small percentage of people in the US to
+
+967
+00:31:32,000 --> 00:31:34,000
+start. Um but, I'm hoping to get that
+
+968
+00:31:34,000 --> 00:31:36,000
+out over the next couple months.
+
+969
+00:31:36,000 --> 00:31:38,000
+And is it true, like, I've heard
+
+970
+00:31:38,000 --> 00:31:39,000
+something to the effect of I think I
+
+971
+00:31:39,000 --> 00:31:41,000
+think Tyler Cowen was talking about this
+
+972
+00:31:41,000 --> 00:31:43,000
+on the Rick Rubin podcast. You know, I
+
+973
+00:31:43,000 --> 00:31:45,000
+listen to what economists I'm
+
+974
+00:31:45,000 --> 00:31:47,000
+well-rounded.
+
+975
+00:31:47,000 --> 00:31:48,000
+And [laughter] then I graduated high
+
+976
+00:31:48,000 --> 00:31:50,000
+school. Um but, Rick Rubin's got some
+
+977
+00:31:50,000 --> 00:31:52,000
+long pods. Long pods.
+
+978
+00:31:52,000 --> 00:31:54,000
+&gt;&gt; Yeah, he's he's a he's an interesting,
+
+979
+00:31:54,000 --> 00:31:57,000
+brilliant cat. He's smart. He's very
+
+980
+00:31:57,000 --> 00:31:57,000
+smart. And
+
+981
+00:31:57,000 --> 00:31:58,000
+&gt;&gt; [clears throat]
+
+982
+00:31:58,000 --> 00:32:00,000
+&gt;&gt; they were saying how originally, you
+
+983
+00:32:00,000 --> 00:32:03,000
+know, the big tech companies were trying
+
+984
+00:32:03,000 --> 00:32:04,000
+to especially social media companies
+
+985
+00:32:04,000 --> 00:32:07,000
+were acquiring these AI engineers in
+
+986
+00:32:07,000 --> 00:32:09,000
+compensation packages that looked like
+
+987
+00:32:09,000 --> 00:32:12,000
+10, 15 million dollars, right? But, now
+
+988
+00:32:12,000 --> 00:32:13,000
+they were saying like, "It's getting to
+
+989
+00:32:13,000 --> 00:32:16,000
+a point where of this small group of
+
+990
+00:32:16,000 --> 00:32:19,000
+like true AI cutting-edge engineers,
+
+991
+00:32:19,000 --> 00:32:21,000
+these guys are like making
+
+992
+00:32:21,000 --> 00:32:23,000
+hundreds of millions of dollars." Like,
+
+993
+00:32:23,000 --> 00:32:27,000
+the offers have become so insane because
+
+994
+00:32:27,000 --> 00:32:29,000
+someone high up at these companies can
+
+995
+00:32:29,000 --> 00:32:31,000
+go, you know, "If this person can give
+
+996
+00:32:31,000 --> 00:32:33,000
+us such an edge on the AI of it all,
+
+997
+00:32:33,000 --> 00:32:36,000
+like, yeah. Like, let's just do it.
+
+998
+00:32:36,000 --> 00:32:38,000
+Like, it's it makes sense." Like, is
+
+999
+00:32:38,000 --> 00:32:39,000
+that where we're getting with AI? It's
+
+1000
+00:32:39,000 --> 00:32:42,000
+just such an extreme
+
+1001
+00:32:42,000 --> 00:32:45,000
+um field of of upside?
+
+1002
+00:32:45,000 --> 00:32:49,000
+Yes and no. So, most of what you read
+
+1003
+00:32:49,000 --> 00:32:51,000
+about in terms of the offers are greatly
+
+1004
+00:32:51,000 --> 00:32:53,000
+exaggerated, but it still is a lot of
+
+1005
+00:32:53,000 --> 00:32:54,000
+money. So, I don't want to pretend like
+
+1006
+00:32:54,000 --> 00:32:55,000
+it's not.
+
+1007
+00:32:55,000 --> 00:32:58,000
+I think that some of these foundation
+
+1008
+00:32:58,000 --> 00:33:00,000
+models and cutting-edge models work
+
+1009
+00:33:00,000 --> 00:33:01,000
+model work is
+
+1010
+00:33:01,000 --> 00:33:03,000
+there's really a small group of people
+
+1011
+00:33:03,000 --> 00:33:04,000
+who's
+
+1012
+00:33:04,000 --> 00:33:05,000
+really good at it. And so, there's an
+
+1013
+00:33:05,000 --> 00:33:08,000
+immense amount of competition to hire
+
+1014
+00:33:08,000 --> 00:33:09,000
+that talent, which is what's driving up
+
+1015
+00:33:09,000 --> 00:33:11,000
+the cost of, you know, hiring these
+
+1016
+00:33:11,000 --> 00:33:14,000
+people. Um but, it is pretty wild
+
+1017
+00:33:14,000 --> 00:33:15,000
+because it's
+
+1018
+00:33:15,000 --> 00:33:16,000
+some of these techniques are decades
+
+1019
+00:33:16,000 --> 00:33:18,000
+old, but a lot of it are just brand new
+
+1020
+00:33:18,000 --> 00:33:19,000
+and novel, and everyone's kind of
+
+1021
+00:33:19,000 --> 00:33:21,000
+learning on the fly. So, a lot of this
+
+1022
+00:33:21,000 --> 00:33:22,000
+talent
+
+1023
+00:33:22,000 --> 00:33:24,000
+um and then there's not a lot of it
+
+1024
+00:33:24,000 --> 00:33:27,000
+overall, is also like really young. Um
+
+1025
+00:33:27,000 --> 00:33:29,000
+these are young engineers who
+
+1026
+00:33:29,000 --> 00:33:31,000
+&gt;&gt; Yeah. A lot of them are in their 20s.
+
+1027
+00:33:31,000 --> 00:33:32,000
+&gt;&gt; Wow.
+
+1028
+00:33:32,000 --> 00:33:32,000
+Um they're
+
+1029
+00:33:32,000 --> 00:33:35,000
+&gt;&gt; Are IVs still like Ivy kids, Ivy League
+
+1030
+00:33:35,000 --> 00:33:37,000
+kids, or maybe not? Uh maybe not. I
+
+1031
+00:33:37,000 --> 00:33:40,000
+mean, some of them it's it's people
+
+1032
+00:33:40,000 --> 00:33:41,000
+it's not something you can go learn in
+
+1033
+00:33:41,000 --> 00:33:45,000
+school. So, because it's so new, it's a
+
+1034
+00:33:45,000 --> 00:33:47,000
+bunch of techniques and technologies
+
+1035
+00:33:47,000 --> 00:33:49,000
+that are evolving very quickly. So, it's
+
+1036
+00:33:49,000 --> 00:33:51,000
+people who are very quick learners, who
+
+1037
+00:33:51,000 --> 00:33:55,000
+are willing who who actively experiment.
+
+1038
+00:33:55,000 --> 00:33:58,000
+It's a much more scrappy
+
+1039
+00:33:58,000 --> 00:34:00,000
+type of engineer or researcher, really,
+
+1040
+00:34:00,000 --> 00:34:03,000
+than what we, you know, most of the
+
+1041
+00:34:03,000 --> 00:34:04,000
+Valley has
+
+1042
+00:34:04,000 --> 00:34:05,000
+historically hired, which are much more
+
+1043
+00:34:05,000 --> 00:34:07,000
+like, "This is the right way to build a
+
+1044
+00:34:07,000 --> 00:34:09,000
+database that serves this many millions
+
+1045
+00:34:09,000 --> 00:34:11,000
+of people over this many data, you know,
+
+1046
+00:34:11,000 --> 00:34:12,000
+this many data centers."
+
+1047
+00:34:12,000 --> 00:34:14,000
+Where there's like a right way to do it.
+
+1048
+00:34:14,000 --> 00:34:16,000
+You could write a PhD about it. This is
+
+1049
+00:34:16,000 --> 00:34:18,000
+not that. Um there are PhDs about the
+
+1050
+00:34:18,000 --> 00:34:20,000
+research, for sure, who work in the
+
+1051
+00:34:20,000 --> 00:34:21,000
+research area, but the people who are
+
+1052
+00:34:21,000 --> 00:34:23,000
+building the applied stuff,
+
+1053
+00:34:23,000 --> 00:34:24,000
+it's a small group of people, they're
+
+1054
+00:34:24,000 --> 00:34:27,000
+very young, and they're very
+
+1055
+00:34:27,000 --> 00:34:28,000
+um
+
+1056
+00:34:28,000 --> 00:34:30,000
+scrappy. Um it's it's kind of wild to
+
+1057
+00:34:30,000 --> 00:34:32,000
+see them do the what they do.
+
+1058
+00:34:32,000 --> 00:34:36,000
+Wow. Well, Ben Ben's lost to ChatGPT.
+
+1059
+00:34:36,000 --> 00:34:38,000
+&gt;&gt; Yeah. We We we've I We've lost, Ben.
+
+1060
+00:34:38,000 --> 00:34:41,000
+&gt;&gt; used I I haven't used Google in a year.
+
+1061
+00:34:41,000 --> 00:34:43,000
+I mean, it's just it's literally I have
+
+1062
+00:34:43,000 --> 00:34:45,000
+not used Google in a year. I have a
+
+1063
+00:34:45,000 --> 00:34:48,000
+question, it's ChatGPT for sure. He's
+
+1064
+00:34:48,000 --> 00:34:49,000
+all ChatGPT.
+
+1065
+00:34:49,000 --> 00:34:52,000
+&gt;&gt; I I love chat.
+
+1066
+00:34:52,000 --> 00:34:53,000
+This episode of the Good Guys podcast is
+
+1067
+00:34:53,000 --> 00:34:55,000
+brought to you by our friends at Signos.
+
+1068
+00:34:55,000 --> 00:34:58,000
+Folks, did you know that 73.6%
+
+1069
+00:34:58,000 --> 00:34:59,000
+of US adults are classified as
+
+1070
+00:34:59,000 --> 00:35:01,000
+overweight or obese? It's not mean, it's
+
+1071
+00:35:01,000 --> 00:35:04,000
+the truth. 88% of Americans are
+
+1072
+00:35:04,000 --> 00:35:06,000
+classified as metabolically unhealthy.
+
+1073
+00:35:06,000 --> 00:35:08,000
+Global diabetes diagnoses are projected
+
+1074
+00:35:08,000 --> 00:35:12,000
+to reach 1.3 billion by 2050. I'm not
+
+1075
+00:35:12,000 --> 00:35:13,000
+here to scare you, I'm here to talk to
+
+1076
+00:35:13,000 --> 00:35:16,000
+you about Signos. When you eat carbs,
+
+1077
+00:35:16,000 --> 00:35:17,000
+your blood sugar rises. Your body
+
+1078
+00:35:17,000 --> 00:35:19,000
+releases insulin to shuttle that sugar
+
+1079
+00:35:19,000 --> 00:35:21,000
+into your cells for energy. But, if
+
+1080
+00:35:21,000 --> 00:35:23,000
+you're insulin resistant, the sugar
+
+1081
+00:35:23,000 --> 00:35:26,000
+doesn't get used properly. It lingers in
+
+1082
+00:35:26,000 --> 00:35:28,000
+your bloodstream. That's when weight
+
+1083
+00:35:28,000 --> 00:35:30,000
+gain, fatigue, and long-term health
+
+1084
+00:35:30,000 --> 00:35:32,000
+risks start to build. And most
+
+1085
+00:35:32,000 --> 00:35:34,000
+importantly for me, brain fog. That's
+
+1086
+00:35:34,000 --> 00:35:36,000
+why when I eat a bagel on the podcast,
+
+1087
+00:35:36,000 --> 00:35:39,000
+all of a sudden, I can't see straight.
+
+1088
+00:35:39,000 --> 00:35:42,000
+That's because my blood sugar is out of
+
+1089
+00:35:42,000 --> 00:35:43,000
+whack. And you How did I learn that,
+
+1090
+00:35:43,000 --> 00:35:45,000
+folks? How did I learn that? Because of
+
+1091
+00:35:45,000 --> 00:35:47,000
+Signos. Signos packages an AI-powered
+
+1092
+00:35:47,000 --> 00:35:50,000
+platform for deciphering unique
+
+1093
+00:35:50,000 --> 00:35:52,000
+metabolisms with a continuous glucose
+
+1094
+00:35:52,000 --> 00:35:55,000
+monitor or biosensor, which enables
+
+1095
+00:35:55,000 --> 00:35:57,000
+users to see how food choices, timing,
+
+1096
+00:35:57,000 --> 00:35:59,000
+activity, stress, and even sleep affect
+
+1097
+00:35:59,000 --> 00:36:01,000
+their bodies in real time. You get to
+
+1098
+00:36:01,000 --> 00:36:03,000
+learn what foods actually cause your
+
+1099
+00:36:03,000 --> 00:36:06,000
+blood sugar spikes. So, you can uh avoid
+
+1100
+00:36:06,000 --> 00:36:08,000
+them, or maybe eat them at a time where
+
+1101
+00:36:08,000 --> 00:36:09,000
+you don't have an incredibly important
+
+1102
+00:36:09,000 --> 00:36:11,000
+meeting or incredibly important podcast
+
+1103
+00:36:11,000 --> 00:36:13,000
+where you need to be incredibly sharp,
+
+1104
+00:36:13,000 --> 00:36:15,000
+okay? You get in-the-moment alerts when
+
+1105
+00:36:15,000 --> 00:36:17,000
+your glucose is rising, plus
+
+1106
+00:36:17,000 --> 00:36:19,000
+personalized suggestions like taking a
+
+1107
+00:36:19,000 --> 00:36:21,000
+quick walk. You understand the
+
+1108
+00:36:21,000 --> 00:36:23,000
+difference between physical hunger and
+
+1109
+00:36:23,000 --> 00:36:24,000
+stress eating. And most importantly, you
+
+1110
+00:36:24,000 --> 00:36:26,000
+feel more energized throughout the day
+
+1111
+00:36:26,000 --> 00:36:29,000
+and sleep better at night after taking
+
+1112
+00:36:29,000 --> 00:36:31,000
+the insights that you get from Signos
+
+1113
+00:36:31,000 --> 00:36:33,000
+and transferring them to your daily
+
+1114
+00:36:33,000 --> 00:36:34,000
+life. So, folks, if this sounds like
+
+1115
+00:36:34,000 --> 00:36:36,000
+something that could interest you,
+
+1116
+00:36:36,000 --> 00:36:38,000
+Signos took the guesswork out of
+
+1117
+00:36:38,000 --> 00:36:40,000
+managing my weight and gave me
+
+1118
+00:36:40,000 --> 00:36:42,000
+personalized insights into how my body
+
+1119
+00:36:42,000 --> 00:36:43,000
+works, and I'm sure they can do the same
+
+1120
+00:36:43,000 --> 00:36:45,000
+for you. With an AI-powered app and
+
+1121
+00:36:45,000 --> 00:36:47,000
+biosensor, Signos helped me build
+
+1122
+00:36:47,000 --> 00:36:49,000
+healthier habits and stick to them.
+
+1123
+00:36:49,000 --> 00:36:51,000
+Right now, Signos has an exclusive offer
+
+1124
+00:36:51,000 --> 00:36:53,000
+for our listeners. If you go to signos,
+
+1125
+00:36:53,000 --> 00:36:55,000
+signos.com,
+
+1126
+00:36:55,000 --> 00:36:58,000
+you get $10 off select plans with code
+
+1127
+00:36:58,000 --> 00:37:00,000
+good guys. That's signos.com code good
+
+1128
+00:37:00,000 --> 00:37:04,000
+guys for $10 off select plans today.
+
+1129
+00:37:04,000 --> 00:37:06,000
+This episode of the Good Guys podcast is
+
+1130
+00:37:06,000 --> 00:37:07,000
+brought to you by our friends at
+
+1131
+00:37:07,000 --> 00:37:09,000
+Function. Folks, I chose Function
+
+1132
+00:37:09,000 --> 00:37:10,000
+because it's the only health platform
+
+1133
+00:37:10,000 --> 00:37:13,000
+that gives me data most people never get
+
+1134
+00:37:13,000 --> 00:37:14,000
+and the insights to start doing
+
+1135
+00:37:14,000 --> 00:37:16,000
+something about it. Inside Function, you
+
+1136
+00:37:16,000 --> 00:37:18,000
+get access to test over 100 biomarkers,
+
+1137
+00:37:18,000 --> 00:37:20,000
+from hormones to toxins to markers of
+
+1138
+00:37:20,000 --> 00:37:22,000
+heart health, inflammation, and stress.
+
+1139
+00:37:22,000 --> 00:37:23,000
+For an additional fee, you can also
+
+1140
+00:37:23,000 --> 00:37:26,000
+access MRI and chest CT scans, all
+
+1141
+00:37:26,000 --> 00:37:28,000
+tracked in one secure place over time.
+
+1142
+00:37:28,000 --> 00:37:30,000
+It's in your 360° view to better see
+
+1143
+00:37:30,000 --> 00:37:32,000
+what's happening in your body. That's
+
+1144
+00:37:32,000 --> 00:37:34,000
+why top health leaders such as Dr. Mark
+
+1145
+00:37:34,000 --> 00:37:36,000
+Hyman, Dr. Andrew Huberman, Dr. Jeremy
+
+1146
+00:37:36,000 --> 00:37:38,000
+London, Dr. Benjamin Salfer are all
+
+1147
+00:37:38,000 --> 00:37:40,000
+behind Function. Folks, if I'm behind
+
+1148
+00:37:40,000 --> 00:37:42,000
+Function, you got to take a look at
+
+1149
+00:37:42,000 --> 00:37:44,000
+this, okay? Because lab visits fast and
+
+1150
+00:37:44,000 --> 00:37:46,000
+convenient at over 2,000 locations
+
+1151
+00:37:46,000 --> 00:37:49,000
+across the US. It's just $4.99 a year.
+
+1152
+00:37:49,000 --> 00:37:51,000
+That's $1.37 a day for advanced health
+
+1153
+00:37:51,000 --> 00:37:54,000
+insights. You literally spend $4.99 on
+
+1154
+00:37:54,000 --> 00:37:56,000
+something so much sillier than your
+
+1155
+00:37:56,000 --> 00:37:58,000
+health. You should absolutely consider
+
+1156
+00:37:58,000 --> 00:38:00,000
+this. All results are tracked over time
+
+1157
+00:38:00,000 --> 00:38:01,000
+in one secure place. So, you see how
+
+1158
+00:38:01,000 --> 00:38:03,000
+your health evolves. Insights come from
+
+1159
+00:38:03,000 --> 00:38:05,000
+top doctors based on your unique
+
+1160
+00:38:05,000 --> 00:38:07,000
+results. And folks, if you tried to do
+
+1161
+00:38:07,000 --> 00:38:08,000
+this on your own, I know what you're
+
+1162
+00:38:08,000 --> 00:38:10,000
+thinking. $4.99, Ben. I can do that on
+
+1163
+00:38:10,000 --> 00:38:12,000
+my own. You can't. It would cost you 10
+
+1164
+00:38:12,000 --> 00:38:13,000
+grand. What are you, nuts? Do it through
+
+1165
+00:38:13,000 --> 00:38:15,000
+Function. I'm telling you, folks, do it
+
+1166
+00:38:15,000 --> 00:38:17,000
+through Function. And Function doesn't
+
+1167
+00:38:17,000 --> 00:38:18,000
+push supplements or pharmaceuticals.
+
+1168
+00:38:18,000 --> 00:38:20,000
+It's just powerful, unbiased data
+
+1169
+00:38:20,000 --> 00:38:23,000
+designed to help you own your health.
+
+1170
+00:38:23,000 --> 00:38:24,000
+So, folks, are you ready to sign up for
+
+1171
+00:38:24,000 --> 00:38:26,000
+Function? Of course, you are, because
+
+1172
+00:38:26,000 --> 00:38:28,000
+it's absolutely fantastic. I love it. I
+
+1173
+00:38:28,000 --> 00:38:30,000
+got my biomarkers checked. I found out
+
+1174
+00:38:30,000 --> 00:38:31,000
+what I was deficient in. You're going to
+
+1175
+00:38:31,000 --> 00:38:32,000
+find out what you're deficient in, too.
+
+1176
+00:38:32,000 --> 00:38:33,000
+You're going to optimize. You're going
+
+1177
+00:38:33,000 --> 00:38:34,000
+to supplement. You're going to become
+
+1178
+00:38:34,000 --> 00:38:37,000
+the best version of yourself.
+
+1179
+00:38:37,000 --> 00:38:38,000
+Learn more and join using our link.
+
+1180
+00:38:38,000 --> 00:38:40,000
+Function is in your 360° view to see
+
+1181
+00:38:40,000 --> 00:38:42,000
+what's happening in your body. And the
+
+1182
+00:38:42,000 --> 00:38:45,000
+first 1,000 people get a $100 credit
+
+1183
+00:38:45,000 --> 00:38:46,000
+towards their membership. Visit
+
+1184
+00:38:46,000 --> 00:38:48,000
+functionhealth.com/goodguys
+
+1185
+00:38:48,000 --> 00:38:51,000
+or use gift code good guys 100 at sign
+
+1186
+00:38:51,000 --> 00:38:53,000
+up to own your health. That's
+
+1187
+00:38:53,000 --> 00:38:58,000
+functionhealth.com/goodguys.
+
+1188
+00:38:58,000 --> 00:39:00,000
+Rings? Like, or Is it called the ring or
+
+1189
+00:39:00,000 --> 00:39:01,000
+Instagram rings?
+
+1190
+00:39:01,000 --> 00:39:02,000
+&gt;&gt; Rings. Just rings.
+
+1191
+00:39:02,000 --> 00:39:05,000
+&gt;&gt; The award show? Rings, rings, rings.
+
+1192
+00:39:05,000 --> 00:39:06,000
+Josh, you've heard of rings? No, what is
+
+1193
+00:39:06,000 --> 00:39:08,000
+this? Another award I'm not nominated
+
+1194
+00:39:08,000 --> 00:39:09,000
+for?
+
+1195
+00:39:09,000 --> 00:39:11,000
+Yeah, ring Well, we need to find out how
+
+1196
+00:39:11,000 --> 00:39:13,000
+we get nominated for rings.
+
+1197
+00:39:13,000 --> 00:39:14,000
+&gt;&gt; [laughter]
+
+1198
+00:39:14,000 --> 00:39:15,000
+&gt;&gt; Oh.
+
+1199
+00:39:15,000 --> 00:39:19,000
+Really? Rings Rings is the Emmys of
+
+1200
+00:39:19,000 --> 00:39:21,000
+Instagram. They are awarding creators.
+
+1201
+00:39:21,000 --> 00:39:24,000
+They have a format. And we were nowhere
+
+1202
+00:39:24,000 --> 00:39:25,000
+to be found.
+
+1203
+00:39:25,000 --> 00:39:26,000
+&gt;&gt; [laughter]
+
+1204
+00:39:26,000 --> 00:39:29,000
+&gt;&gt; We get it. Give it to I show speed. What
+
+1205
+00:39:29,000 --> 00:39:30,000
+did he say?
+
+1206
+00:39:30,000 --> 00:39:31,000
+He's so talented. [laughter]
+
+1207
+00:39:31,000 --> 00:39:33,000
+Something like that. Something like
+
+1208
+00:39:33,000 --> 00:39:36,000
+that. Oh, man. Oh, god. When is that? Uh
+
+1209
+00:39:36,000 --> 00:39:38,000
+so, we just did our first
+
+1210
+00:39:38,000 --> 00:39:40,000
+&gt;&gt; It happened. It happened. I didn't even
+
+1211
+00:39:40,000 --> 00:39:41,000
+get [laughter] an invite. It happened.
+
+1212
+00:39:41,000 --> 00:39:44,000
+No, we lost. It's over. We lost.
+
+1213
+00:39:44,000 --> 00:39:46,000
+&gt;&gt; small.
+
+1214
+00:39:46,000 --> 00:39:49,000
+The idea was to try to recognize
+
+1215
+00:39:49,000 --> 00:39:51,000
+creatives from different countries and
+
+1216
+00:39:51,000 --> 00:39:54,000
+in different verticals. And do something
+
+1217
+00:39:54,000 --> 00:39:56,000
+small to start. I don't think you can go
+
+1218
+00:39:56,000 --> 00:39:57,000
+out of the gate if you want this to
+
+1219
+00:39:57,000 --> 00:39:59,000
+matter long term and try to blow it out
+
+1220
+00:39:59,000 --> 00:40:00,000
+of the water. You got to like build it
+
+1221
+00:40:00,000 --> 00:40:02,000
+up and earn that credibility over time.
+
+1222
+00:40:02,000 --> 00:40:03,000
+So, we'll see how it goes.
+
+1223
+00:40:03,000 --> 00:40:08,000
+But, we had about 13 12 or 13 judges
+
+1224
+00:40:08,000 --> 00:40:10,000
+who nominated people plus a bunch that
+
+1225
+00:40:10,000 --> 00:40:12,000
+we pulled just from Instagram and then
+
+1226
+00:40:12,000 --> 00:40:15,000
+they voted and then we had 25 winners.
+
+1227
+00:40:15,000 --> 00:40:18,000
+We just had a dinner in New York about a
+
+1228
+00:40:18,000 --> 00:40:19,000
+week or two ago.
+
+1229
+00:40:19,000 --> 00:40:22,000
+And we gave them an actual ring
+
+1230
+00:40:22,000 --> 00:40:24,000
+designed by this amazingly talented
+
+1231
+00:40:24,000 --> 00:40:26,000
+designer named Grace Wales Bonner out of
+
+1232
+00:40:26,000 --> 00:40:27,000
+London.
+
+1233
+00:40:27,000 --> 00:40:29,000
+Actually, she got hired to be the
+
+1234
+00:40:29,000 --> 00:40:31,000
+creative director for Hermes men like
+
+1235
+00:40:31,000 --> 00:40:32,000
+the next week.
+
+1236
+00:40:32,000 --> 00:40:35,000
+And we also gave him a couple kind of
+
+1237
+00:40:35,000 --> 00:40:38,000
+fun little things in Instagram. So,
+
+1238
+00:40:38,000 --> 00:40:41,000
+they can they get the they get a
+
+1239
+00:40:41,000 --> 00:40:43,000
+their story ring is a different style,
+
+1240
+00:40:43,000 --> 00:40:45,000
+you know, a ring. They can make their
+
+1241
+00:40:45,000 --> 00:40:47,000
+profile any color they want. So, if you
+
+1242
+00:40:47,000 --> 00:40:49,000
+stumble upon one of these profiles and
+
+1243
+00:40:49,000 --> 00:40:50,000
+it's just green or wild yellow that
+
+1244
+00:40:50,000 --> 00:40:52,000
+they're they're one of the winners. And
+
+1245
+00:40:52,000 --> 00:40:53,000
+there's one or two more things going to
+
+1246
+00:40:53,000 --> 00:40:55,000
+come out for them over the next couple
+
+1247
+00:40:55,000 --> 00:40:58,000
+months. But, just try to give some of
+
+1248
+00:40:58,000 --> 00:40:59,000
+the most interesting creatives and
+
+1249
+00:40:59,000 --> 00:41:00,000
+smaller ones
+
+1250
+00:41:00,000 --> 00:41:03,000
+their flowers. Some of the judges were
+
+1251
+00:41:03,000 --> 00:41:05,000
+pretty big names, but we tried to find
+
+1252
+00:41:05,000 --> 00:41:07,000
+up-and-coming talent on the on the on
+
+1253
+00:41:07,000 --> 00:41:09,000
+the creative side.
+
+1254
+00:41:09,000 --> 00:41:12,000
+That's cool. That Super cool. Yeah, I
+
+1255
+00:41:12,000 --> 00:41:14,000
+like the small I like you awarding
+
+1256
+00:41:14,000 --> 00:41:16,000
+smaller creatives cuz pretty much
+
+1257
+00:41:16,000 --> 00:41:18,000
+whatever Ben and I are sending back and
+
+1258
+00:41:18,000 --> 00:41:20,000
+forth it other than the New York City
+
+1259
+00:41:20,000 --> 00:41:24,000
+mayoral race Ben [laughter]
+
+1260
+00:41:24,000 --> 00:41:27,000
+and I sending like these people have 40
+
+1261
+00:41:27,000 --> 00:41:29,000
+followers, but we'll be like this is
+
+1262
+00:41:29,000 --> 00:41:30,000
+maybe some of the great comedy.
+
+1263
+00:41:30,000 --> 00:41:33,000
+&gt;&gt; That's the best stuff. When you can find
+
+1264
+00:41:33,000 --> 00:41:35,000
+a small creator who just crushes, that's
+
+1265
+00:41:35,000 --> 00:41:38,000
+I think that's the good stuff. Oh, yeah.
+
+1266
+00:41:38,000 --> 00:41:40,000
+And news anchor fuck-ups Josh, have you
+
+1267
+00:41:40,000 --> 00:41:42,000
+seen these recently? The news anchor
+
+1268
+00:41:42,000 --> 00:41:42,000
+fuck-ups.
+
+1269
+00:41:42,000 --> 00:41:44,000
+&gt;&gt; Shepard Smith
+
+1270
+00:41:44,000 --> 00:41:47,000
+The woman reading Latits, have you seen
+
+1271
+00:41:47,000 --> 00:41:49,000
+that one? It's the she's trying to
+
+1272
+00:41:49,000 --> 00:41:51,000
+pronounce a town.
+
+1273
+00:41:51,000 --> 00:41:51,000
+&gt;&gt; [laughter]
+
+1274
+00:41:51,000 --> 00:41:55,000
+&gt;&gt; Oh, no. And she just goes Latits and
+
+1275
+00:41:55,000 --> 00:41:57,000
+they're like it's Letits.
+
+1276
+00:41:57,000 --> 00:41:57,000
+&gt;&gt; [laughter]
+
+1277
+00:41:57,000 --> 00:41:59,000
+&gt;&gt; I just saw a reel this morning. It was
+
+1278
+00:41:59,000 --> 00:42:01,000
+just mispronunciations of news anchors
+
+1279
+00:42:01,000 --> 00:42:02,000
+in a row just getting progressively
+
+1280
+00:42:02,000 --> 00:42:04,000
+worse worse and worse. Oh, yeah.
+
+1281
+00:42:04,000 --> 00:42:05,000
+&gt;&gt; The only one I can remember was this guy
+
+1282
+00:42:05,000 --> 00:42:09,000
+read manslaughter as man's laughter.
+
+1283
+00:42:09,000 --> 00:42:10,000
+Oh, that's good. So good.
+
+1284
+00:42:10,000 --> 00:42:11,000
+&gt;&gt; [laughter]
+
+1285
+00:42:11,000 --> 00:42:14,000
+&gt;&gt; They're so good. All of them? All of
+
+1286
+00:42:14,000 --> 00:42:17,000
+them. All of them are so funny.
+
+1287
+00:42:17,000 --> 00:42:18,000
+Oh, man.
+
+1288
+00:42:18,000 --> 00:42:19,000
+&gt;&gt; Man's laughter.
+
+1289
+00:42:19,000 --> 00:42:20,000
+&gt;&gt; [laughter]
+
+1290
+00:42:20,000 --> 00:42:21,000
+&gt;&gt; What um can we can I put you on the
+
+1291
+00:42:21,000 --> 00:42:22,000
+spot?
+
+1292
+00:42:22,000 --> 00:42:25,000
+&gt;&gt; Please. Can we know the president of
+
+1293
+00:42:25,000 --> 00:42:27,000
+Instagram screen time? Oh, yeah.
+
+1294
+00:42:27,000 --> 00:42:29,000
+Yeah, sure. Hold on. Where's my screen?
+
+1295
+00:42:29,000 --> 00:42:30,000
+I I was trying to figure out where you
+
+1296
+00:42:30,000 --> 00:42:32,000
+were going with that. I was like, "Wow,
+
+1297
+00:42:32,000 --> 00:42:35,000
+he's really asking his salary?"
+
+1298
+00:42:35,000 --> 00:42:36,000
+&gt;&gt; [laughter]
+
+1299
+00:42:36,000 --> 00:42:38,000
+&gt;&gt; I'm sure that's public. I'm a
+
+1300
+00:42:38,000 --> 00:42:40,000
+shareholder. I can find that out right
+
+1301
+00:42:40,000 --> 00:42:41,000
+now. Oh, my.
+
+1302
+00:42:41,000 --> 00:42:45,000
+&gt;&gt; Please. All right.
+
+1303
+00:42:45,000 --> 00:42:48,000
+&gt;&gt; [laughter]
+
+1304
+00:42:48,000 --> 00:42:50,000
+&gt;&gt; Where is it? Where's screen time? Did
+
+1305
+00:42:50,000 --> 00:42:52,000
+they move screen time in the new one?
+
+1306
+00:42:52,000 --> 00:42:55,000
+Here it is. Got it. Okay. So,
+
+1307
+00:42:55,000 --> 00:42:58,000
+average this week 4 hours and 19 minutes
+
+1308
+00:42:58,000 --> 00:42:58,000
+a day.
+
+1309
+00:42:58,000 --> 00:42:58,000
+&gt;&gt; [snorts]
+
+1310
+00:42:58,000 --> 00:43:01,000
+&gt;&gt; Stop it. What the hell? You're the
+
+1311
+00:43:01,000 --> 00:43:02,000
+president of the biggest social media
+
+1312
+00:43:02,000 --> 00:43:04,000
+company in the world and I'm double on
+
+1313
+00:43:04,000 --> 00:43:06,000
+my phone. Yeah, well,
+
+1314
+00:43:06,000 --> 00:43:06,000
+&gt;&gt; Yeah.
+
+1315
+00:43:06,000 --> 00:43:09,000
+That's why he's the president. He uses
+
+1316
+00:43:09,000 --> 00:43:10,000
+your phone.
+
+1317
+00:43:10,000 --> 00:43:12,000
+&gt;&gt; [laughter]
+
+1318
+00:43:12,000 --> 00:43:14,000
+&gt;&gt; It doesn't maybe is this No, I think
+
+1319
+00:43:14,000 --> 00:43:15,000
+that's I mean that's what it says. I
+
+1320
+00:43:15,000 --> 00:43:17,000
+didn't This phone is new. So, I don't
+
+1321
+00:43:17,000 --> 00:43:19,000
+have Sundays. So, maybe it dragged the
+
+1322
+00:43:19,000 --> 00:43:20,000
+average down, but I think it does it
+
+1323
+00:43:20,000 --> 00:43:21,000
+properly.
+
+1324
+00:43:21,000 --> 00:43:23,000
+&gt;&gt; Can that be? And how much time on
+
+1325
+00:43:23,000 --> 00:43:25,000
+Instagram? Well,
+
+1326
+00:43:25,000 --> 00:43:27,000
+it won't it puts all of the because they
+
+1327
+00:43:27,000 --> 00:43:29,000
+have the dev builds for all the meta
+
+1328
+00:43:29,000 --> 00:43:31,000
+apps. It puts them all together. So, I
+
+1329
+00:43:31,000 --> 00:43:32,000
+can't really see that. Plus, I spend a
+
+1330
+00:43:32,000 --> 00:43:34,000
+lot of time on my desktop on it. So, it
+
+1331
+00:43:34,000 --> 00:43:36,000
+probably underestimates it. Wow, I'm not
+
+1332
+00:43:36,000 --> 00:43:39,000
+a big Instagram desktop guy. I'm not Is
+
+1333
+00:43:39,000 --> 00:43:41,000
+it What's that experience like? I for me
+
+1334
+00:43:41,000 --> 00:43:43,000
+it's work cuz I'm using it to like I
+
+1335
+00:43:43,000 --> 00:43:44,000
+like I said, I like to go in the
+
+1336
+00:43:44,000 --> 00:43:46,000
+requests folder. So, I'll go in there
+
+1337
+00:43:46,000 --> 00:43:48,000
+when I'm working if I'm between
+
+1338
+00:43:48,000 --> 00:43:50,000
+meetings, I'll go there and I'll just go
+
+1339
+00:43:50,000 --> 00:43:51,000
+through a bunch of requests and send a
+
+1340
+00:43:51,000 --> 00:43:53,000
+bunch of replies. And what does a day
+
+1341
+00:43:53,000 --> 00:43:56,000
+look like for you? Like an average day
+
+1342
+00:43:56,000 --> 00:43:59,000
+as the president of Instagram? It's very
+
+1343
+00:43:59,000 --> 00:44:00,000
+uh
+
+1344
+00:44:00,000 --> 00:44:03,000
+it's a very strange job. So, it could be
+
+1345
+00:44:03,000 --> 00:44:05,000
+it just I mean, there's a there's How do
+
+1346
+00:44:05,000 --> 00:44:06,000
+I explain this?
+
+1347
+00:44:06,000 --> 00:44:08,000
+There's a few modes of operation.
+
+1348
+00:44:08,000 --> 00:44:09,000
+There's one like what a typical day
+
+1349
+00:44:09,000 --> 00:44:11,000
+looks like. So, a typical day would be
+
+1350
+00:44:11,000 --> 00:44:12,000
+go to the office, you know, obviously
+
+1351
+00:44:12,000 --> 00:44:14,000
+wake up
+
+1352
+00:44:14,000 --> 00:44:16,000
+wake up the kid well, they wake me up,
+
+1353
+00:44:16,000 --> 00:44:17,000
+feed them breakfast, then get them out
+
+1354
+00:44:17,000 --> 00:44:18,000
+of the house. We talked about the kids
+
+1355
+00:44:18,000 --> 00:44:20,000
+stuff before maybe before the book was
+
+1356
+00:44:20,000 --> 00:44:21,000
+recording. But, the the first 90 minutes
+
+1357
+00:44:21,000 --> 00:44:23,000
+is 100% about these three boys who don't
+
+1358
+00:44:23,000 --> 00:44:25,000
+listen to me. Ah, Dad, I want cereal.
+
+1359
+00:44:25,000 --> 00:44:27,000
+I'm the president of Instagram.
+
+1360
+00:44:27,000 --> 00:44:29,000
+[laughter]
+
+1361
+00:44:29,000 --> 00:44:32,000
+Can you get the Lucky Charms? Come on,
+
+1362
+00:44:32,000 --> 00:44:33,000
+Dad. Why [laughter] wait?
+
+1363
+00:44:33,000 --> 00:44:34,000
+That was good.
+
+1364
+00:44:34,000 --> 00:44:36,000
+I love how Adam Waheed keeps coming up
+
+1365
+00:44:36,000 --> 00:44:37,000
+with this.
+
+1366
+00:44:37,000 --> 00:44:38,000
+He's [laughter]
+
+1367
+00:44:38,000 --> 00:44:39,000
+a sweetie.
+
+1368
+00:44:39,000 --> 00:44:43,000
+He's weird. YEAH, GOOD.
+
+1369
+00:44:43,000 --> 00:44:46,000
+&gt;&gt; [laughter]
+
+1370
+00:44:46,000 --> 00:44:48,000
+&gt;&gt; GRACIE ANN, THE [laughter] BIG WINNER.
+
+1371
+00:44:48,000 --> 00:44:51,000
+OH, my god. He has nightmares about Adam
+
+1372
+00:44:51,000 --> 00:44:53,000
+Waheed waking up in the middle of the
+
+1373
+00:44:53,000 --> 00:44:54,000
+night.
+
+1374
+00:44:54,000 --> 00:44:56,000
+Shut [laughter] up.
+
+1375
+00:44:56,000 --> 00:44:59,000
+Okay, so a typical day is just a bunch
+
+1376
+00:44:59,000 --> 00:45:00,000
+of meetings and then a bunch of
+
+1377
+00:45:00,000 --> 00:45:02,000
+spreadsheets and emails. Like I'll meet
+
+1378
+00:45:02,000 --> 00:45:04,000
+with my my staff, the people who work
+
+1379
+00:45:04,000 --> 00:45:05,000
+for me directly. I'll do a couple
+
+1380
+00:45:05,000 --> 00:45:07,000
+product reviews of teams who are working
+
+1381
+00:45:07,000 --> 00:45:08,000
+on things like maybe a team is working
+
+1382
+00:45:08,000 --> 00:45:11,000
+on like a new safety feature. Like you
+
+1383
+00:45:11,000 --> 00:45:12,000
+know, we have like team who worked on
+
+1384
+00:45:12,000 --> 00:45:13,000
+teen accounts which launched last year.
+
+1385
+00:45:13,000 --> 00:45:14,000
+So, I'll meet with them and go over
+
+1386
+00:45:14,000 --> 00:45:16,000
+their road map.
+
+1387
+00:45:16,000 --> 00:45:18,000
+I'll go represent Instagram within Meta
+
+1388
+00:45:18,000 --> 00:45:19,000
+at other meetings. So, maybe there's a
+
+1389
+00:45:19,000 --> 00:45:21,000
+leadership meeting across the execs from
+
+1390
+00:45:21,000 --> 00:45:23,000
+all the family all the app leads to talk
+
+1391
+00:45:23,000 --> 00:45:25,000
+about something.
+
+1392
+00:45:25,000 --> 00:45:27,000
+A one-on-one with someone. It's very
+
+1393
+00:45:27,000 --> 00:45:29,000
+schizophrenic. It could be from safety
+
+1394
+00:45:29,000 --> 00:45:31,000
+to a new creative feature to meeting a
+
+1395
+00:45:31,000 --> 00:45:35,000
+creator to having a one-on-one to you
+
+1396
+00:45:35,000 --> 00:45:37,000
+know, I don't know whatever else comes
+
+1397
+00:45:37,000 --> 00:45:37,000
+up.
+
+1398
+00:45:37,000 --> 00:45:39,000
+But, then that's one mode of operation.
+
+1399
+00:45:39,000 --> 00:45:41,000
+And then the other mode is
+
+1400
+00:45:41,000 --> 00:45:42,000
+everything gets flipped on its head.
+
+1401
+00:45:42,000 --> 00:45:44,000
+Like I'll be on the road. So, you know,
+
+1402
+00:45:44,000 --> 00:45:47,000
+I you know, I'll go to India and I'll
+
+1403
+00:45:47,000 --> 00:45:50,000
+meet with a bunch of creators, do we'll
+
+1404
+00:45:50,000 --> 00:45:51,000
+host an event, I'll do a meeting with a
+
+1405
+00:45:51,000 --> 00:45:55,000
+minister or a policy maker. I'll do some
+
+1406
+00:45:55,000 --> 00:45:57,000
+press, you know, and then I'll get on a
+
+1407
+00:45:57,000 --> 00:46:00,000
+plane to go to New York and it'll be a
+
+1408
+00:46:00,000 --> 00:46:02,000
+completely different 3 days, you know.
+
+1409
+00:46:02,000 --> 00:46:05,000
+So, it can be and that's very like
+
+1410
+00:46:05,000 --> 00:46:07,000
+everything is different for between 2
+
+1411
+00:46:07,000 --> 00:46:09,000
+and 10 days and then I go back to my
+
+1412
+00:46:09,000 --> 00:46:12,000
+normal routine. And do you get like um
+
+1413
+00:46:12,000 --> 00:46:14,000
+do you get briefed in the morning? Like
+
+1414
+00:46:14,000 --> 00:46:15,000
+does your team go like, "Here's what
+
+1415
+00:46:15,000 --> 00:46:17,000
+happened in the last 24 hours on
+
+1416
+00:46:17,000 --> 00:46:19,000
+Instagram?" Or here Oh, no, that sounds
+
+1417
+00:46:19,000 --> 00:46:21,000
+nice. No, I I have a bunch of dashboards
+
+1418
+00:46:21,000 --> 00:46:23,000
+[laughter] that I look at. So, in the
+
+1419
+00:46:23,000 --> 00:46:26,000
+morning I will almost always
+
+1420
+00:46:26,000 --> 00:46:28,000
+start by
+
+1421
+00:46:28,000 --> 00:46:30,000
+getting a sense of you know, my inbox.
+
+1422
+00:46:30,000 --> 00:46:31,000
+So, you know, I get a lot of emails. And
+
+1423
+00:46:31,000 --> 00:46:34,000
+then I'll take a look at what's what how
+
+1424
+00:46:34,000 --> 00:46:37,000
+the platform is doing. So, I'll look at
+
+1425
+00:46:37,000 --> 00:46:38,000
+all right like how you know, are people
+
+1426
+00:46:38,000 --> 00:46:40,000
+using it you know, more or less? Are
+
+1427
+00:46:40,000 --> 00:46:42,000
+they sharing more or less? You know,
+
+1428
+00:46:42,000 --> 00:46:43,000
+what does it look How does it How do the
+
+1429
+00:46:43,000 --> 00:46:45,000
+trends look in different countries? Is
+
+1430
+00:46:45,000 --> 00:46:47,000
+there something unexpected going on to
+
+1431
+00:46:47,000 --> 00:46:50,000
+just to ground myself in the data.
+
+1432
+00:46:50,000 --> 00:46:54,000
+And what what happens when like you get
+
+1433
+00:46:54,000 --> 00:46:57,000
+a call that Kanye's popping off, right?
+
+1434
+00:46:57,000 --> 00:46:59,000
+On on Instagram. I'm sure people are
+
+1435
+00:46:59,000 --> 00:47:00,000
+going to love three Jews talking about
+
+1436
+00:47:00,000 --> 00:47:03,000
+Kanye. Um but like you know, What could
+
+1437
+00:47:03,000 --> 00:47:04,000
+go wrong?
+
+1438
+00:47:04,000 --> 00:47:05,000
+&gt;&gt; It's a part
+
+1439
+00:47:05,000 --> 00:47:06,000
+&gt;&gt; [laughter]
+
+1440
+00:47:06,000 --> 00:47:07,000
+&gt;&gt; It's a part of
+
+1441
+00:47:07,000 --> 00:47:10,000
+he just came to mind, but like someone
+
+1442
+00:47:10,000 --> 00:47:12,000
+with a massive amount of followers is
+
+1443
+00:47:12,000 --> 00:47:15,000
+starting to go is be slightly erratic.
+
+1444
+00:47:15,000 --> 00:47:18,000
+What does that chain of command look
+
+1445
+00:47:18,000 --> 00:47:21,000
+like? What what actions take are taken?
+
+1446
+00:47:21,000 --> 00:47:23,000
+So, if someone so,
+
+1447
+00:47:23,000 --> 00:47:25,000
+even if you're Kanye, if you're
+
+1448
+00:47:25,000 --> 00:47:27,000
+anybody who's a big account, if you're
+
+1449
+00:47:27,000 --> 00:47:29,000
+violating the community standards and
+
+1450
+00:47:29,000 --> 00:47:31,000
+the content doesn't isn't allowed on
+
+1451
+00:47:31,000 --> 00:47:34,000
+Instagram, it'll get taken down.
+
+1452
+00:47:34,000 --> 00:47:36,000
+Um so, that's not really much of a
+
+1453
+00:47:36,000 --> 00:47:38,000
+conversation. If someone is like pushing
+
+1454
+00:47:38,000 --> 00:47:39,000
+the boundaries or starting to get a
+
+1455
+00:47:39,000 --> 00:47:40,000
+little you know, it looks like they
+
+1456
+00:47:40,000 --> 00:47:42,000
+might be going in a weird place or
+
+1457
+00:47:42,000 --> 00:47:44,000
+something's off,
+
+1458
+00:47:44,000 --> 00:47:45,000
+it's it's the partnerships team that
+
+1459
+00:47:45,000 --> 00:47:47,000
+will handle it. So, they'll like try to
+
+1460
+00:47:47,000 --> 00:47:48,000
+talk to them and they'll be like, "Hey,
+
+1461
+00:47:48,000 --> 00:47:51,000
+just
+
+1462
+00:47:51,000 --> 00:47:52,000
+so you know, like this is what is
+
+1463
+00:47:52,000 --> 00:47:54,000
+allowed. This is what's not allowed."
+
+1464
+00:47:54,000 --> 00:47:56,000
+Like try to make sure that they have
+
+1465
+00:47:56,000 --> 00:47:57,000
+good information so they can make
+
+1466
+00:47:57,000 --> 00:47:59,000
+informed decisions about what to do or
+
+1467
+00:47:59,000 --> 00:48:00,000
+not do on the platform. And then but
+
+1468
+00:48:00,000 --> 00:48:02,000
+ultimately, they get
+
+1469
+00:48:02,000 --> 00:48:06,000
+um we have to try and do our best to
+
+1470
+00:48:06,000 --> 00:48:09,000
+balance both speech which we believe in
+
+1471
+00:48:09,000 --> 00:48:10,000
+deeply and we think is super important,
+
+1472
+00:48:10,000 --> 00:48:12,000
+but also safety which matters a ton.
+
+1473
+00:48:12,000 --> 00:48:15,000
+But, it must also be it you know, when
+
+1474
+00:48:15,000 --> 00:48:17,000
+you're going to lock someone out of
+
+1475
+00:48:17,000 --> 00:48:18,000
+their account that's a super public
+
+1476
+00:48:18,000 --> 00:48:21,000
+person, I'm sure there's there's a big
+
+1477
+00:48:21,000 --> 00:48:23,000
+conversation right of how close to the
+
+1478
+00:48:23,000 --> 00:48:25,000
+edge are they getting? Yeah, yeah. We'll
+
+1479
+00:48:25,000 --> 00:48:26,000
+try to just make sure we don't make any
+
+1480
+00:48:26,000 --> 00:48:28,000
+mistakes. So, if it's someone if it's a
+
+1481
+00:48:28,000 --> 00:48:30,000
+major account, we'll just try to make
+
+1482
+00:48:30,000 --> 00:48:32,000
+sure cuz we make a I mean, there's
+
+1483
+00:48:32,000 --> 00:48:34,000
+millions of things reported every day if
+
+1484
+00:48:34,000 --> 00:48:35,000
+not more. So,
+
+1485
+00:48:35,000 --> 00:48:37,000
+there's systems that try to do this at
+
+1486
+00:48:37,000 --> 00:48:39,000
+scale. There's both classifiers and
+
+1487
+00:48:39,000 --> 00:48:42,000
+technology but also tens of thousands of
+
+1488
+00:48:42,000 --> 00:48:44,000
+people who look at content and make
+
+1489
+00:48:44,000 --> 00:48:45,000
+decisions. They're content moderators.
+
+1490
+00:48:45,000 --> 00:48:46,000
+But, if it's a major account, we'll just
+
+1491
+00:48:46,000 --> 00:48:48,000
+try to really make sure that we don't
+
+1492
+00:48:48,000 --> 00:48:49,000
+make a mistake. We'll double triple
+
+1493
+00:48:49,000 --> 00:48:51,000
+check it. Make sure someone senior looks
+
+1494
+00:48:51,000 --> 00:48:52,000
+at it and is like, "No, this is or this
+
+1495
+00:48:52,000 --> 00:48:54,000
+is not violating." Right.
+
+1496
+00:48:54,000 --> 00:48:57,000
+Good to know. It's more costly to make
+
+1497
+00:48:57,000 --> 00:48:59,000
+mistakes with big accounts. So, we try
+
+1498
+00:48:59,000 --> 00:49:01,000
+to invest more to make sure we make less
+
+1499
+00:49:01,000 --> 00:49:02,000
+mistakes. But, we want to make less
+
+1500
+00:49:02,000 --> 00:49:03,000
+mistakes everywhere.
+
+1501
+00:49:03,000 --> 00:49:05,000
+It's not good for us ever to make a
+
+1502
+00:49:05,000 --> 00:49:06,000
+mistake.
+
+1503
+00:49:06,000 --> 00:49:07,000
+I mean, you think about someone like who
+
+1504
+00:49:07,000 --> 00:49:10,000
+is the number one person? Ronaldo? On
+
+1505
+00:49:10,000 --> 00:49:12,000
+Instagram? By followers?
+
+1506
+00:49:12,000 --> 00:49:13,000
+&gt;&gt; Yeah.
+
+1507
+00:49:13,000 --> 00:49:16,000
+Um it might be. I think it might be. I
+
+1508
+00:49:16,000 --> 00:49:17,000
+mean, actually I think the Instagram
+
+1509
+00:49:17,000 --> 00:49:19,000
+account might be the biggest is the
+
+1510
+00:49:19,000 --> 00:49:21,000
+biggest, but that's not really fair. So,
+
+1511
+00:49:21,000 --> 00:49:23,000
+Ronaldo's one of the biggest. Why is
+
+1512
+00:49:23,000 --> 00:49:25,000
+that not fair? Just cuz it it might not
+
+1513
+00:49:25,000 --> 00:49:27,000
+get as much engagement as someone with
+
+1514
+00:49:27,000 --> 00:49:29,000
+less followers? No, it's just it is On
+
+1515
+00:49:29,000 --> 00:49:31,000
+Instagram, you expect people to go find
+
+1516
+00:49:31,000 --> 00:49:33,000
+and search for Instagram. I think it's
+
+1517
+00:49:33,000 --> 00:49:35,000
+just I'm I'm surprised that you guys
+
+1518
+00:49:35,000 --> 00:49:38,000
+didn't pull a YouTube
+
+1519
+00:49:38,000 --> 00:49:40,000
+on like what Oh yeah, yeah, or no, or
+
+1520
+00:49:40,000 --> 00:49:43,000
+Tom. When on on the Apple on the Apple
+
+1521
+00:49:43,000 --> 00:49:45,000
+product
+
+1522
+00:49:45,000 --> 00:49:48,000
+you got Yeah, like you got the Nano and
+
+1523
+00:49:48,000 --> 00:49:50,000
+that stupid YouTube album was on it.
+
+1524
+00:49:50,000 --> 00:49:51,000
+Like I'm surprised
+
+1525
+00:49:51,000 --> 00:49:53,000
+&gt;&gt; in your phone into your car for like 5
+
+1526
+00:49:53,000 --> 00:49:55,000
+years.
+
+1527
+00:49:55,000 --> 00:49:57,000
+Yes, it would play that stupid Yeah, it
+
+1528
+00:49:57,000 --> 00:49:59,000
+was bad. It would play.
+
+1529
+00:49:59,000 --> 00:50:01,000
+Like I'm surprised that when you I'm
+
+1530
+00:50:01,000 --> 00:50:02,000
+surprised that when you download
+
+1531
+00:50:02,000 --> 00:50:03,000
+Instagram you're not automatic like I'm
+
+1532
+00:50:03,000 --> 00:50:05,000
+surprised Instagram doesn't have 3
+
+1533
+00:50:05,000 --> 00:50:06,000
+billion followers.
+
+1534
+00:50:06,000 --> 00:50:08,000
+&gt;&gt; No, I think it's good for us to to I
+
+1535
+00:50:08,000 --> 00:50:10,000
+mean look it would be
+
+1536
+00:50:10,000 --> 00:50:12,000
+it wouldn't be crazy. People have done
+
+1537
+00:50:12,000 --> 00:50:14,000
+it, but I think it's good for us to
+
+1538
+00:50:14,000 --> 00:50:16,000
+experience what it's like to actually
+
+1539
+00:50:16,000 --> 00:50:17,000
+try to use the platform. And that that
+
+1540
+00:50:17,000 --> 00:50:19,000
+builds empathy but also just
+
+1541
+00:50:19,000 --> 00:50:20,000
+understanding of what's working what's
+
+1542
+00:50:20,000 --> 00:50:21,000
+not. There's not that many people who
+
+1543
+00:50:21,000 --> 00:50:23,000
+work at Instagram who have large
+
+1544
+00:50:23,000 --> 00:50:25,000
+followings. There's maybe like two or
+
+1545
+00:50:25,000 --> 00:50:27,000
+three of us. So actually I find bugs all
+
+1546
+00:50:27,000 --> 00:50:29,000
+the time that the team doesn't find cuz
+
+1547
+00:50:29,000 --> 00:50:30,000
+they don't have the same experience cuz
+
+1548
+00:50:30,000 --> 00:50:32,000
+they don't have
+
+1549
+00:50:32,000 --> 00:50:33,000
+thousands of people messaging them angry
+
+1550
+00:50:33,000 --> 00:50:36,000
+things, you know, so they like their DMs
+
+1551
+00:50:36,000 --> 00:50:37,000
+just look very different. The request
+
+1552
+00:50:37,000 --> 00:50:39,000
+folder loads just fine for them. And I'm
+
+1553
+00:50:39,000 --> 00:50:40,000
+like this is slow as hell. Like we got
+
+1554
+00:50:40,000 --> 00:50:42,000
+to fix this. Can you ever reply with a
+
+1555
+00:50:42,000 --> 00:50:44,000
+little sass?
+
+1556
+00:50:44,000 --> 00:50:46,000
+Just a little. I think [laughter] about
+
+1557
+00:50:46,000 --> 00:50:47,000
+it all time.
+
+1558
+00:50:47,000 --> 00:50:50,000
+I think about it all the time. I I have
+
+1559
+00:50:50,000 --> 00:50:51,000
+recently.
+
+1560
+00:50:51,000 --> 00:50:53,000
+&gt;&gt; Really? What Give me a good example.
+
+1561
+00:50:53,000 --> 00:50:56,000
+Clelia Clelia was a little sass.
+
+1562
+00:50:56,000 --> 00:50:58,000
+&gt;&gt; Not a little. That was cute.
+
+1563
+00:50:58,000 --> 00:51:00,000
+&gt;&gt; [laughter]
+
+1564
+00:51:00,000 --> 00:51:03,000
+&gt;&gt; I am I work with a a foundation called
+
+1565
+00:51:03,000 --> 00:51:05,000
+Feed the Streets in LA. Mhm. We're a
+
+1566
+00:51:05,000 --> 00:51:07,000
+very small grassroots and we do four
+
+1567
+00:51:07,000 --> 00:51:09,000
+feeds a week on Skid Row, MacArthur
+
+1568
+00:51:09,000 --> 00:51:10,000
+Park, just helping the homeless.
+
+1569
+00:51:10,000 --> 00:51:12,000
+&gt;&gt; I mean that's like where they need it
+
+1570
+00:51:12,000 --> 00:51:14,000
+most. Yeah, and it's great and it's just
+
+1571
+00:51:14,000 --> 00:51:17,000
+a group of us. And so when I'm there I
+
+1572
+00:51:17,000 --> 00:51:19,000
+always will try to post something cuz I
+
+1573
+00:51:19,000 --> 00:51:21,000
+have 17 million followers. Like
+
+1574
+00:51:21,000 --> 00:51:23,000
+can't hurt. Yeah. And also we don't have
+
+1575
+00:51:23,000 --> 00:51:24,000
+a social media team.
+
+1576
+00:51:24,000 --> 00:51:27,000
+&gt;&gt; Yeah. And someone wrote me something to
+
+1577
+00:51:27,000 --> 00:51:29,000
+the effect of like feeding the homeless
+
+1578
+00:51:29,000 --> 00:51:31,000
+and posting it on your social media,
+
+1579
+00:51:31,000 --> 00:51:32,000
+what a loser.
+
+1580
+00:51:32,000 --> 00:51:33,000
+&gt;&gt; [laughter]
+
+1581
+00:51:33,000 --> 00:51:34,000
+&gt;&gt; And I was like
+
+1582
+00:51:34,000 --> 00:51:36,000
+This will not stand.
+
+1583
+00:51:36,000 --> 00:51:38,000
+Someone said something on the internet
+
+1584
+00:51:38,000 --> 00:51:40,000
+somewhere I disagree with. I must
+
+1585
+00:51:40,000 --> 00:51:43,000
+engage. I was like brother. So I wrote
+
+1586
+00:51:43,000 --> 00:51:46,000
+him back. I said, "Hi." I was [laughter]
+
+1587
+00:51:46,000 --> 00:51:47,000
+like
+
+1588
+00:51:47,000 --> 00:51:49,000
+"So glad you discovered Feed the Streets
+
+1589
+00:51:49,000 --> 00:51:52,000
+on social media as many of our
+
+1590
+00:51:52,000 --> 00:51:54,000
+volunteers have because of posts like
+
+1591
+00:51:54,000 --> 00:51:55,000
+this."
+
+1592
+00:51:55,000 --> 00:51:55,000
+&gt;&gt; [laughter]
+
+1593
+00:51:55,000 --> 00:51:57,000
+&gt;&gt; "I said, please feel free to join us
+
+1594
+00:51:57,000 --> 00:52:00,000
+anytime." And I ended it with "I'm there
+
+1595
+00:52:00,000 --> 00:52:01,000
+every week.
+
+1596
+00:52:01,000 --> 00:52:05,000
+Come find me, dog." Oh man.
+
+1597
+00:52:05,000 --> 00:52:06,000
+I didn't write "Come find me, dog." but
+
+1598
+00:52:06,000 --> 00:52:08,000
+you know, it was inferred.
+
+1599
+00:52:08,000 --> 00:52:09,000
+&gt;&gt; [laughter]
+
+1600
+00:52:09,000 --> 00:52:11,000
+&gt;&gt; No, I don't think that I don't think I
+
+1601
+00:52:11,000 --> 00:52:12,000
+don't think it's
+
+1602
+00:52:12,000 --> 00:52:14,000
+I don't think it would go well for me to
+
+1603
+00:52:14,000 --> 00:52:16,000
+to get sassy. So I think I should just
+
+1604
+00:52:16,000 --> 00:52:18,000
+keep it straight.
+
+1605
+00:52:18,000 --> 00:52:20,000
+It's always a temptation for a little
+
+1606
+00:52:20,000 --> 00:52:22,000
+sass.
+
+1607
+00:52:22,000 --> 00:52:22,000
+&gt;&gt; [music]
+
+1608
+00:52:22,000 --> 00:52:24,000
+&gt;&gt; This episode of the Good Guys podcast is
+
+1609
+00:52:24,000 --> 00:52:25,000
+brought to you by our friends at Warby
+
+1610
+00:52:25,000 --> 00:52:29,000
+Parker. Folks, I love Warby Parker. I
+
+1611
+00:52:29,000 --> 00:52:31,000
+love Warby Parker. I love Warby Parker.
+
+1612
+00:52:31,000 --> 00:52:33,000
+I wear Warby Parker. When you see me in
+
+1613
+00:52:33,000 --> 00:52:36,000
+those green shades, I'm wearing Warby
+
+1614
+00:52:36,000 --> 00:52:37,000
+Parker. Because Warby Parker is
+
+1615
+00:52:37,000 --> 00:52:40,000
+convenient. Because Warby Parker has
+
+1616
+00:52:40,000 --> 00:52:41,000
+wonderful customer service. Because
+
+1617
+00:52:41,000 --> 00:52:44,000
+Warby Parker is the right cost for a
+
+1618
+00:52:44,000 --> 00:52:46,000
+premium product. I walked into a Warby
+
+1619
+00:52:46,000 --> 00:52:49,000
+Parker Manhattan. I needed new glasses.
+
+1620
+00:52:49,000 --> 00:52:51,000
+I said to myself, you know, I don't want
+
+1621
+00:52:51,000 --> 00:52:53,000
+to pay too much for a pair of glasses,
+
+1622
+00:52:53,000 --> 00:52:54,000
+but I really want great glasses. And I
+
+1623
+00:52:54,000 --> 00:52:56,000
+want them right now. And I walked into a
+
+1624
+00:52:56,000 --> 00:52:58,000
+Warby Parker. I picked out what I
+
+1625
+00:52:58,000 --> 00:53:00,000
+wanted. I picked out those gorgeous
+
+1626
+00:53:00,000 --> 00:53:02,000
+green frames. I had a lovely person help
+
+1627
+00:53:02,000 --> 00:53:05,000
+me out. And I paid like literally $100.
+
+1628
+00:53:05,000 --> 00:53:07,000
+It was unparalleled how much cheaper
+
+1629
+00:53:07,000 --> 00:53:08,000
+Warby Parker was than any of the
+
+1630
+00:53:08,000 --> 00:53:11,000
+competitors that I have ever tried. And
+
+1631
+00:53:11,000 --> 00:53:13,000
+the best part is, folks, they have an
+
+1632
+00:53:13,000 --> 00:53:15,000
+eye doctor on site. So if you don't want
+
+1633
+00:53:15,000 --> 00:53:16,000
+to go to the eye doctor, wait for them
+
+1634
+00:53:16,000 --> 00:53:18,000
+to write a prescription, send it over to
+
+1635
+00:53:18,000 --> 00:53:19,000
+you, walk into a Warby Parker, you can
+
+1636
+00:53:19,000 --> 00:53:21,000
+do it literally right there. I did it
+
+1637
+00:53:21,000 --> 00:53:22,000
+right there. They also fit me for
+
+1638
+00:53:22,000 --> 00:53:24,000
+contacts. They fit me for contacts at
+
+1639
+00:53:24,000 --> 00:53:26,000
+the Warby Parker. And I can buy my
+
+1640
+00:53:26,000 --> 00:53:28,000
+contacts through Warby Parker. Warby
+
+1641
+00:53:28,000 --> 00:53:30,000
+Parker is this one-stop shop. Let me
+
+1642
+00:53:30,000 --> 00:53:32,000
+tell you, they are absolutely fantastic.
+
+1643
+00:53:32,000 --> 00:53:34,000
+There is no other option. If you are
+
+1644
+00:53:34,000 --> 00:53:36,000
+looking for glasses, if you are looking
+
+1645
+00:53:36,000 --> 00:53:38,000
+for contacts, the quality uncompromised.
+
+1646
+00:53:38,000 --> 00:53:40,000
+It's so unbelievably easy with their
+
+1647
+00:53:40,000 --> 00:53:42,000
+stores and online. And they're
+
+1648
+00:53:42,000 --> 00:53:44,000
+unbelievably affordable. I literally it
+
+1649
+00:53:44,000 --> 00:53:46,000
+was $95.
+
+1650
+00:53:46,000 --> 00:53:47,000
+$95?
+
+1651
+00:53:47,000 --> 00:53:50,000
+That is just so perfectly priced.
+
+1652
+00:53:50,000 --> 00:53:52,000
+I couldn't recommend Warby Parker more.
+
+1653
+00:53:52,000 --> 00:53:54,000
+So folks, Warby Parker has over 300
+
+1654
+00:53:54,000 --> 00:53:56,000
+locations to help you find your next
+
+1655
+00:53:56,000 --> 00:53:57,000
+pair of glasses. You can head over to
+
+1656
+00:53:57,000 --> 00:53:59,000
+warbyparker.com/goodguys
+
+1657
+00:53:59,000 --> 00:54:02,000
+right now to try on any pair virtually.
+
+1658
+00:54:02,000 --> 00:54:04,000
+Look at this tech. How cool are they?
+
+1659
+00:54:04,000 --> 00:54:07,000
+That's warbyparker.com/goodguys.
+
+1660
+00:54:07,000 --> 00:54:09,000
+warbyparker.com/goodguys
+
+1661
+00:54:09,000 --> 00:54:11,000
+today.
+
+1662
+00:54:11,000 --> 00:54:12,000
+&gt;&gt; [music]
+
+1663
+00:54:12,000 --> 00:54:14,000
+&gt;&gt; I have a I have a very random question.
+
+1664
+00:54:14,000 --> 00:54:16,000
+With 3 billion users, do you guys ever
+
+1665
+00:54:16,000 --> 00:54:18,000
+think about incubating products? Like
+
+1666
+00:54:18,000 --> 00:54:21,000
+obviously like you guys are the
+
+1667
+00:54:21,000 --> 00:54:23,000
+marketplace for
+
+1668
+00:54:23,000 --> 00:54:25,000
+advertising. You have creators
+
+1669
+00:54:25,000 --> 00:54:26,000
+advertising, you have creators launching
+
+1670
+00:54:26,000 --> 00:54:29,000
+their own brands. Like you you could
+
+1671
+00:54:29,000 --> 00:54:32,000
+obviously have the greatest VC
+
+1672
+00:54:32,000 --> 00:54:35,000
+incubation arm of CG products of all
+
+1673
+00:54:35,000 --> 00:54:37,000
+time. Like is that ever is that ever a
+
+1674
+00:54:37,000 --> 00:54:38,000
+thought?
+
+1675
+00:54:38,000 --> 00:54:41,000
+Not really. I mean we've talked about
+
+1676
+00:54:41,000 --> 00:54:42,000
+it. I think in general we would rather
+
+1677
+00:54:42,000 --> 00:54:45,000
+be a marketing platform for the people
+
+1678
+00:54:45,000 --> 00:54:46,000
+who are going to be better at building
+
+1679
+00:54:46,000 --> 00:54:48,000
+products than us to market and find
+
+1680
+00:54:48,000 --> 00:54:50,000
+audiences for those products.
+
+1681
+00:54:50,000 --> 00:54:53,000
+I think in general it's an it's a it's a
+
+1682
+00:54:53,000 --> 00:54:56,000
+very fortunate opportunity for us to be
+
+1683
+00:54:56,000 --> 00:54:58,000
+a platform. It doesn't come without its
+
+1684
+00:54:58,000 --> 00:54:59,000
+responsibilities. There's a lot of
+
+1685
+00:54:59,000 --> 00:55:01,000
+responsibility for it, but it's it's
+
+1686
+00:55:01,000 --> 00:55:03,000
+nice to
+
+1687
+00:55:03,000 --> 00:55:05,000
+not have to deal with
+
+1688
+00:55:05,000 --> 00:55:07,000
+producing much hardware outside of the
+
+1689
+00:55:07,000 --> 00:55:09,000
+data centers. It's nice not to
+
+1690
+00:55:09,000 --> 00:55:11,000
+have to produce a ton of content outside
+
+1691
+00:55:11,000 --> 00:55:13,000
+of our own channels. It's I think
+
+1692
+00:55:13,000 --> 00:55:15,000
+platform is just a remarkably
+
+1693
+00:55:15,000 --> 00:55:17,000
+amazing business. Now look at as a
+
+1694
+00:55:17,000 --> 00:55:19,000
+company we do get into other industries,
+
+1695
+00:55:19,000 --> 00:55:21,000
+right? You know, we make
+
+1696
+00:55:21,000 --> 00:55:24,000
+hardware with you know, the sort of
+
+1697
+00:55:24,000 --> 00:55:27,000
+smart glasses and the AR glasses and
+
+1698
+00:55:27,000 --> 00:55:28,000
+we've done obviously virtual reality
+
+1699
+00:55:28,000 --> 00:55:30,000
+headsets. Patagonia jackets.
+
+1700
+00:55:30,000 --> 00:55:32,000
+&gt;&gt; Patagonia jackets, yeah.
+
+1701
+00:55:32,000 --> 00:55:32,000
+&gt;&gt; [laughter]
+
+1702
+00:55:32,000 --> 00:55:33,000
+&gt;&gt; I saw that one that you were wearing
+
+1703
+00:55:33,000 --> 00:55:35,000
+together.
+
+1704
+00:55:35,000 --> 00:55:36,000
+Um but for [clears throat] Instagram I
+
+1705
+00:55:36,000 --> 00:55:38,000
+think we're we like to try to
+
+1706
+00:55:38,000 --> 00:55:40,000
+we like to try to keep it focused. I
+
+1707
+00:55:40,000 --> 00:55:41,000
+feel like Instagram is too complicated
+
+1708
+00:55:41,000 --> 00:55:42,000
+as it is.
+
+1709
+00:55:42,000 --> 00:55:44,000
+In general I'm trying to figure out ways
+
+1710
+00:55:44,000 --> 00:55:45,000
+for us to do less things and do them
+
+1711
+00:55:45,000 --> 00:55:48,000
+better. And so I think focus is really a
+
+1712
+00:55:48,000 --> 00:55:50,000
+major part of the ethos that Kevin and
+
+1713
+00:55:50,000 --> 00:55:51,000
+Mike
+
+1714
+00:55:51,000 --> 00:55:53,000
+really started the company and the group
+
+1715
+00:55:53,000 --> 00:55:55,000
+with. And so I want to make sure we stay
+
+1716
+00:55:55,000 --> 00:55:57,000
+true to that. But it has to be so hard
+
+1717
+00:55:57,000 --> 00:55:59,000
+to stay that focused, right? Like I
+
+1718
+00:55:59,000 --> 00:56:01,000
+again, this is why I I should never be
+
+1719
+00:56:01,000 --> 00:56:03,000
+the president of Instagram. But with 3
+
+1720
+00:56:03,000 --> 00:56:04,000
+billion users like you could take out
+
+1721
+00:56:04,000 --> 00:56:07,000
+Uber tomorrow. Like you can just you can
+
+1722
+00:56:07,000 --> 00:56:10,000
+just build Uber. Like the hardest thing
+
+1723
+00:56:10,000 --> 00:56:12,000
+is acquiring 3 billion people. Like it's
+
+1724
+00:56:12,000 --> 00:56:12,000
+it's
+
+1725
+00:56:12,000 --> 00:56:14,000
+mind-blowing to me. Like
+
+1726
+00:56:14,000 --> 00:56:16,000
+&gt;&gt; It's it's an immense amount of reach and
+
+1727
+00:56:16,000 --> 00:56:17,000
+opportunity, but I also think we often
+
+1728
+00:56:17,000 --> 00:56:18,000
+underestimate what it takes to do
+
+1729
+00:56:18,000 --> 00:56:20,000
+something well.
+
+1730
+00:56:20,000 --> 00:56:21,000
+Um
+
+1731
+00:56:21,000 --> 00:56:22,000
+and so I still I still feel like we
+
+1732
+00:56:22,000 --> 00:56:25,000
+don't do most of what we should do as
+
+1733
+00:56:25,000 --> 00:56:26,000
+well as we should. I'm constantly
+
+1734
+00:56:26,000 --> 00:56:27,000
+feeling like
+
+1735
+00:56:27,000 --> 00:56:28,000
+we should be doing better. I'm
+
+1736
+00:56:28,000 --> 00:56:30,000
+constantly feeling like I should be
+
+1737
+00:56:30,000 --> 00:56:32,000
+doing better. Maybe that's just my you
+
+1738
+00:56:32,000 --> 00:56:33,000
+know,
+
+1739
+00:56:33,000 --> 00:56:36,000
+my my my character trait or flaw.
+
+1740
+00:56:36,000 --> 00:56:39,000
+Um but I would watch I'd much rather
+
+1741
+00:56:39,000 --> 00:56:41,000
+get to best in class across the key
+
+1742
+00:56:41,000 --> 00:56:43,000
+things first before expanding to
+
+1743
+00:56:43,000 --> 00:56:44,000
+something else if I could.
+
+1744
+00:56:44,000 --> 00:56:47,000
+This is you one of our last two
+
+1745
+00:56:47,000 --> 00:56:49,000
+questions. This is you know, this is
+
+1746
+00:56:49,000 --> 00:56:51,000
+asked during all presidential elections
+
+1747
+00:56:51,000 --> 00:56:52,000
+and you're a president.
+
+1748
+00:56:52,000 --> 00:56:52,000
+&gt;&gt; [laughter]
+
+1749
+00:56:52,000 --> 00:56:54,000
+&gt;&gt; So we're going to Definitely not a
+
+1750
+00:56:54,000 --> 00:56:56,000
+president, but but let's do it.
+
+1751
+00:56:56,000 --> 00:57:00,000
+What keeps you up at night? Oh my god,
+
+1752
+00:57:00,000 --> 00:57:01,000
+all I do is worry.
+
+1753
+00:57:01,000 --> 00:57:03,000
+About Instagram.
+
+1754
+00:57:03,000 --> 00:57:04,000
+&gt;&gt; About Instagram.
+
+1755
+00:57:04,000 --> 00:57:06,000
+&gt;&gt; [laughter]
+
+1756
+00:57:06,000 --> 00:57:08,000
+&gt;&gt; I swear to you I mean just how many
+
+1757
+00:57:08,000 --> 00:57:10,000
+times how many things do you want? Like
+
+1758
+00:57:10,000 --> 00:57:12,000
+what could go like what's the call you
+
+1759
+00:57:12,000 --> 00:57:14,000
+fear? A server went down? Like Adam
+
+1760
+00:57:14,000 --> 00:57:17,000
+Waheed moves to TikTok? [laughter]
+
+1761
+00:57:17,000 --> 00:57:19,000
+Still going back to Adam.
+
+1762
+00:57:19,000 --> 00:57:21,000
+Um
+
+1763
+00:57:21,000 --> 00:57:24,000
+I think most of my concerns
+
+1764
+00:57:24,000 --> 00:57:26,000
+ladder up to us
+
+1765
+00:57:26,000 --> 00:57:29,000
+I think failing to adapt as the world
+
+1766
+00:57:29,000 --> 00:57:31,000
+changes around us.
+
+1767
+00:57:31,000 --> 00:57:34,000
+So you know, we're a big company. Um the
+
+1768
+00:57:34,000 --> 00:57:35,000
+team is big. The team is thousands of
+
+1769
+00:57:35,000 --> 00:57:37,000
+people. The company's you know, tens of
+
+1770
+00:57:37,000 --> 00:57:39,000
+thousands of people.
+
+1771
+00:57:39,000 --> 00:57:40,000
+In usually what happens when you're in a
+
+1772
+00:57:40,000 --> 00:57:43,000
+position like we are is that not it's
+
+1773
+00:57:43,000 --> 00:57:45,000
+not that competition isn't a risk.
+
+1774
+00:57:45,000 --> 00:57:46,000
+Sorry, it's not that competition isn't a
+
+1775
+00:57:46,000 --> 00:57:48,000
+risk. Competition is a risk. What what
+
+1776
+00:57:48,000 --> 00:57:50,000
+really happens is competition adapts to
+
+1777
+00:57:50,000 --> 00:57:52,000
+the world as it changes faster than you
+
+1778
+00:57:52,000 --> 00:57:54,000
+do. So whether it is
+
+1779
+00:57:54,000 --> 00:57:56,000
+you know, minimizing the bad so
+
+1780
+00:57:56,000 --> 00:57:58,000
+addressing safety concerns and keeping
+
+1781
+00:57:58,000 --> 00:58:00,000
+people safe on the platform or it's
+
+1782
+00:58:00,000 --> 00:58:02,000
+maximizing the good leaning into
+
+1783
+00:58:02,000 --> 00:58:04,000
+whatever the new trend is on how people
+
+1784
+00:58:04,000 --> 00:58:05,000
+entertain themselves or connect with
+
+1785
+00:58:05,000 --> 00:58:06,000
+friends.
+
+1786
+00:58:06,000 --> 00:58:08,000
+You know, you if you don't move quickly
+
+1787
+00:58:08,000 --> 00:58:09,000
+someone else will. And you might move
+
+1788
+00:58:09,000 --> 00:58:11,000
+slower because
+
+1789
+00:58:11,000 --> 00:58:13,000
+you're too risk-averse or you're too
+
+1790
+00:58:13,000 --> 00:58:15,000
+worried about, you know, revenue this
+
+1791
+00:58:15,000 --> 00:58:18,000
+quarter or you are not connected with
+
+1792
+00:58:18,000 --> 00:58:19,000
+what the trends are that are happening
+
+1793
+00:58:19,000 --> 00:58:22,000
+or there's too much regulatory burden or
+
+1794
+00:58:22,000 --> 00:58:24,000
+there's too much in-fighting and
+
+1795
+00:58:24,000 --> 00:58:26,000
+or complacency. Like it almost always
+
+1796
+00:58:26,000 --> 00:58:29,000
+ladders up to failing to adapt. And so I
+
+1797
+00:58:29,000 --> 00:58:32,000
+[clears throat] worry most of my fears
+
+1798
+00:58:32,000 --> 00:58:33,000
+are about
+
+1799
+00:58:33,000 --> 00:58:35,000
+us missing things that are important
+
+1800
+00:58:35,000 --> 00:58:37,000
+either opportunities to maximize the
+
+1801
+00:58:37,000 --> 00:58:39,000
+good or minimize the bad.
+
+1802
+00:58:39,000 --> 00:58:42,000
+And then that really adding up over time
+
+1803
+00:58:42,000 --> 00:58:45,000
+and getting the better of us. Yeah. You
+
+1804
+00:58:45,000 --> 00:58:47,000
+need to be more like that, Ben.
+
+1805
+00:58:47,000 --> 00:58:49,000
+You need to think that way.
+
+1806
+00:58:49,000 --> 00:58:50,000
+&gt;&gt; You're the president of this spot. I
+
+1807
+00:58:50,000 --> 00:58:51,000
+think you're doing great.
+
+1808
+00:58:51,000 --> 00:58:52,000
+&gt;&gt; He is.
+
+1809
+00:58:52,000 --> 00:58:52,000
+&gt;&gt; [laughter]
+
+1810
+00:58:52,000 --> 00:58:54,000
+&gt;&gt; Thank you. I'm so lucky to have him. But
+
+1811
+00:58:54,000 --> 00:58:56,000
+he's like a real businessman.
+
+1812
+00:58:56,000 --> 00:58:59,000
+I'm the actor kind of. The talent? What
+
+1813
+00:58:59,000 --> 00:59:01,000
+do you call it? Yes, the talent.
+
+1814
+00:59:01,000 --> 00:59:02,000
+Just double clicking on that for 1
+
+1815
+00:59:02,000 --> 00:59:05,000
+second. I just as you have three kids,
+
+1816
+00:59:05,000 --> 00:59:08,000
+Josh has three kids, I have a baby boy.
+
+1817
+00:59:08,000 --> 00:59:09,000
+Are we spoke about this in the last
+
+1818
+00:59:09,000 --> 00:59:11,000
+podcast. Like when are we going to allow
+
+1819
+00:59:11,000 --> 00:59:12,000
+our kids to even have phones?
+
+1820
+00:59:12,000 --> 00:59:13,000
+&gt;&gt; question.
+
+1821
+00:59:13,000 --> 00:59:15,000
+&gt;&gt; And Josh and I are are big proponents of
+
+1822
+00:59:15,000 --> 00:59:18,000
+really really really [&nbsp;__&nbsp;] late. Yeah.
+
+1823
+00:59:18,000 --> 00:59:20,000
+And you're and you're talking about like
+
+1824
+00:59:20,000 --> 00:59:22,000
+Instagram for teens. Like how do you
+
+1825
+00:59:22,000 --> 00:59:25,000
+approach Like there's there's two sides
+
+1826
+00:59:25,000 --> 00:59:26,000
+to the coin, right? Of course make
+
+1827
+00:59:26,000 --> 00:59:27,000
+Instagram safe. I'm sure that's
+
+1828
+00:59:27,000 --> 00:59:28,000
+something that keeps you up at night.
+
+1829
+00:59:28,000 --> 00:59:31,000
+But on this on the flip side of that
+
+1830
+00:59:31,000 --> 00:59:32,000
+like
+
+1831
+00:59:32,000 --> 00:59:34,000
+just like these constant dopamine hits,
+
+1832
+00:59:34,000 --> 00:59:36,000
+no matter how safe Instagram is for
+
+1833
+00:59:36,000 --> 00:59:39,000
+kids, phones in general. Like, do you
+
+1834
+00:59:39,000 --> 00:59:40,000
+have a do you have a perspective on
+
+1835
+00:59:40,000 --> 00:59:42,000
+that? Like, like, when should kids
+
+1836
+00:59:42,000 --> 00:59:45,000
+really be downloading apps? When should
+
+1837
+00:59:45,000 --> 00:59:47,000
+they be getting smartphones? Do you have
+
+1838
+00:59:47,000 --> 00:59:49,000
+a perspective there? Yeah. I mean, I
+
+1839
+00:59:49,000 --> 00:59:51,000
+would say a few different things. And
+
+1840
+00:59:51,000 --> 00:59:53,000
+maybe I'll take off my Instagram hat for
+
+1841
+00:59:53,000 --> 00:59:55,000
+a second and just focus on me, Adam, as
+
+1842
+00:59:55,000 --> 00:59:57,000
+a dad.
+
+1843
+00:59:57,000 --> 00:59:59,000
+I think it's important
+
+1844
+00:59:59,000 --> 01:00:02,000
+to be honest about the fact that every
+
+1845
+01:00:02,000 --> 01:00:03,000
+kid is different.
+
+1846
+01:00:03,000 --> 01:00:05,000
+And their needs and their risks are
+
+1847
+01:00:05,000 --> 01:00:07,000
+different. I wouldn't be surprised if I
+
+1848
+01:00:07,000 --> 01:00:09,000
+don't feel that my three boys are all
+
+1849
+01:00:09,000 --> 01:00:12,000
+ready at the same age for smartphones or
+
+1850
+01:00:12,000 --> 01:00:13,000
+for social media.
+
+1851
+01:00:13,000 --> 01:00:15,000
+Um I you know, they're so different. You
+
+1852
+01:00:15,000 --> 01:00:16,000
+only have one, so you probably don't
+
+1853
+01:00:16,000 --> 01:00:18,000
+know this yet, but you've got three.
+
+1854
+01:00:18,000 --> 01:00:20,000
+There's no better lesson on the question
+
+1855
+01:00:20,000 --> 01:00:22,000
+of nature versus nurture than having
+
+1856
+01:00:22,000 --> 01:00:23,000
+three. And you're like, you are all
+
+1857
+01:00:23,000 --> 01:00:25,000
+completely different. And I'm pretty
+
+1858
+01:00:25,000 --> 01:00:26,000
+sure I raised you more or less the same.
+
+1859
+01:00:26,000 --> 01:00:29,000
+Yeah. And so I think it's about one,
+
+1860
+01:00:29,000 --> 01:00:30,000
+understanding your individual child's
+
+1861
+01:00:30,000 --> 01:00:31,000
+needs.
+
+1862
+01:00:31,000 --> 01:00:35,000
+Um and then two, trying to meet those
+
+1863
+01:00:35,000 --> 01:00:38,000
+needs, but for me, I think what matters
+
+1864
+01:00:38,000 --> 01:00:39,000
+is boundaries. I think it's super
+
+1865
+01:00:39,000 --> 01:00:41,000
+important for parents to set boundaries
+
+1866
+01:00:41,000 --> 01:00:43,000
+in general. My mom always used to tell
+
+1867
+01:00:43,000 --> 01:00:44,000
+me when I went out of the house as a
+
+1868
+01:00:44,000 --> 01:00:46,000
+college as a high school kid, she always
+
+1869
+01:00:46,000 --> 01:00:48,000
+say moderation, which I thought was like
+
+1870
+01:00:48,000 --> 01:00:51,000
+a reasonable but realistic ask.
+
+1871
+01:00:51,000 --> 01:00:52,000
+But for me with my kids, they're not old
+
+1872
+01:00:52,000 --> 01:00:53,000
+enough for social media, they're nine,
+
+1873
+01:00:53,000 --> 01:00:56,000
+seven, and five. But they have iPads,
+
+1874
+01:00:56,000 --> 01:00:57,000
+they play video games.
+
+1875
+01:00:57,000 --> 01:00:59,000
+And for me, it's like, okay, well, what
+
+1876
+01:00:59,000 --> 01:01:01,000
+are the rules, right? They have they can
+
+1877
+01:01:01,000 --> 01:01:03,000
+only play it on the weekends.
+
+1878
+01:01:03,000 --> 01:01:05,000
+They have to earn their time. So, you
+
+1879
+01:01:05,000 --> 01:01:06,000
+know, for every 30 minutes of homework
+
+1880
+01:01:06,000 --> 01:01:08,000
+that they do, they earn 30 minutes.
+
+1881
+01:01:08,000 --> 01:01:10,000
+And I'll never take the time away cuz I
+
+1882
+01:01:10,000 --> 01:01:12,000
+I used to do that and that was wildly
+
+1883
+01:01:12,000 --> 01:01:13,000
+disregulating and that ended up really
+
+1884
+01:01:13,000 --> 01:01:15,000
+badly for everybody.
+
+1885
+01:01:15,000 --> 01:01:17,000
+Um but it's capped.
+
+1886
+01:01:17,000 --> 01:01:19,000
+And so they know it, they know they're
+
+1887
+01:01:19,000 --> 01:01:21,000
+not allowed to play until 7:00 a.m. so
+
+1888
+01:01:21,000 --> 01:01:22,000
+they don't have an excuse to come into
+
+1889
+01:01:22,000 --> 01:01:24,000
+my room at 5:00 a.m. and wake me up to
+
+1890
+01:01:24,000 --> 01:01:26,000
+try to get on an iPad.
+
+1891
+01:01:26,000 --> 01:01:27,000
+So I just create boundaries.
+
+1892
+01:01:27,000 --> 01:01:29,000
+What's hard it's but but I would want to
+
+1893
+01:01:29,000 --> 01:01:31,000
+acknowledge that it's much easier said
+
+1894
+01:01:31,000 --> 01:01:33,000
+than done. We're trying as a platform to
+
+1895
+01:01:33,000 --> 01:01:35,000
+provide tools to help parents enforce
+
+1896
+01:01:35,000 --> 01:01:37,000
+those boundaries so you can actually say
+
+1897
+01:01:37,000 --> 01:01:39,000
+my teen can only use Instagram on these
+
+1898
+01:01:39,000 --> 01:01:40,000
+days or for this amount of time. You can
+
+1899
+01:01:40,000 --> 01:01:42,000
+actually, you know, set that up and then
+
+1900
+01:01:42,000 --> 01:01:44,000
+we will enforce it on your behalf.
+
+1901
+01:01:44,000 --> 01:01:46,000
+But I think that combination of
+
+1902
+01:01:46,000 --> 01:01:47,000
+understanding an individual child's
+
+1903
+01:01:47,000 --> 01:01:49,000
+needs and risks and then
+
+1904
+01:01:49,000 --> 01:01:52,000
+setting up clear boundaries, I think is
+
+1905
+01:01:52,000 --> 01:01:54,000
+maybe the two most important pieces of
+
+1906
+01:01:54,000 --> 01:01:56,000
+advice I would give a parent when trying
+
+1907
+01:01:56,000 --> 01:01:58,000
+to decide when is your kid ready for a
+
+1908
+01:01:58,000 --> 01:02:01,000
+phone or a lot of kids I know
+
+1909
+01:02:01,000 --> 01:02:02,000
+um my kids don't have them yet. They're
+
+1910
+01:02:02,000 --> 01:02:04,000
+getting like smartwatches cuz their
+
+1911
+01:02:04,000 --> 01:02:05,000
+parent in the city wants to know where
+
+1912
+01:02:05,000 --> 01:02:05,000
+the kid is.
+
+1913
+01:02:05,000 --> 01:02:06,000
+&gt;&gt; Sure.
+
+1914
+01:02:06,000 --> 01:02:09,000
+Um or, you know, access to
+
+1915
+01:02:09,000 --> 01:02:10,000
+the internet. Like, my my kid wants
+
+1916
+01:02:10,000 --> 01:02:13,000
+access to the computer now cuz he likes
+
+1917
+01:02:13,000 --> 01:02:15,000
+to do research about Pokémon and things.
+
+1918
+01:02:15,000 --> 01:02:17,000
+And honestly,
+
+1919
+01:02:17,000 --> 01:02:20,000
+you know, if he can open up Safari, he
+
+1920
+01:02:20,000 --> 01:02:22,000
+can and he's pretty smart, he can get he
+
+1921
+01:02:22,000 --> 01:02:24,000
+can find anything. And so it's not just
+
+1922
+01:02:24,000 --> 01:02:26,000
+about social media or even phones, it's
+
+1923
+01:02:26,000 --> 01:02:28,000
+just if you have access to the internet,
+
+1924
+01:02:28,000 --> 01:02:29,000
+you have access to anything that you
+
+1925
+01:02:29,000 --> 01:02:31,000
+could find on the internet if you want
+
+1926
+01:02:31,000 --> 01:02:34,000
+if you were looking for it. So,
+
+1927
+01:02:34,000 --> 01:02:35,000
+you know, there's it's important for
+
+1928
+01:02:35,000 --> 01:02:37,000
+parents to set up boundaries and to
+
+1929
+01:02:37,000 --> 01:02:39,000
+educate their kids and to think about
+
+1930
+01:02:39,000 --> 01:02:41,000
+their kids' individual needs. Yeah.
+
+1931
+01:02:41,000 --> 01:02:43,000
+Isn't it crazy Pokémon was big for us
+
+1932
+01:02:43,000 --> 01:02:44,000
+and now it's big for our kids.
+
+1933
+01:02:44,000 --> 01:02:46,000
+&gt;&gt; I cannot believe how big it is. They
+
+1934
+01:02:46,000 --> 01:02:49,000
+love it. They're obsessed. Yeah. My kid
+
+1935
+01:02:49,000 --> 01:02:51,000
+can rattle off like the evolutions of
+
+1936
+01:02:51,000 --> 01:02:53,000
+any random Pokémon from like any series.
+
+1937
+01:02:53,000 --> 01:02:55,000
+He just like studies them
+
+1938
+01:02:55,000 --> 01:02:57,000
+&gt;&gt; Wow. That's smart. for fun. Like my kid,
+
+1939
+01:02:57,000 --> 01:02:59,000
+he just goes, "A shiny one." Oh, yeah.
+
+1940
+01:02:59,000 --> 01:03:01,000
+I was I took notes. I was like,
+
+1941
+01:03:01,000 --> 01:03:02,000
+[laughter] you got to meet your kids
+
+1942
+01:03:02,000 --> 01:03:03,000
+where they're at. So I was like, explain
+
+1943
+01:03:03,000 --> 01:03:05,000
+this to me. It's complicated.
+
+1944
+01:03:05,000 --> 01:03:07,000
+&gt;&gt; It is. The card game is really
+
+1945
+01:03:07,000 --> 01:03:08,000
+complicated. Yeah.
+
+1946
+01:03:08,000 --> 01:03:10,000
+&gt;&gt; There's a lot going on.
+
+1947
+01:03:10,000 --> 01:03:11,000
+&gt;&gt; [laughter]
+
+1948
+01:03:11,000 --> 01:03:12,000
+&gt;&gt; Okay, so before our final question, what
+
+1949
+01:03:12,000 --> 01:03:14,000
+do you nut moment of the week, I just
+
+1950
+01:03:14,000 --> 01:03:16,000
+want to say here officially, there is a
+
+1951
+01:03:16,000 --> 01:03:18,000
+a such thing as shadow banning or there
+
+1952
+01:03:18,000 --> 01:03:19,000
+isn't.
+
+1953
+01:03:19,000 --> 01:03:20,000
+So it means different things to
+
+1954
+01:03:20,000 --> 01:03:23,000
+different people. People use that term
+
+1955
+01:03:23,000 --> 01:03:25,000
+to just say they're not getting as much
+
+1956
+01:03:25,000 --> 01:03:27,000
+reach as they think they deserve.
+
+1957
+01:03:27,000 --> 01:03:28,000
+There are instances in which we will
+
+1958
+01:03:28,000 --> 01:03:31,000
+limit someone's reach. So if you posted
+
+1959
+01:03:31,000 --> 01:03:33,000
+a bunch of content that got taken down
+
+1960
+01:03:33,000 --> 01:03:35,000
+recently, if you're not
+
+1961
+01:03:35,000 --> 01:03:36,000
+if you're posting content that doesn't
+
+1962
+01:03:36,000 --> 01:03:37,000
+violate our community guidelines but we
+
+1963
+01:03:37,000 --> 01:03:40,000
+don't but violates our recommendation
+
+1964
+01:03:40,000 --> 01:03:41,000
+guidelines, so we won't show it to
+
+1965
+01:03:41,000 --> 01:03:43,000
+people who don't follow you. Mhm. You
+
+1966
+01:03:43,000 --> 01:03:44,000
+will have a limited reach, but you can
+
+1967
+01:03:44,000 --> 01:03:47,000
+see it. You can go to profile settings,
+
+1968
+01:03:47,000 --> 01:03:49,000
+account status, and you can see if there
+
+1969
+01:03:49,000 --> 01:03:50,000
+are any
+
+1970
+01:03:50,000 --> 01:03:52,000
+issues on your account and then you can
+
+1971
+01:03:52,000 --> 01:03:54,000
+try to either appeal them if you think
+
+1972
+01:03:54,000 --> 01:03:56,000
+we made a mistake or remove the content
+
+1973
+01:03:56,000 --> 01:03:58,000
+if you, you know, see that that's why
+
+1974
+01:03:58,000 --> 01:03:59,000
+you're not being recommended anymore.
+
+1975
+01:03:59,000 --> 01:04:02,000
+And so you can go see it. Um so but yes,
+
+1976
+01:04:02,000 --> 01:04:04,000
+your account can
+
+1977
+01:04:04,000 --> 01:04:05,000
+have its reach limited, but you can go
+
+1978
+01:04:05,000 --> 01:04:07,000
+to profile settings, account status, and
+
+1979
+01:04:07,000 --> 01:04:08,000
+then
+
+1980
+01:04:08,000 --> 01:04:11,000
+see what's going on and then act on that
+
+1981
+01:04:11,000 --> 01:04:14,000
+information. And then once you correct
+
+1982
+01:04:14,000 --> 01:04:16,000
+it, I find there's there've been a few
+
+1983
+01:04:16,000 --> 01:04:19,000
+times and it's really the only times
+
+1984
+01:04:19,000 --> 01:04:20,000
+that I've ever posted anything
+
+1985
+01:04:20,000 --> 01:04:23,000
+political, I'll just see just it's just
+
+1986
+01:04:23,000 --> 01:04:27,000
+a downtrend in in in reach. Yeah. After
+
+1987
+01:04:27,000 --> 01:04:29,000
+I post any and it's rare, maybe every
+
+1988
+01:04:29,000 --> 01:04:30,000
+couple years.
+
+1989
+01:04:30,000 --> 01:04:33,000
+Um and then I just give it a couple days
+
+1990
+01:04:33,000 --> 01:04:35,000
+and it like shakes out. Like it it sort
+
+1991
+01:04:35,000 --> 01:04:37,000
+of has to find its medium, but it takes
+
+1992
+01:04:37,000 --> 01:04:40,000
+like a week or two. So,
+
+1993
+01:04:40,000 --> 01:04:41,000
+what's probably happening there without
+
+1994
+01:04:41,000 --> 01:04:44,000
+looking into your specific account is
+
+1995
+01:04:44,000 --> 01:04:45,000
+it's not that you're posting about
+
+1996
+01:04:45,000 --> 01:04:47,000
+politics or like, no, we want to
+
+1997
+01:04:47,000 --> 01:04:49,000
+downrank politics. We don't do that.
+
+1998
+01:04:49,000 --> 01:04:50,000
+It's that a lot of people who followed
+
+1999
+01:04:50,000 --> 01:04:52,000
+you because you don't normally post
+
+2000
+01:04:52,000 --> 01:04:53,000
+about politics didn't follow you for
+
+2001
+01:04:53,000 --> 01:04:56,000
+your political opinions. Right.
+
+2002
+01:04:56,000 --> 01:04:57,000
+&gt;&gt; And so they maybe were less likely to
+
+2003
+01:04:57,000 --> 01:04:59,000
+interact or like or share that when they
+
+2004
+01:04:59,000 --> 01:05:01,000
+saw it. And so we just it looks like
+
+2005
+01:05:01,000 --> 01:05:03,000
+it's doing less well to us than the
+
+2006
+01:05:03,000 --> 01:05:04,000
+normal piece of content. We don't even
+
+2007
+01:05:04,000 --> 01:05:06,000
+know if it's about politics.
+
+2008
+01:05:06,000 --> 01:05:08,000
+It's just getting less engagement per
+
+2009
+01:05:08,000 --> 01:05:10,000
+impression than your average post and so
+
+2010
+01:05:10,000 --> 01:05:12,000
+it does less well cuz we just think it's
+
+2011
+01:05:12,000 --> 01:05:14,000
+less interesting to other people.
+
+2012
+01:05:14,000 --> 01:05:15,000
+Whereas there are accounts who post
+
+2013
+01:05:15,000 --> 01:05:18,000
+about politics all the time and that's
+
+2014
+01:05:18,000 --> 01:05:19,000
+why people follow them and they tend to
+
+2015
+01:05:19,000 --> 01:05:21,000
+do well in general. So,
+
+2016
+01:05:21,000 --> 01:05:24,000
+if you if you really pivot subjects
+
+2017
+01:05:24,000 --> 01:05:27,000
+often, you know, either to or away from
+
+2018
+01:05:27,000 --> 01:05:30,000
+something politics or otherwise, you you
+
+2019
+01:05:30,000 --> 01:05:31,000
+can often see your reach go down because
+
+2020
+01:05:31,000 --> 01:05:32,000
+it's just because that's not why people
+
+2021
+01:05:32,000 --> 01:05:34,000
+followed you in the first place.
+
+2022
+01:05:34,000 --> 01:05:35,000
+Wow.
+
+2023
+01:05:35,000 --> 01:05:36,000
+&gt;&gt; Doesn't mean you shouldn't do it. You
+
+2024
+01:05:36,000 --> 01:05:38,000
+should just know why it's happening.
+
+2025
+01:05:38,000 --> 01:05:40,000
+Good to know. That's it. Uh no more
+
+2026
+01:05:40,000 --> 01:05:42,000
+endorsements from Josh Peck.
+
+2027
+01:05:42,000 --> 01:05:45,000
+&gt;&gt; Okay. It's it's funny. It's it's funny,
+
+2028
+01:05:45,000 --> 01:05:47,000
+Josh. When I write a political megillah
+
+2029
+01:05:47,000 --> 01:05:48,000
+on Instagram stories, it gets the most
+
+2030
+01:05:48,000 --> 01:05:50,000
+reach out of anything. I'm not even
+
+2031
+01:05:50,000 --> 01:05:52,000
+kidding. Like when I post when I post
+
+2032
+01:05:52,000 --> 01:05:57,000
+like a static with text on stories, it
+
+2033
+01:05:57,000 --> 01:05:59,000
+destroys. Interesting.
+
+2034
+01:05:59,000 --> 01:06:01,000
+&gt;&gt; Versus when I do a video, it's so weird.
+
+2035
+01:06:01,000 --> 01:06:04,000
+It's like I like like destroys. My my
+
+2036
+01:06:04,000 --> 01:06:06,000
+reach will be like 30% of my followers.
+
+2037
+01:06:06,000 --> 01:06:07,000
+Some people find photos and videos most
+
+2038
+01:06:07,000 --> 01:06:08,000
+people find the opposite, but I
+
+2039
+01:06:08,000 --> 01:06:10,000
+definitely hear regularly from creators
+
+2040
+01:06:10,000 --> 01:06:12,000
+who find that either carousels in feed
+
+2041
+01:06:12,000 --> 01:06:15,000
+with photos or stories or photos in
+
+2042
+01:06:15,000 --> 01:06:16,000
+stories do better for them than videos.
+
+2043
+01:06:16,000 --> 01:06:19,000
+I hear that regularly. Yeah, so
+
+2044
+01:06:19,000 --> 01:06:22,000
+&gt;&gt; But my dear Ben, I must say you are like
+
+2045
+01:06:22,000 --> 01:06:22,000
+I know you always say you're not
+
+2046
+01:06:22,000 --> 01:06:24,000
+political. I would say you're political
+
+2047
+01:06:24,000 --> 01:06:25,000
+adjacent and I don't think that's
+
+2048
+01:06:25,000 --> 01:06:27,000
+negative, but I think you make sure when
+
+2049
+01:06:27,000 --> 01:06:29,000
+you feel passionate about something you
+
+2050
+01:06:29,000 --> 01:06:32,000
+speak up. 100%. Uh I guess it was more
+
+2051
+01:06:32,000 --> 01:06:35,000
+to what Adam said, which is I don't
+
+2052
+01:06:35,000 --> 01:06:37,000
+think anybody followed me for my
+
+2053
+01:06:37,000 --> 01:06:39,000
+political opinions or or for my
+
+2054
+01:06:39,000 --> 01:06:42,000
+commentary. So the fact that they do so
+
+2055
+01:06:42,000 --> 01:06:46,000
+well had me thinking, is it simply the
+
+2056
+01:06:46,000 --> 01:06:49,000
+format that I'm putting text on
+
+2057
+01:06:49,000 --> 01:06:52,000
+like that it's not a video versus what
+
+2058
+01:06:52,000 --> 01:06:53,000
+I'm actually saying. I don't I don't
+
+2059
+01:06:53,000 --> 01:06:55,000
+know the answer. Um but I just always
+
+2060
+01:06:55,000 --> 01:06:56,000
+found it incredibly interesting that
+
+2061
+01:06:56,000 --> 01:06:57,000
+like
+
+2062
+01:06:57,000 --> 01:07:00,000
+a story like that will get 400,000 views
+
+2063
+01:07:00,000 --> 01:07:02,000
+and it's like that's a lot of views.
+
+2064
+01:07:02,000 --> 01:07:05,000
+third of my reach. Like why is it why is
+
+2065
+01:07:05,000 --> 01:07:07,000
+it so big? Yeah, because your feed is
+
+2066
+01:07:07,000 --> 01:07:09,000
+like goes from look at this big caniche
+
+2067
+01:07:09,000 --> 01:07:12,000
+to what's Gavin Newsom thinking?
+
+2068
+01:07:12,000 --> 01:07:17,000
+&gt;&gt; [laughter]
+
+2069
+01:07:17,000 --> 01:07:20,000
+&gt;&gt; YES, WE GOT HIM. THE OTHER WAY.
+
+2070
+01:07:20,000 --> 01:07:21,000
+HONESTLY, that's
+
+2071
+01:07:21,000 --> 01:07:23,000
+that's true. It goes from a salami to
+
+2072
+01:07:23,000 --> 01:07:24,000
+Mom Donny.
+
+2073
+01:07:24,000 --> 01:07:27,000
+&gt;&gt; [laughter]
+
+2074
+01:07:27,000 --> 01:07:29,000
+&gt;&gt; Should we get to what do you nut spin?
+
+2075
+01:07:29,000 --> 01:07:32,000
+Absolutely, Adam. This is gripes with
+
+2076
+01:07:32,000 --> 01:07:34,000
+people, places, and things, whatever's
+
+2077
+01:07:34,000 --> 01:07:36,000
+sticking in your craw. San Francisco,
+
+2078
+01:07:36,000 --> 01:07:38,000
+you're a walking woody and nuts. You
+
+2079
+01:07:38,000 --> 01:07:42,000
+absolutely have one. Okay, you have one.
+
+2080
+01:07:42,000 --> 01:07:43,000
+Uh Josh
+
+2081
+01:07:43,000 --> 01:07:45,000
+&gt;&gt; want to think, we can go first. It's our
+
+2082
+01:07:45,000 --> 01:07:47,000
+This is our final question. So, we we
+
+2083
+01:07:47,000 --> 01:07:48,000
+each do one. Do you want to think about
+
+2084
+01:07:48,000 --> 01:07:49,000
+it?
+
+2085
+01:07:49,000 --> 01:07:51,000
+I can tell you the first one that came
+
+2086
+01:07:51,000 --> 01:07:52,000
+to my mind, but I'm also happy to let
+
+2087
+01:07:52,000 --> 01:07:54,000
+you guys go first [laughter] and see
+
+2088
+01:07:54,000 --> 01:07:55,000
+what this is all about. Yeah, but if one
+
+2089
+01:07:55,000 --> 01:07:56,000
+popped into your head that was good,
+
+2090
+01:07:56,000 --> 01:07:57,000
+feel free.
+
+2091
+01:07:57,000 --> 01:07:59,000
+&gt;&gt; I'll give you So I just I don't want to
+
+2092
+01:07:59,000 --> 01:08:01,000
+sound like a bad dad, but but
+
+2093
+01:08:01,000 --> 01:08:03,000
+but my 7-year-old is the first thing
+
+2094
+01:08:03,000 --> 01:08:05,000
+that popped into my head. So my wife
+
+2095
+01:08:05,000 --> 01:08:07,000
+doesn't get up early. I usually get up
+
+2096
+01:08:07,000 --> 01:08:08,000
+before she does and I'm kind of on
+
+2097
+01:08:08,000 --> 01:08:10,000
+breakfast duty when she comes down.
+
+2098
+01:08:10,000 --> 01:08:13,000
+And at 7:00, I mean, it's all all
+
+2099
+01:08:13,000 --> 01:08:15,000
+morning from from 6:00 a.m. on, it's
+
+2100
+01:08:15,000 --> 01:08:17,000
+unbelievable what this one does. So
+
+2101
+01:08:17,000 --> 01:08:18,000
+first,
+
+2102
+01:08:18,000 --> 01:08:19,000
+he will
+
+2103
+01:08:19,000 --> 01:08:21,000
+I don't know why I'm saying this on on
+
+2104
+01:08:21,000 --> 01:08:22,000
+being [laughter] recorded, but he will
+
+2105
+01:08:22,000 --> 01:08:25,000
+come into my room at around 6:00 on the
+
+2106
+01:08:25,000 --> 01:08:27,000
+dot. He'll come into my bathroom and
+
+2107
+01:08:27,000 --> 01:08:29,000
+he'll take his morning poop.
+
+2108
+01:08:29,000 --> 01:08:29,000
+&gt;&gt; [laughter]
+
+2109
+01:08:29,000 --> 01:08:31,000
+&gt;&gt; Solid.
+
+2110
+01:08:31,000 --> 01:08:33,000
+He has a bathroom. There's no reason for
+
+2111
+01:08:33,000 --> 01:08:34,000
+him to be
+
+2112
+01:08:34,000 --> 01:08:36,000
+At least now he's old enough, but he
+
+2113
+01:08:36,000 --> 01:08:37,000
+used [laughter] to yell like, "Will
+
+2114
+01:08:37,000 --> 01:08:40,000
+someone wipe my butt?"
+
+2115
+01:08:40,000 --> 01:08:41,000
+That's how I wake up at like 5:50
+
+2116
+01:08:41,000 --> 01:08:42,000
+[laughter] in the morning.
+
+2117
+01:08:42,000 --> 01:08:45,000
+And then it's just a fight for the whole
+
+2118
+01:08:45,000 --> 01:08:47,000
+for the next 90 minutes. It's like,
+
+2119
+01:08:47,000 --> 01:08:49,000
+you know, he punches his friend his
+
+2120
+01:08:49,000 --> 01:08:50,000
+brother in the back of the head for no
+
+2121
+01:08:50,000 --> 01:08:52,000
+reason. He won't eat his whatever. It's
+
+2122
+01:08:52,000 --> 01:08:53,000
+it's eggs and bacon. Who doesn't like
+
+2123
+01:08:53,000 --> 01:08:54,000
+bacon?
+
+2124
+01:08:54,000 --> 01:08:57,000
+And then the thing that really gets me
+
+2125
+01:08:57,000 --> 01:08:59,000
+is that like 7:55, we leave at 8:00.
+
+2126
+01:08:59,000 --> 01:09:01,000
+I'll be like, "All right. Everybody
+
+2127
+01:09:01,000 --> 01:09:02,000
+out." Like shoes and socks. I'm like I'm
+
+2128
+01:09:02,000 --> 01:09:04,000
+like done. I need to get you guys out of
+
+2129
+01:09:04,000 --> 01:09:04,000
+the house.
+
+2130
+01:09:04,000 --> 01:09:06,000
+Shoes and socks. Everyone shoes and
+
+2131
+01:09:06,000 --> 01:09:07,000
+socks on. And then, you know, I know I
+
+2132
+01:09:07,000 --> 01:09:09,000
+shepherd them over and he will just turn
+
+2133
+01:09:09,000 --> 01:09:11,000
+around, walk straight to the couch, and
+
+2134
+01:09:11,000 --> 01:09:13,000
+then pick up the remote and turn on the
+
+2135
+01:09:13,000 --> 01:09:16,000
+TV and then yell at me, "Where's the
+
+2136
+01:09:16,000 --> 01:09:17,000
+baseball game?" And I'm like, "What do
+
+2137
+01:09:17,000 --> 01:09:18,000
+you
+
+2138
+01:09:18,000 --> 01:09:20,000
+Nat What do you First [laughter] of all,
+
+2139
+01:09:20,000 --> 01:09:21,000
+there's no baseball game. It's 8:00 in
+
+2140
+01:09:21,000 --> 01:09:23,000
+the morning. Like, we just said everyone
+
+2141
+01:09:23,000 --> 01:09:25,000
+your brother's by the He's getting his
+
+2142
+01:09:25,000 --> 01:09:26,000
+shoes on. Like,
+
+2143
+01:09:26,000 --> 01:09:26,000
+&gt;&gt; [laughter]
+
+2144
+01:09:26,000 --> 01:09:29,000
+&gt;&gt; his ability to completely ignore me
+
+2145
+01:09:29,000 --> 01:09:31,000
+entirely Great.
+
+2146
+01:09:31,000 --> 01:09:33,000
+&gt;&gt; is unbelievable. I I have this this the
+
+2147
+01:09:33,000 --> 01:09:35,000
+contrast between going to work
+
+2148
+01:09:35,000 --> 01:09:37,000
+and saying the wrong thing and having 50
+
+2149
+01:09:37,000 --> 01:09:38,000
+people go in the wrong direction for a
+
+2150
+01:09:38,000 --> 01:09:41,000
+month and fighting for like fifth most
+
+2151
+01:09:41,000 --> 01:09:42,000
+influential in my household. It goes
+
+2152
+01:09:42,000 --> 01:09:44,000
+like my 7-year-old, my wife, my
+
+2153
+01:09:44,000 --> 01:09:45,000
+9-year-old, my 5-year-old, and then me
+
+2154
+01:09:45,000 --> 01:09:47,000
+and the nanny are battling for fifth on
+
+2155
+01:09:47,000 --> 01:09:49,000
+a daily basis.
+
+2156
+01:09:49,000 --> 01:09:51,000
+Is like unbelievable. I just wish like I
+
+2157
+01:09:51,000 --> 01:09:53,000
+had a little bit more sway at home and a
+
+2158
+01:09:53,000 --> 01:09:55,000
+little bit less at work. But he's the
+
+2159
+01:09:55,000 --> 01:09:57,000
+one who's always humbling. It's just I
+
+2160
+01:09:57,000 --> 01:10:00,000
+can say he just walks away. Just you're
+
+2161
+01:10:00,000 --> 01:10:01,000
+like go left. He's like I'm going to go
+
+2162
+01:10:01,000 --> 01:10:04,000
+right now and just walks away. It's I
+
+2163
+01:10:04,000 --> 01:10:06,000
+I'm it drives me it drives me nuts. It's
+
+2164
+01:10:06,000 --> 01:10:08,000
+different than what do you nuts? No,
+
+2165
+01:10:08,000 --> 01:10:10,000
+it's perfect. And the next time he does
+
+2166
+01:10:10,000 --> 01:10:12,000
+that you say, "What do you nuts?"
+
+2167
+01:10:12,000 --> 01:10:14,000
+&gt;&gt; Yeah. Yeah. He'll throw that right at
+
+2168
+01:10:14,000 --> 01:10:15,000
+me.
+
+2169
+01:10:15,000 --> 01:10:17,000
+We're late for school. Shohei's pitching
+
+2170
+01:10:17,000 --> 01:10:17,000
+a no-hitter.
+
+2171
+01:10:17,000 --> 01:10:20,000
+&gt;&gt; Yes. Son, you're delusional. [laughter]
+
+2172
+01:10:20,000 --> 01:10:24,000
+We got to go.
+
+2173
+01:10:24,000 --> 01:10:26,000
+That's literally my life every morning.
+
+2174
+01:10:26,000 --> 01:10:27,000
+Oh, I love it.
+
+2175
+01:10:27,000 --> 01:10:29,000
+&gt;&gt; Yeah, that's a great that's a great one.
+
+2176
+01:10:29,000 --> 01:10:32,000
+Uh my what do you nuts moment, I was
+
+2177
+01:10:32,000 --> 01:10:35,000
+I was at Equinox the other day on the
+
+2178
+01:10:35,000 --> 01:10:38,000
+treadmill. And I was very proudly Josh
+
+2179
+01:10:38,000 --> 01:10:42,000
+knows three and a half speed 12 incline
+
+2180
+01:10:42,000 --> 01:10:43,000
+30 minutes. I'm
+
+2181
+01:10:43,000 --> 01:10:44,000
+Nice.
+
+2182
+01:10:44,000 --> 01:10:45,000
+&gt;&gt; I'm grooving. A good low intensity
+
+2183
+01:10:45,000 --> 01:10:47,000
+steady state.
+
+2184
+01:10:47,000 --> 01:10:50,000
+Corner of my eye, I see an older
+
+2185
+01:10:50,000 --> 01:10:52,000
+gentleman, probably 60 years old. You
+
+2186
+01:10:52,000 --> 01:10:53,000
+just see him.
+
+2187
+01:10:53,000 --> 01:10:56,000
+Two drumsticks.
+
+2188
+01:10:56,000 --> 01:10:57,000
+Drumming.
+
+2189
+01:10:57,000 --> 01:10:59,000
+Drumming. He's sitting he's next to like
+
+2190
+01:10:59,000 --> 01:11:03,000
+a machine. Air drumming. Drumming.
+
+2191
+01:11:03,000 --> 01:11:04,000
+Drumming. All of a sudden I see he takes
+
+2192
+01:11:04,000 --> 01:11:06,000
+a stick, throws it against the floor, he
+
+2193
+01:11:06,000 --> 01:11:07,000
+tries to catch it, he misses it, it
+
+2194
+01:11:07,000 --> 01:11:09,000
+bounces away. He goes back, he's
+
+2195
+01:11:09,000 --> 01:11:10,000
+drumming. He throws it against the
+
+2196
+01:11:10,000 --> 01:11:12,000
+floor, he tries to catch it, he misses
+
+2197
+01:11:12,000 --> 01:11:14,000
+it. He's drumming, he throws it against
+
+2198
+01:11:14,000 --> 01:11:15,000
+the floor, he finally catches it, he
+
+2199
+01:11:15,000 --> 01:11:17,000
+goes, "Yeah!" And he [laughter] is just
+
+2200
+01:11:17,000 --> 01:11:19,000
+practicing.
+
+2201
+01:11:19,000 --> 01:11:22,000
+He is practicing drumming, AirPods in,
+
+2202
+01:11:22,000 --> 01:11:25,000
+like full endurance level drumming at
+
+2203
+01:11:25,000 --> 01:11:28,000
+the gym, fully air drums. What do you
+
+2204
+01:11:28,000 --> 01:11:31,000
+nuts? Okay, this is Equinox. Do you know
+
+2205
+01:11:31,000 --> 01:11:33,000
+where the [&nbsp;__&nbsp;] you are? Are you out of
+
+2206
+01:11:33,000 --> 01:11:36,000
+your goddamn mind? Like what are you
+
+2207
+01:11:36,000 --> 01:11:38,000
+even doing? Like everybody is looking at
+
+2208
+01:11:38,000 --> 01:11:40,000
+him like, "This guy is This guy is
+
+2209
+01:11:40,000 --> 01:11:44,000
+crazy." And he is just AirPods in.
+
+2210
+01:11:44,000 --> 01:11:46,000
+Drumming. And like his foot, you can't
+
+2211
+01:11:46,000 --> 01:11:48,000
+see my foot. They can see my foot. You
+
+2212
+01:11:48,000 --> 01:11:49,000
+guys can't see my foot because of the
+
+2213
+01:11:49,000 --> 01:11:51,000
+new Mac and the way it zooms in on my
+
+2214
+01:11:51,000 --> 01:11:53,000
+face so close. He's like doing the pedal
+
+2215
+01:11:53,000 --> 01:11:56,000
+with his foot and jamming his wrists.
+
+2216
+01:11:56,000 --> 01:11:59,000
+Insanity. Completely nuts. I feel like
+
+2217
+01:11:59,000 --> 01:12:01,000
+you got to say hi to that guy.
+
+2218
+01:12:01,000 --> 01:12:03,000
+Yeah, he No, he's going to shiv me on
+
+2219
+01:12:03,000 --> 01:12:05,000
+the way out. I have no interest in
+
+2220
+01:12:05,000 --> 01:12:07,000
+saying hi to that guy. Literally a
+
+2221
+01:12:07,000 --> 01:12:08,000
+little knife comes out of this one of
+
+2222
+01:12:08,000 --> 01:12:10,000
+his drumsticks. I have no interest
+
+2223
+01:12:10,000 --> 01:12:12,000
+[laughter]
+
+2224
+01:12:12,000 --> 01:12:14,000
+in that crazy man. My what do you nuts
+
+2225
+01:12:14,000 --> 01:12:17,000
+is um
+
+2226
+01:12:17,000 --> 01:12:20,000
+as we all know, I'm a Costco daddy. Love
+
+2227
+01:12:20,000 --> 01:12:22,000
+a Costco. Love a sample.
+
+2228
+01:12:22,000 --> 01:12:25,000
+Look, one sample per person is what do
+
+2229
+01:12:25,000 --> 01:12:28,000
+you nuts? If your sample is off the
+
+2230
+01:12:28,000 --> 01:12:31,000
+charts, be proud and let me get another.
+
+2231
+01:12:31,000 --> 01:12:33,000
+What do you nuts? Let me go for round
+
+2232
+01:12:33,000 --> 01:12:36,000
+two. What's the big deal? It's a sample.
+
+2233
+01:12:36,000 --> 01:12:38,000
+Like you're not going to go under from a
+
+2234
+01:12:38,000 --> 01:12:40,000
+sample. And I don't cuz I do go for a
+
+2235
+01:12:40,000 --> 01:12:41,000
+second and we got to do the no eye
+
+2236
+01:12:41,000 --> 01:12:44,000
+contact, right? Just look away. [snorts]
+
+2237
+01:12:44,000 --> 01:12:45,000
+And then I just go like I act like
+
+2238
+01:12:45,000 --> 01:12:47,000
+[laughter] I'm on the phone or I'm
+
+2239
+01:12:47,000 --> 01:12:49,000
+looking at my watch. And but like can't
+
+2240
+01:12:49,000 --> 01:12:50,000
+I just like look you dead in the eyes
+
+2241
+01:12:50,000 --> 01:12:52,000
+and go, "That was fabulous. I'll have
+
+2242
+01:12:52,000 --> 01:12:55,000
+another." What do you nuts?
+
+2243
+01:12:55,000 --> 01:12:56,000
+I used to do that, Josh. I'm sure you
+
+2244
+01:12:56,000 --> 01:12:59,000
+did this too as a overweight youth. I
+
+2245
+01:12:59,000 --> 01:13:02,000
+would I would walk around I would walk
+
+2246
+01:13:02,000 --> 01:13:03,000
+around the mall and I would like grab
+
+2247
+01:13:03,000 --> 01:13:06,000
+like a nice sesame chicken taster Yeah.
+
+2248
+01:13:06,000 --> 01:13:08,000
+&gt;&gt; from the Chinese place and then I would
+
+2249
+01:13:08,000 --> 01:13:10,000
+come back around with my hood up and I
+
+2250
+01:13:10,000 --> 01:13:12,000
+would grab [laughter] another one. Oh my
+
+2251
+01:13:12,000 --> 01:13:13,000
+god.
+
+2252
+01:13:13,000 --> 01:13:14,000
+No.
+
+2253
+01:13:14,000 --> 01:13:16,000
+And so are you in the Antifa? No, I'm
+
+2254
+01:13:16,000 --> 01:13:18,000
+just fat. [laughter]
+
+2255
+01:13:18,000 --> 01:13:19,000
+No, I'm I'm just
+
+2256
+01:13:19,000 --> 01:13:21,000
+starving.
+
+2257
+01:13:21,000 --> 01:13:24,000
+I would go back and I would I will go
+
+2258
+01:13:24,000 --> 01:13:26,000
+back and I'll take two extra, but then
+
+2259
+01:13:26,000 --> 01:13:27,000
+I'll also take the thing and buy it.
+
+2260
+01:13:27,000 --> 01:13:29,000
+That's like my That's like my cover.
+
+2261
+01:13:29,000 --> 01:13:32,000
+It's like, "All right, I will buy these
+
+2262
+01:13:32,000 --> 01:13:34,000
+pop whatever popcorn things, but I'm but
+
+2263
+01:13:34,000 --> 01:13:35,000
+I'm also going to take another couple
+
+2264
+01:13:35,000 --> 01:13:37,000
+extra." I feel like that like gets me
+
+2265
+01:13:37,000 --> 01:13:38,000
+the cover I need.
+
+2266
+01:13:38,000 --> 01:13:39,000
+&gt;&gt; Smart.
+
+2267
+01:13:39,000 --> 01:13:40,000
+It's why he's a person. It balances
+
+2268
+01:13:40,000 --> 01:13:41,000
+[laughter] out well.
+
+2269
+01:13:41,000 --> 01:13:42,000
+Thank you for doing this, man.
+
+2270
+01:13:42,000 --> 01:13:45,000
+&gt;&gt; Adam, it's been an absolute pleasure,
+
+2271
+01:13:45,000 --> 01:13:46,000
+Adam. Thank you so much for joining us.
+
+2272
+01:13:46,000 --> 01:13:48,000
+Anything that you want to plug, anything
+
+2273
+01:13:48,000 --> 01:13:49,000
+that you want to say before we hop off?
+
+2274
+01:13:49,000 --> 01:13:51,000
+&gt;&gt; No, I just appreciate the time. I think
+
+2275
+01:13:51,000 --> 01:13:52,000
+um it's
+
+2276
+01:13:52,000 --> 01:13:55,000
+parenting is tough. Uh little humor goes
+
+2277
+01:13:55,000 --> 01:13:57,000
+a long way, so I was excited to come and
+
+2278
+01:13:57,000 --> 01:13:58,000
+meet you all. So thank you for having
+
+2279
+01:13:58,000 --> 01:14:02,000
+me. Glad. Thanks. Adam Mosseri is a good
+
+2280
+01:14:02,000 --> 01:14:05,000
+guy, folks. Listen to this podcast. This
+
+2281
+01:14:05,000 --> 01:14:06,000
+is five stars. Otherwise, what do you
+
+2282
+01:14:06,000 --> 01:14:08,000
+nuts? Listen to us wherever you get your
+
+2283
+01:14:08,000 --> 01:14:10,000
+podcasts, watch us on YouTube, share our
+
+2284
+01:14:10,000 --> 01:14:13,000
+clips, Instagram, and TikTok. Sorry.
+
+2285
+01:14:13,000 --> 01:14:15,000
+Mondays and Thursdays
+
+2286
+01:14:15,000 --> 01:14:19,000
+we will see you next time.
+

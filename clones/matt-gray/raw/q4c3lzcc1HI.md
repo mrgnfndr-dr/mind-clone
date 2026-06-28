@@ -1,0 +1,2 @@
+2|Go and commit to 30 days of consistent content on the platform. Just post something, anything. Eventually, what you'll find is that you're building up the shipping muscle, you're building up this muscle of progress over perfectionism, and you're also just
+13|starting to kind of develop some connections and some community. And hey, who knows? Maybe you start to get a lot more traction than you could have ever imagined.

@@ -1,0 +1,395 @@
+1
+00:00:00,000 --> 00:00:01,870
+ 
+Before you hire the next person to solve
+
+2
+00:00:01,870 --> 00:00:01,880
+Before you hire the next person to solve
+ 
+
+3
+00:00:01,880 --> 00:00:04,150
+Before you hire the next person to solve
+a problem, there's a question you have
+
+4
+00:00:04,150 --> 00:00:04,160
+a problem, there's a question you have
+ 
+
+5
+00:00:04,160 --> 00:00:07,030
+a problem, there's a question you have
+to ask. Can this be automated? I was
+
+6
+00:00:07,030 --> 00:00:07,040
+to ask. Can this be automated? I was
+ 
+
+7
+00:00:07,040 --> 00:00:09,150
+to ask. Can this be automated? I was
+talking to Oren Hoffman a few years ago,
+
+8
+00:00:09,150 --> 00:00:09,160
+talking to Oren Hoffman a few years ago,
+ 
+
+9
+00:00:09,160 --> 00:00:11,230
+talking to Oren Hoffman a few years ago,
+and he completely rewired how I think
+
+10
+00:00:11,230 --> 00:00:11,240
+and he completely rewired how I think
+ 
+
+11
+00:00:11,240 --> 00:00:13,090
+and he completely rewired how I think
+about teams when he said something that
+
+12
+00:00:13,090 --> 00:00:13,100
+about teams when he said something that
+ 
+
+13
+00:00:13,100 --> 00:00:14,710
+about teams when he said something that
+[music] stopped me cold and that I
+
+14
+00:00:14,710 --> 00:00:14,720
+[music] stopped me cold and that I
+ 
+
+15
+00:00:14,720 --> 00:00:16,310
+[music] stopped me cold and that I
+haven't been able to shake it in my mind
+
+16
+00:00:16,310 --> 00:00:16,320
+haven't been able to shake it in my mind
+ 
+
+17
+00:00:16,320 --> 00:00:19,270
+haven't been able to shake it in my mind
+since. He said, "Matt, hiring is a mark
+
+18
+00:00:19,270 --> 00:00:19,280
+since. He said, "Matt, hiring is a mark
+ 
+
+19
+00:00:19,280 --> 00:00:21,750
+since. He said, "Matt, hiring is a mark
+of failure." I was like, "Failure?
+
+20
+00:00:21,750 --> 00:00:21,760
+of failure." I was like, "Failure?
+ 
+
+21
+00:00:21,760 --> 00:00:23,430
+of failure." I was like, "Failure?
+Really? I thought, you know, hiring
+
+22
+00:00:23,430 --> 00:00:23,440
+Really? I thought, you know, hiring
+ 
+
+23
+00:00:23,440 --> 00:00:25,230
+Really? I thought, you know, hiring
+meant you were growing and, you know, it
+
+24
+00:00:25,230 --> 00:00:25,240
+meant you were growing and, you know, it
+ 
+
+25
+00:00:25,240 --> 00:00:26,710
+meant you were growing and, you know, it
+was great that you're adding to your
+
+26
+00:00:26,710 --> 00:00:26,720
+was great that you're adding to your
+ 
+
+27
+00:00:26,720 --> 00:00:28,230
+was great that you're adding to your
+team." His point was this, [music]
+
+28
+00:00:28,230 --> 00:00:28,240
+team." His point was this, [music]
+ 
+
+29
+00:00:28,240 --> 00:00:30,230
+team." His point was this, [music]
+right? If you're creating a new role, it
+
+30
+00:00:30,230 --> 00:00:30,240
+right? If you're creating a new role, it
+ 
+
+31
+00:00:30,240 --> 00:00:32,710
+right? If you're creating a new role, it
+means you failed to automate it first.
+
+32
+00:00:32,710 --> 00:00:32,720
+means you failed to automate it first.
+ 
+
+33
+00:00:32,720 --> 00:00:34,190
+means you failed to automate it first.
+Now, we're at an extraordinary
+
+34
+00:00:34,190 --> 00:00:34,200
+Now, we're at an extraordinary
+ 
+
+35
+00:00:34,200 --> 00:00:36,430
+Now, we're at an extraordinary
+inflection point right now. AI tools can
+
+36
+00:00:36,430 --> 00:00:36,440
+inflection point right now. AI tools can
+ 
+
+37
+00:00:36,440 --> 00:00:38,150
+inflection point right now. AI tools can
+handle engineering tasks, content
+
+38
+00:00:38,150 --> 00:00:38,160
+handle engineering tasks, content
+ 
+
+39
+00:00:38,160 --> 00:00:40,150
+handle engineering tasks, content
+production, customer service workflows,
+
+40
+00:00:40,150 --> 00:00:40,160
+production, customer service workflows,
+ 
+
+41
+00:00:40,160 --> 00:00:42,390
+production, customer service workflows,
+research, scheduling, distribution, and
+
+42
+00:00:42,390 --> 00:00:42,400
+research, scheduling, distribution, and
+ 
+
+43
+00:00:42,400 --> 00:00:44,390
+research, scheduling, distribution, and
+virtually every piece of grunt work in
+
+44
+00:00:44,390 --> 00:00:44,400
+virtually every piece of grunt work in
+ 
+
+45
+00:00:44,400 --> 00:00:46,430
+virtually every piece of grunt work in
+your business. The tools are there
+
+46
+00:00:46,430 --> 00:00:46,440
+your business. The tools are there
+ 
+
+47
+00:00:46,440 --> 00:00:48,390
+your business. The tools are there
+today. Most founders just haven't
+
+48
+00:00:48,390 --> 00:00:48,400
+today. Most founders just haven't
+ 
+
+49
+00:00:48,400 --> 00:00:50,070
+today. Most founders just haven't
+reorganized their thinking around them
+
+50
+00:00:50,070 --> 00:00:50,080
+reorganized their thinking around them
+ 
+
+51
+00:00:50,080 --> 00:00:51,830
+reorganized their thinking around them
+yet. What Elon Musk does better than
+
+52
+00:00:51,830 --> 00:00:51,840
+yet. What Elon Musk does better than
+ 
+
+53
+00:00:51,840 --> 00:00:53,950
+yet. What Elon Musk does better than
+almost any other operator is his
+
+54
+00:00:53,950 --> 00:00:53,960
+almost any other operator is his
+ 
+
+55
+00:00:53,960 --> 00:00:55,670
+almost any other operator is his
+four-step algorithm for building
+
+56
+00:00:55,670 --> 00:00:55,680
+four-step algorithm for building
+ 
+
+57
+00:00:55,680 --> 00:00:57,910
+four-step algorithm for building
+companies. And I think every founder
+
+58
+00:00:57,910 --> 00:00:57,920
+companies. And I think every founder
+ 
+
+59
+00:00:57,920 --> 00:00:59,430
+companies. And I think every founder
+should have this in their [music] head.
+
+60
+00:00:59,430 --> 00:00:59,440
+should have this in their [music] head.
+ 
+
+61
+00:00:59,440 --> 00:01:00,830
+should have this in their [music] head.
+Step one, you're going to find the
+
+62
+00:01:00,830 --> 00:01:00,840
+Step one, you're going to find the
+ 
+
+63
+00:01:00,840 --> 00:01:02,950
+Step one, you're going to find the
+limiting constraint in the operation.
+
+64
+00:01:02,950 --> 00:01:02,960
+limiting constraint in the operation.
+ 
+
+65
+00:01:02,960 --> 00:01:05,150
+limiting constraint in the operation.
+Step two [music] is to eliminate
+
+66
+00:01:05,150 --> 00:01:05,160
+Step two [music] is to eliminate
+ 
+
+67
+00:01:05,160 --> 00:01:07,750
+Step two [music] is to eliminate
+everything unnecessary around it. Step
+
+68
+00:01:07,750 --> 00:01:07,760
+everything unnecessary around it. Step
+ 
+
+69
+00:01:07,760 --> 00:01:09,510
+everything unnecessary around it. Step
+three is to simplify what remains down
+
+70
+00:01:09,510 --> 00:01:09,520
+three is to simplify what remains down
+ 
+
+71
+00:01:09,520 --> 00:01:11,430
+three is to simplify what remains down
+to its most essential form. [music]
+
+72
+00:01:11,430 --> 00:01:11,440
+to its most essential form. [music]
+ 
+
+73
+00:01:11,440 --> 00:01:14,350
+to its most essential form. [music]
+Step four is to automate what you can.
+
+74
+00:01:14,350 --> 00:01:14,360
+Step four is to automate what you can.
+ 
+
+75
+00:01:14,360 --> 00:01:16,670
+Step four is to automate what you can.
+Only after all four steps would you ever
+
+76
+00:01:16,670 --> 00:01:16,680
+Only after all four steps would you ever
+ 
+
+77
+00:01:16,680 --> 00:01:18,950
+Only after all four steps would you ever
+go and consider making that next new
+
+78
+00:01:18,950 --> 00:01:18,960
+go and consider making that next new
+ 
+
+79
+00:01:18,960 --> 00:01:21,520
+go and consider making that next new
+hire.
+

@@ -1,0 +1,3 @@
+2|what if you stopped doing 95% of what you're currently doing and instead of splitting your energy between multiple Pursuits you invested all that energy into a single path most people start too much and finish too little they invest
+12|minimal effort into many different things they work just as hard as successful people but they spread themselves too thin real greatness comes when you avoid the most enticing distractions and leaning to the stuff
+23|you're already doing when you go deeper work more on less continue reinvesting your time and energy into a sing sing Le Pursuit and you'll get further faster

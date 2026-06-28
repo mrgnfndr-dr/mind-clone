@@ -1,0 +1,18 @@
+{"cmd": "intent", "text": "I am a solo founder starting a brand-new Instagram personal brand from 0 followers — build-in-public toward monthly recurring revenue. Give me the correct step-by-step plan to start: niche/viewer, what to post, hooks, scripting, posting cadence, how to grow and eventually monetize."}
+{"cmd": "map", "source": "s056", "vectors": 39}
+{"cmd": "map", "source": "s038", "vectors": 31}
+{"cmd": "map", "source": "s004", "vectors": 13}
+{"cmd": "map", "source": "s062", "vectors": 37}
+{"cmd": "map", "source": "s043", "vectors": 40}
+{"cmd": "map", "source": "s005", "vectors": 15}
+{"cmd": "select", "source": "s056", "vectors": ["niche-must-have-demand", "untapped-niche-gap", "dont-become-the-niche", "document-live", "four-winning-formats", "one-format-per-day", "youtube-method", "thesis-from-real-yt-video", "idea-is-50pct", "differentiate-or-be-a-clone", "30k-in-30-days", "minimum-viable-edit"]}
+{"cmd": "select", "source": "s038", "vectors": ["choose-niche", "five-phases", "burn-the-boats", "first-3-seconds-clarity", "hook-true-not-clickbait", "idea-over-edit", "trial-reels", "being-real", "1-percent-better"]}
+{"cmd": "select", "source": "s004", "vectors": ["one-specific-viewer", "specific-wording", "200-reels", "cut-dead-space", "cut-the-intro", "three-vs", "clout-equation"]}
+{"cmd": "select", "source": "s062", "vectors": ["ideal-viewer-persona", "persona-questions", "dream-result-carves-niche", "emotion-first", "dream-result-hook-template", "first-10-seconds", "5-second-rule", "value-before-information", "positioning-mentor-vs-friend", "two-virality-ingredients"]}
+{"cmd": "select", "source": "s043", "vectors": ["six-stages-roadmap", "90-day-timeline", "content-level-one-1k", "master-one-platform-first", "learn-content-before-offer", "market-before-product", "call-builds-rapport"]}
+{"cmd": "map", "source": "s005", "vectors": 15}
+{"cmd": "map", "source": "s064", "vectors": 48}
+{"cmd": "select", "source": "s005", "vectors": ["three-levels", "first-10k-timeline", "first-5-seconds", "three-cs"]}
+{"cmd": "select", "source": "s064", "vectors": ["four-levels-of-hooks", "three-core-principles", "copy-bar-for-bar", "hook-mistakes", "relatability-over-flex", "swap-keywords"]}
+{"cmd": "compile", "eps": 58}
+{"cmd": "verify", "cited": 50, "bad": [], "accepted": true}

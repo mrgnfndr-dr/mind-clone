@@ -1,0 +1,5 @@
+1|You know, the paradox of success is that the less you chase it, the closer it gets. You know, fortune is like a flirt. The more you want something, the more it evades you. But the more you just, you know, do the work, you give yourself time, you're patient, and you kind
+11|of just let things happen. It seems like the faster things actually happen for you. We live in a culture that is addicted with results. I found in my own life when I'm too focused on the outcome, I feel this gap between
+22|where I am now and where I'm looking to go. So the thing that you can think about here is to pick the one thing, that one metric that you're going to move forward day after day that ladders up to the big ambitious vision that you
+33|have. For me, that's creating exceptional content every day. Uh the metric is really the profit per piece of content. And just by focusing on that core metric, making beautiful systemized and sustainable content with
+44|an amazing team and be able to ladder up to this massive vision of having a retreat center in the Doommites, but it's just one tiny action at a time. pre- results like the side dish, not the main

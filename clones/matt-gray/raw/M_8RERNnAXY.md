@@ -1,0 +1,5 @@
+1|If you want to reach peak performance, you need to understand the Goldilock skill. The Goldilocks effect is when your brain works best in just the right zone. Not overwhelmed, not bored, but stretch just enough so you have to pay attention. You know what
+12|you're really trying to do here, right, is find that perfect zone where you're stretching yourself just a little bit that you're challenging yourself and you're growing, but it's not so insanely challenging, right, that you're procrastinating on
+23|it, right, because it's just way too hard. In that case, you likely want to go and take the given task and break it into smaller bits so you can chew through all of it in that state of flow versus getting into a
+34|massive amount of cognitive dissonance. On the other side of things, if you find yourself just working on stuff that anyone else could do, it's probably a sign you should either be removing that stuff from your plate and delegating it, right? So, there's this
+45|perfect zone, right? little bit challenging, but not too much that you want to be sticking in if you're looking to really get ahead this

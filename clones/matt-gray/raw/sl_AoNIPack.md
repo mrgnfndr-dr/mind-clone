@@ -1,0 +1,3 @@
+2|What matters the most is your velocity of learning. Are you putting things out there, getting feedback, incorporating that feedback into what you're doing, learning from it, doubling down, stopping the things that aren't working, and keeping that cycle going? It's the
+12|fastest learners that are the biggest winners. Perfectionism feels safe because it just keeps you in control. But it's actually procrastination in disguise. Don't let yourself wait to the
+22|perfect moment to launch something because truthfully, it's never going to come. Start to program your mind to think perfectionism is procrastination and that done is better than

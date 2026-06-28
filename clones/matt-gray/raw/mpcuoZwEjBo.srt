@@ -1,0 +1,115 @@
+1
+00:00:00,120 --> 00:00:02,830
+ 
+rule for Life fail forward every failure
+
+2
+00:00:02,830 --> 00:00:02,840
+rule for Life fail forward every failure
+ 
+
+3
+00:00:02,840 --> 00:00:05,070
+rule for Life fail forward every failure
+you make is a chance to build a system
+
+4
+00:00:05,070 --> 00:00:05,080
+you make is a chance to build a system
+ 
+
+5
+00:00:05,080 --> 00:00:07,630
+you make is a chance to build a system
+first rule document everything every
+
+6
+00:00:07,630 --> 00:00:07,640
+first rule document everything every
+ 
+
+7
+00:00:07,640 --> 00:00:09,870
+first rule document everything every
+mistake becomes a system every system
+
+8
+00:00:09,870 --> 00:00:09,880
+mistake becomes a system every system
+ 
+
+9
+00:00:09,880 --> 00:00:12,230
+mistake becomes a system every system
+prevents future failures second rule
+
+10
+00:00:12,230 --> 00:00:12,240
+prevents future failures second rule
+ 
+
+11
+00:00:12,240 --> 00:00:15,549
+prevents future failures second rule
+fail fast test small learn quick scale
+
+12
+00:00:15,549 --> 00:00:15,559
+fail fast test small learn quick scale
+ 
+
+13
+00:00:15,559 --> 00:00:18,070
+fail fast test small learn quick scale
+what works the game changer turn every
+
+14
+00:00:18,070 --> 00:00:18,080
+what works the game changer turn every
+ 
+
+15
+00:00:18,080 --> 00:00:20,070
+what works the game changer turn every
+loss into leverage I built four
+
+16
+00:00:20,070 --> 00:00:20,080
+loss into leverage I built four
+ 
+
+17
+00:00:20,080 --> 00:00:21,950
+loss into leverage I built four
+profitable companies using this method
+
+18
+00:00:21,950 --> 00:00:21,960
+profitable companies using this method
+ 
+
+19
+00:00:21,960 --> 00:00:24,429
+profitable companies using this method
+now my failures fuel My Success stop
+
+20
+00:00:24,429 --> 00:00:24,439
+now my failures fuel My Success stop
+ 
+
+21
+00:00:24,439 --> 00:00:26,429
+now my failures fuel My Success stop
+avoiding failure start engineering
+
+22
+00:00:26,429 --> 00:00:26,439
+avoiding failure start engineering
+ 
+
+23
+00:00:26,439 --> 00:00:29,439
+avoiding failure start engineering
+success
+

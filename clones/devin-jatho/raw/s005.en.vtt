@@ -1,0 +1,2456 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:01.829 align:start position:0%
+ 
+Today<00:00:00.560><c> we're</c><00:00:00.800><c> talking</c><00:00:01.040><c> about</c><00:00:01.199><c> hooks.</c><00:00:01.600><c> If</c><00:00:01.760><c> you</c>
+
+00:00:01.829 --> 00:00:01.839 align:start position:0%
+Today we're talking about hooks. If you
+ 
+
+00:00:01.839 --> 00:00:03.270 align:start position:0%
+Today we're talking about hooks. If you
+want<00:00:01.920><c> to</c><00:00:02.000><c> get</c><00:00:02.159><c> more</c><00:00:02.320><c> views</c><00:00:02.560><c> on</c><00:00:02.720><c> your</c><00:00:02.879><c> videos,</c>
+
+00:00:03.270 --> 00:00:03.280 align:start position:0%
+want to get more views on your videos,
+ 
+
+00:00:03.280 --> 00:00:05.190 align:start position:0%
+want to get more views on your videos,
+you<00:00:03.439><c> need</c><00:00:03.520><c> to</c><00:00:03.679><c> create</c><00:00:04.080><c> better</c><00:00:04.400><c> hooks.</c><00:00:05.040><c> But</c>
+
+00:00:05.190 --> 00:00:05.200 align:start position:0%
+you need to create better hooks. But
+ 
+
+00:00:05.200 --> 00:00:06.309 align:start position:0%
+you need to create better hooks. But
+here's<00:00:05.359><c> the</c><00:00:05.520><c> thing.</c><00:00:05.680><c> I'm</c><00:00:05.839><c> not</c><00:00:06.000><c> just</c><00:00:06.160><c> going</c><00:00:06.240><c> to</c>
+
+00:00:06.309 --> 00:00:06.319 align:start position:0%
+here's the thing. I'm not just going to
+ 
+
+00:00:06.319 --> 00:00:08.230 align:start position:0%
+here's the thing. I'm not just going to
+give<00:00:06.400><c> you</c><00:00:06.480><c> the</c><00:00:06.720><c> basic</c><00:00:06.960><c> advice</c><00:00:07.359><c> like</c><00:00:07.919><c> make</c><00:00:08.080><c> your</c>
+
+00:00:08.230 --> 00:00:08.240 align:start position:0%
+give you the basic advice like make your
+ 
+
+00:00:08.240 --> 00:00:09.669 align:start position:0%
+give you the basic advice like make your
+hooks<00:00:08.559><c> negative</c><00:00:08.960><c> or</c><00:00:09.200><c> any</c><00:00:09.280><c> of</c><00:00:09.360><c> the</c><00:00:09.519><c> other</c>
+
+00:00:09.669 --> 00:00:09.679 align:start position:0%
+hooks negative or any of the other
+ 
+
+00:00:09.679 --> 00:00:11.910 align:start position:0%
+hooks negative or any of the other
+generic<00:00:10.160><c> horse</c><00:00:10.400><c> [&nbsp;__&nbsp;]</c><00:00:10.960><c> That</c><00:00:11.120><c> is</c><00:00:11.280><c> not</c><00:00:11.519><c> what</c><00:00:11.759><c> you</c>
+
+00:00:11.910 --> 00:00:11.920 align:start position:0%
+generic horse [&nbsp;__&nbsp;] That is not what you
+ 
+
+00:00:11.920 --> 00:00:14.310 align:start position:0%
+generic horse [&nbsp;__&nbsp;] That is not what you
+need.<00:00:12.400><c> What</c><00:00:12.639><c> you</c><00:00:12.800><c> need</c><00:00:13.040><c> is</c><00:00:13.360><c> three</c><00:00:13.679><c> viral</c><00:00:14.000><c> hook</c>
+
+00:00:14.310 --> 00:00:14.320 align:start position:0%
+need. What you need is three viral hook
+ 
+
+00:00:14.320 --> 00:00:15.990 align:start position:0%
+need. What you need is three viral hook
+frameworks<00:00:14.719><c> that</c><00:00:14.960><c> you</c><00:00:15.120><c> can</c><00:00:15.200><c> follow</c><00:00:15.599><c> step</c><00:00:15.839><c> by</c>
+
+00:00:15.990 --> 00:00:16.000 align:start position:0%
+frameworks that you can follow step by
+ 
+
+00:00:16.000 --> 00:00:18.230 align:start position:0%
+frameworks that you can follow step by
+step<00:00:16.320><c> and</c><00:00:16.560><c> use</c><00:00:16.880><c> instantly</c><00:00:17.440><c> to</c><00:00:17.760><c> get</c><00:00:18.000><c> more</c>
+
+00:00:18.230 --> 00:00:18.240 align:start position:0%
+step and use instantly to get more
+ 
+
+00:00:18.240 --> 00:00:20.230 align:start position:0%
+step and use instantly to get more
+views.<00:00:18.720><c> And</c><00:00:18.880><c> if</c><00:00:19.039><c> you</c><00:00:19.199><c> use</c><00:00:19.359><c> any</c><00:00:19.680><c> of</c><00:00:19.840><c> the</c><00:00:20.000><c> three</c>
+
+00:00:20.230 --> 00:00:20.240 align:start position:0%
+views. And if you use any of the three
+ 
+
+00:00:20.240 --> 00:00:21.830 align:start position:0%
+views. And if you use any of the three
+viral<00:00:20.640><c> hook</c><00:00:20.880><c> frameworks</c><00:00:21.279><c> that</c><00:00:21.439><c> I'm</c><00:00:21.600><c> going</c><00:00:21.680><c> to</c>
+
+00:00:21.830 --> 00:00:21.840 align:start position:0%
+viral hook frameworks that I'm going to
+ 
+
+00:00:21.840 --> 00:00:23.750 align:start position:0%
+viral hook frameworks that I'm going to
+give<00:00:21.920><c> you</c><00:00:22.080><c> in</c><00:00:22.320><c> today's</c><00:00:22.560><c> video,</c><00:00:23.199><c> I</c><00:00:23.439><c> guarant</c>
+
+00:00:23.750 --> 00:00:23.760 align:start position:0%
+give you in today's video, I guarant
+ 
+
+00:00:23.760 --> 00:00:25.349 align:start position:0%
+give you in today's video, I guarant
+[&nbsp;__&nbsp;]<00:00:24.160><c> tee</c><00:00:24.320><c> you</c><00:00:24.480><c> that</c><00:00:24.720><c> your</c><00:00:24.880><c> videos</c><00:00:25.199><c> will</c>
+
+00:00:25.349 --> 00:00:25.359 align:start position:0%
+[&nbsp;__&nbsp;] tee you that your videos will
+ 
+
+00:00:25.359 --> 00:00:26.950 align:start position:0%
+[&nbsp;__&nbsp;] tee you that your videos will
+perform<00:00:25.680><c> better.</c><00:00:26.000><c> And</c><00:00:26.240><c> I'm</c><00:00:26.400><c> so</c><00:00:26.560><c> confident</c><00:00:26.800><c> in</c>
+
+00:00:26.950 --> 00:00:26.960 align:start position:0%
+perform better. And I'm so confident in
+ 
+
+00:00:26.960 --> 00:00:28.870 align:start position:0%
+perform better. And I'm so confident in
+that<00:00:27.119><c> because</c><00:00:27.359><c> I've</c><00:00:27.599><c> been</c><00:00:27.760><c> using</c><00:00:28.080><c> these</c><00:00:28.400><c> three</c>
+
+00:00:28.870 --> 00:00:28.880 align:start position:0%
+that because I've been using these three
+ 
+
+00:00:28.880 --> 00:00:30.630 align:start position:0%
+that because I've been using these three
+hook<00:00:29.199><c> frameworks</c><00:00:29.599><c> for</c><00:00:29.760><c> the</c><00:00:29.920><c> past</c><00:00:30.080><c> 2</c><00:00:30.240><c> years</c><00:00:30.480><c> and</c>
+
+00:00:30.630 --> 00:00:30.640 align:start position:0%
+hook frameworks for the past 2 years and
+ 
+
+00:00:30.640 --> 00:00:32.790 align:start position:0%
+hook frameworks for the past 2 years and
+built<00:00:30.880><c> my</c><00:00:31.039><c> own</c><00:00:31.199><c> Instagram</c><00:00:31.519><c> to</c><00:00:31.760><c> over</c><00:00:32.000><c> 300,000</c>
+
+00:00:32.790 --> 00:00:32.800 align:start position:0%
+built my own Instagram to over 300,000
+ 
+
+00:00:32.800 --> 00:00:34.790 align:start position:0%
+built my own Instagram to over 300,000
+followers<00:00:33.280><c> with</c><00:00:33.600><c> them</c><00:00:33.920><c> and</c><00:00:34.160><c> helped</c><00:00:34.480><c> hundreds</c>
+
+00:00:34.790 --> 00:00:34.800 align:start position:0%
+followers with them and helped hundreds
+ 
+
+00:00:34.800 --> 00:00:36.630 align:start position:0%
+followers with them and helped hundreds
+of<00:00:34.960><c> other</c><00:00:35.200><c> business</c><00:00:35.440><c> owners</c><00:00:35.840><c> go</c><00:00:36.000><c> viral</c><00:00:36.399><c> as</c>
+
+00:00:36.630 --> 00:00:36.640 align:start position:0%
+of other business owners go viral as
+ 
+
+00:00:36.640 --> 00:00:38.790 align:start position:0%
+of other business owners go viral as
+well.<00:00:36.960><c> And</c><00:00:37.120><c> these</c><00:00:37.440><c> are</c><00:00:37.520><c> the</c><00:00:37.760><c> exact</c><00:00:38.079><c> same</c><00:00:38.480><c> three</c>
+
+00:00:38.790 --> 00:00:38.800 align:start position:0%
+well. And these are the exact same three
+ 
+
+00:00:38.800 --> 00:00:40.229 align:start position:0%
+well. And these are the exact same three
+hook<00:00:39.120><c> frameworks</c><00:00:39.520><c> that</c><00:00:39.680><c> I'm</c><00:00:39.840><c> going</c><00:00:40.000><c> to</c><00:00:40.079><c> give</c>
+
+00:00:40.229 --> 00:00:40.239 align:start position:0%
+hook frameworks that I'm going to give
+ 
+
+00:00:40.239 --> 00:00:42.389 align:start position:0%
+hook frameworks that I'm going to give
+you<00:00:40.480><c> today.</c><00:00:41.120><c> Starting</c><00:00:41.440><c> with</c><00:00:41.680><c> hook</c><00:00:42.000><c> framework</c>
+
+00:00:42.389 --> 00:00:42.399 align:start position:0%
+you today. Starting with hook framework
+ 
+
+00:00:42.399 --> 00:00:45.110 align:start position:0%
+you today. Starting with hook framework
+number<00:00:42.640><c> one,</c><00:00:43.280><c> cost</c><00:00:43.760><c> narration.</c><00:00:44.719><c> Now,</c><00:00:44.879><c> I</c>
+
+00:00:45.110 --> 00:00:45.120 align:start position:0%
+number one, cost narration. Now, I
+ 
+
+00:00:45.120 --> 00:00:46.790 align:start position:0%
+number one, cost narration. Now, I
+perfected<00:00:45.520><c> this</c><00:00:45.680><c> hook</c><00:00:45.920><c> framework</c><00:00:46.239><c> about</c><00:00:46.559><c> 18</c>
+
+00:00:46.790 --> 00:00:46.800 align:start position:0%
+perfected this hook framework about 18
+ 
+
+00:00:46.800 --> 00:00:48.630 align:start position:0%
+perfected this hook framework about 18
+months<00:00:47.039><c> ago</c><00:00:47.280><c> whenever</c><00:00:47.680><c> I</c><00:00:47.840><c> posted</c><00:00:48.160><c> this</c><00:00:48.399><c> video</c>
+
+00:00:48.630 --> 00:00:48.640 align:start position:0%
+months ago whenever I posted this video
+ 
+
+00:00:48.640 --> 00:00:50.549 align:start position:0%
+months ago whenever I posted this video
+that<00:00:48.879><c> got</c><00:00:49.120><c> over</c><00:00:49.280><c> a</c><00:00:49.520><c> million</c><00:00:49.760><c> views.</c><00:00:50.239><c> And</c><00:00:50.399><c> for</c>
+
+00:00:50.549 --> 00:00:50.559 align:start position:0%
+that got over a million views. And for
+ 
+
+00:00:50.559 --> 00:00:52.229 align:start position:0%
+that got over a million views. And for
+you<00:00:50.719><c> to</c><00:00:50.879><c> use</c><00:00:51.039><c> this</c><00:00:51.280><c> framework,</c><00:00:51.680><c> for</c><00:00:51.840><c> you</c><00:00:52.000><c> to</c><00:00:52.160><c> do</c>
+
+00:00:52.229 --> 00:00:52.239 align:start position:0%
+you to use this framework, for you to do
+ 
+
+00:00:52.239 --> 00:00:54.069 align:start position:0%
+you to use this framework, for you to do
+the<00:00:52.399><c> same,</c><00:00:52.640><c> you</c><00:00:52.800><c> must</c><00:00:52.960><c> first</c><00:00:53.280><c> understand</c><00:00:53.760><c> what</c>
+
+00:00:54.069 --> 00:00:54.079 align:start position:0%
+the same, you must first understand what
+ 
+
+00:00:54.079 --> 00:00:56.630 align:start position:0%
+the same, you must first understand what
+cost<00:00:54.399><c> narration</c><00:00:54.879><c> is.</c><00:00:55.440><c> So</c><00:00:55.680><c> cost</c><00:00:56.000><c> narration</c><00:00:56.480><c> is</c>
+
+00:00:56.630 --> 00:00:56.640 align:start position:0%
+cost narration is. So cost narration is
+ 
+
+00:00:56.640 --> 00:00:58.470 align:start position:0%
+cost narration is. So cost narration is
+just<00:00:56.879><c> whenever</c><00:00:57.199><c> you</c><00:00:57.440><c> increase</c><00:00:57.680><c> the</c><00:00:57.920><c> perceived</c>
+
+00:00:58.470 --> 00:00:58.480 align:start position:0%
+just whenever you increase the perceived
+ 
+
+00:00:58.480 --> 00:01:00.229 align:start position:0%
+just whenever you increase the perceived
+value<00:00:58.800><c> of</c><00:00:59.039><c> the</c><00:00:59.280><c> information</c><00:00:59.680><c> you're</c><00:00:59.920><c> going</c><00:01:00.079><c> to</c>
+
+00:01:00.229 --> 00:01:00.239 align:start position:0%
+value of the information you're going to
+ 
+
+00:01:00.239 --> 00:01:01.590 align:start position:0%
+value of the information you're going to
+share<00:01:00.399><c> in</c><00:01:00.640><c> your</c><00:01:00.800><c> video</c><00:01:01.120><c> by</c><00:01:01.359><c> either</c>
+
+00:01:01.590 --> 00:01:01.600 align:start position:0%
+share in your video by either
+ 
+
+00:01:01.600 --> 00:01:03.910 align:start position:0%
+share in your video by either
+highlighting<00:01:02.000><c> the</c><00:01:02.239><c> time,</c><00:01:02.800><c> money,</c><00:01:03.199><c> or</c><00:01:03.520><c> both</c>
+
+00:01:03.910 --> 00:01:03.920 align:start position:0%
+highlighting the time, money, or both
+ 
+
+00:01:03.920 --> 00:01:05.750 align:start position:0%
+highlighting the time, money, or both
+that<00:01:04.159><c> you</c><00:01:04.320><c> invested</c><00:01:04.720><c> to</c><00:01:04.960><c> gain</c><00:01:05.199><c> the</c><00:01:05.439><c> knowledge,</c>
+
+00:01:05.750 --> 00:01:05.760 align:start position:0%
+that you invested to gain the knowledge,
+ 
+
+00:01:05.760 --> 00:01:07.590 align:start position:0%
+that you invested to gain the knowledge,
+expertise<00:01:06.159><c> that</c><00:01:06.400><c> you're</c><00:01:06.560><c> introducing.</c><00:01:07.280><c> So,</c>
+
+00:01:07.590 --> 00:01:07.600 align:start position:0%
+expertise that you're introducing. So,
+ 
+
+00:01:07.600 --> 00:01:09.590 align:start position:0%
+expertise that you're introducing. So,
+for<00:01:07.680><c> example,</c><00:01:08.159><c> instead</c><00:01:08.479><c> of</c><00:01:08.640><c> saying,</c><00:01:09.200><c> "Here's</c>
+
+00:01:09.590 --> 00:01:09.600 align:start position:0%
+for example, instead of saying, "Here's
+ 
+
+00:01:09.600 --> 00:01:11.510 align:start position:0%
+for example, instead of saying, "Here's
+what<00:01:09.760><c> I</c><00:01:09.920><c> learned</c><00:01:10.080><c> from</c><00:01:10.320><c> Alex</c><00:01:10.720><c> Hermoszy's</c>
+
+00:01:11.510 --> 00:01:11.520 align:start position:0%
+what I learned from Alex Hermoszy's
+ 
+
+00:01:11.520 --> 00:01:13.750 align:start position:0%
+what I learned from Alex Hermoszy's
+event,"<00:01:12.400><c> you</c><00:01:12.640><c> could</c><00:01:12.880><c> automatically</c><00:01:13.520><c> make</c>
+
+00:01:13.750 --> 00:01:13.760 align:start position:0%
+event," you could automatically make
+ 
+
+00:01:13.760 --> 00:01:15.590 align:start position:0%
+event," you could automatically make
+your<00:01:13.920><c> hook</c><00:01:14.240><c> 10</c><00:01:14.479><c> times</c><00:01:14.799><c> better</c><00:01:15.040><c> in</c><00:01:15.200><c> your</c><00:01:15.360><c> video</c>
+
+00:01:15.590 --> 00:01:15.600 align:start position:0%
+your hook 10 times better in your video
+ 
+
+00:01:15.600 --> 00:01:17.590 align:start position:0%
+your hook 10 times better in your video
+scene<00:01:16.000><c> 10</c><00:01:16.159><c> times</c><00:01:16.400><c> more</c><00:01:16.640><c> valuable</c><00:01:17.040><c> by</c><00:01:17.360><c> just</c>
+
+00:01:17.590 --> 00:01:17.600 align:start position:0%
+scene 10 times more valuable by just
+ 
+
+00:01:17.600 --> 00:01:19.830 align:start position:0%
+scene 10 times more valuable by just
+saying,<00:01:18.159><c> "This</c><00:01:18.640><c> weekend</c><00:01:18.960><c> I</c><00:01:19.119><c> flew</c><00:01:19.360><c> all</c><00:01:19.520><c> the</c><00:01:19.680><c> way</c>
+
+00:01:19.830 --> 00:01:19.840 align:start position:0%
+saying, "This weekend I flew all the way
+ 
+
+00:01:19.840 --> 00:01:22.870 align:start position:0%
+saying, "This weekend I flew all the way
+to<00:01:20.080><c> Chicago</c><00:01:20.479><c> and</c><00:01:20.720><c> spent</c><00:01:21.119><c> close</c><00:01:21.280><c> to</c><00:01:21.640><c> $20,000</c><00:01:22.640><c> to</c>
+
+00:01:22.870 --> 00:01:22.880 align:start position:0%
+to Chicago and spent close to $20,000 to
+ 
+
+00:01:22.880 --> 00:01:24.950 align:start position:0%
+to Chicago and spent close to $20,000 to
+have<00:01:23.040><c> been</c><00:01:23.119><c> the</c><00:01:23.200><c> Alex</c><00:01:23.520><c> Mosy</c><00:01:23.920><c> event,</c><00:01:24.400><c> and</c><00:01:24.640><c> these</c>
+
+00:01:24.950 --> 00:01:24.960 align:start position:0%
+have been the Alex Mosy event, and these
+ 
+
+00:01:24.960 --> 00:01:27.749 align:start position:0%
+have been the Alex Mosy event, and these
+are<00:01:25.119><c> my</c><00:01:25.360><c> top</c><00:01:25.680><c> three</c><00:01:26.159><c> valuable</c><00:01:26.640><c> takeaways."</c><00:01:27.520><c> I</c>
+
+00:01:27.749 --> 00:01:27.759 align:start position:0%
+are my top three valuable takeaways." I
+ 
+
+00:01:27.759 --> 00:01:29.510 align:start position:0%
+are my top three valuable takeaways." I
+just<00:01:27.920><c> said</c><00:01:28.080><c> the</c><00:01:28.320><c> same</c><00:01:28.479><c> [&nbsp;__&nbsp;]</c><00:01:28.799><c> thing,</c><00:01:29.119><c> but</c>
+
+00:01:29.510 --> 00:01:29.520 align:start position:0%
+just said the same [&nbsp;__&nbsp;] thing, but
+ 
+
+00:01:29.520 --> 00:01:31.350 align:start position:0%
+just said the same [&nbsp;__&nbsp;] thing, but
+all<00:01:29.680><c> of</c><00:01:29.759><c> the</c><00:01:29.920><c> sudden</c><00:01:30.240><c> you</c><00:01:30.479><c> have</c><00:01:30.640><c> so</c><00:01:30.880><c> much</c><00:01:31.040><c> more</c>
+
+00:01:31.350 --> 00:01:31.360 align:start position:0%
+all of the sudden you have so much more
+ 
+
+00:01:31.360 --> 00:01:32.870 align:start position:0%
+all of the sudden you have so much more
+buyin<00:01:31.759><c> into</c><00:01:32.000><c> the</c><00:01:32.240><c> information</c><00:01:32.560><c> that</c><00:01:32.720><c> I'm</c>
+
+00:01:32.870 --> 00:01:32.880 align:start position:0%
+buyin into the information that I'm
+ 
+
+00:01:32.880 --> 00:01:34.870 align:start position:0%
+buyin into the information that I'm
+about<00:01:33.040><c> to</c><00:01:33.200><c> give</c><00:01:33.439><c> because</c><00:01:34.000><c> I</c><00:01:34.320><c> increased</c><00:01:34.720><c> the</c>
+
+00:01:34.870 --> 00:01:34.880 align:start position:0%
+about to give because I increased the
+ 
+
+00:01:34.880 --> 00:01:36.710 align:start position:0%
+about to give because I increased the
+perceived<00:01:35.360><c> value</c><00:01:35.680><c> by</c><00:01:35.920><c> highlighting</c><00:01:36.479><c> the</c>
+
+00:01:36.710 --> 00:01:36.720 align:start position:0%
+perceived value by highlighting the
+ 
+
+00:01:36.720 --> 00:01:38.390 align:start position:0%
+perceived value by highlighting the
+money<00:01:36.960><c> I</c><00:01:37.119><c> invested</c><00:01:37.520><c> to</c><00:01:37.680><c> gain</c><00:01:37.920><c> that</c><00:01:38.079><c> set</c>
+
+00:01:38.390 --> 00:01:38.400 align:start position:0%
+money I invested to gain that set
+ 
+
+00:01:38.400 --> 00:01:40.310 align:start position:0%
+money I invested to gain that set
+information.<00:01:39.200><c> So</c><00:01:39.360><c> for</c><00:01:39.520><c> the</c><00:01:39.680><c> viewer,</c><00:01:39.920><c> it</c><00:01:40.079><c> now</c>
+
+00:01:40.310 --> 00:01:40.320 align:start position:0%
+information. So for the viewer, it now
+ 
+
+00:01:40.320 --> 00:01:43.190 align:start position:0%
+information. So for the viewer, it now
+feels<00:01:40.640><c> like</c><00:01:40.799><c> it's</c><00:01:41.040><c> a</c><00:01:41.280><c> $20,000</c><00:01:42.240><c> [&nbsp;__&nbsp;]</c><00:01:42.720><c> video.</c>
+
+00:01:43.190 --> 00:01:43.200 align:start position:0%
+feels like it's a $20,000 [&nbsp;__&nbsp;] video.
+ 
+
+00:01:43.200 --> 00:01:44.789 align:start position:0%
+feels like it's a $20,000 [&nbsp;__&nbsp;] video.
+Here's<00:01:43.520><c> another</c><00:01:43.759><c> example</c><00:01:44.000><c> of</c><00:01:44.079><c> a</c><00:01:44.240><c> hook</c><00:01:44.560><c> cost</c>
+
+00:01:44.789 --> 00:01:44.799 align:start position:0%
+Here's another example of a hook cost
+ 
+
+00:01:44.799 --> 00:01:47.590 align:start position:0%
+Here's another example of a hook cost
+narrating<00:01:45.280><c> with</c><00:01:45.520><c> time.</c><00:01:46.000><c> So</c><00:01:46.320><c> instead</c><00:01:46.720><c> of</c><00:01:47.360><c> if</c>
+
+00:01:47.590 --> 00:01:47.600 align:start position:0%
+narrating with time. So instead of if
+ 
+
+00:01:47.600 --> 00:01:49.510 align:start position:0%
+narrating with time. So instead of if
+you<00:01:47.840><c> get</c><00:01:48.079><c> nervous</c><00:01:48.399><c> on</c><00:01:48.720><c> stage</c><00:01:49.040><c> right</c><00:01:49.280><c> before</c>
+
+00:01:49.510 --> 00:01:49.520 align:start position:0%
+you get nervous on stage right before
+ 
+
+00:01:49.520 --> 00:01:52.630 align:start position:0%
+you get nervous on stage right before
+every<00:01:49.840><c> speech,</c><00:01:50.399><c> always</c><00:01:50.880><c> do</c><00:01:51.200><c> this</c><00:01:51.680><c> ritual.</c><00:01:52.479><c> You</c>
+
+00:01:52.630 --> 00:01:52.640 align:start position:0%
+every speech, always do this ritual. You
+ 
+
+00:01:52.640 --> 00:01:54.630 align:start position:0%
+every speech, always do this ritual. You
+would<00:01:52.799><c> swap</c><00:01:53.119><c> that</c><00:01:53.360><c> for</c><00:01:53.840><c> if</c><00:01:54.079><c> you</c><00:01:54.159><c> have</c><00:01:54.320><c> anxiety</c>
+
+00:01:54.630 --> 00:01:54.640 align:start position:0%
+would swap that for if you have anxiety
+ 
+
+00:01:54.640 --> 00:01:56.230 align:start position:0%
+would swap that for if you have anxiety
+when<00:01:54.799><c> you</c><00:01:54.960><c> have</c><00:01:55.040><c> to</c><00:01:55.200><c> present</c><00:01:55.439><c> or</c><00:01:55.759><c> speak</c><00:01:56.000><c> in</c>
+
+00:01:56.230 --> 00:01:56.240 align:start position:0%
+when you have to present or speak in
+ 
+
+00:01:56.240 --> 00:01:58.069 align:start position:0%
+when you have to present or speak in
+front<00:01:56.320><c> of</c><00:01:56.399><c> a</c><00:01:56.640><c> large</c><00:01:56.880><c> audience.</c><00:01:57.600><c> This</c><00:01:57.840><c> will</c>
+
+00:01:58.069 --> 00:01:58.079 align:start position:0%
+front of a large audience. This will
+ 
+
+00:01:58.079 --> 00:01:59.670 align:start position:0%
+front of a large audience. This will
+change<00:01:58.320><c> your</c><00:01:58.479><c> life.</c><00:01:58.880><c> I've</c><00:01:59.119><c> given</c><00:01:59.360><c> almost</c><00:01:59.600><c> a</c>
+
+00:01:59.670 --> 00:01:59.680 align:start position:0%
+change your life. I've given almost a
+ 
+
+00:01:59.680 --> 00:02:01.429 align:start position:0%
+change your life. I've given almost a
+thousand<00:02:00.159><c> speeches</c><00:02:00.479><c> within</c><00:02:00.719><c> my</c><00:02:00.880><c> lifetime.</c>
+
+00:02:01.429 --> 00:02:01.439 align:start position:0%
+thousand speeches within my lifetime.
+ 
+
+00:02:01.439 --> 00:02:03.030 align:start position:0%
+thousand speeches within my lifetime.
+And<00:02:01.600><c> right</c><00:02:01.840><c> before</c><00:02:02.159><c> every</c><00:02:02.399><c> single</c><00:02:02.640><c> one</c><00:02:02.799><c> of</c><00:02:02.880><c> my</c>
+
+00:02:03.030 --> 00:02:03.040 align:start position:0%
+And right before every single one of my
+ 
+
+00:02:03.040 --> 00:02:05.030 align:start position:0%
+And right before every single one of my
+speeches,<00:02:03.360><c> I</c><00:02:03.520><c> do</c><00:02:03.680><c> a</c><00:02:03.840><c> ritual</c><00:02:04.159><c> that</c><00:02:04.399><c> slows</c><00:02:04.799><c> down</c>
+
+00:02:05.030 --> 00:02:05.040 align:start position:0%
+speeches, I do a ritual that slows down
+ 
+
+00:02:05.040 --> 00:02:07.109 align:start position:0%
+speeches, I do a ritual that slows down
+time,<00:02:05.600><c> removes</c><00:02:06.079><c> all</c><00:02:06.240><c> the</c><00:02:06.479><c> nerves,</c><00:02:06.799><c> and</c><00:02:06.960><c> makes</c>
+
+00:02:07.109 --> 00:02:07.119 align:start position:0%
+time, removes all the nerves, and makes
+ 
+
+00:02:07.119 --> 00:02:08.630 align:start position:0%
+time, removes all the nerves, and makes
+you<00:02:07.280><c> feel</c><00:02:07.439><c> like</c><00:02:07.600><c> you're</c><00:02:07.840><c> the</c><00:02:08.000><c> only</c><00:02:08.239><c> person</c><00:02:08.399><c> in</c>
+
+00:02:08.630 --> 00:02:08.640 align:start position:0%
+you feel like you're the only person in
+ 
+
+00:02:08.640 --> 00:02:09.990 align:start position:0%
+you feel like you're the only person in
+the<00:02:08.720><c> room.</c><00:02:09.119><c> Do</c><00:02:09.280><c> you</c><00:02:09.360><c> see</c><00:02:09.520><c> the</c><00:02:09.679><c> difference?</c>
+
+00:02:09.990 --> 00:02:10.000 align:start position:0%
+the room. Do you see the difference?
+ 
+
+00:02:10.000 --> 00:02:12.150 align:start position:0%
+the room. Do you see the difference?
+Your<00:02:10.160><c> hook</c><00:02:10.479><c> just</c><00:02:10.720><c> miraculously</c><00:02:11.440><c> goes</c><00:02:11.760><c> from</c>
+
+00:02:12.150 --> 00:02:12.160 align:start position:0%
+Your hook just miraculously goes from
+ 
+
+00:02:12.160 --> 00:02:14.390 align:start position:0%
+Your hook just miraculously goes from
+here's<00:02:12.480><c> a</c><00:02:12.640><c> tip</c><00:02:12.800><c> to</c><00:02:12.959><c> fill</c><00:02:13.120><c> us</c><00:02:13.360><c> nervous</c><00:02:13.840><c> to</c>
+
+00:02:14.390 --> 00:02:14.400 align:start position:0%
+here's a tip to fill us nervous to
+ 
+
+00:02:14.400 --> 00:02:16.949 align:start position:0%
+here's a tip to fill us nervous to
+here's<00:02:14.800><c> 1,000</c><00:02:15.520><c> speeches</c><00:02:16.080><c> worth</c><00:02:16.400><c> of</c><00:02:16.560><c> wisdom</c>
+
+00:02:16.949 --> 00:02:16.959 align:start position:0%
+here's 1,000 speeches worth of wisdom
+ 
+
+00:02:16.959 --> 00:02:19.030 align:start position:0%
+here's 1,000 speeches worth of wisdom
+distilled<00:02:17.360><c> down</c><00:02:17.520><c> into</c><00:02:17.840><c> a</c><00:02:18.000><c> singular</c><00:02:18.480><c> ritual</c>
+
+00:02:19.030 --> 00:02:19.040 align:start position:0%
+distilled down into a singular ritual
+ 
+
+00:02:19.040 --> 00:02:21.030 align:start position:0%
+distilled down into a singular ritual
+that<00:02:19.280><c> will</c><00:02:19.520><c> solve</c><00:02:19.840><c> all</c><00:02:20.080><c> of</c><00:02:20.160><c> your</c><00:02:20.400><c> problems.</c>
+
+00:02:21.030 --> 00:02:21.040 align:start position:0%
+that will solve all of your problems.
+ 
+
+00:02:21.040 --> 00:02:22.790 align:start position:0%
+that will solve all of your problems.
+Here's<00:02:21.360><c> one</c><00:02:21.520><c> more</c><00:02:21.680><c> example,</c><00:02:22.080><c> but</c><00:02:22.400><c> this</c><00:02:22.560><c> time</c>
+
+00:02:22.790 --> 00:02:22.800 align:start position:0%
+Here's one more example, but this time
+ 
+
+00:02:22.800 --> 00:02:25.510 align:start position:0%
+Here's one more example, but this time
+cost<00:02:23.120><c> narrating</c><00:02:23.599><c> with</c><00:02:23.840><c> time</c><00:02:24.239><c> and</c><00:02:24.640><c> money.</c><00:02:25.280><c> Here</c>
+
+00:02:25.510 --> 00:02:25.520 align:start position:0%
+cost narrating with time and money. Here
+ 
+
+00:02:25.520 --> 00:02:27.510 align:start position:0%
+cost narrating with time and money. Here
+are<00:02:25.599><c> the</c><00:02:25.840><c> top</c><00:02:26.160><c> five</c><00:02:26.480><c> things</c><00:02:26.720><c> to</c><00:02:26.959><c> look</c><00:02:27.040><c> out</c><00:02:27.280><c> for</c>
+
+00:02:27.510 --> 00:02:27.520 align:start position:0%
+are the top five things to look out for
+ 
+
+00:02:27.520 --> 00:02:29.670 align:start position:0%
+are the top five things to look out for
+on<00:02:27.760><c> your</c><00:02:28.000><c> next</c><00:02:28.319><c> family</c><00:02:28.720><c> vacation.</c><00:02:29.440><c> I've</c>
+
+00:02:29.670 --> 00:02:29.680 align:start position:0%
+on your next family vacation. I've
+ 
+
+00:02:29.680 --> 00:02:31.910 align:start position:0%
+on your next family vacation. I've
+visited<00:02:30.080><c> over</c><00:02:30.319><c> a</c><00:02:30.400><c> 100</c><00:02:30.720><c> countries,</c><00:02:31.280><c> spent</c><00:02:31.599><c> over</c>
+
+00:02:31.910 --> 00:02:31.920 align:start position:0%
+visited over a 100 countries, spent over
+ 
+
+00:02:31.920 --> 00:02:34.470 align:start position:0%
+visited over a 100 countries, spent over
+$100,000<00:02:32.800><c> on</c><00:02:33.040><c> travel</c><00:02:33.360><c> in</c><00:02:33.519><c> the</c><00:02:33.680><c> last</c><00:02:33.920><c> decade,</c>
+
+00:02:34.470 --> 00:02:34.480 align:start position:0%
+$100,000 on travel in the last decade,
+ 
+
+00:02:34.480 --> 00:02:36.070 align:start position:0%
+$100,000 on travel in the last decade,
+and<00:02:34.640><c> here</c><00:02:34.800><c> are</c><00:02:34.879><c> my</c><00:02:35.120><c> five</c><00:02:35.280><c> hidden</c><00:02:35.680><c> gems</c><00:02:35.920><c> for</c>
+
+00:02:36.070 --> 00:02:36.080 align:start position:0%
+and here are my five hidden gems for
+ 
+
+00:02:36.080 --> 00:02:37.750 align:start position:0%
+and here are my five hidden gems for
+your<00:02:36.239><c> family</c><00:02:36.400><c> to</c><00:02:36.640><c> visit</c><00:02:36.959><c> that</c><00:02:37.200><c> you</c><00:02:37.360><c> will</c><00:02:37.519><c> not</c>
+
+00:02:37.750 --> 00:02:37.760 align:start position:0%
+your family to visit that you will not
+ 
+
+00:02:37.760 --> 00:02:39.990 align:start position:0%
+your family to visit that you will not
+find<00:02:38.080><c> in</c><00:02:38.319><c> any</c><00:02:38.720><c> travel</c><00:02:39.040><c> guide.</c><00:02:39.599><c> See</c><00:02:39.760><c> how</c>
+
+00:02:39.990 --> 00:02:40.000 align:start position:0%
+find in any travel guide. See how
+ 
+
+00:02:40.000 --> 00:02:41.670 align:start position:0%
+find in any travel guide. See how
+powerful<00:02:40.319><c> that</c><00:02:40.560><c> is?</c><00:02:40.800><c> Literally,</c><00:02:41.280><c> you're</c><00:02:41.519><c> just</c>
+
+00:02:41.670 --> 00:02:41.680 align:start position:0%
+powerful that is? Literally, you're just
+ 
+
+00:02:41.680 --> 00:02:43.509 align:start position:0%
+powerful that is? Literally, you're just
+taking<00:02:42.000><c> whatever</c><00:02:42.400><c> your</c><00:02:42.560><c> base</c><00:02:42.800><c> hook</c><00:02:43.120><c> is,</c><00:02:43.280><c> and</c>
+
+00:02:43.509 --> 00:02:43.519 align:start position:0%
+taking whatever your base hook is, and
+ 
+
+00:02:43.519 --> 00:02:45.190 align:start position:0%
+taking whatever your base hook is, and
+instead<00:02:43.760><c> of</c><00:02:43.920><c> just</c><00:02:44.160><c> saying,</c><00:02:44.480><c> "Here's</c><00:02:44.879><c> what</c><00:02:45.040><c> I'm</c>
+
+00:02:45.190 --> 00:02:45.200 align:start position:0%
+instead of just saying, "Here's what I'm
+ 
+
+00:02:45.200 --> 00:02:47.110 align:start position:0%
+instead of just saying, "Here's what I'm
+going<00:02:45.280><c> to</c><00:02:45.360><c> give</c><00:02:45.440><c> you,"</c><00:02:45.920><c> you</c><00:02:46.480><c> narrate</c><00:02:46.959><c> your</c>
+
+00:02:47.110 --> 00:02:47.120 align:start position:0%
+going to give you," you narrate your
+ 
+
+00:02:47.120 --> 00:02:48.790 align:start position:0%
+going to give you," you narrate your
+hook<00:02:47.280><c> and</c><00:02:47.519><c> highlights</c><00:02:47.840><c> either</c><00:02:48.080><c> the</c><00:02:48.319><c> time,</c>
+
+00:02:48.790 --> 00:02:48.800 align:start position:0%
+hook and highlights either the time,
+ 
+
+00:02:48.800 --> 00:02:50.790 align:start position:0%
+hook and highlights either the time,
+money,<00:02:49.120><c> or</c><00:02:49.440><c> both</c><00:02:49.680><c> that</c><00:02:49.920><c> you</c><00:02:50.080><c> had</c><00:02:50.239><c> to</c><00:02:50.400><c> spend</c><00:02:50.640><c> to</c>
+
+00:02:50.790 --> 00:02:50.800 align:start position:0%
+money, or both that you had to spend to
+ 
+
+00:02:50.800 --> 00:02:52.710 align:start position:0%
+money, or both that you had to spend to
+acquire<00:02:51.200><c> that</c><00:02:51.519><c> information.</c><00:02:52.239><c> And</c><00:02:52.400><c> it</c><00:02:52.560><c> will</c>
+
+00:02:52.710 --> 00:02:52.720 align:start position:0%
+acquire that information. And it will
+ 
+
+00:02:52.720 --> 00:02:54.550 align:start position:0%
+acquire that information. And it will
+instantly<00:02:53.120><c> make</c><00:02:53.280><c> your</c><00:02:53.440><c> video</c><00:02:53.760><c> perform</c><00:02:54.239><c> better</c>
+
+00:02:54.550 --> 00:02:54.560 align:start position:0%
+instantly make your video perform better
+ 
+
+00:02:54.560 --> 00:02:56.869 align:start position:0%
+instantly make your video perform better
+and<00:02:54.879><c> make</c><00:02:55.040><c> your</c><00:02:55.280><c> video</c><00:02:55.599><c> perceived</c><00:02:56.080><c> as</c><00:02:56.400><c> more</c>
+
+00:02:56.869 --> 00:02:56.879 align:start position:0%
+and make your video perceived as more
+ 
+
+00:02:56.879 --> 00:02:59.430 align:start position:0%
+and make your video perceived as more
+valuable.<00:02:57.599><c> Hook</c><00:02:57.920><c> framework</c><00:02:58.480><c> number</c><00:02:58.720><c> two,</c><00:02:59.200><c> the</c>
+
+00:02:59.430 --> 00:02:59.440 align:start position:0%
+valuable. Hook framework number two, the
+ 
+
+00:02:59.440 --> 00:03:01.430 align:start position:0%
+valuable. Hook framework number two, the
+train<00:02:59.760><c> bloom</c><00:03:00.080><c> framework.</c><00:03:00.800><c> Now,</c><00:03:01.040><c> if</c><00:03:01.200><c> you</c><00:03:01.280><c> have</c>
+
+00:03:01.430 --> 00:03:01.440 align:start position:0%
+train bloom framework. Now, if you have
+ 
+
+00:03:01.440 --> 00:03:03.670 align:start position:0%
+train bloom framework. Now, if you have
+not<00:03:01.599><c> seen</c><00:03:01.920><c> this</c><00:03:02.159><c> guy's</c><00:03:02.640><c> content</c><00:03:03.040><c> recently,</c>
+
+00:03:03.670 --> 00:03:03.680 align:start position:0%
+not seen this guy's content recently,
+ 
+
+00:03:03.680 --> 00:03:05.270 align:start position:0%
+not seen this guy's content recently,
+then<00:03:03.840><c> you're</c><00:03:04.000><c> living</c><00:03:04.239><c> under</c><00:03:04.400><c> a</c><00:03:04.560><c> [&nbsp;__&nbsp;]</c><00:03:04.879><c> rock.</c>
+
+00:03:05.270 --> 00:03:05.280 align:start position:0%
+then you're living under a [&nbsp;__&nbsp;] rock.
+ 
+
+00:03:05.280 --> 00:03:07.110 align:start position:0%
+then you're living under a [&nbsp;__&nbsp;] rock.
+Within<00:03:05.599><c> the</c><00:03:05.840><c> past</c><00:03:06.080><c> 35</c><00:03:06.480><c> videos</c><00:03:06.720><c> that</c><00:03:06.959><c> this</c>
+
+00:03:07.110 --> 00:03:07.120 align:start position:0%
+Within the past 35 videos that this
+ 
+
+00:03:07.120 --> 00:03:08.949 align:start position:0%
+Within the past 35 videos that this
+guy's<00:03:07.360><c> posted</c><00:03:07.680><c> to</c><00:03:07.760><c> his</c><00:03:08.000><c> account,</c><00:03:08.480><c> he</c><00:03:08.720><c> has</c>
+
+00:03:08.949 --> 00:03:08.959 align:start position:0%
+guy's posted to his account, he has
+ 
+
+00:03:08.959 --> 00:03:12.550 align:start position:0%
+guy's posted to his account, he has
+averaged<00:03:10.040><c> 3.8</c><00:03:11.040><c> million</c><00:03:11.360><c> views.</c><00:03:12.080><c> Within</c><00:03:12.400><c> the</c>
+
+00:03:12.550 --> 00:03:12.560 align:start position:0%
+averaged 3.8 million views. Within the
+ 
+
+00:03:12.560 --> 00:03:16.390 align:start position:0%
+averaged 3.8 million views. Within the
+past<00:03:12.800><c> 35</c><00:03:13.280><c> videos,</c><00:03:13.840><c> he</c><00:03:14.080><c> is</c><00:03:14.360><c> averaging</c><00:03:15.400><c> 3.8</c>
+
+00:03:16.390 --> 00:03:16.400 align:start position:0%
+past 35 videos, he is averaging 3.8
+ 
+
+00:03:16.400 --> 00:03:18.630 align:start position:0%
+past 35 videos, he is averaging 3.8
+million<00:03:16.800><c> views.</c><00:03:17.360><c> And</c><00:03:17.519><c> the</c><00:03:17.760><c> strategy</c><00:03:18.159><c> that</c>
+
+00:03:18.630 --> 00:03:18.640 align:start position:0%
+million views. And the strategy that
+ 
+
+00:03:18.640 --> 00:03:21.190 align:start position:0%
+million views. And the strategy that
+he's<00:03:18.959><c> using</c><00:03:19.200><c> to</c><00:03:19.440><c> do</c><00:03:19.599><c> it</c><00:03:19.920><c> is</c><00:03:20.319><c> this</c><00:03:20.800><c> hook</c>
+
+00:03:21.190 --> 00:03:21.200 align:start position:0%
+he's using to do it is this hook
+ 
+
+00:03:21.200 --> 00:03:22.790 align:start position:0%
+he's using to do it is this hook
+framework.<00:03:21.840><c> So,</c><00:03:22.080><c> let's</c><00:03:22.319><c> go</c><00:03:22.400><c> and</c><00:03:22.480><c> take</c><00:03:22.560><c> a</c><00:03:22.720><c> look</c>
+
+00:03:22.790 --> 00:03:22.800 align:start position:0%
+framework. So, let's go and take a look
+ 
+
+00:03:22.800 --> 00:03:24.710 align:start position:0%
+framework. So, let's go and take a look
+at<00:03:22.879><c> an</c><00:03:23.040><c> example</c><00:03:23.360><c> from</c><00:03:23.519><c> the</c><00:03:23.680><c> man</c><00:03:23.920><c> himself.</c><00:03:24.400><c> Now,</c>
+
+00:03:24.710 --> 00:03:24.720 align:start position:0%
+at an example from the man himself. Now,
+ 
+
+00:03:24.720 --> 00:03:26.869 align:start position:0%
+at an example from the man himself. Now,
+this<00:03:24.879><c> video</c><00:03:25.120><c> in</c><00:03:25.280><c> particular</c><00:03:25.680><c> got</c><00:03:26.159><c> 16</c><00:03:26.560><c> million</c>
+
+00:03:26.869 --> 00:03:26.879 align:start position:0%
+this video in particular got 16 million
+ 
+
+00:03:26.879 --> 00:03:28.790 align:start position:0%
+this video in particular got 16 million
+views.<00:03:27.440><c> So,</c><00:03:27.680><c> let's</c><00:03:27.920><c> go</c><00:03:28.000><c> and</c><00:03:28.159><c> take</c><00:03:28.239><c> a</c><00:03:28.319><c> look.</c><00:03:28.640><c> Is</c>
+
+00:03:28.790 --> 00:03:28.800 align:start position:0%
+views. So, let's go and take a look. Is
+ 
+
+00:03:28.800 --> 00:03:30.070 align:start position:0%
+views. So, let's go and take a look. Is
+when<00:03:28.959><c> I</c><00:03:29.040><c> see</c><00:03:29.200><c> somebody</c><00:03:29.440><c> wearing</c><00:03:29.680><c> an</c><00:03:29.840><c> Apple</c>
+
+00:03:30.070 --> 00:03:30.080 align:start position:0%
+when I see somebody wearing an Apple
+ 
+
+00:03:30.080 --> 00:03:31.750 align:start position:0%
+when I see somebody wearing an Apple
+Watch<00:03:30.480><c> and</c><00:03:30.720><c> they</c><00:03:30.879><c> post</c><00:03:31.120><c> it</c><00:03:31.280><c> after</c><00:03:31.519><c> their</c>
+
+00:03:31.750 --> 00:03:31.760 align:start position:0%
+Watch and they post it after their
+ 
+
+00:03:31.760 --> 00:03:34.710 align:start position:0%
+Watch and they post it after their
+workout.<00:03:32.560><c> Really?</c><00:03:33.040><c> You</c><00:03:33.200><c> burned</c><00:03:33.720><c> 1,500</c>
+
+00:03:34.710 --> 00:03:34.720 align:start position:0%
+workout. Really? You burned 1,500
+ 
+
+00:03:34.720 --> 00:03:36.270 align:start position:0%
+workout. Really? You burned 1,500
+calories<00:03:35.360><c> in</c><00:03:35.599><c> an</c>
+
+00:03:36.270 --> 00:03:36.280 align:start position:0%
+calories in an
+ 
+
+00:03:36.280 --> 00:03:39.430 align:start position:0%
+calories in an
+hour?<00:03:37.280><c> Exactly</c><00:03:37.760><c> how</c><00:03:38.000><c> inaccurate</c><00:03:38.640><c> are</c><00:03:38.959><c> these?</c>
+
+00:03:39.430 --> 00:03:39.440 align:start position:0%
+hour? Exactly how inaccurate are these?
+ 
+
+00:03:39.440 --> 00:03:41.430 align:start position:0%
+hour? Exactly how inaccurate are these?
+Well,<00:03:39.680><c> lucky</c><00:03:40.000><c> for</c><00:03:40.159><c> us,</c><00:03:40.480><c> Stanford</c><00:03:40.959><c> researchers</c>
+
+00:03:41.430 --> 00:03:41.440 align:start position:0%
+Well, lucky for us, Stanford researchers
+ 
+
+00:03:41.440 --> 00:03:43.670 align:start position:0%
+Well, lucky for us, Stanford researchers
+wanted<00:03:41.680><c> to</c><00:03:41.840><c> find</c><00:03:42.000><c> out.</c><00:03:42.400><c> Did</c><00:03:42.640><c> you</c><00:03:42.799><c> see</c><00:03:42.959><c> that?</c><00:03:43.440><c> He</c>
+
+00:03:43.670 --> 00:03:43.680 align:start position:0%
+wanted to find out. Did you see that? He
+ 
+
+00:03:43.680 --> 00:03:45.910 align:start position:0%
+wanted to find out. Did you see that? He
+followed<00:03:44.000><c> a</c><00:03:44.239><c> very</c><00:03:44.560><c> methodical</c><00:03:45.120><c> structure.</c><00:03:45.680><c> He</c>
+
+00:03:45.910 --> 00:03:45.920 align:start position:0%
+followed a very methodical structure. He
+ 
+
+00:03:45.920 --> 00:03:47.270 align:start position:0%
+followed a very methodical structure. He
+found<00:03:46.080><c> a</c><00:03:46.239><c> viral</c><00:03:46.560><c> video</c><00:03:46.720><c> and</c><00:03:46.879><c> then</c><00:03:47.040><c> after</c>
+
+00:03:47.270 --> 00:03:47.280 align:start position:0%
+found a viral video and then after
+ 
+
+00:03:47.280 --> 00:03:48.949 align:start position:0%
+found a viral video and then after
+finding<00:03:47.599><c> said</c><00:03:47.840><c> viral</c><00:03:48.080><c> video</c><00:03:48.239><c> and</c><00:03:48.480><c> reacting</c><00:03:48.799><c> to</c>
+
+00:03:48.949 --> 00:03:48.959 align:start position:0%
+finding said viral video and reacting to
+ 
+
+00:03:48.959 --> 00:03:51.509 align:start position:0%
+finding said viral video and reacting to
+it,<00:03:49.519><c> he</c><00:03:49.760><c> sparked</c><00:03:50.159><c> your</c><00:03:50.400><c> curiosity</c><00:03:50.959><c> by</c><00:03:51.200><c> posing</c>
+
+00:03:51.509 --> 00:03:51.519 align:start position:0%
+it, he sparked your curiosity by posing
+ 
+
+00:03:51.519 --> 00:03:53.750 align:start position:0%
+it, he sparked your curiosity by posing
+a<00:03:51.760><c> question</c><00:03:52.239><c> in</c><00:03:52.560><c> the</c><00:03:52.799><c> viewer's</c><00:03:53.200><c> mind.</c><00:03:53.599><c> And</c>
+
+00:03:53.750 --> 00:03:53.760 align:start position:0%
+a question in the viewer's mind. And
+ 
+
+00:03:53.760 --> 00:03:55.990 align:start position:0%
+a question in the viewer's mind. And
+then<00:03:53.920><c> after</c><00:03:54.239><c> your</c><00:03:54.480><c> curiosity</c><00:03:55.040><c> is</c><00:03:55.280><c> peaked,</c><00:03:55.760><c> he</c>
+
+00:03:55.990 --> 00:03:56.000 align:start position:0%
+then after your curiosity is peaked, he
+ 
+
+00:03:56.000 --> 00:03:57.830 align:start position:0%
+then after your curiosity is peaked, he
+immediately<00:03:56.480><c> moved</c><00:03:56.720><c> into</c><00:03:57.120><c> satisfying</c><00:03:57.680><c> your</c>
+
+00:03:57.830 --> 00:03:57.840 align:start position:0%
+immediately moved into satisfying your
+ 
+
+00:03:57.840 --> 00:04:00.149 align:start position:0%
+immediately moved into satisfying your
+curiosity<00:03:58.400><c> by</c><00:03:58.640><c> introducing</c><00:03:59.120><c> a</c><00:03:59.439><c> third-party</c>
+
+00:04:00.149 --> 00:04:00.159 align:start position:0%
+curiosity by introducing a third-party
+ 
+
+00:04:00.159 --> 00:04:01.509 align:start position:0%
+curiosity by introducing a third-party
+authority.<00:04:00.640><c> Let's</c><00:04:00.799><c> take</c><00:04:00.959><c> a</c><00:04:01.040><c> look</c><00:04:01.120><c> at</c><00:04:01.280><c> another</c>
+
+00:04:01.509 --> 00:04:01.519 align:start position:0%
+authority. Let's take a look at another
+ 
+
+00:04:01.519 --> 00:04:03.270 align:start position:0%
+authority. Let's take a look at another
+example<00:04:01.840><c> so</c><00:04:02.000><c> you</c><00:04:02.080><c> can</c><00:04:02.239><c> notice</c><00:04:02.480><c> it.</c><00:04:02.799><c> This</c><00:04:03.040><c> video</c>
+
+00:04:03.270 --> 00:04:03.280 align:start position:0%
+example so you can notice it. This video
+ 
+
+00:04:03.280 --> 00:04:06.149 align:start position:0%
+example so you can notice it. This video
+got<00:04:03.599><c> 7.3</c><00:04:04.400><c> million</c><00:04:04.640><c> views.</c><00:04:05.120><c> Pay</c><00:04:05.360><c> attention.</c>
+
+00:04:06.149 --> 00:04:06.159 align:start position:0%
+got 7.3 million views. Pay attention.
+ 
+
+00:04:06.159 --> 00:04:07.990 align:start position:0%
+got 7.3 million views. Pay attention.
+They're<00:04:06.480><c> actually</c><00:04:06.879><c> talking</c><00:04:07.200><c> about</c><00:04:07.599><c> school</c>
+
+00:04:07.990 --> 00:04:08.000 align:start position:0%
+They're actually talking about school
+ 
+
+00:04:08.000 --> 00:04:13.110 align:start position:0%
+They're actually talking about school
+opening<00:04:08.400><c> up</c><00:04:08.560><c> again</c><00:04:08.799><c> in</c><00:04:08.959><c> a</c><00:04:09.120><c> few</c><00:04:09.280><c> days.</c>
+
+00:04:13.110 --> 00:04:13.120 align:start position:0%
+ 
+ 
+
+00:04:13.120 --> 00:04:16.310 align:start position:0%
+ 
+What<00:04:13.920><c> the</c><00:04:14.239><c> [&nbsp;__&nbsp;]</c><00:04:14.879><c> are</c><00:04:15.120><c> you</c><00:04:15.280><c> talking</c><00:04:15.439><c> about?</c><00:04:16.000><c> She</c>
+
+00:04:16.310 --> 00:04:16.320 align:start position:0%
+What the [&nbsp;__&nbsp;] are you talking about? She
+ 
+
+00:04:16.320 --> 00:04:18.789 align:start position:0%
+What the [&nbsp;__&nbsp;] are you talking about? She
+is<00:04:16.880><c> right.</c><00:04:17.280><c> Your</c><00:04:17.519><c> metabolism</c><00:04:18.160><c> isn't</c><00:04:18.479><c> slowing</c>
+
+00:04:18.789 --> 00:04:18.799 align:start position:0%
+is right. Your metabolism isn't slowing
+ 
+
+00:04:18.799 --> 00:04:20.789 align:start position:0%
+is right. Your metabolism isn't slowing
+down,<00:04:19.199><c> but</c><00:04:19.440><c> something</c><00:04:19.759><c> else</c><00:04:20.079><c> might</c><00:04:20.320><c> be.</c>
+
+00:04:20.789 --> 00:04:20.799 align:start position:0%
+down, but something else might be.
+ 
+
+00:04:20.799 --> 00:04:22.629 align:start position:0%
+down, but something else might be.
+Researchers<00:04:21.199><c> at</c><00:04:21.359><c> Duke</c><00:04:21.680><c> University</c><00:04:22.240><c> recently</c>
+
+00:04:22.629 --> 00:04:22.639 align:start position:0%
+Researchers at Duke University recently
+ 
+
+00:04:22.639 --> 00:04:24.390 align:start position:0%
+Researchers at Duke University recently
+finished<00:04:22.960><c> one</c><00:04:23.199><c> of</c><00:04:23.280><c> the</c><00:04:23.440><c> biggest</c><00:04:23.759><c> studies</c><00:04:24.160><c> on</c>
+
+00:04:24.390 --> 00:04:24.400 align:start position:0%
+finished one of the biggest studies on
+ 
+
+00:04:24.400 --> 00:04:26.790 align:start position:0%
+finished one of the biggest studies on
+our<00:04:24.639><c> metabolisms</c><00:04:25.520><c> ever</c><00:04:25.840><c> done.</c><00:04:26.320><c> He</c><00:04:26.479><c> just</c><00:04:26.639><c> did</c>
+
+00:04:26.790 --> 00:04:26.800 align:start position:0%
+our metabolisms ever done. He just did
+ 
+
+00:04:26.800 --> 00:04:28.469 align:start position:0%
+our metabolisms ever done. He just did
+the<00:04:26.960><c> same</c><00:04:27.199><c> [&nbsp;__&nbsp;]</c><00:04:27.600><c> So,</c><00:04:27.759><c> he</c><00:04:28.000><c> started</c><00:04:28.160><c> with</c><00:04:28.320><c> a</c>
+
+00:04:28.469 --> 00:04:28.479 align:start position:0%
+the same [&nbsp;__&nbsp;] So, he started with a
+ 
+
+00:04:28.479 --> 00:04:30.230 align:start position:0%
+the same [&nbsp;__&nbsp;] So, he started with a
+viral<00:04:28.800><c> video</c><00:04:29.040><c> that</c><00:04:29.280><c> is</c><00:04:29.440><c> already</c><00:04:29.759><c> proven</c><00:04:30.080><c> to</c>
+
+00:04:30.230 --> 00:04:30.240 align:start position:0%
+viral video that is already proven to
+ 
+
+00:04:30.240 --> 00:04:32.390 align:start position:0%
+viral video that is already proven to
+get<00:04:30.479><c> people's</c><00:04:30.800><c> attention.</c><00:04:31.520><c> Then</c><00:04:31.759><c> he</c><00:04:32.000><c> peaked</c>
+
+00:04:32.390 --> 00:04:32.400 align:start position:0%
+get people's attention. Then he peaked
+ 
+
+00:04:32.400 --> 00:04:34.310 align:start position:0%
+get people's attention. Then he peaked
+curiosity<00:04:33.040><c> by</c><00:04:33.280><c> saying,</c><00:04:33.440><c> "Your</c><00:04:33.759><c> metabolism</c>
+
+00:04:34.310 --> 00:04:34.320 align:start position:0%
+curiosity by saying, "Your metabolism
+ 
+
+00:04:34.320 --> 00:04:35.990 align:start position:0%
+curiosity by saying, "Your metabolism
+isn't<00:04:34.639><c> slowing</c><00:04:34.960><c> down,</c><00:04:35.120><c> but</c><00:04:35.360><c> something</c><00:04:35.600><c> else</c>
+
+00:04:35.990 --> 00:04:36.000 align:start position:0%
+isn't slowing down, but something else
+ 
+
+00:04:36.000 --> 00:04:37.749 align:start position:0%
+isn't slowing down, but something else
+might<00:04:36.400><c> be.</c><00:04:36.960><c> All</c><00:04:37.120><c> of</c><00:04:37.199><c> a</c><00:04:37.280><c> sudden,</c><00:04:37.440><c> you</c><00:04:37.600><c> want</c><00:04:37.680><c> to</c>
+
+00:04:37.749 --> 00:04:37.759 align:start position:0%
+might be. All of a sudden, you want to
+ 
+
+00:04:37.759 --> 00:04:39.189 align:start position:0%
+might be. All of a sudden, you want to
+know,<00:04:38.000><c> well,</c><00:04:38.160><c> what</c><00:04:38.320><c> else</c><00:04:38.479><c> is</c><00:04:38.639><c> slowing</c><00:04:38.880><c> down</c><00:04:38.960><c> my</c>
+
+00:04:39.189 --> 00:04:39.199 align:start position:0%
+know, well, what else is slowing down my
+ 
+
+00:04:39.199 --> 00:04:40.629 align:start position:0%
+know, well, what else is slowing down my
+metabolism?"<00:04:39.759><c> And</c><00:04:39.919><c> then</c><00:04:40.080><c> he</c><00:04:40.240><c> immediately</c>
+
+00:04:40.629 --> 00:04:40.639 align:start position:0%
+metabolism?" And then he immediately
+ 
+
+00:04:40.639 --> 00:04:42.390 align:start position:0%
+metabolism?" And then he immediately
+moves<00:04:40.880><c> into</c><00:04:41.120><c> the</c><00:04:41.280><c> third</c><00:04:41.440><c> party</c><00:04:41.680><c> authority</c><00:04:42.160><c> by</c>
+
+00:04:42.390 --> 00:04:42.400 align:start position:0%
+moves into the third party authority by
+ 
+
+00:04:42.400 --> 00:04:44.310 align:start position:0%
+moves into the third party authority by
+saying,<00:04:42.720><c> "Researchers</c><00:04:43.360><c> at</c><00:04:43.520><c> Duke</c><00:04:43.759><c> University</c>
+
+00:04:44.310 --> 00:04:44.320 align:start position:0%
+saying, "Researchers at Duke University
+ 
+
+00:04:44.320 --> 00:04:45.909 align:start position:0%
+saying, "Researchers at Duke University
+recently<00:04:44.720><c> finished</c><00:04:45.120><c> one</c><00:04:45.360><c> of</c><00:04:45.440><c> the</c><00:04:45.680><c> biggest</c>
+
+00:04:45.909 --> 00:04:45.919 align:start position:0%
+recently finished one of the biggest
+ 
+
+00:04:45.919 --> 00:04:47.510 align:start position:0%
+recently finished one of the biggest
+studies<00:04:46.240><c> on</c><00:04:46.400><c> our</c><00:04:46.560><c> metabolism."</c><00:04:47.199><c> Are</c><00:04:47.360><c> you</c>
+
+00:04:47.510 --> 00:04:47.520 align:start position:0%
+studies on our metabolism." Are you
+ 
+
+00:04:47.520 --> 00:04:49.270 align:start position:0%
+studies on our metabolism." Are you
+starting<00:04:47.759><c> to</c><00:04:47.840><c> notice</c><00:04:48.160><c> a</c><00:04:48.320><c> pattern</c><00:04:48.720><c> here?</c><00:04:49.120><c> Let's</c>
+
+00:04:49.270 --> 00:04:49.280 align:start position:0%
+starting to notice a pattern here? Let's
+ 
+
+00:04:49.280 --> 00:04:51.270 align:start position:0%
+starting to notice a pattern here? Let's
+take<00:04:49.360><c> a</c><00:04:49.440><c> look</c><00:04:49.600><c> at</c><00:04:49.759><c> one</c><00:04:50.000><c> more.</c><00:04:50.479><c> So,</c><00:04:50.800><c> this</c><00:04:51.040><c> one</c>
+
+00:04:51.270 --> 00:04:51.280 align:start position:0%
+take a look at one more. So, this one
+ 
+
+00:04:51.280 --> 00:05:01.870 align:start position:0%
+take a look at one more. So, this one
+gets<00:04:51.759><c> 6</c><00:04:52.000><c> million</c><00:04:52.400><c> views.</c><00:04:52.880><c> Let's</c><00:04:53.120><c> take</c><00:04:53.280><c> a</c>
+
+00:05:01.870 --> 00:05:01.880 align:start position:0%
+ 
+ 
+
+00:05:01.880 --> 00:05:04.550 align:start position:0%
+ 
+look.<00:05:02.880><c> Does</c><00:05:03.199><c> how</c><00:05:03.440><c> long</c><00:05:03.680><c> you</c><00:05:03.840><c> rest</c><00:05:04.160><c> between</c>
+
+00:05:04.550 --> 00:05:04.560 align:start position:0%
+look. Does how long you rest between
+ 
+
+00:05:04.560 --> 00:05:06.710 align:start position:0%
+look. Does how long you rest between
+sets<00:05:05.120><c> matter?</c><00:05:05.680><c> Probably</c><00:05:06.160><c> more</c><00:05:06.400><c> than</c><00:05:06.560><c> you</c>
+
+00:05:06.710 --> 00:05:06.720 align:start position:0%
+sets matter? Probably more than you
+ 
+
+00:05:06.720 --> 00:05:08.950 align:start position:0%
+sets matter? Probably more than you
+think.<00:05:07.199><c> Here's</c><00:05:07.520><c> why.</c><00:05:07.919><c> Researchers</c><00:05:08.560><c> wanted</c><00:05:08.800><c> to</c>
+
+00:05:08.950 --> 00:05:08.960 align:start position:0%
+think. Here's why. Researchers wanted to
+ 
+
+00:05:08.960 --> 00:05:10.710 align:start position:0%
+think. Here's why. Researchers wanted to
+know.<00:05:09.360><c> So,</c><00:05:09.520><c> they</c><00:05:09.680><c> took</c><00:05:09.919><c> two</c><00:05:10.160><c> groups</c><00:05:10.320><c> of</c><00:05:10.479><c> people</c>
+
+00:05:10.710 --> 00:05:10.720 align:start position:0%
+know. So, they took two groups of people
+ 
+
+00:05:10.720 --> 00:05:12.710 align:start position:0%
+know. So, they took two groups of people
+and<00:05:10.960><c> put</c><00:05:11.120><c> them</c><00:05:11.280><c> on</c><00:05:11.440><c> the</c><00:05:11.680><c> exact</c><00:05:12.000><c> same</c><00:05:12.320><c> workout</c>
+
+00:05:12.710 --> 00:05:12.720 align:start position:0%
+and put them on the exact same workout
+ 
+
+00:05:12.720 --> 00:05:15.350 align:start position:0%
+and put them on the exact same workout
+routine.<00:05:13.919><c> So,</c><00:05:14.240><c> as</c><00:05:14.400><c> you</c><00:05:14.560><c> can</c><00:05:14.639><c> [&nbsp;__&nbsp;]</c><00:05:14.960><c> notice,</c>
+
+00:05:15.350 --> 00:05:15.360 align:start position:0%
+routine. So, as you can [&nbsp;__&nbsp;] notice,
+ 
+
+00:05:15.360 --> 00:05:17.029 align:start position:0%
+routine. So, as you can [&nbsp;__&nbsp;] notice,
+he's<00:05:15.680><c> obviously</c><00:05:16.080><c> using</c><00:05:16.400><c> the</c><00:05:16.560><c> same</c><00:05:16.639><c> [&nbsp;__&nbsp;]</c>
+
+00:05:17.029 --> 00:05:17.039 align:start position:0%
+he's obviously using the same [&nbsp;__&nbsp;]
+ 
+
+00:05:17.039 --> 00:05:18.870 align:start position:0%
+he's obviously using the same [&nbsp;__&nbsp;]
+structure.<00:05:17.600><c> starting</c><00:05:17.919><c> with</c><00:05:18.080><c> a</c><00:05:18.240><c> viral</c><00:05:18.560><c> video</c>
+
+00:05:18.870 --> 00:05:18.880 align:start position:0%
+structure. starting with a viral video
+ 
+
+00:05:18.880 --> 00:05:20.230 align:start position:0%
+structure. starting with a viral video
+and<00:05:19.039><c> then</c><00:05:19.199><c> he</c><00:05:19.360><c> moves</c><00:05:19.520><c> into</c><00:05:19.759><c> peing</c><00:05:20.080><c> your</c>
+
+00:05:20.230 --> 00:05:20.240 align:start position:0%
+and then he moves into peing your
+ 
+
+00:05:20.240 --> 00:05:22.550 align:start position:0%
+and then he moves into peing your
+curiosity.<00:05:20.880><c> So</c><00:05:21.039><c> how</c><00:05:21.199><c> he</c><00:05:21.280><c> did</c><00:05:21.440><c> that</c><00:05:21.600><c> is</c><00:05:21.840><c> he</c><00:05:22.000><c> said</c>
+
+00:05:22.550 --> 00:05:22.560 align:start position:0%
+curiosity. So how he did that is he said
+ 
+
+00:05:22.560 --> 00:05:24.469 align:start position:0%
+curiosity. So how he did that is he said
+does<00:05:22.880><c> how</c><00:05:23.120><c> long</c><00:05:23.280><c> you</c><00:05:23.440><c> rest</c><00:05:23.680><c> in</c><00:05:23.840><c> between</c><00:05:24.080><c> sets</c>
+
+00:05:24.469 --> 00:05:24.479 align:start position:0%
+does how long you rest in between sets
+ 
+
+00:05:24.479 --> 00:05:26.550 align:start position:0%
+does how long you rest in between sets
+matter<00:05:25.120><c> probably</c><00:05:25.520><c> more</c><00:05:25.759><c> than</c><00:05:25.919><c> you</c><00:05:26.160><c> think</c>
+
+00:05:26.550 --> 00:05:26.560 align:start position:0%
+matter probably more than you think
+ 
+
+00:05:26.560 --> 00:05:28.469 align:start position:0%
+matter probably more than you think
+here's<00:05:26.880><c> why</c><00:05:27.280><c> and</c><00:05:27.440><c> then</c><00:05:27.600><c> he</c><00:05:27.759><c> immediately</c><00:05:28.160><c> moves</c>
+
+00:05:28.469 --> 00:05:28.479 align:start position:0%
+here's why and then he immediately moves
+ 
+
+00:05:28.479 --> 00:05:30.950 align:start position:0%
+here's why and then he immediately moves
+into<00:05:28.720><c> a</c><00:05:28.880><c> third</c><00:05:29.280><c> party</c><00:05:29.600><c> authority</c><00:05:30.080><c> by</c><00:05:30.320><c> saying</c>
+
+00:05:30.950 --> 00:05:30.960 align:start position:0%
+into a third party authority by saying
+ 
+
+00:05:30.960 --> 00:05:33.270 align:start position:0%
+into a third party authority by saying
+researchers<00:05:31.440><c> wanted</c><00:05:31.840><c> to</c><00:05:32.000><c> know</c><00:05:32.560><c> so</c><00:05:32.960><c> obviously</c>
+
+00:05:33.270 --> 00:05:33.280 align:start position:0%
+researchers wanted to know so obviously
+ 
+
+00:05:33.280 --> 00:05:34.710 align:start position:0%
+researchers wanted to know so obviously
+we<00:05:33.440><c> can</c><00:05:33.600><c> see</c><00:05:33.680><c> the</c><00:05:33.919><c> structure</c><00:05:34.160><c> is</c><00:05:34.400><c> what</c><00:05:34.560><c> he's</c>
+
+00:05:34.710 --> 00:05:34.720 align:start position:0%
+we can see the structure is what he's
+ 
+
+00:05:34.720 --> 00:05:36.070 align:start position:0%
+we can see the structure is what he's
+using<00:05:34.960><c> and</c><00:05:35.120><c> you</c><00:05:35.199><c> can</c><00:05:35.360><c> see</c><00:05:35.440><c> how</c><00:05:35.600><c> well</c><00:05:35.759><c> it's</c>
+
+00:05:36.070 --> 00:05:36.080 align:start position:0%
+using and you can see how well it's
+ 
+
+00:05:36.080 --> 00:05:38.150 align:start position:0%
+using and you can see how well it's
+working<00:05:36.639><c> so</c><00:05:36.960><c> how</c><00:05:37.120><c> do</c><00:05:37.199><c> you</c><00:05:37.280><c> implement</c><00:05:37.600><c> it</c><00:05:37.840><c> into</c>
+
+00:05:38.150 --> 00:05:38.160 align:start position:0%
+working so how do you implement it into
+ 
+
+00:05:38.160 --> 00:05:39.749 align:start position:0%
+working so how do you implement it into
+your<00:05:38.400><c> content</c><00:05:38.720><c> and</c><00:05:39.039><c> use</c><00:05:39.199><c> this</c><00:05:39.440><c> hook</c>
+
+00:05:39.749 --> 00:05:39.759 align:start position:0%
+your content and use this hook
+ 
+
+00:05:39.759 --> 00:05:41.350 align:start position:0%
+your content and use this hook
+framework.<00:05:40.320><c> Well</c><00:05:40.560><c> first</c><00:05:40.800><c> things</c><00:05:40.960><c> first</c><00:05:41.199><c> you</c>
+
+00:05:41.350 --> 00:05:41.360 align:start position:0%
+framework. Well first things first you
+ 
+
+00:05:41.360 --> 00:05:43.350 align:start position:0%
+framework. Well first things first you
+need<00:05:41.440><c> to</c><00:05:41.600><c> find</c><00:05:41.840><c> a</c><00:05:42.080><c> viral</c><00:05:42.479><c> video</c><00:05:42.639><c> and</c><00:05:42.960><c> react</c><00:05:43.199><c> to</c>
+
+00:05:43.350 --> 00:05:43.360 align:start position:0%
+need to find a viral video and react to
+ 
+
+00:05:43.360 --> 00:05:45.430 align:start position:0%
+need to find a viral video and react to
+it.<00:05:43.759><c> Now</c><00:05:44.000><c> it</c><00:05:44.240><c> is</c><00:05:44.320><c> important</c><00:05:44.560><c> that</c><00:05:44.800><c> you</c><00:05:44.960><c> pick</c><00:05:45.199><c> a</c>
+
+00:05:45.430 --> 00:05:45.440 align:start position:0%
+it. Now it is important that you pick a
+ 
+
+00:05:45.440 --> 00:05:47.670 align:start position:0%
+it. Now it is important that you pick a
+viral<00:05:46.080><c> video.</c><00:05:46.720><c> If</c><00:05:46.880><c> you</c><00:05:47.039><c> pick</c><00:05:47.120><c> a</c><00:05:47.280><c> [&nbsp;__&nbsp;]</c><00:05:47.520><c> video</c>
+
+00:05:47.670 --> 00:05:47.680 align:start position:0%
+viral video. If you pick a [&nbsp;__&nbsp;] video
+ 
+
+00:05:47.680 --> 00:05:48.950 align:start position:0%
+viral video. If you pick a [&nbsp;__&nbsp;] video
+that<00:05:47.919><c> didn't</c><00:05:48.160><c> get</c><00:05:48.320><c> views</c><00:05:48.560><c> in</c><00:05:48.720><c> the</c><00:05:48.800><c> first</c>
+
+00:05:48.950 --> 00:05:48.960 align:start position:0%
+that didn't get views in the first
+ 
+
+00:05:48.960 --> 00:05:50.390 align:start position:0%
+that didn't get views in the first
+place,<00:05:49.360><c> then</c><00:05:49.520><c> you</c><00:05:49.759><c> are</c><00:05:49.840><c> not</c><00:05:50.080><c> going</c><00:05:50.160><c> to</c><00:05:50.240><c> get</c>
+
+00:05:50.390 --> 00:05:50.400 align:start position:0%
+place, then you are not going to get
+ 
+
+00:05:50.400 --> 00:05:51.990 align:start position:0%
+place, then you are not going to get
+views<00:05:50.720><c> either</c><00:05:51.039><c> because</c><00:05:51.440><c> you're</c><00:05:51.680><c> literally</c>
+
+00:05:51.990 --> 00:05:52.000 align:start position:0%
+views either because you're literally
+ 
+
+00:05:52.000 --> 00:05:53.510 align:start position:0%
+views either because you're literally
+just<00:05:52.240><c> borrowing</c><00:05:52.560><c> the</c><00:05:52.720><c> hook</c><00:05:52.960><c> from</c><00:05:53.120><c> a</c><00:05:53.360><c> video</c>
+
+00:05:53.510 --> 00:05:53.520 align:start position:0%
+just borrowing the hook from a video
+ 
+
+00:05:53.520 --> 00:05:55.670 align:start position:0%
+just borrowing the hook from a video
+that<00:05:53.840><c> is</c><00:05:54.080><c> proven</c><00:05:54.320><c> to</c><00:05:54.479><c> be</c><00:05:54.720><c> ineffective.</c>
+
+00:05:55.670 --> 00:05:55.680 align:start position:0%
+that is proven to be ineffective.
+ 
+
+00:05:55.680 --> 00:05:57.909 align:start position:0%
+that is proven to be ineffective.
+However,<00:05:55.919><c> if</c><00:05:56.080><c> you</c><00:05:56.240><c> choose</c><00:05:56.560><c> a</c><00:05:56.880><c> viral</c><00:05:57.440><c> video,</c>
+
+00:05:57.909 --> 00:05:57.919 align:start position:0%
+However, if you choose a viral video,
+ 
+
+00:05:57.919 --> 00:05:59.189 align:start position:0%
+However, if you choose a viral video,
+then<00:05:58.080><c> you're</c><00:05:58.320><c> almost</c><00:05:58.560><c> guaranteeing</c><00:05:58.960><c> that</c>
+
+00:05:59.189 --> 00:05:59.199 align:start position:0%
+then you're almost guaranteeing that
+ 
+
+00:05:59.199 --> 00:06:00.950 align:start position:0%
+then you're almost guaranteeing that
+your<00:05:59.360><c> video</c><00:05:59.600><c> will</c><00:05:59.840><c> perform</c><00:06:00.320><c> well,</c><00:06:00.560><c> at</c><00:06:00.560><c> least</c>
+
+00:06:00.950 --> 00:06:00.960 align:start position:0%
+your video will perform well, at least
+ 
+
+00:06:00.960 --> 00:06:02.950 align:start position:0%
+your video will perform well, at least
+within<00:06:01.280><c> the</c><00:06:01.440><c> first</c><00:06:01.600><c> 3</c><00:06:01.759><c> to</c><00:06:02.000><c> 5</c><00:06:02.160><c> seconds</c><00:06:02.639><c> because</c>
+
+00:06:02.950 --> 00:06:02.960 align:start position:0%
+within the first 3 to 5 seconds because
+ 
+
+00:06:02.960 --> 00:06:04.950 align:start position:0%
+within the first 3 to 5 seconds because
+you're<00:06:03.280><c> borrowing</c><00:06:03.919><c> the</c><00:06:04.240><c> hook</c><00:06:04.479><c> from</c><00:06:04.639><c> a</c><00:06:04.800><c> video</c>
+
+00:06:04.950 --> 00:06:04.960 align:start position:0%
+you're borrowing the hook from a video
+ 
+
+00:06:04.960 --> 00:06:07.350 align:start position:0%
+you're borrowing the hook from a video
+that<00:06:05.120><c> is</c><00:06:05.360><c> already</c><00:06:05.840><c> proven</c><00:06:06.160><c> to</c><00:06:06.400><c> be</c><00:06:06.639><c> effective.</c>
+
+00:06:07.350 --> 00:06:07.360 align:start position:0%
+that is already proven to be effective.
+ 
+
+00:06:07.360 --> 00:06:09.110 align:start position:0%
+that is already proven to be effective.
+So<00:06:07.680><c> go</c><00:06:07.840><c> out</c><00:06:07.919><c> and</c><00:06:08.080><c> find</c><00:06:08.240><c> a</c><00:06:08.400><c> viral</c><00:06:08.720><c> video</c><00:06:08.960><c> and</c>
+
+00:06:09.110 --> 00:06:09.120 align:start position:0%
+So go out and find a viral video and
+ 
+
+00:06:09.120 --> 00:06:10.469 align:start position:0%
+So go out and find a viral video and
+then<00:06:09.199><c> whenever</c><00:06:09.440><c> you</c><00:06:09.600><c> find</c><00:06:09.680><c> a</c><00:06:09.840><c> viral</c><00:06:10.080><c> video</c><00:06:10.240><c> to</c>
+
+00:06:10.469 --> 00:06:10.479 align:start position:0%
+then whenever you find a viral video to
+ 
+
+00:06:10.479 --> 00:06:12.950 align:start position:0%
+then whenever you find a viral video to
+react<00:06:10.720><c> to,</c><00:06:11.440><c> watch</c><00:06:11.680><c> the</c><00:06:11.919><c> viral</c><00:06:12.319><c> video</c><00:06:12.560><c> and</c><00:06:12.800><c> then</c>
+
+00:06:12.950 --> 00:06:12.960 align:start position:0%
+react to, watch the viral video and then
+ 
+
+00:06:12.960 --> 00:06:14.870 align:start position:0%
+react to, watch the viral video and then
+cut<00:06:13.120><c> it</c><00:06:13.280><c> as</c><00:06:13.520><c> soon</c><00:06:13.600><c> as</c><00:06:13.759><c> the</c><00:06:13.919><c> juicy</c><00:06:14.240><c> part</c><00:06:14.400><c> is</c><00:06:14.560><c> over</c>
+
+00:06:14.870 --> 00:06:14.880 align:start position:0%
+cut it as soon as the juicy part is over
+ 
+
+00:06:14.880 --> 00:06:17.350 align:start position:0%
+cut it as soon as the juicy part is over
+and<00:06:15.039><c> then</c><00:06:15.280><c> pose</c><00:06:15.680><c> a</c><00:06:15.919><c> question</c><00:06:16.400><c> in</c><00:06:16.720><c> the</c><00:06:16.880><c> viewer's</c>
+
+00:06:17.350 --> 00:06:17.360 align:start position:0%
+and then pose a question in the viewer's
+ 
+
+00:06:17.360 --> 00:06:19.029 align:start position:0%
+and then pose a question in the viewer's
+mind.<00:06:17.840><c> And</c><00:06:17.919><c> then</c><00:06:18.080><c> once</c><00:06:18.319><c> you</c><00:06:18.479><c> pose</c><00:06:18.800><c> that</c>
+
+00:06:19.029 --> 00:06:19.039 align:start position:0%
+mind. And then once you pose that
+ 
+
+00:06:19.039 --> 00:06:21.110 align:start position:0%
+mind. And then once you pose that
+question<00:06:19.360><c> and</c><00:06:19.680><c> their</c><00:06:19.919><c> curiosity</c><00:06:20.479><c> is</c><00:06:20.720><c> peaked,</c>
+
+00:06:21.110 --> 00:06:21.120 align:start position:0%
+question and their curiosity is peaked,
+ 
+
+00:06:21.120 --> 00:06:22.790 align:start position:0%
+question and their curiosity is peaked,
+then<00:06:21.360><c> you</c><00:06:21.520><c> immediately</c><00:06:22.000><c> transition</c><00:06:22.400><c> into</c>
+
+00:06:22.790 --> 00:06:22.800 align:start position:0%
+then you immediately transition into
+ 
+
+00:06:22.800 --> 00:06:25.350 align:start position:0%
+then you immediately transition into
+satisfying<00:06:23.600><c> the</c><00:06:23.840><c> viewer's</c><00:06:24.240><c> curiosity</c><00:06:25.039><c> by</c>
+
+00:06:25.350 --> 00:06:25.360 align:start position:0%
+satisfying the viewer's curiosity by
+ 
+
+00:06:25.360 --> 00:06:26.950 align:start position:0%
+satisfying the viewer's curiosity by
+transitioning<00:06:26.000><c> immediately</c><00:06:26.560><c> into</c>
+
+00:06:26.950 --> 00:06:26.960 align:start position:0%
+transitioning immediately into
+ 
+
+00:06:26.960 --> 00:06:29.350 align:start position:0%
+transitioning immediately into
+introducing<00:06:27.520><c> a</c><00:06:27.840><c> third</c><00:06:28.160><c> party</c><00:06:28.400><c> authority</c><00:06:29.039><c> that</c>
+
+00:06:29.350 --> 00:06:29.360 align:start position:0%
+introducing a third party authority that
+ 
+
+00:06:29.360 --> 00:06:31.350 align:start position:0%
+introducing a third party authority that
+found<00:06:29.840><c> the</c><00:06:30.160><c> answer.</c><00:06:30.639><c> And</c><00:06:30.720><c> the</c><00:06:30.880><c> third</c><00:06:31.039><c> party</c>
+
+00:06:31.350 --> 00:06:31.360 align:start position:0%
+found the answer. And the third party
+ 
+
+00:06:31.360 --> 00:06:33.270 align:start position:0%
+found the answer. And the third party
+authority<00:06:31.919><c> meaning</c><00:06:32.240><c> either</c><00:06:32.800><c> maybe</c><00:06:33.039><c> it</c><00:06:33.199><c> might</c>
+
+00:06:33.270 --> 00:06:33.280 align:start position:0%
+authority meaning either maybe it might
+ 
+
+00:06:33.280 --> 00:06:35.029 align:start position:0%
+authority meaning either maybe it might
+be<00:06:33.360><c> a</c><00:06:33.520><c> reference</c><00:06:33.759><c> to</c><00:06:33.919><c> a</c><00:06:34.080><c> study</c><00:06:34.560><c> maybe</c><00:06:34.800><c> it's</c><00:06:34.960><c> a</c>
+
+00:06:35.029 --> 00:06:35.039 align:start position:0%
+be a reference to a study maybe it's a
+ 
+
+00:06:35.039 --> 00:06:36.870 align:start position:0%
+be a reference to a study maybe it's a
+quote<00:06:35.280><c> from</c><00:06:35.360><c> a</c><00:06:35.520><c> well-known</c><00:06:36.160><c> individual</c><00:06:36.639><c> or</c>
+
+00:06:36.870 --> 00:06:36.880 align:start position:0%
+quote from a well-known individual or
+ 
+
+00:06:36.880 --> 00:06:38.550 align:start position:0%
+quote from a well-known individual or
+figure<00:06:37.120><c> within</c><00:06:37.440><c> your</c><00:06:37.520><c> niche</c><00:06:38.000><c> and</c><00:06:38.160><c> maybe</c><00:06:38.319><c> it's</c>
+
+00:06:38.550 --> 00:06:38.560 align:start position:0%
+figure within your niche and maybe it's
+ 
+
+00:06:38.560 --> 00:06:40.150 align:start position:0%
+figure within your niche and maybe it's
+just<00:06:38.639><c> a</c><00:06:38.800><c> statistic</c><00:06:39.199><c> from</c><00:06:39.360><c> an</c><00:06:39.600><c> article</c><00:06:40.000><c> just</c>
+
+00:06:40.150 --> 00:06:40.160 align:start position:0%
+just a statistic from an article just
+ 
+
+00:06:40.160 --> 00:06:42.950 align:start position:0%
+just a statistic from an article just
+any<00:06:40.400><c> third</c><00:06:40.720><c> party</c><00:06:41.039><c> authority.</c><00:06:41.919><c> So</c><00:06:42.479><c> if</c><00:06:42.639><c> I</c><00:06:42.800><c> was</c>
+
+00:06:42.950 --> 00:06:42.960 align:start position:0%
+any third party authority. So if I was
+ 
+
+00:06:42.960 --> 00:06:44.870 align:start position:0%
+any third party authority. So if I was
+going<00:06:43.039><c> to</c><00:06:43.520><c> make</c><00:06:43.759><c> a</c><00:06:44.000><c> video</c><00:06:44.240><c> using</c><00:06:44.479><c> the</c><00:06:44.639><c> chain</c>
+
+00:06:44.870 --> 00:06:44.880 align:start position:0%
+going to make a video using the chain
+ 
+
+00:06:44.880 --> 00:06:46.309 align:start position:0%
+going to make a video using the chain
+bloom<00:06:45.199><c> framework</c><00:06:45.520><c> to</c><00:06:45.680><c> give</c><00:06:45.759><c> you</c><00:06:45.919><c> a</c><00:06:46.000><c> vision</c><00:06:46.160><c> on</c>
+
+00:06:46.309 --> 00:06:46.319 align:start position:0%
+bloom framework to give you a vision on
+ 
+
+00:06:46.319 --> 00:06:47.670 align:start position:0%
+bloom framework to give you a vision on
+what<00:06:46.400><c> it</c><00:06:46.560><c> would</c><00:06:46.639><c> look</c><00:06:46.800><c> like</c><00:06:47.199><c> it</c><00:06:47.360><c> would</c><00:06:47.520><c> look</c>
+
+00:06:47.670 --> 00:06:47.680 align:start position:0%
+what it would look like it would look
+ 
+
+00:06:47.680 --> 00:06:49.510 align:start position:0%
+what it would look like it would look
+something<00:06:47.919><c> like</c><00:06:48.080><c> this.</c><00:06:48.479><c> Over</c><00:06:48.720><c> the</c><00:06:48.880><c> last</c><00:06:49.120><c> 14</c>
+
+00:06:49.510 --> 00:06:49.520 align:start position:0%
+something like this. Over the last 14
+ 
+
+00:06:49.520 --> 00:06:52.390 align:start position:0%
+something like this. Over the last 14
+years<00:06:49.840><c> I</c><00:06:50.080><c> read</c><00:06:50.400><c> over</c><00:06:50.880><c> 400</c><00:06:51.280><c> books.</c><00:06:51.680><c> No</c><00:06:51.919><c> cap.</c>
+
+00:06:52.390 --> 00:06:52.400 align:start position:0%
+years I read over 400 books. No cap.
+ 
+
+00:06:52.400 --> 00:06:54.629 align:start position:0%
+years I read over 400 books. No cap.
+This<00:06:52.560><c> would</c><00:06:52.720><c> be</c><00:06:52.880><c> the</c><00:06:53.120><c> top</c><00:06:53.520><c> five</c><00:06:53.919><c> that</c><00:06:54.160><c> you</c><00:06:54.479><c> have</c>
+
+00:06:54.629 --> 00:06:54.639 align:start position:0%
+This would be the top five that you have
+ 
+
+00:06:54.639 --> 00:06:56.870 align:start position:0%
+This would be the top five that you have
+to<00:06:54.880><c> read</c><00:06:55.199><c> if</c><00:06:55.440><c> getting</c><00:06:55.759><c> your</c><00:06:56.000><c> [&nbsp;__&nbsp;]</c><00:06:56.319><c> together</c><00:06:56.639><c> is</c>
+
+00:06:56.870 --> 00:06:56.880 align:start position:0%
+to read if getting your [&nbsp;__&nbsp;] together is
+ 
+
+00:06:56.880 --> 00:06:59.110 align:start position:0%
+to read if getting your [&nbsp;__&nbsp;] together is
+on<00:06:57.039><c> the</c><00:06:57.199><c> agenda.</c><00:06:57.759><c> Damn,</c><00:06:58.080><c> that</c><00:06:58.240><c> hook</c><00:06:58.479><c> was</c><00:06:58.639><c> good.</c>
+
+00:06:59.110 --> 00:06:59.120 align:start position:0%
+on the agenda. Damn, that hook was good.
+ 
+
+00:06:59.120 --> 00:07:01.110 align:start position:0%
+on the agenda. Damn, that hook was good.
+But<00:06:59.360><c> why</c><00:06:59.599><c> does</c><00:06:59.759><c> him</c><00:07:00.000><c> being</c><00:07:00.160><c> in</c><00:07:00.319><c> prison</c><00:07:00.720><c> make</c><00:07:00.880><c> it</c>
+
+00:07:01.110 --> 00:07:01.120 align:start position:0%
+But why does him being in prison make it
+ 
+
+00:07:01.120 --> 00:07:02.629 align:start position:0%
+But why does him being in prison make it
+so<00:07:01.440><c> much</c><00:07:01.599><c> better?</c><00:07:02.000><c> Well,</c><00:07:02.240><c> Princeton</c>
+
+00:07:02.629 --> 00:07:02.639 align:start position:0%
+so much better? Well, Princeton
+ 
+
+00:07:02.639 --> 00:07:04.790 align:start position:0%
+so much better? Well, Princeton
+University<00:07:03.280><c> actually</c><00:07:03.599><c> studied</c><00:07:04.000><c> this.</c>
+
+00:07:04.790 --> 00:07:04.800 align:start position:0%
+University actually studied this.
+ 
+
+00:07:04.800 --> 00:07:06.710 align:start position:0%
+University actually studied this.
+They're<00:07:05.120><c> [&nbsp;__&nbsp;]</c><00:07:05.599><c> hooked.</c><00:07:06.080><c> That's</c><00:07:06.319><c> all</c><00:07:06.479><c> it</c>
+
+00:07:06.710 --> 00:07:06.720 align:start position:0%
+They're [&nbsp;__&nbsp;] hooked. That's all it
+ 
+
+00:07:06.720 --> 00:07:08.870 align:start position:0%
+They're [&nbsp;__&nbsp;] hooked. That's all it
+takes.<00:07:07.440><c> Now,</c><00:07:07.759><c> all</c><00:07:07.919><c> you</c><00:07:08.160><c> have</c><00:07:08.240><c> to</c><00:07:08.319><c> do</c><00:07:08.479><c> after</c><00:07:08.720><c> you</c>
+
+00:07:08.870 --> 00:07:08.880 align:start position:0%
+takes. Now, all you have to do after you
+ 
+
+00:07:08.880 --> 00:07:10.790 align:start position:0%
+takes. Now, all you have to do after you
+you<00:07:09.120><c> hook</c><00:07:09.360><c> them</c><00:07:09.440><c> with</c><00:07:09.599><c> that</c><00:07:10.000><c> is</c><00:07:10.319><c> walk</c><00:07:10.560><c> them</c>
+
+00:07:10.790 --> 00:07:10.800 align:start position:0%
+you hook them with that is walk them
+ 
+
+00:07:10.800 --> 00:07:12.550 align:start position:0%
+you hook them with that is walk them
+through<00:07:11.039><c> the</c><00:07:11.280><c> third</c><00:07:11.520><c> party</c><00:07:11.759><c> authority.</c><00:07:12.400><c> Well,</c>
+
+00:07:12.550 --> 00:07:12.560 align:start position:0%
+through the third party authority. Well,
+ 
+
+00:07:12.560 --> 00:07:14.230 align:start position:0%
+through the third party authority. Well,
+what<00:07:12.720><c> the</c><00:07:12.880><c> third</c><00:07:13.120><c> party</c><00:07:13.360><c> author</c><00:07:13.759><c> authority</c>
+
+00:07:14.230 --> 00:07:14.240 align:start position:0%
+what the third party author authority
+ 
+
+00:07:14.240 --> 00:07:16.390 align:start position:0%
+what the third party author authority
+found<00:07:14.800><c> and</c><00:07:15.039><c> break</c><00:07:15.280><c> down</c><00:07:15.520><c> how</c><00:07:15.759><c> this</c><00:07:16.000><c> translates</c>
+
+00:07:16.390 --> 00:07:16.400 align:start position:0%
+found and break down how this translates
+ 
+
+00:07:16.400 --> 00:07:17.990 align:start position:0%
+found and break down how this translates
+into<00:07:16.720><c> the</c><00:07:16.880><c> viewers's</c><00:07:17.199><c> life.</c><00:07:17.520><c> Then,</c><00:07:17.680><c> bada</c>
+
+00:07:17.990 --> 00:07:18.000 align:start position:0%
+into the viewers's life. Then, bada
+ 
+
+00:07:18.000 --> 00:07:19.830 align:start position:0%
+into the viewers's life. Then, bada
+bing,<00:07:18.240><c> bada</c><00:07:18.479><c> boom,</c><00:07:18.720><c> bada</c><00:07:19.039><c> bam,</c><00:07:19.440><c> you</c><00:07:19.680><c> have</c>
+
+00:07:19.830 --> 00:07:19.840 align:start position:0%
+bing, bada boom, bada bam, you have
+ 
+
+00:07:19.840 --> 00:07:22.309 align:start position:0%
+bing, bada boom, bada bam, you have
+yourself<00:07:20.160><c> a</c><00:07:20.479><c> viral</c><00:07:21.039><c> [&nbsp;__&nbsp;]</c><00:07:21.599><c> video.</c><00:07:22.160><c> The</c>
+
+00:07:22.309 --> 00:07:22.319 align:start position:0%
+yourself a viral [&nbsp;__&nbsp;] video. The
+ 
+
+00:07:22.319 --> 00:07:25.589 align:start position:0%
+yourself a viral [&nbsp;__&nbsp;] video. The
+third<00:07:22.560><c> hook</c><00:07:22.880><c> framework,</c><00:07:23.440><c> the</c><00:07:23.960><c> RSV</c><00:07:24.960><c> framework.</c>
+
+00:07:25.589 --> 00:07:25.599 align:start position:0%
+third hook framework, the RSV framework.
+ 
+
+00:07:25.599 --> 00:07:27.270 align:start position:0%
+third hook framework, the RSV framework.
+Now,<00:07:25.919><c> I</c><00:07:26.160><c> have</c><00:07:26.240><c> a</c><00:07:26.400><c> short</c><00:07:26.639><c> form</c><00:07:26.880><c> video</c><00:07:27.039><c> that</c>
+
+00:07:27.270 --> 00:07:27.280 align:start position:0%
+Now, I have a short form video that
+ 
+
+00:07:27.280 --> 00:07:29.830 align:start position:0%
+Now, I have a short form video that
+explains<00:07:27.759><c> this</c><00:07:28.000><c> RSB</c><00:07:28.639><c> in</c><00:07:28.880><c> hook</c><00:07:29.199><c> framework.</c><00:07:29.680><c> So,</c>
+
+00:07:29.830 --> 00:07:29.840 align:start position:0%
+explains this RSB in hook framework. So,
+ 
+
+00:07:29.840 --> 00:07:31.589 align:start position:0%
+explains this RSB in hook framework. So,
+let's<00:07:30.000><c> go</c><00:07:30.080><c> and</c><00:07:30.240><c> watch</c><00:07:30.400><c> it</c><00:07:30.560><c> together.</c><00:07:31.120><c> Now,</c><00:07:31.360><c> as</c>
+
+00:07:31.589 --> 00:07:31.599 align:start position:0%
+let's go and watch it together. Now, as
+ 
+
+00:07:31.599 --> 00:07:33.029 align:start position:0%
+let's go and watch it together. Now, as
+you<00:07:31.759><c> watch</c><00:07:31.919><c> the</c><00:07:32.160><c> video</c><00:07:32.400><c> together,</c><00:07:32.800><c> what</c>
+
+00:07:33.029 --> 00:07:33.039 align:start position:0%
+you watch the video together, what
+ 
+
+00:07:33.039 --> 00:07:34.870 align:start position:0%
+you watch the video together, what
+you'll<00:07:33.199><c> notice</c><00:07:33.360><c> is</c><00:07:33.599><c> that</c><00:07:33.759><c> I</c><00:07:34.000><c> used</c><00:07:34.319><c> the</c><00:07:34.560><c> train</c>
+
+00:07:34.870 --> 00:07:34.880 align:start position:0%
+you'll notice is that I used the train
+ 
+
+00:07:34.880 --> 00:07:36.469 align:start position:0%
+you'll notice is that I used the train
+bloom<00:07:35.199><c> strategy</c><00:07:35.599><c> inside</c><00:07:35.840><c> the</c><00:07:36.000><c> video.</c><00:07:36.319><c> That</c>
+
+00:07:36.469 --> 00:07:36.479 align:start position:0%
+bloom strategy inside the video. That
+ 
+
+00:07:36.479 --> 00:07:37.909 align:start position:0%
+bloom strategy inside the video. That
+easier<00:07:36.720><c> for</c><00:07:36.800><c> the</c><00:07:36.960><c> hook?</c><00:07:37.199><c> No,</c><00:07:37.440><c> but</c><00:07:37.599><c> I</c><00:07:37.759><c> still</c>
+
+00:07:37.909 --> 00:07:37.919 align:start position:0%
+easier for the hook? No, but I still
+ 
+
+00:07:37.919 --> 00:07:39.589 align:start position:0%
+easier for the hook? No, but I still
+used<00:07:38.160><c> it.</c><00:07:38.400><c> So,</c><00:07:38.560><c> look</c><00:07:38.720><c> out</c><00:07:38.800><c> for</c><00:07:38.960><c> that</c><00:07:39.120><c> as</c><00:07:39.360><c> well.</c>
+
+00:07:39.589 --> 00:07:39.599 align:start position:0%
+used it. So, look out for that as well.
+ 
+
+00:07:39.599 --> 00:07:42.150 align:start position:0%
+used it. So, look out for that as well.
+Let's<00:07:39.759><c> go</c><00:07:39.919><c> and</c><00:07:40.080><c> take</c><00:07:40.240><c> a</c><00:07:40.319><c> look.</c><00:07:40.880><c> 100</c><00:07:41.280><c> views</c><00:07:41.599><c> hook</c>
+
+00:07:42.150 --> 00:07:42.160 align:start position:0%
+Let's go and take a look. 100 views hook
+ 
+
+00:07:42.160 --> 00:07:45.830 align:start position:0%
+Let's go and take a look. 100 views hook
+versus<00:07:42.960><c> 1</c><00:07:43.199><c> million</c><00:07:43.599><c> views</c><00:07:44.199><c> hook.</c><00:07:45.199><c> Here's</c><00:07:45.520><c> five</c>
+
+00:07:45.830 --> 00:07:45.840 align:start position:0%
+versus 1 million views hook. Here's five
+ 
+
+00:07:45.840 --> 00:07:47.749 align:start position:0%
+versus 1 million views hook. Here's five
+side<00:07:46.000><c> hustles</c><00:07:46.400><c> to</c><00:07:46.560><c> make</c><00:07:46.720><c> 5K</c><00:07:47.120><c> per</c><00:07:47.360><c> month</c><00:07:47.520><c> in</c>
+
+00:07:47.749 --> 00:07:47.759 align:start position:0%
+side hustles to make 5K per month in
+ 
+
+00:07:47.759 --> 00:07:50.309 align:start position:0%
+side hustles to make 5K per month in
+passive<00:07:48.080><c> income.</c>
+
+00:07:50.309 --> 00:07:50.319 align:start position:0%
+passive income.
+ 
+
+00:07:50.319 --> 00:07:52.070 align:start position:0%
+passive income.
+If<00:07:50.560><c> you</c><00:07:50.639><c> want</c><00:07:50.800><c> to</c><00:07:50.880><c> wake</c><00:07:51.039><c> up</c><00:07:51.120><c> to</c><00:07:51.360><c> notifications</c>
+
+00:07:52.070 --> 00:07:52.080 align:start position:0%
+If you want to wake up to notifications
+ 
+
+00:07:52.080 --> 00:07:54.230 align:start position:0%
+If you want to wake up to notifications
+like<00:07:52.400><c> this</c><00:07:52.800><c> even</c><00:07:53.039><c> while</c><00:07:53.199><c> you're</c><00:07:53.440><c> on</c><00:07:53.680><c> vacation,</c>
+
+00:07:54.230 --> 00:07:54.240 align:start position:0%
+like this even while you're on vacation,
+ 
+
+00:07:54.240 --> 00:07:55.749 align:start position:0%
+like this even while you're on vacation,
+then<00:07:54.400><c> here</c><00:07:54.639><c> are</c><00:07:54.800><c> five</c><00:07:55.039><c> side</c><00:07:55.280><c> hustles</c><00:07:55.599><c> that</c>
+
+00:07:55.749 --> 00:07:55.759 align:start position:0%
+then here are five side hustles that
+ 
+
+00:07:55.759 --> 00:07:58.390 align:start position:0%
+then here are five side hustles that
+allow<00:07:56.000><c> you</c><00:07:56.160><c> to</c><00:07:56.400><c> do</c><00:07:56.560><c> just</c><00:07:57.039><c> that.</c><00:07:57.919><c> Damn,</c><00:07:58.240><c> that</c>
+
+00:07:58.390 --> 00:07:58.400 align:start position:0%
+allow you to do just that. Damn, that
+ 
+
+00:07:58.400 --> 00:08:00.390 align:start position:0%
+allow you to do just that. Damn, that
+hook<00:07:58.639><c> was</c><00:07:58.879><c> good.</c><00:07:59.280><c> But</c><00:07:59.440><c> what</c><00:07:59.680><c> made</c><00:07:59.840><c> it</c><00:08:00.000><c> so</c><00:08:00.240><c> much</c>
+
+00:08:00.390 --> 00:08:00.400 align:start position:0%
+hook was good. But what made it so much
+ 
+
+00:08:00.400 --> 00:08:02.309 align:start position:0%
+hook was good. But what made it so much
+better?<00:08:00.879><c> Princeton</c><00:08:01.360><c> University</c><00:08:02.000><c> actually</c>
+
+00:08:02.309 --> 00:08:02.319 align:start position:0%
+better? Princeton University actually
+ 
+
+00:08:02.319 --> 00:08:04.150 align:start position:0%
+better? Princeton University actually
+studied<00:08:02.639><c> this.</c><00:08:03.199><c> Whenever</c><00:08:03.520><c> you</c><00:08:03.759><c> just</c><00:08:03.919><c> mention</c>
+
+00:08:04.150 --> 00:08:04.160 align:start position:0%
+studied this. Whenever you just mention
+ 
+
+00:08:04.160 --> 00:08:05.670 align:start position:0%
+studied this. Whenever you just mention
+the<00:08:04.400><c> result</c><00:08:04.639><c> in</c><00:08:04.800><c> your</c><00:08:04.960><c> hook,</c><00:08:05.280><c> it</c><00:08:05.520><c> only</c>
+
+00:08:05.670 --> 00:08:05.680 align:start position:0%
+the result in your hook, it only
+ 
+
+00:08:05.680 --> 00:08:07.430 align:start position:0%
+the result in your hook, it only
+activates<00:08:06.240><c> two</c><00:08:06.479><c> parts</c><00:08:06.720><c> of</c><00:08:06.879><c> your</c><00:08:07.039><c> viewer's</c>
+
+00:08:07.430 --> 00:08:07.440 align:start position:0%
+activates two parts of your viewer's
+ 
+
+00:08:07.440 --> 00:08:09.110 align:start position:0%
+activates two parts of your viewer's
+brain.<00:08:07.840><c> But</c><00:08:07.919><c> whenever</c><00:08:08.240><c> you</c><00:08:08.400><c> describe</c><00:08:08.879><c> the</c>
+
+00:08:09.110 --> 00:08:09.120 align:start position:0%
+brain. But whenever you describe the
+ 
+
+00:08:09.120 --> 00:08:10.629 align:start position:0%
+brain. But whenever you describe the
+story<00:08:09.360><c> of</c><00:08:09.520><c> what</c><00:08:09.599><c> it's</c><00:08:09.759><c> like</c><00:08:09.919><c> to</c><00:08:10.160><c> experience</c>
+
+00:08:10.629 --> 00:08:10.639 align:start position:0%
+story of what it's like to experience
+ 
+
+00:08:10.639 --> 00:08:13.430 align:start position:0%
+story of what it's like to experience
+that<00:08:10.960><c> result,</c><00:08:11.520><c> it</c><00:08:11.680><c> lights</c><00:08:12.080><c> up</c><00:08:12.560><c> seven,</c><00:08:13.120><c> which</c>
+
+00:08:13.430 --> 00:08:13.440 align:start position:0%
+that result, it lights up seven, which
+ 
+
+00:08:13.440 --> 00:08:15.430 align:start position:0%
+that result, it lights up seven, which
+makes<00:08:13.599><c> it</c><00:08:13.840><c> three</c><00:08:14.080><c> times</c><00:08:14.400><c> more</c><00:08:14.639><c> neurologically</c>
+
+00:08:15.430 --> 00:08:15.440 align:start position:0%
+makes it three times more neurologically
+ 
+
+00:08:15.440 --> 00:08:17.670 align:start position:0%
+makes it three times more neurologically
+engaging<00:08:16.080><c> than</c><00:08:16.400><c> just</c><00:08:16.720><c> mentioning</c><00:08:17.120><c> the</c><00:08:17.360><c> result</c>
+
+00:08:17.670 --> 00:08:17.680 align:start position:0%
+engaging than just mentioning the result
+ 
+
+00:08:17.680 --> 00:08:19.749 align:start position:0%
+engaging than just mentioning the result
+itself.<00:08:18.560><c> So,</c><00:08:18.800><c> how</c><00:08:19.039><c> do</c><00:08:19.120><c> you</c><00:08:19.199><c> implement</c><00:08:19.520><c> this</c>
+
+00:08:19.749 --> 00:08:19.759 align:start position:0%
+itself. So, how do you implement this
+ 
+
+00:08:19.759 --> 00:08:23.950 align:start position:0%
+itself. So, how do you implement this
+into<00:08:20.080><c> your</c><00:08:20.400><c> hooks?</c><00:08:21.120><c> Simple</c><00:08:21.599><c> with</c><00:08:22.520><c> RSV,</c><00:08:23.520><c> not</c>
+
+00:08:23.950 --> 00:08:23.960 align:start position:0%
+into your hooks? Simple with RSV, not
+ 
+
+00:08:23.960 --> 00:08:25.629 align:start position:0%
+into your hooks? Simple with RSV, not
+HSV,
+
+00:08:25.629 --> 00:08:25.639 align:start position:0%
+HSV,
+ 
+
+00:08:25.639 --> 00:08:29.029 align:start position:0%
+HSV,
+RSV,<00:08:26.639><c> result,</c><00:08:27.440><c> scene,</c><00:08:27.840><c> and</c><00:08:28.160><c> vehicle.</c><00:08:28.800><c> So,</c>
+
+00:08:29.029 --> 00:08:29.039 align:start position:0%
+RSV, result, scene, and vehicle. So,
+ 
+
+00:08:29.039 --> 00:08:30.950 align:start position:0%
+RSV, result, scene, and vehicle. So,
+your<00:08:29.199><c> hook</c><00:08:29.440><c> needs</c><00:08:29.680><c> to</c><00:08:29.919><c> mention</c><00:08:30.240><c> the</c><00:08:30.479><c> desirable</c>
+
+00:08:30.950 --> 00:08:30.960 align:start position:0%
+your hook needs to mention the desirable
+ 
+
+00:08:30.960 --> 00:08:32.870 align:start position:0%
+your hook needs to mention the desirable
+result<00:08:31.280><c> of</c><00:08:31.520><c> your</c><00:08:31.680><c> viewer.</c><00:08:32.320><c> You</c><00:08:32.560><c> need</c><00:08:32.719><c> to</c>
+
+00:08:32.870 --> 00:08:32.880 align:start position:0%
+result of your viewer. You need to
+ 
+
+00:08:32.880 --> 00:08:34.709 align:start position:0%
+result of your viewer. You need to
+create<00:08:33.279><c> a</c><00:08:33.519><c> scene</c><00:08:33.760><c> in</c><00:08:33.919><c> the</c><00:08:34.080><c> viewer's</c><00:08:34.399><c> mind</c><00:08:34.560><c> of</c>
+
+00:08:34.709 --> 00:08:34.719 align:start position:0%
+create a scene in the viewer's mind of
+ 
+
+00:08:34.719 --> 00:08:36.550 align:start position:0%
+create a scene in the viewer's mind of
+what<00:08:34.880><c> it's</c><00:08:35.039><c> like</c><00:08:35.200><c> to</c><00:08:35.360><c> achieve</c><00:08:35.760><c> said</c><00:08:36.080><c> result.</c>
+
+00:08:36.550 --> 00:08:36.560 align:start position:0%
+what it's like to achieve said result.
+ 
+
+00:08:36.560 --> 00:08:37.909 align:start position:0%
+what it's like to achieve said result.
+And<00:08:36.719><c> you</c><00:08:36.880><c> need</c><00:08:36.959><c> to</c><00:08:37.120><c> tell</c><00:08:37.279><c> them</c><00:08:37.440><c> the</c><00:08:37.599><c> vehicle</c>
+
+00:08:37.909 --> 00:08:37.919 align:start position:0%
+And you need to tell them the vehicle
+ 
+
+00:08:37.919 --> 00:08:39.430 align:start position:0%
+And you need to tell them the vehicle
+that's<00:08:38.159><c> going</c><00:08:38.240><c> to</c><00:08:38.399><c> allow</c><00:08:38.640><c> them</c><00:08:38.880><c> to</c><00:08:39.120><c> create</c>
+
+00:08:39.430 --> 00:08:39.440 align:start position:0%
+that's going to allow them to create
+ 
+
+00:08:39.440 --> 00:08:41.670 align:start position:0%
+that's going to allow them to create
+that<00:08:39.680><c> said</c><00:08:40.000><c> result.</c><00:08:40.719><c> So,</c><00:08:41.039><c> for</c><00:08:41.200><c> example,</c>
+
+00:08:41.670 --> 00:08:41.680 align:start position:0%
+that said result. So, for example,
+ 
+
+00:08:41.680 --> 00:08:43.350 align:start position:0%
+that said result. So, for example,
+instead<00:08:42.000><c> of</c><00:08:42.159><c> just</c><00:08:42.320><c> saying,</c><00:08:42.640><c> "Here's</c><00:08:43.039><c> how</c><00:08:43.200><c> to</c>
+
+00:08:43.350 --> 00:08:43.360 align:start position:0%
+instead of just saying, "Here's how to
+ 
+
+00:08:43.360 --> 00:08:46.350 align:start position:0%
+instead of just saying, "Here's how to
+make<00:08:43.599><c> 30</c><00:08:43.919><c> videos</c><00:08:44.320><c> in</c><00:08:44.640><c> less</c><00:08:44.959><c> than</c><00:08:45.200><c> an</c>
+
+00:08:46.350 --> 00:08:46.360 align:start position:0%
+make 30 videos in less than an
+ 
+
+00:08:46.360 --> 00:08:48.870 align:start position:0%
+make 30 videos in less than an
+hour."<00:08:47.360><c> Imagine</c><00:08:47.760><c> it's</c><00:08:48.000><c> only</c><00:08:48.240><c> 10:00</c><00:08:48.480><c> a.m.</c><00:08:48.720><c> and</c>
+
+00:08:48.870 --> 00:08:48.880 align:start position:0%
+hour." Imagine it's only 10:00 a.m. and
+ 
+
+00:08:48.880 --> 00:08:50.790 align:start position:0%
+hour." Imagine it's only 10:00 a.m. and
+you<00:08:49.040><c> batched</c><00:08:49.440><c> a</c><00:08:49.680><c> full</c><00:08:50.080><c> month's</c><00:08:50.480><c> worth</c><00:08:50.640><c> of</c>
+
+00:08:50.790 --> 00:08:50.800 align:start position:0%
+you batched a full month's worth of
+ 
+
+00:08:50.800 --> 00:08:52.949 align:start position:0%
+you batched a full month's worth of
+content<00:08:51.200><c> in</c><00:08:51.519><c> less</c><00:08:51.760><c> than</c><00:08:52.000><c> an</c><00:08:52.160><c> hour.</c><00:08:52.640><c> This</c><00:08:52.800><c> is</c>
+
+00:08:52.949 --> 00:08:52.959 align:start position:0%
+content in less than an hour. This is
+ 
+
+00:08:52.959 --> 00:08:55.190 align:start position:0%
+content in less than an hour. This is
+the<00:08:53.120><c> exact</c><00:08:53.440><c> system</c><00:08:53.760><c> that</c><00:08:53.920><c> I</c><00:08:54.080><c> use</c><00:08:54.320><c> to</c><00:08:54.480><c> do</c><00:08:54.560><c> it.</c>
+
+00:08:55.190 --> 00:08:55.200 align:start position:0%
+the exact system that I use to do it.
+ 
+
+00:08:55.200 --> 00:08:56.790 align:start position:0%
+the exact system that I use to do it.
+Now,<00:08:55.440><c> instead</c><00:08:55.760><c> of</c><00:08:55.920><c> just</c><00:08:56.160><c> mentioning</c><00:08:56.480><c> a</c>
+
+00:08:56.790 --> 00:08:56.800 align:start position:0%
+Now, instead of just mentioning a
+ 
+
+00:08:56.800 --> 00:08:58.949 align:start position:0%
+Now, instead of just mentioning a
+result,<00:08:57.279><c> we</c><00:08:57.519><c> describe</c><00:08:58.000><c> the</c><00:08:58.240><c> scene</c><00:08:58.560><c> in</c><00:08:58.800><c> the</c>
+
+00:08:58.949 --> 00:08:58.959 align:start position:0%
+result, we describe the scene in the
+ 
+
+00:08:58.959 --> 00:09:00.790 align:start position:0%
+result, we describe the scene in the
+vehicle.<00:08:59.440><c> The</c><00:08:59.680><c> scene</c><00:08:59.920><c> being</c><00:09:00.160><c> that</c><00:09:00.320><c> it's</c><00:09:00.560><c> only</c>
+
+00:09:00.790 --> 00:09:00.800 align:start position:0%
+vehicle. The scene being that it's only
+ 
+
+00:09:00.800 --> 00:09:02.310 align:start position:0%
+vehicle. The scene being that it's only
+10:00<00:09:01.040><c> a.m.</c><00:09:01.200><c> and</c><00:09:01.360><c> a</c><00:09:01.519><c> full</c><00:09:01.680><c> month's</c><00:09:02.000><c> worth</c><00:09:02.160><c> of</c>
+
+00:09:02.310 --> 00:09:02.320 align:start position:0%
+10:00 a.m. and a full month's worth of
+ 
+
+00:09:02.320 --> 00:09:04.070 align:start position:0%
+10:00 a.m. and a full month's worth of
+content<00:09:02.560><c> is</c><00:09:02.720><c> done,</c><00:09:03.040><c> and</c><00:09:03.279><c> the</c><00:09:03.440><c> vehicle</c><00:09:03.760><c> being</c>
+
+00:09:04.070 --> 00:09:04.080 align:start position:0%
+content is done, and the vehicle being
+ 
+
+00:09:04.080 --> 00:09:05.910 align:start position:0%
+content is done, and the vehicle being
+my<00:09:04.399><c> system</c><00:09:04.720><c> that</c><00:09:04.959><c> allowed</c><00:09:05.200><c> me</c><00:09:05.360><c> to</c><00:09:05.519><c> do</c><00:09:05.600><c> it.</c>
+
+00:09:05.910 --> 00:09:05.920 align:start position:0%
+my system that allowed me to do it.
+ 
+
+00:09:05.920 --> 00:09:07.670 align:start position:0%
+my system that allowed me to do it.
+Beautiful<00:09:06.320><c> [&nbsp;__&nbsp;]</c><00:09:06.640><c> video,</c><00:09:06.800><c> if</c><00:09:07.040><c> I</c><00:09:07.120><c> do</c><00:09:07.279><c> say</c><00:09:07.440><c> so</c>
+
+00:09:07.670 --> 00:09:07.680 align:start position:0%
+Beautiful [&nbsp;__&nbsp;] video, if I do say so
+ 
+
+00:09:07.680 --> 00:09:10.949 align:start position:0%
+Beautiful [&nbsp;__&nbsp;] video, if I do say so
+myself,<00:09:08.320><c> but</c><00:09:08.720><c> to</c><00:09:09.040><c> the</c><00:09:09.200><c> point.</c><00:09:09.640><c> RSV.</c><00:09:10.640><c> So,</c>
+
+00:09:10.949 --> 00:09:10.959 align:start position:0%
+myself, but to the point. RSV. So,
+ 
+
+00:09:10.959 --> 00:09:13.990 align:start position:0%
+myself, but to the point. RSV. So,
+result<00:09:11.839><c> scene</c><00:09:12.560><c> vehicle.</c><00:09:13.200><c> This</c><00:09:13.360><c> framework</c><00:09:13.760><c> is</c>
+
+00:09:13.990 --> 00:09:14.000 align:start position:0%
+result scene vehicle. This framework is
+ 
+
+00:09:14.000 --> 00:09:16.230 align:start position:0%
+result scene vehicle. This framework is
+so<00:09:14.399><c> effective</c><00:09:14.880><c> because</c><00:09:15.200><c> when</c><00:09:15.440><c> you</c><00:09:15.680><c> create</c><00:09:16.000><c> the</c>
+
+00:09:16.230 --> 00:09:16.240 align:start position:0%
+so effective because when you create the
+ 
+
+00:09:16.240 --> 00:09:17.750 align:start position:0%
+so effective because when you create the
+scene<00:09:16.560><c> of</c><00:09:16.720><c> the</c><00:09:16.880><c> desirable</c><00:09:17.279><c> experience</c><00:09:17.600><c> that</c>
+
+00:09:17.750 --> 00:09:17.760 align:start position:0%
+scene of the desirable experience that
+ 
+
+00:09:17.760 --> 00:09:19.910 align:start position:0%
+scene of the desirable experience that
+your<00:09:17.920><c> viewer</c><00:09:18.240><c> wants,</c><00:09:18.800><c> they're</c><00:09:19.040><c> able</c><00:09:19.279><c> to</c><00:09:19.600><c> or</c>
+
+00:09:19.910 --> 00:09:19.920 align:start position:0%
+your viewer wants, they're able to or
+ 
+
+00:09:19.920 --> 00:09:21.910 align:start position:0%
+your viewer wants, they're able to or
+they<00:09:20.160><c> more</c><00:09:20.320><c> so</c><00:09:20.560><c> begin</c><00:09:20.800><c> to</c><00:09:21.040><c> imagine</c><00:09:21.440><c> themselves</c>
+
+00:09:21.910 --> 00:09:21.920 align:start position:0%
+they more so begin to imagine themselves
+ 
+
+00:09:21.920 --> 00:09:23.750 align:start position:0%
+they more so begin to imagine themselves
+in<00:09:22.160><c> that</c><00:09:22.320><c> experience</c><00:09:22.640><c> and</c><00:09:22.959><c> get</c><00:09:23.120><c> drawn</c><00:09:23.440><c> into</c>
+
+00:09:23.750 --> 00:09:23.760 align:start position:0%
+in that experience and get drawn into
+ 
+
+00:09:23.760 --> 00:09:25.670 align:start position:0%
+in that experience and get drawn into
+learning<00:09:24.000><c> how</c><00:09:24.160><c> to</c><00:09:24.320><c> turn</c><00:09:24.480><c> it</c><00:09:24.720><c> into</c><00:09:24.959><c> a</c><00:09:25.120><c> reality,</c>
+
+00:09:25.670 --> 00:09:25.680 align:start position:0%
+learning how to turn it into a reality,
+ 
+
+00:09:25.680 --> 00:09:27.670 align:start position:0%
+learning how to turn it into a reality,
+aka<00:09:26.399><c> getting</c><00:09:26.640><c> hooked</c><00:09:26.959><c> into</c><00:09:27.200><c> your</c><00:09:27.360><c> [&nbsp;__&nbsp;]</c>
+
+00:09:27.670 --> 00:09:27.680 align:start position:0%
+aka getting hooked into your [&nbsp;__&nbsp;]
+ 
+
+00:09:27.680 --> 00:09:29.430 align:start position:0%
+aka getting hooked into your [&nbsp;__&nbsp;]
+video.<00:09:28.160><c> But</c><00:09:28.399><c> if</c><00:09:28.560><c> you</c><00:09:28.720><c> start</c><00:09:28.880><c> off</c><00:09:29.120><c> with</c><00:09:29.279><c> just</c>
+
+00:09:29.430 --> 00:09:29.440 align:start position:0%
+video. But if you start off with just
+ 
+
+00:09:29.440 --> 00:09:31.110 align:start position:0%
+video. But if you start off with just
+selling<00:09:29.760><c> a</c><00:09:29.920><c> desirable</c><00:09:30.480><c> result,</c><00:09:30.800><c> then</c><00:09:30.959><c> the</c>
+
+00:09:31.110 --> 00:09:31.120 align:start position:0%
+selling a desirable result, then the
+ 
+
+00:09:31.120 --> 00:09:32.790 align:start position:0%
+selling a desirable result, then the
+viewer<00:09:31.360><c> can't</c><00:09:31.600><c> see</c><00:09:31.839><c> themselves</c><00:09:32.240><c> inside</c><00:09:32.640><c> of</c>
+
+00:09:32.790 --> 00:09:32.800 align:start position:0%
+viewer can't see themselves inside of
+ 
+
+00:09:32.800 --> 00:09:34.710 align:start position:0%
+viewer can't see themselves inside of
+it.<00:09:33.279><c> They</c><00:09:33.519><c> just</c><00:09:33.760><c> see</c><00:09:33.920><c> the</c><00:09:34.160><c> result</c><00:09:34.320><c> that</c><00:09:34.560><c> you're</c>
+
+00:09:34.710 --> 00:09:34.720 align:start position:0%
+it. They just see the result that you're
+ 
+
+00:09:34.720 --> 00:09:36.070 align:start position:0%
+it. They just see the result that you're
+promising<00:09:35.040><c> them.</c><00:09:35.360><c> So,</c><00:09:35.600><c> whenever</c><00:09:35.920><c> you're</c>
+
+00:09:36.070 --> 00:09:36.080 align:start position:0%
+promising them. So, whenever you're
+ 
+
+00:09:36.080 --> 00:09:37.910 align:start position:0%
+promising them. So, whenever you're
+creating<00:09:36.240><c> a</c><00:09:36.399><c> hook</c><00:09:36.640><c> around</c><00:09:36.880><c> a</c><00:09:37.120><c> desire,</c><00:09:37.760><c> make</c>
+
+00:09:37.910 --> 00:09:37.920 align:start position:0%
+creating a hook around a desire, make
+ 
+
+00:09:37.920 --> 00:09:39.590 align:start position:0%
+creating a hook around a desire, make
+sure<00:09:38.000><c> that</c><00:09:38.160><c> you</c><00:09:38.320><c> are</c><00:09:38.399><c> in</c><00:09:38.560><c> no</c><00:09:38.800><c> particular</c><00:09:39.279><c> order</c>
+
+00:09:39.590 --> 00:09:39.600 align:start position:0%
+sure that you are in no particular order
+ 
+
+00:09:39.600 --> 00:09:41.910 align:start position:0%
+sure that you are in no particular order
+using<00:09:40.000><c> RSVP.</c><00:09:40.800><c> Are</c><00:09:40.959><c> you</c><00:09:41.120><c> making</c><00:09:41.360><c> the</c><00:09:41.600><c> results</c>
+
+00:09:41.910 --> 00:09:41.920 align:start position:0%
+using RSVP. Are you making the results
+ 
+
+00:09:41.920 --> 00:09:43.670 align:start position:0%
+using RSVP. Are you making the results
+of<00:09:42.080><c> your</c><00:09:42.320><c> video</c><00:09:42.560><c> known?</c><00:09:43.120><c> Are</c><00:09:43.279><c> you</c><00:09:43.440><c> creating</c>
+
+00:09:43.670 --> 00:09:43.680 align:start position:0%
+of your video known? Are you creating
+ 
+
+00:09:43.680 --> 00:09:45.910 align:start position:0%
+of your video known? Are you creating
+the<00:09:43.920><c> scene</c><00:09:44.399><c> in</c><00:09:44.720><c> your</c><00:09:44.880><c> viewers's</c><00:09:45.279><c> mind</c><00:09:45.519><c> on</c><00:09:45.760><c> how</c>
+
+00:09:45.910 --> 00:09:45.920 align:start position:0%
+the scene in your viewers's mind on how
+ 
+
+00:09:45.920 --> 00:09:47.430 align:start position:0%
+the scene in your viewers's mind on how
+the<00:09:46.160><c> results</c><00:09:46.480><c> feels</c><00:09:46.800><c> and</c><00:09:47.120><c> what</c><00:09:47.279><c> the</c>
+
+00:09:47.430 --> 00:09:47.440 align:start position:0%
+the results feels and what the
+ 
+
+00:09:47.440 --> 00:09:49.190 align:start position:0%
+the results feels and what the
+experience<00:09:47.760><c> is</c><00:09:48.000><c> going</c><00:09:48.080><c> to</c><00:09:48.240><c> be</c><00:09:48.399><c> like?</c><00:09:48.800><c> And</c><00:09:48.959><c> are</c>
+
+00:09:49.190 --> 00:09:49.200 align:start position:0%
+experience is going to be like? And are
+ 
+
+00:09:49.200 --> 00:09:50.790 align:start position:0%
+experience is going to be like? And are
+you<00:09:49.360><c> making</c><00:09:49.519><c> it</c><00:09:49.760><c> clear</c><00:09:49.920><c> that</c><00:09:50.160><c> your</c><00:09:50.320><c> video</c><00:09:50.560><c> has</c>
+
+00:09:50.790 --> 00:09:50.800 align:start position:0%
+you making it clear that your video has
+ 
+
+00:09:50.800 --> 00:09:53.030 align:start position:0%
+you making it clear that your video has
+the<00:09:51.040><c> vehicle</c><00:09:51.360><c> to</c><00:09:51.519><c> get</c><00:09:51.680><c> them</c><00:09:51.839><c> there?</c><00:09:52.480><c> There</c><00:09:52.880><c> are</c>
+
+00:09:53.030 --> 00:09:53.040 align:start position:0%
+the vehicle to get them there? There are
+ 
+
+00:09:53.040 --> 00:09:55.750 align:start position:0%
+the vehicle to get them there? There are
+your<00:09:53.279><c> three</c><00:09:53.920><c> hook</c><00:09:54.480><c> frameworks.</c><00:09:55.279><c> So,</c><00:09:55.440><c> you</c><00:09:55.519><c> had</c>
+
+00:09:55.750 --> 00:09:55.760 align:start position:0%
+your three hook frameworks. So, you had
+ 
+
+00:09:55.760 --> 00:09:58.070 align:start position:0%
+your three hook frameworks. So, you had
+C<00:09:56.080><c> narration</c><00:09:56.560><c> framework,</c><00:09:57.200><c> you</c><00:09:57.360><c> had</c><00:09:57.519><c> the</c><00:09:57.760><c> train</c>
+
+00:09:58.070 --> 00:09:58.080 align:start position:0%
+C narration framework, you had the train
+ 
+
+00:09:58.080 --> 00:09:59.750 align:start position:0%
+C narration framework, you had the train
+bloom<00:09:58.399><c> framework,</c><00:09:58.959><c> then</c><00:09:59.120><c> lastly,</c><00:09:59.440><c> you</c><00:09:59.600><c> had</c>
+
+00:09:59.750 --> 00:09:59.760 align:start position:0%
+bloom framework, then lastly, you had
+ 
+
+00:09:59.760 --> 00:10:01.910 align:start position:0%
+bloom framework, then lastly, you had
+the<00:09:59.920><c> RSV</c><00:10:00.560><c> framework.</c><00:10:01.120><c> Now,</c><00:10:01.360><c> if</c><00:10:01.519><c> you</c><00:10:01.600><c> want</c><00:10:01.760><c> a</c>
+
+00:10:01.910 --> 00:10:01.920 align:start position:0%
+the RSV framework. Now, if you want a
+ 
+
+00:10:01.920 --> 00:10:03.829 align:start position:0%
+the RSV framework. Now, if you want a
+two-page<00:10:02.480><c> document</c><00:10:02.800><c> that</c><00:10:03.040><c> has</c><00:10:03.200><c> examples</c><00:10:03.600><c> and</c>
+
+00:10:03.829 --> 00:10:03.839 align:start position:0%
+two-page document that has examples and
+ 
+
+00:10:03.839 --> 00:10:05.509 align:start position:0%
+two-page document that has examples and
+templates<00:10:04.160><c> of</c><00:10:04.399><c> each</c><00:10:04.640><c> hook</c><00:10:04.959><c> framework</c><00:10:05.360><c> to</c>
+
+00:10:05.509 --> 00:10:05.519 align:start position:0%
+templates of each hook framework to
+ 
+
+00:10:05.519 --> 00:10:06.710 align:start position:0%
+templates of each hook framework to
+where<00:10:05.680><c> you</c><00:10:05.760><c> can</c><00:10:05.839><c> pretty</c><00:10:06.000><c> much</c><00:10:06.080><c> just</c><00:10:06.320><c> copy</c><00:10:06.560><c> and</c>
+
+00:10:06.710 --> 00:10:06.720 align:start position:0%
+where you can pretty much just copy and
+ 
+
+00:10:06.720 --> 00:10:08.949 align:start position:0%
+where you can pretty much just copy and
+paste<00:10:07.279><c> proven</c><00:10:07.680><c> hooks</c><00:10:08.080><c> following</c><00:10:08.399><c> one</c><00:10:08.640><c> of</c><00:10:08.800><c> the</c>
+
+00:10:08.949 --> 00:10:08.959 align:start position:0%
+paste proven hooks following one of the
+ 
+
+00:10:08.959 --> 00:10:10.630 align:start position:0%
+paste proven hooks following one of the
+three<00:10:09.120><c> frameworks</c><00:10:09.519><c> that</c><00:10:09.680><c> I</c><00:10:09.839><c> mentioned</c><00:10:10.080><c> today,</c>
+
+00:10:10.630 --> 00:10:10.640 align:start position:0%
+three frameworks that I mentioned today,
+ 
+
+00:10:10.640 --> 00:10:12.949 align:start position:0%
+three frameworks that I mentioned today,
+I<00:10:10.880><c> had</c><00:10:11.040><c> my</c><00:10:11.279><c> lead</c><00:10:11.519><c> content</c><00:10:11.920><c> researcher</c><00:10:12.399><c> spend</c><00:10:12.720><c> 9</c>
+
+00:10:12.949 --> 00:10:12.959 align:start position:0%
+I had my lead content researcher spend 9
+ 
+
+00:10:12.959 --> 00:10:15.110 align:start position:0%
+I had my lead content researcher spend 9
+hours<00:10:13.279><c> to</c><00:10:13.519><c> make</c><00:10:13.760><c> that</c><00:10:14.079><c> happen.</c><00:10:14.720><c> So,</c><00:10:14.880><c> if</c><00:10:15.040><c> you</c>
+
+00:10:15.110 --> 00:10:15.120 align:start position:0%
+hours to make that happen. So, if you
+ 
+
+00:10:15.120 --> 00:10:17.110 align:start position:0%
+hours to make that happen. So, if you
+want<00:10:15.360><c> access</c><00:10:15.680><c> to</c><00:10:15.839><c> this</c><00:10:16.000><c> PDF,</c><00:10:16.640><c> all</c><00:10:16.800><c> you</c><00:10:16.959><c> have</c><00:10:17.040><c> to</c>
+
+00:10:17.110 --> 00:10:17.120 align:start position:0%
+want access to this PDF, all you have to
+ 
+
+00:10:17.120 --> 00:10:18.710 align:start position:0%
+want access to this PDF, all you have to
+do<00:10:17.200><c> is</c><00:10:17.360><c> go</c><00:10:17.519><c> to</c><00:10:17.680><c> Instagram</c><00:10:17.920><c> and</c><00:10:18.160><c> message</c><00:10:18.399><c> me</c><00:10:18.560><c> the</c>
+
+00:10:18.710 --> 00:10:18.720 align:start position:0%
+do is go to Instagram and message me the
+ 
+
+00:10:18.720 --> 00:10:20.550 align:start position:0%
+do is go to Instagram and message me the
+word<00:10:18.959><c> candle</c><00:10:19.440><c> and</c><00:10:19.680><c> I</c><00:10:19.839><c> will</c><00:10:19.920><c> send</c><00:10:20.079><c> it</c><00:10:20.240><c> to</c><00:10:20.320><c> you</c>
+
+00:10:20.550 --> 00:10:20.560 align:start position:0%
+word candle and I will send it to you
+ 
+
+00:10:20.560 --> 00:10:23.350 align:start position:0%
+word candle and I will send it to you
+for<00:10:20.800><c> free.</c><00:10:21.200><c> Until</c><00:10:21.600><c> next</c><00:10:21.839><c> time,</c><00:10:22.320><c> subscribe</c><00:10:23.120><c> for</c>
+
+00:10:23.350 --> 00:10:23.360 align:start position:0%
+for free. Until next time, subscribe for
+ 
+
+00:10:23.360 --> 00:10:25.680 align:start position:0%
+for free. Until next time, subscribe for
+more
+

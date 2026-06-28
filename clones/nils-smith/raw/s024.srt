@@ -1,0 +1,1084 @@
+1
+00:00:00,000 --> 00:00:04,000
+does your church need a mobile app
+
+2
+00:00:02,000 --> 00:00:06,000
+that's a question I get a lot and I'm
+
+3
+00:00:04,000 --> 00:00:08,000
+going to talk about in this video why
+
+4
+00:00:06,000 --> 00:00:10,000
+not why maybe and what I hope is the
+
+5
+00:00:09,000 --> 00:00:13,000
+future of church
+
+6
+00:00:11,000 --> 00:00:15,000
+[Applause]
+
+7
+00:00:13,000 --> 00:00:17,000
+apps hey there if we haven't met yet I'm
+
+8
+00:00:16,000 --> 00:00:20,000
+Neil Smith your social media guide and I
+
+9
+00:00:18,000 --> 00:00:22,000
+help church leaders Ministry leaders
+
+10
+00:00:20,000 --> 00:00:24,000
+Business Leaders nonprofit leaders
+
+11
+00:00:21,000 --> 00:00:25,000
+leaders of all kinds maximize social
+
+12
+00:00:23,000 --> 00:00:27,000
+media digital Ministry digital content
+
+13
+00:00:27,000 --> 00:00:31,000
+technology to accomplish their goals and
+
+14
+00:00:30,000 --> 00:00:34,000
+this video I want to talk specifically
+
+15
+00:00:32,000 --> 00:00:36,000
+to church leaders and also Ministry
+
+16
+00:00:34,000 --> 00:00:38,000
+leaders outside of the church do you
+
+17
+00:00:36,000 --> 00:00:40,000
+need a mobile app and this is a question
+
+18
+00:00:38,000 --> 00:00:42,000
+that I get a lot and I've been an app
+
+19
+00:00:40,000 --> 00:00:44,000
+guy I you know maybe 15 years ago when I
+
+20
+00:00:43,000 --> 00:00:47,000
+first got my first iPhone I built a
+
+21
+00:00:46,000 --> 00:00:50,000
+church mobile app in a weekend uh just
+
+22
+00:00:49,000 --> 00:00:53,000
+because I was curious and I saw the
+
+23
+00:00:50,000 --> 00:00:54,000
+opportunity potential it got me in the
+
+24
+00:00:51,000 --> 00:00:55,000
+newspaper which actually got me my job
+
+25
+00:00:53,000 --> 00:00:57,000
+at Community Bible Church in many ways
+
+26
+00:00:55,000 --> 00:00:59,000
+and got a lot of the attention for that
+
+27
+00:00:57,000 --> 00:01:01,000
+uh but the truth is that church app was
+
+28
+00:00:59,000 --> 00:01:03,000
+kind of use less if I'm honest uh but it
+
+29
+00:01:02,000 --> 00:01:06,000
+taught me about mobile apps mobile apps
+
+30
+00:01:04,000 --> 00:01:08,000
+are a brilliant part of our lives and
+
+31
+00:01:06,000 --> 00:01:10,000
+helped us in a lot of ways but does your
+
+32
+00:01:08,000 --> 00:01:12,000
+church actually need a mobile app so let
+
+33
+00:01:11,000 --> 00:01:15,000
+me start by talking about why you don't
+
+34
+00:01:13,000 --> 00:01:17,000
+need a mobile app okay the first reason
+
+35
+00:01:16,000 --> 00:01:20,000
+that I think churches should think about
+
+36
+00:01:18,000 --> 00:01:22,000
+saying no to mobile apps is the cost now
+
+37
+00:01:21,000 --> 00:01:25,000
+mobile apps have become much more cost
+
+38
+00:01:23,000 --> 00:01:27,000
+effective I remember uh early days of
+
+39
+00:01:25,000 --> 00:01:29,000
+mobile apps when I was helping build
+
+40
+00:01:28,000 --> 00:01:32,000
+maybe my second Church mobile app it was
+
+41
+00:01:30,000 --> 00:01:34,000
+pretty expensive it was probably around
+
+42
+00:01:32,000 --> 00:01:36,000
+$20,000 and $500 a month which still is
+
+43
+00:01:35,000 --> 00:01:39,000
+actually pretty cheap uh when it comes
+
+44
+00:01:37,000 --> 00:01:41,000
+to mobile Development I've helped a lot
+
+45
+00:01:38,000 --> 00:01:42,000
+of businesses do mobile apps and
+
+46
+00:01:40,000 --> 00:01:44,000
+spending six and seven figures to build
+
+47
+00:01:43,000 --> 00:01:47,000
+apps and they can be that valuable but
+
+48
+00:01:45,000 --> 00:01:49,000
+they have to align to our mission and
+
+49
+00:01:48,000 --> 00:01:52,000
+the cost now while I think the costs
+
+50
+00:01:50,000 --> 00:01:54,000
+have come down it's still a significant
+
+51
+00:01:53,000 --> 00:01:57,000
+expense that I believe the value is not
+
+52
+00:01:55,000 --> 00:01:59,000
+necessarily worth the cost so I think
+
+53
+00:01:57,000 --> 00:02:01,000
+the cost is actually the first reason
+
+54
+00:01:59,000 --> 00:02:03,000
+you should consider not getting a mobile
+
+55
+00:02:01,000 --> 00:02:05,000
+app the second reason I think you should
+
+56
+00:02:03,000 --> 00:02:07,000
+think about saying no is it's one more
+
+57
+00:02:04,000 --> 00:02:08,000
+thing to update I think about most
+
+58
+00:02:06,000 --> 00:02:10,000
+smaller churches that you have one or
+
+59
+00:02:07,000 --> 00:02:11,000
+two staff people and you got to update
+
+60
+00:02:09,000 --> 00:02:13,000
+the website you got to update the
+
+61
+00:02:11,000 --> 00:02:15,000
+bulletin you got to update your signs
+
+62
+00:02:12,000 --> 00:02:16,000
+you got to update you know signs around
+
+63
+00:02:14,000 --> 00:02:18,000
+your church you've got to update social
+
+64
+00:02:16,000 --> 00:02:20,000
+media uh it's having an app is another
+
+65
+00:02:20,000 --> 00:02:24,000
+thing to manage and another thing to
+
+66
+00:02:22,000 --> 00:02:26,000
+update and what often happens is then
+
+67
+00:02:24,000 --> 00:02:28,000
+you forget to update it and it's out of
+
+68
+00:02:26,000 --> 00:02:30,000
+dat and then it's even more useless for
+
+69
+00:02:28,000 --> 00:02:32,000
+you and so uh unless you have both the
+
+70
+00:02:31,000 --> 00:02:35,000
+money and the time to keep it updated
+
+71
+00:02:34,000 --> 00:02:38,000
+and make it valuable I think it's maybe
+
+72
+00:02:36,000 --> 00:02:40,000
+a no the third reason to say no is
+
+73
+00:02:39,000 --> 00:02:43,000
+confusion for your church members and I
+
+74
+00:02:41,000 --> 00:02:45,000
+think your members have a question of
+
+75
+00:02:43,000 --> 00:02:47,000
+like do I go to the website do I go to
+
+76
+00:02:44,000 --> 00:02:48,000
+the app like where do I go for
+
+77
+00:02:46,000 --> 00:02:50,000
+information about the church and so when
+
+78
+00:02:49,000 --> 00:02:53,000
+you have one place and you're always
+
+79
+00:02:50,000 --> 00:02:54,000
+saying go to the website uh that's clear
+
+80
+00:02:53,000 --> 00:02:57,000
+but when you're like go to the website
+
+81
+00:02:54,000 --> 00:02:58,000
+or the app that the or creates question
+
+82
+00:02:58,000 --> 00:03:02,000
+and and so we want to avoid confusion
+
+83
+00:03:00,000 --> 00:03:04,000
+and so we're going end up spending more
+
+84
+00:03:02,000 --> 00:03:06,000
+money more time and additional confusion
+
+85
+00:03:05,000 --> 00:03:09,000
+in communicating with our church members
+
+86
+00:03:06,000 --> 00:03:10,000
+and so for that reason it might also be
+
+87
+00:03:09,000 --> 00:03:13,000
+a no and the fourth reason uh that that
+
+88
+00:03:11,000 --> 00:03:15,000
+I would consider saying no is the
+
+89
+00:03:12,000 --> 00:03:16,000
+current functionality just isn't that
+
+90
+00:03:14,000 --> 00:03:18,000
+valuable the primary use for most
+
+91
+00:03:16,000 --> 00:03:20,000
+churches with their app is three parts
+
+92
+00:03:18,000 --> 00:03:22,000
+it's basically sermon engagement it's
+
+93
+00:03:20,000 --> 00:03:24,000
+giving and it's push notifications well
+
+94
+00:03:23,000 --> 00:03:27,000
+the reality is is people can watch your
+
+95
+00:03:24,000 --> 00:03:28,000
+sermons on your website or they can
+
+96
+00:03:26,000 --> 00:03:30,000
+watch it on YouTube or they can listen
+
+97
+00:03:27,000 --> 00:03:31,000
+to it in their podcast apps that you can
+
+98
+00:03:29,000 --> 00:03:33,000
+communicate more directly through text
+
+99
+00:03:31,000 --> 00:03:35,000
+message than push notifications uh and
+
+100
+00:03:34,000 --> 00:03:38,000
+you can basically do everything on your
+
+101
+00:03:35,000 --> 00:03:39,000
+website that you could probably do in
+
+102
+00:03:37,000 --> 00:03:41,000
+that app and the giving s is actually
+
+103
+00:03:39,000 --> 00:03:43,000
+probably pushing to your website anyway
+
+104
+00:03:42,000 --> 00:03:46,000
+uh and so the value proposition of the
+
+105
+00:03:45,000 --> 00:03:49,000
+current functionality of most Church
+
+106
+00:03:46,000 --> 00:03:50,000
+apps uh I believe make both the cost and
+
+107
+00:03:50,000 --> 00:03:54,000
+the time investment probably not worth
+
+108
+00:03:53,000 --> 00:03:57,000
+the value that you would pay in both
+
+109
+00:03:54,000 --> 00:03:58,000
+your time and your money to get the
+
+110
+00:03:56,000 --> 00:04:00,000
+functionality that they currently do all
+
+111
+00:03:58,000 --> 00:04:02,000
+that said I am not anti- mobile apps I
+
+112
+00:04:02,000 --> 00:04:06,000
+love mobile apps I love working I work
+
+113
+00:04:04,000 --> 00:04:08,000
+with several companies that their
+
+114
+00:04:05,000 --> 00:04:09,000
+primary platform is their mobile app and
+
+115
+00:04:08,000 --> 00:04:12,000
+mobile app development and I believe
+
+116
+00:04:10,000 --> 00:04:14,000
+that smartphones are probably the most
+
+117
+00:04:12,000 --> 00:04:16,000
+important technology of our lifetime and
+
+118
+00:04:14,000 --> 00:04:18,000
+the accessibility and the opportunity
+
+119
+00:04:16,000 --> 00:04:20,000
+that we have and we look at the Bible
+
+120
+00:04:17,000 --> 00:04:21,000
+you version at that's changed the way we
+
+121
+00:04:19,000 --> 00:04:23,000
+read the Bible uh and so mobile apps can
+
+122
+00:04:22,000 --> 00:04:26,000
+be an Incredible Gift uh to the church
+
+123
+00:04:25,000 --> 00:04:29,000
+and I can believe can be an incredible
+
+124
+00:04:26,000 --> 00:04:30,000
+resource to churches uh and have been
+
+125
+00:04:29,000 --> 00:04:33,000
+for a lot of churches and and I believe
+
+126
+00:04:31,000 --> 00:04:35,000
+can be uh the question is whether
+
+127
+00:04:33,000 --> 00:04:37,000
+they're the right for you right now so
+
+128
+00:04:35,000 --> 00:04:39,000
+let me talk about why mobile apps today
+
+129
+00:04:37,000 --> 00:04:41,000
+can be a good thing for your church the
+
+130
+00:04:39,000 --> 00:04:43,000
+first reason is is differentiating
+
+131
+00:04:42,000 --> 00:04:46,000
+communication for your visitors and your
+
+132
+00:04:44,000 --> 00:04:48,000
+members when you think about somebody
+
+133
+00:04:46,000 --> 00:04:50,000
+that hasn't yet come to your church
+
+134
+00:04:47,000 --> 00:04:51,000
+where are they going to go first they're
+
+135
+00:04:49,000 --> 00:04:53,000
+going to go to your website well if your
+
+136
+00:04:50,000 --> 00:04:54,000
+website just has a bunch of information
+
+137
+00:04:52,000 --> 00:04:56,000
+overload for your members that visitor
+
+138
+00:04:55,000 --> 00:04:59,000
+isn't going to get the key essential
+
+139
+00:04:57,000 --> 00:05:01,000
+information that they're looking for so
+
+140
+00:04:59,000 --> 00:05:03,000
+when you have a mobile app that can be
+
+141
+00:05:01,000 --> 00:05:05,000
+that primary place of communication and
+
+142
+00:05:03,000 --> 00:05:07,000
+engagement for your members it creates
+
+143
+00:05:05,000 --> 00:05:09,000
+differentiation for your visitors and so
+
+144
+00:05:08,000 --> 00:05:12,000
+maybe when it comes to announcements in
+
+145
+00:05:10,000 --> 00:05:14,000
+your church you continue to say go to
+
+146
+00:05:11,000 --> 00:05:15,000
+the mobile app go to the mobile app to
+
+147
+00:05:13,000 --> 00:05:17,000
+get engagement it's not go to the
+
+148
+00:05:14,000 --> 00:05:18,000
+website or the mobile app it's contining
+
+149
+00:05:17,000 --> 00:05:21,000
+to Comm communicate to your congregation
+
+150
+00:05:20,000 --> 00:05:24,000
+this path to your potential visitors
+
+151
+00:05:22,000 --> 00:05:26,000
+this path and you can create
+
+152
+00:05:24,000 --> 00:05:28,000
+differentiation between the two
+
+153
+00:05:25,000 --> 00:05:29,000
+platforms so that is a high value when
+
+154
+00:05:27,000 --> 00:05:31,000
+used differentiated rather than
+
+155
+00:05:30,000 --> 00:05:34,000
+basically having the same thing
+
+156
+00:05:31,000 --> 00:05:35,000
+duplicated on both places and then the
+
+157
+00:05:34,000 --> 00:05:38,000
+second opportunity is the native
+
+158
+00:05:35,000 --> 00:05:39,000
+functionality and one of the things that
+
+159
+00:05:37,000 --> 00:05:41,000
+I am seeing more naturally integrated
+
+160
+00:05:39,000 --> 00:05:43,000
+more and more into Apps and I'm seeing
+
+161
+00:05:40,000 --> 00:05:44,000
+this most specifically with my churches
+
+162
+00:05:42,000 --> 00:05:46,000
+we use Planning Center and how their MO
+
+163
+00:05:45,000 --> 00:05:49,000
+Church Center app which is not the
+
+164
+00:05:47,000 --> 00:05:51,000
+native custom mobile app for our church
+
+165
+00:05:49,000 --> 00:05:53,000
+but it's shared among other churches but
+
+166
+00:05:51,000 --> 00:05:55,000
+how you can register for events how you
+
+167
+00:05:53,000 --> 00:05:57,000
+can give easily within the platform
+
+168
+00:05:55,000 --> 00:05:59,000
+they're using Create native
+
+169
+00:05:56,000 --> 00:06:00,000
+functionality uh that we're used to
+
+170
+00:05:58,000 --> 00:06:02,000
+using in other apps and it's built right
+
+171
+00:06:00,000 --> 00:06:04,000
+into that app and it's really built for
+
+172
+00:06:02,000 --> 00:06:06,000
+members visitors are not going to go to
+
+173
+00:06:04,000 --> 00:06:08,000
+the church Center app and find our
+
+174
+00:06:05,000 --> 00:06:09,000
+church and get information it is a place
+
+175
+00:06:08,000 --> 00:06:12,000
+for our members to engage and sign up
+
+176
+00:06:10,000 --> 00:06:14,000
+for things and register for things and
+
+177
+00:06:12,000 --> 00:06:16,000
+pay for things and donate and and so it
+
+178
+00:06:14,000 --> 00:06:18,000
+is a great platform functionality wise
+
+179
+00:06:17,000 --> 00:06:21,000
+that is native to the app that you can't
+
+180
+00:06:19,000 --> 00:06:23,000
+really do easily in mobile web and so
+
+181
+00:06:22,000 --> 00:06:26,000
+that differentiation is high value now
+
+182
+00:06:24,000 --> 00:06:28,000
+the user interface isn't great it's it's
+
+183
+00:06:26,000 --> 00:06:30,000
+still Limited in a lot of ways there's a
+
+184
+00:06:27,000 --> 00:06:31,000
+lot of opportunity for that to de velop
+
+185
+00:06:30,000 --> 00:06:34,000
+but that wasn't the casee 10 years ago
+
+186
+00:06:32,000 --> 00:06:36,000
+uh and it is way more than just a media
+
+187
+00:06:34,000 --> 00:06:38,000
+player and so I am happy to see where a
+
+188
+00:06:36,000 --> 00:06:40,000
+lot of these platforms are progressing
+
+189
+00:06:38,000 --> 00:06:42,000
+from an integration standpoint now let's
+
+190
+00:06:41,000 --> 00:06:45,000
+talk about where I hope mobile apps go
+
+191
+00:06:43,000 --> 00:06:47,000
+into the future and I do see some
+
+192
+00:06:45,000 --> 00:06:49,000
+platforms already heading in this
+
+193
+00:06:46,000 --> 00:06:50,000
+direction and the first is more native
+
+194
+00:06:49,000 --> 00:06:53,000
+integration especially with our database
+
+195
+00:06:50,000 --> 00:06:54,000
+system so that our app can actually be a
+
+196
+00:06:53,000 --> 00:06:57,000
+customized platform for each of us
+
+197
+00:06:55,000 --> 00:06:59,000
+individually to both find content uh
+
+198
+00:06:58,000 --> 00:07:02,000
+that that we can engage with from our
+
+199
+00:06:59,000 --> 00:07:03,000
+church uh to to find events and
+
+200
+00:07:02,000 --> 00:07:06,000
+activities for us to engage in to maybe
+
+201
+00:07:04,000 --> 00:07:08,000
+even connect and communicate with each
+
+202
+00:07:06,000 --> 00:07:10,000
+other among the church and with the
+
+203
+00:07:08,000 --> 00:07:12,000
+staff uh and so I believe that basically
+
+204
+00:07:11,000 --> 00:07:15,000
+this hub for our members for Content uh
+
+205
+00:07:14,000 --> 00:07:18,000
+for events for activities for giving it
+
+206
+00:07:18,000 --> 00:07:22,000
+can all live and basically be our own
+
+207
+00:07:20,000 --> 00:07:24,000
+kind of database uh integration platform
+
+208
+00:07:22,000 --> 00:07:26,000
+or social network even for our church uh
+
+209
+00:07:26,000 --> 00:07:30,000
+right there within the app and so I do
+
+210
+00:07:27,000 --> 00:07:31,000
+believe this differentiation of of a
+
+211
+00:07:30,000 --> 00:07:34,000
+website that's primarily focused on
+
+212
+00:07:31,000 --> 00:07:35,000
+first-time visitors with other
+
+213
+00:07:33,000 --> 00:07:37,000
+functionality built into that as well it
+
+214
+00:07:35,000 --> 00:07:39,000
+doesn't have to exclusively be be that
+
+215
+00:07:37,000 --> 00:07:41,000
+uh and then this app that is really
+
+216
+00:07:40,000 --> 00:07:44,000
+built as a hub for our members uh is
+
+217
+00:07:42,000 --> 00:07:46,000
+where I think in in integrating more and
+
+218
+00:07:44,000 --> 00:07:48,000
+more the native functionality of a phone
+
+219
+00:07:46,000 --> 00:07:50,000
+like we're using the Uber app or like
+
+220
+00:07:48,000 --> 00:07:52,000
+we're using Google Maps or like we use
+
+221
+00:07:50,000 --> 00:07:54,000
+uh you know our Airlines apps and how
+
+222
+00:07:52,000 --> 00:07:56,000
+how we use these apps and so the native
+
+223
+00:07:54,000 --> 00:07:58,000
+functionality really helps us uh
+
+224
+00:07:56,000 --> 00:08:00,000
+integrate it and make it very useful for
+
+225
+00:07:58,000 --> 00:08:02,000
+us and then the second thing that I
+
+226
+00:08:00,000 --> 00:08:04,000
+really hope to see more and more of from
+
+227
+00:08:02,000 --> 00:08:06,000
+churches is discipleship content more of
+
+228
+00:08:05,000 --> 00:08:09,000
+like a learning management system built
+
+229
+00:08:06,000 --> 00:08:10,000
+into an app where people can go through
+
+230
+00:08:09,000 --> 00:08:13,000
+a Bible study that's created just for
+
+231
+00:08:11,000 --> 00:08:15,000
+their church right there in the app or
+
+232
+00:08:13,000 --> 00:08:17,000
+or they can go through trainings if
+
+233
+00:08:15,000 --> 00:08:19,000
+they're if they're going to start
+
+234
+00:08:16,000 --> 00:08:20,000
+volunteering in a Ministry or uh and and
+
+235
+00:08:18,000 --> 00:08:22,000
+really begin to become more interactive
+
+236
+00:08:21,000 --> 00:08:25,000
+in how we're more effectively discipling
+
+237
+00:08:23,000 --> 00:08:27,000
+our congregation now discipleship
+
+238
+00:08:25,000 --> 00:08:29,000
+happens in community and it can it
+
+239
+00:08:27,000 --> 00:08:31,000
+happens best face to face but it can be
+
+240
+00:08:29,000 --> 00:08:33,000
+augmented with digital resources that
+
+241
+00:08:31,000 --> 00:08:35,000
+can be natively integrated into our
+
+242
+00:08:33,000 --> 00:08:37,000
+mobile apps and so I'm really excited
+
+243
+00:08:35,000 --> 00:08:39,000
+about where these Technologies can go
+
+244
+00:08:38,000 --> 00:08:42,000
+into the future and where I believe I'm
+
+245
+00:08:40,000 --> 00:08:44,000
+seeing hints of development moving into
+
+246
+00:08:43,000 --> 00:08:47,000
+the future but it's still not there yet
+
+247
+00:08:45,000 --> 00:08:49,000
+at least not from what I've seen if you
+
+248
+00:08:47,000 --> 00:08:51,000
+have a mobile app that you love or
+
+249
+00:08:49,000 --> 00:08:53,000
+functionality that that you've really
+
+250
+00:08:50,000 --> 00:08:54,000
+found to be valuable I'm curious do you
+
+251
+00:08:53,000 --> 00:08:57,000
+find your mobile app to be well worth
+
+252
+00:08:55,000 --> 00:08:59,000
+the investment in time and money or are
+
+253
+00:08:57,000 --> 00:09:01,000
+you moving in the other direction of you
+
+254
+00:08:59,000 --> 00:09:03,000
+know what maybe it's time to bail on the
+
+255
+00:09:00,000 --> 00:09:04,000
+mobile app it's just not that useful for
+
+256
+00:09:02,000 --> 00:09:06,000
+our church I'd love to know what you
+
+257
+00:09:04,000 --> 00:09:08,000
+think but those are my two sents of my
+
+258
+00:09:06,000 --> 00:09:10,000
+opinions for what it's worth I love
+
+259
+00:09:08,000 --> 00:09:12,000
+mobile apps I hope they're a big part of
+
+260
+00:09:10,000 --> 00:09:14,000
+our future in the church but for the
+
+261
+00:09:12,000 --> 00:09:16,000
+last 10 years I've watched them become
+
+262
+00:09:14,000 --> 00:09:18,000
+probably too expensive uh and
+
+263
+00:09:17,000 --> 00:09:21,000
+ineffective for the cost and the time
+
+264
+00:09:19,000 --> 00:09:23,000
+investment and so I hope that changes
+
+265
+00:09:22,000 --> 00:09:26,000
+into the future that's my two cents tell
+
+266
+00:09:24,000 --> 00:09:28,000
+me what you think I'd love to know drop
+
+267
+00:09:26,000 --> 00:09:30,000
+your thoughts in the comments thanks so
+
+268
+00:09:28,000 --> 00:09:32,000
+much for watching we'll talk to you
+
+269
+00:09:29,000 --> 00:09:33,000
+again on the next
+
+270
+00:09:34,000 --> 00:09:38,000
+[Music]
+
+271
+00:09:47,000 --> 00:09:51,000
+video 2 1
+

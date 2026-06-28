@@ -1,0 +1,6 @@
+2|This AI combo basically makes my business run itself. Chat GBT decides what needs to happen and pulse updates me every morning. First off, inside of ChatBT, I've gone and created a project called the 10X Profit Project. I use
+13|this project every single day to go and help me with different ideas for Founder OS. And I've gone and asked this to be the ultimate business coach. It's giving me constant advice over just the common challenges I have. But where it gets
+23|magical is that I've gone and hooked this up to Pulse, which essentially goes and gives me customized reports every single morning based on the things that I'm trying to accomplish right now. It's giving me now a customized report ready
+34|to go, as well as a weekby- week breakdown on what I need to do as well as my overarching strategy because inside of the project files, I've gotten uploaded 26 of our core documents. It
+44|probably has more context than like 98% of my employees. You can imagine how much leverage you get by having this hooked up and be able to look at these reports every single morning. And it's like having a head of operations
+54|advising you on the specific things you need to move forward that day to build insane amounts of leverage.

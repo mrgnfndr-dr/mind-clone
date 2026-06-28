@@ -1,0 +1,265 @@
+1
+00:00:00,080 --> 00:00:01,910
+ 
+This cloud prompt generates me thousands
+
+2
+00:00:01,910 --> 00:00:01,920
+This cloud prompt generates me thousands
+ 
+
+3
+00:00:01,920 --> 00:00:04,070
+This cloud prompt generates me thousands
+of emails that generate me thousands in
+
+4
+00:00:04,070 --> 00:00:04,080
+of emails that generate me thousands in
+ 
+
+5
+00:00:04,080 --> 00:00:05,670
+of emails that generate me thousands in
+revenue. So, if you're looking to go and
+
+6
+00:00:05,670 --> 00:00:05,680
+revenue. So, if you're looking to go and
+ 
+
+7
+00:00:05,680 --> 00:00:07,430
+revenue. So, if you're looking to go and
+scale up a business or even start it,
+
+8
+00:00:07,430 --> 00:00:07,440
+scale up a business or even start it,
+ 
+
+9
+00:00:07,440 --> 00:00:08,710
+scale up a business or even start it,
+one thing that you should definitely
+
+10
+00:00:08,710 --> 00:00:08,720
+one thing that you should definitely
+ 
+
+11
+00:00:08,720 --> 00:00:11,990
+one thing that you should definitely
+have in place is a 5day email miniourse
+
+12
+00:00:11,990 --> 00:00:12,000
+have in place is a 5day email miniourse
+ 
+
+13
+00:00:12,000 --> 00:00:15,030
+have in place is a 5day email miniourse
+compiled with a 5-day FOMO series, which
+
+14
+00:00:15,030 --> 00:00:15,040
+compiled with a 5-day FOMO series, which
+ 
+
+15
+00:00:15,040 --> 00:00:16,630
+compiled with a 5-day FOMO series, which
+stands for fear of missing out. That's
+
+16
+00:00:16,630 --> 00:00:16,640
+stands for fear of missing out. That's
+ 
+
+17
+00:00:16,640 --> 00:00:18,230
+stands for fear of missing out. That's
+going to go and sell people more on
+
+18
+00:00:18,230 --> 00:00:18,240
+going to go and sell people more on
+ 
+
+19
+00:00:18,240 --> 00:00:19,990
+going to go and sell people more on
+exactly what you do and convert them
+
+20
+00:00:19,990 --> 00:00:20,000
+exactly what you do and convert them
+ 
+
+21
+00:00:20,000 --> 00:00:21,750
+exactly what you do and convert them
+into customers. Let me go and show you
+
+22
+00:00:21,750 --> 00:00:21,760
+into customers. Let me go and show you
+ 
+
+23
+00:00:21,760 --> 00:00:23,029
+into customers. Let me go and show you
+how to go and create this for your
+
+24
+00:00:23,029 --> 00:00:23,039
+how to go and create this for your
+ 
+
+25
+00:00:23,039 --> 00:00:24,550
+how to go and create this for your
+business. What I've gone and created
+
+26
+00:00:24,550 --> 00:00:24,560
+business. What I've gone and created
+ 
+
+27
+00:00:24,560 --> 00:00:27,189
+business. What I've gone and created
+here is a Claude project called email
+
+28
+00:00:27,189 --> 00:00:27,199
+here is a Claude project called email
+ 
+
+29
+00:00:27,199 --> 00:00:29,269
+here is a Claude project called email
+courses. Inside of the instructions, you
+
+30
+00:00:29,269 --> 00:00:29,279
+courses. Inside of the instructions, you
+ 
+
+31
+00:00:29,279 --> 00:00:31,830
+courses. Inside of the instructions, you
+can see I've created this master prompt
+
+32
+00:00:31,830 --> 00:00:31,840
+can see I've created this master prompt
+ 
+
+33
+00:00:31,840 --> 00:00:33,430
+can see I've created this master prompt
+and we're off and going. Now, keep in
+
+34
+00:00:33,430 --> 00:00:33,440
+and we're off and going. Now, keep in
+ 
+
+35
+00:00:33,440 --> 00:00:35,350
+and we're off and going. Now, keep in
+mind in the project knowledge inside of
+
+36
+00:00:35,350 --> 00:00:35,360
+mind in the project knowledge inside of
+ 
+
+37
+00:00:35,360 --> 00:00:37,430
+mind in the project knowledge inside of
+Claude as well, I've put all of the core
+
+38
+00:00:37,430 --> 00:00:37,440
+Claude as well, I've put all of the core
+ 
+
+39
+00:00:37,440 --> 00:00:39,670
+Claude as well, I've put all of the core
+documentation across Founder OS and my
+
+40
+00:00:39,670 --> 00:00:39,680
+documentation across Founder OS and my
+ 
+
+41
+00:00:39,680 --> 00:00:41,430
+documentation across Founder OS and my
+personal brand so that Claude's not just
+
+42
+00:00:41,430 --> 00:00:41,440
+personal brand so that Claude's not just
+ 
+
+43
+00:00:41,440 --> 00:00:43,030
+personal brand so that Claude's not just
+reinventing the wheel or using some
+
+44
+00:00:43,030 --> 00:00:43,040
+reinventing the wheel or using some
+ 
+
+45
+00:00:43,040 --> 00:00:45,670
+reinventing the wheel or using some
+generic BS. It's actually using real
+
+46
+00:00:45,670 --> 00:00:45,680
+generic BS. It's actually using real
+ 
+
+47
+00:00:45,680 --> 00:00:47,350
+generic BS. It's actually using real
+words, systems, frameworks, and
+
+48
+00:00:47,350 --> 00:00:47,360
+words, systems, frameworks, and
+ 
+
+49
+00:00:47,360 --> 00:00:49,430
+words, systems, frameworks, and
+blueprints that I've invented. So all of
+
+50
+00:00:49,430 --> 00:00:49,440
+blueprints that I've invented. So all of
+ 
+
+51
+00:00:49,440 --> 00:00:51,590
+blueprints that I've invented. So all of
+that heavy lifting is being done without
+
+52
+00:00:51,590 --> 00:00:51,600
+that heavy lifting is being done without
+ 
+
+53
+00:00:51,600 --> 00:00:55,520
+that heavy lifting is being done without
+me, which saves me hours of
+

@@ -1,0 +1,505 @@
+1
+00:00:00,000 --> 00:00:01,590
+ 
+What I want to show you is how I go and
+
+2
+00:00:01,590 --> 00:00:01,600
+What I want to show you is how I go and
+ 
+
+3
+00:00:01,600 --> 00:00:03,710
+What I want to show you is how I go and
+hook up the project knowledge. I want to
+
+4
+00:00:03,710 --> 00:00:03,720
+hook up the project knowledge. I want to
+ 
+
+5
+00:00:03,720 --> 00:00:06,030
+hook up the project knowledge. I want to
+show you how I go and prompt this. Let's
+
+6
+00:00:06,030 --> 00:00:06,040
+show you how I go and prompt this. Let's
+ 
+
+7
+00:00:06,040 --> 00:00:08,230
+show you how I go and prompt this. Let's
+start with the prompting here. So, here
+
+8
+00:00:08,230 --> 00:00:08,240
+start with the prompting here. So, here
+ 
+
+9
+00:00:08,240 --> 00:00:11,070
+start with the prompting here. So, here
+you can see my YouTube goat prompt. My
+
+10
+00:00:11,070 --> 00:00:11,080
+you can see my YouTube goat prompt. My
+ 
+
+11
+00:00:11,080 --> 00:00:13,270
+you can see my YouTube goat prompt. My
+approach to this is simply to give it as
+
+12
+00:00:13,270 --> 00:00:13,280
+approach to this is simply to give it as
+ 
+
+13
+00:00:13,280 --> 00:00:16,710
+approach to this is simply to give it as
+much detail as possible. Inside of the
+
+14
+00:00:16,710 --> 00:00:16,720
+much detail as possible. Inside of the
+ 
+
+15
+00:00:16,720 --> 00:00:19,550
+much detail as possible. Inside of the
+project knowledge here now is I have my
+
+16
+00:00:19,550 --> 00:00:19,560
+project knowledge here now is I have my
+ 
+
+17
+00:00:19,560 --> 00:00:21,950
+project knowledge here now is I have my
+entire book outline, my entire book
+
+18
+00:00:21,950 --> 00:00:21,960
+entire book outline, my entire book
+ 
+
+19
+00:00:21,960 --> 00:00:25,030
+entire book outline, my entire book
+transcript of over 300,000 words. I have
+
+20
+00:00:25,030 --> 00:00:25,040
+transcript of over 300,000 words. I have
+ 
+
+21
+00:00:25,040 --> 00:00:27,750
+transcript of over 300,000 words. I have
+transcribed my six most popular YouTube
+
+22
+00:00:27,750 --> 00:00:27,760
+transcribed my six most popular YouTube
+ 
+
+23
+00:00:27,760 --> 00:00:30,190
+transcribed my six most popular YouTube
+videos ever. I've uploaded as well our
+
+24
+00:00:30,190 --> 00:00:30,200
+videos ever. I've uploaded as well our
+ 
+
+25
+00:00:30,200 --> 00:00:33,030
+videos ever. I've uploaded as well our
+dream client avatar, which is super
+
+26
+00:00:33,030 --> 00:00:33,040
+dream client avatar, which is super
+ 
+
+27
+00:00:33,040 --> 00:00:34,950
+dream client avatar, which is super
+super important. Who are you actually
+
+28
+00:00:34,950 --> 00:00:34,960
+super important. Who are you actually
+ 
+
+29
+00:00:34,960 --> 00:00:36,790
+super important. Who are you actually
+looking to target with your content? My
+
+30
+00:00:36,790 --> 00:00:36,800
+looking to target with your content? My
+ 
+
+31
+00:00:36,800 --> 00:00:39,190
+looking to target with your content? My
+dream client avatar as an example is an
+
+32
+00:00:39,190 --> 00:00:39,200
+dream client avatar as an example is an
+ 
+
+33
+00:00:39,200 --> 00:00:41,790
+dream client avatar as an example is an
+operator that's looking to go and build
+
+34
+00:00:41,790 --> 00:00:41,800
+operator that's looking to go and build
+ 
+
+35
+00:00:41,800 --> 00:00:43,470
+operator that's looking to go and build
+their own well-oiled machine, be able to
+
+36
+00:00:43,470 --> 00:00:43,480
+their own well-oiled machine, be able to
+ 
+
+37
+00:00:43,480 --> 00:00:45,310
+their own well-oiled machine, be able to
+remove themselves from operations, and
+
+38
+00:00:45,310 --> 00:00:45,320
+remove themselves from operations, and
+ 
+
+39
+00:00:45,320 --> 00:00:46,630
+remove themselves from operations, and
+scale up their business. They want more
+
+40
+00:00:46,630 --> 00:00:46,640
+scale up their business. They want more
+ 
+
+41
+00:00:46,640 --> 00:00:47,990
+scale up their business. They want more
+of their time back and want to be able
+
+42
+00:00:47,990 --> 00:00:48,000
+of their time back and want to be able
+ 
+
+43
+00:00:48,000 --> 00:00:49,830
+of their time back and want to be able
+to build a personal media company around
+
+44
+00:00:49,830 --> 00:00:49,840
+to build a personal media company around
+ 
+
+45
+00:00:49,840 --> 00:00:51,310
+to build a personal media company around
+what they do that they're doing. I've
+
+46
+00:00:51,310 --> 00:00:51,320
+what they do that they're doing. I've
+ 
+
+47
+00:00:51,320 --> 00:00:52,910
+what they do that they're doing. I've
+also gone and uploaded all of my
+
+48
+00:00:52,910 --> 00:00:52,920
+also gone and uploaded all of my
+ 
+
+49
+00:00:52,920 --> 00:00:55,750
+also gone and uploaded all of my
+different offers here as well, and a lot
+
+50
+00:00:55,750 --> 00:00:55,760
+different offers here as well, and a lot
+ 
+
+51
+00:00:55,760 --> 00:00:57,830
+different offers here as well, and a lot
+of my core languaging. So, things like
+
+52
+00:00:57,830 --> 00:00:57,840
+of my core languaging. So, things like
+ 
+
+53
+00:00:57,840 --> 00:00:59,710
+of my core languaging. So, things like
+words like personal media company, the
+
+54
+00:00:59,710 --> 00:00:59,720
+words like personal media company, the
+ 
+
+55
+00:00:59,720 --> 00:01:01,910
+words like personal media company, the
+four Ws, controlling where you work,
+
+56
+00:01:01,910 --> 00:01:01,920
+four Ws, controlling where you work,
+ 
+
+57
+00:01:01,920 --> 00:01:03,470
+four Ws, controlling where you work,
+when you work, what you work on, who you
+
+58
+00:01:03,470 --> 00:01:03,480
+when you work, what you work on, who you
+ 
+
+59
+00:01:03,480 --> 00:01:05,270
+when you work, what you work on, who you
+work with, so that it has all of my
+
+60
+00:01:05,270 --> 00:01:05,280
+work with, so that it has all of my
+ 
+
+61
+00:01:05,280 --> 00:01:07,510
+work with, so that it has all of my
+languaging. From there, I can simply go
+
+62
+00:01:07,510 --> 00:01:07,520
+languaging. From there, I can simply go
+ 
+
+63
+00:01:07,520 --> 00:01:09,830
+languaging. From there, I can simply go
+and put in here, I need you to go and
+
+64
+00:01:09,830 --> 00:01:09,840
+and put in here, I need you to go and
+ 
+
+65
+00:01:09,840 --> 00:01:13,230
+and put in here, I need you to go and
+create a YouTube concept around the
+
+66
+00:01:13,230 --> 00:01:13,240
+create a YouTube concept around the
+ 
+
+67
+00:01:13,240 --> 00:01:16,110
+create a YouTube concept around the
+title below using all of the copy and
+
+68
+00:01:16,110 --> 00:01:16,120
+title below using all of the copy and
+ 
+
+69
+00:01:16,120 --> 00:01:17,990
+title below using all of the copy and
+stuff that I've created previously in my
+
+70
+00:01:17,990 --> 00:01:18,000
+stuff that I've created previously in my
+ 
+
+71
+00:01:18,000 --> 00:01:20,270
+stuff that I've created previously in my
+book, in my YouTube videos, and in all
+
+72
+00:01:20,270 --> 00:01:20,280
+book, in my YouTube videos, and in all
+ 
+
+73
+00:01:20,280 --> 00:01:21,750
+book, in my YouTube videos, and in all
+the stuff in the project knowledge. Now,
+
+74
+00:01:21,750 --> 00:01:21,760
+the stuff in the project knowledge. Now,
+ 
+
+75
+00:01:21,760 --> 00:01:23,310
+the stuff in the project knowledge. Now,
+I place paste in the title we have
+
+76
+00:01:23,310 --> 00:01:23,320
+I place paste in the title we have
+ 
+
+77
+00:01:23,320 --> 00:01:25,350
+I place paste in the title we have
+there, which is why 99% of founders burn
+
+78
+00:01:25,350 --> 00:01:25,360
+there, which is why 99% of founders burn
+ 
+
+79
+00:01:25,360 --> 00:01:27,910
+there, which is why 99% of founders burn
+out and the 1% who build systems
+
+80
+00:01:27,910 --> 00:01:27,920
+out and the 1% who build systems
+ 
+
+81
+00:01:27,920 --> 00:01:30,430
+out and the 1% who build systems
+instead, and then let it rip. We have
+
+82
+00:01:30,430 --> 00:01:30,440
+instead, and then let it rip. We have
+ 
+
+83
+00:01:30,440 --> 00:01:32,470
+instead, and then let it rip. We have
+gone and based this title off of my
+
+84
+00:01:32,470 --> 00:01:32,480
+gone and based this title off of my
+ 
+
+85
+00:01:32,480 --> 00:01:35,430
+gone and based this title off of my
+channel using Poppy AI. We have the
+
+86
+00:01:35,430 --> 00:01:35,440
+channel using Poppy AI. We have the
+ 
+
+87
+00:01:35,440 --> 00:01:37,350
+channel using Poppy AI. We have the
+project knowledge all updated with
+
+88
+00:01:37,350 --> 00:01:37,360
+project knowledge all updated with
+ 
+
+89
+00:01:37,360 --> 00:01:40,470
+project knowledge all updated with
+probably around 500,000 words that I
+
+90
+00:01:40,470 --> 00:01:40,480
+probably around 500,000 words that I
+ 
+
+91
+00:01:40,480 --> 00:01:42,590
+probably around 500,000 words that I
+have written. We're actually getting it
+
+92
+00:01:42,590 --> 00:01:42,600
+have written. We're actually getting it
+ 
+
+93
+00:01:42,600 --> 00:01:45,030
+have written. We're actually getting it
+to go and create content based on my
+
+94
+00:01:45,030 --> 00:01:45,040
+to go and create content based on my
+ 
+
+95
+00:01:45,040 --> 00:01:46,630
+to go and create content based on my
+work, some of my best stuff that I've
+
+96
+00:01:46,630 --> 00:01:46,640
+work, some of my best stuff that I've
+ 
+
+97
+00:01:46,640 --> 00:01:48,510
+work, some of my best stuff that I've
+ever made, and then packaging it away
+
+98
+00:01:48,510 --> 00:01:48,520
+ever made, and then packaging it away
+ 
+
+99
+00:01:48,520 --> 00:01:50,510
+ever made, and then packaging it away
+that fits this title. What this is doing
+
+100
+00:01:50,510 --> 00:01:50,520
+that fits this title. What this is doing
+ 
+
+101
+00:01:50,520 --> 00:01:54,040
+that fits this title. What this is doing
+is just saving me time.
+

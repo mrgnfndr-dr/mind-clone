@@ -1,0 +1,135 @@
+1|When you look at businesses like Starbucks or McDonald's, right, one of the core things that they really mastered early on was thinking of their business like an assembly line. You know, someone goes and orders a
+11|drink, then you have to go and prep it a certain way. You have to have a standardized menu in a repeatable process so that that same franchise can be replicated thousands of
+22|times across different countries and different cultures. Now, the truth is too many founders view their businesses as completely different. They say, "Oh, no. You know, all my stuff's got to be customized or, you know, it's
+32|just not the same." And those kind of founders will be left behind. Because the truth is that every business is an assembly line. The opportunity right now is to start cloning yourself. Stop
+42|thinking that your stuff cannot be replicated because the truth is it can and it will be whether it's by you or by a competitor in your space. Now, here's the beautiful part
+53|about actually going and cloning yourself. The truth is whether you're a busy founder, high performer, busy professional is you're constantly being inundated with different tasks. You know that feeling of like damn it like I got to go do this thing today. And often
+64|times that's the kind of feeling that leads you to procrastinate. You should not be taking something from 0 to 100. You should be cloning yourself and getting your clone to take it from 0
+74|to 80 and then you taking it that final mile, right? That cognitive dissonance can be offloaded to your clone so you don't need to go and do all this stuff yourself. You know, the other
+84|thing that I see all the time is people going and using hiring as some badge of honor. But here's the deal. Hiring is actually a badge of failure these days. In so many cases, it's about slowing
+95|down and realizing that this is no longer optional. Right now is the time to start leveraging AI, making it your strategic business advisor, and using it
+106|for about 80% of your decisions in a day. So, this is last Friday. This is me documenting all the tasks that I need to go and create. Inside of here, you can see things like creating a COO, which is a chief operating officer,
+118|job description, uh going and finding places um where I can go and tap into different founders that are doing over $300,000 of revenue a month. Beside each of these
+128|tasks, as you can see right here, I've gone and put a little square box and inside it says 10X. That 10x goes and alludes to my 10x profit clone
+139|inside of chat GBT. And so this 10x profit clone is essentially gone and trained on all of my core documents, around 39 of them inside of
+150|founder OS and my own personal life. So that this thing can make decisions 10 times better than me and help drive 10x more profits from my portfolio of online businesses that are
+160|currently doing over $13 million a year in revenue. You know, when I look out to 2027, it's the founders that go and start cloning themselves at an elite level today that will go and far
+172|surpass the rest of the competition in their space. The beautiful thing here, as you guys know on this channel, is that we're all about systems. And AI eats systems for breakfast. And
+183|so, when you're organized, when you have clear documentation, you give AI the power it needs to then go and make decisions 10x better than you can. And so, you know, I'm able to go
+193|and offload a bunch of just stuff that candidly I don't want to be doing, and then use that cognitive load to make big hires, film content like this. I really
+203|believe as a high performer, you need to be a student of the game, and make sure that you're implementing this at an elite level. There are new rules being written out. There's a new way of
+213|thinking and operating that is required of you. So, now, let me reveal the simple two-step system that you need to go and clone yourself with AI. What we're going to get into here is all of
+223|the pieces of my 10x profit project. This is the ultimate clone of myself and I want to go and help you set this up for your business and life as well. So, we're going to start with
+233|documentation and documentation is just a simple way of saying you need to have systemized documents of all the core pieces of your business. So, let me go
+243|and show you some of the core ones that I would recommend you get set up ASAP. What we have here is the Founder OS brand positioning, right? And inside of this, I've gone and synthesized all
+253|the core pieces of our messaging around Founder OS, which is the high- growth community that I've built of founders that are looking to build founder-led brands and remove themselves from
+264|operations and have a business that runs itself. And so, our real core messaging is that the best way to build an online business is with a personal brand because people follow people then
+274|they follow brands. Obviously, because I've given my project this much context, it really knows the >> >> essence of my brand. You can see I've gone and updated my own personal board
+285|of adviserss, people that are going to go and help me accelerate my vision, and I'm also going to help them with their vision. From there, I've gone and synthesized things like my project priorities. So, the core things that I
+295|need to do to wrap up 2025 to make this the most legendary year of my life. From there, I've listed things like the copywriting needs we need to nail down, our tech needs, all detailed here. I've
+307|also uploaded my vision for each of my companies, right? Over 10 years, 3 years, one year, and then what we need to get over the 90 days to make [\h__\h] happen. And I've done the same with my own personal vision here as well. Here
+318|you can see the founder velocity offer. And so what I've gone and done here is detailed all of the things that people get inside of Founder S velocity. access to me, my chief product officer, my head
+330|of distribution, my head of video, my chief of staff. You know, this is just a taste of what we have inside of there. It's a community of around 200 high growth legends. Our belief is that
+340|we're stronger together. We're always sharing cutting edge secrets and people can message me anytime they need any help and we're constantly going and leveling up as an amazing group
+350|of high performance individuals. What I then go and do is I download this and this is one of the documents that I upload to the project files of that 10x profit project that I'll show you here in a second. You can see that I've gone
+360|and obviously systemized my whole company. What I do is I go and upload all the core systems from an awareness, inquiry, sales, onboarding, delivery, collections, and renewal. Right? Because
+371|when you think about the seven core aspects of the customer journey inside of your company, there's generally about three systems in each of these categories. When you go and take those
+381|21 systems across the whole journey and you upload those to your chat GBT project, now the clone of you essentially has an understanding of not
+391|just how every piece of your business works, but it also has an understanding of all the core stakeholders inside of your business and who has decision rights over different pieces of the
+402|flows. That way, as you start asking it to complete tasks and organize plans for you, it can go and not only create those plans, but also create the delegation systems necessary to go and get [\h__\h] off
+413|your plate and help you build more leverage. Because as a founder, there are a number of ways to help you get out of the core operation and build leverage. You have media, which is your
+424|personal brand. You have code, which is the technology that you build around you, including AI. You have capital which is leveraging your cash flows to reinvest that to make more cash. And then you also have your team, right,
+436|which has the ability to go and, you know, work without you and help you go and get to your dreams a lot faster. Now, it's not just that that I go and upload to this clone of myself. I'm also
+446|going and giving it different stories, right? So, I want to make sure it understands my authentic voice. And so these are 29 pages of my writing, my stories, different kind of vibes around,
+458|you know, the identity that I have and the way that I speak so that it knows actually like who I am at like my core, right? So I'm getting into different stories um that I've gone and written in
+469|my journal and uploaded them here to this doc. I'm coming up um with more flushed out sort of enemies that I have um different things I'm passionate about. Trying to just give it like that
+480|personality. so that this clone actually has a soul. The key thing is that most people find that their clone doesn't sound like them or doesn't sound authentic. And I just think that that's
+491|a lack of you going and giving it the context it needs. So I'm giving it stories in the form of this doc as an example, but I'm also going and in my case, I've uploaded my entire book as
+501|well. Now, this is coming out soon, so I can't show you everything here, but let's just say there's about 70,000 words here that I've scrubbed pretty hardcore that I also go and upload to my
+512|clone so it can ensure that when it's giving me stuff, it's writing like I speak. When it comes to the business, right, an example of something that's important is making sure that you have clear expectations of every single
+523|department. Okay, so here you can see my sales expectations as an example, right? So we have a culture where things like extreme ownership, high agency, high
+533|standards, and no complacency are required. And so from there, we're making sure that, you know, over the remaining 12 pages of this document, I'm going through the key kind of escalation
+543|practices, who does what, the importance of updating things like CRM and hitting metrics. I've also got things like our marketing motivation here. This gets
+553|into things like our target market, our core client avatar, what they care about, what they're all about. The fact that we're targeting with founder OS established business owners. Whenever
+563|you're creating content, the area where most people screw up is that they don't have the infrastructure in place. And the infrastructure is something that the content GPS solves and includes things
+573|like your CTAs, your newsletter, your email sequences, and how you go and create your own application router. By the way, if you want my help and my team's help going and implementing your
+584|own clone because you're looking at this and you're going, "Damn, I'd love to get someone to set this up with me." Well, that's exactly what we do in Founder OS, you can go and book a call with my team below. We'll learn what you're really
+594|trying to do with your clone and see how we can help. All right, so when it comes to going and setting up your instructions and prompting inside of your clone, the area where most people screw up is that they make it way too
+605|skinny. It's vague as hell. you're expecting this thing to work like you, but you're not giving it the instructions that will do such. Now, if we want it to act like you, or you know, a 10x version of you, we got to get into
+617|the details because it's where the details happen that the real leverage happens. So, when I'm going and tooling up the instructions for my clone, I'm putting in things like, you are the best
+628|business coach and growth strategist in the world, hired to help me scale Founder OS from 500K profit a month to $2 million profit a month. I wanted to advise me like the best founders in the world. People like Larry
+639|Ellison, Charlie Mer, Warren Buffett, Jeff Bezos, and Bill Campbell, the trillion dollar coach. So, it has deep expertise in things like design, ops,
+649|strategy, sales, marketing, finance, and is going to think in terms of constraints, compounding, and giving me massive clarity. Now, that's not all. as it goes and designs
+660|things. I need systems, I need road maps, and then core documentation that I can go and 5x the profit of Founder OS in just the next 12 months.
+670|So, I need the playbook to scale revenue, expand margins, and simplifying operations without adding any more chaos. From there, I give it even more detailed breakdowns. things
+681|like helping me go and identify constraints in specific ways by diagnosing the one bottleneck that we need to attack to go and unlock the next level of leverage. I need to then
+691|prescribe systems, right, and make sure that they're scalable, repeatable, and documented. From there, it needs to define the KPIs if I'm delegating things to other people with clear due dates so
+702|that, you know, there's some accountability there. I then wanted to prioritize leverage in everything that we do by increasing things like average order value um lifetime value of a customer making sure that we're driving
+713|lead flow at scale and overall also reducing the founder dependency and everything right because the truth is I'm focused on working on the business not in it and having a business
+724|that completely runs itself. So in terms of the kind of tone right I want it to be systematic and calm kind of like that naval ravocant mixed with Rick Rubin
+734|energy I want there to be a core loop which each thing right I want it thinking about the fourth and fifth order consequences of everything. I also wanted to think in terms of psychological constraints, right? And
+746|think in terms of things like inversion, some of the core principles from folks like Charlie Mer who helped grow Birkshar Hathway at like some insane exponential growth rate over the last
+756|100 years. And so I want to leverage some of the best thinking that's existed amongst the best founders ever and apply that to my business. Now keep in mind too, right, inside of the project files,
+766|I've gone and uploaded all of our financial model, right? So I have all of our, you know, profit and loss as well as balance sheet for the last 3 years. And then I've also gone and uploaded our projections for the next 5 years. And so
+777|it has all the context it needs now to go and be basically the best business coach that I've ever known. That's for sure. So this is what I mean by the details, right? And when you're going
+788|and building your project instructions, I think there's a few things you want to think about. Number one, you want to think about the bar that you're setting. And the way to do this is thinking about, you know, what do you want it to
+799|be for you and what are some references as the kind of people in the world that are the best at that thing? You should probably go and list them. The second aspect is you should probably go and list detailed instructions in terms of
+809|what you want it to do for you. Systems, KPIs, different documentation. Go and list that out. And then the third thing is probably thinking about the sort of tone that you want to be thinking about
+819|as well. you know, are you looking for someone to go and kind of give you the harsh truth, or do you like it when it's more kind of relaxed and chill? That combined with all the documentation you
+829|give in terms of transcripts from calls and your own voice, whether it's through your different content or the best copy you've ever written, is going to make sure that as this thing's actually delegating things on your behalf, that
+839|it sounds actually like you and your authentic voice. And so, you're probably looking to go and set up your instructions. Okay? So, let me show you how I'd think about it if you're trying to do this relatively fast. Okay, so one
+850|tool I love to use for this is Whisper Flow. All right, which allows me to go and press just the function key on my MacBook um and then just speak and get, you know, text perfectly um formatted
+861|and dictated based on what I say. So, say I was running an agency and I was looking to get it from 200k per month to a million a month. Here's what I would do. We go and open up Whisper Flow here. And you can see just for a second
+872|as I talk, it's kind of tight. So, you are the best agency owner, adviser in the world. I'm looking to get my agency from 200k profit a month to a
+882|million dollars a month. I need you to go and make sure that every area of my business is upleveled from sales, operations, marketing, tech, design, and finance. I want you to go and give me um clear
+895|instructions that help increase my margins, help make my business more smooth so I can remove myself from the operations and have a business that runs itself. I want you to go and advise me like the best founders that have ever existed like Jeff Bezos, Charlie Mer,
+907|Warren Buffett, Richard Branson, and Steve Jobs. So, you can see there that in seconds, right, it's able just to go and take my thinking right right off my head and go and smack that onto this
+918|dock. I can then simply go and copy and paste this into the instructions inside of the chatbtd project and get rolling. Now, a pro tip here is you could actually go and say to Chachi BT, I'm
+929|trying to create a project instructions for a clone of myself. This is my general thinking of what I'm trying to do. Go and make these instructions 100 times better. All right. So, I'm going to go and break down how I go and use my
+940|clone across things like hiring, core life decisions, you know, smart ways I think of learning, telling the future, and really where it's going, and then things like financial analysis as well
+951|as prioritization. Okay, so we're about to get into a lot here, so buckle up because this is behind the scenes stuff that I've never shown before, but you know, for you guys, we're always trying to be insanely generous. So,
+962|let's rip it. Right now, I've been really focused on bringing on a COO into Founder OS. Someone that can go and remove me from all the final pieces of the ops and then allow me to go and just
+974|enjoy my life and most importantly go and work on way more strategic things for found. closing up deals with Netflix, buying a founder retreat center in the Doommites, and a lot of other
+984|insane stuff that we're cooking up. You know, our mission here is big, and I need a [\h__\h] cracked operator inside of our company to help get us to where we're trying to go. And so, what I've gone and done here is
+995|created a COO interview system. I've gone and prompted my clone to go and come up with the entire interview process so I can make sure that I'm hiring a weapon. You know, as a CEO, you know that there's really three
+1006|things you need to nail down. your numbers, your people, and your culture, right? And when it comes to people, the hiring process is one of the most high lever things you can nail down. But so
+1016|many people screw this up. And so, inside of this, you can see it's coming up with a structure and questions for the interview, the dos and don'ts in terms of the red flags that I may see
+1026|that would determine that someone's not right for what we're doing, and the green flag answers that would determine this is high signal and you could move this person forward in the interview process. It's giving me all
+1037|the different projects this person should be creating and completing. And it also has kind of the core things that I should be looking for, right? Someone that can document my actual recurring responsibilities.
+1047|Someone that's able to assign core systems, the people on our team. Um, someone that's really great at a leadership cadence across the company. And someone that's really done this
+1057|before over multiple years inside the exact sort of space that we operate in. So, this is just one example, right, of leveraging your clone to make sure that when you're getting into a
+1068|bunch of interviews in a day, you have that all systemized and ready to go. So, you're not thinking, "Fuck, you know, what am I even asking this person or how do I even know if this person's right for my company?" Your clone has
+1079|already done all that work for you. So, now let's move forward into life decision optimization. All right, in 2026, I got big dreams, right? And I know you do, too. Now, one of the big things that I'm going and setting up is
+1090|an epic home base in Bali. What I asked my clone to do is go and come up with an insane plan for a home. Okay. What it's going and doing here is
+1101|crafting not just some villa in Bali, which is not what we're looking for. You know, we're really trying to create this kind of like Frank Lloyd Wright vibe, right? And construct this environment, right, for creativity, for
+1112|peace, and for longevity. What it's now doing, right, is dialing in how all of this home base needs to be dialed to not only help me personally with things like silence, nature, but it's
+1123|also going to help me go and leverage this home base to dial in the business goals that I have as well. I then go and transfer this to a Google doc that actually ended up being around 30 pages long. That's printed off and
+1134|it's now handed off to every core stakeholder that's helping me with this exact project. All right. So, you can also go and leverage your clone to just learn in a much more curated and
+1144|personalized manner. So, here you can see I'm also going and using my clone to come up with top book recommendations for me. As you use your clone, it's developing a memory around
+1155|the things you're struggling with, your current challenges, the obstacles, and the goals you have, right? It's going and recommending books like the four agreements, the power of now, untethered soul. These are just some of the books.
+1165|And what I typically then go do is like pick a few of them, buy them physically, and I'm just reading these mostly before bed or when I'm just chilling throughout the days. Now, I also go and use my clone to really help me go and tell the
+1176|future. And so, one thing as an example is the fourth turning, which is this whole kind of societal reset that's going on, and it happens every 80 to 90 years. And right now, there's a fourth
+1187|turning going on. There's a Nobel Prize winner, which is a Schiller cape ratio that right now is kind of showing that this adjusted price to earnings ratio um
+1197|which typically dictates crashes um is spiking right now, indicating that there's likely going to be a correction in 2026. And so I'm looking at
+1208|that. I'm getting ready for it. Um, the truth is that most of entrepreneurship is really about not just going and looking for your upside, but also inverting things and asking
+1218|yourself, how could we fail? I'm already preparing my contingency plans across all my businesses so that when it happens, I'm actually looking forward to it because I've got plans in place and
+1228|we're ready to rock. And now when it comes to the fourth turning, as an example, this is exactly part of the reason why I've created Founder OS, right? You know, we're talking about a time where things are going to be collapsing, right? The old guard is
+1239|going away. The new guard is things like AI powered teams, founder brands and systems for everything that you do, right? We live in the most remarkable time ever. So this is exactly
+1249|what we help founders with inside of founder OS, helping them with the systems, helping go and leveraging their entire team with the AI so the founder becomes the least important person in
+1260|their business. Again, if any of this is interesting, you should definitely go and book a call via the link in the description. we'd love to tell you more about it and learn what you're really trying to do with your brand this year. Now, here's one of the most exciting
+1271|ways that I go and I use my clone. Okay, we all know that when we're building there is sometimes this level of overwhelm. The general issue is not time, okay, it's prioritization and
+1283|having the right systems and AI around you to go and knock down those priorities. So what I do is when I have all these project files updated and it knows what I'm working on, it's able to
+1293|go and effectively help me prioritize the next 20 tasks I need to do ranked from most important to least important. So in here it's telling me to go and
+1303|build the 2.0 version of the found dashboard. Go and give the Found application funnel and GPS an entire overhaul. Go and continue to optimize the velocity offer. Launch Black Friday
+1314|Cyber Monday, which you know, fast forward, we've done this. We made over $280,000 in just 7 days. So, you know, let me tell you, this clone is profitable, right? It's helping me with my book
+1325|launch of my new book, which is coming down the pipeline soon. And it's continually helping me with things like going and systemizing more aspects on my behalf so I can remove myself from my business and have a beautiful,
+1336|calm, peaceful empire that runs itself. I'm not doing this stuff. I'm just simply using the AI to create detailed plans and then delegating that stuff to the 10Xers on my team that can go and
+1348|help implement it at a insane level of quality. So the whole purpose here, right, is that you need to become the least important person in your business. You have leverage from your
+1359|team, you have leverage from your systems, and now you have an insane amount of leverage from your clone. The beautiful thing here, right, is that you can actually start interlinking these elements as well,
+1370|right? So now that you've created a clone of yourself, you guessed it, you're going to share that clone as well with your team. So now your team all has the leverage of all this
+1380|documentation, the instructions, and the memory, and they're now able to go and use these projects for themselves. So that now they each have five clones of themselves. And so, you
+1391|know, if you have an 8 person team, including yourself, that 8 person team quite possibly is operating even more powerfully than a 40 person or 50 person team, your clone now can act
+1402|on your behalf and help defend your time, which is your most valuable resource as a founder. To make sure that you use everything that we covered in this video, be sure to go and download the clone yourself checklist via the link in description
+1412|and go and apply this to your business and life today. The founders that are involved in this channel are the founders that are focused on getting ahead, right? finding those little pieces of leverage so we can build a vibrant business and more importantly an
+1423|amazing life. Thanks so much for watching. If you enjoyed this video and you want to find out how I leverage AI even further for things like my content and operations, go and check out this next video. Check that out right now. Be
+1434|sure to like and subscribe.

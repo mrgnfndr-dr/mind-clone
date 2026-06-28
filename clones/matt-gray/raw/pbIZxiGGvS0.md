@@ -1,0 +1,6 @@
+2|Reels are for storytelling and lifestyle content. Carousels are for tactical, educational content, and stories are for more behind-the-scenes, vulnerable content. So, my reels over here, as an example, really paint this more aspirational life of a founder. All the
+13|systems that I go and show people allow them to get their time back. And I know when I'm getting my time back, I'm out in nature, I'm traveling, and I'm just enjoying the world. That's what I'm trying to show people in a real like
+23|this as an example. On the carousel side, I'm trying to go deep helping founders really scale their offer, get to 300K plus per month, and be able to go and build teams through proper delegation structure, and the right
+34|organic content. And so, that's exactly what I do, breaking down all of these systems in detail in these educational carousels. Now, behind the scenes, it's all about just letting people know just day-to-day what I'm up
+44|to. just raw thoughts of things on my mind, whether it's books I'm reading, places I'm traveling, different things I'm learning, and just sharing kind of the things on my mind directly with people so they feel like
+54|they get to know the real Matt.

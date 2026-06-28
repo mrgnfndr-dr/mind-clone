@@ -1,0 +1,109 @@
+1|Everyone wants to make a great living doing what they're actually good at. But, the real challenge isn't finding your passion. It's knowing how to package it into something people will pay premium prices for. You know, most
+11|people try to create a high-ticket offer out of thin air. They guess, they wing it, and then they burn out. But, here's the truth. The coaches, creators, and consultants earning
+21|serious income, they aren't inventing offers. They're choosing the right high-ticket model that works for their expertise to drive those end results that their customers deeply
+32|value. So, in this video, I'm breaking down the five high-ticket business models making coaches and consultants anywhere from 10,000 to over $100,000 per client. I'm going
+43|to show you how you can go and choose the one that fits your strengths without burning out or diluting the work that you love. Once you finish this video, you'll never look at monetizing your
+53|expertise the same way again. Just a quick heads-up here as well, all right? This video is step one of two. So, step one is that you're going to watch this and then understand the
+63|five models. Step two is where you then go and figure out which one you should build. So, I created something called the five scalable models self-audit. It's a 15-minute diagnostic
+73|where you're going to rate your fit for each one of these models. Download it below and complete it after you finish this video. Let's break down the models. Model one is group coaching
+83|or cohort-based courses. This is where you stop selling your time and you start selling a transformation system. A true cohort is going to force progress to a structured milestones,
+93|assignments, and deadlines. In a cohort, you're finally not the product. The system is the product. You're not trading your time for money like one-on-one coaching. You're building a structured, time-bound program where
+104|around 25 people, give or take, are able to go through a transformation together. Pre-built curriculum, assignments, peer accountability, and it's live group coaching. The calendar enforces progress
+115|and the curriculum is going to replace live teaching. The system teaches, and you just calibrate. Let's get into the pros and cons. The pros? Well, it's scalable. You record the curriculum once, and you use it for
+126|multiple cohorts. The community effect, peer pressure, and accountability are going to drive results. You can run two or even four cohorts per year and get that recurring revenue. And you
+136|can start with a minimal team. The cons? It's still very time-intensive delivery. You still need to show up for live calls and facilitation. Managing 20 to 30 people through milestones is
+147|somewhat complex. And curriculum creation up front requires significant work before your first cohort. You can only run about two to four cohorts per year without burning out. And if the
+157|curriculum is weak, well, people drop out and could even damage your reputation. So, a great example here are my good friend Dickie and Nicolas Cole over at Ship 30 for 30. They
+167|created this amazing program to help people with online writing. There's $350 per cohort. Over 10,000 students have gone through it. Their promise is essentially that you can write essays
+177|after this and be able to share that writing online. It's about really just building that daily writing habit. Live sessions are all recorded, so you can also go and check them out after. And you're able to get peer
+187|feedback in the community. Why does this work? Because the system teaches. Dickie and Nick just show up, and they calibrate. And they've really gone through this multiple times, and so
+197|they've helped scale this million-dollar model from just repetition. This is typically a great model for founders that are doing between 10 to 50K per month. Looking to scale their time. You're probably solo, or maybe you have a small
+208|team of one or two or three people. And your goal is to scale from about 50K per month to 100K to 200K per month. Here's the trap. If your curriculum is weak, you're just running expensive Zoom
+218|therapy. A weak curriculum means you become the teacher. The system has to teach, you just calibrate. So, if the system is the product, what happens when the room becomes the product? That's model two. Model two is
+230|high-ticket masterminds. And masterminds aren't about just learning, you know, they're about network arbitrage. People join masterminds because they want the right introductions, right? Because the right introduction can really collapse 3
+241|years of trial and error into just one conversation. Masterminds are typically an elite peer group paying premium for just a curated network and not just education. Now, the most important thing
+252|here is the curation, >> >> right? You curate the wrong group of people and the mastermind is likely to fail. But you curate a really high-caliber group of people and I've
+262|seen these be insanely transformative. In fact, when I look back to my own career, you know, a lot of the masterminds that I've gone to that have been insane inflection points and allowed me to go and level up. About
+273|5 years ago, going to a mastermind that was run by a good friend Eric Sue and over there, I remember meeting Hormozi, Cody Sanchez, Sam Ovens and others. And this was a
+284|great opportunity at that time for me to really understand the value of building my own founder-led brand. And it helped really rocket ship a lot of my progress in building Founder OS. These sort of
+294|masterminds are amazing. It's important to find the ones that are curated right for you. And if you're making one, it all comes down to making sure that the caliber of the people in the room are elite. The pros,
+306|well, this model tends to be the highest revenue per member. Often times charging between 30K to 60K plus per member per year. You got insane network effects as well, right? Members create
+316|value for each other. And if it's really good, they go and tell their friends. The cool thing is is it can scale without you once you get that critical mass. In addition that, you have sticky retention, right?
+327|People don't leave elite rooms once they're finding an insane amount of value in them. If you get the right people in the room and everyone's making connections, opening different doors, well, before you know it, that group of
+337|people are just compounding. So, some things to think about here are premium positioning, also making sure that it's exclusive so that you drive desirability. You You have about 20 members at 60K, which is an easy 1.2
+348|million dollars >> >> of revenue a year with a pretty minimal delivery burden. The cool thing here is that you can really structure it however you want. The cons is that it requires a strong personal brand. You know,
+359|you can't launch without proven track record and authority. There's also a high rejection rate needed, right? You must say no to about 90% plus of applicants to maintain a really high
+369|standard. So, you want to make sure that each member is actually elevating the experience. When you're building these, you know, exclusive retreats, members-only dinners, and you know, exclusive access to
+379|things that people couldn't get otherwise. Examples of this are, you know, Russell Brunson has his inner circle. I know good friend Dan Martell has his Elite Growth Mastermind. Myron Golden has a different one for
+390|Offer Mastery. So, these are all over the place, right? The truth is, it's not just about education, right? What you should be primarily concerned with is curating the right room of
+400|people, right? That's what makes these so valuable. And so, this is exactly how we've gone and created Founderless Mastermind. You know, it's about $60,000 per year. It's capped at a really small group of eight-figure
+411|founders. Each one gets six private one-to-ones with me every year. Weekly group calls, exclusive retreats. Who this is for? Well, this is for founders doing around 100 to 500K per month with a strong
+422|personal brand, network, and then the ability to curate elite peers. At the end of the day, you know, people can feel, especially in groups like this, when you really care. And I see
+432|caring as being one of the biggest competitive advantages when you're building a mastermind like this. Now, models one and two require you to show up live. But, what if you could scale without being on calls?
+443|Well, that's model three. So, model three is DIY program plus high-touch mentorship. This separates information delivery from decision support. Record the content once and you can typically
+454|sell it forever. Show up only for high-leverage feedback at critical decision points along the client journey. This is the first model that can realistically serve 500 plus people without overwhelming you.
+466|Information delivery is automated, mentorship prevents costly mistakes, and members can learn from content. They get calibration from you at critical decision points, and you have a clear structure that's
+476|laid out for people with pre-recorded lessons, templates, and frameworks. And you may even throw in things like monthly group calls or Q&A. The catch here is that delivery is insanely
+486|important, and it's where most people running this model fail. You know, I know we've probably all been there when we've purchased something and then you get on the inside and you're like, "What the is this thing?"
+496|Right? And what I see a lot of people do is they see the dollar signs on a model like this, and they fail to understand the delivery that's required to do it right. The reality is this, right? You have someone coming in that's
+507|just purchased, and they have expectations. You as the founder, maybe you don't want to get too involved in the delivery because maybe the price tag isn't massive yet. So, you feel like, you know, it should be relatively
+517|scalable and that you shouldn't be lost in the weeds, but I think what you really want to do here is make sure that you're mapping out all of the core activation points when someone joins. They typically are sold in, they
+528|have an onboarding call of some sort, and then there's probably a series of three to seven core milestones that get someone from where they are now to the kind of given outcome
+538|that they were promised on the sales call. The important thing is that you think strategically about how you deliver on that transformation for someone through a combination of the curriculum, of the support that you
+549|provide, and any one-to-one or mentorship access they get as well. Typically, the curriculum and the overall program needs to be updated over time, right? You need to make sure that
+559|it's fresh, it's dialed in. Inevitably, if you're watching this, right? >> >> You're here because you want to create something amazing. Cuz as much as we can talk about different content systems for marketing, inevitably the best
+569|marketing is just a amazing product. Having regular feedback surveys that you send your members to understand, you know, what stuff are they looking for help with, what gaps are they seeing, what stuff could
+579|you do to really delight them, and then responding to that feedback super fast with new and updated modules or support or Q&A. I think it's something you can do to really provide that delight that I believe members in
+591|these sorts of programs genuinely deserve. It's easy to sell this right? It's a whole other thing to go and deliver on it, which is why you really need to understand the details when you're doing this. You
+601|typically will charge here about $2,000 up to about $10,000 depending on the given program. Examples of this are things like, you know, Ali Abdaal's Part-Time Creator Academy, helping
+612|first-time creators go and get their first YouTube going and starting up their channel. I've also created something inside Founder OS, which is called Founder OS Flagship, giving people access to the 180 systems that
+622|I've used to scale multiple companies and all the things across YouTube OS, LinkedIn OS, X OS, Instagram OS, and helping you go and also optimize your offer. Humans crave structure. And
+634|so, what you need to be thinking when you're running a business like this is what's the structure you need to have in place where someone can come in with little knowledge and go through a proven framework of items, right, and move seamlessly
+646|through a journey to be able to get to some end state which they have insane amounts of clarity, because that's essentially what you're selling here is clarity.
+656|So, model four is done-for-you services. So, clients here aren't just looking for your advice, they want to never think about things again. And that's why done-for-you doesn't just sell hours, right? It sells certainty. People
+667|actually want the work done. So, clients are paying to not hire, to not manage, to not figure out the system on their own. If you can just productize your service, you know, you have the potential here to scale this to millions
+677|of dollars per month. Then you and your team actually execute the work completely for the client. So, the client just shows up only just review and approve the deliverables. And so, this can scale, but it really
+688|takes operational excellence on your part. You need specialists who actually know what they're doing, obviously. This is where, you know, you having the right SOPs, system, technology, team, that can
+698|produce outcomes repeatedly is insanely important. You know, this is just what I built with Herb, okay, which is one of my businesses that helps people in a regulated space. And what we
+709|did was we created the first of its kind kind of marketing system and company that would allow people to track their conversions all the way from awareness through to transactions. These done-for-you businesses can be
+720|tricky because people have high expectations, right? And often times what I find hardest about them is that initially it's kind of hard to understand what's most repeatable about
+730|it. What you can find, if you're not careful, is that every single client wants a customized solution. That gets exhausting, right? You can imagine having a hundred different clients, they've got big expectations
+740|cuz they're all paying you $20,000 a month, and they all want different and you've got a team of like 25 people. You know, this is really where I cut my teeth with systems, right? And
+750|fast forward today, 20 years later, it was all the work I had done at Herb over those years, really working in an insanely hard space, building this kind of service,
+760|that really taught me the importance of having amazing systems for operations, finance, billing, marketing, sales, customer success. You'll learn a ton in a model like this. It's a hell of
+770|a good model if you just have your dialed in. But, you know, there's no room for sloppiness here. If it's productized, meaning that the service is able to stay the same and be delivered thousands of times,
+781|then yeah, you could be looking at 70 to 85% profit margins. But, if that is broken, right, and highly customized, I've seen people struggle here with like 5 to 30% margins max. And
+792|so, you got to make sure it's productized. You also want to make sure that you're building team-based leverage, right? So, you can scale by hiring amazing specialists and getting that recurring revenue because your team
+803|is delivering on the promises every single month to those clients that are coming on board. One area where I see get hard here is if a CEO is not good at retaining his talent, you both have
+814|these clients with high expectations and a revolving door of talent going through and suddenly things just start to collapse in on themselves, right? Because client expectations in this
+824|model are high. A great example of a legend in this space is Gary Vaynerchuk with VaynerMedia. Full service content, social media strategy. So, this is one of the larger done-for-you agencies out
+834|there in his given space. He's got a team of specialists over there that are delivering outcomes for massive brands at scale. If your goal is to get to say 200k to 500k to a million plus per
+844|month, you know, you're going to need that team leverage in place. And so, you need to be really good at recruiting legends and not afraid to pay up. That reliability is everything.
+855|That's a lot of pressure, right? So, you got to make sure you got the right people around you. All right. So, models one through four are powerful, right? But, there's one model that combines all of them into something much
+865|>> >> bigger. And that's model number five here. Model five is the hybrid operating system. >> >> So, this isn't a course, it's not a mastermind, it's infrastructure. This
+875|model offers clients complete business infrastructure. SOPs, templates, frameworks, dashboards, tools, coaching, and community. It's not just education, it's that
+886|entire suite of systems that run a business. And it transforms how operations work and how the founder thinks. This model is insanely powerful. You can think really about
+896|like McKinsey as an example. They don't just give advice, they install frameworks, they have proven playbooks, they have dashboards and operating rhythms so their clients' companies
+906|run better forever, right? And so, a hybrid OS does this but at scale for creators and founders. Instead of 500,000 for McKinsey consultants, you know, you're able to pay maybe just
+917|20,000 to 40,000 per year for all the systems from specialized people in a given space. I think this model is really dependent on a founder, right, that believes in being
+928|insanely generous. You're likely not just helping them, you're actually enabling their whole team to take all the resources that have maybe made you successful. You're also giving
+938|them the intimacy of the mastermind model, allowing them to, you know, get to know one another. You're going above and beyond and the extra mile for them. I think it's a beautiful model here and kind of has
+949|the best of both worlds and from my experience is highly retentive for the people that join it. This model can be the most scalable from my experience, right? You can oftentimes
+960|serve 100 to 1,000 plus members if you have the right infrastructure, okay? And that's key. Infrastructure is everything. And by infrastructure, what I'm talking about here is the
+971|proven process and system for actually delivering something like this. It's easy to sell any of these things, right? The hard part is the delivery. You know, it's the difference between,
+981|you know, someone holding the door open for someone at a restaurant and then delivery being the whole meal, the five courses and making sure that they've enjoyed every bite. When you do think through the details, though, the
+992|beautiful thing is that this can be insanely defensible. It's hard to replicate, as an example, hundreds of proven systems. Members come in, they get using the suite of tools and
+1002|support and access to you and then they start asking you for more things. Maybe it's access to a AI agent or maybe they want to have epic retreats somewhere in the world. You don't know,
+1012|right? But the cool thing is that the product kind of unveils itself as you're building it. You can add things here like, you know, team licenses, advanced tiers, different retreats, right? Just compounding that
+1024|value. Systems >> >> can continue to improve over time and then just continue to increase that perceived value and allowing you to position this in a very premium way. Let me show you exactly what
+1034|this looks like, okay? Because this is what I built for myself inside of Founder OS Velocity. So, we have over 180 systems that we give members, right? They get weekly calls with me, and they
+1045|can also get access to my leadership team. All of our AI tools, a custom AI agent we call Arya that's trained on over 600 of my private systems. Took us over a year to build this tech.
+1056|And the cool thing there is now founders can just ask any question, get it to do anything that we teach in seconds. They can go and get their offer made, or they
+1066|can go and get a YouTube strategy made, or a whole content strategy for 2026 made for them. And we can go and make sure that your team is systematized, they understand how to go
+1076|and leverage organic content, they understand how to go and evolve your offer. We allow them to get tooled up so that they're less reliant on you. Make sure, inevitably, that the founder is more free. If you're an established
+1086|founder doing between 30K and 500K per month, this is the most leveraged way to work with me and my team. So, you can go and book a call via the link in the description, and let's talk about how we can help you go and
+1096|package up your expertise into a business that works without you. Now, these five models aren't about getting rich, right? They're about architecting impact for people at scale. Before you go, I created the five
+1107|scalable models self-audit. This is a 15-minute exercise where you can diagnose which model is going to fit you best, okay? So, go and download that below, complete it, and then go and book a call and
+1118|bring it to my team so we can go and review your results together, right? And then show you how to go and build it and see if we can help. Go and check that out, and I can't wait to see what you create. And if you want to go
+1128|and get an in-depth breakdown on how to go and create the Hybrid OS for yourself, well, go and check out this next video. I break down what I believe is the most beautiful business out
+1138|there. So, go check that out, and let's win together.

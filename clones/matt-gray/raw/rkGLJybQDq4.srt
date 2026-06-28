@@ -1,0 +1,5015 @@
+1
+00:00:00,000 --> 00:00:01,190
+ 
+But essentially what I want to go over,
+
+2
+00:00:01,190 --> 00:00:01,200
+But essentially what I want to go over,
+ 
+
+3
+00:00:01,200 --> 00:00:04,750
+But essentially what I want to go over,
+guys, is the Founder OS code. What is
+
+4
+00:00:04,750 --> 00:00:04,760
+guys, is the Founder OS code. What is
+ 
+
+5
+00:00:04,760 --> 00:00:06,150
+guys, is the Founder OS code. What is
+this all about? Well, I've been
+
+6
+00:00:06,150 --> 00:00:06,160
+this all about? Well, I've been
+ 
+
+7
+00:00:06,160 --> 00:00:09,430
+this all about? Well, I've been
+reflecting a lot on what principles have
+
+8
+00:00:09,430 --> 00:00:09,440
+reflecting a lot on what principles have
+ 
+
+9
+00:00:09,440 --> 00:00:11,710
+reflecting a lot on what principles have
+made me successful over the last 18
+
+10
+00:00:11,710 --> 00:00:11,720
+made me successful over the last 18
+ 
+
+11
+00:00:11,720 --> 00:00:13,110
+made me successful over the last 18
+years building multiple eight-figure
+
+12
+00:00:13,110 --> 00:00:13,120
+years building multiple eight-figure
+ 
+
+13
+00:00:13,120 --> 00:00:15,270
+years building multiple eight-figure
+companies, the kind of stuff that I see
+
+14
+00:00:15,270 --> 00:00:15,280
+companies, the kind of stuff that I see
+ 
+
+15
+00:00:15,280 --> 00:00:17,070
+companies, the kind of stuff that I see
+in the kind of mentors that I have. You
+
+16
+00:00:17,070 --> 00:00:17,080
+in the kind of mentors that I have. You
+ 
+
+17
+00:00:17,080 --> 00:00:19,350
+in the kind of mentors that I have. You
+know, I was just on a call couple weeks
+
+18
+00:00:19,350 --> 00:00:19,360
+know, I was just on a call couple weeks
+ 
+
+19
+00:00:19,360 --> 00:00:21,310
+know, I was just on a call couple weeks
+back with Ryan Kagg who's doing about
+
+20
+00:00:21,310 --> 00:00:21,320
+back with Ryan Kagg who's doing about
+ 
+
+21
+00:00:21,320 --> 00:00:23,270
+back with Ryan Kagg who's doing about
+100 million a year, Neil Patel who's
+
+22
+00:00:23,270 --> 00:00:23,280
+100 million a year, Neil Patel who's
+ 
+
+23
+00:00:23,280 --> 00:00:24,750
+100 million a year, Neil Patel who's
+doing about 70 million dollars profit a
+
+24
+00:00:24,750 --> 00:00:24,760
+doing about 70 million dollars profit a
+ 
+
+25
+00:00:24,760 --> 00:00:26,550
+doing about 70 million dollars profit a
+year and has been for the last 20 years.
+
+26
+00:00:26,550 --> 00:00:26,560
+year and has been for the last 20 years.
+ 
+
+27
+00:00:26,560 --> 00:00:28,470
+year and has been for the last 20 years.
+And these are the kind of principles if
+
+28
+00:00:28,470 --> 00:00:28,480
+And these are the kind of principles if
+ 
+
+29
+00:00:28,480 --> 00:00:31,350
+And these are the kind of principles if
+I was to distill it into 10 things that
+
+30
+00:00:31,350 --> 00:00:31,360
+I was to distill it into 10 things that
+ 
+
+31
+00:00:31,360 --> 00:00:33,950
+I was to distill it into 10 things that
+I seek to live by. And I'm not saying
+
+32
+00:00:33,950 --> 00:00:33,960
+I seek to live by. And I'm not saying
+ 
+
+33
+00:00:33,960 --> 00:00:35,430
+I seek to live by. And I'm not saying
+it's always easy, but it's it's, you
+
+34
+00:00:35,430 --> 00:00:35,440
+it's always easy, but it's it's, you
+ 
+
+35
+00:00:35,440 --> 00:00:37,110
+it's always easy, but it's it's, you
+know, the stuff that I kind of use as my
+
+36
+00:00:37,110 --> 00:00:37,120
+know, the stuff that I kind of use as my
+ 
+
+37
+00:00:37,120 --> 00:00:39,310
+know, the stuff that I kind of use as my
+North Star. And it's the stuff that as a
+
+38
+00:00:39,310 --> 00:00:39,320
+North Star. And it's the stuff that as a
+ 
+
+39
+00:00:39,320 --> 00:00:41,990
+North Star. And it's the stuff that as a
+community here inside of Founder OS, I
+
+40
+00:00:41,990 --> 00:00:42,000
+community here inside of Founder OS, I
+ 
+
+41
+00:00:42,000 --> 00:00:43,830
+community here inside of Founder OS, I
+see like the most successful founders I
+
+42
+00:00:43,830 --> 00:00:43,840
+see like the most successful founders I
+ 
+
+43
+00:00:43,840 --> 00:00:46,390
+see like the most successful founders I
+work with living by. So, I want to get
+
+44
+00:00:46,390 --> 00:00:46,400
+work with living by. So, I want to get
+ 
+
+45
+00:00:46,400 --> 00:00:47,470
+work with living by. So, I want to get
+into these and I'm going to kind of
+
+46
+00:00:47,470 --> 00:00:47,480
+into these and I'm going to kind of
+ 
+
+47
+00:00:47,480 --> 00:00:49,030
+into these and I'm going to kind of
+speak to some of these as well as I go
+
+48
+00:00:49,030 --> 00:00:49,040
+speak to some of these as well as I go
+ 
+
+49
+00:00:49,040 --> 00:00:51,070
+speak to some of these as well as I go
+through them. So, number one here,
+
+50
+00:00:51,070 --> 00:00:51,080
+through them. So, number one here,
+ 
+
+51
+00:00:51,080 --> 00:00:53,350
+through them. So, number one here,
+right, is really like moving like it's
+
+52
+00:00:53,350 --> 00:00:53,360
+right, is really like moving like it's
+ 
+
+53
+00:00:53,360 --> 00:00:57,190
+right, is really like moving like it's
+going to work out because it is. Now,
+
+54
+00:00:57,190 --> 00:00:57,200
+going to work out because it is. Now,
+ 
+
+55
+00:00:57,200 --> 00:00:58,790
+going to work out because it is. Now,
+what is this all about, right?
+
+56
+00:00:58,790 --> 00:00:58,800
+what is this all about, right?
+ 
+
+57
+00:00:58,800 --> 00:01:01,510
+what is this all about, right?
+Essentially, first things first is like
+
+58
+00:01:01,510 --> 00:01:01,520
+Essentially, first things first is like
+ 
+
+59
+00:01:01,520 --> 00:01:03,430
+Essentially, first things first is like
+when you're building any business,
+
+60
+00:01:03,430 --> 00:01:03,440
+when you're building any business,
+ 
+
+61
+00:01:03,440 --> 00:01:05,670
+when you're building any business,
+right? Like it's hard, right? And
+
+62
+00:01:05,670 --> 00:01:05,680
+right? Like it's hard, right? And
+ 
+
+63
+00:01:05,680 --> 00:01:06,990
+right? Like it's hard, right? And
+there's points that you definitely are
+
+64
+00:01:06,990 --> 00:01:07,000
+there's points that you definitely are
+ 
+
+65
+00:01:07,000 --> 00:01:10,550
+there's points that you definitely are
+going to doubt yourself, right? I think
+
+66
+00:01:10,550 --> 00:01:10,560
+going to doubt yourself, right? I think
+ 
+
+67
+00:01:10,560 --> 00:01:11,710
+going to doubt yourself, right? I think
+there's an aspect say when we're
+
+68
+00:01:11,710 --> 00:01:11,720
+there's an aspect say when we're
+ 
+
+69
+00:01:11,720 --> 00:01:15,390
+there's an aspect say when we're
+building content, right? Are you someone
+
+70
+00:01:15,390 --> 00:01:15,400
+building content, right? Are you someone
+ 
+
+71
+00:01:15,400 --> 00:01:16,430
+building content, right? Are you someone
+you know, I was just on a call with a
+
+72
+00:01:16,430 --> 00:01:16,440
+you know, I was just on a call with a
+ 
+
+73
+00:01:16,440 --> 00:01:18,190
+you know, I was just on a call with a
+founder and she had mentioned that she
+
+74
+00:01:18,190 --> 00:01:18,200
+founder and she had mentioned that she
+ 
+
+75
+00:01:18,200 --> 00:01:19,910
+founder and she had mentioned that she
+was making authentic content and then
+
+76
+00:01:19,910 --> 00:01:19,920
+was making authentic content and then
+ 
+
+77
+00:01:19,920 --> 00:01:22,230
+was making authentic content and then
+some friends went to her and said, you
+
+78
+00:01:22,230 --> 00:01:22,240
+some friends went to her and said, you
+ 
+
+79
+00:01:22,240 --> 00:01:24,310
+some friends went to her and said, you
+know, your content doesn't seem like
+
+80
+00:01:24,310 --> 00:01:24,320
+know, your content doesn't seem like
+ 
+
+81
+00:01:24,320 --> 00:01:26,230
+know, your content doesn't seem like
+that solid anymore. Like it seems like
+
+82
+00:01:26,230 --> 00:01:26,240
+that solid anymore. Like it seems like
+ 
+
+83
+00:01:26,240 --> 00:01:28,030
+that solid anymore. Like it seems like
+it needs some work. So, she stopped
+
+84
+00:01:28,030 --> 00:01:28,040
+it needs some work. So, she stopped
+ 
+
+85
+00:01:28,040 --> 00:01:31,190
+it needs some work. So, she stopped
+making content. And then took a break
+
+86
+00:01:31,190 --> 00:01:31,200
+making content. And then took a break
+ 
+
+87
+00:01:31,200 --> 00:01:32,750
+making content. And then took a break
+from it cuz she wanted to figure out how
+
+88
+00:01:32,750 --> 00:01:32,760
+from it cuz she wanted to figure out how
+ 
+
+89
+00:01:32,760 --> 00:01:34,350
+from it cuz she wanted to figure out how
+to make authentic content and then would
+
+90
+00:01:34,350 --> 00:01:34,360
+to make authentic content and then would
+ 
+
+91
+00:01:34,360 --> 00:01:36,470
+to make authentic content and then would
+come back to it. And that's an example
+
+92
+00:01:36,470 --> 00:01:36,480
+come back to it. And that's an example
+ 
+
+93
+00:01:36,480 --> 00:01:39,110
+come back to it. And that's an example
+of exactly what not to do, right? I
+
+94
+00:01:39,110 --> 00:01:39,120
+of exactly what not to do, right? I
+ 
+
+95
+00:01:39,120 --> 00:01:41,150
+of exactly what not to do, right? I
+think that the process of creating great
+
+96
+00:01:41,150 --> 00:01:41,160
+think that the process of creating great
+ 
+
+97
+00:01:41,160 --> 00:01:43,470
+think that the process of creating great
+content, finding more authentic voice
+
+98
+00:01:43,470 --> 00:01:43,480
+content, finding more authentic voice
+ 
+
+99
+00:01:43,480 --> 00:01:44,510
+content, finding more authentic voice
+and putting yourself out there is a
+
+100
+00:01:44,510 --> 00:01:44,520
+and putting yourself out there is a
+ 
+
+101
+00:01:44,520 --> 00:01:47,470
+and putting yourself out there is a
+process of brick by brick, just like
+
+102
+00:01:47,470 --> 00:01:47,480
+process of brick by brick, just like
+ 
+
+103
+00:01:47,480 --> 00:01:50,270
+process of brick by brick, just like
+carving out your voice, carving out your
+
+104
+00:01:50,270 --> 00:01:50,280
+carving out your voice, carving out your
+ 
+
+105
+00:01:50,280 --> 00:01:53,550
+carving out your voice, carving out your
+style by just being confident, not
+
+106
+00:01:53,550 --> 00:01:53,560
+style by just being confident, not
+ 
+
+107
+00:01:53,560 --> 00:01:56,430
+style by just being confident, not
+stopping, pushing daily, and over time
+
+108
+00:01:56,430 --> 00:01:56,440
+stopping, pushing daily, and over time
+ 
+
+109
+00:01:56,440 --> 00:01:58,710
+stopping, pushing daily, and over time
+from the shipping, the iterating, you
+
+110
+00:01:58,710 --> 00:01:58,720
+from the shipping, the iterating, you
+ 
+
+111
+00:01:58,720 --> 00:02:02,270
+from the shipping, the iterating, you
+then hone in on your core voice. It's
+
+112
+00:02:02,270 --> 00:02:02,280
+then hone in on your core voice. It's
+ 
+
+113
+00:02:02,280 --> 00:02:04,469
+then hone in on your core voice. It's
+not from like sitting on the sidelines
+
+114
+00:02:04,469 --> 00:02:04,479
+not from like sitting on the sidelines
+ 
+
+115
+00:02:04,479 --> 00:02:06,510
+not from like sitting on the sidelines
+or, you know, letting that voice, that
+
+116
+00:02:06,510 --> 00:02:06,520
+or, you know, letting that voice, that
+ 
+
+117
+00:02:06,520 --> 00:02:08,469
+or, you know, letting that voice, that
+insecure side of your, you know, your
+
+118
+00:02:08,469 --> 00:02:08,479
+insecure side of your, you know, your
+ 
+
+119
+00:02:08,479 --> 00:02:11,550
+insecure side of your, you know, your
+brain get to you and cause you to, yeah,
+
+120
+00:02:11,550 --> 00:02:11,560
+brain get to you and cause you to, yeah,
+ 
+
+121
+00:02:11,560 --> 00:02:15,590
+brain get to you and cause you to, yeah,
+not show up, right? And so, this idea of
+
+122
+00:02:15,590 --> 00:02:15,600
+not show up, right? And so, this idea of
+ 
+
+123
+00:02:15,600 --> 00:02:17,390
+not show up, right? And so, this idea of
+also as a founder like trusting your
+
+124
+00:02:17,390 --> 00:02:17,400
+also as a founder like trusting your
+ 
+
+125
+00:02:17,400 --> 00:02:20,150
+also as a founder like trusting your
+judgment, right? I see it all the time
+
+126
+00:02:20,150 --> 00:02:20,160
+judgment, right? I see it all the time
+ 
+
+127
+00:02:20,160 --> 00:02:22,110
+judgment, right? I see it all the time
+where, you know, founders are like, you
+
+128
+00:02:22,110 --> 00:02:22,120
+where, you know, founders are like, you
+ 
+
+129
+00:02:22,120 --> 00:02:23,670
+where, you know, founders are like, you
+know, should I do this or this, you
+
+130
+00:02:23,670 --> 00:02:23,680
+know, should I do this or this, you
+ 
+
+131
+00:02:23,680 --> 00:02:26,030
+know, should I do this or this, you
+know, A or B, C or D? And it's going to
+
+132
+00:02:26,030 --> 00:02:26,040
+know, A or B, C or D? And it's going to
+ 
+
+133
+00:02:26,040 --> 00:02:27,310
+know, A or B, C or D? And it's going to
+be like, well, what do you want to do?
+
+134
+00:02:27,310 --> 00:02:27,320
+be like, well, what do you want to do?
+ 
+
+135
+00:02:27,320 --> 00:02:29,510
+be like, well, what do you want to do?
+Like imagine a world where it would all
+
+136
+00:02:29,510 --> 00:02:29,520
+Like imagine a world where it would all
+ 
+
+137
+00:02:29,520 --> 00:02:32,350
+Like imagine a world where it would all
+work out, right? That whatever direction
+
+138
+00:02:32,350 --> 00:02:32,360
+work out, right? That whatever direction
+ 
+
+139
+00:02:32,360 --> 00:02:34,110
+work out, right? That whatever direction
+you went in, you would be really
+
+140
+00:02:34,110 --> 00:02:34,120
+you went in, you would be really
+ 
+
+141
+00:02:34,120 --> 00:02:35,790
+you went in, you would be really
+successful. You know, what would you
+
+142
+00:02:35,790 --> 00:02:35,800
+successful. You know, what would you
+ 
+
+143
+00:02:35,800 --> 00:02:37,030
+successful. You know, what would you
+want to do?
+
+144
+00:02:37,030 --> 00:02:37,040
+want to do?
+ 
+
+145
+00:02:37,040 --> 00:02:39,070
+want to do?
+Right? And then go do that thing
+
+146
+00:02:39,070 --> 00:02:39,080
+Right? And then go do that thing
+ 
+
+147
+00:02:39,080 --> 00:02:41,470
+Right? And then go do that thing
+confidently knowing that like if you put
+
+148
+00:02:41,470 --> 00:02:41,480
+confidently knowing that like if you put
+ 
+
+149
+00:02:41,480 --> 00:02:43,310
+confidently knowing that like if you put
+your all into it, you put the energy
+
+150
+00:02:43,310 --> 00:02:43,320
+your all into it, you put the energy
+ 
+
+151
+00:02:43,320 --> 00:02:45,030
+your all into it, you put the energy
+into it, you stay consistent with it,
+
+152
+00:02:45,030 --> 00:02:45,040
+into it, you stay consistent with it,
+ 
+
+153
+00:02:45,040 --> 00:02:46,670
+into it, you stay consistent with it,
+you will be successful. The second piece
+
+154
+00:02:46,670 --> 00:02:46,680
+you will be successful. The second piece
+ 
+
+155
+00:02:46,680 --> 00:02:48,630
+you will be successful. The second piece
+here is like keeping it insanely simple.
+
+156
+00:02:48,630 --> 00:02:48,640
+here is like keeping it insanely simple.
+ 
+
+157
+00:02:48,640 --> 00:02:49,590
+here is like keeping it insanely simple.
+Now,
+
+158
+00:02:49,590 --> 00:02:49,600
+Now,
+ 
+
+159
+00:02:49,600 --> 00:02:51,110
+Now,
+this is a thing that I live by in my
+
+160
+00:02:51,110 --> 00:02:51,120
+this is a thing that I live by in my
+ 
+
+161
+00:02:51,120 --> 00:02:52,670
+this is a thing that I live by in my
+life and in my business and it's a
+
+162
+00:02:52,670 --> 00:02:52,680
+life and in my business and it's a
+ 
+
+163
+00:02:52,680 --> 00:02:54,590
+life and in my business and it's a
+continual practice.
+
+164
+00:02:54,590 --> 00:02:54,600
+continual practice.
+ 
+
+165
+00:02:54,600 --> 00:02:57,070
+continual practice.
+Okay? We live in a day and age where
+
+166
+00:02:57,070 --> 00:02:57,080
+Okay? We live in a day and age where
+ 
+
+167
+00:02:57,080 --> 00:02:59,390
+Okay? We live in a day and age where
+some [\h__\h] gurus will try to convince
+
+168
+00:02:59,390 --> 00:02:59,400
+some [\h__\h] gurus will try to convince
+ 
+
+169
+00:02:59,400 --> 00:03:01,270
+some [\h__\h] gurus will try to convince
+you that, you know, you need to go and
+
+170
+00:03:01,270 --> 00:03:01,280
+you that, you know, you need to go and
+ 
+
+171
+00:03:01,280 --> 00:03:03,229
+you that, you know, you need to go and
+have all these like crazy complex
+
+172
+00:03:03,229 --> 00:03:03,239
+have all these like crazy complex
+ 
+
+173
+00:03:03,239 --> 00:03:04,949
+have all these like crazy complex
+funnels and these crazy complex
+
+174
+00:03:04,949 --> 00:03:04,959
+funnels and these crazy complex
+ 
+
+175
+00:03:04,959 --> 00:03:07,630
+funnels and these crazy complex
+businesses. And my belief is often times
+
+176
+00:03:07,630 --> 00:03:07,640
+businesses. And my belief is often times
+ 
+
+177
+00:03:07,640 --> 00:03:10,590
+businesses. And my belief is often times
+like it can be really damn simple,
+
+178
+00:03:10,590 --> 00:03:10,600
+like it can be really damn simple,
+ 
+
+179
+00:03:10,600 --> 00:03:13,670
+like it can be really damn simple,
+right? Pick one platform. Pick one
+
+180
+00:03:13,670 --> 00:03:13,680
+right? Pick one platform. Pick one
+ 
+
+181
+00:03:13,680 --> 00:03:16,670
+right? Pick one platform. Pick one
+offer, right? Pick, you know, one lead
+
+182
+00:03:16,670 --> 00:03:16,680
+offer, right? Pick, you know, one lead
+ 
+
+183
+00:03:16,680 --> 00:03:19,070
+offer, right? Pick, you know, one lead
+magnet even to start with and just stay
+
+184
+00:03:19,070 --> 00:03:19,080
+magnet even to start with and just stay
+ 
+
+185
+00:03:19,080 --> 00:03:20,990
+magnet even to start with and just stay
+consistent with your content and just
+
+186
+00:03:20,990 --> 00:03:21,000
+consistent with your content and just
+ 
+
+187
+00:03:21,000 --> 00:03:24,310
+consistent with your content and just
+push people through that core flow,
+
+188
+00:03:24,310 --> 00:03:24,320
+push people through that core flow,
+ 
+
+189
+00:03:24,320 --> 00:03:25,830
+push people through that core flow,
+right? When I first started Foundr us,
+
+190
+00:03:25,830 --> 00:03:25,840
+right? When I first started Foundr us,
+ 
+
+191
+00:03:25,840 --> 00:03:28,670
+right? When I first started Foundr us,
+it was Foundr us program, one offer on
+
+192
+00:03:28,670 --> 00:03:28,680
+it was Foundr us program, one offer on
+ 
+
+193
+00:03:28,680 --> 00:03:31,949
+it was Foundr us program, one offer on
+Twitter and got that to $50,000 a month,
+
+194
+00:03:31,949 --> 00:03:31,959
+Twitter and got that to $50,000 a month,
+ 
+
+195
+00:03:31,959 --> 00:03:34,870
+Twitter and got that to $50,000 a month,
+right? It wasn't like some complex
+
+196
+00:03:34,870 --> 00:03:34,880
+right? It wasn't like some complex
+ 
+
+197
+00:03:34,880 --> 00:03:36,830
+right? It wasn't like some complex
+system in place that I needed to get up
+
+198
+00:03:36,830 --> 00:03:36,840
+system in place that I needed to get up
+ 
+
+199
+00:03:36,840 --> 00:03:38,990
+system in place that I needed to get up
+and going, right? I didn't have 10
+
+200
+00:03:38,990 --> 00:03:39,000
+and going, right? I didn't have 10
+ 
+
+201
+00:03:39,000 --> 00:03:41,750
+and going, right? I didn't have 10
+offers, I wasn't on five platforms. I
+
+202
+00:03:41,750 --> 00:03:41,760
+offers, I wasn't on five platforms. I
+ 
+
+203
+00:03:41,760 --> 00:03:44,110
+offers, I wasn't on five platforms. I
+started just super simple and scaled up
+
+204
+00:03:44,110 --> 00:03:44,120
+started just super simple and scaled up
+ 
+
+205
+00:03:44,120 --> 00:03:45,190
+started just super simple and scaled up
+from there.
+
+206
+00:03:45,190 --> 00:03:45,200
+from there.
+ 
+
+207
+00:03:45,200 --> 00:03:46,949
+from there.
+Now, you know, I think that all
+
+208
+00:03:46,949 --> 00:03:46,959
+Now, you know, I think that all
+ 
+
+209
+00:03:46,959 --> 00:03:49,430
+Now, you know, I think that all
+businesses, mine included, they default
+
+210
+00:03:49,430 --> 00:03:49,440
+businesses, mine included, they default
+ 
+
+211
+00:03:49,440 --> 00:03:51,990
+businesses, mine included, they default
+to entropy, they default to complexity.
+
+212
+00:03:51,990 --> 00:03:52,000
+to entropy, they default to complexity.
+ 
+
+213
+00:03:52,000 --> 00:03:54,230
+to entropy, they default to complexity.
+So, it's also a continual practice to
+
+214
+00:03:54,230 --> 00:03:54,240
+So, it's also a continual practice to
+ 
+
+215
+00:03:54,240 --> 00:03:56,390
+So, it's also a continual practice to
+get it back down to simplicity. You
+
+216
+00:03:56,390 --> 00:03:56,400
+get it back down to simplicity. You
+ 
+
+217
+00:03:56,400 --> 00:03:58,150
+get it back down to simplicity. You
+know, over the last 6 months, I've
+
+218
+00:03:58,150 --> 00:03:58,160
+know, over the last 6 months, I've
+ 
+
+219
+00:03:58,160 --> 00:03:59,870
+know, over the last 6 months, I've
+implemented a bunch of skills, a bunch
+
+220
+00:03:59,870 --> 00:03:59,880
+implemented a bunch of skills, a bunch
+ 
+
+221
+00:03:59,880 --> 00:04:02,230
+implemented a bunch of skills, a bunch
+of cloud code elements, dashboards,
+
+222
+00:04:02,230 --> 00:04:02,240
+of cloud code elements, dashboards,
+ 
+
+223
+00:04:02,240 --> 00:04:03,510
+of cloud code elements, dashboards,
+different automations in my business,
+
+224
+00:04:03,510 --> 00:04:03,520
+different automations in my business,
+ 
+
+225
+00:04:03,520 --> 00:04:06,830
+different automations in my business,
+and cut around $670,000
+
+226
+00:04:06,830 --> 00:04:06,840
+and cut around $670,000
+ 
+
+227
+00:04:06,840 --> 00:04:09,710
+and cut around $670,000
+of head count. Right? In the name of
+
+228
+00:04:09,710 --> 00:04:09,720
+of head count. Right? In the name of
+ 
+
+229
+00:04:09,720 --> 00:04:11,790
+of head count. Right? In the name of
+keeping things insanely simple. Cuz the
+
+230
+00:04:11,790 --> 00:04:11,800
+keeping things insanely simple. Cuz the
+ 
+
+231
+00:04:11,800 --> 00:04:13,350
+keeping things insanely simple. Cuz the
+last thing I want to be running is a
+
+232
+00:04:13,350 --> 00:04:13,360
+last thing I want to be running is a
+ 
+
+233
+00:04:13,360 --> 00:04:16,870
+last thing I want to be running is a
+complex company with 28 humans. My dream
+
+234
+00:04:16,870 --> 00:04:16,880
+complex company with 28 humans. My dream
+ 
+
+235
+00:04:16,880 --> 00:04:19,110
+complex company with 28 humans. My dream
+is really to have 12 core humans on my
+
+236
+00:04:19,110 --> 00:04:19,120
+is really to have 12 core humans on my
+ 
+
+237
+00:04:19,120 --> 00:04:22,070
+is really to have 12 core humans on my
+team, a 70% margin, and a business that
+
+238
+00:04:22,070 --> 00:04:22,080
+team, a 70% margin, and a business that
+ 
+
+239
+00:04:22,080 --> 00:04:24,150
+team, a 70% margin, and a business that
+I love, working with people that I love,
+
+240
+00:04:24,150 --> 00:04:24,160
+I love, working with people that I love,
+ 
+
+241
+00:04:24,160 --> 00:04:25,909
+I love, working with people that I love,
+and be able to have a true freedom,
+
+242
+00:04:25,909 --> 00:04:25,919
+and be able to have a true freedom,
+ 
+
+243
+00:04:25,919 --> 00:04:27,390
+and be able to have a true freedom,
+right? Controlling the four Ws in life,
+
+244
+00:04:27,390 --> 00:04:27,400
+right? Controlling the four Ws in life,
+ 
+
+245
+00:04:27,400 --> 00:04:29,710
+right? Controlling the four Ws in life,
+working where I want to work, with who,
+
+246
+00:04:29,710 --> 00:04:29,720
+working where I want to work, with who,
+ 
+
+247
+00:04:29,720 --> 00:04:31,310
+working where I want to work, with who,
+on what I want to work, wherever the
+
+248
+00:04:31,310 --> 00:04:31,320
+on what I want to work, wherever the
+ 
+
+249
+00:04:31,320 --> 00:04:33,070
+on what I want to work, wherever the
+hell in the world I want to work.
+
+250
+00:04:33,070 --> 00:04:33,080
+hell in the world I want to work.
+ 
+
+251
+00:04:33,080 --> 00:04:34,870
+hell in the world I want to work.
+The next asset here, guys, is doing the
+
+252
+00:04:34,870 --> 00:04:34,880
+The next asset here, guys, is doing the
+ 
+
+253
+00:04:34,880 --> 00:04:37,510
+The next asset here, guys, is doing the
+work. Okay? The only place that success
+
+254
+00:04:37,510 --> 00:04:37,520
+work. Okay? The only place that success
+ 
+
+255
+00:04:37,520 --> 00:04:40,430
+work. Okay? The only place that success
+comes before work is in the dictionary.
+
+256
+00:04:40,430 --> 00:04:40,440
+comes before work is in the dictionary.
+ 
+
+257
+00:04:40,440 --> 00:04:43,390
+comes before work is in the dictionary.
+Okay? And the reality is is that it's
+
+258
+00:04:43,390 --> 00:04:43,400
+Okay? And the reality is is that it's
+ 
+
+259
+00:04:43,400 --> 00:04:46,070
+Okay? And the reality is is that it's
+the work that matters, right? And so,
+
+260
+00:04:46,070 --> 00:04:46,080
+the work that matters, right? And so,
+ 
+
+261
+00:04:46,080 --> 00:04:48,150
+the work that matters, right? And so,
+all the systems, all the, you know,
+
+262
+00:04:48,150 --> 00:04:48,160
+all the systems, all the, you know,
+ 
+
+263
+00:04:48,160 --> 00:04:50,630
+all the systems, all the, you know,
+different automations, or, you know,
+
+264
+00:04:50,630 --> 00:04:50,640
+different automations, or, you know,
+ 
+
+265
+00:04:50,640 --> 00:04:52,470
+different automations, or, you know,
+different lessons we go over, these
+
+266
+00:04:52,470 --> 00:04:52,480
+different lessons we go over, these
+ 
+
+267
+00:04:52,480 --> 00:04:54,310
+different lessons we go over, these
+things are all for nothing if there's
+
+268
+00:04:54,310 --> 00:04:54,320
+things are all for nothing if there's
+ 
+
+269
+00:04:54,320 --> 00:04:56,590
+things are all for nothing if there's
+not a real degree of work going in on
+
+270
+00:04:56,590 --> 00:04:56,600
+not a real degree of work going in on
+ 
+
+271
+00:04:56,600 --> 00:04:59,470
+not a real degree of work going in on
+the background there, right? And so,
+
+272
+00:04:59,470 --> 00:04:59,480
+the background there, right? And so,
+ 
+
+273
+00:04:59,480 --> 00:05:01,790
+the background there, right? And so,
+you know, for me, the core, like,
+
+274
+00:05:01,790 --> 00:05:01,800
+you know, for me, the core, like,
+ 
+
+275
+00:05:01,800 --> 00:05:03,830
+you know, for me, the core, like,
+basically domino that I can do every
+
+276
+00:05:03,830 --> 00:05:03,840
+basically domino that I can do every
+ 
+
+277
+00:05:03,840 --> 00:05:05,710
+basically domino that I can do every
+single day, right? That's going to help
+
+278
+00:05:05,710 --> 00:05:05,720
+single day, right? That's going to help
+ 
+
+279
+00:05:05,720 --> 00:05:06,950
+single day, right? That's going to help
+me go and get to where I'm looking to
+
+280
+00:05:06,950 --> 00:05:06,960
+me go and get to where I'm looking to
+ 
+
+281
+00:05:06,960 --> 00:05:09,909
+me go and get to where I'm looking to
+go, is 4 hours of founder flow. In fact,
+
+282
+00:05:09,909 --> 00:05:09,919
+go, is 4 hours of founder flow. In fact,
+ 
+
+283
+00:05:09,919 --> 00:05:12,830
+go, is 4 hours of founder flow. In fact,
+that's where I'm at right now, right? In
+
+284
+00:05:12,830 --> 00:05:12,840
+that's where I'm at right now, right? In
+ 
+
+285
+00:05:12,840 --> 00:05:15,790
+that's where I'm at right now, right? In
+my cafe right here. In my same spot
+
+286
+00:05:15,790 --> 00:05:15,800
+my cafe right here. In my same spot
+ 
+
+287
+00:05:15,800 --> 00:05:18,430
+my cafe right here. In my same spot
+every day. This is where I post up every
+
+288
+00:05:18,430 --> 00:05:18,440
+every day. This is where I post up every
+ 
+
+289
+00:05:18,440 --> 00:05:20,510
+every day. This is where I post up every
+single morning. It's about 8:00 a.m.
+
+290
+00:05:20,510 --> 00:05:20,520
+single morning. It's about 8:00 a.m.
+ 
+
+291
+00:05:20,520 --> 00:05:23,150
+single morning. It's about 8:00 a.m.
+right now in Bali. And this is my
+
+292
+00:05:23,150 --> 00:05:23,160
+right now in Bali. And this is my
+ 
+
+293
+00:05:23,160 --> 00:05:26,470
+right now in Bali. And this is my
+routine. Got my iced Americano. And, you
+
+294
+00:05:26,470 --> 00:05:26,480
+routine. Got my iced Americano. And, you
+ 
+
+295
+00:05:26,480 --> 00:05:28,630
+routine. Got my iced Americano. And, you
+know, my notebook and checklist of the
+
+296
+00:05:28,630 --> 00:05:28,640
+know, my notebook and checklist of the
+ 
+
+297
+00:05:28,640 --> 00:05:29,710
+know, my notebook and checklist of the
+things
+
+298
+00:05:29,710 --> 00:05:29,720
+things
+ 
+
+299
+00:05:29,720 --> 00:05:31,350
+things
+I want to get done today.
+
+300
+00:05:31,350 --> 00:05:31,360
+I want to get done today.
+ 
+
+301
+00:05:31,360 --> 00:05:33,670
+I want to get done today.
+You know? And here I am, just posted up.
+
+302
+00:05:33,670 --> 00:05:33,680
+You know? And here I am, just posted up.
+ 
+
+303
+00:05:33,680 --> 00:05:35,350
+You know? And here I am, just posted up.
+And I'm just going to go do the work.
+
+304
+00:05:35,350 --> 00:05:35,360
+And I'm just going to go do the work.
+ 
+
+305
+00:05:35,360 --> 00:05:37,350
+And I'm just going to go do the work.
+Right? And this is, you know, rain or
+
+306
+00:05:37,350 --> 00:05:37,360
+Right? And this is, you know, rain or
+ 
+
+307
+00:05:37,360 --> 00:05:39,350
+Right? And this is, you know, rain or
+shine, you know, not feeling good,
+
+308
+00:05:39,350 --> 00:05:39,360
+shine, you know, not feeling good,
+ 
+
+309
+00:05:39,360 --> 00:05:40,950
+shine, you know, not feeling good,
+feeling good, feeling a little down,
+
+310
+00:05:40,950 --> 00:05:40,960
+feeling good, feeling a little down,
+ 
+
+311
+00:05:40,960 --> 00:05:42,670
+feeling good, feeling a little down,
+feeling great. And, you know, I tweaked
+
+312
+00:05:42,670 --> 00:05:42,680
+feeling great. And, you know, I tweaked
+ 
+
+313
+00:05:42,680 --> 00:05:44,230
+feeling great. And, you know, I tweaked
+my neck the other day doing some Muay
+
+314
+00:05:44,230 --> 00:05:44,240
+my neck the other day doing some Muay
+ 
+
+315
+00:05:44,240 --> 00:05:45,350
+my neck the other day doing some Muay
+Thai.
+
+316
+00:05:45,350 --> 00:05:45,360
+Thai.
+ 
+
+317
+00:05:45,360 --> 00:05:46,750
+Thai.
+Doesn't really matter. I'm going to be
+
+318
+00:05:46,750 --> 00:05:46,760
+Doesn't really matter. I'm going to be
+ 
+
+319
+00:05:46,760 --> 00:05:49,070
+Doesn't really matter. I'm going to be
+here showing up, doing the work, right?
+
+320
+00:05:49,070 --> 00:05:49,080
+here showing up, doing the work, right?
+ 
+
+321
+00:05:49,080 --> 00:05:51,510
+here showing up, doing the work, right?
+And I think that the same goes for you
+
+322
+00:05:51,510 --> 00:05:51,520
+And I think that the same goes for you
+ 
+
+323
+00:05:51,520 --> 00:05:54,670
+And I think that the same goes for you
+guys, right? It's like that just kind of
+
+324
+00:05:54,670 --> 00:05:54,680
+guys, right? It's like that just kind of
+ 
+
+325
+00:05:54,680 --> 00:05:57,870
+guys, right? It's like that just kind of
+chop wood, carry water mentality, right?
+
+326
+00:05:57,870 --> 00:05:57,880
+chop wood, carry water mentality, right?
+ 
+
+327
+00:05:57,880 --> 00:06:01,390
+chop wood, carry water mentality, right?
+Is a key aspect to like the compounding,
+
+328
+00:06:01,390 --> 00:06:01,400
+Is a key aspect to like the compounding,
+ 
+
+329
+00:06:01,400 --> 00:06:03,870
+Is a key aspect to like the compounding,
+right? Especially early on,
+
+330
+00:06:03,870 --> 00:06:03,880
+right? Especially early on,
+ 
+
+331
+00:06:03,880 --> 00:06:05,110
+right? Especially early on,
+right? Like early on when you're
+
+332
+00:06:05,110 --> 00:06:05,120
+right? Like early on when you're
+ 
+
+333
+00:06:05,120 --> 00:06:06,550
+right? Like early on when you're
+building something, you need to just get
+
+334
+00:06:06,550 --> 00:06:06,560
+building something, you need to just get
+ 
+
+335
+00:06:06,560 --> 00:06:08,430
+building something, you need to just get
+that momentum going. You need to kind of
+
+336
+00:06:08,430 --> 00:06:08,440
+that momentum going. You need to kind of
+ 
+
+337
+00:06:08,440 --> 00:06:09,910
+that momentum going. You need to kind of
+like get that snowball rolling down the
+
+338
+00:06:09,910 --> 00:06:09,920
+like get that snowball rolling down the
+ 
+
+339
+00:06:09,920 --> 00:06:10,910
+like get that snowball rolling down the
+other side of the hill until it turns
+
+340
+00:06:10,910 --> 00:06:10,920
+other side of the hill until it turns
+ 
+
+341
+00:06:10,920 --> 00:06:12,510
+other side of the hill until it turns
+into an avalanche. And the way to do
+
+342
+00:06:12,510 --> 00:06:12,520
+into an avalanche. And the way to do
+ 
+
+343
+00:06:12,520 --> 00:06:14,590
+into an avalanche. And the way to do
+that is just to put in the reps. Next
+
+344
+00:06:14,590 --> 00:06:14,600
+that is just to put in the reps. Next
+ 
+
+345
+00:06:14,600 --> 00:06:15,710
+that is just to put in the reps. Next
+aspect here is like protecting your
+
+346
+00:06:15,710 --> 00:06:15,720
+aspect here is like protecting your
+ 
+
+347
+00:06:15,720 --> 00:06:17,110
+aspect here is like protecting your
+nervous system,
+
+348
+00:06:17,110 --> 00:06:17,120
+nervous system,
+ 
+
+349
+00:06:17,120 --> 00:06:19,390
+nervous system,
+okay? Inevitably, you know, it's like
+
+350
+00:06:19,390 --> 00:06:19,400
+okay? Inevitably, you know, it's like
+ 
+
+351
+00:06:19,400 --> 00:06:21,270
+okay? Inevitably, you know, it's like
+removing [\h__\h] people around you,
+
+352
+00:06:21,270 --> 00:06:21,280
+removing [\h__\h] people around you,
+ 
+
+353
+00:06:21,280 --> 00:06:23,190
+removing [\h__\h] people around you,
+removing [\h__\h] influences around you,
+
+354
+00:06:23,190 --> 00:06:23,200
+removing [\h__\h] influences around you,
+ 
+
+355
+00:06:23,200 --> 00:06:24,590
+removing [\h__\h] influences around you,
+removing things that are [\h__\h] up your
+
+356
+00:06:24,590 --> 00:06:24,600
+removing things that are [\h__\h] up your
+ 
+
+357
+00:06:24,600 --> 00:06:27,470
+removing things that are [\h__\h] up your
+sleep, right? Like taking care of your
+
+358
+00:06:27,470 --> 00:06:27,480
+sleep, right? Like taking care of your
+ 
+
+359
+00:06:27,480 --> 00:06:29,350
+sleep, right? Like taking care of your
+body, of your mind, of your soul, right?
+
+360
+00:06:29,350 --> 00:06:29,360
+body, of your mind, of your soul, right?
+ 
+
+361
+00:06:29,360 --> 00:06:30,390
+body, of your mind, of your soul, right?
+Because
+
+362
+00:06:30,390 --> 00:06:30,400
+Because
+ 
+
+363
+00:06:30,400 --> 00:06:32,150
+Because
+if you, you know, strong founders build
+
+364
+00:06:32,150 --> 00:06:32,160
+if you, you know, strong founders build
+ 
+
+365
+00:06:32,160 --> 00:06:35,270
+if you, you know, strong founders build
+strong businesses, right? And if you are
+
+366
+00:06:35,270 --> 00:06:35,280
+strong businesses, right? And if you are
+ 
+
+367
+00:06:35,280 --> 00:06:37,150
+strong businesses, right? And if you are
+letting things around you, whether it's
+
+368
+00:06:37,150 --> 00:06:37,160
+letting things around you, whether it's
+ 
+
+369
+00:06:37,160 --> 00:06:38,110
+letting things around you, whether it's
+like
+
+370
+00:06:38,110 --> 00:06:38,120
+like
+ 
+
+371
+00:06:38,120 --> 00:06:40,350
+like
+late night television or a coffee that
+
+372
+00:06:40,350 --> 00:06:40,360
+late night television or a coffee that
+ 
+
+373
+00:06:40,360 --> 00:06:42,110
+late night television or a coffee that
+doesn't allow you to sleep because
+
+374
+00:06:42,110 --> 00:06:42,120
+doesn't allow you to sleep because
+ 
+
+375
+00:06:42,120 --> 00:06:44,590
+doesn't allow you to sleep because
+you're drinking coffee at 5:00 p.m. or
+
+376
+00:06:44,590 --> 00:06:44,600
+you're drinking coffee at 5:00 p.m. or
+ 
+
+377
+00:06:44,600 --> 00:06:46,550
+you're drinking coffee at 5:00 p.m. or
+it's a [\h__\h] person on your team that's
+
+378
+00:06:46,550 --> 00:06:46,560
+it's a [\h__\h] person on your team that's
+ 
+
+379
+00:06:46,560 --> 00:06:48,390
+it's a [\h__\h] person on your team that's
+really just aggravating you, or it's
+
+380
+00:06:48,390 --> 00:06:48,400
+really just aggravating you, or it's
+ 
+
+381
+00:06:48,400 --> 00:06:50,150
+really just aggravating you, or it's
+brutal customers that despite making
+
+382
+00:06:50,150 --> 00:06:50,160
+brutal customers that despite making
+ 
+
+383
+00:06:50,160 --> 00:06:52,590
+brutal customers that despite making
+some money from them, they're just like
+
+384
+00:06:52,590 --> 00:06:52,600
+some money from them, they're just like
+ 
+
+385
+00:06:52,600 --> 00:06:54,909
+some money from them, they're just like
+wrecking your week and like ruining your
+
+386
+00:06:54,909 --> 00:06:54,919
+wrecking your week and like ruining your
+ 
+
+387
+00:06:54,919 --> 00:06:57,510
+wrecking your week and like ruining your
+happiness. You got to really, like at
+
+388
+00:06:57,510 --> 00:06:57,520
+happiness. You got to really, like at
+ 
+
+389
+00:06:57,520 --> 00:06:59,030
+happiness. You got to really, like at
+the end of the day, I was talking to a
+
+390
+00:06:59,030 --> 00:06:59,040
+the end of the day, I was talking to a
+ 
+
+391
+00:06:59,040 --> 00:07:00,110
+the end of the day, I was talking to a
+founder
+
+392
+00:07:00,110 --> 00:07:00,120
+founder
+ 
+
+393
+00:07:00,120 --> 00:07:02,430
+founder
+just yesterday. He had just crossed a
+
+394
+00:07:02,430 --> 00:07:02,440
+just yesterday. He had just crossed a
+ 
+
+395
+00:07:02,440 --> 00:07:04,750
+just yesterday. He had just crossed a
+new milestone making about 500 grand a
+
+396
+00:07:04,750 --> 00:07:04,760
+new milestone making about 500 grand a
+ 
+
+397
+00:07:04,760 --> 00:07:05,750
+new milestone making about 500 grand a
+month,
+
+398
+00:07:05,750 --> 00:07:05,760
+month,
+ 
+
+399
+00:07:05,760 --> 00:07:08,110
+month,
+but he was unable to sleep all weekend
+
+400
+00:07:08,110 --> 00:07:08,120
+but he was unable to sleep all weekend
+ 
+
+401
+00:07:08,120 --> 00:07:10,390
+but he was unable to sleep all weekend
+because some of his marketing he was
+
+402
+00:07:10,390 --> 00:07:10,400
+because some of his marketing he was
+ 
+
+403
+00:07:10,400 --> 00:07:12,270
+because some of his marketing he was
+putting out there, he was worried that
+
+404
+00:07:12,270 --> 00:07:12,280
+putting out there, he was worried that
+ 
+
+405
+00:07:12,280 --> 00:07:14,390
+putting out there, he was worried that
+it was uncompliant, right? And that he
+
+406
+00:07:14,390 --> 00:07:14,400
+it was uncompliant, right? And that he
+ 
+
+407
+00:07:14,400 --> 00:07:16,110
+it was uncompliant, right? And that he
+could get in trouble with the government
+
+408
+00:07:16,110 --> 00:07:16,120
+could get in trouble with the government
+ 
+
+409
+00:07:16,120 --> 00:07:17,190
+could get in trouble with the government
+because of what he was putting out
+
+410
+00:07:17,190 --> 00:07:17,200
+because of what he was putting out
+ 
+
+411
+00:07:17,200 --> 00:07:19,270
+because of what he was putting out
+there. And I called him up because I
+
+412
+00:07:19,270 --> 00:07:19,280
+there. And I called him up because I
+ 
+
+413
+00:07:19,280 --> 00:07:20,790
+there. And I called him up because I
+could tell he was really stressed. So, I
+
+414
+00:07:20,790 --> 00:07:20,800
+could tell he was really stressed. So, I
+ 
+
+415
+00:07:20,800 --> 00:07:22,470
+could tell he was really stressed. So, I
+called him out of the blue on Monday,
+
+416
+00:07:22,470 --> 00:07:22,480
+called him out of the blue on Monday,
+ 
+
+417
+00:07:22,480 --> 00:07:24,350
+called him out of the blue on Monday,
+like actually 2 days ago, and I was
+
+418
+00:07:24,350 --> 00:07:24,360
+like actually 2 days ago, and I was
+ 
+
+419
+00:07:24,360 --> 00:07:25,710
+like actually 2 days ago, and I was
+like, "Hey, look, what's going on?" He
+
+420
+00:07:25,710 --> 00:07:25,720
+like, "Hey, look, what's going on?" He
+ 
+
+421
+00:07:25,720 --> 00:07:27,710
+like, "Hey, look, what's going on?" He
+told me what was going on and
+
+422
+00:07:27,710 --> 00:07:27,720
+told me what was going on and
+ 
+
+423
+00:07:27,720 --> 00:07:29,270
+told me what was going on and
+I was just like, "Dude, like, what is it
+
+424
+00:07:29,270 --> 00:07:29,280
+I was just like, "Dude, like, what is it
+ 
+
+425
+00:07:29,280 --> 00:07:30,310
+I was just like, "Dude, like, what is it
+even worth whether you're making a
+
+426
+00:07:30,310 --> 00:07:30,320
+even worth whether you're making a
+ 
+
+427
+00:07:30,320 --> 00:07:32,470
+even worth whether you're making a
+million a month, 3 million a month, 10
+
+428
+00:07:32,470 --> 00:07:32,480
+million a month, 3 million a month, 10
+ 
+
+429
+00:07:32,480 --> 00:07:34,310
+million a month, 3 million a month, 10
+million a month, if like this is how you
+
+430
+00:07:34,310 --> 00:07:34,320
+million a month, if like this is how you
+ 
+
+431
+00:07:34,320 --> 00:07:35,390
+million a month, if like this is how you
+feel?"
+
+432
+00:07:35,390 --> 00:07:35,400
+feel?"
+ 
+
+433
+00:07:35,400 --> 00:07:37,110
+feel?"
+Right? Like the money's not going to
+
+434
+00:07:37,110 --> 00:07:37,120
+Right? Like the money's not going to
+ 
+
+435
+00:07:37,120 --> 00:07:39,630
+Right? Like the money's not going to
+make you more happy, right? We got to
+
+436
+00:07:39,630 --> 00:07:39,640
+make you more happy, right? We got to
+ 
+
+437
+00:07:39,640 --> 00:07:42,030
+make you more happy, right? We got to
+solve this marketing thing because at
+
+438
+00:07:42,030 --> 00:07:42,040
+solve this marketing thing because at
+ 
+
+439
+00:07:42,040 --> 00:07:43,870
+solve this marketing thing because at
+the end of the day, real wealth isn't
+
+440
+00:07:43,870 --> 00:07:43,880
+the end of the day, real wealth isn't
+ 
+
+441
+00:07:43,880 --> 00:07:45,510
+the end of the day, real wealth isn't
+like what your bank account shows,
+
+442
+00:07:45,510 --> 00:07:45,520
+like what your bank account shows,
+ 
+
+443
+00:07:45,520 --> 00:07:48,230
+like what your bank account shows,
+right? It's peace, right? And peace to
+
+444
+00:07:48,230 --> 00:07:48,240
+right? It's peace, right? And peace to
+ 
+
+445
+00:07:48,240 --> 00:07:50,270
+right? It's peace, right? And peace to
+me, one of the best metrics for just
+
+446
+00:07:50,270 --> 00:07:50,280
+me, one of the best metrics for just
+ 
+
+447
+00:07:50,280 --> 00:07:52,990
+me, one of the best metrics for just
+peace is quality sleep at night, right?
+
+448
+00:07:52,990 --> 00:07:53,000
+peace is quality sleep at night, right?
+ 
+
+449
+00:07:53,000 --> 00:07:55,150
+peace is quality sleep at night, right?
+And so, really optimizing a business for
+
+450
+00:07:55,150 --> 00:07:55,160
+And so, really optimizing a business for
+ 
+
+451
+00:07:55,160 --> 00:07:56,910
+And so, really optimizing a business for
+like, you know,
+
+452
+00:07:56,910 --> 00:07:56,920
+like, you know,
+ 
+
+453
+00:07:56,920 --> 00:07:58,830
+like, you know,
+not growth, not just cash flow, right?
+
+454
+00:07:58,830 --> 00:07:58,840
+not growth, not just cash flow, right?
+ 
+
+455
+00:07:58,840 --> 00:08:00,150
+not growth, not just cash flow, right?
+But like, what is it that you actually
+
+456
+00:08:00,150 --> 00:08:00,160
+But like, what is it that you actually
+ 
+
+457
+00:08:00,160 --> 00:08:02,390
+But like, what is it that you actually
+going to make you happy that you can be
+
+458
+00:08:02,390 --> 00:08:02,400
+going to make you happy that you can be
+ 
+
+459
+00:08:02,400 --> 00:08:03,630
+going to make you happy that you can be
+proud of yourself and look at yourself
+
+460
+00:08:03,630 --> 00:08:03,640
+proud of yourself and look at yourself
+ 
+
+461
+00:08:03,640 --> 00:08:04,510
+proud of yourself and look at yourself
+in the mirror at the end of the day when
+
+462
+00:08:04,510 --> 00:08:04,520
+in the mirror at the end of the day when
+ 
+
+463
+00:08:04,520 --> 00:08:05,710
+in the mirror at the end of the day when
+maybe you're brushing your teeth and go
+
+464
+00:08:05,710 --> 00:08:05,720
+maybe you're brushing your teeth and go
+ 
+
+465
+00:08:05,720 --> 00:08:06,950
+maybe you're brushing your teeth and go
+like, you know what? I'm really proud of
+
+466
+00:08:06,950 --> 00:08:06,960
+like, you know what? I'm really proud of
+ 
+
+467
+00:08:06,960 --> 00:08:08,750
+like, you know what? I'm really proud of
+what I'm building here. Um versus
+
+468
+00:08:08,750 --> 00:08:08,760
+what I'm building here. Um versus
+ 
+
+469
+00:08:08,760 --> 00:08:10,790
+what I'm building here. Um versus
+something that like you're just like
+
+470
+00:08:10,790 --> 00:08:10,800
+something that like you're just like
+ 
+
+471
+00:08:10,800 --> 00:08:12,350
+something that like you're just like
+that's killing you. Next aspect here,
+
+472
+00:08:12,350 --> 00:08:12,360
+that's killing you. Next aspect here,
+ 
+
+473
+00:08:12,360 --> 00:08:14,310
+that's killing you. Next aspect here,
+guys, is staying focused and staying
+
+474
+00:08:14,310 --> 00:08:14,320
+guys, is staying focused and staying
+ 
+
+475
+00:08:14,320 --> 00:08:15,350
+guys, is staying focused and staying
+lean.
+
+476
+00:08:15,350 --> 00:08:15,360
+lean.
+ 
+
+477
+00:08:15,360 --> 00:08:16,870
+lean.
+I think that the kind of community that
+
+478
+00:08:16,870 --> 00:08:16,880
+I think that the kind of community that
+ 
+
+479
+00:08:16,880 --> 00:08:17,950
+I think that the kind of community that
+we're building here at Founder Alliance,
+
+480
+00:08:17,950 --> 00:08:17,960
+we're building here at Founder Alliance,
+ 
+
+481
+00:08:17,960 --> 00:08:18,950
+we're building here at Founder Alliance,
+right? We're not a bunch of people
+
+482
+00:08:18,950 --> 00:08:18,960
+right? We're not a bunch of people
+ 
+
+483
+00:08:18,960 --> 00:08:20,230
+right? We're not a bunch of people
+looking to go and build some [\h__\h]
+
+484
+00:08:20,230 --> 00:08:20,240
+looking to go and build some [\h__\h]
+ 
+
+485
+00:08:20,240 --> 00:08:21,990
+looking to go and build some [\h__\h]
+unicorn, right? You know, we're not
+
+486
+00:08:21,990 --> 00:08:22,000
+unicorn, right? You know, we're not
+ 
+
+487
+00:08:22,000 --> 00:08:23,190
+unicorn, right? You know, we're not
+looking to build 10,000-person
+
+488
+00:08:23,190 --> 00:08:23,200
+looking to build 10,000-person
+ 
+
+489
+00:08:23,200 --> 00:08:26,510
+looking to build 10,000-person
+companies, right? We are here to build
+
+490
+00:08:26,510 --> 00:08:26,520
+companies, right? We are here to build
+ 
+
+491
+00:08:26,520 --> 00:08:29,590
+companies, right? We are here to build
+like small, mighty, beautiful bootstrap
+
+492
+00:08:29,590 --> 00:08:29,600
+like small, mighty, beautiful bootstrap
+ 
+
+493
+00:08:29,600 --> 00:08:31,990
+like small, mighty, beautiful bootstrap
+businesses, right? So, you have to
+
+494
+00:08:31,990 --> 00:08:32,000
+businesses, right? So, you have to
+ 
+
+495
+00:08:32,000 --> 00:08:33,310
+businesses, right? So, you have to
+understand that with that like head
+
+496
+00:08:33,310 --> 00:08:33,320
+understand that with that like head
+ 
+
+497
+00:08:33,320 --> 00:08:35,909
+understand that with that like head
+count is some vanity metric, right? What
+
+498
+00:08:35,909 --> 00:08:35,919
+count is some vanity metric, right? What
+ 
+
+499
+00:08:35,919 --> 00:08:37,709
+count is some vanity metric, right? What
+we're here is like you should first be
+
+500
+00:08:37,709 --> 00:08:37,719
+we're here is like you should first be
+ 
+
+501
+00:08:37,719 --> 00:08:39,830
+we're here is like you should first be
+asking, you know, is your offer super
+
+502
+00:08:39,830 --> 00:08:39,840
+asking, you know, is your offer super
+ 
+
+503
+00:08:39,840 --> 00:08:41,950
+asking, you know, is your offer super
+dialed in? Do you have a platform that
+
+504
+00:08:41,950 --> 00:08:41,960
+dialed in? Do you have a platform that
+ 
+
+505
+00:08:41,960 --> 00:08:43,950
+dialed in? Do you have a platform that
+you're really focused on right now? Do
+
+506
+00:08:43,950 --> 00:08:43,960
+you're really focused on right now? Do
+ 
+
+507
+00:08:43,960 --> 00:08:46,030
+you're really focused on right now? Do
+you have content going out regularly on
+
+508
+00:08:46,030 --> 00:08:46,040
+you have content going out regularly on
+ 
+
+509
+00:08:46,040 --> 00:08:48,070
+you have content going out regularly on
+that platform? Week by week are you
+
+510
+00:08:48,070 --> 00:08:48,080
+that platform? Week by week are you
+ 
+
+511
+00:08:48,080 --> 00:08:49,790
+that platform? Week by week are you
+finding more of your voice? Are you
+
+512
+00:08:49,790 --> 00:08:49,800
+finding more of your voice? Are you
+ 
+
+513
+00:08:49,800 --> 00:08:51,550
+finding more of your voice? Are you
+finding more of your own magnetism? Are
+
+514
+00:08:51,550 --> 00:08:51,560
+finding more of your own magnetism? Are
+ 
+
+515
+00:08:51,560 --> 00:08:53,150
+finding more of your own magnetism? Are
+you staying focused on the core say
+
+516
+00:08:53,150 --> 00:08:53,160
+you staying focused on the core say
+ 
+
+517
+00:08:53,160 --> 00:08:54,790
+you staying focused on the core say
+three things that you need to work on
+
+518
+00:08:54,790 --> 00:08:54,800
+three things that you need to work on
+ 
+
+519
+00:08:54,800 --> 00:08:57,070
+three things that you need to work on
+right now, right? So,
+
+520
+00:08:57,070 --> 00:08:57,080
+right now, right? So,
+ 
+
+521
+00:08:57,080 --> 00:08:59,950
+right now, right? So,
+on my list as an example, right?
+
+522
+00:08:59,950 --> 00:08:59,960
+on my list as an example, right?
+ 
+
+523
+00:08:59,960 --> 00:09:02,550
+on my list as an example, right?
+Today, you know, I'm doing a bunch more
+
+524
+00:09:02,550 --> 00:09:02,560
+Today, you know, I'm doing a bunch more
+ 
+
+525
+00:09:02,560 --> 00:09:04,829
+Today, you know, I'm doing a bunch more
+of a scrub of like some stuff that we're
+
+526
+00:09:04,829 --> 00:09:04,839
+of a scrub of like some stuff that we're
+ 
+
+527
+00:09:04,839 --> 00:09:06,310
+of a scrub of like some stuff that we're
+doing right now to go and be able to
+
+528
+00:09:06,310 --> 00:09:06,320
+doing right now to go and be able to
+ 
+
+529
+00:09:06,320 --> 00:09:10,110
+doing right now to go and be able to
+sell more by chat inside of our funnel,
+
+530
+00:09:10,110 --> 00:09:10,120
+sell more by chat inside of our funnel,
+ 
+
+531
+00:09:10,120 --> 00:09:11,150
+sell more by chat inside of our funnel,
+right? So, we're going to be moving a
+
+532
+00:09:11,150 --> 00:09:11,160
+right? So, we're going to be moving a
+ 
+
+533
+00:09:11,160 --> 00:09:14,350
+right? So, we're going to be moving a
+lot of our sales to say DMs and reducing
+
+534
+00:09:14,350 --> 00:09:14,360
+lot of our sales to say DMs and reducing
+ 
+
+535
+00:09:14,360 --> 00:09:15,870
+lot of our sales to say DMs and reducing
+the reliance on a sales team. It's a new
+
+536
+00:09:15,870 --> 00:09:15,880
+the reliance on a sales team. It's a new
+ 
+
+537
+00:09:15,880 --> 00:09:18,470
+the reliance on a sales team. It's a new
+experiment that we're doing. And I have
+
+538
+00:09:18,470 --> 00:09:18,480
+experiment that we're doing. And I have
+ 
+
+539
+00:09:18,480 --> 00:09:20,190
+experiment that we're doing. And I have
+been making this kind of like offer doc
+
+540
+00:09:20,190 --> 00:09:20,200
+been making this kind of like offer doc
+ 
+
+541
+00:09:20,200 --> 00:09:21,950
+been making this kind of like offer doc
+which we'll use to send folks so that
+
+542
+00:09:21,950 --> 00:09:21,960
+which we'll use to send folks so that
+ 
+
+543
+00:09:21,960 --> 00:09:24,070
+which we'll use to send folks so that
+they can understand the details of
+
+544
+00:09:24,070 --> 00:09:24,080
+they can understand the details of
+ 
+
+545
+00:09:24,080 --> 00:09:25,630
+they can understand the details of
+Velocity and a bunch of new updates that
+
+546
+00:09:25,630 --> 00:09:25,640
+Velocity and a bunch of new updates that
+ 
+
+547
+00:09:25,640 --> 00:09:26,910
+Velocity and a bunch of new updates that
+we have coming which I'm really excited
+
+548
+00:09:26,910 --> 00:09:26,920
+we have coming which I'm really excited
+ 
+
+549
+00:09:26,920 --> 00:09:27,950
+we have coming which I'm really excited
+to talk to you guys about over the
+
+550
+00:09:27,950 --> 00:09:27,960
+to talk to you guys about over the
+ 
+
+551
+00:09:27,960 --> 00:09:29,190
+to talk to you guys about over the
+coming weeks.
+
+552
+00:09:29,190 --> 00:09:29,200
+coming weeks.
+ 
+
+553
+00:09:29,200 --> 00:09:30,950
+coming weeks.
+But essentially, like this document,
+
+554
+00:09:30,950 --> 00:09:30,960
+But essentially, like this document,
+ 
+
+555
+00:09:30,960 --> 00:09:33,470
+But essentially, like this document,
+right? Is a big important thing. And
+
+556
+00:09:33,470 --> 00:09:33,480
+right? Is a big important thing. And
+ 
+
+557
+00:09:33,480 --> 00:09:34,990
+right? Is a big important thing. And
+I've probably gone and scrubbed through
+
+558
+00:09:34,990 --> 00:09:35,000
+I've probably gone and scrubbed through
+ 
+
+559
+00:09:35,000 --> 00:09:37,430
+I've probably gone and scrubbed through
+this document maybe 20 times at this
+
+560
+00:09:37,430 --> 00:09:37,440
+this document maybe 20 times at this
+ 
+
+561
+00:09:37,440 --> 00:09:38,950
+this document maybe 20 times at this
+point. And today I'm going with my team
+
+562
+00:09:38,950 --> 00:09:38,960
+point. And today I'm going with my team
+ 
+
+563
+00:09:38,960 --> 00:09:40,470
+point. And today I'm going with my team
+and scrubbing through it three more
+
+564
+00:09:40,470 --> 00:09:40,480
+and scrubbing through it three more
+ 
+
+565
+00:09:40,480 --> 00:09:43,390
+and scrubbing through it three more
+times, literally is line by line.
+
+566
+00:09:43,390 --> 00:09:43,400
+times, literally is line by line.
+ 
+
+567
+00:09:43,400 --> 00:09:45,150
+times, literally is line by line.
+Right? Because it's such an important
+
+568
+00:09:45,150 --> 00:09:45,160
+Right? Because it's such an important
+ 
+
+569
+00:09:45,160 --> 00:09:46,830
+Right? Because it's such an important
+thing I need to get done. Because then
+
+570
+00:09:46,830 --> 00:09:46,840
+thing I need to get done. Because then
+ 
+
+571
+00:09:46,840 --> 00:09:48,550
+thing I need to get done. Because then
+it feeds all the different aspects of my
+
+572
+00:09:48,550 --> 00:09:48,560
+it feeds all the different aspects of my
+ 
+
+573
+00:09:48,560 --> 00:09:50,550
+it feeds all the different aspects of my
+business. And so that's just an example
+
+574
+00:09:50,550 --> 00:09:50,560
+business. And so that's just an example
+ 
+
+575
+00:09:50,560 --> 00:09:53,750
+business. And so that's just an example
+of me just staying radically focused on
+
+576
+00:09:53,750 --> 00:09:53,760
+of me just staying radically focused on
+ 
+
+577
+00:09:53,760 --> 00:09:56,070
+of me just staying radically focused on
+one four thing, not getting distracted
+
+578
+00:09:56,070 --> 00:09:56,080
+one four thing, not getting distracted
+ 
+
+579
+00:09:56,080 --> 00:09:57,670
+one four thing, not getting distracted
+with 20 other things I could be doing,
+
+580
+00:09:57,670 --> 00:09:57,680
+with 20 other things I could be doing,
+ 
+
+581
+00:09:57,680 --> 00:10:00,350
+with 20 other things I could be doing,
+and just not leaving today, not stopping
+
+582
+00:10:00,350 --> 00:10:00,360
+and just not leaving today, not stopping
+ 
+
+583
+00:10:00,360 --> 00:10:02,990
+and just not leaving today, not stopping
+until, you know, me, my COO, and my
+
+584
+00:10:02,990 --> 00:10:03,000
+until, you know, me, my COO, and my
+ 
+
+585
+00:10:03,000 --> 00:10:04,550
+until, you know, me, my COO, and my
+chief of staff have scrubbed every
+
+586
+00:10:04,550 --> 00:10:04,560
+chief of staff have scrubbed every
+ 
+
+587
+00:10:04,560 --> 00:10:06,550
+chief of staff have scrubbed every
+single line of that offer doc and feel
+
+588
+00:10:06,550 --> 00:10:06,560
+single line of that offer doc and feel
+ 
+
+589
+00:10:06,560 --> 00:10:08,630
+single line of that offer doc and feel
+good about it. Now, next thing here is
+
+590
+00:10:08,630 --> 00:10:08,640
+good about it. Now, next thing here is
+ 
+
+591
+00:10:08,640 --> 00:10:10,990
+good about it. Now, next thing here is
+building only what you can build. So,
+
+592
+00:10:10,990 --> 00:10:11,000
+building only what you can build. So,
+ 
+
+593
+00:10:11,000 --> 00:10:12,390
+building only what you can build. So,
+you know, I've been doing a lot of, you
+
+594
+00:10:12,390 --> 00:10:12,400
+you know, I've been doing a lot of, you
+ 
+
+595
+00:10:12,400 --> 00:10:14,390
+you know, I've been doing a lot of, you
+know, reflection these days as an
+
+596
+00:10:14,390 --> 00:10:14,400
+know, reflection these days as an
+ 
+
+597
+00:10:14,400 --> 00:10:15,950
+know, reflection these days as an
+example to show you guys how I think
+
+598
+00:10:15,950 --> 00:10:15,960
+example to show you guys how I think
+ 
+
+599
+00:10:15,960 --> 00:10:17,990
+example to show you guys how I think
+about stuff. I actually have a coach
+
+600
+00:10:17,990 --> 00:10:18,000
+about stuff. I actually have a coach
+ 
+
+601
+00:10:18,000 --> 00:10:20,550
+about stuff. I actually have a coach
+that you may not know, but I I pay
+
+602
+00:10:20,550 --> 00:10:20,560
+that you may not know, but I I pay
+ 
+
+603
+00:10:20,560 --> 00:10:23,350
+that you may not know, but I I pay
+$20,000 a month to a coach named Dan,
+
+604
+00:10:23,350 --> 00:10:23,360
+$20,000 a month to a coach named Dan,
+ 
+
+605
+00:10:23,360 --> 00:10:25,430
+$20,000 a month to a coach named Dan,
+and we've been working a lot on creating
+
+606
+00:10:25,430 --> 00:10:25,440
+and we've been working a lot on creating
+ 
+
+607
+00:10:25,440 --> 00:10:28,350
+and we've been working a lot on creating
+magnetic content. So, even me, after
+
+608
+00:10:28,350 --> 00:10:28,360
+magnetic content. So, even me, after
+ 
+
+609
+00:10:28,360 --> 00:10:30,670
+magnetic content. So, even me, after
+doing content for, you know, it's been I
+
+610
+00:10:30,670 --> 00:10:30,680
+doing content for, you know, it's been I
+ 
+
+611
+00:10:30,680 --> 00:10:31,870
+doing content for, you know, it's been I
+mean, technically it's been like 18
+
+612
+00:10:31,870 --> 00:10:31,880
+mean, technically it's been like 18
+ 
+
+613
+00:10:31,880 --> 00:10:33,350
+mean, technically it's been like 18
+years. I probably published across my
+
+614
+00:10:33,350 --> 00:10:33,360
+years. I probably published across my
+ 
+
+615
+00:10:33,360 --> 00:10:34,710
+years. I probably published across my
+business brands and personal brand
+
+616
+00:10:34,710 --> 00:10:34,720
+business brands and personal brand
+ 
+
+617
+00:10:34,720 --> 00:10:37,310
+business brands and personal brand
+around 37,000 pieces of content, not
+
+618
+00:10:37,310 --> 00:10:37,320
+around 37,000 pieces of content, not
+ 
+
+619
+00:10:37,320 --> 00:10:40,390
+around 37,000 pieces of content, not
+missed a single day in 18 years. Even
+
+620
+00:10:40,390 --> 00:10:40,400
+missed a single day in 18 years. Even
+ 
+
+621
+00:10:40,400 --> 00:10:42,870
+missed a single day in 18 years. Even
+I'm still like a student of the game.
+
+622
+00:10:42,870 --> 00:10:42,880
+I'm still like a student of the game.
+ 
+
+623
+00:10:42,880 --> 00:10:44,350
+I'm still like a student of the game.
+Right? And trying to like, oh, how could
+
+624
+00:10:44,350 --> 00:10:44,360
+Right? And trying to like, oh, how could
+ 
+
+625
+00:10:44,360 --> 00:10:45,950
+Right? And trying to like, oh, how could
+I make my content more magnetic? You
+
+626
+00:10:45,950 --> 00:10:45,960
+I make my content more magnetic? You
+ 
+
+627
+00:10:45,960 --> 00:10:47,470
+I make my content more magnetic? You
+know, what's the one sentence that maybe
+
+628
+00:10:47,470 --> 00:10:47,480
+know, what's the one sentence that maybe
+ 
+
+629
+00:10:47,480 --> 00:10:48,750
+know, what's the one sentence that maybe
+I'm trying to get out there, you know? I
+
+630
+00:10:48,750 --> 00:10:48,760
+I'm trying to get out there, you know? I
+ 
+
+631
+00:10:48,760 --> 00:10:50,750
+I'm trying to get out there, you know? I
+think one of the big things is like,
+
+632
+00:10:50,750 --> 00:10:50,760
+think one of the big things is like,
+ 
+
+633
+00:10:50,760 --> 00:10:51,990
+think one of the big things is like,
+your business should increase your
+
+634
+00:10:51,990 --> 00:10:52,000
+your business should increase your
+ 
+
+635
+00:10:52,000 --> 00:10:53,950
+your business should increase your
+aliveness, not consume it. What's the
+
+636
+00:10:53,950 --> 00:10:53,960
+aliveness, not consume it. What's the
+ 
+
+637
+00:10:53,960 --> 00:10:55,710
+aliveness, not consume it. What's the
+identity maybe I'm trying to really
+
+638
+00:10:55,710 --> 00:10:55,720
+identity maybe I'm trying to really
+ 
+
+639
+00:10:55,720 --> 00:10:57,630
+identity maybe I'm trying to really
+capture in my content? It's that people
+
+640
+00:10:57,630 --> 00:10:57,640
+capture in my content? It's that people
+ 
+
+641
+00:10:57,640 --> 00:11:00,110
+capture in my content? It's that people
+should be an architect, not an operator.
+
+642
+00:11:00,110 --> 00:11:00,120
+should be an architect, not an operator.
+ 
+
+643
+00:11:00,120 --> 00:11:01,310
+should be an architect, not an operator.
+You know, what are some of the pillars
+
+644
+00:11:01,310 --> 00:11:01,320
+You know, what are some of the pillars
+ 
+
+645
+00:11:01,320 --> 00:11:02,750
+You know, what are some of the pillars
+of our my point of view, right? It's
+
+646
+00:11:02,750 --> 00:11:02,760
+of our my point of view, right? It's
+ 
+
+647
+00:11:02,760 --> 00:11:04,950
+of our my point of view, right? It's
+like, calm is the highest form of scale.
+
+648
+00:11:04,950 --> 00:11:04,960
+like, calm is the highest form of scale.
+ 
+
+649
+00:11:04,960 --> 00:11:07,750
+like, calm is the highest form of scale.
+Fear is the ultimate competitive moat.
+
+650
+00:11:07,750 --> 00:11:07,760
+Fear is the ultimate competitive moat.
+ 
+
+651
+00:11:07,760 --> 00:11:09,070
+Fear is the ultimate competitive moat.
+What are some of like the different arcs
+
+652
+00:11:09,070 --> 00:11:09,080
+What are some of like the different arcs
+ 
+
+653
+00:11:09,080 --> 00:11:10,310
+What are some of like the different arcs
+that I want to be talking about, you
+
+654
+00:11:10,310 --> 00:11:10,320
+that I want to be talking about, you
+ 
+
+655
+00:11:10,320 --> 00:11:12,070
+that I want to be talking about, you
+know? It's things like, screw the church
+
+656
+00:11:12,070 --> 00:11:12,080
+know? It's things like, screw the church
+ 
+
+657
+00:11:12,080 --> 00:11:13,870
+know? It's things like, screw the church
+of hustle, make art not content, and
+
+658
+00:11:13,870 --> 00:11:13,880
+of hustle, make art not content, and
+ 
+
+659
+00:11:13,880 --> 00:11:15,630
+of hustle, make art not content, and
+importance of owning the four Ws in
+
+660
+00:11:15,630 --> 00:11:15,640
+importance of owning the four Ws in
+ 
+
+661
+00:11:15,640 --> 00:11:17,910
+importance of owning the four Ws in
+life. And so I'm constantly like
+
+662
+00:11:17,910 --> 00:11:17,920
+life. And so I'm constantly like
+ 
+
+663
+00:11:17,920 --> 00:11:19,630
+life. And so I'm constantly like
+revisiting my content strategy,
+
+664
+00:11:19,630 --> 00:11:19,640
+revisiting my content strategy,
+ 
+
+665
+00:11:19,640 --> 00:11:22,150
+revisiting my content strategy,
+revisiting what we're putting out there,
+
+666
+00:11:22,150 --> 00:11:22,160
+revisiting what we're putting out there,
+ 
+
+667
+00:11:22,160 --> 00:11:23,870
+revisiting what we're putting out there,
+because I know that, you know, when I go
+
+668
+00:11:23,870 --> 00:11:23,880
+because I know that, you know, when I go
+ 
+
+669
+00:11:23,880 --> 00:11:25,470
+because I know that, you know, when I go
+and say look at the different platforms,
+
+670
+00:11:25,470 --> 00:11:25,480
+and say look at the different platforms,
+ 
+
+671
+00:11:25,480 --> 00:11:27,630
+and say look at the different platforms,
+right? And say I go to our Instagram
+
+672
+00:11:27,630 --> 00:11:27,640
+right? And say I go to our Instagram
+ 
+
+673
+00:11:27,640 --> 00:11:29,310
+right? And say I go to our Instagram
+right now, right? I know that when I
+
+674
+00:11:29,310 --> 00:11:29,320
+right now, right? I know that when I
+ 
+
+675
+00:11:29,320 --> 00:11:31,950
+right now, right? I know that when I
+invest in and of thinking about magnetic
+
+676
+00:11:31,950 --> 00:11:31,960
+invest in and of thinking about magnetic
+ 
+
+677
+00:11:31,960 --> 00:11:34,390
+invest in and of thinking about magnetic
+content, thinking the details, right?
+
+678
+00:11:34,390 --> 00:11:34,400
+content, thinking the details, right?
+ 
+
+679
+00:11:34,400 --> 00:11:36,430
+content, thinking the details, right?
+It's what ends up, you know, producing
+
+680
+00:11:36,430 --> 00:11:36,440
+It's what ends up, you know, producing
+ 
+
+681
+00:11:36,440 --> 00:11:37,990
+It's what ends up, you know, producing
+content like this post that we put out
+
+682
+00:11:37,990 --> 00:11:38,000
+content like this post that we put out
+ 
+
+683
+00:11:38,000 --> 00:11:40,230
+content like this post that we put out
+just 4 days ago, right? This thing got
+
+684
+00:11:40,230 --> 00:11:40,240
+just 4 days ago, right? This thing got
+ 
+
+685
+00:11:40,240 --> 00:11:43,430
+just 4 days ago, right? This thing got
+like, you know, it drove over 2,000
+
+686
+00:11:43,430 --> 00:11:43,440
+like, you know, it drove over 2,000
+ 
+
+687
+00:11:43,440 --> 00:11:45,950
+like, you know, it drove over 2,000
+newsletter sign-ups to Founder OS,
+
+688
+00:11:45,950 --> 00:11:45,960
+newsletter sign-ups to Founder OS,
+ 
+
+689
+00:11:45,960 --> 00:11:49,710
+newsletter sign-ups to Founder OS,
+242,000 views, it had like over 23,000
+
+690
+00:11:49,710 --> 00:11:49,720
+242,000 views, it had like over 23,000
+ 
+
+691
+00:11:49,720 --> 00:11:53,070
+242,000 views, it had like over 23,000
+interactions on it. Right? And
+
+692
+00:11:53,070 --> 00:11:53,080
+interactions on it. Right? And
+ 
+
+693
+00:11:53,080 --> 00:11:54,550
+interactions on it. Right? And
+my belief right now, guys, and I've
+
+694
+00:11:54,550 --> 00:11:54,560
+my belief right now, guys, and I've
+ 
+
+695
+00:11:54,560 --> 00:11:56,110
+my belief right now, guys, and I've
+spoken about this a bit on some of our
+
+696
+00:11:56,110 --> 00:11:56,120
+spoken about this a bit on some of our
+ 
+
+697
+00:11:56,120 --> 00:11:57,550
+spoken about this a bit on some of our
+calls is that
+
+698
+00:11:57,550 --> 00:11:57,560
+calls is that
+ 
+
+699
+00:11:57,560 --> 00:11:59,150
+calls is that
+we're in this season right now where
+
+700
+00:11:59,150 --> 00:11:59,160
+we're in this season right now where
+ 
+
+701
+00:11:59,160 --> 00:12:01,670
+we're in this season right now where
+content has swung back to that people
+
+702
+00:12:01,670 --> 00:12:01,680
+content has swung back to that people
+ 
+
+703
+00:12:01,680 --> 00:12:05,510
+content has swung back to that people
+want to see raw, real rants, the triple
+
+704
+00:12:05,510 --> 00:12:05,520
+want to see raw, real rants, the triple
+ 
+
+705
+00:12:05,520 --> 00:12:07,350
+want to see raw, real rants, the triple
+Rs. And what that means is making
+
+706
+00:12:07,350 --> 00:12:07,360
+Rs. And what that means is making
+ 
+
+707
+00:12:07,360 --> 00:12:09,390
+Rs. And what that means is making
+content that's really you, right? Like
+
+708
+00:12:09,390 --> 00:12:09,400
+content that's really you, right? Like
+ 
+
+709
+00:12:09,400 --> 00:12:11,710
+content that's really you, right? Like
+just your edges, what I would call like
+
+710
+00:12:11,710 --> 00:12:11,720
+just your edges, what I would call like
+ 
+
+711
+00:12:11,720 --> 00:12:13,750
+just your edges, what I would call like
+your wabi-sabi, right? That Japanese
+
+712
+00:12:13,750 --> 00:12:13,760
+your wabi-sabi, right? That Japanese
+ 
+
+713
+00:12:13,760 --> 00:12:15,390
+your wabi-sabi, right? That Japanese
+principle that's like the beauty in your
+
+714
+00:12:15,390 --> 00:12:15,400
+principle that's like the beauty in your
+ 
+
+715
+00:12:15,400 --> 00:12:18,590
+principle that's like the beauty in your
+imperfection. So, hence like I'm really
+
+716
+00:12:18,590 --> 00:12:18,600
+imperfection. So, hence like I'm really
+ 
+
+717
+00:12:18,600 --> 00:12:20,670
+imperfection. So, hence like I'm really
+trying to find like just like even go
+
+718
+00:12:20,670 --> 00:12:20,680
+trying to find like just like even go
+ 
+
+719
+00:12:20,680 --> 00:12:22,270
+trying to find like just like even go
+deeper on like what's my authentic
+
+720
+00:12:22,270 --> 00:12:22,280
+deeper on like what's my authentic
+ 
+
+721
+00:12:22,280 --> 00:12:23,990
+deeper on like what's my authentic
+voice, what am I all about, what are the
+
+722
+00:12:23,990 --> 00:12:24,000
+voice, what am I all about, what are the
+ 
+
+723
+00:12:24,000 --> 00:12:25,950
+voice, what am I all about, what are the
+things that make me different, and then
+
+724
+00:12:25,950 --> 00:12:25,960
+things that make me different, and then
+ 
+
+725
+00:12:25,960 --> 00:12:28,110
+things that make me different, and then
+vocalize these things, and also just
+
+726
+00:12:28,110 --> 00:12:28,120
+vocalize these things, and also just
+ 
+
+727
+00:12:28,120 --> 00:12:30,910
+vocalize these things, and also just
+kind of find that voice by just writing
+
+728
+00:12:30,910 --> 00:12:30,920
+kind of find that voice by just writing
+ 
+
+729
+00:12:30,920 --> 00:12:32,510
+kind of find that voice by just writing
+and pushing things and getting it out
+
+730
+00:12:32,510 --> 00:12:32,520
+and pushing things and getting it out
+ 
+
+731
+00:12:32,520 --> 00:12:34,470
+and pushing things and getting it out
+there. Not by sitting on the sidelines
+
+732
+00:12:34,470 --> 00:12:34,480
+there. Not by sitting on the sidelines
+ 
+
+733
+00:12:34,480 --> 00:12:36,110
+there. Not by sitting on the sidelines
+or thinking about it too long. You know,
+
+734
+00:12:36,110 --> 00:12:36,120
+or thinking about it too long. You know,
+ 
+
+735
+00:12:36,120 --> 00:12:38,550
+or thinking about it too long. You know,
+once I maybe made a document like this
+
+736
+00:12:38,550 --> 00:12:38,560
+once I maybe made a document like this
+ 
+
+737
+00:12:38,560 --> 00:12:41,150
+once I maybe made a document like this
+document that I just showed you, right?
+
+738
+00:12:41,150 --> 00:12:41,160
+document that I just showed you, right?
+ 
+
+739
+00:12:41,160 --> 00:12:42,710
+document that I just showed you, right?
+Then just like experimenting with this
+
+740
+00:12:42,710 --> 00:12:42,720
+Then just like experimenting with this
+ 
+
+741
+00:12:42,720 --> 00:12:44,550
+Then just like experimenting with this
+[\h__\h] Just getting it out there and
+
+742
+00:12:44,550 --> 00:12:44,560
+[\h__\h] Just getting it out there and
+ 
+
+743
+00:12:44,560 --> 00:12:46,590
+[\h__\h] Just getting it out there and
+seeing what stuff resonates. Some stuff
+
+744
+00:12:46,590 --> 00:12:46,600
+seeing what stuff resonates. Some stuff
+ 
+
+745
+00:12:46,600 --> 00:12:48,110
+seeing what stuff resonates. Some stuff
+resonates like this, some stuff maybe
+
+746
+00:12:48,110 --> 00:12:48,120
+resonates like this, some stuff maybe
+ 
+
+747
+00:12:48,120 --> 00:12:50,150
+resonates like this, some stuff maybe
+doesn't like this one, and either way
+
+748
+00:12:50,150 --> 00:12:50,160
+doesn't like this one, and either way
+ 
+
+749
+00:12:50,160 --> 00:12:52,310
+doesn't like this one, and either way
+though the benefit is I learn, right?
+
+750
+00:12:52,310 --> 00:12:52,320
+though the benefit is I learn, right?
+ 
+
+751
+00:12:52,320 --> 00:12:53,470
+though the benefit is I learn, right?
+Versus the people that sit on the
+
+752
+00:12:53,470 --> 00:12:53,480
+Versus the people that sit on the
+ 
+
+753
+00:12:53,480 --> 00:12:54,950
+Versus the people that sit on the
+sidelines and just hope that someday
+
+754
+00:12:54,950 --> 00:12:54,960
+sidelines and just hope that someday
+ 
+
+755
+00:12:54,960 --> 00:12:56,829
+sidelines and just hope that someday
+their content gets magnetic. The next
+
+756
+00:12:56,829 --> 00:12:56,839
+their content gets magnetic. The next
+ 
+
+757
+00:12:56,839 --> 00:12:59,870
+their content gets magnetic. The next
+piece here then is making
+
+758
+00:12:59,870 --> 00:12:59,880
+piece here then is making
+ 
+
+759
+00:12:59,880 --> 00:13:01,550
+piece here then is making
+art, not content, right? Which is
+
+760
+00:13:01,550 --> 00:13:01,560
+art, not content, right? Which is
+ 
+
+761
+00:13:01,560 --> 00:13:03,470
+art, not content, right? Which is
+similar to what I just was going over.
+
+762
+00:13:03,470 --> 00:13:03,480
+similar to what I just was going over.
+ 
+
+763
+00:13:03,480 --> 00:13:06,470
+similar to what I just was going over.
+Right? So, the key thing here, right? Is
+
+764
+00:13:06,470 --> 00:13:06,480
+Right? So, the key thing here, right? Is
+ 
+
+765
+00:13:06,480 --> 00:13:08,350
+Right? So, the key thing here, right? Is
+guys, like sometimes you guys will ask
+
+766
+00:13:08,350 --> 00:13:08,360
+guys, like sometimes you guys will ask
+ 
+
+767
+00:13:08,360 --> 00:13:09,430
+guys, like sometimes you guys will ask
+me like, you know, Matt, should I make
+
+768
+00:13:09,430 --> 00:13:09,440
+me like, you know, Matt, should I make
+ 
+
+769
+00:13:09,440 --> 00:13:10,670
+me like, you know, Matt, should I make
+content like this? Should I make content
+
+770
+00:13:10,670 --> 00:13:10,680
+content like this? Should I make content
+ 
+
+771
+00:13:10,680 --> 00:13:12,230
+content like this? Should I make content
+like that? I talk to you guys a lot
+
+772
+00:13:12,230 --> 00:13:12,240
+like that? I talk to you guys a lot
+ 
+
+773
+00:13:12,240 --> 00:13:14,150
+like that? I talk to you guys a lot
+about the different formats that I think
+
+774
+00:13:14,150 --> 00:13:14,160
+about the different formats that I think
+ 
+
+775
+00:13:14,160 --> 00:13:16,070
+about the different formats that I think
+are best. The other thing too is like
+
+776
+00:13:16,070 --> 00:13:16,080
+are best. The other thing too is like
+ 
+
+777
+00:13:16,080 --> 00:13:17,510
+are best. The other thing too is like
+you've got to put stuff out that you
+
+778
+00:13:17,510 --> 00:13:17,520
+you've got to put stuff out that you
+ 
+
+779
+00:13:17,520 --> 00:13:19,390
+you've got to put stuff out that you
+think is unique to you. Like what do you
+
+780
+00:13:19,390 --> 00:13:19,400
+think is unique to you. Like what do you
+ 
+
+781
+00:13:19,400 --> 00:13:20,829
+think is unique to you. Like what do you
+want to make out there in the world? How
+
+782
+00:13:20,829 --> 00:13:20,839
+want to make out there in the world? How
+ 
+
+783
+00:13:20,839 --> 00:13:22,550
+want to make out there in the world? How
+do you want to show up? The same way
+
+784
+00:13:22,550 --> 00:13:22,560
+do you want to show up? The same way
+ 
+
+785
+00:13:22,560 --> 00:13:23,750
+do you want to show up? The same way
+that you wouldn't ask me how to get
+
+786
+00:13:23,750 --> 00:13:23,760
+that you wouldn't ask me how to get
+ 
+
+787
+00:13:23,760 --> 00:13:25,630
+that you wouldn't ask me how to get
+dressed in the morning, right? Is like
+
+788
+00:13:25,630 --> 00:13:25,640
+dressed in the morning, right? Is like
+ 
+
+789
+00:13:25,640 --> 00:13:27,150
+dressed in the morning, right? Is like
+the same thing like you have your own
+
+790
+00:13:27,150 --> 00:13:27,160
+the same thing like you have your own
+ 
+
+791
+00:13:27,160 --> 00:13:29,270
+the same thing like you have your own
+style. You have a fashion sense that
+
+792
+00:13:29,270 --> 00:13:29,280
+style. You have a fashion sense that
+ 
+
+793
+00:13:29,280 --> 00:13:31,310
+style. You have a fashion sense that
+speaks to how you like to show up. So
+
+794
+00:13:31,310 --> 00:13:31,320
+speaks to how you like to show up. So
+ 
+
+795
+00:13:31,320 --> 00:13:32,750
+speaks to how you like to show up. So
+yes, on Instagram as an example, you
+
+796
+00:13:32,750 --> 00:13:32,760
+yes, on Instagram as an example, you
+ 
+
+797
+00:13:32,760 --> 00:13:33,830
+yes, on Instagram as an example, you
+should have stories, you should have
+
+798
+00:13:33,830 --> 00:13:33,840
+should have stories, you should have
+ 
+
+799
+00:13:33,840 --> 00:13:35,670
+should have stories, you should have
+carousels, you should do short-form
+
+800
+00:13:35,670 --> 00:13:35,680
+carousels, you should do short-form
+ 
+
+801
+00:13:35,680 --> 00:13:38,510
+carousels, you should do short-form
+videos, right? But inevitably like how
+
+802
+00:13:38,510 --> 00:13:38,520
+videos, right? But inevitably like how
+ 
+
+803
+00:13:38,520 --> 00:13:40,550
+videos, right? But inevitably like how
+you want to show up there is a mix of
+
+804
+00:13:40,550 --> 00:13:40,560
+you want to show up there is a mix of
+ 
+
+805
+00:13:40,560 --> 00:13:42,270
+you want to show up there is a mix of
+maybe being inspired by what I'm doing,
+
+806
+00:13:42,270 --> 00:13:42,280
+maybe being inspired by what I'm doing,
+ 
+
+807
+00:13:42,280 --> 00:13:44,350
+maybe being inspired by what I'm doing,
+but mixing it then with like what's your
+
+808
+00:13:44,350 --> 00:13:44,360
+but mixing it then with like what's your
+ 
+
+809
+00:13:44,360 --> 00:13:46,190
+but mixing it then with like what's your
+authentic way of showing up. The last
+
+810
+00:13:46,190 --> 00:13:46,200
+authentic way of showing up. The last
+ 
+
+811
+00:13:46,200 --> 00:13:47,430
+authentic way of showing up. The last
+few here that I'll just kind of breeze
+
+812
+00:13:47,430 --> 00:13:47,440
+few here that I'll just kind of breeze
+ 
+
+813
+00:13:47,440 --> 00:13:49,110
+few here that I'll just kind of breeze
+through, right? Are like having high
+
+814
+00:13:49,110 --> 00:13:49,120
+through, right? Are like having high
+ 
+
+815
+00:13:49,120 --> 00:13:50,710
+through, right? Are like having high
+standards, right? My belief is that you
+
+816
+00:13:50,710 --> 00:13:50,720
+standards, right? My belief is that you
+ 
+
+817
+00:13:50,720 --> 00:13:52,790
+standards, right? My belief is that you
+get what you tolerate in life. Whether
+
+818
+00:13:52,790 --> 00:13:52,800
+get what you tolerate in life. Whether
+ 
+
+819
+00:13:52,800 --> 00:13:55,070
+get what you tolerate in life. Whether
+it's a hire, whether it's a customer,
+
+820
+00:13:55,070 --> 00:13:55,080
+it's a hire, whether it's a customer,
+ 
+
+821
+00:13:55,080 --> 00:13:56,710
+it's a hire, whether it's a customer,
+having a standard for the kind of people
+
+822
+00:13:56,710 --> 00:13:56,720
+having a standard for the kind of people
+ 
+
+823
+00:13:56,720 --> 00:13:58,710
+having a standard for the kind of people
+you want to be around and not accepting
+
+824
+00:13:58,710 --> 00:13:58,720
+you want to be around and not accepting
+ 
+
+825
+00:13:58,720 --> 00:14:01,070
+you want to be around and not accepting
+scrubs, stragglers, pedestrians, and
+
+826
+00:14:01,070 --> 00:14:01,080
+scrubs, stragglers, pedestrians, and
+ 
+
+827
+00:14:01,080 --> 00:14:03,030
+scrubs, stragglers, pedestrians, and
+tourists. Really making sure that you
+
+828
+00:14:03,030 --> 00:14:03,040
+tourists. Really making sure that you
+ 
+
+829
+00:14:03,040 --> 00:14:05,510
+tourists. Really making sure that you
+hold a high freaking bar. I know the
+
+830
+00:14:05,510 --> 00:14:05,520
+hold a high freaking bar. I know the
+ 
+
+831
+00:14:05,520 --> 00:14:07,070
+hold a high freaking bar. I know the
+kind of folks that I want to work with,
+
+832
+00:14:07,070 --> 00:14:07,080
+kind of folks that I want to work with,
+ 
+
+833
+00:14:07,080 --> 00:14:08,150
+kind of folks that I want to work with,
+right? I want to work with founders that
+
+834
+00:14:08,150 --> 00:14:08,160
+right? I want to work with founders that
+ 
+
+835
+00:14:08,160 --> 00:14:10,430
+right? I want to work with founders that
+have high agency, are self-directed,
+
+836
+00:14:10,430 --> 00:14:10,440
+have high agency, are self-directed,
+ 
+
+837
+00:14:10,440 --> 00:14:11,790
+have high agency, are self-directed,
+right? Are willing to put in the work,
+
+838
+00:14:11,790 --> 00:14:11,800
+right? Are willing to put in the work,
+ 
+
+839
+00:14:11,800 --> 00:14:13,870
+right? Are willing to put in the work,
+that live by this code. I do not want to
+
+840
+00:14:13,870 --> 00:14:13,880
+that live by this code. I do not want to
+ 
+
+841
+00:14:13,880 --> 00:14:16,070
+that live by this code. I do not want to
+work with folks that are looking for a
+
+842
+00:14:16,070 --> 00:14:16,080
+work with folks that are looking for a
+ 
+
+843
+00:14:16,080 --> 00:14:17,830
+work with folks that are looking for a
+magic pill, are looking for me to do the
+
+844
+00:14:17,830 --> 00:14:17,840
+magic pill, are looking for me to do the
+ 
+
+845
+00:14:17,840 --> 00:14:19,590
+magic pill, are looking for me to do the
+work for them. I know that in terms of
+
+846
+00:14:19,590 --> 00:14:19,600
+work for them. I know that in terms of
+ 
+
+847
+00:14:19,600 --> 00:14:21,030
+work for them. I know that in terms of
+the team I work with, right? I want to
+
+848
+00:14:21,030 --> 00:14:21,040
+the team I work with, right? I want to
+ 
+
+849
+00:14:21,040 --> 00:14:22,030
+the team I work with, right? I want to
+work with a team of people that are
+
+850
+00:14:22,030 --> 00:14:22,040
+work with a team of people that are
+ 
+
+851
+00:14:22,040 --> 00:14:24,430
+work with a team of people that are
+independent, high agency, live by the
+
+852
+00:14:24,430 --> 00:14:24,440
+independent, high agency, live by the
+ 
+
+853
+00:14:24,440 --> 00:14:26,710
+independent, high agency, live by the
+Foundress values, right? Obsess around
+
+854
+00:14:26,710 --> 00:14:26,720
+Foundress values, right? Obsess around
+ 
+
+855
+00:14:26,720 --> 00:14:28,750
+Foundress values, right? Obsess around
+quality, keep things insanely simple,
+
+856
+00:14:28,750 --> 00:14:28,760
+quality, keep things insanely simple,
+ 
+
+857
+00:14:28,760 --> 00:14:30,470
+quality, keep things insanely simple,
+dazzle founders. I don't want to work
+
+858
+00:14:30,470 --> 00:14:30,480
+dazzle founders. I don't want to work
+ 
+
+859
+00:14:30,480 --> 00:14:32,910
+dazzle founders. I don't want to work
+with people that bring me problems, that
+
+860
+00:14:32,910 --> 00:14:32,920
+with people that bring me problems, that
+ 
+
+861
+00:14:32,920 --> 00:14:34,870
+with people that bring me problems, that
+bring me more work to do, right? That
+
+862
+00:14:34,870 --> 00:14:34,880
+bring me more work to do, right? That
+ 
+
+863
+00:14:34,880 --> 00:14:36,790
+bring me more work to do, right? That
+don't make my life easy.
+
+864
+00:14:36,790 --> 00:14:36,800
+don't make my life easy.
+ 
+
+865
+00:14:36,800 --> 00:14:38,390
+don't make my life easy.
+Which lead me to kind of like inevitably
+
+866
+00:14:38,390 --> 00:14:38,400
+Which lead me to kind of like inevitably
+ 
+
+867
+00:14:38,400 --> 00:14:39,950
+Which lead me to kind of like inevitably
+here, guys, I think it's all about like
+
+868
+00:14:39,950 --> 00:14:39,960
+here, guys, I think it's all about like
+ 
+
+869
+00:14:39,960 --> 00:14:41,510
+here, guys, I think it's all about like
+we want to have businesses that actually
+
+870
+00:14:41,510 --> 00:14:41,520
+we want to have businesses that actually
+ 
+
+871
+00:14:41,520 --> 00:14:43,190
+we want to have businesses that actually
+enhance our joy, right? If we're not
+
+872
+00:14:43,190 --> 00:14:43,200
+enhance our joy, right? If we're not
+ 
+
+873
+00:14:43,200 --> 00:14:44,950
+enhance our joy, right? If we're not
+laughing daily because like we're
+
+874
+00:14:44,950 --> 00:14:44,960
+laughing daily because like we're
+ 
+
+875
+00:14:44,960 --> 00:14:46,510
+laughing daily because like we're
+enjoying who we're working with and what
+
+876
+00:14:46,510 --> 00:14:46,520
+enjoying who we're working with and what
+ 
+
+877
+00:14:46,520 --> 00:14:48,510
+enjoying who we're working with and what
+we're working on, something's freaking
+
+878
+00:14:48,510 --> 00:14:48,520
+we're working on, something's freaking
+ 
+
+879
+00:14:48,520 --> 00:14:50,390
+we're working on, something's freaking
+wrong. And I think that the last thing
+
+880
+00:14:50,390 --> 00:14:50,400
+wrong. And I think that the last thing
+ 
+
+881
+00:14:50,400 --> 00:14:51,790
+wrong. And I think that the last thing
+I'll say here is that, you know, we talk
+
+882
+00:14:51,790 --> 00:14:51,800
+I'll say here is that, you know, we talk
+ 
+
+883
+00:14:51,800 --> 00:14:52,950
+I'll say here is that, you know, we talk
+about things like your content
+
+884
+00:14:52,950 --> 00:14:52,960
+about things like your content
+ 
+
+885
+00:14:52,960 --> 00:14:54,310
+about things like your content
+infrastructure, right? And a key part of
+
+886
+00:14:54,310 --> 00:14:54,320
+infrastructure, right? And a key part of
+ 
+
+887
+00:14:54,320 --> 00:14:55,670
+infrastructure, right? And a key part of
+that as an example is being like lead
+
+888
+00:14:55,670 --> 00:14:55,680
+that as an example is being like lead
+ 
+
+889
+00:14:55,680 --> 00:14:57,310
+that as an example is being like lead
+magnets. When I think about all my
+
+890
+00:14:57,310 --> 00:14:57,320
+magnets. When I think about all my
+ 
+
+891
+00:14:57,320 --> 00:14:58,630
+magnets. When I think about all my
+content, the number one kind of
+
+892
+00:14:58,630 --> 00:14:58,640
+content, the number one kind of
+ 
+
+893
+00:14:58,640 --> 00:15:00,590
+content, the number one kind of
+principle that's allowing it to blow up,
+
+894
+00:15:00,590 --> 00:15:00,600
+principle that's allowing it to blow up,
+ 
+
+895
+00:15:00,600 --> 00:15:01,990
+principle that's allowing it to blow up,
+right? That's allowed me to build my own
+
+896
+00:15:01,990 --> 00:15:02,000
+right? That's allowed me to build my own
+ 
+
+897
+00:15:02,000 --> 00:15:03,590
+right? That's allowed me to build my own
+brand of 3 and 1/2 million people over
+
+898
+00:15:03,590 --> 00:15:03,600
+brand of 3 and 1/2 million people over
+ 
+
+899
+00:15:03,600 --> 00:15:05,829
+brand of 3 and 1/2 million people over
+the last few years is because I'm being
+
+900
+00:15:05,829 --> 00:15:05,839
+the last few years is because I'm being
+ 
+
+901
+00:15:05,839 --> 00:15:08,470
+the last few years is because I'm being
+generous in this content. We find out
+
+902
+00:15:08,470 --> 00:15:08,480
+generous in this content. We find out
+ 
+
+903
+00:15:08,480 --> 00:15:09,630
+generous in this content. We find out
+different systems, we learn different
+
+904
+00:15:09,630 --> 00:15:09,640
+different systems, we learn different
+ 
+
+905
+00:15:09,640 --> 00:15:10,470
+different systems, we learn different
+things internally, and then we're
+
+906
+00:15:10,470 --> 00:15:10,480
+things internally, and then we're
+ 
+
+907
+00:15:10,480 --> 00:15:11,870
+things internally, and then we're
+sharing that [\h__\h] on YouTube, we're
+
+908
+00:15:11,870 --> 00:15:11,880
+sharing that [\h__\h] on YouTube, we're
+ 
+
+909
+00:15:11,880 --> 00:15:13,150
+sharing that [\h__\h] on YouTube, we're
+putting that in a lead magnet, we're
+
+910
+00:15:13,150 --> 00:15:13,160
+putting that in a lead magnet, we're
+ 
+
+911
+00:15:13,160 --> 00:15:14,950
+putting that in a lead magnet, we're
+making a tool for founders. You know,
+
+912
+00:15:14,950 --> 00:15:14,960
+making a tool for founders. You know,
+ 
+
+913
+00:15:14,960 --> 00:15:16,630
+making a tool for founders. You know,
+just this past week as an example, we
+
+914
+00:15:16,630 --> 00:15:16,640
+just this past week as an example, we
+ 
+
+915
+00:15:16,640 --> 00:15:18,030
+just this past week as an example, we
+went and launched a new tool that you
+
+916
+00:15:18,030 --> 00:15:18,040
+went and launched a new tool that you
+ 
+
+917
+00:15:18,040 --> 00:15:20,310
+went and launched a new tool that you
+may have seen called Henzo, right? Henzo
+
+918
+00:15:20,310 --> 00:15:20,320
+may have seen called Henzo, right? Henzo
+ 
+
+919
+00:15:20,320 --> 00:15:21,910
+may have seen called Henzo, right? Henzo
+is the product of how I've been going
+
+920
+00:15:21,910 --> 00:15:21,920
+is the product of how I've been going
+ 
+
+921
+00:15:21,920 --> 00:15:23,430
+is the product of how I've been going
+and creating my authentic LinkedIn
+
+922
+00:15:23,430 --> 00:15:23,440
+and creating my authentic LinkedIn
+ 
+
+923
+00:15:23,440 --> 00:15:25,190
+and creating my authentic LinkedIn
+content the last 12 months helped grow
+
+924
+00:15:25,190 --> 00:15:25,200
+content the last 12 months helped grow
+ 
+
+925
+00:15:25,200 --> 00:15:28,390
+content the last 12 months helped grow
+it to over 900k organic folks and we
+
+926
+00:15:28,390 --> 00:15:28,400
+it to over 900k organic folks and we
+ 
+
+927
+00:15:28,400 --> 00:15:31,110
+it to over 900k organic folks and we
+just put all that into a core tool that
+
+928
+00:15:31,110 --> 00:15:31,120
+just put all that into a core tool that
+ 
+
+929
+00:15:31,120 --> 00:15:33,470
+just put all that into a core tool that
+now founders can go use themselves,
+
+930
+00:15:33,470 --> 00:15:33,480
+now founders can go use themselves,
+ 
+
+931
+00:15:33,480 --> 00:15:35,270
+now founders can go use themselves,
+right? So whether it's tools like Henzo,
+
+932
+00:15:35,270 --> 00:15:35,280
+right? So whether it's tools like Henzo,
+ 
+
+933
+00:15:35,280 --> 00:15:37,070
+right? So whether it's tools like Henzo,
+it's the updates that we make to the
+
+934
+00:15:37,070 --> 00:15:37,080
+it's the updates that we make to the
+ 
+
+935
+00:15:37,080 --> 00:15:38,910
+it's the updates that we make to the
+curriculum, it's the investments we make
+
+936
+00:15:38,910 --> 00:15:38,920
+curriculum, it's the investments we make
+ 
+
+937
+00:15:38,920 --> 00:15:40,470
+curriculum, it's the investments we make
+in the community, it's new team members
+
+938
+00:15:40,470 --> 00:15:40,480
+in the community, it's new team members
+ 
+
+939
+00:15:40,480 --> 00:15:41,750
+in the community, it's new team members
+we bring on board, like it's all in the
+
+940
+00:15:41,750 --> 00:15:41,760
+we bring on board, like it's all in the
+ 
+
+941
+00:15:41,760 --> 00:15:42,990
+we bring on board, like it's all in the
+name of trying to be as insanely
+
+942
+00:15:42,990 --> 00:15:43,000
+name of trying to be as insanely
+ 
+
+943
+00:15:43,000 --> 00:15:44,670
+name of trying to be as insanely
+generous as possible. And it's a
+
+944
+00:15:44,670 --> 00:15:44,680
+generous as possible. And it's a
+ 
+
+945
+00:15:44,680 --> 00:15:46,350
+generous as possible. And it's a
+continual practice, right? Of how we
+
+946
+00:15:46,350 --> 00:15:46,360
+continual practice, right? Of how we
+ 
+
+947
+00:15:46,360 --> 00:15:47,790
+continual practice, right? Of how we
+can, you know, what new curriculum do we
+
+948
+00:15:47,790 --> 00:15:47,800
+can, you know, what new curriculum do we
+ 
+
+949
+00:15:47,800 --> 00:15:49,870
+can, you know, what new curriculum do we
+need to add? What new systems do we need
+
+950
+00:15:49,870 --> 00:15:49,880
+need to add? What new systems do we need
+ 
+
+951
+00:15:49,880 --> 00:15:52,110
+need to add? What new systems do we need
+to get founders? We're launching a new
+
+952
+00:15:52,110 --> 00:15:52,120
+to get founders? We're launching a new
+ 
+
+953
+00:15:52,120 --> 00:15:54,750
+to get founders? We're launching a new
+software inside of Founders Velocity
+
+954
+00:15:54,750 --> 00:15:54,760
+software inside of Founders Velocity
+ 
+
+955
+00:15:54,760 --> 00:15:57,750
+software inside of Founders Velocity
+soon called Founder Clip, which, you
+
+956
+00:15:57,750 --> 00:15:57,760
+soon called Founder Clip, which, you
+ 
+
+957
+00:15:57,760 --> 00:15:59,270
+soon called Founder Clip, which, you
+know, is also going to be kind of like
+
+958
+00:15:59,270 --> 00:15:59,280
+know, is also going to be kind of like
+ 
+
+959
+00:15:59,280 --> 00:16:01,630
+know, is also going to be kind of like
+taking things to the next level in terms
+
+960
+00:16:01,630 --> 00:16:01,640
+taking things to the next level in terms
+ 
+
+961
+00:16:01,640 --> 00:16:03,230
+taking things to the next level in terms
+of like different skills and such to
+
+962
+00:16:03,230 --> 00:16:03,240
+of like different skills and such to
+ 
+
+963
+00:16:03,240 --> 00:16:05,150
+of like different skills and such to
+help you guys deploy these systems
+
+964
+00:16:05,150 --> 00:16:05,160
+help you guys deploy these systems
+ 
+
+965
+00:16:05,160 --> 00:16:06,510
+help you guys deploy these systems
+faster. So
+
+966
+00:16:06,510 --> 00:16:06,520
+faster. So
+ 
+
+967
+00:16:06,520 --> 00:16:07,990
+faster. So
+these are just some principles that I
+
+968
+00:16:07,990 --> 00:16:08,000
+these are just some principles that I
+ 
+
+969
+00:16:08,000 --> 00:16:10,070
+these are just some principles that I
+think are important to live by as a
+
+970
+00:16:10,070 --> 00:16:10,080
+think are important to live by as a
+ 
+
+971
+00:16:10,080 --> 00:16:13,510
+think are important to live by as a
+community that I see separate kind of
+
+972
+00:16:13,510 --> 00:16:13,520
+community that I see separate kind of
+ 
+
+973
+00:16:13,520 --> 00:16:14,950
+community that I see separate kind of
+the real ones in the founders that are
+
+974
+00:16:14,950 --> 00:16:14,960
+the real ones in the founders that are
+ 
+
+975
+00:16:14,960 --> 00:16:16,470
+the real ones in the founders that are
+super successful and build amazing
+
+976
+00:16:16,470 --> 00:16:16,480
+super successful and build amazing
+ 
+
+977
+00:16:16,480 --> 00:16:17,990
+super successful and build amazing
+businesses and lives versus the ones
+
+978
+00:16:17,990 --> 00:16:18,000
+businesses and lives versus the ones
+ 
+
+979
+00:16:18,000 --> 00:16:20,150
+businesses and lives versus the ones
+that, you know, don't embody these and
+
+980
+00:16:20,150 --> 00:16:20,160
+that, you know, don't embody these and
+ 
+
+981
+00:16:20,160 --> 00:16:22,190
+that, you know, don't embody these and
+find themselves spinning their tires or
+
+982
+00:16:22,190 --> 00:16:22,200
+find themselves spinning their tires or
+ 
+
+983
+00:16:22,200 --> 00:16:23,750
+find themselves spinning their tires or
+wishing someone would just save them or
+
+984
+00:16:23,750 --> 00:16:23,760
+wishing someone would just save them or
+ 
+
+985
+00:16:23,760 --> 00:16:25,470
+wishing someone would just save them or
+looking to be rescued and I think are
+
+986
+00:16:25,470 --> 00:16:25,480
+looking to be rescued and I think are
+ 
+
+987
+00:16:25,480 --> 00:16:26,990
+looking to be rescued and I think are
+important as you're like scaling up your
+
+988
+00:16:26,990 --> 00:16:27,000
+important as you're like scaling up your
+ 
+
+989
+00:16:27,000 --> 00:16:28,829
+important as you're like scaling up your
+guys' businesses. So leave it there.
+
+990
+00:16:28,829 --> 00:16:28,839
+guys' businesses. So leave it there.
+ 
+
+991
+00:16:28,839 --> 00:16:30,030
+guys' businesses. So leave it there.
+This is all kind of in the name of like
+
+992
+00:16:30,030 --> 00:16:30,040
+This is all kind of in the name of like
+ 
+
+993
+00:16:30,040 --> 00:16:31,750
+This is all kind of in the name of like
+architecting freedom and embodying this
+
+994
+00:16:31,750 --> 00:16:31,760
+architecting freedom and embodying this
+ 
+
+995
+00:16:31,760 --> 00:16:34,110
+architecting freedom and embodying this
+kind of architect identity as well where
+
+996
+00:16:34,110 --> 00:16:34,120
+kind of architect identity as well where
+ 
+
+997
+00:16:34,120 --> 00:16:36,350
+kind of architect identity as well where
+we're building lives that are
+
+998
+00:16:36,350 --> 00:16:36,360
+we're building lives that are
+ 
+
+999
+00:16:36,360 --> 00:16:38,430
+we're building lives that are
+intentional and businesses that help
+
+1000
+00:16:38,430 --> 00:16:38,440
+intentional and businesses that help
+ 
+
+1001
+00:16:38,440 --> 00:16:40,270
+intentional and businesses that help
+serve us versus running businesses that
+
+1002
+00:16:40,270 --> 00:16:40,280
+serve us versus running businesses that
+ 
+
+1003
+00:16:40,280 --> 00:16:43,560
+serve us versus running businesses that
+just run us into the ground.
+

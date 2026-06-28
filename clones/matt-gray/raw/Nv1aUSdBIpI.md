@@ -1,0 +1,132 @@
+2|I have created a hundred YouTube videos and grown my channel to over 172,000 subscribers. It's taken a ton of work in thousands of iterations. In this video, I'm going to break down the four
+12|systems, the story system, value system, production system, and conversion system to go and blow up my channel and show you the actual tools, the team, the
+23|systems that made this all possible. Let's get into it. What I'm going to show you is what I've learned along this journey going from level one beginner all the way through to level 25. So here
+33|on the left you can see where we started. This is me interviewing my good friend Steve Gatenna, the founder and CEO of pray.com. You know I was just making these videos in the backyard of
+43|my place in Porto Escandido, Mexico. It was just me, a decent microphone and just started recording some podcasts with friends. I had really no idea what I was doing. But fast forward to today,
+53|after putting all these reps in, this is where we are now. You know, this video, how to work less and earn more. It's close to 600,000 views. We've really dialed in the artistry around our
+64|videos, the packaging, the titles, the thumbnails, and what I want to show you are some of the core things that I've learned all along this journey, putting in thousands of reps, learning 10,000
+76|plus little variables that all stack up to create amazing YouTube videos. Let's get into the story system. Number one, you got your hook, right, which is the
+87|first 30 seconds of the video. Two, you got your middle section where you're building the value. And then third, the payoff, right? The end part of the video that people are sticking around for and
+97|staying retained. Your hook consists of things like a pattern interrupt, stopping people in their tracks in the first 5 seconds, going and giving people a plan and a promise for why they should
+107|watch the video, and then a little bit of proof as to why they should listen to you. When it comes to a perfect hook, there's a lot of different formulas here, but here's a couple to inspire you. You know, if you thought and then
+118|saying something like a common assumption, what if I told you insert some pattern interrupt? Formula two here is here's exactly how I and then getting vulnerable into a result you've achieved
+128|that's desirable to your audience in a certain time frame using this unique system. Lastly, we got the one thing nobody tells you about insert topic that
+138|changes everything. These are just a few to kind of get your brain juices going. One thing you can also do is just go and study other successful YouTube videos that you've enjoyed and just go and look at their first 20 seconds. What did they
+149|say that hooked you? And then what would that look like in your video content? On the building stage, you want to start stacking the value. You know, my goal is to create videos so valuable that people
+159|go below them and go, I cannot believe this is free. That's the goal with every video we do. And we also give away a free system with every video as well. We're weaving the story around, you
+169|know, five or seven pieces of value, let's say. We're teaching these things, getting into the what, the how, and the specifics as to what you need to do. trying to always go deeper with no
+179|fluff, no BS, getting into the actual systems I use to scale my businesses. And then at the end, we typically will have around two CTAs in a video. One that will drive people to Founder OS if
+189|they're interested in working with me, my team, and getting more mentorship. Or we go and drive people to a course CTA that we have, giving away a free system or deck that people would find useful so
+200|they can go and implement the given video system in their business. today when it comes to the value system. Okay, this is really why people are going to keep coming back to you, right? Because they see it as a good use of their time
+211|to watch your videos cuz they get something out of it. Number one is you want to teach, you want to also make an effort to show the real things, whether that's mirro boards, decks, show your
+221|team or show your process, right? Actually show people. Don't just tell them. And then give. Focus on insane generosity. Every video I create, I'm always challenging myself to give as
+232|much as humanly possible to you, the viewer. So, on the teaching side, that could be things like frameworks, step by steps, actionable tactics. You know, I go and give away, you know, my deep work system. I give away uh the different
+243|tools that I use to really lock in. These are just some examples that, you know, if someone's able to go watch a 12minute video and get that much value, they're likely to keep coming back. On
+253|the show side, I love to give live demos. There's many videos that I've gone and actually gone and shown people like the 36 systems that I use to run companies like Founder OS and Herb just
+263|really pushing the envelope with trying to go and open source the internal systems that we use at Founder OS so that you can go and implement them for yourself. And then it's really about
+273|giving things away. We have core lead magnets inside of each video that when people go and enter their name, their email, their phone number, they can go get the systems that I go over in each
+284|video. This is a strategy that we love so that we can go and connect with our audience in a deeper way inside of my newsletter where I share one free system every single week to help you go and
+294|scale your business. So the production system, this is where we have a few stages that you need to be aware of. So pre-production are things like your scripting, your ideation. You need to make sure that right there you get that
+305|right. How do you come up with your ideas? It comes from all over the place, but I want to distill this into a few core things you can go and implement on your channel today. First thing is I see
+315|a lot of founders and they're making content that isn't built for conversion. And I think that's a mistake because as you hope to go and build not just a personal brand, but a personal media
+326|company, it's important that your content actually has the ability not just to reach an amazingly broad audience, but also to convert a core audience to your product or your service. One of the best ways I've seen
+337|to do this is to go and create a survey that you can go and send to your dream customers, the people that have actually purchased your thing and ask them questions like, "What is your biggest
+347|challenge?" You know, "What is your biggest goal this year? What is currently keeping you up at night? And if you could wave a magic wand, what problem would you want me to solve?" The answers to those questions go and give
+359|you a lot of context around your dream customers core desires, their wants, their pain points, obstacles, challenges, and you can download the CSV file, upload that to ChatGpt, and then
+371|get ChatGBT to come up with a ranked list from 1 to 100 of the best content ideas that would appeal to your audience. Now, let's talk about a couple tools that you may find useful. If you're looking to go and find amazing
+383|hooks in titles and packaging for your YouTube concepts, Creator Hooks is one great tool to check out. Inside of this, you'll see something called a hook score that'll go score the best concepts and
+393|then you can use the AI within the tool to go and come up with formulas for your titles and then adapt them to your niche. Another great tool that I use pretty religiously is called
+404|oneof10.com. inside of this tool, you know, you can go and search any given subject. So, let's just say I was searching systems. I can go and find a bunch of different systems related
+415|videos. But what I typically will do is then go to the filters here and I will go and say I want to go and look at people like videos that are 4x plus outliers. I want views of say over
+427|250,000 um and a video duration of say above say 6 minutes and then I'll look at the top
+438|outlier say from the last 3 months and so here I can see you know how to build systems to actually achieve your goals. This is a 6.5x outlier. So what that means is that this video performed 6x
+450|better than the average video on this guy's channel, right? So it's just going to show me the top videos from given channels around that subject. So what
+461|I'll typically do then is like say I like this concept. I can go and save it to both my ideas, which is kind of like my titles folder, as well as my thumbnails folder. And then you got these awesome bookmarks you can go and
+472|have. So here you can see inside of my thumbnails, I've just got a ton of ideas all gone and saved here. So I'm never running out of ideas around what I want
+482|to create. They're all right there. And I I can also go and sort these by the amount of views. So, if I'm looking to build a video that has a massive total addressable market and blow up on
+492|YouTube, I can go and look at my outlier research, my thumbnail folders, my idea folder, and go and use these folders to come up with banger titles and thumbs
+502|for my channel. When I talk to different YouTube experts, it's always that pre-production stage that if you're not growing at this, you know, rate you really wanted to be growing at, that's where you need to focus more of your
+512|energy because a lot of people skip over the idea. And truthfully, it's the idea, title, and thumbnail that are where all the magic exists. When I first started on YouTube, I was scripting all my
+523|content. Okay? I would focus on making 12 minute, 30 secondond videos around 2500 words long. I put that into a Google doc, oftentimes run that Google doc through a tool called Hemingway,
+534|which would give my script a readability score. Now, the goal there was to get the readability score between a grade five and grade eight readability, meaning that it was easy to understand
+544|for anyone across YouTube. I didn't want to use a bunch of jargon or weird terminology because I want regular people to be able to understand what I'm talking about. From there, we now move
+555|forward with the scripting. You know, I'm typically going creating in Google Docs, but I also am leveraging Claude for that. So, inside of Claude, I've gone and uploaded over a million words of everything I've created. It's got
+566|300,000 words of my book transcript. It's got all my course systems, transcripts of my top YouTube videos, my top X content, LinkedIn content, everything. You can see though that I've
+577|also not just uploaded a massive amount to the Claude database here, right? But in addition to that, we also have a very detailed scripting prompt that we use
+588|inside of Claude. You need to make sure that you're giving it as much details as possible. This specific prompt is around nine pages long, getting into everything from the core avatar we're looking to
+599|target to the goals of the video to the retention we're going for and to the core criteria that I want every single video to have. I can go and put in any given video I'm looking to create like
+610|how to sell without being salesy as an example. Let's say that was a video I wanted to create. Claude is going to go and help me create a concept and a
+620|script off that using all of the material that I've ever created around this specific subject. You know, again, if you're looking to leverage Claude properly, I would encourage you to go
+630|and take a lot of pride in the project knowledge you create within Claude and also make sure that your prompt is as detailed as possible. So, here you can see, you know, Claude's using everything
+640|I've put in the project knowledge here, you know, doing the research, doing the heavy lifting here. Lord knows I can't remember those 1.2 million words all in my head. So I'm really just using Claude
+651|to be this researcher. You know, on big teams that I've seen out there, whether it's Hermosis or Diary of a CEO, you know, often times these teams are robust, like 20, 25 people. Candidly,
+661|I'm not looking to build a team that big. And so being able to leverage AI as my researcher is a major hack. And so here you can see it's able to use all the research and words that I've put
+671|into and bubble them up so we can deliver it to you with an insane amount of value here on YouTube. That's just a quick taste of how we use Claude production. You know, the key hack here
+681|is to make your production as simple as possible. You know, I highly recommend that if you're in one location, you set up a studio you're proud of, you know, with your camera, your lighting, and ideally, you just need to push one or
+691|two buttons to record and get going, thereby reducing the cognitive load to record and making the process as simple and easy as possible. And so, when it
+701|comes then to thinking about the B-roll, you want to make sure that you've got a concept laid out and that you likely have all of the B-roll mapped out as to what you need to get to make the video
+711|concept as rich as possible. Here you can see, as an example, our B-roll folder. We've got B-roll for hiking, me playing paddle, journaling, baby photos of me, you know, some of these even
+721|being slightly embarrassing. The key thing I want you to understand is that it's important to be meticulously organized as you're building your video or studios department in your company. You don't want you or your team spending
+732|tons of time trying to navigate where the hell is that file? Where's B-roll for this? You are a mess and wasting your time if that's the case. On the post-production side, this is where it's all about having the right editor,
+743|content manager that you can hand things off to. Here's the deal. Working with editors can be tricky. You're working with people that are a lot different than you often times as the creator, right? They've got their craft, you've got yours. And so, let me give you a
+754|behind-the-scenes look as to what frame looks like on our side. So, here you can see in this video all of these comments that we've gone and left all across the
+764|different time codes. It's myself and Diego leaving comments for our video editor memo. So, it's super easy then for the editor to see that piece of feedback and then adjust it at that
+774|exact part. This just shows you the level of rigor and detail that goes into creating the art that we push out to you on YouTube. Now, let me show you the behind the scenes of some of the tools we use and what we actually do on the
+785|strategy side to make this all happen because there is some serious sauce here. And honestly, I've never shown this before on Figma, which is really a collaborative design software that we use. You can see all the research that
+796|goes into a given concept before we even create it. We're using that outlier research from oneof10.com, the titles, the thumbnails to then go and inform the kind of text that we have inside of a
+806|thumbnail, the title that we're going to create, which then informs the first 30 seconds of the video because we want to make sure the hook of the video fulfills the promise of the title in the thumbnail. So from there, the legend
+818|Diego goes and comes up with oftentimes like 30, 40 titles for one video and then ranks them from best to worst. We're looking often times, as an example with the Steve Jobs video that we
+829|created just a month ago, you know, all the different angles that we could take. We want to make sure that we're appealing to the kind of founders that are doing say 100K plus per month while also appealing to a broad audience on
+840|YouTube to increase both viewership and conversion from the video. And so here you can see our top three picks were titles like everything Steve Jobs can teach you about business, how to sell
+850|anything to anyone, Steve Jobs secret, which actually that specific title idea came from one of our most open newsletters. So we're also using other
+860|data we find across other platforms and pulling that into our YouTube research. Now from there you can see our top three winners ranked. And so these are the titles we will go through until we think
+871|that video has a fighting chance of being a one of 10. So from there we go and we come up with all of our thumbnail concepts. Here you can see we've come up with seven unique concepts and then
+882|where you see this firecracker emoji that means the one that we're actually going to go with. So we pick of the seven we pick three. Now for each of these different concepts we come up with
+892|multiple variations. As I had said, we know we're going to go live with this one, which compares Steve Jobs in 1955, 2006, and then 2025, what would be his advice. We have this other one we went
+903|with, which is just Steve, you know, the iMac. And then we have, you know, this one with me in it. So, we're just trying some unique concepts. They're all very different because we want to go and test
+914|in the AB testing area of YouTube, you know, which of these concepts is going to catch the most fire. Now, from there, it's now time to go and actually publish the video. So, you're putting that in YouTube Studio, you're uploading it, and
+926|now you're actually going and releasing it. Well, we're not done there, okay? And this is something that took me over a year and a half to learn. There's a whole game being played when the video is actually published because often
+937|times, as best as we try to pick a good thumbnail or title, we often times have no idea what we're doing. And that's okay. Because of the AB testing that you can do inside of YouTube, you can kind of play this game where you're trying a
+949|few thumbnails, picking a winner, trying some variations of that, picking a winner, playing this game of gradually getting a video that may start at an 8 out of 10 and moving it up to a 1 out of 10. And yes, that's actually possible.
+960|right here in our Slack. You can see in our thumbnail forge channel, Diego is running a bunch of different titles and thumbnails, and we are trying our best to get this Steve Jobs video, which
+970|starts at a 10 of 10, gradually moves to a 9 of 10. We then cycle some titles because we have all these titles as backups. We keep on then testing
+980|different thumbnail v variations. We then finally find a winner, thumbnail number two. From there, we start cycling on to our next title because it's still not catching fire. And we land on the
+992|title, what Steve Jobs can teach you about business that Harvard can't. All of a sudden, magic starts to happen. Things start to take fire. Finally. So, here we go. This video then moves to a 6
+1003|out of 10, moving up and up and up until it hits a one of 10. This is the magic of the pre-production process. We've already got 20 titles lined up and we
+1014|are ready to test. We've got over 18 different thumbnail formats ready to go. And we are ready to iterate. And it's because of this pre-production and the preparation we put in that we're
+1025|actually even able to achieve these results in the post-production process. That combined with a great system and an unbelievable team make this kind of iteration possible. You can go and nail
+1036|all your packaging, but the truth is if you don't have a great product, you're probably not going to go and build a breakout brand on YouTube. And so on the conversion side, number one, you're
+1046|going to engage people, right? Create videos that people actually want to watch. If they don't watch it, you're never going to convert them. Second then is building trust, giving value, going over the top with being insanely generous. And then third is you convert
+1057|people. You convert people right with strategic CTAs. Generally, at the 1 minute mark, we'll prompt people to go and subscribe to my channel. At around 4 minutes and 20 seconds, we then go and
+1067|drop a free resource that people can go download via the link in the description. And by the way, if you want this whole YouTube deck and all of the steps that I would take if I was just
+1077|starting my channel, well, you can go and get that deck via the link in the description. At the 12minute mark, we'll generally go and have the main offer, which can be a reminder around that CTA, or just subtly reminding people that
+1087|they can join Founder OS if they want to work with me directly, my team, and join a community of high growth founders focused on building their founder brand. We then input the actual CTA links
+1098|inside of the description below the video. Inside of my descriptions, you can see that I always have one link that leads to apply to Founder OS and another link that goes and gives you my
+1109|newsletter and then oftentimes a third link that allows people to go and download the lead magnet from the video. This is how I've done things. It's helped me grow my newsletter to over
+1119|242,000 subscribers. Hasn't happened overnight. It's been the culmination of at this point, you know, 70 plus lead magnets that me and my team have, you know, built in, you know, hundreds of
+1129|hours. But, you know, this is the kind of generosity we want to have on this channel. And, you know, we want you to have the systems so you can succeed. So, lead magnets will look like this, right? We typically put them in Google Docs or
+1140|Google Slide deck so it's easy for you to go and copy them, um, share them with your team in Slack and implement them in your company. just try to get into as much detail as possible and then give you this system that you can go and take
+1150|home and use with your team. So, when it comes to my value ladder, okay, we're basically going from free YouTube content, newsletter signup, giving people an entry offer if they want to
+1160|work with me, then you can go and drop a high ticket program if you're interested in that. That's generally just the simple kind of seamless approach that we go from audience through to our community. The truth is I can't do this
+1171|alone. uh you know my success on YouTube um is really our success as a team because I've had amazing people alongside me all along this journey that
+1181|have made this all possible. Now Diego is the head of video here at Founder Rice. He is what we'd call a jack of all trades. Diego can edit, he can shoot,
+1192|he'll string out videos for other editors, he'll come up with the packaging and the thumbnails for videos. That's not even doing it all justice. That's probably just 10% of what Diego does. So the key thing here is, you
+1202|know, you don't need to have a massive team on YouTube, but you do need to put thought into putting the right team together. You know, one Diego equals
+1212|five B players, right? So having the right people in the right seats. Now, John is an animator. We've gone and created a whole motion graphics guidelines that we have both in Google
+1223|Drive as well as in Behance. So that when we're going and onboarding new video editors, we can make sure that there's a similar and consistent motion graphics style pack for every single
+1234|video that we put out. We have legendary video editors like my boy Memo. Now Memo is responsible for videos like this one over here around Steve Jobs. He's not just any video editor. He's someone
+1245|that's willing to kind of go the distance, take an original concept and footage he gets and give it a whole new life. Now, lastly, we got Nick, the chief distribution officer here at
+1256|Founder OS. So, this is one of the most important roles. Other companies would call it a social media manager. And Nick's in charge of making sure that all of our content goes at the right time with the right titles, the right
+1266|captions, the right call to actions in the descriptions of all of our YouTube content to make sure that we're driving the max amount of attention on YouTube and driving those people that are
+1276|relevant to Founder OS. I think this is one of the most important roles in the whole business, right? Because you can go and create amazing content, but if it's not distributed correctly, it's all
+1286|for nothing. And so you want someone that's equally part, you know, with amazing attention to detail, but also constantly looking at the data and
+1296|leveraging the data to then make sure that, you know, titles and descriptions and the way that we distribute things are highly intelligent. He's also in charge of running our entire content waterfall system at Found. Making sure
+1307|that each YouTube video is cut into upwards of 12 to 15 other pieces of content to make sure that we're getting the maximum amount of leverage from the
+1318|time, the energy, and the investment that we put into each YouTube video. The game of being a founder brand is one part founder, one part creator. And while it's fun as hell, you also got to
+1329|be aware of that the number one reason why people stop is burnout. And because founders burn out and creators often burn out, you almost double your chances of burnout when you're building a
+1339|founder brand. And so it's important that with every single decision you make, you're also thinking about the longevity of things, the people, the systems, and the focus on actually managing your energy is imperative. All
+1351|along the way, you know, my culmination of using all of these tactics has brought me an insane amount of results over the years. And this is just my performance. No guarantees here, right?
+1361|But the reality is it's helped me drive over 172,000 YouTube subs, 200,000 plus newsletter signups. Um, and from my time and investment on the money side into
+1372|YouTube, we've gotten over a 700% ROI. your next moves if you're looking to go deeper on YouTube. Number one, go and download the YouTube content GPS via the
+1382|link in the description. Go and check out my newsletter if you're looking for more free systems from me. And lastly, be sure to apply to Founder OS if you want help from me, my team, and are looking to join an amazing community of
+1392|people that are all going and growing on YouTube and using it to build movements, to build their community, and grow their businesses. Thanks so much for watching and let's continue to win

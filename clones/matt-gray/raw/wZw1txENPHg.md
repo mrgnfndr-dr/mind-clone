@@ -1,0 +1,3 @@
+2|what you want is not what you want and that's why it's so damn hard every result has a cause to figure out what you actually want you need to look at the cause not the result everyone wants more money a better job a bigger house
+13|results are always desirable but if you only desire the result you'll never do what it takes or you'll sacrifice things that truly matter to you in order to achieve that result the key is to find
+23|the cause that you desire where the work itself is Meaningful if you desire the cause then you're running downhill toward the result because you don't only want to reach the Finish Line you want to take every step required to get there

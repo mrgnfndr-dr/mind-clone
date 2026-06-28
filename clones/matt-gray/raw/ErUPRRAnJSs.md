@@ -1,0 +1,6 @@
+1|Seven books that will completely change the way you think about money. The Almanac of Naval Ravocon teaches you how to build wealth through leverage as well as media instead of just trading your time for money. Die with Zero by Bill Perkins. This really flips the script on
+11|what it means to be wealthy. Going and maximizing your experiences versus just focusing on your bank account. Predictable Revenue by Aaron Ross. This book taught me that real freedom comes from sales systems that allow you to
+22|have consistent inflows of leads and the right team structure in place so you're not constantly getting involved. It's The Millionaire Fast Lane by MJ DeMarco. This book really taught me that peace of mind is what you're really after, not
+32|just being rich. The Psychology of Money by Morgan Hel explores how mindset and patience matter way more than math. The Outsiders by William Thorndikeke. This book really highlights eight unconventional CEOs and how they became
+44|master capital allocators. It helped me start thinking myself more like an investor than an entrepreneur. The 4-Hour Work Week by Tim Ferrris. This book really taught me about lifestyle design. Not just trying to make money to
+55|be rich, but being able to go and live a life of total freedom.

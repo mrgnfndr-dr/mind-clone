@@ -1,0 +1,31 @@
+{
+  "name": "Jon Loomer",
+  "slug": "jon-loomer",
+  "chat_language": "ru",
+  "name_variants": ["Jon Loomer", "Jon Loomer Digital", "@JonLoomer", "jonloomer.com"],
+  "domain": "Meta / Facebook advertising — strategy, targeting, creative, measurement, optimization; advanced advertiser community (Power Hitters Club)",
+  "source_policy": {
+    "channel": "YouTube @JonLoomer (videos + shorts)",
+    "date_floor": "2024-06-01",
+    "excluded": ["TikTok", "Instagram", "anything before 2024-06-01"],
+    "shorts_included": true
+  },
+  "coverage_gaps": [
+    "72 caption-less YouTube Shorts (~60-80s talking-head clips) NOT harvested — YouTube generated no auto-captions and user opted to skip whisper ASR. Topics largely echo captioned content. List in runs/ if needed.",
+    "Power Hitters Club (paid membership/webinars), Building Blocks and other paid courses — gated, not harvested.",
+    "jonloomer.com blog (large primary text corpus since 2011) and Social Media Examiner articles — NOT harvested (scope limited to YouTube per request).",
+    "No traditional published book exists (only gated ebooks like '12 Tips' / 'The Experiment').",
+    "Captions are YouTube auto-generated (faithful but not word-perfect; deeplinks verify the exact minute).",
+    "Platform-feature claims are time-bound — most EPs carry as_of 2024-2026; Meta ads mechanics change fast.",
+    "Guest interviews: only Jon's own positions were extracted, not the guests'."
+  ],
+  "build": {
+    "built": "2026-06-28",
+    "sources_harvested": 458,
+    "sources_discovered": 530,
+    "ep_count": 1520,
+    "groups": 10,
+    "vectors": 57,
+    "faithfulness": "6/6 match, 0 contradiction (indicative smoke test)"
+  }
+}

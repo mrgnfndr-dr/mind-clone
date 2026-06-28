@@ -1,0 +1,1668 @@
+1
+00:00:00,000 --> 00:00:04,000
+in this video I'm going to show you how
+
+2
+00:00:01,000 --> 00:00:05,000
+to convert any content that's audio in a
+
+3
+00:00:04,000 --> 00:00:08,000
+video or just audio in and of itself
+
+4
+00:00:07,000 --> 00:00:11,000
+into any
+
+5
+00:00:22,000 --> 00:00:26,000
+language hey there if we haven't met yet
+
+6
+00:00:25,000 --> 00:00:29,000
+I'm Neil Smith your social media guide
+
+7
+00:00:27,000 --> 00:00:31,000
+and I am so excited to show you this new
+
+8
+00:00:30,000 --> 00:00:34,000
+software platform 11 Labs now it's not
+
+9
+00:00:32,000 --> 00:00:36,000
+that new but it's been progressing a lot
+
+10
+00:00:34,000 --> 00:00:38,000
+and become more and more popular and one
+
+11
+00:00:35,000 --> 00:00:39,000
+of the things people are seeing and
+
+12
+00:00:36,000 --> 00:00:40,000
+they're hearing is I'm seeing these
+
+13
+00:00:38,000 --> 00:00:42,000
+videos of somebody speaking a different
+
+14
+00:00:41,000 --> 00:00:45,000
+language but it looks and sounds like
+
+15
+00:00:42,000 --> 00:00:46,000
+they're saying it but I know they don't
+
+16
+00:00:44,000 --> 00:00:48,000
+speak that language and it's using this
+
+17
+00:00:46,000 --> 00:00:50,000
+kind of technology and 11 Labs has been
+
+18
+00:00:49,000 --> 00:00:53,000
+on the Forefront of this audio
+
+19
+00:00:51,000 --> 00:00:55,000
+translation technology now it can do a
+
+20
+00:00:53,000 --> 00:00:57,000
+lot of other things other than translate
+
+21
+00:00:54,000 --> 00:00:58,000
+but I think the most most popular use is
+
+22
+00:00:57,000 --> 00:01:01,000
+being able to take your podcast or being
+
+23
+00:00:58,000 --> 00:01:02,000
+able to take your YouTube video
+
+24
+00:01:00,000 --> 00:01:04,000
+and just instantly plug it into this
+
+25
+00:01:02,000 --> 00:01:06,000
+platform and then let it output uh the
+
+26
+00:01:04,000 --> 00:01:08,000
+content in the different languages for
+
+27
+00:01:06,000 --> 00:01:10,000
+you this is mindblowing uh and so I
+
+28
+00:01:09,000 --> 00:01:13,000
+can't wait to show to you so let's first
+
+29
+00:01:11,000 --> 00:01:15,000
+start by jumping onto their website all
+
+30
+00:01:13,000 --> 00:01:17,000
+right so here we are on the 11 Labs home
+
+31
+00:01:16,000 --> 00:01:20,000
+page and I just want to walk through
+
+32
+00:01:17,000 --> 00:01:21,000
+kind of how they communicate who they
+
+33
+00:01:19,000 --> 00:01:23,000
+are and what they do so 11 laps uh
+
+34
+00:01:21,000 --> 00:01:25,000
+basically creates the most realistic
+
+35
+00:01:24,000 --> 00:01:28,000
+speech with our AI audio platform
+
+36
+00:01:27,000 --> 00:01:31,000
+pioneering research and text to speech
+
+37
+00:01:29,000 --> 00:01:33,000
+AI voice generator and more and so it's
+
+38
+00:01:32,000 --> 00:01:36,000
+an audio platform uh that's using AI uh
+
+39
+00:01:35,000 --> 00:01:39,000
+and and one of the things this actually
+
+40
+00:01:36,000 --> 00:01:40,000
+does is a lot of people are UNC putting
+
+41
+00:01:38,000 --> 00:01:42,000
+their face camera or even their voice uh
+
+42
+00:01:40,000 --> 00:01:44,000
+but you can literally even type anything
+
+43
+00:01:43,000 --> 00:01:47,000
+and it will then generate it in a voice
+
+44
+00:01:44,000 --> 00:01:48,000
+and I think we've heard and seen videos
+
+45
+00:01:47,000 --> 00:01:51,000
+that sound very robotic but this
+
+46
+00:01:49,000 --> 00:01:53,000
+technology is progressing quickly and so
+
+47
+00:01:50,000 --> 00:01:54,000
+it's not all super robotic it's actually
+
+48
+00:01:53,000 --> 00:01:57,000
+uh can be very realistic and then they
+
+49
+00:01:55,000 --> 00:01:59,000
+get down here and you can actually see
+
+50
+00:01:57,000 --> 00:02:01,000
+how this works they let you just test
+
+51
+00:01:59,000 --> 00:02:03,000
+the platform form uh right here and
+
+52
+00:02:01,000 --> 00:02:05,000
+these are kind of the core functions of
+
+53
+00:02:03,000 --> 00:02:07,000
+their software so the first is text to
+
+54
+00:02:04,000 --> 00:02:08,000
+speech so I could say it type
+
+55
+00:02:13,000 --> 00:02:17,000
+anything and now I can just push play
+
+56
+00:02:16,000 --> 00:02:20,000
+and I can actually choose any of these
+
+57
+00:02:17,000 --> 00:02:21,000
+people so let's have Bill say
+
+58
+00:02:21,000 --> 00:02:25,000
+it create a test audio segment for me so
+
+59
+00:02:24,000 --> 00:02:28,000
+there's Bill saying this or I could
+
+60
+00:02:26,000 --> 00:02:30,000
+choose Charlotte uh saying whatever I
+
+61
+00:02:28,000 --> 00:02:32,000
+wanted her to say create a test audio
+
+62
+00:02:31,000 --> 00:02:35,000
+segment for me okay so that's text of
+
+63
+00:02:32,000 --> 00:02:36,000
+speech so I could literally type
+
+64
+00:02:34,000 --> 00:02:38,000
+anything and one of the things that
+
+65
+00:02:35,000 --> 00:02:39,000
+people can use to create this you can
+
+66
+00:02:36,000 --> 00:02:40,000
+actually build a whole podcast on this
+
+67
+00:02:38,000 --> 00:02:42,000
+where you could have chat GPT write a
+
+68
+00:02:40,000 --> 00:02:44,000
+script for you and then have one of
+
+69
+00:02:42,000 --> 00:02:46,000
+their AI voices uh speak it for you now
+
+70
+00:02:45,000 --> 00:02:49,000
+I can go speech to speech as well so let
+
+71
+00:02:48,000 --> 00:02:52,000
+me try starting a how this
+
+72
+00:02:51,000 --> 00:02:55,000
+works we test uh did you hear that I
+
+73
+00:02:54,000 --> 00:02:58,000
+think someone is following us this is a
+
+74
+00:02:56,000 --> 00:03:00,000
+test by the way
+
+75
+00:03:02,000 --> 00:03:06,000
+okay false alarm it was just a
+
+76
+00:03:05,000 --> 00:03:09,000
+squirrel so now we could have Alice bill
+
+77
+00:03:08,000 --> 00:03:12,000
+or George because let's go with
+
+78
+00:03:13,000 --> 00:03:17,000
+George let's give him a minute to
+
+79
+00:03:24,000 --> 00:03:28,000
+[Music]
+
+80
+00:03:26,000 --> 00:03:30,000
+process we test uh did you hear that I
+
+81
+00:03:29,000 --> 00:03:33,000
+think so someone is following us this is
+
+82
+00:03:31,000 --> 00:03:35,000
+a test by the
+
+83
+00:03:36,000 --> 00:03:40,000
+way okay false alarm it was just a
+
+84
+00:03:39,000 --> 00:03:43,000
+squirrel okay so it is using the what I
+
+85
+00:03:42,000 --> 00:03:46,000
+spoke and then Auto translating it or
+
+86
+00:03:45,000 --> 00:03:49,000
+Auto not translating it but Auto uh
+
+87
+00:03:48,000 --> 00:03:52,000
+converting it to somebody else's voice
+
+88
+00:03:50,000 --> 00:03:54,000
+and so it doesn't sound like me but it's
+
+89
+00:03:52,000 --> 00:03:56,000
+using my inflections uh that that I'm
+
+90
+00:03:54,000 --> 00:03:58,000
+using and translating it let me have
+
+91
+00:03:56,000 --> 00:04:00,000
+Alice speak it uh in her voice the same
+
+92
+00:04:01,000 --> 00:04:05,000
+thing that I said and so it is
+
+93
+00:04:02,000 --> 00:04:06,000
+converting my voice to her voice
+
+94
+00:04:05,000 --> 00:04:09,000
+communicating the same thing in this
+
+95
+00:04:06,000 --> 00:04:10,000
+audio
+
+96
+00:04:10,000 --> 00:04:14,000
+segment well test uh did you hear that I
+
+97
+00:04:13,000 --> 00:04:17,000
+think someone is following us this is a
+
+98
+00:04:15,000 --> 00:04:19,000
+test by the
+
+99
+00:04:19,000 --> 00:04:23,000
+way okay false alarm it was just a squir
+
+100
+00:04:23,000 --> 00:04:27,000
+and so as you hear that it doesn't sound
+
+101
+00:04:25,000 --> 00:04:29,000
+very robotic does it uh but that is an
+
+102
+00:04:27,000 --> 00:04:31,000
+AI generated voice uh so impressive so
+
+103
+00:04:30,000 --> 00:04:34,000
+text to speech speech to speech not
+
+104
+00:04:32,000 --> 00:04:36,000
+dubbing uh this is where I believe most
+
+105
+00:04:35,000 --> 00:04:39,000
+people are using it uh what I am most
+
+106
+00:04:38,000 --> 00:04:42,000
+excited about so uh here's a sample of a
+
+107
+00:04:41,000 --> 00:04:45,000
+podcast I'm going to just hit play and
+
+108
+00:04:42,000 --> 00:04:46,000
+you can hear him communicating in both
+
+109
+00:04:45,000 --> 00:04:49,000
+English uh and then in I believe that's
+
+110
+00:04:48,000 --> 00:04:52,000
+Italian I've interviewed some of the
+
+111
+00:04:50,000 --> 00:04:54,000
+best seers in the world and I'm
+
+112
+00:04:51,000 --> 00:04:55,000
+fascinated by leadership b or
+
+113
+00:05:00,000 --> 00:05:04,000
+style today okay so just like that it
+
+114
+00:05:02,000 --> 00:05:06,000
+was able to just switch between uh
+
+115
+00:05:04,000 --> 00:05:08,000
+English and uh it I'm going to say
+
+116
+00:05:07,000 --> 00:05:11,000
+Italian uh I apologize if I'm looking
+
+117
+00:05:10,000 --> 00:05:14,000
+and seeing the flag wrong but it is yeah
+
+118
+00:05:13,000 --> 00:05:17,000
+so that is how it just dubs uh that your
+
+119
+00:05:16,000 --> 00:05:20,000
+voice and it actually have multiple
+
+120
+00:05:17,000 --> 00:05:21,000
+voices but it sounds just like the
+
+121
+00:05:20,000 --> 00:05:24,000
+person that was speaking but then in
+
+122
+00:05:22,000 --> 00:05:26,000
+their voice in their tone in their
+
+123
+00:05:24,000 --> 00:05:28,000
+inflection it's being translated and
+
+124
+00:05:26,000 --> 00:05:30,000
+even when you watch that video it looks
+
+125
+00:05:28,000 --> 00:05:32,000
+like he's speaking that language so it
+
+126
+00:05:30,000 --> 00:05:34,000
+aligns it so well uh it's pretty
+
+127
+00:05:32,000 --> 00:05:36,000
+incredible now this is a cool feature
+
+128
+00:05:34,000 --> 00:05:38,000
+this text to special effects and so I'm
+
+129
+00:05:38,000 --> 00:05:42,000
+going to ask it to um it a
+
+130
+00:05:44,000 --> 00:05:48,000
+um paper
+
+131
+00:05:47,000 --> 00:05:51,000
+clip falling off a desk
+
+132
+00:05:51,000 --> 00:05:55,000
+onto a tile
+
+133
+00:05:54,000 --> 00:05:58,000
+floor so let's see what it generates
+
+134
+00:05:56,000 --> 00:06:00,000
+here for us so you can literally create
+
+135
+00:05:59,000 --> 00:06:03,000
+create any sound effect that you wanted
+
+136
+00:06:01,000 --> 00:06:05,000
+to create and it will then generate
+
+137
+00:06:03,000 --> 00:06:07,000
+those sound effects for
+
+138
+00:06:10,000 --> 00:06:14,000
+you okay let's check out the sound
+
+139
+00:06:13,000 --> 00:06:17,000
+effects generation number
+
+140
+00:06:15,000 --> 00:06:19,000
+one let's do that again number
+
+141
+00:06:21,000 --> 00:06:25,000
+two okay just a little quiet drop
+
+142
+00:06:26,000 --> 00:06:30,000
+there okay that sounded like a few
+
+143
+00:06:28,000 --> 00:06:32,000
+paperclips falling
+
+144
+00:06:30,000 --> 00:06:34,000
+there you go and I would go with number
+
+145
+00:06:32,000 --> 00:06:36,000
+four but it would give you actually
+
+146
+00:06:33,000 --> 00:06:37,000
+options of which you know as you had
+
+147
+00:06:35,000 --> 00:06:39,000
+that that sound effect in mind which
+
+148
+00:06:37,000 --> 00:06:41,000
+which one did you have that sounding
+
+149
+00:06:39,000 --> 00:06:43,000
+like uh but it can actually generate any
+
+150
+00:06:41,000 --> 00:06:45,000
+kind of sound effect that you come up
+
+151
+00:06:43,000 --> 00:06:47,000
+with uh and then this is voice cloning
+
+152
+00:06:45,000 --> 00:06:49,000
+and so let's let's take a look at a few
+
+153
+00:06:47,000 --> 00:06:51,000
+of these different uh voice
+
+154
+00:06:52,000 --> 00:06:56,000
+clones all right so get this I'm at this
+
+155
+00:06:55,000 --> 00:06:59,000
+new Cafe downtown trying to act all
+
+156
+00:06:57,000 --> 00:07:01,000
+sophisticated with an espresso all right
+
+157
+00:06:59,000 --> 00:07:03,000
+so get this I'm at this new Cafe
+
+158
+00:07:01,000 --> 00:07:05,000
+downtown trying to act all sophisticated
+
+159
+00:07:03,000 --> 00:07:07,000
+with an espresso you know and I'm
+
+160
+00:07:06,000 --> 00:07:10,000
+sitting there scrolling through my
+
+161
+00:07:08,000 --> 00:07:12,000
+phone Sherlock Holmes's quick eye took
+
+162
+00:07:11,000 --> 00:07:15,000
+in my occupation and he shook his head
+
+163
+00:07:13,000 --> 00:07:17,000
+with a Sherlock Holmes's quick eye took
+
+164
+00:07:15,000 --> 00:07:19,000
+in my occupation and he shook his head
+
+165
+00:07:18,000 --> 00:07:22,000
+with a SM so what this is doing is it's
+
+166
+00:07:20,000 --> 00:07:24,000
+essentially taking and learning
+
+167
+00:07:21,000 --> 00:07:25,000
+somebody's voice and then being able to
+
+168
+00:07:24,000 --> 00:07:28,000
+convert that into uh you know where you
+
+169
+00:07:27,000 --> 00:07:31,000
+could just text to speech uh in in
+
+170
+00:07:29,000 --> 00:07:33,000
+anything else that you wanted to say
+
+171
+00:07:31,000 --> 00:07:35,000
+once it learns your voice and has that
+
+172
+00:07:33,000 --> 00:07:37,000
+cloned file available so yeah so those
+
+173
+00:07:36,000 --> 00:07:40,000
+are kind of the core features of the app
+
+174
+00:07:38,000 --> 00:07:42,000
+and how they work and then uh you you
+
+175
+00:07:40,000 --> 00:07:44,000
+can see some of their other messaging of
+
+176
+00:07:42,000 --> 00:07:46,000
+voice voices fit for all of your ideas
+
+177
+00:07:45,000 --> 00:07:49,000
+uh and you can essentially create your
+
+178
+00:07:46,000 --> 00:07:50,000
+cloned voice to then use uh for anything
+
+179
+00:07:50,000 --> 00:07:54,000
+making any content universally accept
+
+180
+00:07:52,000 --> 00:07:56,000
+accept accessible uh not not acceptable
+
+181
+00:07:56,000 --> 00:08:00,000
+uh but accessible uh and this is a just
+
+182
+00:07:58,000 --> 00:08:02,000
+one of the most powerful things about AI
+
+183
+00:08:00,000 --> 00:08:04,000
+is that we can now take our message and
+
+184
+00:08:03,000 --> 00:08:07,000
+globally allow anybody anywhere to to
+
+185
+00:08:06,000 --> 00:08:10,000
+watch it and this is thing Mr Beast uh
+
+186
+00:08:08,000 --> 00:08:12,000
+has has been well known for is
+
+187
+00:08:10,000 --> 00:08:14,000
+translating and using voice actors in
+
+188
+00:08:13,000 --> 00:08:17,000
+his case his content uh into multiple
+
+189
+00:08:16,000 --> 00:08:20,000
+languages and then getting lots of
+
+190
+00:08:18,000 --> 00:08:22,000
+Engagement Beyond uh the us through uh
+
+191
+00:08:21,000 --> 00:08:25,000
+that that translation and so this is I
+
+192
+00:08:24,000 --> 00:08:28,000
+believe doing this even more effectively
+
+193
+00:08:26,000 --> 00:08:30,000
+because I think when people can actually
+
+194
+00:08:27,000 --> 00:08:31,000
+hear uh the person speaking and their
+
+195
+00:08:29,000 --> 00:08:33,000
+inflection and their voice it will be a
+
+196
+00:08:31,000 --> 00:08:35,000
+much more natural experience rather than
+
+197
+00:08:34,000 --> 00:08:38,000
+uh voice actors you know uh you know
+
+198
+00:08:36,000 --> 00:08:40,000
+speaking on behalf and or translating
+
+199
+00:08:39,000 --> 00:08:43,000
+the content and then complete voice AI
+
+200
+00:08:42,000 --> 00:08:46,000
+tool set so you have so many different
+
+201
+00:08:44,000 --> 00:08:48,000
+uh functions uh there and then this is
+
+202
+00:08:47,000 --> 00:08:51,000
+one of the things I really like about 11
+
+203
+00:08:48,000 --> 00:08:52,000
+Labs is you can tell and they're
+
+204
+00:08:50,000 --> 00:08:54,000
+communicating this on their homepage
+
+205
+00:08:52,000 --> 00:08:56,000
+that safety is important to to them uh
+
+206
+00:08:55,000 --> 00:08:59,000
+and and I think one of the dangers of AI
+
+207
+00:08:58,000 --> 00:09:02,000
+is that uh people will be able to
+
+208
+00:09:00,000 --> 00:09:04,000
+essentially rip off our voices and make
+
+209
+00:09:03,000 --> 00:09:07,000
+things sound like us when it wasn't
+
+210
+00:09:05,000 --> 00:09:09,000
+actually us saying them and so they they
+
+211
+00:09:08,000 --> 00:09:12,000
+have built into their platform safety
+
+212
+00:09:10,000 --> 00:09:14,000
+features and they are prioritizing this
+
+213
+00:09:12,000 --> 00:09:16,000
+in their development and uh I I am
+
+214
+00:09:15,000 --> 00:09:19,000
+grateful to see this uh because I do
+
+215
+00:09:17,000 --> 00:09:21,000
+think this is an important uh aspect of
+
+216
+00:09:20,000 --> 00:09:24,000
+AI development and then they they share
+
+217
+00:09:22,000 --> 00:09:26,000
+some case studies here so let's jump
+
+218
+00:09:24,000 --> 00:09:28,000
+into uh the platform itself and the
+
+219
+00:09:27,000 --> 00:09:31,000
+software uh and what I want to
+
+220
+00:09:30,000 --> 00:09:34,000
+uh and when you first get here it goes
+
+221
+00:09:32,000 --> 00:09:36,000
+right to the text to speech or speech to
+
+222
+00:09:34,000 --> 00:09:38,000
+speech uh that you want to create uh and
+
+223
+00:09:36,000 --> 00:09:40,000
+then you go here to the right hand uh
+
+224
+00:09:38,000 --> 00:09:42,000
+side and you can see the different
+
+225
+00:09:40,000 --> 00:09:44,000
+options of what do you want to create
+
+226
+00:09:42,000 --> 00:09:46,000
+voices sound effects uh Speech uh or
+
+227
+00:09:45,000 --> 00:09:49,000
+getting in here to workflows uh and
+
+228
+00:09:47,000 --> 00:09:51,000
+dubbing studio is the main feature that
+
+229
+00:09:50,000 --> 00:09:54,000
+I I wanted to highlight I do want to
+
+230
+00:09:51,000 --> 00:09:55,000
+also just highlight this other Tool uh
+
+231
+00:09:53,000 --> 00:09:57,000
+real quickly voice isolator um and just
+
+232
+00:09:57,000 --> 00:10:01,000
+a cool cool thing where you can upload
+
+233
+00:09:59,000 --> 00:10:03,000
+any of your files that you create if you
+
+234
+00:10:01,000 --> 00:10:05,000
+recorded a podcast so this isn't about
+
+235
+00:10:03,000 --> 00:10:07,000
+translation but it just cleans up uh the
+
+236
+00:10:05,000 --> 00:10:09,000
+audio for you uh with eliminating
+
+237
+00:10:08,000 --> 00:10:12,000
+background noise and I just did some
+
+238
+00:10:10,000 --> 00:10:14,000
+testing of this previously and it just
+
+239
+00:10:12,000 --> 00:10:16,000
+it did an incredible job and so there's
+
+240
+00:10:13,000 --> 00:10:17,000
+some you know Dobby has uh of something
+
+241
+00:10:16,000 --> 00:10:20,000
+similar to this and there's some other
+
+242
+00:10:18,000 --> 00:10:22,000
+tools out there but cool to see that
+
+243
+00:10:20,000 --> 00:10:24,000
+they've Incorporated that into their
+
+244
+00:10:22,000 --> 00:10:26,000
+platform uh but let's let's jump into
+
+245
+00:10:24,000 --> 00:10:28,000
+the dubbing studio and so this is where
+
+246
+00:10:26,000 --> 00:10:30,000
+you can translate social media content
+
+247
+00:10:29,000 --> 00:10:33,000
+YouTube videos marketing assets
+
+248
+00:10:32,000 --> 00:10:36,000
+educational videos uh whatever content
+
+249
+00:10:34,000 --> 00:10:38,000
+you have you can then uh convert it so
+
+250
+00:10:38,000 --> 00:10:42,000
+I'm going to take uh one of the video
+
+251
+00:10:41,000 --> 00:10:45,000
+that I created um and so I'm going to
+
+252
+00:10:44,000 --> 00:10:48,000
+title this
+
+253
+00:10:45,000 --> 00:10:49,000
+Nils um uh what is it called just put
+
+254
+00:10:48,000 --> 00:10:52,000
+called Mr Beast video translated and so
+
+255
+00:10:53,000 --> 00:10:57,000
+I did a video recently where I uh and
+
+256
+00:10:56,000 --> 00:11:00,000
+let's translate this to Spanish uh um
+
+257
+00:11:00,000 --> 00:11:04,000
+and I I made a video of Mr Beast um and
+
+258
+00:11:05,000 --> 00:11:09,000
+about his new software platform and so
+
+259
+00:11:08,000 --> 00:11:12,000
+then I can go here and I can literally
+
+260
+00:11:09,000 --> 00:11:13,000
+just upload the file or I can just go to
+
+261
+00:11:11,000 --> 00:11:15,000
+YouTube so I'm going to pull this from
+
+262
+00:11:13,000 --> 00:11:17,000
+YouTube um and it checks that it's
+
+263
+00:11:16,000 --> 00:11:20,000
+creating a dubbing Studio project and
+
+264
+00:11:18,000 --> 00:11:22,000
+add Watermark to reduce character usage
+
+265
+00:11:21,000 --> 00:11:25,000
+by 33% okay while that you can actually
+
+266
+00:11:24,000 --> 00:11:28,000
+uncheck that or you can number of
+
+267
+00:11:27,000 --> 00:11:31,000
+speakers autod detect that uh I'm going
+
+268
+00:11:29,000 --> 00:11:33,000
+to just put what there actually I think
+
+269
+00:11:31,000 --> 00:11:35,000
+there's some clips of Mr Beast on there
+
+270
+00:11:33,000 --> 00:11:37,000
+video resolution highest uh extra time
+
+271
+00:11:36,000 --> 00:11:40,000
+of
+
+272
+00:11:38,000 --> 00:11:42,000
+dubbing uh time range for dubbing we'll
+
+273
+00:11:41,000 --> 00:11:45,000
+just let it be all there and yeah so
+
+274
+00:11:46,000 --> 00:11:50,000
+let's go to create so just like that it
+
+275
+00:11:48,000 --> 00:11:52,000
+took my YouTube video that was in
+
+276
+00:11:50,000 --> 00:11:54,000
+English and now it's creating a Spanish
+
+277
+00:11:54,000 --> 00:11:58,000
+version of that and so uh yeah so that
+
+278
+00:11:57,000 --> 00:12:01,000
+is processing and we'll give that a a
+
+279
+00:11:59,000 --> 00:12:03,000
+minute to process and then we'll come
+
+280
+00:12:01,000 --> 00:12:05,000
+back and show you the out outcome okay
+
+281
+00:12:04,000 --> 00:12:08,000
+so it just finished dubbing the video
+
+282
+00:12:06,000 --> 00:12:10,000
+and you can see here status dubbed and I
+
+283
+00:12:08,000 --> 00:12:12,000
+can just go here to view it uh and so
+
+284
+00:12:10,000 --> 00:12:14,000
+it's going to pull up here but while I
+
+285
+00:12:12,000 --> 00:12:16,000
+do that uh I thought I'd just go ahead
+
+286
+00:12:14,000 --> 00:12:18,000
+and show you the original video so let
+
+287
+00:12:17,000 --> 00:12:21,000
+me share this tab in said so this is the
+
+288
+00:12:19,000 --> 00:12:23,000
+video so watch the first little bit then
+
+289
+00:12:20,000 --> 00:12:24,000
+I'll show you how it
+
+290
+00:12:25,000 --> 00:12:29,000
+translated for a platform called view
+
+291
+00:12:27,000 --> 00:12:31,000
+stats and I subscrib to it you don't
+
+292
+00:12:29,000 --> 00:12:33,000
+have to maybe you want to in this video
+
+293
+00:12:31,000 --> 00:12:35,000
+I'm going to dive into every aspect of
+
+294
+00:12:33,000 --> 00:12:37,000
+the software and whether I think it's a
+
+295
+00:12:35,000 --> 00:12:39,000
+good investment for you you're you so
+
+296
+00:12:38,000 --> 00:12:42,000
+let's go back now and see what the 11
+
+297
+00:12:43,000 --> 00:12:47,000
+Labs translated video looks and sounds
+
+298
+00:12:45,000 --> 00:12:49,000
+like
+
+299
+00:13:05,000 --> 00:13:09,000
+[Applause]
+
+300
+00:13:06,000 --> 00:13:10,000
+software okay so you can see there that
+
+301
+00:13:09,000 --> 00:13:13,000
+it pretty well translated and used my
+
+302
+00:13:12,000 --> 00:13:16,000
+voice uh to translate it just with a
+
+303
+00:13:15,000 --> 00:13:19,000
+YouTube link and that's how easy this is
+
+304
+00:13:18,000 --> 00:13:22,000
+and if you have a podcast or you have
+
+305
+00:13:20,000 --> 00:13:24,000
+YouTube videos that you want translated
+
+306
+00:13:23,000 --> 00:13:27,000
+uh and it's giving you the full video
+
+307
+00:13:26,000 --> 00:13:30,000
+and I can just download it and I'll
+
+308
+00:13:27,000 --> 00:13:31,000
+upload it to YouTube or download it
+
+309
+00:13:29,000 --> 00:13:33,000
+and pull the audio out and upload that
+
+310
+00:13:31,000 --> 00:13:35,000
+to the various podcast platforms and
+
+311
+00:13:35,000 --> 00:13:39,000
+it's done for me and yeah this is really
+
+312
+00:13:38,000 --> 00:13:42,000
+good and and from the the reviews I've
+
+313
+00:13:41,000 --> 00:13:45,000
+gotten from translators that have looked
+
+314
+00:13:43,000 --> 00:13:47,000
+at it is the the stat that I heard now
+
+315
+00:13:46,000 --> 00:13:50,000
+please don't quote me on this uh as as
+
+316
+00:13:48,000 --> 00:13:52,000
+factual but the stat I've heard is that
+
+317
+00:13:50,000 --> 00:13:54,000
+human translators are about 92% accurate
+
+318
+00:13:53,000 --> 00:13:57,000
+and AI translation is about 97% accurate
+
+319
+00:13:57,000 --> 00:14:01,000
+so a lot of people have said how can I
+
+320
+00:13:58,000 --> 00:14:02,000
+trust the translation well the reality
+
+321
+00:14:00,000 --> 00:14:04,000
+is how can you trust a human translator
+
+322
+00:14:02,000 --> 00:14:06,000
+too you know they they're going to make
+
+323
+00:14:04,000 --> 00:14:08,000
+mistakes and what's kind of being being
+
+324
+00:14:06,000 --> 00:14:10,000
+proven out is they generally make more
+
+325
+00:14:08,000 --> 00:14:12,000
+mistakes than an AI translation you know
+
+326
+00:14:11,000 --> 00:14:15,000
+tool does and and so and and from what
+
+327
+00:14:14,000 --> 00:14:18,000
+I've heard from people that watch you
+
+328
+00:14:16,000 --> 00:14:20,000
+know these videos that are translated uh
+
+329
+00:14:18,000 --> 00:14:22,000
+that that they and that understand both
+
+330
+00:14:20,000 --> 00:14:24,000
+languages that they can track it and it
+
+331
+00:14:23,000 --> 00:14:27,000
+just feels uh very natural and the
+
+332
+00:14:26,000 --> 00:14:30,000
+translation uh H has been very accurate
+
+333
+00:14:28,000 --> 00:14:32,000
+for
+
+334
+00:14:29,000 --> 00:14:33,000
+what uh those that are using this kind
+
+335
+00:14:31,000 --> 00:14:35,000
+of software and more specifically 11
+
+336
+00:14:34,000 --> 00:14:38,000
+Labs um the accuracy is really strong
+
+337
+00:14:38,000 --> 00:14:42,000
+and so this is the beginning of this
+
+338
+00:14:40,000 --> 00:14:44,000
+technology I don't know how it gets much
+
+339
+00:14:42,000 --> 00:14:46,000
+better than this it's hard for me to
+
+340
+00:14:43,000 --> 00:14:47,000
+imagine probably faster uh but but man
+
+341
+00:14:47,000 --> 00:14:51,000
+this is really good um and one of things
+
+342
+00:14:49,000 --> 00:14:53,000
+I'm even curious about is if you could
+
+343
+00:14:51,000 --> 00:14:55,000
+see even the graphics that have overlays
+
+344
+00:14:52,000 --> 00:14:56,000
+of could you get that translated within
+
+345
+00:14:54,000 --> 00:14:58,000
+the video too where it will just
+
+346
+00:14:56,000 --> 00:15:00,000
+autodetect where there's going to be you
+
+347
+00:14:58,000 --> 00:15:02,000
+know text overlays and then Auto uh that
+
+348
+00:15:01,000 --> 00:15:05,000
+those text overlays and things like that
+
+349
+00:15:03,000 --> 00:15:07,000
+into uh the the you know different
+
+350
+00:15:05,000 --> 00:15:09,000
+language we'll see uh where this goes
+
+351
+00:15:09,000 --> 00:15:13,000
+but this as where the product is today
+
+352
+00:15:12,000 --> 00:15:16,000
+and how it can be used incredible so if
+
+353
+00:15:14,000 --> 00:15:18,000
+you know you're a church and you want to
+
+354
+00:15:16,000 --> 00:15:20,000
+translate your sermons to other
+
+355
+00:15:17,000 --> 00:15:21,000
+languages if you're an educator and you
+
+356
+00:15:19,000 --> 00:15:23,000
+want to translate your education content
+
+357
+00:15:21,000 --> 00:15:25,000
+if you're a podcaster and you want to
+
+358
+00:15:22,000 --> 00:15:26,000
+translate that content what a great Tool
+
+359
+00:15:25,000 --> 00:15:29,000
+uh to do this and it's you know there's
+
+360
+00:15:27,000 --> 00:15:31,000
+a free uh trial uh that will only I
+
+361
+00:15:30,000 --> 00:15:34,000
+think you know translate about two or
+
+362
+00:15:31,000 --> 00:15:35,000
+three minutes within the free trial of
+
+363
+00:15:33,000 --> 00:15:37,000
+content um and so I you know my plan I
+
+364
+00:15:36,000 --> 00:15:40,000
+pay $11 a month for uh and it gives me
+
+365
+00:15:40,000 --> 00:15:44,000
+you know more than I need at this point
+
+366
+00:15:43,000 --> 00:15:47,000
+uh and then they have prices that go up
+
+367
+00:15:44,000 --> 00:15:48,000
+if you're translating you know hundreds
+
+368
+00:15:46,000 --> 00:15:50,000
+of hours of content every month and
+
+369
+00:15:47,000 --> 00:15:51,000
+that's what you want translated you have
+
+370
+00:15:49,000 --> 00:15:53,000
+a huge Library you want translated you
+
+371
+00:15:51,000 --> 00:15:55,000
+know you can pay more uh but the cost
+
+372
+00:15:53,000 --> 00:15:57,000
+Effectiveness as compared to a voice
+
+373
+00:15:55,000 --> 00:15:59,000
+actor and all of that you know
+
+374
+00:15:58,000 --> 00:16:02,000
+historically you know I've worked with
+
+375
+00:15:59,000 --> 00:16:03,000
+voice actors in the past it's about 20
+
+376
+00:16:01,000 --> 00:16:05,000
+to $30 a minute of for translated
+
+377
+00:16:05,000 --> 00:16:09,000
+content from a voice actor and so yeah
+
+378
+00:16:08,000 --> 00:16:12,000
+this is way more cost effective that and
+
+379
+00:16:11,000 --> 00:16:15,000
+I would challenge that this is way
+
+380
+00:16:13,000 --> 00:16:17,000
+better than that too uh so not only is
+
+381
+00:16:15,000 --> 00:16:19,000
+it more costeffective uh and and more
+
+382
+00:16:18,000 --> 00:16:22,000
+efficient uh it's also more effective uh
+
+383
+00:16:21,000 --> 00:16:25,000
+in the output that people are going to
+
+384
+00:16:23,000 --> 00:16:27,000
+consume and the experience they're going
+
+385
+00:16:24,000 --> 00:16:28,000
+to have with your video content so I'm a
+
+386
+00:16:27,000 --> 00:16:31,000
+big fan of this technology I'm going to
+
+387
+00:16:29,000 --> 00:16:33,000
+be using it uh for clients uh here in
+
+388
+00:16:32,000 --> 00:16:36,000
+the very near future I'm going be using
+
+389
+00:16:33,000 --> 00:16:37,000
+it uh for my own content uh in the near
+
+390
+00:16:37,000 --> 00:16:41,000
+future and I'd encourage you to test it
+
+391
+00:16:38,000 --> 00:16:42,000
+out I have I do have an affiliate link
+
+392
+00:16:40,000 --> 00:16:44,000
+for this product so some products that I
+
+393
+00:16:42,000 --> 00:16:46,000
+talk about I don't some I do um 11 Labs
+
+394
+00:16:45,000 --> 00:16:49,000
+was generous enough to share an
+
+395
+00:16:47,000 --> 00:16:51,000
+affiliate uh offer with me uh to share
+
+396
+00:16:50,000 --> 00:16:54,000
+with you and so you can uh use that link
+
+397
+00:16:52,000 --> 00:16:56,000
+below and go check out 11 Labs do the
+
+398
+00:16:54,000 --> 00:16:58,000
+free trial test out kind of the features
+
+399
+00:16:56,000 --> 00:17:00,000
+there on the homepage and see if this is
+
+400
+00:16:59,000 --> 00:17:03,000
+a tool uh that that you can begin to
+
+401
+00:17:02,000 --> 00:17:06,000
+integrate into your workflows now so if
+
+402
+00:17:04,000 --> 00:17:08,000
+you want to get your content into other
+
+403
+00:17:06,000 --> 00:17:10,000
+languages uh I've found this to be the
+
+404
+00:17:09,000 --> 00:17:13,000
+best tool uh so far to get this done so
+
+405
+00:17:12,000 --> 00:17:16,000
+go give it a try let me know what you
+
+406
+00:17:14,000 --> 00:17:18,000
+think uh if you have other options out
+
+407
+00:17:16,000 --> 00:17:20,000
+there things you've tried or
+
+408
+00:17:18,000 --> 00:17:22,000
+experimented with or that you use 11
+
+409
+00:17:20,000 --> 00:17:24,000
+labs for I'd love to know drop that in
+
+410
+00:17:22,000 --> 00:17:26,000
+the comments I'll be engaged there and
+
+411
+00:17:24,000 --> 00:17:28,000
+look forward to following uh along in
+
+412
+00:17:26,000 --> 00:17:30,000
+the conversation and following this
+
+413
+00:17:28,000 --> 00:17:32,000
+technology Innovation and to see where
+
+414
+00:17:30,000 --> 00:17:34,000
+it goes thanks so much for watching
+
+415
+00:17:32,000 --> 00:17:36,000
+we'll talk to you again on the next
+
+416
+00:17:33,000 --> 00:17:37,000
+[Music]
+
+417
+00:17:50,000 --> 00:17:54,000
+video 2
+

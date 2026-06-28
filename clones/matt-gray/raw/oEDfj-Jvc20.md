@@ -1,0 +1,5 @@
+2|A personal brand is the highest ROI asset you can build. And this is why. A personal brand is not just about aesthetics, okay? It is about getting your message out there to the world at scale. When you go and you're in a sales
+12|conversation, it's just you and the client. When you're going and building your personal brand, you may put a real out on Instagram or you may put a long form YouTube out and you know, minimum you're probably getting around a,000
+23|views there. Now, imagine that in person, right? Imagine at the snap of your finger being able to go and have a room of a thousand people around you that are all listening to your core message, your point of view, and how you
+34|might be able to help them. Now, think about that multiplied over 100 videos and 100,000 people. You're now filling up stadiums. And the key thing here is
+44|that this is helping you build massive leverage. And so what you want to be thinking about instead of going from one to one with the message, how could I go one to

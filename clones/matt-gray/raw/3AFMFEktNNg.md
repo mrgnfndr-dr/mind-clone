@@ -1,0 +1,3 @@
+1|your best friends might not be good for you you've probably heard that you are the average of The Five People You spend the most time with but have you actually documented your friendships and improve the quality of the people you hang out with grab a pen and paper write down the
+11|Five People You spend the most time with every week then ask yourself if those are people that you'd like to emulate if not decrease how much time you spend with them next write down five people you already know who you would like to
+22|emulate then resolve to be more intentional with those relationships you'll be shocked at how quickly you grow when you spend more time with people who actually inspire you

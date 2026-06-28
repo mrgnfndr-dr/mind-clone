@@ -1,0 +1,4 @@
+1|There's this Warren Buffett quote where he says, "The difference between successful people and really successful people is that really successful people say no to almost everything. I used to have so many things going on in my life,
+11|so many distractions that I hardly had any ability to actually do the main thing that matters." What I've learned is that, you know, time is your most valuable resource. And oftentimes it's
+22|just saying no to 97% of things that come across your desk. And if I wanted to be successful and really happy, you know, I had to say no to this to say yes to something else. Helping founders,
+33|building content, being creative, working with an awesome team. These are the things I love to do. You need to not be afraid to say no. So, what are you going to go and say no to

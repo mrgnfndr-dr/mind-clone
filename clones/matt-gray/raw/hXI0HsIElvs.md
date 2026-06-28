@@ -1,0 +1,5 @@
+1|Daniel Kenan wrote these words in the best-selling book Thinking Fast and Slow optimistic individuals play a disproportionate role in shaping Our Lives the people who have the greatest influence on the lives of others are likely to be optimistic and
+12|overconfident so how do you cultivate more optimism in your mindset here are five easy ways be grateful you have a lot of things to be grateful for but those things become common place and we forget about them every morning and
+22|evening grab a piece of paper and write down three things you're grateful for take the long-term view today's challenges are less of a big deal if you think in decades instead of months or even years you have plenty of time to
+33|succeed smile you don't need a reason or an excuse just smile more research shows people who smile more feel happier stay curious don't ask why me ask why did that happen instead of punishing
+44|yourself get curious look for Solutions and problem solve train your mind you don't have to keep thinking the way you're currently thinking using these tools is a skill practice thinking positively and you'll get better at it

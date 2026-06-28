@@ -1,0 +1,138 @@
+1|Today we're talking about creating content, the single most powerful growth tool for growing your business today. But here's the problem. Most people are doing it all wrong. They're posting randomly, chasing trends, and hoping
+12|something sticks. The truth, most people are making it way harder than it needs to be. But when you really understand content, you realize it's actually super simple. I'm going to show you the three exact stages I use to create all of my
+23|content, from collecting ideas to turning them into posts that build my brand and drive real revenue. By the end, you'll never look at content the same way again. Let's dive in. Step one,
+33|base ideation. This is where we're going to go and use references as well as my own channel to come up with some banger YouTube title ideas. Step two, the pillar. This is your big idea. We're
+44|about to go and leverage the content waterfall system, but the most important part of that whole system is your pillar piece of content. Step three, the content waterfall. This is one of the
+54|most powerful systems I've ever created, allowing you to go and turn one pillar piece of content into 20 other pieces of content. All of the resources that I'm about to go and share in this video,
+64|including the exact board, as well as all the prompts, are shared in a resource via the link in the description. I'm going to be showing you this entire system using Poppy AI. It's going to make all of this so much easier
+75|because not only can we add references, but we can actually go and hook those up into AI chats. This video is sponsored by Poppy. I've been using them for the last year. I love them and I show founders all the time that are looking
+85|to go and multiply their effort way faster how to go and use this. And so if you're interested in going and getting this board and being able to leverage it the way I'm showing you in this video, check out Poppy AI. Trust me, you won't
+95|regret it. First off here, we're going to go and build the base. Here we go. Starting fresh. Along the left side here, you can see a lot of cool functionality that I'm going to show you. One of the biggest differentiators
+106|of this tool is that it actually has an AI chat that you can pull into the board. Thereby, as you're pulling in different inspo across YouTube, Instagram, X, LinkedIn, it's going to be
+118|able to go and transcribe that content automatically and then use it so that you can prompt Poppy and it's going to pull in the content, you know, inside of those platforms. What we're going to do
+129|here is start going and fetching some inspiring content. So, I'm going to go to folks like, you know, Callaway here, who I've been loving. Uh, Caleb Rston, who was actually at the last founder
+139|retreat that we ran inside of Austin. I'm going to go and take over this outlier that I saw the other day, how to go and create a dumb content strategy that makes millions and another video
+151|from Callaway as inspiration. Now, what I then do is go and create a group, which allows me to pull in all of these different content inspirations and be
+161|able to then prompt them all in one go. So, I pull them all into this content inspiration group. And then what we're then going to do is go and wire up the
+171|content inspiration group and plug it in to the AI chat over here. And so what this allows us to start doing is then be able to pull in that content, use it
+183|with the AI chat to then start flushing out things like script ideas, outlines, titles, packaging, all that good stuff. So now I'm going to go over to my YouTube and I'm going to go and take
+194|some recent videos that I put out and I'm going to start pulling those into a group that I've titled here my recent YouTube videos. Okay? And so again, the cool thing here is that I can go and
+204|copy and paste each one of these videos into that group. And now when I go and work inside of the AI chat box here, I
+216|can go and ask it to, you know, use the content inspiration that I found as well as to go and look at my recent YouTube videos and be able to leverage this to
+226|create amazing outlines and really to be able to use this tool to be like a YouTube strategist. I have a YouTube strategist on my team, Diego. I know a lot of you guys, you don't have a budget
+236|yet for a YouTube strategist. And so what this can allow you to do is get a ton of the benefit that you'd get from a much larger team by just leveraging a smart tool like Poppy AI. When you're
+247|using AI, there are two variables that you need to control. The first variable is your prompt, and then the second aspect is the knowledge base that you
+258|give the AI. Most people screw both of these aspects up. They have prompts that are far too short and they have a product knowledge that's way too skinny. We need to make that thing fat. And the
+269|good news is is that I've given you all of the prompts inside of this video in the link in the description. We're going to go and ask the AI chat here, what do you see in the knowledge base? Okay. And so what this allows us to do is just
+281|make sure that the Poppy AI brain is full and has all of the context, right? So, it's pulling in all of my content, all of the references, and the knowledge
+291|base to make sure that it's ready to start coming up with ideas and getting the things done that we're about to go and use it for. Now, what we're going to do is then go and give it a specific
+301|prompt, keyword specific. The prompt that we're going to go and give it is using the videos I've given inside of the group content inspiration and then following my brand and my style based on
+312|the group my recent YouTube videos and also following the ultimate YouTube title writing framework inside the group YouTube frameworks. Let's come up with 10 solid and banger YouTube video ideas
+323|for my YouTube channel based off of the inspirations and on point to my brand. So, we're being super specific and we've given it an insane amount of context here. This is what it looks like to go
+334|and 10x your channel and bring real strategy to it. We're going to go and copy and paste that into the text field here. Here we can see it's coming up with some video ideas. I spent $400K
+344|testing these the $47 million content strategy that 99% of creators ignore. You know, copy my $20 million content system. I'm giving it away for free. The content mistake that's costing you
+354|millions. Fix this today. I really like that one. It's got high stakes. It's got urgency. It's got the immediate action. I analyzed 10,000 viral videos. Here's what actually works. The highest
+364|leverage spot that you can go and focus on when you're looking to go and scale your YouTube channel is on the ideation phase. And this is where too many people breeze over. And so what we're seeing
+374|here is that it's pumping out a lot of highquality ideas. Now, I'm not just going to go and make all of these, right? The cool thing is is that I can go and take the best one or two ideas, then go and workshop that with my team,
+385|see if we can make them even better than what we're being prompted here, and then bring those over to production. But what I wanted to now do is come up with some better ideas here, right? And so I'm
+397|going to say come up with a few different ideas around the content waterfall because I really want to highlight that in my next video. It's now coming up with some content
+408|waterfall specific ideas. How I turned one YouTube video into 36 pieces of content content waterfall system. The content waterfall mistake that's killing your reach. I lost $50,000 learning this
+418|sort of mid. Uh but we'll keep searching here, right? The depth is needed and you still got to be using your intuition. And don't be afraid to like prompt something like four or five times,
+428|right? Go deep. Don't be afraid to arm wrestle with AI. You know, truthfully, it doesn't care, right? So, keep pushing it, right? until you get what you need. The idea that I liked the most that I
+439|saw was the 7minute content system that built my $10 million per year empire. Okay, we're just going to use that as an example here. Okay, and so what we're going to do is flush this out just kind of showing that the content waterfall
+449|system has been a key aspect of me scaling my own personal brand. Okay, and so what I've gone and kind of put in here now is another group. I created an
+459|hourong video on how to build a profitable personal brand. I filmed that all throughout Lafeton, Norway, hiking three different mountains. And inside of that, I also gave an insane resource,
+469|which is like a personal brand workbook, all for free. And so, I'm going to use those as the references for this video because I made over an hour of content there. So, surely this could help me go
+480|and flush out a 12 minute and 30 second video around my content system. We're going to hook up the references as well as the video idea framework. Um, and all
+490|of the different YouTube video intro and script writing frameworks that I gave away in my previous video around making killer YouTube videos. And we're going to hook up the YouTube frameworks into
+500|the chat as well. What we're now doing is being able to go and create the script for this title. Typically, what I do because I'm writing all the time is I'm actually writing my own stuff. But
+511|when I'm working with founders inside of Founder OS, often times founders feel overwhelmed. They're spinning the plates of audience growth, content creation, community building, all while trying to actually make money to their offer. And
+521|so often times when you're just starting, tools like Poppy can be super effective to help you go and be able to create scripts much faster. And then what I like to do is I just riff off of
+532|these general outlines. People really want to connect with you, the human behind it, your authentic voice. And truthfully, AI can't replicate that. So, I'm not reading off a teleprompter. I'm
+542|just using these things as outlines. And then I'm just layering in my own personality, my own stories, my own way of doing things, right? So, what we want to do here too, right, is that we're going to go over to the recent YouTube
+552|videos that I made and we're also going to hook that up to this AI chat as well because we want to make sure that the script that it makes really sounds like my voice. I'm now going to go and prompt
+562|it. And I've given you all of these prompts again via the link in the description. You know, I need your help putting together a script for the video titled The Sevenminute Content System That Built My $10 Million Per Empire.
+573|This video idea is based on my previous video, which I did, which is inside the group references titled How to Build a Profitable Personal Brand. Now, this new video's angle is focused on a 7-minute
+583|quick video emphasizing speed, efficiency, rather than being detailed and system focused. What I need you to do is take those references and then using the YouTube frameworks on writing
+593|a banger intro and a banger script, put together a script for this new YouTube video idea to actually just create an outline for me. Because again, we're not going top to bottom through a script.
+604|We're typically just going to go and reference little parts of it to make sure that a video flows. I add all of that prompt into Poppy and it's flushing it out. It's giving me a hook in the
+615|first 30 seconds, adding credibility, giving people an initial question to kind of get them sucked into the video. The question is, what if I told you that the entire content system that built my
+626|empire can be broken down in just 7 minutes of daily work? I would edit that for sure, but it's a good start. Okay. Now, it's going to again get into credibility. It's going to go over the
+636|promise and plan that people can expect in the next 10 minutes of the video. It's going to raise the stakes, right, which is going to help increase the retention of the video. We're always aiming for a 70% one minute retention.
+649|And then it's going to go and get into the value ladder of the video, which means that typically a video on YouTube will have like seven core steps or five core stages. And inside of this video
+660|script, you can see it's following that general approach. This is the kind of stuff that you typically go and have to pay maybe a script writer $1,500 for, pay a YouTube strategist 10,000 bucks to
+670|do this kind of stuff for you. And for many of you, right, that's just not in the budget yet. And so using a tool like Poppyai allows you to get a lot of the magic from those more expensive hires
+680|and be able to do it in a way that's much more efficient and accessible so you can get, you know, that highowered strategy that you see on the biggest channels and be able to get it for your channel when you're just getting going.
+691|What I now want to do is go and also add that script, okay, which I've copied and pasted into another text box here. I'm going to label that my video script
+703|draft. Okay, and now what we can do is be able to go and reference that draft. Okay, so the key thing here, right, is that this basically just is all being
+715|hooked up based on groups, references, and different frameworks that are all plugged into the different AI chats. And so I'm going to go and title step one
+725|here um the base, okay, which is really like the ideation phase. We're going to call this step two the pillar, okay, which is your big idea. When we're
+735|thinking about building a content waterfall, it really starts with the pillar piece of content. The reason why we want to use something like a YouTube video as the pillar is because it's
+745|long- form content that we can then use and distribute into things like LinkedIn posts, different Instagram carousels, Instagram reels, YouTube shorts, Tik Tok videos. I can use it as a subject matter
+756|for a newsletter in two weeks. I can use it for things like my ex post. And so this is how I'm able to go and turn one long form idea into over 20 strategic pieces of content here. You know, I've
+767|gone and given you an image of exactly what my content waterfall looks like. Okay? And what I'm going to help you now do is go and actually go and tool this
+777|up for things like your X content, LinkedIn, and Instagram. What we're going to have here is our pillar content and put that into the first group here. you know, my most recent video, we're
+787|going to go and put that into the pillar content group. So, what I've done here is I've also gone and added a note below here, just saying that this is the video that we're going to use to repurpose as
+799|my pillar content. This is useful cuz then the AI can go and see that, and it just has the instructions needed to get going. So, now I'm going to go over to my LinkedIn page. We're going to go and copy and paste some of my most recent
+810|posts. So, this one looks great. Let's go copy that one over here. We'll go and paste it into Poppy. We'll go to another post here. This one looks really good.
+821|Okay, cool. Let's go and copy this post. And cool thing is again, I'm just like copying and pasting the links in and Poppy's able to work its magic and
+831|understand all of the content. You can't do that with ChatBT. You can't do that with Claude. That's I think one of the most magical aspects of Poppy that I haven't found anywhere else. All right.
+841|So now we've gone and hooked up all these LinkedIn posts into a group. We are going to go and add in the AI chat. We're then going to go and wire up the pillar content as well as the LinkedIn
+851|carousels. The cool thing is is that I've also gone and created a content framework here. And I've put that framework in here. And again, you can go and get this entire Poppy board I've
+861|created in this video via the link in the description. I want to give you the systems, the frameworks that I wish I had 8 years ago when I was much earlier on in my content journey. We have hooked
+871|up the chat. We're always going to go and check it just to make sure it's seeing everything in the knowledge base. Beautiful. It sees LinkedIn content strategy. It's able to see all my
+881|LinkedIn posts. Like, how magical is that, right? I can't get this in chat GBT. It's got all of my content that's ready to now be repurposed. Now, what we're going to go do is wire up the next
+892|hyperspecific prompt. So, now you have an understanding of what we're trying to do here. I've given you the pillar content, and then we're going to go and repurpose that into multiple LinkedIn posts. I've given you three LinkedIn carousels that I published in my profile
+904|in the past that was based off of other videos I've done. And then I've given you a very comprehensive LinkedIn viral content framework. What I need you to do is then based on these resources, come
+914|up with five solid LinkedIn post ideas. I want two of them to be carousel posts um that can be taken from the pillar content video and then three other posts
+924|and I want them all to direct to a CTA. So, we're going to go and put that into Poppy AI. Just triple check it as we do with everything. And then we're going to let it rip. Keep in mind, right, I'm
+935|always reviewing this stuff. I would triple check it. AI is not perfect. Point is that this is kind of like your content researcher, right? It's doing a lot of that heavy lifting for you to get you ripping. It's gone and come up with
+946|a bunch of different carousel posts and we've got all of these amazing hooks and content structures in terms of formats, hook, um the angle, um to really get
+957|going here. The beautiful thing, right, is that you can really just keep on prompting AI just to give you more. So, if you're not happy with the first few outputs, just keep it working. Don't feel like you got to take the first output from this. Just like, you know, often times with a teammate, they're
+968|going to bring you something and you're going to kind of ask for more, you should be using the AI the same way. Now, I'm going to go and give it another prompt here. love these ideas. Let's put together the comprehensive details of
+978|each post. Starting with the carousel post, how many slides each post should be, what should be there in each of the slides. It could be, you know, a table of carousels, and then for the other
+988|one, since it's just text, you can give me the text. Make sure you follow the same style and language that I use in my LinkedIn carousel and the YouTube video so it sounds exactly like me and not somebody else. Okay? And I'm going to go
+999|and put that as well into that prompt dock. So, you got all of that um and can just steal all this stuff. copy and paste it and use it for yourself. So, look at this, right? Like, come on,
+1009|right? So, carousel one, it's gone and flushed out the five steps to get unstuck, my 10-minute system. Okay? So, it's giving each slide of this carousel, right? Step one, step two, step three,
+1021|and so forth, right? Including my own unique brand language, which is like kind of insane, right? So, it's putting things like my ship messy protocol, the one domino decision, and it's using all
+1032|of my stuff and just repurposing it to this format. What I see a lot of people get worried about with AI is like, "Oh my gosh, it's going to generate a lot of stuff that isn't even me." But the difference here is that it is you.
+1043|Because what we're doing is we're taking all of your transcripts and we're simply just fitting them into this format. This is a way to use AI to actually make sure that you sound legit. Um, we don't want
+1053|to be sounding like robots online, obviously, right? We want to sound like humans and make sure that we're actually developing that emotional resonance, which is likely why people are going and
+1063|following you. And that's how you're going to go and build a cult following around your brand online. Now, like anything, guys, you got to scrub this stuff. But you get it, right? We're now moving a lot faster and helping you guys
+1074|scale up. Let's now move on to Instagram reels. So, I'm going to start with going and titling a group here, Instagram reels. We're going to go over to my Instagram page. over there. You can see
+1084|I've got over 957,000 followers. We able to grow that all organically. You know, some videos here have gotten over 12 million views, 9 million views. Um, and so what I'm going to do is go and take
+1095|some of our Instagram reels and I'm going to go and copy and paste them into this Instagram reels group. Now, it's going and transcribing those reels. Okay? Okay. So, it's looking at the way
+1106|that I talk, the way I speak, my own kind of verbiage, my own kind of content, intellectual property, and it's leveraging all of those different little hints and ins and outs, and then going
+1118|to be able to come up with amazing copy because at this point, we've probably given Poppy AI like 50,000 words in my voice. And so, it sees how I talk. We're
+1130|not worried now that, oh man, this AI just sounds like some robot. I mean, it's pretty hard when you've gone and given it that much context as well as the specific prompts that we're giving it here. It's going to be able to work
+1141|some serious magic. What I love about this, right, is that we're not going and reinventing the wheel. This is the beauty of the content waterfall is that we've made a pillar piece of content, just go and fit it into this new format.
+1152|And it's going to take the Instagram reels examples here I've put in the references, combine that with the ultimate short form video script writing framework, which I've gone and given you
+1163|guys here. And then we're going to hook up the group as well as the text framework. We're going to connect it all to this AI chat. Also going to give it the pillar piece of content, which is essential. And all of that is in this AI
+1175|chat. And now we're going to really do this thing. We've hooked this thing up like a Ferrari. We can see that it's got my Steve Jobs framework, my 4,000 weeks perspective. We're going to be making things like Casey Neistat with that
+1186|consistency. We've got the YouTube pillar content. So, we're ready to go. What I now want to do is prompt it and say, "Okay, so I've given you the pillar content video, which is the one I want to repurpose into multiple short form
+1197|videos. And I've given you six Instagram reels that I've published in my profile in the past that was based off of other videos I've done. And then I've given you a very comprehensive short form
+1207|video script writing framework. And what I need you to do now is based on all of these resources, come up with five solid viral video ideas based off of the pillar content video. Each idea needs to
+1218|have three varying solid hooks. And the script could be a clip from the pillar content video or it could be a fresh script that I need to record but based off the original. Here we go. We've got
+1229|video idea number one, the 2minute mental cleanse. Okay, let's look at the hook here. This 2-minute morning ritual is going to completely change how fast you accomplish your goals. It's just it's insane, right? Inside of that
+1240|pillar video, I talk about Jerry Seinfeld and how he was able to write one joke a day and build a 7 billion empire around Seinfeld and then his own net worth has skyrocketed to over 1.1
+1250|billion. So, the crazy thing is Poppy AI because it's transcribing that video is able to actually pull that out and then come up with a short form concept based on that. Here's the hook as an example.
+1260|Jerry Seinfeld wrote one joke every day and it made him worth 1.1 billion. Here's the math. We've got Instagram hooked up, but let's do this for one
+1270|more platform here. Why don't we move over to X. I know a lot of you guys are looking to scale on there and you guys want to be omniresent. So, we go over to X and we are going over to my profile
+1280|there. And you're getting the pattern now, right? We're going to the profile. We're catching some references, putting them in there, and then we're ripping. I'm going to take in some of my posts. I
+1290|can just go and copy and paste the link into here. I've got seven posts in here. And then um what I'm going to give you guys too is a text field here which is
+1300|my whole kind of Twitter content framework. Okay. And so now we've got the Twitter content framework hooking that up into the AI chat. The tweet references into the AI chat and you
+1310|guessed it that pillar piece of content into the AI chat as well. All right. So now I'm going to prompt it here. Great. I've given you the pillar content video which is the one I want to repurpose
+1320|into multiple Twitter posts. I've given you seven tweets that I've published in my profile in the past that was based off of other videos I've done. And then I've given you a very comprehensive
+1330|Twitter content framework. And then make sure it's based off of my actual words, content I've talked about in the pillar content video. For me, I'm writing my own tweets, right? But for a lot of you guys, you guys are determined. You want
+1341|to be on all platforms, but you just don't have the time in your day. That's where tools like this can really help you guys out. I get it, right? You're obsessed. You want to have some good That's what I'm here to help you with. And so here we can see tweet one.
+1351|I went from burnout and procrastination to working 4 hours a day building multiple online businesses. Here's the 10-minute system that got me unstuck faster than 99% of people. And so, you
+1361|know, in seconds here we are flushing out multiple tweet structures. This is just honestly pure magic. Now, I've added all of that framework and that prompt as well to the prompt stock. Get
+1371|that in the link in description. You get it, guys. You know, we're trying to be as insanely generous in these videos as possible. Now, as you're watching this video, right, honestly, this is a fraction of what we do inside of Founder
+1382|OS. And it's all good to have all of this knowledge, but if you don't have the right support, you don't have the right community and mentorship around you, honestly, it's kind of all for nothing. Because truthfully, this is
+1392|just one piece of the overall puzzle. Once you go and install these kind of content systems in your business, what you're going to quickly find is that you're going to want some people to chat with, some people to help you along the way. And that's exactly why I built
+1403|Founder OS. So, if you want to get more help from me and my team and go and be able to use other breakthrough AI tools, go and check out the link in the description and go apply right now. So,
+1414|we've got seven oneliner posts. We've got different threads. Honestly, this is content multiplied. You've been able to take that one pillar piece of content
+1424|and turn that into over 20 other pieces of content. This is what's possible when you nail your content waterfall system. All of this template, all of these
+1435|prompts are shared with you via the link in the description. So, go and steal my prompts. Go and steal this board. I can't wait to see what you create. If
+1445|you follow these three stages, you're going to have an unfair advantage when it comes to creating content. Now, you have the systems, you have the guide, and you have the support. Welcome to the
+1455|founder freedom movement and let's win

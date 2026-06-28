@@ -1,0 +1,5 @@
+{"cmd": "intent", "text": "Does posting frequency affect Instagram follower growth? Is there a correlation?"}
+{"cmd": "sources", "n": 254}
+{"cmd": "select", "source": "s027", "vectors": ["content-frequency"]}
+{"cmd": "select", "source": "s020", "vectors": ["content-strategy"]}
+{"cmd": "compile", "eps": 3}

@@ -1,0 +1,6 @@
+1|There's an amazing discovery in psychology called the sunk cost trap. It really is when your brain says, you know, I've had already spent so much time on this, I can't quit. Now, maybe you've invested a bunch of time in
+11|a business, right? But it's still not turning the profit it's supposed to. And so, you need to know when to just cut things loose. I started a business back in the day. It
+21|was probably about 8 years ago. Everything looked good at the start, right? But after working hard on it for 6 months, it just refused to get the traction that it needed. Luckily, I made the decision to just stop working on this damn thing, right? And go and
+32|shift my focus to something new. At the time, it was scary as hell, right? But I wouldn't have been able to build my fourth business, Founder OS, had I not learned to just say no to things and cut them when
+44|there's just sunk costs. And so, what the sunk cost trap looks like, right, is, you know, staying in a dead business when you should move away or staying in a dead relationship when, you know, it's really just
+55|not working out, right? You may tell yourself, you know, we've been together for five years, but if you just keep failing at the thing, it's time to cut things loose.

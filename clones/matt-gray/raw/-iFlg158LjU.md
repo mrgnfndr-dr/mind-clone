@@ -1,0 +1,4 @@
+1|want to master the mindset of a million-dollar entrepreneur read these five books grit by Angela Duckworth you'll learn why passion and perseverance are critical for success and how to cultivate those qualities the obstacle is the way by Ryan holiday this
+13|book will show you that obstacles are not what they seem they're actually critical assets on your path to success die with zero by Bill Perkins rethink your relationship with time and money and learn why reaching the end with zero
+24|is actually a great goal give and take by Adam Grant you'll learn why being a giver in a world of takers and matchers can set you on a path to unparalleled success the war of art by Steven
+34|pressfield this is your battle plan to conquer inner creative battles teaching you how to overcome resistance and Unleash Your Best creativity

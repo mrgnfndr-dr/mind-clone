@@ -1,0 +1,59 @@
+2|The worst pricing advice I ever followed made me more money and made my life worse. And if you ever raise your price, landed clients, and then hit the number and still felt like something was quietly breaking underneath it all, you already know exactly what I'm talking
+13|about. More revenue, more stress, more of you is required in every single deal. You've hit a plateau you can't see past. In this video, I'm going to show you the three layers of what I call the
+23|psychological pricing playbook, the exact framework I've used with hundreds of founders to make price feel inevitable instead of negotiable. By the end of this video, you'll know precisely
+33|where your pricing is breaking down and exactly what to fix first. Here's a belief most founders carry into every pricing conversation. If I just had more confidence, if I knew my numbers better,
+44|if I researched what my competitors charge, pricing would feel easier. Here's what I've seen. Pricing problems at scale are almost never about the price. They're about structural
+54|misalignment. You know, your price is a signal, okay? And right now, for a lot of founders, that signal is out of sync with three things. Your real constraints, your buyer psychology, and
+64|the risk architecture underneath your offer. When those three things are misaligned, it doesn't matter what number you put on your offer. The business will find ways to make you feel it. The founders who never negotiate
+75|price, who never feel like they need to defend what they charge, they didn't get there by being more confident. They got there by designing the right pricing system. Layer one of the psychological pricing playbook is
+86|constraint alignment. Once your business reaches real scale, pricing stops being a demand problem and it becomes a constraint problem. When someone pays you at a certain level, they're buying a
+96|set of expectations about your attention, right? Your access, your involvement, and then the quality of your delivery. >> >> And those expectations are directly tied to what your team can actually honor.
+106|Most founders go and raise their price without redesigning what's included at that price. Same delivery model, same access structure, same calendar, and just some higher number. And here's what
+117|happens, right? Higher price clients have higher expectations. They want more. They ask more questions. They expect faster responses. And suddenly, you're working harder for
+127|fewer clients at more money and wondering why it doesn't feel like progress. Basically, you know, the opposite of what you're really trying to achieve here, okay? So, let me help you and avoid this. One, what does this
+138|price require from me personally? Two, what does it require from my team and delivery? Three is what happens to client experience when this offer is full. Those three questions
+148|define your real pricing ceiling. Not what your competitors charge >> >> and not what you think you're worth, right? Your actual constraints. You can go and run a perfect constraint audit yourself. When the price is right,
+159|the offer is real, and the delivery is solid, and the deal still stalls, that's not a pricing problem. That's something entirely different. And that's layer two. Layer
+169|two is certainty engineering. I want you to think about the last time a prospect said, "Let me think about it." What did you do? If you're honest, most founders either discount at
+179|that point in time or they add more value to the offer, or they just start following up aggressively, okay? Because the assumption is they're resisting the price. But here's what's actually
+189|happening. Buyers don't resist price. They resist ambiguity. The human brain is wired to avoid uncertainty more aggressively than it seeks upside, right? That's just basic neuroscience. Loss aversion, ambiguity
+201|aversion, okay? It's been studied extensively. So, when a prospect can't clearly visualize the path from "Yes, I'm ready to work with you" through to "Here's the result I'm going
+211|to get", the brain defaults to one simple answer, "Not yet." I had a call with a founder in our community, and she was running a coaching business. Her offer was strong, and the price was completely reasonable. And she kept
+222|getting stalled at the close of her sales calls. The same moment every time she'd share the price, there'd be a pause, and then, you know, "I need to discuss this with my partner." Three times in a row, okay?
+233|We didn't touch her price, though. We didn't even touch her offer. We changed what happened in the 72 hours before the call. We built what's called a certainty sequence, a short series of touchpoints
+243|before the sales conversation even starts that walk the prospect through a specific sequential picture of what transformation would look like inside of her coaching program. By the time she
+254|got on the call, the prospect already had this mentally rehearsed, you know, opportunity to understand exactly what they were getting. They weren't just evaluating whether to buy, they were evaluating whether to start now or next
+265|month, right? So, you don't have a pricing problem. You have a certainty gap. And you can close that gap without even touching your price at all. If you're watching this and thinking, "Something about my pricing
+275|feels off, but I just can't name it", I built a short pricing architecture audit. It's a set of diagnostic questions mapped to all three layers of the playbook that shows you exactly where your pricing system is
+286|breaking right now, okay? It takes about 10 minutes. It's free, and it's linked in the description below. Don't fill it out just yet, though. Watch this first, then use it to evaluate your pricing properly.
+297|Now, let's move on to layer three, which almost nobody three is risk transfer. I want to ask you something. Think about your most difficult client relationship in the last year, the one where the
+307|team dreaded Monday, the one with constant check-ins, second-guessing. Now, ask yourself this. When that person signed, was it ever explicitly clear who was responsible for the outcome? In
+318|almost every difficult client relationship I've ever seen, the answer to that question is no. Here's the psychology. Humans don't fear paying money nearly as much as they fear being
+328|wrong. Here's what I do to intentionally set up risk transfer. One, what the client is responsible for, right? We're talking their inputs, their execution, their commitment. Two, what your team is responsible for, the
+338|deliverables, the timelines, and the standards, okay? And then three is what shared success looks like, a defined picture of what done means so that both
+348|sides are measuring the same thing and seeing success the same way. When those three things are locked in and clear before the engagement starts, something shifts. The client stops being
+358|so anxious. They start feeling confident and excited. They start managing progress, right? The relationship seems cohesive and collaborative. And I want to show you the contrast. Two founders,
+369|similar offers, similar clients, and similar price points. Founder A had no risk architecture. The client walked away from the sale knowing they'd paid a lot of money and hoping that the
+380|thing would just work out. They had no clarity on how it all work and what success even look like. 60 days later, constant [snorts] check-ins, you know, uncomfortable conversations,
+390|scope creep, and both people being emotionally exhausted. Now, Founder B built a three-page onboarding document. So, when people are joining, they understand exactly what to
+400|expect. Here's what you do in week one. Here's what we're building together. Here's what success looks like at 30 days, 60 days, and 90 days. And here's what to do if you feel like something's
+410|off. Same price, same offer, completely different client behavior. Founder B's clients referred more clients. They stayed longer, I'm talking more customer lifetime revenue, and they were
+421|genuinely easy to serve. Not because Founder B was better at the work, but because the architecture of the relationship gave the client's brain a clear answer to the question, "Am I making the right decision?" Every week,
+432|the framework answered yes to that question. And the brain then feels safe. People were able to relax, and it ended up being this super fruitful client relationship. And it's not a
+443|business cost, it's a life cost, which brings me the most important thing I'm going to say in this entire video. Here's what all three layers have in common. They are not three separate
+453|problems, okay? They are three expressions of the same thing, whether you're operating your business or you're actually architecting it. The operator will hear things like, "Raise your
+463|prices", and they just raise their prices. The architect, though, asks, "What constraints does this price need to reflect? What certainty does it need to create? And what risk does it
+473|need to transfer?" The operator just starts patching systems and throwing solutions at it. The architect is going to design an operating system behind this. And here's the thing. Operators
+483|build businesses that make money, but architects build businesses that create freedom. And at some point, you have to decide which one you're building. And the thing I want to say to
+493|the founders watching this, right? I want to say to you, the ones who already have something real, who are already doing the work, who are already in it, you have already done the hard part. The idea, the proof, the clients, the team,
+505|you've earned all that. If you're still defending price, still managing client anxiety, still watching your calendar get worse as your revenue goes up, you are paying for that with your time and
+516|with your energy, and you're never going to get it back. Every year you spend operating at the wrong level is a year you didn't spend building the business that you were really supposed to have. That's not a business problem, that's
+526|regret in slow motion. And the good news, the only thing I want you to take from this video is that it's a design problem, which means there's a design solution for it. The pricing
+536|architecture audit is not complicated. Constraint alignment, price what your system can actually honor. Certainty engineering, eliminate ambiguity before the buyer ever sees the number. And risk
+546|transfer design, make it explicitly clear who owns what before the ink is dry. When these three things work together, pricing stops feeling like a fight. It starts feeling like a natural outcome of a
+557|well-designed business. The price defends itself because the system makes it inevitable. If this video felt uncomfortably accurate, good. There's a next step I want to offer you. Under the
+567|pricing architecture audit linked in the description below, you can go and identify the opportunity in your pricing structure. Then, if you're serious about doing the work to get the pricing on track, bring that completed audit to a
+578|call with our team, which you can go and book for free using the link in the description below. We'll look at what you wrote, your revenue level, and your constraints, and then tell you whether building this inside Founder OS makes
+588|sense for you. Either way, you're going to leave with a ton of clarity. So, that link is below. And if this way of thinking about business resonates with you, this channel is where I share everything I know about becoming the
+599|founder who believes in systems over hustle, who builds for freedom, not just revenue, and who wants to operate at that architect level. Be sure to like and subscribe, and I'll see you in this
+609|next video on how to go and build your profitable brand. Much love, and let's win together.

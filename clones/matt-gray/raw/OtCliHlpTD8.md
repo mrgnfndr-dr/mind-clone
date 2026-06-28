@@ -1,0 +1,5 @@
+2|A personal brand is a money cheat code if you understand this one thing. Your brand is your most powerful asset. And I'm not just talking about logos or aesthetics, right? I'm talking about your literal brand messaging. And
+13|so, how do you go and create your brand positioning? Well, I like to break it down into these three parts. First off is you have your brand thesis, right? What is your overall point of view in terms of where your space is
+24|going? The second aspect is you're going to go and describe the three core components that make that point of view come true. Now your last aspect now is your core mechanism or unique approach
+34|to actually making this come true. And so at Founder OS our unique approach is that if you want to build a systemized profitable founder brand, you have to have a content GPS that helps you go and create amazing
+45|content at scale, nurture those leads and then monetize them. And so you need to go and break down your three aspects of your brand thesis if you hope to have a clean and clear brand over the next

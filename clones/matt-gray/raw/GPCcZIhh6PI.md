@@ -1,0 +1,3 @@
+2|the easiest way to create viral content is to study other people's viral content Steve Jobs quoted Picasso during one of his speeches Picasso had a saying good artist coffee great artist steel do this follow at least 10 people whose content
+13|you want to emulate then when you would normally waste time scrolling social media instead study their content and save their posts that have great hooks look for Trends and study what works
+23|when you're creating your own content reference your favorite creators to find inspiration as a good friend of mine once told me everything is iterative if it worked for them it'll work for you

@@ -1,0 +1,1 @@
+How to start Instagram from scratch with a clear niche: solo entrepreneur teaching organic promotion for business owners. Needs step-by-step plan: profile setup, content strategy, posting frequency, growth tactics, monetization path.

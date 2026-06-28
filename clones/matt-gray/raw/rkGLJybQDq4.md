@@ -1,0 +1,95 @@
+1|But essentially what I want to go over, guys, is the Founder OS code. What is this all about? Well, I've been reflecting a lot on what principles have made me successful over the last 18
+11|years building multiple eight-figure companies, the kind of stuff that I see in the kind of mentors that I have. You know, I was just on a call couple weeks back with Ryan Kagg who's doing about
+21|100 million a year, Neil Patel who's doing about 70 million dollars profit a year and has been for the last 20 years. And these are the kind of principles if I was to distill it into 10 things that
+31|I seek to live by. And I'm not saying it's always easy, but it's it's, you know, the stuff that I kind of use as my North Star. And it's the stuff that as a community here inside of Founder OS, I
+42|see like the most successful founders I work with living by. So, I want to get into these and I'm going to kind of speak to some of these as well as I go through them. So, number one here, right, is really like moving like it's
+53|going to work out because it is. Now, what is this all about, right? Essentially, first things first is like when you're building any business,
+63|right? Like it's hard, right? And there's points that you definitely are going to doubt yourself, right? I think there's an aspect say when we're building content, right? Are you someone
+75|you know, I was just on a call with a founder and she had mentioned that she was making authentic content and then some friends went to her and said, you know, your content doesn't seem like that solid anymore. Like it seems like
+86|it needs some work. So, she stopped making content. And then took a break from it cuz she wanted to figure out how to make authentic content and then would come back to it. And that's an example
+96|of exactly what not to do, right? I think that the process of creating great content, finding more authentic voice and putting yourself out there is a process of brick by brick, just like
+107|carving out your voice, carving out your style by just being confident, not stopping, pushing daily, and over time from the shipping, the iterating, you
+118|then hone in on your core voice. It's not from like sitting on the sidelines or, you know, letting that voice, that insecure side of your, you know, your
+128|brain get to you and cause you to, yeah, not show up, right? And so, this idea of also as a founder like trusting your judgment, right? I see it all the time
+140|where, you know, founders are like, you know, should I do this or this, you know, A or B, C or D? And it's going to be like, well, what do you want to do? Like imagine a world where it would all work out, right? That whatever direction
+152|you went in, you would be really successful. You know, what would you want to do? Right? And then go do that thing confidently knowing that like if you put your all into it, you put the energy
+163|into it, you stay consistent with it, you will be successful. The second piece here is like keeping it insanely simple. Now, this is a thing that I live by in my life and in my business and it's a continual practice.
+174|Okay? We live in a day and age where some [\h__\h] gurus will try to convince you that, you know, you need to go and have all these like crazy complex funnels and these crazy complex
+184|businesses. And my belief is often times like it can be really damn simple, right? Pick one platform. Pick one offer, right? Pick, you know, one lead
+196|magnet even to start with and just stay consistent with your content and just push people through that core flow, right? When I first started Foundr us, it was Foundr us program, one offer on
+208|Twitter and got that to $50,000 a month, right? It wasn't like some complex system in place that I needed to get up and going, right? I didn't have 10
+219|offers, I wasn't on five platforms. I started just super simple and scaled up from there. Now, you know, I think that all businesses, mine included, they default
+229|to entropy, they default to complexity. So, it's also a continual practice to get it back down to simplicity. You know, over the last 6 months, I've implemented a bunch of skills, a bunch
+239|of cloud code elements, dashboards, different automations in my business, and cut around $670,000 of head count. Right? In the name of
+249|keeping things insanely simple. Cuz the last thing I want to be running is a complex company with 28 humans. My dream is really to have 12 core humans on my
+259|team, a 70% margin, and a business that I love, working with people that I love, and be able to have a true freedom, right? Controlling the four Ws in life, working where I want to work, with who,
+269|on what I want to work, wherever the hell in the world I want to work. The next asset here, guys, is doing the work. Okay? The only place that success comes before work is in the dictionary.
+280|Okay? And the reality is is that it's the work that matters, right? And so, all the systems, all the, you know, different automations, or, you know,
+290|different lessons we go over, these things are all for nothing if there's not a real degree of work going in on the background there, right? And so, you know, for me, the core, like,
+301|basically domino that I can do every single day, right? That's going to help me go and get to where I'm looking to go, is 4 hours of founder flow. In fact, that's where I'm at right now, right? In
+312|my cafe right here. In my same spot every day. This is where I post up every single morning. It's about 8:00 a.m. right now in Bali. And this is my
+323|routine. Got my iced Americano. And, you know, my notebook and checklist of the things I want to get done today. You know? And here I am, just posted up.
+333|And I'm just going to go do the work. Right? And this is, you know, rain or shine, you know, not feeling good, feeling good, feeling a little down, feeling great. And, you know, I tweaked my neck the other day doing some Muay
+344|Thai. Doesn't really matter. I'm going to be here showing up, doing the work, right? And I think that the same goes for you guys, right? It's like that just kind of
+354|chop wood, carry water mentality, right? Is a key aspect to like the compounding, right? Especially early on, right? Like early on when you're
+365|building something, you need to just get that momentum going. You need to kind of like get that snowball rolling down the other side of the hill until it turns into an avalanche. And the way to do that is just to put in the reps. Next aspect here is like protecting your
+375|nervous system, okay? Inevitably, you know, it's like removing [\h__\h] people around you, removing [\h__\h] influences around you, removing things that are [\h__\h] up your sleep, right? Like taking care of your
+387|body, of your mind, of your soul, right? Because if you, you know, strong founders build strong businesses, right? And if you are letting things around you, whether it's
+397|like late night television or a coffee that doesn't allow you to sleep because you're drinking coffee at 5:00 p.m. or it's a [\h__\h] person on your team that's really just aggravating you, or it's
+408|brutal customers that despite making some money from them, they're just like wrecking your week and like ruining your happiness. You got to really, like at the end of the day, I was talking to a
+419|founder just yesterday. He had just crossed a new milestone making about 500 grand a month, but he was unable to sleep all weekend because some of his marketing he was
+430|putting out there, he was worried that it was uncompliant, right? And that he could get in trouble with the government because of what he was putting out there. And I called him up because I could tell he was really stressed. So, I
+440|called him out of the blue on Monday, like actually 2 days ago, and I was like, "Hey, look, what's going on?" He told me what was going on and I was just like, "Dude, like, what is it even worth whether you're making a
+450|million a month, 3 million a month, 10 million a month, if like this is how you feel?" Right? Like the money's not going to make you more happy, right? We got to solve this marketing thing because at
+462|the end of the day, real wealth isn't like what your bank account shows, right? It's peace, right? And peace to me, one of the best metrics for just peace is quality sleep at night, right?
+473|And so, really optimizing a business for like, you know, not growth, not just cash flow, right? But like, what is it that you actually going to make you happy that you can be proud of yourself and look at yourself
+483|in the mirror at the end of the day when maybe you're brushing your teeth and go like, you know what? I'm really proud of what I'm building here. Um versus something that like you're just like that's killing you. Next aspect here, guys, is staying focused and staying
+494|lean. I think that the kind of community that we're building here at Founder Alliance, right? We're not a bunch of people looking to go and build some [\h__\h] unicorn, right? You know, we're not looking to build 10,000-person companies, right? We are here to build
+506|like small, mighty, beautiful bootstrap businesses, right? So, you have to understand that with that like head count is some vanity metric, right? What we're here is like you should first be
+517|asking, you know, is your offer super dialed in? Do you have a platform that you're really focused on right now? Do you have content going out regularly on that platform? Week by week are you
+528|finding more of your voice? Are you finding more of your own magnetism? Are you staying focused on the core say three things that you need to work on right now, right? So, on my list as an example, right?
+539|Today, you know, I'm doing a bunch more of a scrub of like some stuff that we're doing right now to go and be able to sell more by chat inside of our funnel,
+550|right? So, we're going to be moving a lot of our sales to say DMs and reducing the reliance on a sales team. It's a new experiment that we're doing. And I have been making this kind of like offer doc
+560|which we'll use to send folks so that they can understand the details of Velocity and a bunch of new updates that we have coming which I'm really excited to talk to you guys about over the coming weeks. But essentially, like this document,
+570|right? Is a big important thing. And I've probably gone and scrubbed through this document maybe 20 times at this point. And today I'm going with my team and scrubbing through it three more
+580|times, literally is line by line. Right? Because it's such an important thing I need to get done. Because then it feeds all the different aspects of my business. And so that's just an example
+590|of me just staying radically focused on one four thing, not getting distracted with 20 other things I could be doing, and just not leaving today, not stopping
+600|until, you know, me, my COO, and my chief of staff have scrubbed every single line of that offer doc and feel good about it. Now, next thing here is building only what you can build. So,
+611|you know, I've been doing a lot of, you know, reflection these days as an example to show you guys how I think about stuff. I actually have a coach that you may not know, but I I pay $20,000 a month to a coach named Dan,
+623|and we've been working a lot on creating magnetic content. So, even me, after doing content for, you know, it's been I mean, technically it's been like 18 years. I probably published across my
+633|business brands and personal brand around 37,000 pieces of content, not missed a single day in 18 years. Even I'm still like a student of the game. Right? And trying to like, oh, how could
+644|I make my content more magnetic? You know, what's the one sentence that maybe I'm trying to get out there, you know? I think one of the big things is like, your business should increase your aliveness, not consume it. What's the identity maybe I'm trying to really
+655|capture in my content? It's that people should be an architect, not an operator. You know, what are some of the pillars of our my point of view, right? It's like, calm is the highest form of scale. Fear is the ultimate competitive moat.
+667|What are some of like the different arcs that I want to be talking about, you know? It's things like, screw the church of hustle, make art not content, and importance of owning the four Ws in life. And so I'm constantly like
+677|revisiting my content strategy, revisiting what we're putting out there, because I know that, you know, when I go and say look at the different platforms, right? And say I go to our Instagram
+687|right now, right? I know that when I invest in and of thinking about magnetic content, thinking the details, right? It's what ends up, you know, producing content like this post that we put out
+698|just 4 days ago, right? This thing got like, you know, it drove over 2,000 newsletter sign-ups to Founder OS, 242,000 views, it had like over 23,000
+709|interactions on it. Right? And my belief right now, guys, and I've spoken about this a bit on some of our calls is that we're in this season right now where
+719|content has swung back to that people want to see raw, real rants, the triple Rs. And what that means is making content that's really you, right? Like
+729|just your edges, what I would call like your wabi-sabi, right? That Japanese principle that's like the beauty in your imperfection. So, hence like I'm really trying to find like just like even go
+740|deeper on like what's my authentic voice, what am I all about, what are the things that make me different, and then vocalize these things, and also just kind of find that voice by just writing
+750|and pushing things and getting it out there. Not by sitting on the sidelines or thinking about it too long. You know, once I maybe made a document like this document that I just showed you, right?
+761|Then just like experimenting with this [\h__\h] Just getting it out there and seeing what stuff resonates. Some stuff resonates like this, some stuff maybe doesn't like this one, and either way though the benefit is I learn, right?
+772|Versus the people that sit on the sidelines and just hope that someday their content gets magnetic. The next piece here then is making art, not content, right? Which is similar to what I just was going over.
+783|Right? So, the key thing here, right? Is guys, like sometimes you guys will ask me like, you know, Matt, should I make content like this? Should I make content like that? I talk to you guys a lot about the different formats that I think
+794|are best. The other thing too is like you've got to put stuff out that you think is unique to you. Like what do you want to make out there in the world? How do you want to show up? The same way that you wouldn't ask me how to get dressed in the morning, right? Is like
+805|the same thing like you have your own style. You have a fashion sense that speaks to how you like to show up. So yes, on Instagram as an example, you should have stories, you should have carousels, you should do short-form
+815|videos, right? But inevitably like how you want to show up there is a mix of maybe being inspired by what I'm doing, but mixing it then with like what's your authentic way of showing up. The last
+826|few here that I'll just kind of breeze through, right? Are like having high standards, right? My belief is that you get what you tolerate in life. Whether it's a hire, whether it's a customer, having a standard for the kind of people
+836|you want to be around and not accepting scrubs, stragglers, pedestrians, and tourists. Really making sure that you hold a high freaking bar. I know the kind of folks that I want to work with,
+847|right? I want to work with founders that have high agency, are self-directed, right? Are willing to put in the work, that live by this code. I do not want to work with folks that are looking for a magic pill, are looking for me to do the
+857|work for them. I know that in terms of the team I work with, right? I want to work with a team of people that are independent, high agency, live by the Foundress values, right? Obsess around quality, keep things insanely simple,
+868|dazzle founders. I don't want to work with people that bring me problems, that bring me more work to do, right? That don't make my life easy. Which lead me to kind of like inevitably
+878|here, guys, I think it's all about like we want to have businesses that actually enhance our joy, right? If we're not laughing daily because like we're enjoying who we're working with and what we're working on, something's freaking
+888|wrong. And I think that the last thing I'll say here is that, you know, we talk about things like your content infrastructure, right? And a key part of that as an example is being like lead magnets. When I think about all my content, the number one kind of
+898|principle that's allowing it to blow up, right? That's allowed me to build my own brand of 3 and 1/2 million people over the last few years is because I'm being generous in this content. We find out
+908|different systems, we learn different things internally, and then we're sharing that [\h__\h] on YouTube, we're putting that in a lead magnet, we're making a tool for founders. You know, just this past week as an example, we went and launched a new tool that you
+918|may have seen called Henzo, right? Henzo is the product of how I've been going and creating my authentic LinkedIn content the last 12 months helped grow it to over 900k organic folks and we
+928|just put all that into a core tool that now founders can go use themselves, right? So whether it's tools like Henzo, it's the updates that we make to the curriculum, it's the investments we make
+938|in the community, it's new team members we bring on board, like it's all in the name of trying to be as insanely generous as possible. And it's a continual practice, right? Of how we can, you know, what new curriculum do we need to add? What new systems do we need
+949|to get founders? We're launching a new software inside of Founders Velocity soon called Founder Clip, which, you know, is also going to be kind of like
+959|taking things to the next level in terms of like different skills and such to help you guys deploy these systems faster. So these are just some principles that I think are important to live by as a
+970|community that I see separate kind of the real ones in the founders that are super successful and build amazing businesses and lives versus the ones that, you know, don't embody these and
+980|find themselves spinning their tires or wishing someone would just save them or looking to be rescued and I think are important as you're like scaling up your guys' businesses. So leave it there. This is all kind of in the name of like
+990|architecting freedom and embodying this kind of architect identity as well where we're building lives that are intentional and businesses that help serve us versus running businesses that
+1000|just run us into the ground.

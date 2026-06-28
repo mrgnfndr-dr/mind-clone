@@ -1,0 +1,755 @@
+1
+00:00:00,720 --> 00:00:03,270
+ 
+This is the tech stack for my million a
+
+2
+00:00:03,270 --> 00:00:03,280
+This is the tech stack for my million a
+ 
+
+3
+00:00:03,280 --> 00:00:06,670
+This is the tech stack for my million a
+month business. So, first things first,
+
+4
+00:00:06,670 --> 00:00:06,680
+month business. So, first things first,
+ 
+
+5
+00:00:06,680 --> 00:00:09,070
+month business. So, first things first,
+my lover, Claude code. So, Claude code
+
+6
+00:00:09,070 --> 00:00:09,080
+my lover, Claude code. So, Claude code
+ 
+
+7
+00:00:09,080 --> 00:00:10,510
+my lover, Claude code. So, Claude code
+is an absolute beast. I spend a few
+
+8
+00:00:10,510 --> 00:00:10,520
+is an absolute beast. I spend a few
+ 
+
+9
+00:00:10,520 --> 00:00:12,030
+is an absolute beast. I spend a few
+hours in this every single day. If
+
+10
+00:00:12,030 --> 00:00:12,040
+hours in this every single day. If
+ 
+
+11
+00:00:12,040 --> 00:00:13,030
+hours in this every single day. If
+you're going to get going on it, first
+
+12
+00:00:13,030 --> 00:00:13,040
+you're going to get going on it, first
+ 
+
+13
+00:00:13,040 --> 00:00:14,630
+you're going to get going on it, first
+step is go and hook up all the
+
+14
+00:00:14,630 --> 00:00:14,640
+step is go and hook up all the
+ 
+
+15
+00:00:14,640 --> 00:00:16,630
+step is go and hook up all the
+connectors to it. Probably things like
+
+16
+00:00:16,630 --> 00:00:16,640
+connectors to it. Probably things like
+ 
+
+17
+00:00:16,640 --> 00:00:18,470
+connectors to it. Probably things like
+your HubSpot, maybe even tools you're
+
+18
+00:00:18,470 --> 00:00:18,480
+your HubSpot, maybe even tools you're
+ 
+
+19
+00:00:18,480 --> 00:00:19,910
+your HubSpot, maybe even tools you're
+using like your QuickBooks and things
+
+20
+00:00:19,910 --> 00:00:19,920
+using like your QuickBooks and things
+ 
+
+21
+00:00:19,920 --> 00:00:22,110
+using like your QuickBooks and things
+like that to make sure that HubSpot is
+
+22
+00:00:22,110 --> 00:00:22,120
+like that to make sure that HubSpot is
+ 
+
+23
+00:00:22,120 --> 00:00:24,030
+like that to make sure that HubSpot is
+able to speak to Claude code, and then
+
+24
+00:00:24,030 --> 00:00:24,040
+able to speak to Claude code, and then
+ 
+
+25
+00:00:24,040 --> 00:00:25,310
+able to speak to Claude code, and then
+you're able to run a bunch of cool
+
+26
+00:00:25,310 --> 00:00:25,320
+you're able to run a bunch of cool
+ 
+
+27
+00:00:25,320 --> 00:00:26,830
+you're able to run a bunch of cool
+automation. So, yeah, next thing is
+
+28
+00:00:26,830 --> 00:00:26,840
+automation. So, yeah, next thing is
+ 
+
+29
+00:00:26,840 --> 00:00:28,150
+automation. So, yeah, next thing is
+HubSpot.
+
+30
+00:00:28,150 --> 00:00:28,160
+HubSpot.
+ 
+
+31
+00:00:28,160 --> 00:00:29,790
+HubSpot.
+It's a CRM that we use. If you're
+
+32
+00:00:29,790 --> 00:00:29,800
+It's a CRM that we use. If you're
+ 
+
+33
+00:00:29,800 --> 00:00:30,950
+It's a CRM that we use. If you're
+looking to save money though, you may
+
+34
+00:00:30,950 --> 00:00:30,960
+looking to save money though, you may
+ 
+
+35
+00:00:30,960 --> 00:00:33,430
+looking to save money though, you may
+use things like close.io. Vercel is what
+
+36
+00:00:33,430 --> 00:00:33,440
+use things like close.io. Vercel is what
+ 
+
+37
+00:00:33,440 --> 00:00:35,230
+use things like close.io. Vercel is what
+I use to publish a lot of our web pages
+
+38
+00:00:35,230 --> 00:00:35,240
+I use to publish a lot of our web pages
+ 
+
+39
+00:00:35,240 --> 00:00:37,190
+I use to publish a lot of our web pages
+for, so different tools that we make and
+
+40
+00:00:37,190 --> 00:00:37,200
+for, so different tools that we make and
+ 
+
+41
+00:00:37,200 --> 00:00:39,430
+for, so different tools that we make and
+such. I'm publishing it to Vercel first,
+
+42
+00:00:39,430 --> 00:00:39,440
+such. I'm publishing it to Vercel first,
+ 
+
+43
+00:00:39,440 --> 00:00:40,870
+such. I'm publishing it to Vercel first,
+and then being able to hand off those
+
+44
+00:00:40,870 --> 00:00:40,880
+and then being able to hand off those
+ 
+
+45
+00:00:40,880 --> 00:00:44,270
+and then being able to hand off those
+Vercel, you know, kind of files to my
+
+46
+00:00:44,270 --> 00:00:44,280
+Vercel, you know, kind of files to my
+ 
+
+47
+00:00:44,280 --> 00:00:45,630
+Vercel, you know, kind of files to my
+engineer if we're going to go and then
+
+48
+00:00:45,630 --> 00:00:45,640
+engineer if we're going to go and then
+ 
+
+49
+00:00:45,640 --> 00:00:47,270
+engineer if we're going to go and then
+actually push them to the founder us.com
+
+50
+00:00:47,270 --> 00:00:47,280
+actually push them to the founder us.com
+ 
+
+51
+00:00:47,280 --> 00:00:50,110
+actually push them to the founder us.com
+website. Superbase is what we use to go
+
+52
+00:00:50,110 --> 00:00:50,120
+website. Superbase is what we use to go
+ 
+
+53
+00:00:50,120 --> 00:00:52,710
+website. Superbase is what we use to go
+and create a lot of things super fast.
+
+54
+00:00:52,710 --> 00:00:52,720
+and create a lot of things super fast.
+ 
+
+55
+00:00:52,720 --> 00:00:54,310
+and create a lot of things super fast.
+And it end is for a lot of the workflow
+
+56
+00:00:54,310 --> 00:00:54,320
+And it end is for a lot of the workflow
+ 
+
+57
+00:00:54,320 --> 00:00:55,550
+And it end is for a lot of the workflow
+automation that we use, so different
+
+58
+00:00:55,550 --> 00:00:55,560
+automation that we use, so different
+ 
+
+59
+00:00:55,560 --> 00:00:57,150
+automation that we use, so different
+tools can interact with other tools.
+
+60
+00:00:57,150 --> 00:00:57,160
+tools can interact with other tools.
+ 
+
+61
+00:00:57,160 --> 00:00:59,510
+tools can interact with other tools.
+Fathom, all calls are recorded, and the
+
+62
+00:00:59,510 --> 00:00:59,520
+Fathom, all calls are recorded, and the
+ 
+
+63
+00:00:59,520 --> 00:01:01,230
+Fathom, all calls are recorded, and the
+cool thing is that Fathom interacts
+
+64
+00:01:01,230 --> 00:01:01,240
+cool thing is that Fathom interacts
+ 
+
+65
+00:01:01,240 --> 00:01:03,750
+cool thing is that Fathom interacts
+nicely with Mr. Claude code over here.
+
+66
+00:01:03,750 --> 00:01:03,760
+nicely with Mr. Claude code over here.
+ 
+
+67
+00:01:03,760 --> 00:01:05,430
+nicely with Mr. Claude code over here.
+And the beautiful thing there is any
+
+68
+00:01:05,430 --> 00:01:05,440
+And the beautiful thing there is any
+ 
+
+69
+00:01:05,440 --> 00:01:07,950
+And the beautiful thing there is any
+call that I'm on with my team, I
+
+70
+00:01:07,950 --> 00:01:07,960
+call that I'm on with my team, I
+ 
+
+71
+00:01:07,960 --> 00:01:09,630
+call that I'm on with my team, I
+instantly go and take the Fathom
+
+72
+00:01:09,630 --> 00:01:09,640
+instantly go and take the Fathom
+ 
+
+73
+00:01:09,640 --> 00:01:11,790
+instantly go and take the Fathom
+recording afterwards, I plug it into
+
+74
+00:01:11,790 --> 00:01:11,800
+recording afterwards, I plug it into
+ 
+
+75
+00:01:11,800 --> 00:01:13,950
+recording afterwards, I plug it into
+Claude code, and I say, "Go and action
+
+76
+00:01:13,950 --> 00:01:13,960
+Claude code, and I say, "Go and action
+ 
+
+77
+00:01:13,960 --> 00:01:15,870
+Claude code, and I say, "Go and action
+every single thing that we just went
+
+78
+00:01:15,870 --> 00:01:15,880
+every single thing that we just went
+ 
+
+79
+00:01:15,880 --> 00:01:17,310
+every single thing that we just went
+over on that call, and I want you to be
+
+80
+00:01:17,310 --> 00:01:17,320
+over on that call, and I want you to be
+ 
+
+81
+00:01:17,320 --> 00:01:19,230
+over on that call, and I want you to be
+smarter than Jeff Bezos, Elon Musk,
+
+82
+00:01:19,230 --> 00:01:19,240
+smarter than Jeff Bezos, Elon Musk,
+ 
+
+83
+00:01:19,240 --> 00:01:20,750
+smarter than Jeff Bezos, Elon Musk,
+Jensen Huang, Warren Buffett, and
+
+84
+00:01:20,750 --> 00:01:20,760
+Jensen Huang, Warren Buffett, and
+ 
+
+85
+00:01:20,760 --> 00:01:22,750
+Jensen Huang, Warren Buffett, and
+Charlie Munger combined and go and move
+
+86
+00:01:22,750 --> 00:01:22,760
+Charlie Munger combined and go and move
+ 
+
+87
+00:01:22,760 --> 00:01:24,390
+Charlie Munger combined and go and move
+this forward. Enter plan mode, go and
+
+88
+00:01:24,390 --> 00:01:24,400
+this forward. Enter plan mode, go and
+ 
+
+89
+00:01:24,400 --> 00:01:26,150
+this forward. Enter plan mode, go and
+get that done. Come up with a plan, I'll
+
+90
+00:01:26,150 --> 00:01:26,160
+get that done. Come up with a plan, I'll
+ 
+
+91
+00:01:26,160 --> 00:01:27,310
+get that done. Come up with a plan, I'll
+approve it, and then we'll go get those
+
+92
+00:01:27,310 --> 00:01:27,320
+approve it, and then we'll go get those
+ 
+
+93
+00:01:27,320 --> 00:01:29,030
+approve it, and then we'll go get those
+things going by interacting with these
+
+94
+00:01:29,030 --> 00:01:29,040
+things going by interacting with these
+ 
+
+95
+00:01:29,040 --> 00:01:30,910
+things going by interacting with these
+other tools here." So, call me a little
+
+96
+00:01:30,910 --> 00:01:30,920
+other tools here." So, call me a little
+ 
+
+97
+00:01:30,920 --> 00:01:32,510
+other tools here." So, call me a little
+bit weird, but this is how I operate.
+
+98
+00:01:32,510 --> 00:01:32,520
+bit weird, but this is how I operate.
+ 
+
+99
+00:01:32,520 --> 00:01:34,830
+bit weird, but this is how I operate.
+Slack, I mean, kind of self-explanatory,
+
+100
+00:01:34,830 --> 00:01:34,840
+Slack, I mean, kind of self-explanatory,
+ 
+
+101
+00:01:34,840 --> 00:01:35,910
+Slack, I mean, kind of self-explanatory,
+you know, but you got to make sure that
+
+102
+00:01:35,910 --> 00:01:35,920
+you know, but you got to make sure that
+ 
+
+103
+00:01:35,920 --> 00:01:38,070
+you know, but you got to make sure that
+you have things like scheduled tasks
+
+104
+00:01:38,070 --> 00:01:38,080
+you have things like scheduled tasks
+ 
+
+105
+00:01:38,080 --> 00:01:40,710
+you have things like scheduled tasks
+hooked up from Claude code into Slack to
+
+106
+00:01:40,710 --> 00:01:40,720
+hooked up from Claude code into Slack to
+ 
+
+107
+00:01:40,720 --> 00:01:42,990
+hooked up from Claude code into Slack to
+eliminate all the accountability that
+
+108
+00:01:42,990 --> 00:01:43,000
+eliminate all the accountability that
+ 
+
+109
+00:01:43,000 --> 00:01:44,630
+eliminate all the accountability that
+you got to do as a business owner. You
+
+110
+00:01:44,630 --> 00:01:44,640
+you got to do as a business owner. You
+ 
+
+111
+00:01:44,640 --> 00:01:45,990
+you got to do as a business owner. You
+know, nothing's more tiring than having
+
+112
+00:01:45,990 --> 00:01:46,000
+know, nothing's more tiring than having
+ 
+
+113
+00:01:46,000 --> 00:01:47,270
+know, nothing's more tiring than having
+to remind people, right? And the
+
+114
+00:01:47,270 --> 00:01:47,280
+to remind people, right? And the
+ 
+
+115
+00:01:47,280 --> 00:01:48,510
+to remind people, right? And the
+beautiful thing is when you've hooked up
+
+116
+00:01:48,510 --> 00:01:48,520
+beautiful thing is when you've hooked up
+ 
+
+117
+00:01:48,520 --> 00:01:50,870
+beautiful thing is when you've hooked up
+Claude code correctly into your Slack,
+
+118
+00:01:50,870 --> 00:01:50,880
+Claude code correctly into your Slack,
+ 
+
+119
+00:01:50,880 --> 00:01:52,190
+Claude code correctly into your Slack,
+people are getting those Monday
+
+120
+00:01:52,190 --> 00:01:52,200
+people are getting those Monday
+ 
+
+121
+00:01:52,200 --> 00:01:54,270
+people are getting those Monday
+reminders through Claude as to what they
+
+122
+00:01:54,270 --> 00:01:54,280
+reminders through Claude as to what they
+ 
+
+123
+00:01:54,280 --> 00:01:55,470
+reminders through Claude as to what they
+need to get done that week, and then
+
+124
+00:01:55,470 --> 00:01:55,480
+need to get done that week, and then
+ 
+
+125
+00:01:55,480 --> 00:01:57,310
+need to get done that week, and then
+it's able to monitor all of the meetings
+
+126
+00:01:57,310 --> 00:01:57,320
+it's able to monitor all of the meetings
+ 
+
+127
+00:01:57,320 --> 00:01:59,390
+it's able to monitor all of the meetings
+that happen in Mr. Fathom over here to
+
+128
+00:01:59,390 --> 00:01:59,400
+that happen in Mr. Fathom over here to
+ 
+
+129
+00:01:59,400 --> 00:02:00,990
+that happen in Mr. Fathom over here to
+make sure that Mr. Claude is making sure
+
+130
+00:02:00,990 --> 00:02:01,000
+make sure that Mr. Claude is making sure
+ 
+
+131
+00:02:01,000 --> 00:02:02,470
+make sure that Mr. Claude is making sure
+that Mr. HubSpot's happy with the
+
+132
+00:02:02,470 --> 00:02:02,480
+that Mr. HubSpot's happy with the
+ 
+
+133
+00:02:02,480 --> 00:02:04,030
+that Mr. HubSpot's happy with the
+revenue growth, and making sure that
+
+134
+00:02:04,030 --> 00:02:04,040
+revenue growth, and making sure that
+ 
+
+135
+00:02:04,040 --> 00:02:06,510
+revenue growth, and making sure that
+these folks in Slack are staying super
+
+136
+00:02:06,510 --> 00:02:06,520
+these folks in Slack are staying super
+ 
+
+137
+00:02:06,520 --> 00:02:08,749
+these folks in Slack are staying super
+dialed. On the Calendly side, we're
+
+138
+00:02:08,749 --> 00:02:08,759
+dialed. On the Calendly side, we're
+ 
+
+139
+00:02:08,759 --> 00:02:10,469
+dialed. On the Calendly side, we're
+booking sales calls, closing revenue,
+
+140
+00:02:10,469 --> 00:02:10,479
+booking sales calls, closing revenue,
+ 
+
+141
+00:02:10,479 --> 00:02:12,310
+booking sales calls, closing revenue,
+making sure that Mr. HubSpot's happy.
+
+142
+00:02:12,310 --> 00:02:12,320
+making sure that Mr. HubSpot's happy.
+ 
+
+143
+00:02:12,320 --> 00:02:15,790
+making sure that Mr. HubSpot's happy.
+So, that is the tech stack. You know,
+
+144
+00:02:15,790 --> 00:02:15,800
+So, that is the tech stack. You know,
+ 
+
+145
+00:02:15,800 --> 00:02:17,510
+So, that is the tech stack. You know,
+we're talking like roughly 2K per month
+
+146
+00:02:17,510 --> 00:02:17,520
+we're talking like roughly 2K per month
+ 
+
+147
+00:02:17,520 --> 00:02:18,830
+we're talking like roughly 2K per month
+here, but who's checking if the cash is
+
+148
+00:02:18,830 --> 00:02:18,840
+here, but who's checking if the cash is
+ 
+
+149
+00:02:18,840 --> 00:02:20,510
+here, but who's checking if the cash is
+flowing, these costs ain't mattering
+
+150
+00:02:20,510 --> 00:02:20,520
+flowing, these costs ain't mattering
+ 
+
+151
+00:02:20,520 --> 00:02:23,520
+flowing, these costs ain't mattering
+much, all right?
+

@@ -1,0 +1,4255 @@
+1
+00:00:00,160 --> 00:00:01,750
+ 
+Most people build a business and then
+
+2
+00:00:01,750 --> 00:00:01,760
+Most people build a business and then
+ 
+
+3
+00:00:01,760 --> 00:00:03,669
+Most people build a business and then
+try to build their life around it. I did
+
+4
+00:00:03,669 --> 00:00:03,679
+try to build their life around it. I did
+ 
+
+5
+00:00:03,679 --> 00:00:05,349
+try to build their life around it. I did
+the opposite. I built a business that
+
+6
+00:00:05,349 --> 00:00:05,359
+the opposite. I built a business that
+ 
+
+7
+00:00:05,359 --> 00:00:07,749
+the opposite. I built a business that
+runs on systems so I could be the actual
+
+8
+00:00:07,749 --> 00:00:07,759
+runs on systems so I could be the actual
+ 
+
+9
+00:00:07,759 --> 00:00:10,070
+runs on systems so I could be the actual
+CEO of that business versus being some
+
+10
+00:00:10,070 --> 00:00:10,080
+CEO of that business versus being some
+ 
+
+11
+00:00:10,080 --> 00:00:11,990
+CEO of that business versus being some
+day-to-day manager. I'm not in meetings
+
+12
+00:00:11,990 --> 00:00:12,000
+day-to-day manager. I'm not in meetings
+ 
+
+13
+00:00:12,000 --> 00:00:14,629
+day-to-day manager. I'm not in meetings
+all day. I'm not stuck in Slack messages
+
+14
+00:00:14,629 --> 00:00:14,639
+all day. I'm not stuck in Slack messages
+ 
+
+15
+00:00:14,639 --> 00:00:16,950
+all day. I'm not stuck in Slack messages
+and I'm not being consulted with every
+
+16
+00:00:16,950 --> 00:00:16,960
+and I'm not being consulted with every
+ 
+
+17
+00:00:16,960 --> 00:00:19,349
+and I'm not being consulted with every
+decision. This video is a deep dive into
+
+18
+00:00:19,349 --> 00:00:19,359
+decision. This video is a deep dive into
+ 
+
+19
+00:00:19,359 --> 00:00:21,269
+decision. This video is a deep dive into
+the eight systems that make this all
+
+20
+00:00:21,269 --> 00:00:21,279
+the eight systems that make this all
+ 
+
+21
+00:00:21,279 --> 00:00:24,550
+the eight systems that make this all
+possible. No fluff, no BS, just the real
+
+22
+00:00:24,550 --> 00:00:24,560
+possible. No fluff, no BS, just the real
+ 
+
+23
+00:00:24,560 --> 00:00:26,630
+possible. No fluff, no BS, just the real
+systems that help me go and remove
+
+24
+00:00:26,630 --> 00:00:26,640
+systems that help me go and remove
+ 
+
+25
+00:00:26,640 --> 00:00:28,630
+systems that help me go and remove
+myself from operations without
+
+26
+00:00:28,630 --> 00:00:28,640
+myself from operations without
+ 
+
+27
+00:00:28,640 --> 00:00:30,470
+myself from operations without
+everything falling apart. Let's get into
+
+28
+00:00:30,470 --> 00:00:30,480
+everything falling apart. Let's get into
+ 
+
+29
+00:00:30,480 --> 00:00:33,030
+everything falling apart. Let's get into
+it. System number one is the decision
+
+30
+00:00:33,030 --> 00:00:33,040
+it. System number one is the decision
+ 
+
+31
+00:00:33,040 --> 00:00:35,430
+it. System number one is the decision
+architecture. Now, every single day as
+
+32
+00:00:35,430 --> 00:00:35,440
+architecture. Now, every single day as
+ 
+
+33
+00:00:35,440 --> 00:00:38,630
+architecture. Now, every single day as
+CEOs, we get hit up with tons of
+
+34
+00:00:38,630 --> 00:00:38,640
+CEOs, we get hit up with tons of
+ 
+
+35
+00:00:38,640 --> 00:00:39,990
+CEOs, we get hit up with tons of
+different things that we could be making
+
+36
+00:00:39,990 --> 00:00:40,000
+different things that we could be making
+ 
+
+37
+00:00:40,000 --> 00:00:41,750
+different things that we could be making
+the decision around. Should I go and
+
+38
+00:00:41,750 --> 00:00:41,760
+the decision around. Should I go and
+ 
+
+39
+00:00:41,760 --> 00:00:43,590
+the decision around. Should I go and
+sign this invoice? Should we approve
+
+40
+00:00:43,590 --> 00:00:43,600
+sign this invoice? Should we approve
+ 
+
+41
+00:00:43,600 --> 00:00:45,670
+sign this invoice? Should we approve
+this refund? Should we go and post this
+
+42
+00:00:45,670 --> 00:00:45,680
+this refund? Should we go and post this
+ 
+
+43
+00:00:45,680 --> 00:00:47,430
+this refund? Should we go and post this
+piece of content? Should we hire this
+
+44
+00:00:47,430 --> 00:00:47,440
+piece of content? Should we hire this
+ 
+
+45
+00:00:47,440 --> 00:00:49,830
+piece of content? Should we hire this
+person? Should we fire this person? As
+
+46
+00:00:49,830 --> 00:00:49,840
+person? Should we fire this person? As
+ 
+
+47
+00:00:49,840 --> 00:00:52,950
+person? Should we fire this person? As
+founders, as CEOs, you only have so much
+
+48
+00:00:52,950 --> 00:00:52,960
+founders, as CEOs, you only have so much
+ 
+
+49
+00:00:52,960 --> 00:00:55,750
+founders, as CEOs, you only have so much
+decision-making ability in a given day.
+
+50
+00:00:55,750 --> 00:00:55,760
+decision-making ability in a given day.
+ 
+
+51
+00:00:55,760 --> 00:00:57,830
+decision-making ability in a given day.
+The solution isn't making decisions
+
+52
+00:00:57,830 --> 00:00:57,840
+The solution isn't making decisions
+ 
+
+53
+00:00:57,840 --> 00:01:00,869
+The solution isn't making decisions
+faster. It's making fewer decisions.
+
+54
+00:01:00,869 --> 00:01:00,879
+faster. It's making fewer decisions.
+ 
+
+55
+00:01:00,879 --> 00:01:02,389
+faster. It's making fewer decisions.
+Here's how the decision architecture
+
+56
+00:01:02,389 --> 00:01:02,399
+Here's how the decision architecture
+ 
+
+57
+00:01:02,399 --> 00:01:04,710
+Here's how the decision architecture
+works. First off, for every decision
+
+58
+00:01:04,710 --> 00:01:04,720
+works. First off, for every decision
+ 
+
+59
+00:01:04,720 --> 00:01:07,270
+works. First off, for every decision
+that hits your desk in a given week, go
+
+60
+00:01:07,270 --> 00:01:07,280
+that hits your desk in a given week, go
+ 
+
+61
+00:01:07,280 --> 00:01:09,350
+that hits your desk in a given week, go
+and write them down. Then, we're going
+
+62
+00:01:09,350 --> 00:01:09,360
+and write them down. Then, we're going
+ 
+
+63
+00:01:09,360 --> 00:01:12,789
+and write them down. Then, we're going
+to go and categorize them into type A,
+
+64
+00:01:12,789 --> 00:01:12,799
+to go and categorize them into type A,
+ 
+
+65
+00:01:12,799 --> 00:01:15,990
+to go and categorize them into type A,
+B, or C decisions. Type A decisions are
+
+66
+00:01:15,990 --> 00:01:16,000
+B, or C decisions. Type A decisions are
+ 
+
+67
+00:01:16,000 --> 00:01:18,789
+B, or C decisions. Type A decisions are
+decisions that only you can make. Type B
+
+68
+00:01:18,789 --> 00:01:18,799
+decisions that only you can make. Type B
+ 
+
+69
+00:01:18,799 --> 00:01:20,950
+decisions that only you can make. Type B
+decisions are the kind of decisions that
+
+70
+00:01:20,950 --> 00:01:20,960
+decisions are the kind of decisions that
+ 
+
+71
+00:01:20,960 --> 00:01:22,630
+decisions are the kind of decisions that
+you're currently making, but that
+
+72
+00:01:22,630 --> 00:01:22,640
+you're currently making, but that
+ 
+
+73
+00:01:22,640 --> 00:01:24,149
+you're currently making, but that
+someone else could probably make as
+
+74
+00:01:24,149 --> 00:01:24,159
+someone else could probably make as
+ 
+
+75
+00:01:24,159 --> 00:01:26,950
+someone else could probably make as
+good, if not better than you. Type C
+
+76
+00:01:26,950 --> 00:01:26,960
+good, if not better than you. Type C
+ 
+
+77
+00:01:26,960 --> 00:01:29,109
+good, if not better than you. Type C
+decisions are the kind of decisions that
+
+78
+00:01:29,109 --> 00:01:29,119
+decisions are the kind of decisions that
+ 
+
+79
+00:01:29,119 --> 00:01:30,870
+decisions are the kind of decisions that
+no one should even be making. We could
+
+80
+00:01:30,870 --> 00:01:30,880
+no one should even be making. We could
+ 
+
+81
+00:01:30,880 --> 00:01:32,950
+no one should even be making. We could
+just automate these decisions. So for
+
+82
+00:01:32,950 --> 00:01:32,960
+just automate these decisions. So for
+ 
+
+83
+00:01:32,960 --> 00:01:34,710
+just automate these decisions. So for
+type A decisions, you're going to keep
+
+84
+00:01:34,710 --> 00:01:34,720
+type A decisions, you're going to keep
+ 
+
+85
+00:01:34,720 --> 00:01:37,190
+type A decisions, you're going to keep
+these decisions, right? These are CEO
+
+86
+00:01:37,190 --> 00:01:37,200
+these decisions, right? These are CEO
+ 
+
+87
+00:01:37,200 --> 00:01:40,310
+these decisions, right? These are CEO
+level decisions that only you can make.
+
+88
+00:01:40,310 --> 00:01:40,320
+level decisions that only you can make.
+ 
+
+89
+00:01:40,320 --> 00:01:41,990
+level decisions that only you can make.
+For type B decisions, we're going to
+
+90
+00:01:41,990 --> 00:01:42,000
+For type B decisions, we're going to
+ 
+
+91
+00:01:42,000 --> 00:01:44,149
+For type B decisions, we're going to
+create something called decision trees.
+
+92
+00:01:44,149 --> 00:01:44,159
+create something called decision trees.
+ 
+
+93
+00:01:44,159 --> 00:01:45,270
+create something called decision trees.
+We're going to go and make sure that
+
+94
+00:01:45,270 --> 00:01:45,280
+We're going to go and make sure that
+ 
+
+95
+00:01:45,280 --> 00:01:47,030
+We're going to go and make sure that
+there's a framework by which someone can
+
+96
+00:01:47,030 --> 00:01:47,040
+there's a framework by which someone can
+ 
+
+97
+00:01:47,040 --> 00:01:49,510
+there's a framework by which someone can
+easily go and make this decision without
+
+98
+00:01:49,510 --> 00:01:49,520
+easily go and make this decision without
+ 
+
+99
+00:01:49,520 --> 00:01:51,590
+easily go and make this decision without
+even needing you. For type C decisions,
+
+100
+00:01:51,590 --> 00:01:51,600
+even needing you. For type C decisions,
+ 
+
+101
+00:01:51,600 --> 00:01:52,789
+even needing you. For type C decisions,
+these are decisions that you're
+
+102
+00:01:52,789 --> 00:01:52,799
+these are decisions that you're
+ 
+
+103
+00:01:52,799 --> 00:01:54,710
+these are decisions that you're
+currently making that you could likely
+
+104
+00:01:54,710 --> 00:01:54,720
+currently making that you could likely
+ 
+
+105
+00:01:54,720 --> 00:01:56,469
+currently making that you could likely
+just automate. You know, I have one
+
+106
+00:01:56,469 --> 00:01:56,479
+just automate. You know, I have one
+ 
+
+107
+00:01:56,479 --> 00:01:58,709
+just automate. You know, I have one
+client that was able to go and implement
+
+108
+00:01:58,709 --> 00:01:58,719
+client that was able to go and implement
+ 
+
+109
+00:01:58,719 --> 00:02:00,310
+client that was able to go and implement
+some of these automations in their
+
+110
+00:02:00,310 --> 00:02:00,320
+some of these automations in their
+ 
+
+111
+00:02:00,320 --> 00:02:03,030
+some of these automations in their
+business and move from about 200 per
+
+112
+00:02:03,030 --> 00:02:03,040
+business and move from about 200 per
+ 
+
+113
+00:02:03,040 --> 00:02:04,709
+business and move from about 200 per
+week decisions that were in this type C
+
+114
+00:02:04,709 --> 00:02:04,719
+week decisions that were in this type C
+ 
+
+115
+00:02:04,719 --> 00:02:07,109
+week decisions that were in this type C
+bucket to just 15 that were left for
+
+116
+00:02:07,109 --> 00:02:07,119
+bucket to just 15 that were left for
+ 
+
+117
+00:02:07,119 --> 00:02:09,109
+bucket to just 15 that were left for
+them at the end of it. Pretty insane.
+
+118
+00:02:09,109 --> 00:02:09,119
+them at the end of it. Pretty insane.
+ 
+
+119
+00:02:09,119 --> 00:02:11,350
+them at the end of it. Pretty insane.
+This allowed them to get over 10 hours
+
+120
+00:02:11,350 --> 00:02:11,360
+This allowed them to get over 10 hours
+ 
+
+121
+00:02:11,360 --> 00:02:13,589
+This allowed them to get over 10 hours
+back a week. a week that they could then
+
+122
+00:02:13,589 --> 00:02:13,599
+back a week. a week that they could then
+ 
+
+123
+00:02:13,599 --> 00:02:15,110
+back a week. a week that they could then
+go and spend whether it's with their
+
+124
+00:02:15,110 --> 00:02:15,120
+go and spend whether it's with their
+ 
+
+125
+00:02:15,120 --> 00:02:16,710
+go and spend whether it's with their
+family or friends and enjoy more freedom
+
+126
+00:02:16,710 --> 00:02:16,720
+family or friends and enjoy more freedom
+ 
+
+127
+00:02:16,720 --> 00:02:18,869
+family or friends and enjoy more freedom
+in their lives or double down on the
+
+128
+00:02:18,869 --> 00:02:18,879
+in their lives or double down on the
+ 
+
+129
+00:02:18,879 --> 00:02:20,630
+in their lives or double down on the
+stuff that's in their zone of brilliance
+
+130
+00:02:20,630 --> 00:02:20,640
+stuff that's in their zone of brilliance
+ 
+
+131
+00:02:20,640 --> 00:02:22,470
+stuff that's in their zone of brilliance
+to go and help their business grow that
+
+132
+00:02:22,470 --> 00:02:22,480
+to go and help their business grow that
+ 
+
+133
+00:02:22,480 --> 00:02:25,510
+to go and help their business grow that
+much faster. System number two, your
+
+134
+00:02:25,510 --> 00:02:25,520
+much faster. System number two, your
+ 
+
+135
+00:02:25,520 --> 00:02:27,430
+much faster. System number two, your
+communication firewall. This is
+
+136
+00:02:27,430 --> 00:02:27,440
+communication firewall. This is
+ 
+
+137
+00:02:27,440 --> 00:02:29,750
+communication firewall. This is
+genuinely going to save your sanity. I
+
+138
+00:02:29,750 --> 00:02:29,760
+genuinely going to save your sanity. I
+ 
+
+139
+00:02:29,760 --> 00:02:32,070
+genuinely going to save your sanity. I
+talk to CEOs all the time that in any
+
+140
+00:02:32,070 --> 00:02:32,080
+talk to CEOs all the time that in any
+ 
+
+141
+00:02:32,080 --> 00:02:34,229
+talk to CEOs all the time that in any
+given day are just being inundated with
+
+142
+00:02:34,229 --> 00:02:34,239
+given day are just being inundated with
+ 
+
+143
+00:02:34,239 --> 00:02:37,030
+given day are just being inundated with
+communication from all directions. The
+
+144
+00:02:37,030 --> 00:02:37,040
+communication from all directions. The
+ 
+
+145
+00:02:37,040 --> 00:02:40,070
+communication from all directions. The
+goal is to have a comm company,
+
+146
+00:02:40,070 --> 00:02:40,080
+goal is to have a comm company,
+ 
+
+147
+00:02:40,080 --> 00:02:42,470
+goal is to have a comm company,
+something that runs on proven systems
+
+148
+00:02:42,470 --> 00:02:42,480
+something that runs on proven systems
+ 
+
+149
+00:02:42,480 --> 00:02:44,390
+something that runs on proven systems
+that you're able to remove yourself from
+
+150
+00:02:44,390 --> 00:02:44,400
+that you're able to remove yourself from
+ 
+
+151
+00:02:44,400 --> 00:02:46,710
+that you're able to remove yourself from
+most of the operations of it and it just
+
+152
+00:02:46,710 --> 00:02:46,720
+most of the operations of it and it just
+ 
+
+153
+00:02:46,720 --> 00:02:49,589
+most of the operations of it and it just
+runs on autopilot. Now, you're a CEO.
+
+154
+00:02:49,589 --> 00:02:49,599
+runs on autopilot. Now, you're a CEO.
+ 
+
+155
+00:02:49,599 --> 00:02:51,589
+runs on autopilot. Now, you're a CEO.
+You're not some glorified switchboard
+
+156
+00:02:51,589 --> 00:02:51,599
+You're not some glorified switchboard
+ 
+
+157
+00:02:51,599 --> 00:02:53,350
+You're not some glorified switchboard
+operator. Here's the structure. We're
+
+158
+00:02:53,350 --> 00:02:53,360
+operator. Here's the structure. We're
+ 
+
+159
+00:02:53,360 --> 00:02:55,110
+operator. Here's the structure. We're
+going to go through level one, level
+
+160
+00:02:55,110 --> 00:02:55,120
+going to go through level one, level
+ 
+
+161
+00:02:55,120 --> 00:02:57,990
+going to go through level one, level
+two, level three, and level four. Level
+
+162
+00:02:57,990 --> 00:02:58,000
+two, level three, and level four. Level
+ 
+
+163
+00:02:58,000 --> 00:03:01,190
+two, level three, and level four. Level
+one is emergencies only. And I get it
+
+164
+00:03:01,190 --> 00:03:01,200
+one is emergencies only. And I get it
+ 
+
+165
+00:03:01,200 --> 00:03:03,190
+one is emergencies only. And I get it
+right now. It may feel like there's a
+
+166
+00:03:03,190 --> 00:03:03,200
+right now. It may feel like there's a
+ 
+
+167
+00:03:03,200 --> 00:03:05,509
+right now. It may feel like there's a
+fire going off every few hours in your
+
+168
+00:03:05,509 --> 00:03:05,519
+fire going off every few hours in your
+ 
+
+169
+00:03:05,519 --> 00:03:07,509
+fire going off every few hours in your
+business. What I like to get to pretty
+
+170
+00:03:07,509 --> 00:03:07,519
+business. What I like to get to pretty
+ 
+
+171
+00:03:07,519 --> 00:03:09,830
+business. What I like to get to pretty
+quickly in any business I'm running is
+
+172
+00:03:09,830 --> 00:03:09,840
+quickly in any business I'm running is
+ 
+
+173
+00:03:09,840 --> 00:03:12,229
+quickly in any business I'm running is
+rule number one. There are no
+
+174
+00:03:12,229 --> 00:03:12,239
+rule number one. There are no
+ 
+
+175
+00:03:12,239 --> 00:03:14,390
+rule number one. There are no
+emergencies. You need to have people in
+
+176
+00:03:14,390 --> 00:03:14,400
+emergencies. You need to have people in
+ 
+
+177
+00:03:14,400 --> 00:03:16,869
+emergencies. You need to have people in
+place like a chief of staff, a COO, a
+
+178
+00:03:16,869 --> 00:03:16,879
+place like a chief of staff, a COO, a
+ 
+
+179
+00:03:16,879 --> 00:03:19,270
+place like a chief of staff, a COO, a
+CTO that are going and blocking and
+
+180
+00:03:19,270 --> 00:03:19,280
+CTO that are going and blocking and
+ 
+
+181
+00:03:19,280 --> 00:03:21,670
+CTO that are going and blocking and
+tackling your time and being your first
+
+182
+00:03:21,670 --> 00:03:21,680
+tackling your time and being your first
+ 
+
+183
+00:03:21,680 --> 00:03:23,910
+tackling your time and being your first
+line of defense against any of these
+
+184
+00:03:23,910 --> 00:03:23,920
+line of defense against any of these
+ 
+
+185
+00:03:23,920 --> 00:03:26,630
+line of defense against any of these
+emergencies. Level two is then same day
+
+186
+00:03:26,630 --> 00:03:26,640
+emergencies. Level two is then same day
+ 
+
+187
+00:03:26,640 --> 00:03:28,390
+emergencies. Level two is then same day
+response. This is things like Slack
+
+188
+00:03:28,390 --> 00:03:28,400
+response. This is things like Slack
+ 
+
+189
+00:03:28,400 --> 00:03:30,949
+response. This is things like Slack
+messages, emails, and all of that. One
+
+190
+00:03:30,949 --> 00:03:30,959
+messages, emails, and all of that. One
+ 
+
+191
+00:03:30,959 --> 00:03:32,390
+messages, emails, and all of that. One
+key thing you can start putting in place
+
+192
+00:03:32,390 --> 00:03:32,400
+key thing you can start putting in place
+ 
+
+193
+00:03:32,400 --> 00:03:34,149
+key thing you can start putting in place
+is a chief of staff. Someone to go and
+
+194
+00:03:34,149 --> 00:03:34,159
+is a chief of staff. Someone to go and
+ 
+
+195
+00:03:34,159 --> 00:03:35,509
+is a chief of staff. Someone to go and
+help you with all this internal
+
+196
+00:03:35,509 --> 00:03:35,519
+help you with all this internal
+ 
+
+197
+00:03:35,519 --> 00:03:37,190
+help you with all this internal
+communication so that you don't need to
+
+198
+00:03:37,190 --> 00:03:37,200
+communication so that you don't need to
+ 
+
+199
+00:03:37,200 --> 00:03:38,470
+communication so that you don't need to
+be in all of that. And they can just
+
+200
+00:03:38,470 --> 00:03:38,480
+be in all of that. And they can just
+ 
+
+201
+00:03:38,480 --> 00:03:40,949
+be in all of that. And they can just
+bubble up the core communication that
+
+202
+00:03:40,949 --> 00:03:40,959
+bubble up the core communication that
+ 
+
+203
+00:03:40,959 --> 00:03:42,789
+bubble up the core communication that
+you actually need to worry about, which
+
+204
+00:03:42,789 --> 00:03:42,799
+you actually need to worry about, which
+ 
+
+205
+00:03:42,799 --> 00:03:43,910
+you actually need to worry about, which
+if they're doing their job right,
+
+206
+00:03:43,910 --> 00:03:43,920
+if they're doing their job right,
+ 
+
+207
+00:03:43,920 --> 00:03:46,470
+if they're doing their job right,
+hopefully is less than three or so a
+
+208
+00:03:46,470 --> 00:03:46,480
+hopefully is less than three or so a
+ 
+
+209
+00:03:46,480 --> 00:03:48,789
+hopefully is less than three or so a
+day. Level three is your weekly batch.
+
+210
+00:03:48,789 --> 00:03:48,799
+day. Level three is your weekly batch.
+ 
+
+211
+00:03:48,799 --> 00:03:50,710
+day. Level three is your weekly batch.
+In my teams, we have a leadership
+
+212
+00:03:50,710 --> 00:03:50,720
+In my teams, we have a leadership
+ 
+
+213
+00:03:50,720 --> 00:03:52,630
+In my teams, we have a leadership
+meeting every single week. whether it's
+
+214
+00:03:52,630 --> 00:03:52,640
+meeting every single week. whether it's
+ 
+
+215
+00:03:52,640 --> 00:03:54,550
+meeting every single week. whether it's
+leaders trying to get answers from me on
+
+216
+00:03:54,550 --> 00:03:54,560
+leaders trying to get answers from me on
+ 
+
+217
+00:03:54,560 --> 00:03:56,229
+leaders trying to get answers from me on
+core things or me trying to get
+
+218
+00:03:56,229 --> 00:03:56,239
+core things or me trying to get
+ 
+
+219
+00:03:56,239 --> 00:03:58,710
+core things or me trying to get
+responses from them. When in doubt, I'm
+
+220
+00:03:58,710 --> 00:03:58,720
+responses from them. When in doubt, I'm
+ 
+
+221
+00:03:58,720 --> 00:04:00,949
+responses from them. When in doubt, I'm
+generally going and just pulling all of
+
+222
+00:04:00,949 --> 00:04:00,959
+generally going and just pulling all of
+ 
+
+223
+00:04:00,959 --> 00:04:03,270
+generally going and just pulling all of
+my requests into that meeting so they
+
+224
+00:04:03,270 --> 00:04:03,280
+my requests into that meeting so they
+ 
+
+225
+00:04:03,280 --> 00:04:05,589
+my requests into that meeting so they
+can all get answered in one go over an
+
+226
+00:04:05,589 --> 00:04:05,599
+can all get answered in one go over an
+ 
+
+227
+00:04:05,599 --> 00:04:07,670
+can all get answered in one go over an
+hourong meeting and then we can split,
+
+228
+00:04:07,670 --> 00:04:07,680
+hourong meeting and then we can split,
+ 
+
+229
+00:04:07,680 --> 00:04:09,429
+hourong meeting and then we can split,
+move along and I can get back to my
+
+230
+00:04:09,429 --> 00:04:09,439
+move along and I can get back to my
+ 
+
+231
+00:04:09,439 --> 00:04:11,589
+move along and I can get back to my
+focus regimen and they can get to theirs
+
+232
+00:04:11,589 --> 00:04:11,599
+focus regimen and they can get to theirs
+ 
+
+233
+00:04:11,599 --> 00:04:13,350
+focus regimen and they can get to theirs
+as well. And then we just go and divide
+
+234
+00:04:13,350 --> 00:04:13,360
+as well. And then we just go and divide
+ 
+
+235
+00:04:13,360 --> 00:04:15,429
+as well. And then we just go and divide
+and conquer. And as questions or
+
+236
+00:04:15,429 --> 00:04:15,439
+and conquer. And as questions or
+ 
+
+237
+00:04:15,439 --> 00:04:17,030
+and conquer. And as questions or
+challenges or opportunities come up,
+
+238
+00:04:17,030 --> 00:04:17,040
+challenges or opportunities come up,
+ 
+
+239
+00:04:17,040 --> 00:04:19,189
+challenges or opportunities come up,
+boom, that's what our Tuesday leadership
+
+240
+00:04:19,189 --> 00:04:19,199
+boom, that's what our Tuesday leadership
+ 
+
+241
+00:04:19,199 --> 00:04:21,670
+boom, that's what our Tuesday leadership
+meeting is for. Not sporadic emails, not
+
+242
+00:04:21,670 --> 00:04:21,680
+meeting is for. Not sporadic emails, not
+ 
+
+243
+00:04:21,680 --> 00:04:23,590
+meeting is for. Not sporadic emails, not
+pointless Slack messages. Leave it for
+
+244
+00:04:23,590 --> 00:04:23,600
+pointless Slack messages. Leave it for
+ 
+
+245
+00:04:23,600 --> 00:04:25,430
+pointless Slack messages. Leave it for
+the leadership meeting. Level four is
+
+246
+00:04:25,430 --> 00:04:25,440
+the leadership meeting. Level four is
+ 
+
+247
+00:04:25,440 --> 00:04:27,670
+the leadership meeting. Level four is
+your monthly strategic meetings. And so
+
+248
+00:04:27,670 --> 00:04:27,680
+your monthly strategic meetings. And so
+ 
+
+249
+00:04:27,680 --> 00:04:29,430
+your monthly strategic meetings. And so
+this is things like bigger team
+
+250
+00:04:29,430 --> 00:04:29,440
+this is things like bigger team
+ 
+
+251
+00:04:29,440 --> 00:04:31,430
+this is things like bigger team
+planning, bigger questions, you know,
+
+252
+00:04:31,430 --> 00:04:31,440
+planning, bigger questions, you know,
+ 
+
+253
+00:04:31,440 --> 00:04:32,710
+planning, bigger questions, you know,
+bigger initiatives that we want to make
+
+254
+00:04:32,710 --> 00:04:32,720
+bigger initiatives that we want to make
+ 
+
+255
+00:04:32,720 --> 00:04:34,230
+bigger initiatives that we want to make
+sure everyone's updated on. What I've
+
+256
+00:04:34,230 --> 00:04:34,240
+sure everyone's updated on. What I've
+ 
+
+257
+00:04:34,240 --> 00:04:35,990
+sure everyone's updated on. What I've
+seen work best for a lot of this stuff
+
+258
+00:04:35,990 --> 00:04:36,000
+seen work best for a lot of this stuff
+ 
+
+259
+00:04:36,000 --> 00:04:38,469
+seen work best for a lot of this stuff
+is to have a team jam every single
+
+260
+00:04:38,469 --> 00:04:38,479
+is to have a team jam every single
+ 
+
+261
+00:04:38,479 --> 00:04:40,310
+is to have a team jam every single
+month. And what we simply do is give a
+
+262
+00:04:40,310 --> 00:04:40,320
+month. And what we simply do is give a
+ 
+
+263
+00:04:40,320 --> 00:04:42,150
+month. And what we simply do is give a
+bit of a recap of the big wins of the
+
+264
+00:04:42,150 --> 00:04:42,160
+bit of a recap of the big wins of the
+ 
+
+265
+00:04:42,160 --> 00:04:44,550
+bit of a recap of the big wins of the
+month. We then jam around the vision for
+
+266
+00:04:44,550 --> 00:04:44,560
+month. We then jam around the vision for
+ 
+
+267
+00:04:44,560 --> 00:04:46,310
+month. We then jam around the vision for
+the company and how that ladders into
+
+268
+00:04:46,310 --> 00:04:46,320
+the company and how that ladders into
+ 
+
+269
+00:04:46,320 --> 00:04:47,749
+the company and how that ladders into
+what we're looking to accomplish the
+
+270
+00:04:47,749 --> 00:04:47,759
+what we're looking to accomplish the
+ 
+
+271
+00:04:47,759 --> 00:04:49,590
+what we're looking to accomplish the
+next month. And then we open up the
+
+272
+00:04:49,590 --> 00:04:49,600
+next month. And then we open up the
+ 
+
+273
+00:04:49,600 --> 00:04:51,909
+next month. And then we open up the
+floor for a team brainstorm and how we
+
+274
+00:04:51,909 --> 00:04:51,919
+floor for a team brainstorm and how we
+ 
+
+275
+00:04:51,919 --> 00:04:53,590
+floor for a team brainstorm and how we
+can go and create things like
+
+276
+00:04:53,590 --> 00:04:53,600
+can go and create things like
+ 
+
+277
+00:04:53,600 --> 00:04:56,310
+can go and create things like
+exceptional content for you the founder.
+
+278
+00:04:56,310 --> 00:04:56,320
+exceptional content for you the founder.
+ 
+
+279
+00:04:56,320 --> 00:04:57,270
+exceptional content for you the founder.
+All right, so you've got your
+
+280
+00:04:57,270 --> 00:04:57,280
+All right, so you've got your
+ 
+
+281
+00:04:57,280 --> 00:04:59,350
+All right, so you've got your
+communication firewall in place, but now
+
+282
+00:04:59,350 --> 00:04:59,360
+communication firewall in place, but now
+ 
+
+283
+00:04:59,360 --> 00:05:01,590
+communication firewall in place, but now
+it's time to actually get an amazing
+
+284
+00:05:01,590 --> 00:05:01,600
+it's time to actually get an amazing
+ 
+
+285
+00:05:01,600 --> 00:05:03,670
+it's time to actually get an amazing
+delegation framework into your business.
+
+286
+00:05:03,670 --> 00:05:03,680
+delegation framework into your business.
+ 
+
+287
+00:05:03,680 --> 00:05:05,990
+delegation framework into your business.
+So system number three, the delegation
+
+288
+00:05:05,990 --> 00:05:06,000
+So system number three, the delegation
+ 
+
+289
+00:05:06,000 --> 00:05:08,629
+So system number three, the delegation
+framework. Most founders neglect this.
+
+290
+00:05:08,629 --> 00:05:08,639
+framework. Most founders neglect this.
+ 
+
+291
+00:05:08,639 --> 00:05:10,469
+framework. Most founders neglect this.
+And what ends up happening is they've
+
+292
+00:05:10,469 --> 00:05:10,479
+And what ends up happening is they've
+ 
+
+293
+00:05:10,479 --> 00:05:12,469
+And what ends up happening is they've
+got amazing people on their team, but
+
+294
+00:05:12,469 --> 00:05:12,479
+got amazing people on their team, but
+ 
+
+295
+00:05:12,479 --> 00:05:13,990
+got amazing people on their team, but
+they're not actually leveraging these
+
+296
+00:05:13,990 --> 00:05:14,000
+they're not actually leveraging these
+ 
+
+297
+00:05:14,000 --> 00:05:15,510
+they're not actually leveraging these
+humans to their fullest of their
+
+298
+00:05:15,510 --> 00:05:15,520
+humans to their fullest of their
+ 
+
+299
+00:05:15,520 --> 00:05:17,189
+humans to their fullest of their
+capabilities. I know many of you have
+
+300
+00:05:17,189 --> 00:05:17,199
+capabilities. I know many of you have
+ 
+
+301
+00:05:17,199 --> 00:05:19,029
+capabilities. I know many of you have
+asked me for delegation help and this is
+
+302
+00:05:19,029 --> 00:05:19,039
+asked me for delegation help and this is
+ 
+
+303
+00:05:19,039 --> 00:05:21,590
+asked me for delegation help and this is
+exactly my system for doing it. It has
+
+304
+00:05:21,590 --> 00:05:21,600
+exactly my system for doing it. It has
+ 
+
+305
+00:05:21,600 --> 00:05:24,310
+exactly my system for doing it. It has
+three parts. Let's get into it. Part
+
+306
+00:05:24,310 --> 00:05:24,320
+three parts. Let's get into it. Part
+ 
+
+307
+00:05:24,320 --> 00:05:27,670
+three parts. Let's get into it. Part
+number one is the brain dump. You've got
+
+308
+00:05:27,670 --> 00:05:27,680
+number one is the brain dump. You've got
+ 
+
+309
+00:05:27,680 --> 00:05:30,230
+number one is the brain dump. You've got
+to go and audit your calendar and your
+
+310
+00:05:30,230 --> 00:05:30,240
+to go and audit your calendar and your
+ 
+
+311
+00:05:30,240 --> 00:05:32,390
+to go and audit your calendar and your
+to-do list for every single task that
+
+312
+00:05:32,390 --> 00:05:32,400
+to-do list for every single task that
+ 
+
+313
+00:05:32,400 --> 00:05:34,390
+to-do list for every single task that
+you've worked on over the last month. Go
+
+314
+00:05:34,390 --> 00:05:34,400
+you've worked on over the last month. Go
+ 
+
+315
+00:05:34,400 --> 00:05:36,390
+you've worked on over the last month. Go
+and document every single task you've
+
+316
+00:05:36,390 --> 00:05:36,400
+and document every single task you've
+ 
+
+317
+00:05:36,400 --> 00:05:39,430
+and document every single task you've
+done. Number two, the quality filter. At
+
+318
+00:05:39,430 --> 00:05:39,440
+done. Number two, the quality filter. At
+ 
+
+319
+00:05:39,440 --> 00:05:41,029
+done. Number two, the quality filter. At
+this point, what you want to go and do
+
+320
+00:05:41,029 --> 00:05:41,039
+this point, what you want to go and do
+ 
+
+321
+00:05:41,039 --> 00:05:43,510
+this point, what you want to go and do
+is go and mark every single one of those
+
+322
+00:05:43,510 --> 00:05:43,520
+is go and mark every single one of those
+ 
+
+323
+00:05:43,520 --> 00:05:46,150
+is go and mark every single one of those
+tasks that you probably should not be
+
+324
+00:05:46,150 --> 00:05:46,160
+tasks that you probably should not be
+ 
+
+325
+00:05:46,160 --> 00:05:47,590
+tasks that you probably should not be
+doing any longer and that you could
+
+326
+00:05:47,590 --> 00:05:47,600
+doing any longer and that you could
+ 
+
+327
+00:05:47,600 --> 00:05:49,749
+doing any longer and that you could
+better give to someone on your team that
+
+328
+00:05:49,749 --> 00:05:49,759
+better give to someone on your team that
+ 
+
+329
+00:05:49,759 --> 00:05:52,070
+better give to someone on your team that
+can do it as good or better than you.
+
+330
+00:05:52,070 --> 00:05:52,080
+can do it as good or better than you.
+ 
+
+331
+00:05:52,080 --> 00:05:53,749
+can do it as good or better than you.
+So, you've gone and you've listed all
+
+332
+00:05:53,749 --> 00:05:53,759
+So, you've gone and you've listed all
+ 
+
+333
+00:05:53,759 --> 00:05:55,510
+So, you've gone and you've listed all
+the tasks. You've now assigned it to
+
+334
+00:05:55,510 --> 00:05:55,520
+the tasks. You've now assigned it to
+ 
+
+335
+00:05:55,520 --> 00:05:57,670
+the tasks. You've now assigned it to
+someone on your team. Here is where the
+
+336
+00:05:57,670 --> 00:05:57,680
+someone on your team. Here is where the
+ 
+
+337
+00:05:57,680 --> 00:05:59,430
+someone on your team. Here is where the
+magic comes in. We want to go and make
+
+338
+00:05:59,430 --> 00:05:59,440
+magic comes in. We want to go and make
+ 
+
+339
+00:05:59,440 --> 00:06:01,029
+magic comes in. We want to go and make
+sure that there's a Google Doc system
+
+340
+00:06:01,029 --> 00:06:01,039
+sure that there's a Google Doc system
+ 
+
+341
+00:06:01,039 --> 00:06:03,510
+sure that there's a Google Doc system
+for that given thing that allows people
+
+342
+00:06:03,510 --> 00:06:03,520
+for that given thing that allows people
+ 
+
+343
+00:06:03,520 --> 00:06:06,469
+for that given thing that allows people
+to go and simply execute that system and
+
+344
+00:06:06,469 --> 00:06:06,479
+to go and simply execute that system and
+ 
+
+345
+00:06:06,479 --> 00:06:08,469
+to go and simply execute that system and
+do it as well as us. And then the second
+
+346
+00:06:08,469 --> 00:06:08,479
+do it as well as us. And then the second
+ 
+
+347
+00:06:08,479 --> 00:06:09,909
+do it as well as us. And then the second
+thing we're going to do is make sure
+
+348
+00:06:09,909 --> 00:06:09,919
+thing we're going to do is make sure
+ 
+
+349
+00:06:09,919 --> 00:06:12,309
+thing we're going to do is make sure
+that there's a Loom video for every
+
+350
+00:06:12,309 --> 00:06:12,319
+that there's a Loom video for every
+ 
+
+351
+00:06:12,319 --> 00:06:14,390
+that there's a Loom video for every
+single thing we're delegating. Now, I
+
+352
+00:06:14,390 --> 00:06:14,400
+single thing we're delegating. Now, I
+ 
+
+353
+00:06:14,400 --> 00:06:15,749
+single thing we're delegating. Now, I
+get it. You could be thinking, "Matt,
+
+354
+00:06:15,749 --> 00:06:15,759
+get it. You could be thinking, "Matt,
+ 
+
+355
+00:06:15,759 --> 00:06:17,510
+get it. You could be thinking, "Matt,
+that's crazy. That's so much work." You
+
+356
+00:06:17,510 --> 00:06:17,520
+that's crazy. That's so much work." You
+ 
+
+357
+00:06:17,520 --> 00:06:20,150
+that's crazy. That's so much work." You
+know what's more work than that? You
+
+358
+00:06:20,150 --> 00:06:20,160
+know what's more work than that? You
+ 
+
+359
+00:06:20,160 --> 00:06:22,469
+know what's more work than that? You
+doing it. So, part number three is the
+
+360
+00:06:22,469 --> 00:06:22,479
+doing it. So, part number three is the
+ 
+
+361
+00:06:22,479 --> 00:06:24,390
+doing it. So, part number three is the
+feedback loop. You've now gone and
+
+362
+00:06:24,390 --> 00:06:24,400
+feedback loop. You've now gone and
+ 
+
+363
+00:06:24,400 --> 00:06:26,469
+feedback loop. You've now gone and
+handed off that system and the Loom
+
+364
+00:06:26,469 --> 00:06:26,479
+handed off that system and the Loom
+ 
+
+365
+00:06:26,479 --> 00:06:28,230
+handed off that system and the Loom
+video to someone on your team so they
+
+366
+00:06:28,230 --> 00:06:28,240
+video to someone on your team so they
+ 
+
+367
+00:06:28,240 --> 00:06:29,670
+video to someone on your team so they
+could be the systems owner going
+
+368
+00:06:29,670 --> 00:06:29,680
+could be the systems owner going
+ 
+
+369
+00:06:29,680 --> 00:06:31,590
+could be the systems owner going
+forward. The key thing now is that they
+
+370
+00:06:31,590 --> 00:06:31,600
+forward. The key thing now is that they
+ 
+
+371
+00:06:31,600 --> 00:06:33,110
+forward. The key thing now is that they
+feel comfortable with that, that they
+
+372
+00:06:33,110 --> 00:06:33,120
+feel comfortable with that, that they
+ 
+
+373
+00:06:33,120 --> 00:06:34,390
+feel comfortable with that, that they
+feel like they know the ropes and
+
+374
+00:06:34,390 --> 00:06:34,400
+feel like they know the ropes and
+ 
+
+375
+00:06:34,400 --> 00:06:35,749
+feel like they know the ropes and
+they're able to implement it correctly.
+
+376
+00:06:35,749 --> 00:06:35,759
+they're able to implement it correctly.
+ 
+
+377
+00:06:35,759 --> 00:06:37,270
+they're able to implement it correctly.
+So, what you're going to do is when you
+
+378
+00:06:37,270 --> 00:06:37,280
+So, what you're going to do is when you
+ 
+
+379
+00:06:37,280 --> 00:06:39,029
+So, what you're going to do is when you
+go and hand that off and that person's
+
+380
+00:06:39,029 --> 00:06:39,039
+go and hand that off and that person's
+ 
+
+381
+00:06:39,039 --> 00:06:40,870
+go and hand that off and that person's
+now owning it, you're going to check in
+
+382
+00:06:40,870 --> 00:06:40,880
+now owning it, you're going to check in
+ 
+
+383
+00:06:40,880 --> 00:06:42,950
+now owning it, you're going to check in
+with them a week later and say, "What is
+
+384
+00:06:42,950 --> 00:06:42,960
+with them a week later and say, "What is
+ 
+
+385
+00:06:42,960 --> 00:06:44,710
+with them a week later and say, "What is
+your confidence level with this on a
+
+386
+00:06:44,710 --> 00:06:44,720
+your confidence level with this on a
+ 
+
+387
+00:06:44,720 --> 00:06:46,629
+your confidence level with this on a
+scale of 1 to 10?" The key thing is
+
+388
+00:06:46,629 --> 00:06:46,639
+scale of 1 to 10?" The key thing is
+ 
+
+389
+00:06:46,639 --> 00:06:48,469
+scale of 1 to 10?" The key thing is
+implementing each of these three parts
+
+390
+00:06:48,469 --> 00:06:48,479
+implementing each of these three parts
+ 
+
+391
+00:06:48,479 --> 00:06:50,390
+implementing each of these three parts
+to go and make sure that you have the
+
+392
+00:06:50,390 --> 00:06:50,400
+to go and make sure that you have the
+ 
+
+393
+00:06:50,400 --> 00:06:52,710
+to go and make sure that you have the
+right delegation system in place in your
+
+394
+00:06:52,710 --> 00:06:52,720
+right delegation system in place in your
+ 
+
+395
+00:06:52,720 --> 00:06:54,550
+right delegation system in place in your
+company. To go and get the most of the
+
+396
+00:06:54,550 --> 00:06:54,560
+company. To go and get the most of the
+ 
+
+397
+00:06:54,560 --> 00:06:56,150
+company. To go and get the most of the
+structure you're building, you need the
+
+398
+00:06:56,150 --> 00:06:56,160
+structure you're building, you need the
+ 
+
+399
+00:06:56,160 --> 00:06:58,230
+structure you're building, you need the
+great systems and people trained on
+
+400
+00:06:58,230 --> 00:06:58,240
+great systems and people trained on
+ 
+
+401
+00:06:58,240 --> 00:06:59,830
+great systems and people trained on
+them. And this is exactly what the
+
+402
+00:06:59,830 --> 00:06:59,840
+them. And this is exactly what the
+ 
+
+403
+00:06:59,840 --> 00:07:01,350
+them. And this is exactly what the
+delegation framework's going to help you
+
+404
+00:07:01,350 --> 00:07:01,360
+delegation framework's going to help you
+ 
+
+405
+00:07:01,360 --> 00:07:03,510
+delegation framework's going to help you
+do. System number four, the approval
+
+406
+00:07:03,510 --> 00:07:03,520
+do. System number four, the approval
+ 
+
+407
+00:07:03,520 --> 00:07:05,670
+do. System number four, the approval
+matrix. This is where it's all about
+
+408
+00:07:05,670 --> 00:07:05,680
+matrix. This is where it's all about
+ 
+
+409
+00:07:05,680 --> 00:07:07,830
+matrix. This is where it's all about
+determining what sort of decisions
+
+410
+00:07:07,830 --> 00:07:07,840
+determining what sort of decisions
+ 
+
+411
+00:07:07,840 --> 00:07:09,350
+determining what sort of decisions
+people are allowed to be making,
+
+412
+00:07:09,350 --> 00:07:09,360
+people are allowed to be making,
+ 
+
+413
+00:07:09,360 --> 00:07:11,029
+people are allowed to be making,
+especially as it pertains to money. I
+
+414
+00:07:11,029 --> 00:07:11,039
+especially as it pertains to money. I
+ 
+
+415
+00:07:11,039 --> 00:07:11,990
+especially as it pertains to money. I
+like to think of it generally like
+
+416
+00:07:11,990 --> 00:07:12,000
+like to think of it generally like
+ 
+
+417
+00:07:12,000 --> 00:07:13,430
+like to think of it generally like
+there's three different rungs here,
+
+418
+00:07:13,430 --> 00:07:13,440
+there's three different rungs here,
+ 
+
+419
+00:07:13,440 --> 00:07:15,189
+there's three different rungs here,
+right? You have your individual
+
+420
+00:07:15,189 --> 00:07:15,199
+right? You have your individual
+ 
+
+421
+00:07:15,199 --> 00:07:17,670
+right? You have your individual
+contributors, you have your team leads,
+
+422
+00:07:17,670 --> 00:07:17,680
+contributors, you have your team leads,
+ 
+
+423
+00:07:17,680 --> 00:07:19,909
+contributors, you have your team leads,
+and you have executives. When it comes
+
+424
+00:07:19,909 --> 00:07:19,919
+and you have executives. When it comes
+ 
+
+425
+00:07:19,919 --> 00:07:22,150
+and you have executives. When it comes
+to level one, your individual
+
+426
+00:07:22,150 --> 00:07:22,160
+to level one, your individual
+ 
+
+427
+00:07:22,160 --> 00:07:24,390
+to level one, your individual
+contributors, right? This is people, you
+
+428
+00:07:24,390 --> 00:07:24,400
+contributors, right? This is people, you
+ 
+
+429
+00:07:24,400 --> 00:07:26,070
+contributors, right? This is people, you
+know, that are maybe writers on your
+
+430
+00:07:26,070 --> 00:07:26,080
+know, that are maybe writers on your
+ 
+
+431
+00:07:26,080 --> 00:07:28,230
+know, that are maybe writers on your
+team, right? Or maybe it's someone on a
+
+432
+00:07:28,230 --> 00:07:28,240
+team, right? Or maybe it's someone on a
+ 
+
+433
+00:07:28,240 --> 00:07:30,309
+team, right? Or maybe it's someone on a
+sales squad. Inevitably, what you may
+
+434
+00:07:30,309 --> 00:07:30,319
+sales squad. Inevitably, what you may
+ 
+
+435
+00:07:30,319 --> 00:07:31,909
+sales squad. Inevitably, what you may
+say is they're allowed to make decisions
+
+436
+00:07:31,909 --> 00:07:31,919
+say is they're allowed to make decisions
+ 
+
+437
+00:07:31,919 --> 00:07:34,870
+say is they're allowed to make decisions
+that are $2,000 or less. They're welcome
+
+438
+00:07:34,870 --> 00:07:34,880
+that are $2,000 or less. They're welcome
+ 
+
+439
+00:07:34,880 --> 00:07:36,790
+that are $2,000 or less. They're welcome
+to go and suggest a new piece of
+
+440
+00:07:36,790 --> 00:07:36,800
+to go and suggest a new piece of
+ 
+
+441
+00:07:36,800 --> 00:07:38,710
+to go and suggest a new piece of
+software and pull the trigger on it.
+
+442
+00:07:38,710 --> 00:07:38,720
+software and pull the trigger on it.
+ 
+
+443
+00:07:38,720 --> 00:07:41,589
+software and pull the trigger on it.
+They are welcome to go and run certain
+
+444
+00:07:41,589 --> 00:07:41,599
+They are welcome to go and run certain
+ 
+
+445
+00:07:41,599 --> 00:07:43,270
+They are welcome to go and run certain
+discounts or promotions on your stuff,
+
+446
+00:07:43,270 --> 00:07:43,280
+discounts or promotions on your stuff,
+ 
+
+447
+00:07:43,280 --> 00:07:45,830
+discounts or promotions on your stuff,
+assuming it's no more than $2,000. But
+
+448
+00:07:45,830 --> 00:07:45,840
+assuming it's no more than $2,000. But
+ 
+
+449
+00:07:45,840 --> 00:07:47,830
+assuming it's no more than $2,000. But
+anything more than that leads to level
+
+450
+00:07:47,830 --> 00:07:47,840
+anything more than that leads to level
+ 
+
+451
+00:07:47,840 --> 00:07:50,390
+anything more than that leads to level
+two. This is where the team leads come
+
+452
+00:07:50,390 --> 00:07:50,400
+two. This is where the team leads come
+ 
+
+453
+00:07:50,400 --> 00:07:52,469
+two. This is where the team leads come
+in. So team leads, you may deem that
+
+454
+00:07:52,469 --> 00:07:52,479
+in. So team leads, you may deem that
+ 
+
+455
+00:07:52,479 --> 00:07:53,909
+in. So team leads, you may deem that
+these people are the ones that need to
+
+456
+00:07:53,909 --> 00:07:53,919
+these people are the ones that need to
+ 
+
+457
+00:07:53,919 --> 00:07:57,029
+these people are the ones that need to
+make decisions between $2 and $30,000.
+
+458
+00:07:57,029 --> 00:07:57,039
+make decisions between $2 and $30,000.
+ 
+
+459
+00:07:57,039 --> 00:07:59,510
+make decisions between $2 and $30,000.
+So they can go and approve a new hire.
+
+460
+00:07:59,510 --> 00:07:59,520
+So they can go and approve a new hire.
+ 
+
+461
+00:07:59,520 --> 00:08:02,469
+So they can go and approve a new hire.
+They can go and implement a little team
+
+462
+00:08:02,469 --> 00:08:02,479
+They can go and implement a little team
+ 
+
+463
+00:08:02,479 --> 00:08:05,029
+They can go and implement a little team
+dinner or you know retreat. They must be
+
+464
+00:08:05,029 --> 00:08:05,039
+dinner or you know retreat. They must be
+ 
+
+465
+00:08:05,039 --> 00:08:06,550
+dinner or you know retreat. They must be
+consulted though with any decision
+
+466
+00:08:06,550 --> 00:08:06,560
+consulted though with any decision
+ 
+
+467
+00:08:06,560 --> 00:08:09,029
+consulted though with any decision
+between 2 and 30k. That leads us then to
+
+468
+00:08:09,029 --> 00:08:09,039
+between 2 and 30k. That leads us then to
+ 
+
+469
+00:08:09,039 --> 00:08:10,790
+between 2 and 30k. That leads us then to
+the next level, right? Any decisions
+
+470
+00:08:10,790 --> 00:08:10,800
+the next level, right? Any decisions
+ 
+
+471
+00:08:10,800 --> 00:08:13,830
+the next level, right? Any decisions
+over $30,000. This is where it must go
+
+472
+00:08:13,830 --> 00:08:13,840
+over $30,000. This is where it must go
+ 
+
+473
+00:08:13,840 --> 00:08:15,909
+over $30,000. This is where it must go
+by an executive. It's when we're making
+
+474
+00:08:15,909 --> 00:08:15,919
+by an executive. It's when we're making
+ 
+
+475
+00:08:15,919 --> 00:08:17,749
+by an executive. It's when we're making
+bigger decisions and strategic decisions
+
+476
+00:08:17,749 --> 00:08:17,759
+bigger decisions and strategic decisions
+ 
+
+477
+00:08:17,759 --> 00:08:19,510
+bigger decisions and strategic decisions
+that are going to influence the company
+
+478
+00:08:19,510 --> 00:08:19,520
+that are going to influence the company
+ 
+
+479
+00:08:19,520 --> 00:08:21,110
+that are going to influence the company
+direction in a big way. you know, we're
+
+480
+00:08:21,110 --> 00:08:21,120
+direction in a big way. you know, we're
+ 
+
+481
+00:08:21,120 --> 00:08:22,150
+direction in a big way. you know, we're
+going to make sure that we bring those
+
+482
+00:08:22,150 --> 00:08:22,160
+going to make sure that we bring those
+ 
+
+483
+00:08:22,160 --> 00:08:23,749
+going to make sure that we bring those
+to the executives on the team because
+
+484
+00:08:23,749 --> 00:08:23,759
+to the executives on the team because
+ 
+
+485
+00:08:23,759 --> 00:08:25,749
+to the executives on the team because
+they are the ones that have the approval
+
+486
+00:08:25,749 --> 00:08:25,759
+they are the ones that have the approval
+ 
+
+487
+00:08:25,759 --> 00:08:27,830
+they are the ones that have the approval
+to make those kinds of decisions. Set
+
+488
+00:08:27,830 --> 00:08:27,840
+to make those kinds of decisions. Set
+ 
+
+489
+00:08:27,840 --> 00:08:29,510
+to make those kinds of decisions. Set
+thresholds based on what you can afford
+
+490
+00:08:29,510 --> 00:08:29,520
+thresholds based on what you can afford
+ 
+
+491
+00:08:29,520 --> 00:08:31,029
+thresholds based on what you can afford
+to lose, not what just makes you
+
+492
+00:08:31,029 --> 00:08:31,039
+to lose, not what just makes you
+ 
+
+493
+00:08:31,039 --> 00:08:33,029
+to lose, not what just makes you
+comfortable. I'd much rather my team
+
+494
+00:08:33,029 --> 00:08:33,039
+comfortable. I'd much rather my team
+ 
+
+495
+00:08:33,039 --> 00:08:35,029
+comfortable. I'd much rather my team
+make 50 small decisions and make some
+
+496
+00:08:35,029 --> 00:08:35,039
+make 50 small decisions and make some
+ 
+
+497
+00:08:35,039 --> 00:08:36,469
+make 50 small decisions and make some
+mistakes along the way than me
+
+498
+00:08:36,469 --> 00:08:36,479
+mistakes along the way than me
+ 
+
+499
+00:08:36,479 --> 00:08:38,469
+mistakes along the way than me
+micromanaging every little decision
+
+500
+00:08:38,469 --> 00:08:38,479
+micromanaging every little decision
+ 
+
+501
+00:08:38,479 --> 00:08:41,269
+micromanaging every little decision
+along the way. System number five, the
+
+502
+00:08:41,269 --> 00:08:41,279
+along the way. System number five, the
+ 
+
+503
+00:08:41,279 --> 00:08:43,670
+along the way. System number five, the
+information dashboard. The truth is, you
+
+504
+00:08:43,670 --> 00:08:43,680
+information dashboard. The truth is, you
+ 
+
+505
+00:08:43,680 --> 00:08:45,750
+information dashboard. The truth is, you
+need data to run your business, but you
+
+506
+00:08:45,750 --> 00:08:45,760
+need data to run your business, but you
+ 
+
+507
+00:08:45,760 --> 00:08:48,310
+need data to run your business, but you
+don't need to be buried in it. I see
+
+508
+00:08:48,310 --> 00:08:48,320
+don't need to be buried in it. I see
+ 
+
+509
+00:08:48,320 --> 00:08:50,630
+don't need to be buried in it. I see
+some founders that are tracking like 60
+
+510
+00:08:50,630 --> 00:08:50,640
+some founders that are tracking like 60
+ 
+
+511
+00:08:50,640 --> 00:08:52,470
+some founders that are tracking like 60
+metrics across their business and I
+
+512
+00:08:52,470 --> 00:08:52,480
+metrics across their business and I
+ 
+
+513
+00:08:52,480 --> 00:08:55,030
+metrics across their business and I
+think it's just information overload.
+
+514
+00:08:55,030 --> 00:08:55,040
+think it's just information overload.
+ 
+
+515
+00:08:55,040 --> 00:08:57,430
+think it's just information overload.
+Most businesses can be run off of an
+
+516
+00:08:57,430 --> 00:08:57,440
+Most businesses can be run off of an
+ 
+
+517
+00:08:57,440 --> 00:09:00,949
+Most businesses can be run off of an
+acronym that is ACDC just like that rock
+
+518
+00:09:00,949 --> 00:09:00,959
+acronym that is ACDC just like that rock
+ 
+
+519
+00:09:00,959 --> 00:09:05,190
+acronym that is ACDC just like that rock
+band. AC/DC stands for attract, convert,
+
+520
+00:09:05,190 --> 00:09:05,200
+band. AC/DC stands for attract, convert,
+ 
+
+521
+00:09:05,200 --> 00:09:07,990
+band. AC/DC stands for attract, convert,
+deliver, collect. Attract is your
+
+522
+00:09:07,990 --> 00:09:08,000
+deliver, collect. Attract is your
+ 
+
+523
+00:09:08,000 --> 00:09:10,230
+deliver, collect. Attract is your
+ability to go and attract people that
+
+524
+00:09:10,230 --> 00:09:10,240
+ability to go and attract people that
+ 
+
+525
+00:09:10,240 --> 00:09:12,790
+ability to go and attract people that
+you can sell to. Convert is your ability
+
+526
+00:09:12,790 --> 00:09:12,800
+you can sell to. Convert is your ability
+ 
+
+527
+00:09:12,800 --> 00:09:14,710
+you can sell to. Convert is your ability
+to then convert those people to your
+
+528
+00:09:14,710 --> 00:09:14,720
+to then convert those people to your
+ 
+
+529
+00:09:14,720 --> 00:09:16,710
+to then convert those people to your
+product or service. deliver is your
+
+530
+00:09:16,710 --> 00:09:16,720
+product or service. deliver is your
+ 
+
+531
+00:09:16,720 --> 00:09:19,509
+product or service. deliver is your
+ability to go and give people an amazing
+
+532
+00:09:19,509 --> 00:09:19,519
+ability to go and give people an amazing
+ 
+
+533
+00:09:19,519 --> 00:09:22,070
+ability to go and give people an amazing
+customer experience and then collect is
+
+534
+00:09:22,070 --> 00:09:22,080
+customer experience and then collect is
+ 
+
+535
+00:09:22,080 --> 00:09:23,590
+customer experience and then collect is
+your ability to actually go and collect
+
+536
+00:09:23,590 --> 00:09:23,600
+your ability to actually go and collect
+ 
+
+537
+00:09:23,600 --> 00:09:25,430
+your ability to actually go and collect
+the cash that is owed to you. What I
+
+538
+00:09:25,430 --> 00:09:25,440
+the cash that is owed to you. What I
+ 
+
+539
+00:09:25,440 --> 00:09:28,470
+the cash that is owed to you. What I
+like to do is across these four
+
+540
+00:09:28,470 --> 00:09:28,480
+like to do is across these four
+ 
+
+541
+00:09:28,480 --> 00:09:31,590
+like to do is across these four
+categories to come up with three key
+
+542
+00:09:31,590 --> 00:09:31,600
+categories to come up with three key
+ 
+
+543
+00:09:31,600 --> 00:09:34,310
+categories to come up with three key
+metrics that determine the success of
+
+544
+00:09:34,310 --> 00:09:34,320
+metrics that determine the success of
+ 
+
+545
+00:09:34,320 --> 00:09:36,389
+metrics that determine the success of
+that given area. So then I go and I put
+
+546
+00:09:36,389 --> 00:09:36,399
+that given area. So then I go and I put
+ 
+
+547
+00:09:36,399 --> 00:09:37,990
+that given area. So then I go and I put
+each of these metrics into a Google
+
+548
+00:09:37,990 --> 00:09:38,000
+each of these metrics into a Google
+ 
+
+549
+00:09:38,000 --> 00:09:39,829
+each of these metrics into a Google
+sheet and be able to track it on a
+
+550
+00:09:39,829 --> 00:09:39,839
+sheet and be able to track it on a
+ 
+
+551
+00:09:39,839 --> 00:09:41,190
+sheet and be able to track it on a
+weekly basis. So on each of those
+
+552
+00:09:41,190 --> 00:09:41,200
+weekly basis. So on each of those
+ 
+
+553
+00:09:41,200 --> 00:09:42,870
+weekly basis. So on each of those
+leadership meetings, we can see how
+
+554
+00:09:42,870 --> 00:09:42,880
+leadership meetings, we can see how
+ 
+
+555
+00:09:42,880 --> 00:09:44,790
+leadership meetings, we can see how
+we're doing across these 12 core key
+
+556
+00:09:44,790 --> 00:09:44,800
+we're doing across these 12 core key
+ 
+
+557
+00:09:44,800 --> 00:09:47,030
+we're doing across these 12 core key
+metrics that are across attract,
+
+558
+00:09:47,030 --> 00:09:47,040
+metrics that are across attract,
+ 
+
+559
+00:09:47,040 --> 00:09:49,829
+metrics that are across attract,
+convert, deliver, and collect. Now, I've
+
+560
+00:09:49,829 --> 00:09:49,839
+convert, deliver, and collect. Now, I've
+ 
+
+561
+00:09:49,839 --> 00:09:51,670
+convert, deliver, and collect. Now, I've
+gone and made a template that you can go
+
+562
+00:09:51,670 --> 00:09:51,680
+gone and made a template that you can go
+ 
+
+563
+00:09:51,680 --> 00:09:53,110
+gone and made a template that you can go
+and download via the link in the
+
+564
+00:09:53,110 --> 00:09:53,120
+and download via the link in the
+ 
+
+565
+00:09:53,120 --> 00:09:54,470
+and download via the link in the
+description. So you can go and implement
+
+566
+00:09:54,470 --> 00:09:54,480
+description. So you can go and implement
+ 
+
+567
+00:09:54,480 --> 00:09:57,350
+description. So you can go and implement
+this with your team today. So now your
+
+568
+00:09:57,350 --> 00:09:57,360
+this with your team today. So now your
+ 
+
+569
+00:09:57,360 --> 00:09:58,870
+this with your team today. So now your
+team's rocking and rolling. They've got
+
+570
+00:09:58,870 --> 00:09:58,880
+team's rocking and rolling. They've got
+ 
+
+571
+00:09:58,880 --> 00:10:00,870
+team's rocking and rolling. They've got
+their scoreboard and you think things
+
+572
+00:10:00,870 --> 00:10:00,880
+their scoreboard and you think things
+ 
+
+573
+00:10:00,880 --> 00:10:03,509
+their scoreboard and you think things
+are going to go well, but inevitably
+
+574
+00:10:03,509 --> 00:10:03,519
+are going to go well, but inevitably
+ 
+
+575
+00:10:03,519 --> 00:10:05,990
+are going to go well, but inevitably
+some problem comes up. And that's where
+
+576
+00:10:05,990 --> 00:10:06,000
+some problem comes up. And that's where
+ 
+
+577
+00:10:06,000 --> 00:10:07,990
+some problem comes up. And that's where
+system number six comes in. The
+
+578
+00:10:07,990 --> 00:10:08,000
+system number six comes in. The
+ 
+
+579
+00:10:08,000 --> 00:10:09,829
+system number six comes in. The
+escalation protocol has three different
+
+580
+00:10:09,829 --> 00:10:09,839
+escalation protocol has three different
+ 
+
+581
+00:10:09,839 --> 00:10:12,310
+escalation protocol has three different
+levels. So level one are decisions that
+
+582
+00:10:12,310 --> 00:10:12,320
+levels. So level one are decisions that
+ 
+
+583
+00:10:12,320 --> 00:10:13,910
+levels. So level one are decisions that
+your team could just handle. And this is
+
+584
+00:10:13,910 --> 00:10:13,920
+your team could just handle. And this is
+ 
+
+585
+00:10:13,920 --> 00:10:16,949
+your team could just handle. And this is
+about 80% of things that are escalated.
+
+586
+00:10:16,949 --> 00:10:16,959
+about 80% of things that are escalated.
+ 
+
+587
+00:10:16,959 --> 00:10:19,269
+about 80% of things that are escalated.
+You know, adding a user to Slack, adding
+
+588
+00:10:19,269 --> 00:10:19,279
+You know, adding a user to Slack, adding
+ 
+
+589
+00:10:19,279 --> 00:10:21,509
+You know, adding a user to Slack, adding
+someone to Gmail, you know, these are
+
+590
+00:10:21,509 --> 00:10:21,519
+someone to Gmail, you know, these are
+ 
+
+591
+00:10:21,519 --> 00:10:24,230
+someone to Gmail, you know, these are
+simple decisions. Now, level two are
+
+592
+00:10:24,230 --> 00:10:24,240
+simple decisions. Now, level two are
+ 
+
+593
+00:10:24,240 --> 00:10:28,230
+simple decisions. Now, level two are
+manager escalations. These are about 15%
+
+594
+00:10:28,230 --> 00:10:28,240
+manager escalations. These are about 15%
+ 
+
+595
+00:10:28,240 --> 00:10:30,389
+manager escalations. These are about 15%
+of escalations, right? Maybe someone's
+
+596
+00:10:30,389 --> 00:10:30,399
+of escalations, right? Maybe someone's
+ 
+
+597
+00:10:30,399 --> 00:10:31,990
+of escalations, right? Maybe someone's
+underperforming, not doing what they
+
+598
+00:10:31,990 --> 00:10:32,000
+underperforming, not doing what they
+ 
+
+599
+00:10:32,000 --> 00:10:33,509
+underperforming, not doing what they
+should be doing. Maybe someone needs to
+
+600
+00:10:33,509 --> 00:10:33,519
+should be doing. Maybe someone needs to
+ 
+
+601
+00:10:33,519 --> 00:10:35,750
+should be doing. Maybe someone needs to
+be fired or there's potentially a new
+
+602
+00:10:35,750 --> 00:10:35,760
+be fired or there's potentially a new
+ 
+
+603
+00:10:35,760 --> 00:10:37,829
+be fired or there's potentially a new
+hiring request, right? These are things
+
+604
+00:10:37,829 --> 00:10:37,839
+hiring request, right? These are things
+ 
+
+605
+00:10:37,839 --> 00:10:40,150
+hiring request, right? These are things
+that your manager can generally handle,
+
+606
+00:10:40,150 --> 00:10:40,160
+that your manager can generally handle,
+ 
+
+607
+00:10:40,160 --> 00:10:43,110
+that your manager can generally handle,
+leaving the rest, level three, as
+
+608
+00:10:43,110 --> 00:10:43,120
+leaving the rest, level three, as
+ 
+
+609
+00:10:43,120 --> 00:10:45,269
+leaving the rest, level three, as
+founder level escalations, which should
+
+610
+00:10:45,269 --> 00:10:45,279
+founder level escalations, which should
+ 
+
+611
+00:10:45,279 --> 00:10:47,750
+founder level escalations, which should
+just be 5%. This is a new strategic
+
+612
+00:10:47,750 --> 00:10:47,760
+just be 5%. This is a new strategic
+ 
+
+613
+00:10:47,760 --> 00:10:49,269
+just be 5%. This is a new strategic
+change in the direction of the company,
+
+614
+00:10:49,269 --> 00:10:49,279
+change in the direction of the company,
+ 
+
+615
+00:10:49,279 --> 00:10:51,430
+change in the direction of the company,
+or maybe you're fundraising, or you
+
+616
+00:10:51,430 --> 00:10:51,440
+or maybe you're fundraising, or you
+ 
+
+617
+00:10:51,440 --> 00:10:52,949
+or maybe you're fundraising, or you
+know, you're looking to make some
+
+618
+00:10:52,949 --> 00:10:52,959
+know, you're looking to make some
+ 
+
+619
+00:10:52,959 --> 00:10:55,269
+know, you're looking to make some
+massive new product. Either way, these
+
+620
+00:10:55,269 --> 00:10:55,279
+massive new product. Either way, these
+ 
+
+621
+00:10:55,279 --> 00:10:57,190
+massive new product. Either way, these
+should be limited. And the reality is is
+
+622
+00:10:57,190 --> 00:10:57,200
+should be limited. And the reality is is
+ 
+
+623
+00:10:57,200 --> 00:10:58,949
+should be limited. And the reality is is
+that most decisions should be filtered
+
+624
+00:10:58,949 --> 00:10:58,959
+that most decisions should be filtered
+ 
+
+625
+00:10:58,959 --> 00:11:02,150
+that most decisions should be filtered
+down to level one or level two, leaving
+
+626
+00:11:02,150 --> 00:11:02,160
+down to level one or level two, leaving
+ 
+
+627
+00:11:02,160 --> 00:11:05,110
+down to level one or level two, leaving
+only 5% at level three, so the founder
+
+628
+00:11:05,110 --> 00:11:05,120
+only 5% at level three, so the founder
+ 
+
+629
+00:11:05,120 --> 00:11:07,269
+only 5% at level three, so the founder
+can focus. I like to use what I call the
+
+630
+00:11:07,269 --> 00:11:07,279
+can focus. I like to use what I call the
+ 
+
+631
+00:11:07,279 --> 00:11:09,750
+can focus. I like to use what I call the
+10 10 10 rule. I'm going to ask myself,
+
+632
+00:11:09,750 --> 00:11:09,760
+10 10 10 rule. I'm going to ask myself,
+ 
+
+633
+00:11:09,760 --> 00:11:11,269
+10 10 10 rule. I'm going to ask myself,
+is this thing going to matter in 10
+
+634
+00:11:11,269 --> 00:11:11,279
+is this thing going to matter in 10
+ 
+
+635
+00:11:11,279 --> 00:11:14,069
+is this thing going to matter in 10
+minutes, 10 months, or 10 years? If it's
+
+636
+00:11:14,069 --> 00:11:14,079
+minutes, 10 months, or 10 years? If it's
+ 
+
+637
+00:11:14,079 --> 00:11:16,310
+minutes, 10 months, or 10 years? If it's
+not going to matter in 10 minutes, my
+
+638
+00:11:16,310 --> 00:11:16,320
+not going to matter in 10 minutes, my
+ 
+
+639
+00:11:16,320 --> 00:11:18,470
+not going to matter in 10 minutes, my
+team can just go and answer it. If it's
+
+640
+00:11:18,470 --> 00:11:18,480
+team can just go and answer it. If it's
+ 
+
+641
+00:11:18,480 --> 00:11:19,670
+team can just go and answer it. If it's
+something that's going to matter in 10
+
+642
+00:11:19,670 --> 00:11:19,680
+something that's going to matter in 10
+ 
+
+643
+00:11:19,680 --> 00:11:21,670
+something that's going to matter in 10
+months that we need to answer on, a
+
+644
+00:11:21,670 --> 00:11:21,680
+months that we need to answer on, a
+ 
+
+645
+00:11:21,680 --> 00:11:23,430
+months that we need to answer on, a
+manager can handle it. If it's something
+
+646
+00:11:23,430 --> 00:11:23,440
+manager can handle it. If it's something
+ 
+
+647
+00:11:23,440 --> 00:11:24,790
+manager can handle it. If it's something
+that we're not sure about that's going
+
+648
+00:11:24,790 --> 00:11:24,800
+that we're not sure about that's going
+ 
+
+649
+00:11:24,800 --> 00:11:27,030
+that we're not sure about that's going
+to impact us in 10 years, yeah, that's
+
+650
+00:11:27,030 --> 00:11:27,040
+to impact us in 10 years, yeah, that's
+ 
+
+651
+00:11:27,040 --> 00:11:28,630
+to impact us in 10 years, yeah, that's
+something that I'm happy to help with.
+
+652
+00:11:28,630 --> 00:11:28,640
+something that I'm happy to help with.
+ 
+
+653
+00:11:28,640 --> 00:11:30,710
+something that I'm happy to help with.
+Now, let's get to system number seven,
+
+654
+00:11:30,710 --> 00:11:30,720
+Now, let's get to system number seven,
+ 
+
+655
+00:11:30,720 --> 00:11:33,190
+Now, let's get to system number seven,
+the automation stack. Now, most founders
+
+656
+00:11:33,190 --> 00:11:33,200
+the automation stack. Now, most founders
+ 
+
+657
+00:11:33,200 --> 00:11:34,790
+the automation stack. Now, most founders
+think about automation wrong, right?
+
+658
+00:11:34,790 --> 00:11:34,800
+think about automation wrong, right?
+ 
+
+659
+00:11:34,800 --> 00:11:36,310
+think about automation wrong, right?
+they try to just suddenly go and start
+
+660
+00:11:36,310 --> 00:11:36,320
+they try to just suddenly go and start
+ 
+
+661
+00:11:36,320 --> 00:11:38,389
+they try to just suddenly go and start
+automating everything. I think you want
+
+662
+00:11:38,389 --> 00:11:38,399
+automating everything. I think you want
+ 
+
+663
+00:11:38,399 --> 00:11:40,150
+automating everything. I think you want
+to go and indicate different tiers of
+
+664
+00:11:40,150 --> 00:11:40,160
+to go and indicate different tiers of
+ 
+
+665
+00:11:40,160 --> 00:11:42,150
+to go and indicate different tiers of
+automations and start banging them out
+
+666
+00:11:42,150 --> 00:11:42,160
+automations and start banging them out
+ 
+
+667
+00:11:42,160 --> 00:11:45,350
+automations and start banging them out
+one by one but in this order. Tier one
+
+668
+00:11:45,350 --> 00:11:45,360
+one by one but in this order. Tier one
+ 
+
+669
+00:11:45,360 --> 00:11:47,670
+one by one but in this order. Tier one
+are administrative decisions. You know,
+
+670
+00:11:47,670 --> 00:11:47,680
+are administrative decisions. You know,
+ 
+
+671
+00:11:47,680 --> 00:11:50,069
+are administrative decisions. You know,
+invoicing, payment processing, some of
+
+672
+00:11:50,069 --> 00:11:50,079
+invoicing, payment processing, some of
+ 
+
+673
+00:11:50,079 --> 00:11:51,990
+invoicing, payment processing, some of
+the nitty-gritty stuff that really no
+
+674
+00:11:51,990 --> 00:11:52,000
+the nitty-gritty stuff that really no
+ 
+
+675
+00:11:52,000 --> 00:11:53,590
+the nitty-gritty stuff that really no
+one on your team should be handling out
+
+676
+00:11:53,590 --> 00:11:53,600
+one on your team should be handling out
+ 
+
+677
+00:11:53,600 --> 00:11:55,990
+one on your team should be handling out
+the gate. Tier two is then marketing
+
+678
+00:11:55,990 --> 00:11:56,000
+the gate. Tier two is then marketing
+ 
+
+679
+00:11:56,000 --> 00:11:57,990
+the gate. Tier two is then marketing
+automation. Inside of Founder US, as an
+
+680
+00:11:57,990 --> 00:11:58,000
+automation. Inside of Founder US, as an
+ 
+
+681
+00:11:58,000 --> 00:12:00,389
+automation. Inside of Founder US, as an
+example, we use HubSpot for all of our
+
+682
+00:12:00,389 --> 00:12:00,399
+example, we use HubSpot for all of our
+ 
+
+683
+00:12:00,399 --> 00:12:02,630
+example, we use HubSpot for all of our
+marketing needs. And so when we're going
+
+684
+00:12:02,630 --> 00:12:02,640
+marketing needs. And so when we're going
+ 
+
+685
+00:12:02,640 --> 00:12:04,550
+marketing needs. And so when we're going
+and onboarding a new customer, we're
+
+686
+00:12:04,550 --> 00:12:04,560
+and onboarding a new customer, we're
+ 
+
+687
+00:12:04,560 --> 00:12:06,230
+and onboarding a new customer, we're
+printing the invoice for that person.
+
+688
+00:12:06,230 --> 00:12:06,240
+printing the invoice for that person.
+ 
+
+689
+00:12:06,240 --> 00:12:07,750
+printing the invoice for that person.
+We're then upselling them and we're
+
+690
+00:12:07,750 --> 00:12:07,760
+We're then upselling them and we're
+ 
+
+691
+00:12:07,760 --> 00:12:10,069
+We're then upselling them and we're
+tracking our analytics from our actual
+
+692
+00:12:10,069 --> 00:12:10,079
+tracking our analytics from our actual
+ 
+
+693
+00:12:10,079 --> 00:12:12,230
+tracking our analytics from our actual
+payments to our traffic and
+
+694
+00:12:12,230 --> 00:12:12,240
+payments to our traffic and
+ 
+
+695
+00:12:12,240 --> 00:12:13,829
+payments to our traffic and
+understanding which pieces of content
+
+696
+00:12:13,829 --> 00:12:13,839
+understanding which pieces of content
+ 
+
+697
+00:12:13,839 --> 00:12:15,750
+understanding which pieces of content
+are performing best. Everything is held
+
+698
+00:12:15,750 --> 00:12:15,760
+are performing best. Everything is held
+ 
+
+699
+00:12:15,760 --> 00:12:18,790
+are performing best. Everything is held
+in a HubSpot dashboard in one spot. So
+
+700
+00:12:18,790 --> 00:12:18,800
+in a HubSpot dashboard in one spot. So
+ 
+
+701
+00:12:18,800 --> 00:12:20,870
+in a HubSpot dashboard in one spot. So
+we can track the effectiveness of our
+
+702
+00:12:20,870 --> 00:12:20,880
+we can track the effectiveness of our
+ 
+
+703
+00:12:20,880 --> 00:12:22,310
+we can track the effectiveness of our
+marketing and I don't even need to hire
+
+704
+00:12:22,310 --> 00:12:22,320
+marketing and I don't even need to hire
+ 
+
+705
+00:12:22,320 --> 00:12:24,550
+marketing and I don't even need to hire
+anyone around analytics because HubSpot
+
+706
+00:12:24,550 --> 00:12:24,560
+anyone around analytics because HubSpot
+ 
+
+707
+00:12:24,560 --> 00:12:27,190
+anyone around analytics because HubSpot
+just shows me. Tier three are operations
+
+708
+00:12:27,190 --> 00:12:27,200
+just shows me. Tier three are operations
+ 
+
+709
+00:12:27,200 --> 00:12:29,030
+just shows me. Tier three are operations
+automation. And so when you're going and
+
+710
+00:12:29,030 --> 00:12:29,040
+automation. And so when you're going and
+ 
+
+711
+00:12:29,040 --> 00:12:30,389
+automation. And so when you're going and
+thinking about what to automate next,
+
+712
+00:12:30,389 --> 00:12:30,399
+thinking about what to automate next,
+ 
+
+713
+00:12:30,399 --> 00:12:31,509
+thinking about what to automate next,
+you want to be thinking about the tasks
+
+714
+00:12:31,509 --> 00:12:31,519
+you want to be thinking about the tasks
+ 
+
+715
+00:12:31,519 --> 00:12:32,790
+you want to be thinking about the tasks
+that are going and taking up the
+
+716
+00:12:32,790 --> 00:12:32,800
+that are going and taking up the
+ 
+
+717
+00:12:32,800 --> 00:12:34,550
+that are going and taking up the
+majority of your time that are probably
+
+718
+00:12:34,550 --> 00:12:34,560
+majority of your time that are probably
+ 
+
+719
+00:12:34,560 --> 00:12:36,310
+majority of your time that are probably
+the easiest to automate and just getting
+
+720
+00:12:36,310 --> 00:12:36,320
+the easiest to automate and just getting
+ 
+
+721
+00:12:36,320 --> 00:12:38,629
+the easiest to automate and just getting
+those lowhanging fruit off your plate as
+
+722
+00:12:38,629 --> 00:12:38,639
+those lowhanging fruit off your plate as
+ 
+
+723
+00:12:38,639 --> 00:12:41,590
+those lowhanging fruit off your plate as
+fast as possible. From there, over time,
+
+724
+00:12:41,590 --> 00:12:41,600
+fast as possible. From there, over time,
+ 
+
+725
+00:12:41,600 --> 00:12:43,829
+fast as possible. From there, over time,
+you're moving from admin tasks to more
+
+726
+00:12:43,829 --> 00:12:43,839
+you're moving from admin tasks to more
+ 
+
+727
+00:12:43,839 --> 00:12:45,670
+you're moving from admin tasks to more
+marketing automations to more of your
+
+728
+00:12:45,670 --> 00:12:45,680
+marketing automations to more of your
+ 
+
+729
+00:12:45,680 --> 00:12:47,590
+marketing automations to more of your
+operational automations, right? But
+
+730
+00:12:47,590 --> 00:12:47,600
+operational automations, right? But
+ 
+
+731
+00:12:47,600 --> 00:12:49,750
+operational automations, right? But
+tackle them generally in that order.
+
+732
+00:12:49,750 --> 00:12:49,760
+tackle them generally in that order.
+ 
+
+733
+00:12:49,760 --> 00:12:51,750
+tackle them generally in that order.
+I've seen clients go and implement this,
+
+734
+00:12:51,750 --> 00:12:51,760
+I've seen clients go and implement this,
+ 
+
+735
+00:12:51,760 --> 00:12:53,990
+I've seen clients go and implement this,
+be able to save 20 hours a week of their
+
+736
+00:12:53,990 --> 00:12:54,000
+be able to save 20 hours a week of their
+ 
+
+737
+00:12:54,000 --> 00:12:55,670
+be able to save 20 hours a week of their
+time, which inevitably just helps them
+
+738
+00:12:55,670 --> 00:12:55,680
+time, which inevitably just helps them
+ 
+
+739
+00:12:55,680 --> 00:12:57,269
+time, which inevitably just helps them
+grow their brand that much faster
+
+740
+00:12:57,269 --> 00:12:57,279
+grow their brand that much faster
+ 
+
+741
+00:12:57,279 --> 00:12:59,509
+grow their brand that much faster
+because they're investing their time on
+
+742
+00:12:59,509 --> 00:12:59,519
+because they're investing their time on
+ 
+
+743
+00:12:59,519 --> 00:13:01,910
+because they're investing their time on
+the decisions that only they can do.
+
+744
+00:13:01,910 --> 00:13:01,920
+the decisions that only they can do.
+ 
+
+745
+00:13:01,920 --> 00:13:04,069
+the decisions that only they can do.
+System number eight is the replacement
+
+746
+00:13:04,069 --> 00:13:04,079
+System number eight is the replacement
+ 
+
+747
+00:13:04,079 --> 00:13:07,190
+System number eight is the replacement
+test. What this all comes down to is can
+
+748
+00:13:07,190 --> 00:13:07,200
+test. What this all comes down to is can
+ 
+
+749
+00:13:07,200 --> 00:13:09,269
+test. What this all comes down to is can
+you go and walk away from your business
+
+750
+00:13:09,269 --> 00:13:09,279
+you go and walk away from your business
+ 
+
+751
+00:13:09,279 --> 00:13:12,550
+you go and walk away from your business
+for 4 weeks and come back to a business
+
+752
+00:13:12,550 --> 00:13:12,560
+for 4 weeks and come back to a business
+ 
+
+753
+00:13:12,560 --> 00:13:15,030
+for 4 weeks and come back to a business
+that's stronger than when you left? It
+
+754
+00:13:15,030 --> 00:13:15,040
+that's stronger than when you left? It
+ 
+
+755
+00:13:15,040 --> 00:13:16,790
+that's stronger than when you left? It
+doesn't matter what happens, you have
+
+756
+00:13:16,790 --> 00:13:16,800
+doesn't matter what happens, you have
+ 
+
+757
+00:13:16,800 --> 00:13:18,870
+doesn't matter what happens, you have
+escalation protocols in place. It
+
+758
+00:13:18,870 --> 00:13:18,880
+escalation protocols in place. It
+ 
+
+759
+00:13:18,880 --> 00:13:20,470
+escalation protocols in place. It
+doesn't matter what happens. You have
+
+760
+00:13:20,470 --> 00:13:20,480
+doesn't matter what happens. You have
+ 
+
+761
+00:13:20,480 --> 00:13:22,230
+doesn't matter what happens. You have
+decision frameworks in place and the
+
+762
+00:13:22,230 --> 00:13:22,240
+decision frameworks in place and the
+ 
+
+763
+00:13:22,240 --> 00:13:23,910
+decision frameworks in place and the
+right person has been delegated given
+
+764
+00:13:23,910 --> 00:13:23,920
+right person has been delegated given
+ 
+
+765
+00:13:23,920 --> 00:13:26,470
+right person has been delegated given
+tasks. This allows you to walk away from
+
+766
+00:13:26,470 --> 00:13:26,480
+tasks. This allows you to walk away from
+ 
+
+767
+00:13:26,480 --> 00:13:28,790
+tasks. This allows you to walk away from
+your business and experience peace of
+
+768
+00:13:28,790 --> 00:13:28,800
+your business and experience peace of
+ 
+
+769
+00:13:28,800 --> 00:13:31,430
+your business and experience peace of
+mind. You can sleep at night knowing
+
+770
+00:13:31,430 --> 00:13:31,440
+mind. You can sleep at night knowing
+ 
+
+771
+00:13:31,440 --> 00:13:33,110
+mind. You can sleep at night knowing
+you're no longer essential to your
+
+772
+00:13:33,110 --> 00:13:33,120
+you're no longer essential to your
+ 
+
+773
+00:13:33,120 --> 00:13:35,750
+you're no longer essential to your
+business anymore. The team has got it
+
+774
+00:13:35,750 --> 00:13:35,760
+business anymore. The team has got it
+ 
+
+775
+00:13:35,760 --> 00:13:37,670
+business anymore. The team has got it
+handled. I know when I first experienced
+
+776
+00:13:37,670 --> 00:13:37,680
+handled. I know when I first experienced
+ 
+
+777
+00:13:37,680 --> 00:13:39,829
+handled. I know when I first experienced
+this around a decade ago in my second
+
+778
+00:13:39,829 --> 00:13:39,839
+this around a decade ago in my second
+ 
+
+779
+00:13:39,839 --> 00:13:43,829
+this around a decade ago in my second
+business, it blew my mind. Now, I had
+
+780
+00:13:43,829 --> 00:13:43,839
+business, it blew my mind. Now, I had
+ 
+
+781
+00:13:43,839 --> 00:13:45,910
+business, it blew my mind. Now, I had
+been running Herb from the inside for so
+
+782
+00:13:45,910 --> 00:13:45,920
+been running Herb from the inside for so
+ 
+
+783
+00:13:45,920 --> 00:13:47,590
+been running Herb from the inside for so
+many years and finally was able to get
+
+784
+00:13:47,590 --> 00:13:47,600
+many years and finally was able to get
+ 
+
+785
+00:13:47,600 --> 00:13:50,550
+many years and finally was able to get
+myself out of it and watch it run even
+
+786
+00:13:50,550 --> 00:13:50,560
+myself out of it and watch it run even
+ 
+
+787
+00:13:50,560 --> 00:13:54,389
+myself out of it and watch it run even
+better without me. It was pure magic. It
+
+788
+00:13:54,389 --> 00:13:54,399
+better without me. It was pure magic. It
+ 
+
+789
+00:13:54,399 --> 00:13:56,550
+better without me. It was pure magic. It
+made me feel so inspired and it actually
+
+790
+00:13:56,550 --> 00:13:56,560
+made me feel so inspired and it actually
+ 
+
+791
+00:13:56,560 --> 00:13:59,110
+made me feel so inspired and it actually
+helped me go and invent new things for
+
+792
+00:13:59,110 --> 00:13:59,120
+helped me go and invent new things for
+ 
+
+793
+00:13:59,120 --> 00:14:01,030
+helped me go and invent new things for
+the business that completely transformed
+
+794
+00:14:01,030 --> 00:14:01,040
+the business that completely transformed
+ 
+
+795
+00:14:01,040 --> 00:14:02,790
+the business that completely transformed
+the trajectory of that business. We were
+
+796
+00:14:02,790 --> 00:14:02,800
+the trajectory of that business. We were
+ 
+
+797
+00:14:02,800 --> 00:14:05,110
+the trajectory of that business. We were
+able to go invent new dashboards, new
+
+798
+00:14:05,110 --> 00:14:05,120
+able to go invent new dashboards, new
+ 
+
+799
+00:14:05,120 --> 00:14:07,670
+able to go invent new dashboards, new
+analytics tools because I finally had
+
+800
+00:14:07,670 --> 00:14:07,680
+analytics tools because I finally had
+ 
+
+801
+00:14:07,680 --> 00:14:10,230
+analytics tools because I finally had
+the opportunity to just think and ponder
+
+802
+00:14:10,230 --> 00:14:10,240
+the opportunity to just think and ponder
+ 
+
+803
+00:14:10,240 --> 00:14:13,350
+the opportunity to just think and ponder
+and strategize and scheme and plot the
+
+804
+00:14:13,350 --> 00:14:13,360
+and strategize and scheme and plot the
+ 
+
+805
+00:14:13,360 --> 00:14:15,030
+and strategize and scheme and plot the
+important things that so many of us
+
+806
+00:14:15,030 --> 00:14:15,040
+important things that so many of us
+ 
+
+807
+00:14:15,040 --> 00:14:18,310
+important things that so many of us
+founders get no time to do. Now, here's
+
+808
+00:14:18,310 --> 00:14:18,320
+founders get no time to do. Now, here's
+ 
+
+809
+00:14:18,320 --> 00:14:19,670
+founders get no time to do. Now, here's
+the critical part, right? You can't
+
+810
+00:14:19,670 --> 00:14:19,680
+the critical part, right? You can't
+ 
+
+811
+00:14:19,680 --> 00:14:21,430
+the critical part, right? You can't
+implement all eight of these systems all
+
+812
+00:14:21,430 --> 00:14:21,440
+implement all eight of these systems all
+ 
+
+813
+00:14:21,440 --> 00:14:23,030
+implement all eight of these systems all
+at once. And that's why I've gone and
+
+814
+00:14:23,030 --> 00:14:23,040
+at once. And that's why I've gone and
+ 
+
+815
+00:14:23,040 --> 00:14:26,069
+at once. And that's why I've gone and
+created the 30-day CEO transformation
+
+816
+00:14:26,069 --> 00:14:26,079
+created the 30-day CEO transformation
+ 
+
+817
+00:14:26,079 --> 00:14:27,990
+created the 30-day CEO transformation
+via the link in the description. I went
+
+818
+00:14:27,990 --> 00:14:28,000
+via the link in the description. I went
+ 
+
+819
+00:14:28,000 --> 00:14:30,069
+via the link in the description. I went
+and spent about 12 hours with my team to
+
+820
+00:14:30,069 --> 00:14:30,079
+and spent about 12 hours with my team to
+ 
+
+821
+00:14:30,079 --> 00:14:31,509
+and spent about 12 hours with my team to
+go and put this together so you had a
+
+822
+00:14:31,509 --> 00:14:31,519
+go and put this together so you had a
+ 
+
+823
+00:14:31,519 --> 00:14:32,870
+go and put this together so you had a
+clear action plan on how to actually go
+
+824
+00:14:32,870 --> 00:14:32,880
+clear action plan on how to actually go
+ 
+
+825
+00:14:32,880 --> 00:14:34,790
+clear action plan on how to actually go
+and implement all eight systems that I
+
+826
+00:14:34,790 --> 00:14:34,800
+and implement all eight systems that I
+ 
+
+827
+00:14:34,800 --> 00:14:37,509
+and implement all eight systems that I
+went over in this video. So go and check
+
+828
+00:14:37,509 --> 00:14:37,519
+went over in this video. So go and check
+ 
+
+829
+00:14:37,519 --> 00:14:38,949
+went over in this video. So go and check
+that out via the link in the
+
+830
+00:14:38,949 --> 00:14:38,959
+that out via the link in the
+ 
+
+831
+00:14:38,959 --> 00:14:41,350
+that out via the link in the
+description. This is your
+
+832
+00:14:41,350 --> 00:14:41,360
+description. This is your
+ 
+
+833
+00:14:41,360 --> 00:14:43,269
+description. This is your
+transformation, your business, your
+
+834
+00:14:43,269 --> 00:14:43,279
+transformation, your business, your
+ 
+
+835
+00:14:43,279 --> 00:14:45,350
+transformation, your business, your
+life. You have the choice to make. You
+
+836
+00:14:45,350 --> 00:14:45,360
+life. You have the choice to make. You
+ 
+
+837
+00:14:45,360 --> 00:14:47,110
+life. You have the choice to make. You
+can not implement these systems and keep
+
+838
+00:14:47,110 --> 00:14:47,120
+can not implement these systems and keep
+ 
+
+839
+00:14:47,120 --> 00:14:49,110
+can not implement these systems and keep
+going how you're going, working 70our
+
+840
+00:14:49,110 --> 00:14:49,120
+going how you're going, working 70our
+ 
+
+841
+00:14:49,120 --> 00:14:51,350
+going how you're going, working 70our
+weeks, constantly dealing with fires, or
+
+842
+00:14:51,350 --> 00:14:51,360
+weeks, constantly dealing with fires, or
+ 
+
+843
+00:14:51,360 --> 00:14:52,949
+weeks, constantly dealing with fires, or
+you can go and implement these eight
+
+844
+00:14:52,949 --> 00:14:52,959
+you can go and implement these eight
+ 
+
+845
+00:14:52,959 --> 00:14:55,269
+you can go and implement these eight
+systems in your business and transform
+
+846
+00:14:55,269 --> 00:14:55,279
+systems in your business and transform
+ 
+
+847
+00:14:55,279 --> 00:14:57,430
+systems in your business and transform
+where you are and become the CEO you
+
+848
+00:14:57,430 --> 00:14:57,440
+where you are and become the CEO you
+ 
+
+849
+00:14:57,440 --> 00:14:59,509
+where you are and become the CEO you
+were destined to be. Thanks for watching
+
+850
+00:14:59,509 --> 00:14:59,519
+were destined to be. Thanks for watching
+ 
+
+851
+00:14:59,519 --> 00:15:02,480
+were destined to be. Thanks for watching
+and I'll see you in the next
+

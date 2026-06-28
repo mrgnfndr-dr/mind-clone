@@ -1,0 +1,5 @@
+1|The easiest way to succeed in anything is to find your unfair advantage. When people ask me, "How did you learn content?" Well, the truth is, I've learned it over the last 16 years building multiple brands and businesses.
+11|At first, I was honestly pretty scared, you know, putting my face out there with something new, right? I'd hidden behind brands for many, many years. Slowly but surely, you know, my own style emerged,
+21|right? This kind of systematized founder. I want to build an amazingly vibrant business, an amazing community around it, and just enjoy my life. And I feel like there were millions of
+32|founders that felt like online they resonated with that general message and mission, and you know, they wanted to be a part of it. And so, in some weird way, you know, I was able to start connecting
+42|the dots looking backwards and seeing how all this experience that I had gotten was almost the perfect ingredient to put out the kind of content I was now sharing with the world.

@@ -1,0 +1,10 @@
+{"cmd": "intent", "text": "Growth/promotion strategy for Kego Tools — a $49 DIY personalized intention-bracelet kit (AI consultation + clay/paint/cord kit + 3 audio practices) in the mindfulness/self-development niche, made by a solo founder with likely no existing audience. What Instagram/Reels-first go-to-market and overall plan should they build? Cover: account positioning, content format (Reels), the sends-per-reach signal, originality, niche/small-account growth, posting cadence, creator collabs, monetization funnel."}
+{"cmd": "sources", "n": 11}
+{"cmd": "map", "source": "s002", "vectors": 14}
+{"cmd": "map", "source": "s004", "vectors": 14}
+{"cmd": "map", "source": "s009", "vectors": 16}
+{"cmd": "select", "source": "s002", "vectors": ["growth-advice", "signal-hierarchy", "reach-and-shadowban-myths", "originality-and-aggregators", "reels-and-video"]}
+{"cmd": "select", "source": "s004", "vectors": ["growth-advice", "small-vs-large-creators", "reels-and-video", "signal-hierarchy", "creator-economy"]}
+{"cmd": "select", "source": "s009", "vectors": ["growth-advice", "small-vs-large-creators", "format-distribution", "signal-hierarchy"]}
+{"cmd": "compile", "eps": 51}
+{"cmd": "verify", "cited": 39, "bad": [], "accepted": true}

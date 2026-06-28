@@ -1,0 +1,3 @@
+1|pain is a part of life but you get to choose what type of pain you want to endure do you follow your dreams and face the pain of rejection hardship and failure or do you face the pain of never following your dreams do you keep your
+11|body healthy by pushing it to its limits or do you face the pain of poor physical health Jordan Peterson once said this the purpose of life as far as I can tell is to find a mode of being that's so
+21|meaningful that the fact that life is suffering is no longer relevant here's the point you're going to suffer no matter what you might as well choose the mode of suffering that is Meaningful to you

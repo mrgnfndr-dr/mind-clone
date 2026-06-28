@@ -1,0 +1,6 @@
+{"cmd": "intent", "text": "Should I still use detailed interest targeting in 2026, or go broad?"}
+{"cmd": "map", "source": "s336", "vectors": 2}
+{"cmd": "select", "source": "s336", "vectors": ["detailed-targeting", "broad-targeting"]}
+{"cmd": "select", "source": "s157", "vectors": ["detailed-targeting"]}
+{"cmd": "compile", "eps": 5}
+{"cmd": "verify", "cited": 5, "bad": [], "accepted": true}

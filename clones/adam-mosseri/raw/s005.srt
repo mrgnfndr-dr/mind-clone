@@ -1,0 +1,6000 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hi, Adam Meri. Hi. Thank you so much for
+
+2
+00:00:02,000 --> 00:00:04,000
+taking the time. Welcome to the channel.
+
+3
+00:00:04,000 --> 00:00:06,000
+Thank you for having me. I'm excited to
+
+4
+00:00:06,000 --> 00:00:07,000
+be here. We've got loads of topics to
+
+5
+00:00:07,000 --> 00:00:09,000
+see together. You're 42 years old.
+
+6
+00:00:09,000 --> 00:00:11,000
+You're the head of one of the biggest
+
+7
+00:00:11,000 --> 00:00:14,000
+social networks in the world. It's of
+
+8
+00:00:14,000 --> 00:00:16,000
+course Instagram. Instagram has between
+
+9
+00:00:16,000 --> 00:00:19,000
+2 and 2.5 billion active users. That's
+
+10
+00:00:19,000 --> 00:00:21,000
+what I looked up online. That's about
+
+11
+00:00:21,000 --> 00:00:24,000
+like a quarter to a third of the world's
+
+12
+00:00:24,000 --> 00:00:27,000
+population, which is kind of impressive.
+
+13
+00:00:27,000 --> 00:00:30,000
+Um, I'm of course one of them. um as a
+
+14
+00:00:30,000 --> 00:00:32,000
+content creator, as a journalist, also
+
+15
+00:00:32,000 --> 00:00:34,000
+as just someone spending some time
+
+16
+00:00:34,000 --> 00:00:37,000
+online. And so today I have lots of
+
+17
+00:00:37,000 --> 00:00:39,000
+questions for you. We'll talk about your
+
+18
+00:00:39,000 --> 00:00:41,000
+job, talk about meta, talk about content
+
+19
+00:00:41,000 --> 00:00:43,000
+creation. uh also talk some you know
+
+20
+00:00:43,000 --> 00:00:45,000
+sensitive topics which I feel are
+
+21
+00:00:45,000 --> 00:00:48,000
+important about misinformation, online
+
+22
+00:00:48,000 --> 00:00:50,000
+harassment, mental health, AI all those
+
+23
+00:00:50,000 --> 00:00:52,000
+topics and see how you view those
+
+24
+00:00:52,000 --> 00:00:55,000
+questions as a head of uh of Instagram
+
+25
+00:00:55,000 --> 00:00:56,000
+to yeah see and and try and understand
+
+26
+00:00:56,000 --> 00:00:59,000
+what happens um behind Instagram. So
+
+27
+00:00:59,000 --> 00:01:01,000
+thank you so much again for a lot to
+
+28
+00:01:01,000 --> 00:01:03,000
+cover. I'm excited. We'll try and cover
+
+29
+00:01:03,000 --> 00:01:05,000
+I hope it'll be good. I'm sure it'll be
+
+30
+00:01:05,000 --> 00:01:07,000
+interesting. Um so to start with um
+
+31
+00:01:07,000 --> 00:01:09,000
+you've worked at Facebook and Meta for
+
+32
+00:01:09,000 --> 00:01:12,000
+almost 20 years. Quite a few years now.
+
+33
+00:01:12,000 --> 00:01:13,000
+Yeah. I started 17 years old. Yeah.
+
+34
+00:01:13,000 --> 00:01:16,000
+Yeah. I was 2008 I started as a designer
+
+35
+00:01:16,000 --> 00:01:18,000
+like a just a entry-level product
+
+36
+00:01:18,000 --> 00:01:21,000
+designer. I was 25 years old. Okay. And
+
+37
+00:01:21,000 --> 00:01:24,000
+then you did so many things at Meta. And
+
+38
+00:01:24,000 --> 00:01:26,000
+since 2018 you've been the head of
+
+39
+00:01:26,000 --> 00:01:29,000
+Instagram. Uh what does that mean? Uh
+
+40
+00:01:29,000 --> 00:01:31,000
+what exactly do you do and what don't
+
+41
+00:01:31,000 --> 00:01:35,000
+you do as a head of Instagram? It's a
+
+42
+00:01:35,000 --> 00:01:37,000
+great question because because Meta owns
+
+43
+00:01:37,000 --> 00:01:38,000
+a couple different apps, there is stuff
+
+44
+00:01:38,000 --> 00:01:40,000
+that is shared and this the stuff that
+
+45
+00:01:40,000 --> 00:01:43,000
+is what we would say federated. So
+
+46
+00:01:43,000 --> 00:01:45,000
+ultimately I'm responsible for the app
+
+47
+00:01:45,000 --> 00:01:47,000
+and most of the teams that work on the
+
+48
+00:01:47,000 --> 00:01:49,000
+app report directly to me particularly
+
+49
+00:01:49,000 --> 00:01:51,000
+if you work 100% on Instagram. So I
+
+50
+00:01:51,000 --> 00:01:53,000
+manage an engineering team, a design
+
+51
+00:01:53,000 --> 00:01:56,000
+team, a research team, an analytics
+
+52
+00:01:56,000 --> 00:01:59,000
+team, uh a product management team and
+
+53
+00:01:59,000 --> 00:02:01,000
+some others. Um, but then there are
+
+54
+00:02:01,000 --> 00:02:06,000
+other teams that we lean on a lot. Um,
+
+55
+00:02:06,000 --> 00:02:09,000
+you know, there is one infrastructure
+
+56
+00:02:09,000 --> 00:02:11,000
+team that supports all of the apps.
+
+57
+00:02:11,000 --> 00:02:12,000
+There's one ads team that supports all
+
+58
+00:02:12,000 --> 00:02:14,000
+of the apps. There's one safety team
+
+59
+00:02:14,000 --> 00:02:17,000
+that supports all of the apps. And so I
+
+60
+00:02:17,000 --> 00:02:20,000
+will I will have infrastructure ads and
+
+61
+00:02:20,000 --> 00:02:22,000
+safety teams as well, but they are sort
+
+62
+00:02:22,000 --> 00:02:25,000
+of Exactly. Um and then I'm also
+
+63
+00:02:25,000 --> 00:02:28,000
+responsible for supporting um
+
+64
+00:02:28,000 --> 00:02:31,000
+partnerships, policy, legal, marketing,
+
+65
+00:02:31,000 --> 00:02:33,000
+communications,
+
+66
+00:02:33,000 --> 00:02:35,000
+uh what we think of as the business
+
+67
+00:02:35,000 --> 00:02:37,000
+functions as well. So I try to think of
+
+68
+00:02:37,000 --> 00:02:40,000
+the app from end to end and um hire the
+
+69
+00:02:40,000 --> 00:02:42,000
+best people I can and help guide them
+
+70
+00:02:42,000 --> 00:02:47,000
+forward um but support them ultimately
+
+71
+00:02:47,000 --> 00:02:49,000
+um as opposed to necessarily direct
+
+72
+00:02:49,000 --> 00:02:50,000
+them.
+
+73
+00:02:50,000 --> 00:02:53,000
+Instagram started as a photo app uh
+
+74
+00:02:53,000 --> 00:02:55,000
+quite a while ago. Feed of only square
+
+75
+00:02:55,000 --> 00:02:58,000
+photos. Only square photos. Um and today
+
+76
+00:02:58,000 --> 00:03:01,000
+it's clearly way more than that. So how
+
+77
+00:03:01,000 --> 00:03:04,000
+would you describe Instagram today? And
+
+78
+00:03:04,000 --> 00:03:06,000
+for example, how would you uh say it's
+
+79
+00:03:06,000 --> 00:03:08,000
+different from Facebook or other
+
+80
+00:03:08,000 --> 00:03:11,000
+platforms that may exist today?
+
+81
+00:03:11,000 --> 00:03:13,000
+So a lot of what we've done has changed
+
+82
+00:03:13,000 --> 00:03:15,000
+and Instagram has become more
+
+83
+00:03:15,000 --> 00:03:17,000
+complicated over the years. I think it's
+
+84
+00:03:17,000 --> 00:03:18,000
+a little too complicated if I'm honest,
+
+85
+00:03:18,000 --> 00:03:22,000
+but working on ways of simplifying, but
+
+86
+00:03:22,000 --> 00:03:23,000
+the heart of what we do has stayed the
+
+87
+00:03:23,000 --> 00:03:25,000
+same. We've always looked to connect
+
+88
+00:03:25,000 --> 00:03:28,000
+people over creativity, right? Be a
+
+89
+00:03:28,000 --> 00:03:29,000
+place where creative people like you can
+
+90
+00:03:29,000 --> 00:03:31,000
+express themselves and then the rest of
+
+91
+00:03:31,000 --> 00:03:33,000
+us can not only enjoy that content, but
+
+92
+00:03:33,000 --> 00:03:35,000
+talk to our friends about that content.
+
+93
+00:03:35,000 --> 00:03:38,000
+How we do that has changed. you know,
+
+94
+00:03:38,000 --> 00:03:41,000
+we've added DMs or messages, we've added
+
+95
+00:03:41,000 --> 00:03:45,000
+stories, we've added reels, um, notes
+
+96
+00:03:45,000 --> 00:03:48,000
+over time, but the core needs that those
+
+97
+00:03:48,000 --> 00:03:50,000
+products or those features are meeting
+
+98
+00:03:50,000 --> 00:03:52,000
+stay the same. Uh, and I think that'll
+
+99
+00:03:52,000 --> 00:03:54,000
+continue to be the case where I think
+
+100
+00:03:54,000 --> 00:03:56,000
+the product will change in the next 5 or
+
+101
+00:03:56,000 --> 00:03:58,000
+10 years, but those needs I think will
+
+102
+00:03:58,000 --> 00:04:00,000
+stay the same. But you also but you also
+
+103
+00:04:00,000 --> 00:04:02,000
+asked how we you should go too but if
+
+104
+00:04:02,000 --> 00:04:07,000
+you want me to answer um how differs. Um
+
+105
+00:04:07,000 --> 00:04:10,000
+we are I think more focused on a subset
+
+106
+00:04:10,000 --> 00:04:12,000
+of groups like young people and creators
+
+107
+00:04:12,000 --> 00:04:15,000
+and Facebook and we have I think a
+
+108
+00:04:15,000 --> 00:04:17,000
+broader range of tools to hopefully
+
+109
+00:04:17,000 --> 00:04:21,000
+enable more flexibility to creatives
+
+110
+00:04:21,000 --> 00:04:23,000
+than things like YouTube or Tik Tok
+
+111
+00:04:23,000 --> 00:04:25,000
+which are more specialized just on
+
+112
+00:04:25,000 --> 00:04:28,000
+video. M and so I was asking myself like
+
+113
+00:04:28,000 --> 00:04:31,000
+how you define a social network like
+
+114
+00:04:31,000 --> 00:04:33,000
+Instagram would you say today it's the
+
+115
+00:04:33,000 --> 00:04:35,000
+format but at the same time you see that
+
+116
+00:04:35,000 --> 00:04:37,000
+like of course format are changing you
+
+117
+00:04:37,000 --> 00:04:40,000
+know evolving like very fast is it like
+
+118
+00:04:40,000 --> 00:04:42,000
+this goal you just defined here like
+
+119
+00:04:42,000 --> 00:04:44,000
+what's the main thing you say would stay
+
+120
+00:04:44,000 --> 00:04:46,000
+like all through the years is it this
+
+121
+00:04:46,000 --> 00:04:47,000
+goal you just talked about this question
+
+122
+00:04:47,000 --> 00:04:50,000
+of for Instagram yeah but for a social
+
+123
+00:04:50,000 --> 00:04:52,000
+network it could be broader so I think
+
+124
+00:04:52,000 --> 00:04:54,000
+of a social network as a place where
+
+125
+00:04:54,000 --> 00:04:58,000
+people can connect with content and
+
+126
+00:04:58,000 --> 00:05:01,000
+friends and the content is generated
+
+127
+00:05:01,000 --> 00:05:04,000
+by creat well public accounts and
+
+128
+00:05:04,000 --> 00:05:05,000
+private accounts. So user generated
+
+129
+00:05:05,000 --> 00:05:07,000
+content connecting with content and
+
+130
+00:05:07,000 --> 00:05:10,000
+friends. So you know you might have
+
+131
+00:05:10,000 --> 00:05:11,000
+platforms that are much more focused on
+
+132
+00:05:11,000 --> 00:05:14,000
+a specific format like clubhouse and
+
+133
+00:05:14,000 --> 00:05:17,000
+audio. You might have uh networks that
+
+134
+00:05:17,000 --> 00:05:19,000
+are much more focused on a type of
+
+135
+00:05:19,000 --> 00:05:20,000
+content like at least LinkedIn started
+
+136
+00:05:20,000 --> 00:05:22,000
+focused primarily on professional
+
+137
+00:05:22,000 --> 00:05:23,000
+content. They've actually expanded a lot
+
+138
+00:05:23,000 --> 00:05:26,000
+since then. Um, usually we all start
+
+139
+00:05:26,000 --> 00:05:29,000
+with a specialization and then we
+
+140
+00:05:29,000 --> 00:05:32,000
+broaden, you know, um, and that that and
+
+141
+00:05:32,000 --> 00:05:33,000
+then we and then we and then we compete.
+
+142
+00:05:33,000 --> 00:05:35,000
+And we've seen it with other platforms,
+
+143
+00:05:35,000 --> 00:05:37,000
+of course, we've seen, you know, Tik Tok
+
+144
+00:05:37,000 --> 00:05:40,000
+trying to do long videos and even us
+
+145
+00:05:40,000 --> 00:05:41,000
+like we we've been trying to post like
+
+146
+00:05:41,000 --> 00:05:43,000
+some 10-minute long videos on on Tik Tok
+
+147
+00:05:43,000 --> 00:05:45,000
+and now they're working sometimes better
+
+148
+00:05:45,000 --> 00:05:46,000
+than like short form and we're like,
+
+149
+00:05:46,000 --> 00:05:49,000
+"Oh, that's that's weird." Um, YouTube,
+
+150
+00:05:49,000 --> 00:05:50,000
+of course, is trying to do short videos.
+
+151
+00:05:50,000 --> 00:05:53,000
+Spotify is trying to do video, too. Um,
+
+152
+00:05:53,000 --> 00:05:56,000
+what about Instagram? Like, how do you
+
+153
+00:05:56,000 --> 00:05:58,000
+navigate through all of those changes?
+
+154
+00:05:58,000 --> 00:06:00,000
+Yeah, it's it's wild. So, there's a lot
+
+155
+00:06:00,000 --> 00:06:02,000
+of ways to think about it. Um, I'm
+
+156
+00:06:02,000 --> 00:06:04,000
+making space here. It's a podcast. I
+
+157
+00:06:04,000 --> 00:06:05,000
+don't know if anyone's going to like be
+
+158
+00:06:05,000 --> 00:06:08,000
+able to see this. Um, the way I think
+
+159
+00:06:08,000 --> 00:06:10,000
+about it, um, or at least one way to
+
+160
+00:06:10,000 --> 00:06:12,000
+think about it is there are three
+
+161
+00:06:12,000 --> 00:06:13,000
+different types of
+
+162
+00:06:13,000 --> 00:06:16,000
+experiences. Um, and you can't do all
+
+163
+00:06:16,000 --> 00:06:18,000
+three. Well, I think you can connect
+
+164
+00:06:18,000 --> 00:06:19,000
+with friends. That's one type of
+
+165
+00:06:19,000 --> 00:06:22,000
+experience. There's short form video,
+
+166
+00:06:22,000 --> 00:06:24,000
+that's another. And then there's long
+
+167
+00:06:24,000 --> 00:06:26,000
+form video, which is another. You can
+
+168
+00:06:26,000 --> 00:06:28,000
+do, I think, really good work around
+
+169
+00:06:28,000 --> 00:06:29,000
+connecting with friends and short form
+
+170
+00:06:29,000 --> 00:06:31,000
+video in the same app. And you can do
+
+171
+00:06:31,000 --> 00:06:33,000
+really good work around short form video
+
+172
+00:06:33,000 --> 00:06:35,000
+and long form video in the same app. I
+
+173
+00:06:35,000 --> 00:06:37,000
+don't think you can do connecting with
+
+174
+00:06:37,000 --> 00:06:38,000
+friends and long form video in the same
+
+175
+00:06:38,000 --> 00:06:40,000
+app really well. Because if I watch a
+
+176
+00:06:40,000 --> 00:06:43,000
+video for 10, 20, 30 minutes, that's a
+
+177
+00:06:43,000 --> 00:06:45,000
+lot of messages to friends, commenting
+
+178
+00:06:45,000 --> 00:06:48,000
+on friends, seeing friends photos and
+
+179
+00:06:48,000 --> 00:06:50,000
+videos that you did not do. Whereas with
+
+180
+00:06:50,000 --> 00:06:52,000
+short form video, what happens is you
+
+181
+00:06:52,000 --> 00:06:55,000
+watch a lot of them and you send some to
+
+182
+00:06:55,000 --> 00:06:57,000
+your friends in a DM and then it starts
+
+183
+00:06:57,000 --> 00:06:58,000
+a conversation and that brings them back
+
+184
+00:06:58,000 --> 00:07:00,000
+into Instagram and then they see some
+
+185
+00:07:00,000 --> 00:07:02,000
+and that send it to another friend. So
+
+186
+00:07:02,000 --> 00:07:04,000
+those things are symbiotic in a way long
+
+187
+00:07:04,000 --> 00:07:07,000
+form video is not. YouTube has always
+
+188
+00:07:07,000 --> 00:07:09,000
+been very focused on maximizing the
+
+189
+00:07:09,000 --> 00:07:11,000
+amount of time spent on the platform.
+
+190
+00:07:11,000 --> 00:07:13,000
+Tik Tok actually similarly, which is why
+
+191
+00:07:13,000 --> 00:07:16,000
+I believe they're leaning more into long
+
+192
+00:07:16,000 --> 00:07:18,000
+form video. We don't go our teams on
+
+193
+00:07:18,000 --> 00:07:20,000
+time spent. Time spent is I think a nice
+
+194
+00:07:20,000 --> 00:07:22,000
+measure of how relevant we are in the
+
+195
+00:07:22,000 --> 00:07:24,000
+world, but it's not our primary goal
+
+196
+00:07:24,000 --> 00:07:26,000
+because if we do that, we would go all
+
+197
+00:07:26,000 --> 00:07:29,000
+long form video and we would lose that
+
+198
+00:07:29,000 --> 00:07:31,000
+friend part, which I think is really at
+
+199
+00:07:31,000 --> 00:07:32,000
+the heart of our identity. And I don't
+
+200
+00:07:32,000 --> 00:07:34,000
+think we can lose that. But at the same
+
+201
+00:07:34,000 --> 00:07:36,000
+time, you could think that like and Tik
+
+202
+00:07:36,000 --> 00:07:38,000
+Tok does it quite well today that like
+
+203
+00:07:38,000 --> 00:07:40,000
+um on even Instagram on wheels like
+
+204
+00:07:40,000 --> 00:07:44,000
+having lots of short form content would
+
+205
+00:07:44,000 --> 00:07:46,000
+make you stay on the app and so sure for
+
+206
+00:07:46,000 --> 00:07:49,000
+sure form video can definitely drive
+
+207
+00:07:49,000 --> 00:07:51,000
+time spent. I think one of the reasons
+
+208
+00:07:51,000 --> 00:07:53,000
+Tik Tok has struggled even though they
+
+209
+00:07:53,000 --> 00:07:56,000
+have had some success on more friend
+
+210
+00:07:56,000 --> 00:07:58,000
+type content is because they focus also
+
+211
+00:07:58,000 --> 00:08:01,000
+a lot on longer video and on time. So
+
+212
+00:08:01,000 --> 00:08:03,000
+that's why I think some of their stories
+
+213
+00:08:03,000 --> 00:08:04,000
+products haven't done as well. They've
+
+214
+00:08:04,000 --> 00:08:06,000
+done better with messaging because I
+
+215
+00:08:06,000 --> 00:08:08,000
+think short form video is good there,
+
+216
+00:08:08,000 --> 00:08:11,000
+but you know they made their friends tab
+
+217
+00:08:11,000 --> 00:08:14,000
+the a be real app tab for a while and
+
+218
+00:08:14,000 --> 00:08:15,000
+that didn't really work. They've had a
+
+219
+00:08:15,000 --> 00:08:18,000
+bunch of different fits and starts and I
+
+220
+00:08:18,000 --> 00:08:20,000
+think that's partly because their
+
+221
+00:08:20,000 --> 00:08:23,000
+primary goal is overall time and that
+
+222
+00:08:23,000 --> 00:08:25,000
+really is in a lot of tension with
+
+223
+00:08:25,000 --> 00:08:27,000
+seeing content from friends, messaging
+
+224
+00:08:27,000 --> 00:08:29,000
+friends, commenting on friends content
+
+225
+00:08:29,000 --> 00:08:30,000
+and connecting with friends and all the
+
+226
+00:08:30,000 --> 00:08:32,000
+other ways you can do. Yeah, totally
+
+227
+00:08:32,000 --> 00:08:34,000
+makes sense because we can we can also
+
+228
+00:08:34,000 --> 00:08:36,000
+see like YouTube for example, they've
+
+229
+00:08:36,000 --> 00:08:37,000
+integrated some shorts. It's working
+
+230
+00:08:37,000 --> 00:08:39,000
+quite well today. I mean, I see it on at
+
+231
+00:08:39,000 --> 00:08:41,000
+least on my accounts, but they also
+
+232
+00:08:41,000 --> 00:08:42,000
+tried to do like a sort of a social
+
+233
+00:08:42,000 --> 00:08:44,000
+network thing with like friends and
+
+234
+00:08:44,000 --> 00:08:46,000
+stuff and that didn't work. I don't I
+
+235
+00:08:46,000 --> 00:08:47,000
+don't even know if it's still there
+
+236
+00:08:47,000 --> 00:08:49,000
+today, but like at least they tried and
+
+237
+00:08:49,000 --> 00:08:51,000
+Yeah. They had stories for years and it
+
+238
+00:08:51,000 --> 00:08:53,000
+didn't work and they had messaging for I
+
+239
+00:08:53,000 --> 00:08:55,000
+think six years and they unlaunched it a
+
+240
+00:08:55,000 --> 00:08:56,000
+few years ago. Yeah. So, it tends to
+
+241
+00:08:56,000 --> 00:08:58,000
+show Yeah. long form as you're saying is
+
+242
+00:08:58,000 --> 00:09:00,000
+maybe not compatible with this sort of
+
+243
+00:09:00,000 --> 00:09:02,000
+friends. They're just more intention.
+
+244
+00:09:02,000 --> 00:09:06,000
+Interesting. Um and also we've seen
+
+245
+00:09:06,000 --> 00:09:08,000
+especially like in Asia or in China um
+
+246
+00:09:08,000 --> 00:09:10,000
+the building of like what sometimes
+
+247
+00:09:10,000 --> 00:09:13,000
+people call super apps. So like WeChat
+
+248
+00:09:13,000 --> 00:09:16,000
+for example. Yeah. WeChat basically for
+
+249
+00:09:16,000 --> 00:09:17,000
+those who don't know like you can
+
+250
+00:09:17,000 --> 00:09:20,000
+message, search, pay, shop, do like
+
+251
+00:09:20,000 --> 00:09:22,000
+order, you know, cab like do so many
+
+252
+00:09:22,000 --> 00:09:23,000
+things with one app. Pay your rent. Pay
+
+253
+00:09:23,000 --> 00:09:25,000
+your rent.
+
+254
+00:09:25,000 --> 00:09:28,000
+Bank people keep a budget. Uh they have
+
+255
+00:09:28,000 --> 00:09:30,000
+a they have a decent float actually. We
+
+256
+00:09:30,000 --> 00:09:32,000
+chat and some of these other major apps
+
+257
+00:09:32,000 --> 00:09:33,000
+and like if you're over there like you
+
+258
+00:09:33,000 --> 00:09:36,000
+need this app to basically like do most
+
+259
+00:09:36,000 --> 00:09:38,000
+of the things today which is kind of
+
+260
+00:09:38,000 --> 00:09:40,000
+impressive. We've seen like Elon Musk
+
+261
+00:09:40,000 --> 00:09:42,000
+with X for example trying to I mean
+
+262
+00:09:42,000 --> 00:09:44,000
+that's what he says like build a super
+
+263
+00:09:44,000 --> 00:09:48,000
+app by integrating you know messaging so
+
+264
+00:09:48,000 --> 00:09:50,000
+the whole social media thing video
+
+265
+00:09:50,000 --> 00:09:52,000
+payments uh AI now which is very strong
+
+266
+00:09:52,000 --> 00:09:55,000
+too over there um is that like a goal
+
+267
+00:09:55,000 --> 00:09:57,000
+for Instagram too or for Meta to have a
+
+268
+00:09:57,000 --> 00:10:00,000
+sort of a super app not explicitly I
+
+269
+00:10:00,000 --> 00:10:02,000
+think there's value in them but I also
+
+270
+00:10:02,000 --> 00:10:04,000
+think what works in China doesn't
+
+271
+00:10:04,000 --> 00:10:05,000
+necessarily work outside of China and we
+
+272
+00:10:05,000 --> 00:10:08,000
+see that in a lot of different ways so
+
+273
+00:10:08,000 --> 00:10:10,000
+one Small example live video if you look
+
+274
+00:10:10,000 --> 00:10:13,000
+at any of the Chinese networks it is an
+
+275
+00:10:13,000 --> 00:10:15,000
+immense percentage of time spent on them
+
+276
+00:10:15,000 --> 00:10:19,000
+uh something like 20%. Whereas on all of
+
+277
+00:10:19,000 --> 00:10:21,000
+the apps that we can tell outside of
+
+278
+00:10:21,000 --> 00:10:25,000
+China it's less than 1%. Uh there's just
+
+279
+00:10:25,000 --> 00:10:26,000
+something different going on in China. I
+
+280
+00:10:26,000 --> 00:10:28,000
+think it has to do probably with how the
+
+281
+00:10:28,000 --> 00:10:31,000
+media works around censorship around,
+
+282
+00:10:31,000 --> 00:10:33,000
+you know, freedom of speech and that you
+
+283
+00:10:33,000 --> 00:10:35,000
+can't get some of that type of content
+
+284
+00:10:35,000 --> 00:10:38,000
+on TV the way you can on um some of the
+
+285
+00:10:38,000 --> 00:10:41,000
+super apps the way you can in in France
+
+286
+00:10:41,000 --> 00:10:43,000
+and Europe and the US and a lot of the
+
+287
+00:10:43,000 --> 00:10:45,000
+rest of Asia. And so there's just some
+
+288
+00:10:45,000 --> 00:10:46,000
+big differences. And even when you look
+
+289
+00:10:46,000 --> 00:10:48,000
+at countries that are obviously
+
+290
+00:10:48,000 --> 00:10:50,000
+different, I want to be sensitive here,
+
+291
+00:10:50,000 --> 00:10:53,000
+but culturally approximate in a lot of
+
+292
+00:10:53,000 --> 00:10:55,000
+consumer behaviors to China like
+
+293
+00:10:55,000 --> 00:10:56,000
+Indonesia, you just see these huge
+
+294
+00:10:56,000 --> 00:11:00,000
+differences. So now look, I think Elon
+
+295
+00:11:00,000 --> 00:11:02,000
+is taking X in a new direction. Um, I
+
+296
+00:11:02,000 --> 00:11:04,000
+think it's interesting. We'll see if
+
+297
+00:11:04,000 --> 00:11:06,000
+he's successful or not. But for us, I
+
+298
+00:11:06,000 --> 00:11:08,000
+think that opens up some opportunities.
+
+299
+00:11:08,000 --> 00:11:11,000
+I'm happy to compete with X on video
+
+300
+00:11:11,000 --> 00:11:13,000
+with Instagram and then to compete with
+
+301
+00:11:13,000 --> 00:11:17,000
+X on perspectives and conversations and
+
+302
+00:11:17,000 --> 00:11:19,000
+debates with culturally relevant
+
+303
+00:11:19,000 --> 00:11:21,000
+creators with Threads because I think
+
+304
+00:11:21,000 --> 00:11:23,000
+threads is better at that than Instagram
+
+305
+00:11:23,000 --> 00:11:25,000
+and I think we'll be better at that than
+
+306
+00:11:25,000 --> 00:11:27,000
+X over time. And what's also interesting
+
+307
+00:11:27,000 --> 00:11:30,000
+is to see that we've um seen like more
+
+308
+00:11:30,000 --> 00:11:32,000
+and more you know social media or even
+
+309
+00:11:32,000 --> 00:11:34,000
+like formats arrive in the past few
+
+310
+00:11:34,000 --> 00:11:37,000
+years but also like be adopted by the be
+
+311
+00:11:37,000 --> 00:11:40,000
+like the users in a in an increasingly
+
+312
+00:11:40,000 --> 00:11:43,000
+like fast way like Instagram in a few
+
+313
+00:11:43,000 --> 00:11:44,000
+years at least in France like managed to
+
+314
+00:11:44,000 --> 00:11:46,000
+get like millions of followers but also
+
+315
+00:11:46,000 --> 00:11:48,000
+like short form you know reels or like
+
+316
+00:11:48,000 --> 00:11:51,000
+formats you know today like if you go in
+
+317
+00:11:51,000 --> 00:11:52,000
+the subway like you'll see everyone
+
+318
+00:11:52,000 --> 00:11:54,000
+watching those formats and it's the same
+
+319
+00:11:54,000 --> 00:11:57,000
+for like other type of content um this
+
+320
+00:11:57,000 --> 00:11:59,000
+idea that like things are going faster
+
+321
+00:11:59,000 --> 00:12:01,000
+and faster that like adoption of like
+
+322
+00:12:01,000 --> 00:12:03,000
+new formats is you know evolving in a
+
+323
+00:12:03,000 --> 00:12:05,000
+sort of a fast way. How do you see this
+
+324
+00:12:05,000 --> 00:12:07,000
+this question today and how does it
+
+325
+00:12:07,000 --> 00:12:10,000
+impact your work today? It just creates
+
+326
+00:12:10,000 --> 00:12:14,000
+even more urgency and
+
+327
+00:12:14,000 --> 00:12:18,000
+uh and makes agility and speed even more
+
+328
+00:12:18,000 --> 00:12:20,000
+important and but look this is a long
+
+329
+00:12:20,000 --> 00:12:22,000
+trend is that technology is advancing
+
+330
+00:12:22,000 --> 00:12:24,000
+faster and faster. If you look at what I
+
+331
+00:12:24,000 --> 00:12:26,000
+would call like the dominant forms or
+
+332
+00:12:26,000 --> 00:12:29,000
+the primary forms of communicative media
+
+333
+00:12:29,000 --> 00:12:32,000
+or technology over time, their reigns of
+
+334
+00:12:32,000 --> 00:12:34,000
+of being the primary sort of have
+
+335
+00:12:34,000 --> 00:12:36,000
+shortened, you know. So
+
+336
+00:12:36,000 --> 00:12:39,000
+uh let's go like go if you go back a h
+
+337
+00:12:39,000 --> 00:12:41,000
+100red years you know I think
+
+338
+00:12:41,000 --> 00:12:44,000
+that film was actually big before the
+
+339
+00:12:44,000 --> 00:12:46,000
+radio and that lasted many decades and
+
+340
+00:12:46,000 --> 00:12:48,000
+then radio was really important but it
+
+341
+00:12:48,000 --> 00:12:50,000
+kind of became the primary thing in
+
+342
+00:12:50,000 --> 00:12:53,000
+maybe the 20s and that only lasted until
+
+343
+00:12:53,000 --> 00:12:55,000
+that lasted the 50s or 60s and then TV
+
+344
+00:12:55,000 --> 00:12:57,000
+became important and then that lasted
+
+345
+00:12:57,000 --> 00:12:58,000
+for a couple decades and then the
+
+346
+00:12:58,000 --> 00:13:00,000
+internet and websites became important
+
+347
+00:13:00,000 --> 00:13:02,000
+and that lasted for maybe two decades
+
+348
+00:13:02,000 --> 00:13:04,000
+and then apps became important and then
+
+349
+00:13:04,000 --> 00:13:06,000
+you that's lasted for less time. And so
+
+350
+00:13:06,000 --> 00:13:09,000
+you're seeing these 10 years of these
+
+351
+00:13:09,000 --> 00:13:11,000
+primary ways that we entertain ourselves
+
+352
+00:13:11,000 --> 00:13:13,000
+or consume information or connect with
+
+353
+00:13:13,000 --> 00:13:17,000
+friends, they they their their reigns as
+
+354
+00:13:17,000 --> 00:13:19,000
+sort of the the champion or the lead is
+
+355
+00:13:19,000 --> 00:13:21,000
+shortening over time as technology
+
+356
+00:13:21,000 --> 00:13:23,000
+evolves more and more quickly. And so
+
+357
+00:13:23,000 --> 00:13:26,000
+for us, the question is how do you
+
+358
+00:13:26,000 --> 00:13:29,000
+evolve? Because I know it's annoying and
+
+359
+00:13:29,000 --> 00:13:32,000
+frustrating when Instagram changes. It
+
+360
+00:13:32,000 --> 00:13:33,000
+feels like I came in and rearranged your
+
+361
+00:13:33,000 --> 00:13:34,000
+desk where you talked to your friends
+
+362
+00:13:34,000 --> 00:13:37,000
+and wrote your, you know, letters or
+
+363
+00:13:37,000 --> 00:13:40,000
+organized your photos. But if we didn't,
+
+364
+00:13:40,000 --> 00:13:42,000
+we would become irrelevant. If we were a
+
+365
+00:13:42,000 --> 00:13:45,000
+feed of square photos and we didn't have
+
+366
+00:13:45,000 --> 00:13:47,000
+recommendations, we didn't have stories,
+
+367
+00:13:47,000 --> 00:13:49,000
+we didn't have videos or reals, we
+
+368
+00:13:49,000 --> 00:13:51,000
+didn't have DMs, we wouldn't be talking
+
+369
+00:13:51,000 --> 00:13:53,000
+today. You'd be talking to somebody else
+
+370
+00:13:53,000 --> 00:13:56,000
+who worked on a different app. And
+
+371
+00:13:56,000 --> 00:13:58,000
+so, we need to be careful. We need not
+
+372
+00:13:58,000 --> 00:13:59,000
+to move too quickly. I don't want to
+
+373
+00:13:59,000 --> 00:14:02,000
+break anything, but we I would rather
+
+374
+00:14:02,000 --> 00:14:05,000
+take more risk and move forward more
+
+375
+00:14:05,000 --> 00:14:07,000
+quickly than the alternative because
+
+376
+00:14:07,000 --> 00:14:10,000
+that's usually how big apps become
+
+377
+00:14:10,000 --> 00:14:12,000
+irrelevant.
+
+378
+00:14:12,000 --> 00:14:14,000
+So interesting. Yeah. So yeah, it means
+
+379
+00:14:14,000 --> 00:14:18,000
+trying out new stuff very often and
+
+380
+00:14:18,000 --> 00:14:19,000
+seeing what works. And it means trying
+
+381
+00:14:19,000 --> 00:14:21,000
+out new things. It means being willing
+
+382
+00:14:21,000 --> 00:14:23,000
+to adopt and copy competitors when they
+
+383
+00:14:23,000 --> 00:14:25,000
+show that they can meet that same need
+
+384
+00:14:25,000 --> 00:14:27,000
+better. Don't copy everything. only
+
+385
+00:14:27,000 --> 00:14:29,000
+things that are aligned with your reason
+
+386
+00:14:29,000 --> 00:14:32,000
+to be. It also means planning, you know,
+
+387
+00:14:32,000 --> 00:14:34,000
+so we have so many things happening this
+
+388
+00:14:34,000 --> 00:14:36,000
+year. We have, you know, the the
+
+389
+00:14:36,000 --> 00:14:38,000
+political environment is changing
+
+390
+00:14:38,000 --> 00:14:40,000
+drastically. You know, tariffs, yes,
+
+391
+00:14:40,000 --> 00:14:43,000
+tariffs, no, who knows? We have uh a
+
+392
+00:14:43,000 --> 00:14:45,000
+potential Tik Tok ban in the US. We
+
+393
+00:14:45,000 --> 00:14:49,000
+have, you know, this massive thing cards
+
+394
+00:14:49,000 --> 00:14:50,000
+that are going to get flipped over and
+
+395
+00:14:50,000 --> 00:14:52,000
+one I don't know what's going to be on
+
+396
+00:14:52,000 --> 00:14:53,000
+the other side, but it'll have I know
+
+397
+00:14:53,000 --> 00:14:55,000
+it's going to have a big effect on
+
+398
+00:14:55,000 --> 00:14:58,000
+Instagram. And so I make sure that I
+
+399
+00:14:58,000 --> 00:15:01,000
+have my teams try to look around corners
+
+400
+00:15:01,000 --> 00:15:03,000
+and plan for different outcomes so that
+
+401
+00:15:03,000 --> 00:15:07,000
+we can be quick to adapt when we do see
+
+402
+00:15:07,000 --> 00:15:09,000
+what's on the other side of each card.
+
+403
+00:15:09,000 --> 00:15:10,000
+Yeah. And we'll be talking about quite a
+
+404
+00:15:10,000 --> 00:15:13,000
+few of those changes um especially like
+
+405
+00:15:13,000 --> 00:15:15,000
+in terms of AI and like how AI for
+
+406
+00:15:15,000 --> 00:15:18,000
+example may change some some stuff. Um
+
+407
+00:15:18,000 --> 00:15:20,000
+so as you said Instagram is part of Meta
+
+408
+00:15:20,000 --> 00:15:23,000
+which is owned by Mark Zuckerberg. um a
+
+409
+00:15:23,000 --> 00:15:25,000
+few months ago he made a big shift in
+
+410
+00:15:25,000 --> 00:15:27,000
+his messaging. He said that was in an
+
+411
+00:15:27,000 --> 00:15:29,000
+interview in a quote the masculine
+
+412
+00:15:29,000 --> 00:15:32,000
+energy I think is good and obviously
+
+413
+00:15:32,000 --> 00:15:34,000
+society has plenty of that but I think
+
+414
+00:15:34,000 --> 00:15:35,000
+corporate culture is really trying to
+
+415
+00:15:35,000 --> 00:15:38,000
+get away from it. Um I think having a
+
+416
+00:15:38,000 --> 00:15:40,000
+culture that celebrates the aggression a
+
+417
+00:15:40,000 --> 00:15:42,000
+bit more has its own merits that are
+
+418
+00:15:42,000 --> 00:15:44,000
+really positive and he said also like he
+
+419
+00:15:44,000 --> 00:15:47,000
+wants to bring back free speech to the
+
+420
+00:15:47,000 --> 00:15:50,000
+platforms. Um, all those questions
+
+421
+00:15:50,000 --> 00:15:52,000
+raised concerns among a lot of users.
+
+422
+00:15:52,000 --> 00:15:55,000
+Um, what should people expect from
+
+423
+00:15:55,000 --> 00:15:58,000
+Instagram this year after this shift,
+
+424
+00:15:58,000 --> 00:16:00,000
+you know, in the d in the direction for
+
+425
+00:16:00,000 --> 00:16:01,000
+for the group? Yeah. So, I do want to
+
+426
+00:16:01,000 --> 00:16:03,000
+tease things apart. So, there was the
+
+427
+00:16:03,000 --> 00:16:05,000
+masculine energy comment which was one
+
+428
+00:16:05,000 --> 00:16:07,000
+comment in a three-hour podcast, which I
+
+429
+00:16:07,000 --> 00:16:09,000
+don't think was connected to the broader
+
+430
+00:16:09,000 --> 00:16:11,000
+shifts happening to the network. Um, I
+
+431
+00:16:11,000 --> 00:16:13,000
+think it was a little bit taken out of
+
+432
+00:16:13,000 --> 00:16:15,000
+context, but I understand why there was
+
+433
+00:16:15,000 --> 00:16:17,000
+such a strong negative reaction to it.
+
+434
+00:16:17,000 --> 00:16:18,000
+But I do think the more substantial
+
+435
+00:16:18,000 --> 00:16:20,000
+changes were the changes we announced in
+
+436
+00:16:20,000 --> 00:16:22,000
+early January around trying to focus on
+
+437
+00:16:22,000 --> 00:16:25,000
+making less mistakes and enabling more
+
+438
+00:16:25,000 --> 00:16:29,000
+speech. Uh, and look, we we have we are
+
+439
+00:16:29,000 --> 00:16:32,000
+global platform and what is accepted and
+
+440
+00:16:32,000 --> 00:16:34,000
+expected varies from country to country.
+
+441
+00:16:34,000 --> 00:16:38,000
+you know what seems like m maybe here in
+
+442
+00:16:38,000 --> 00:16:40,000
+France you'd look at one of our policies
+
+443
+00:16:40,000 --> 00:16:42,000
+and compared to the US and you would
+
+444
+00:16:42,000 --> 00:16:45,000
+think we're being too conservative um or
+
+445
+00:16:45,000 --> 00:16:47,000
+um but if you were in Iran you'd
+
+446
+00:16:47,000 --> 00:16:48,000
+probably think we're being wildly too
+
+447
+00:16:48,000 --> 00:16:49,000
+liberal the
+
+448
+00:16:49,000 --> 00:16:53,000
+definition the definition of free speech
+
+449
+00:16:53,000 --> 00:16:55,000
+depends uh if you're in the US or if
+
+450
+00:16:55,000 --> 00:16:57,000
+you're in France there's not at all the
+
+451
+00:16:57,000 --> 00:16:59,000
+same way of seeing and also even just
+
+452
+00:16:59,000 --> 00:17:02,000
+the the idea of the value of free speech
+
+453
+00:17:02,000 --> 00:17:05,000
+free speech is a like a core tenant of
+
+454
+00:17:05,000 --> 00:17:09,000
+our ex our identity as as as you know
+
+455
+00:17:09,000 --> 00:17:12,000
+Americans it's you know the first part
+
+456
+00:17:12,000 --> 00:17:13,000
+you know amendment in the constitution
+
+457
+00:17:13,000 --> 00:17:16,000
+so it's like a whereas like you talk
+
+458
+00:17:16,000 --> 00:17:17,000
+about the right to free expression in
+
+459
+00:17:17,000 --> 00:17:19,000
+Europe it does not resonate in the same
+
+460
+00:17:19,000 --> 00:17:21,000
+way at all but I do think we can all
+
+461
+00:17:21,000 --> 00:17:24,000
+agree that there are different equities
+
+462
+00:17:24,000 --> 00:17:26,000
+that we need to balance we need you know
+
+463
+00:17:26,000 --> 00:17:29,000
+safety is one privacy is another uh
+
+464
+00:17:29,000 --> 00:17:31,000
+those things can be intention and speech
+
+465
+00:17:31,000 --> 00:17:32,000
+is another And those things can be
+
+466
+00:17:32,000 --> 00:17:35,000
+intention. Nobody here in Europe likes
+
+467
+00:17:35,000 --> 00:17:37,000
+it when we take their content down if
+
+468
+00:17:37,000 --> 00:17:38,000
+they don't think it really does violate
+
+469
+00:17:38,000 --> 00:17:40,000
+our community guidelines. And so we're
+
+470
+00:17:40,000 --> 00:17:42,000
+always trying to balance those equities.
+
+471
+00:17:42,000 --> 00:17:45,000
+The changes in January weren't related
+
+472
+00:17:45,000 --> 00:17:47,000
+to masculine energy. They were related
+
+473
+00:17:47,000 --> 00:17:49,000
+more to how we try and balance those
+
+474
+00:17:49,000 --> 00:17:52,000
+equities. So the big thing that was the
+
+475
+00:17:52,000 --> 00:17:54,000
+theme across all of them was we want to
+
+476
+00:17:54,000 --> 00:17:57,000
+make less mistakes. There are billions
+
+477
+00:17:57,000 --> 00:17:58,000
+of things uploaded to the platforms a
+
+478
+00:17:58,000 --> 00:18:00,000
+day. you know, millions of things
+
+479
+00:18:00,000 --> 00:18:03,000
+reported, if not more. If we make a
+
+480
+00:18:03,000 --> 00:18:06,000
+mistake on 1% or 10%, that means like
+
+481
+00:18:06,000 --> 00:18:07,000
+even just 1% actually, that means that
+
+482
+00:18:07,000 --> 00:18:09,000
+there's hundreds of thousands and
+
+483
+00:18:09,000 --> 00:18:11,000
+millions and tens of millions over time
+
+484
+00:18:11,000 --> 00:18:13,000
+of content that we take down that we
+
+485
+00:18:13,000 --> 00:18:15,000
+should not have. And I just think we
+
+486
+00:18:15,000 --> 00:18:18,000
+were making too many mistakes. And so
+
+487
+00:18:18,000 --> 00:18:20,000
+we've tried to make some changes to the
+
+488
+00:18:20,000 --> 00:18:22,000
+policies, yes, but to how we enforce the
+
+489
+00:18:22,000 --> 00:18:23,000
+policies, how much we rely on reports
+
+490
+00:18:23,000 --> 00:18:25,000
+versus algorithms,
+
+491
+00:18:25,000 --> 00:18:27,000
+um, and things like that to try and
+
+492
+00:18:27,000 --> 00:18:29,000
+minimize the number of mistakes and be
+
+493
+00:18:29,000 --> 00:18:31,000
+public about it. Cuz every 3 months we
+
+494
+00:18:31,000 --> 00:18:34,000
+post, uh, a report of all the content
+
+495
+00:18:34,000 --> 00:18:36,000
+takedowns we have, how many are there,
+
+496
+00:18:36,000 --> 00:18:39,000
+how many were proactive, how many were
+
+497
+00:18:39,000 --> 00:18:41,000
+reactive, how has that trended over
+
+498
+00:18:41,000 --> 00:18:42,000
+time, and what we're going to add now is
+
+499
+00:18:42,000 --> 00:18:44,000
+and how many mistakes did we make
+
+500
+00:18:44,000 --> 00:18:46,000
+because that is another key part of the
+
+501
+00:18:46,000 --> 00:18:49,000
+equation. and Meta talked about the idea
+
+502
+00:18:49,000 --> 00:18:52,000
+of ending a sort of a medialed
+
+503
+00:18:52,000 --> 00:18:56,000
+factecking by maybe replacing it with a
+
+504
+00:18:56,000 --> 00:18:58,000
+system where basically the community can
+
+505
+00:18:58,000 --> 00:19:00,000
+like yeah like check content and like
+
+506
+00:19:00,000 --> 00:19:02,000
+see what's true, what's not and like add
+
+507
+00:19:02,000 --> 00:19:04,000
+basically I mean I would understand it
+
+508
+00:19:04,000 --> 00:19:08,000
+like uh X does today. Um is that
+
+509
+00:19:08,000 --> 00:19:10,000
+something so you're willing to do on
+
+510
+00:19:10,000 --> 00:19:12,000
+Instagram and do you have an idea on
+
+511
+00:19:12,000 --> 00:19:14,000
+like how this will work? Yeah, we we've
+
+512
+00:19:14,000 --> 00:19:16,000
+started to roll it out. still early, but
+
+513
+00:19:16,000 --> 00:19:18,000
+the idea is to instead of rely on third
+
+514
+00:19:18,000 --> 00:19:20,000
+party fact checkers who have there's
+
+515
+00:19:20,000 --> 00:19:22,000
+pros and cons to working with those
+
+516
+00:19:22,000 --> 00:19:24,000
+organizations
+
+517
+00:19:24,000 --> 00:19:26,000
+um to work with the community at large
+
+518
+00:19:26,000 --> 00:19:28,000
+and it doesn't mean anybody can add a
+
+519
+00:19:28,000 --> 00:19:30,000
+com community note to anything but you
+
+520
+00:19:30,000 --> 00:19:33,000
+allow anybody to propose one or trusted
+
+521
+00:19:33,000 --> 00:19:34,000
+users to propose one and then other
+
+522
+00:19:34,000 --> 00:19:36,000
+users vote on them and then where
+
+523
+00:19:36,000 --> 00:19:38,000
+there's broad consensus then resurface
+
+524
+00:19:38,000 --> 00:19:41,000
+it. I actually was very involved in
+
+525
+00:19:41,000 --> 00:19:43,000
+building the third-party fact-checking
+
+526
+00:19:43,000 --> 00:19:45,000
+program back in 2017 and 18 because I
+
+527
+00:19:45,000 --> 00:19:47,000
+was Oh, that was a long time. Okay.
+
+528
+00:19:47,000 --> 00:19:48,000
+Yeah. I was working on newsfeed off for
+
+529
+00:19:48,000 --> 00:19:50,000
+the Facebook app. This was in the wake
+
+530
+00:19:50,000 --> 00:19:53,000
+of President Trump's first election and
+
+531
+00:19:53,000 --> 00:19:54,000
+there's a lot of concerns particularly
+
+532
+00:19:54,000 --> 00:19:58,000
+in the US about fake news. Um, and I,
+
+533
+00:19:58,000 --> 00:19:59,000
+you know, we were trying to do the best
+
+534
+00:19:59,000 --> 00:20:01,000
+work we could, but honestly, I don't
+
+535
+00:20:01,000 --> 00:20:03,000
+think it ended up being nearly as
+
+536
+00:20:03,000 --> 00:20:05,000
+successful as we wanted. Third party
+
+537
+00:20:05,000 --> 00:20:07,000
+fact checkers are limited in how much
+
+538
+00:20:07,000 --> 00:20:09,000
+content that they can do because there's
+
+539
+00:20:09,000 --> 00:20:11,000
+only so many of these organizations and
+
+540
+00:20:11,000 --> 00:20:13,000
+we have to pay them to do it. there are
+
+541
+00:20:13,000 --> 00:20:15,000
+biases and their selection even if they
+
+542
+00:20:15,000 --> 00:20:17,000
+always give an honest answer is if it's
+
+543
+00:20:17,000 --> 00:20:19,000
+true or not what they picked to actually
+
+544
+00:20:19,000 --> 00:20:22,000
+approve is um we saw a lot of biases and
+
+545
+00:20:22,000 --> 00:20:24,000
+it was just fundamentally much more
+
+546
+00:20:24,000 --> 00:20:26,000
+difficult to scale whereas I feel like
+
+547
+00:20:26,000 --> 00:20:29,000
+the community notes approach which all
+
+548
+00:20:29,000 --> 00:20:33,000
+credit to Twitter they pioneered um is I
+
+549
+00:20:33,000 --> 00:20:35,000
+think a more scalable one and so we're
+
+550
+00:20:35,000 --> 00:20:37,000
+pursuing it um now time will tell if we
+
+551
+00:20:37,000 --> 00:20:40,000
+can be successful or not but the idea is
+
+552
+00:20:40,000 --> 00:20:40,000
+not
+
+553
+00:20:40,000 --> 00:20:44,000
+to ignore the issue. The idea is to
+
+554
+00:20:44,000 --> 00:20:45,000
+quite the opposite, address the issue
+
+555
+00:20:45,000 --> 00:20:48,000
+with a more scalable solution cuz I mean
+
+556
+00:20:48,000 --> 00:20:50,000
+on a personal level that's just like how
+
+557
+00:20:50,000 --> 00:20:53,000
+I see it. But I love the idea of like
+
+558
+00:20:53,000 --> 00:20:55,000
+community factecking because I feel like
+
+559
+00:20:55,000 --> 00:20:58,000
+I prefer like this concept from like
+
+560
+00:20:58,000 --> 00:20:59,000
+having a company or like a government
+
+561
+00:20:59,000 --> 00:21:01,000
+saying like that's true or that's not
+
+562
+00:21:01,000 --> 00:21:03,000
+true. So the general idea I feel like
+
+563
+00:21:03,000 --> 00:21:05,000
+it's something that's ideally would work
+
+564
+00:21:05,000 --> 00:21:07,000
+very well and would be very interesting.
+
+565
+00:21:07,000 --> 00:21:09,000
+The only concern I have and I see it on
+
+566
+00:21:09,000 --> 00:21:12,000
+X today is that um often you get some
+
+567
+00:21:12,000 --> 00:21:14,000
+content that where the community notes
+
+568
+00:21:14,000 --> 00:21:17,000
+uh they tend to get on the on the
+
+569
+00:21:17,000 --> 00:21:20,000
+content like way too late. Yeah.
+
+570
+00:21:20,000 --> 00:21:22,000
+basically like a few days or a few hours
+
+571
+00:21:22,000 --> 00:21:24,000
+after like the content has been
+
+572
+00:21:24,000 --> 00:21:25,000
+published and so this you know you can
+
+573
+00:21:25,000 --> 00:21:27,000
+have a fake news with like millions of
+
+574
+00:21:27,000 --> 00:21:28,000
+views and it's only like after a while
+
+575
+00:21:28,000 --> 00:21:31,000
+that this content is is really notice
+
+576
+00:21:31,000 --> 00:21:33,000
+but yeah also since Elon Musk took over
+
+577
+00:21:33,000 --> 00:21:36,000
+X and reduced content moderation. The
+
+578
+00:21:36,000 --> 00:21:38,000
+spread of false information has grown
+
+579
+00:21:38,000 --> 00:21:40,000
+significantly. This has raised major
+
+580
+00:21:40,000 --> 00:21:42,000
+concerns for democracy and many
+
+581
+00:21:42,000 --> 00:21:45,000
+organizations have the same fears about
+
+582
+00:21:45,000 --> 00:21:48,000
+Meta if it decides to take a similar
+
+583
+00:21:48,000 --> 00:21:50,000
+approach. It's a real concern. It's
+
+584
+00:21:50,000 --> 00:21:51,000
+actually more of a concern with third
+
+585
+00:21:51,000 --> 00:21:54,000
+party fact checkers because they are
+
+586
+00:21:54,000 --> 00:21:56,000
+there's less of them and and um there
+
+587
+00:21:56,000 --> 00:21:58,000
+are organizations that are tend they
+
+588
+00:21:58,000 --> 00:21:59,000
+just tend to be much slower than the
+
+589
+00:21:59,000 --> 00:22:01,000
+community. But it's still an issue with
+
+590
+00:22:01,000 --> 00:22:02,000
+community notes, right? I want to make
+
+591
+00:22:02,000 --> 00:22:05,000
+sure I'm not pretending otherwise. You
+
+592
+00:22:05,000 --> 00:22:07,000
+if you do not move quickly, then by the
+
+593
+00:22:07,000 --> 00:22:10,000
+time you get involved, it might not be
+
+594
+00:22:10,000 --> 00:22:11,000
+even helpful to add the community note
+
+595
+00:22:11,000 --> 00:22:12,000
+because all the views have already
+
+596
+00:22:12,000 --> 00:22:14,000
+happened. Yeah. Because like people will
+
+597
+00:22:14,000 --> 00:22:16,000
+start to fact check something if it get
+
+598
+00:22:16,000 --> 00:22:20,000
+views. So it's often way later. And so
+
+599
+00:22:20,000 --> 00:22:22,000
+just to understand how you see this
+
+600
+00:22:22,000 --> 00:22:24,000
+today. Um so of course we've talked
+
+601
+00:22:24,000 --> 00:22:27,000
+about this problem of like um being like
+
+602
+00:22:27,000 --> 00:22:29,000
+reactive like and and yeah speed
+
+603
+00:22:29,000 --> 00:22:32,000
+regarding this. Um but how do you view
+
+604
+00:22:32,000 --> 00:22:34,000
+like a platform like Instagram today
+
+605
+00:22:34,000 --> 00:22:36,000
+regarding like fake news and everything?
+
+606
+00:22:36,000 --> 00:22:38,000
+Does that mean that like if something
+
+607
+00:22:38,000 --> 00:22:41,000
+like there's uh fake news like something
+
+608
+00:22:41,000 --> 00:22:43,000
+that's completely false will it be like
+
+609
+00:22:43,000 --> 00:22:46,000
+deleted or will it be able to stay on
+
+610
+00:22:46,000 --> 00:22:48,000
+the platform but with like something
+
+611
+00:22:48,000 --> 00:22:50,000
+saying that this content is not true or
+
+612
+00:22:50,000 --> 00:22:52,000
+the latter it would the idea is to not
+
+613
+00:22:52,000 --> 00:22:54,000
+censor people for saying things that
+
+614
+00:22:54,000 --> 00:22:56,000
+aren't true but provide context um
+
+615
+00:22:56,000 --> 00:22:58,000
+because you know I could say the sky is
+
+616
+00:22:58,000 --> 00:23:00,000
+green and it' be weird for me to for the
+
+617
+00:23:00,000 --> 00:23:03,000
+platform to take that down but it's not
+
+618
+00:23:03,000 --> 00:23:05,000
+so you should know that you know when
+
+619
+00:23:05,000 --> 00:23:06,000
+you see
+
+620
+00:23:06,000 --> 00:23:08,000
+Generally, we want to empower people to
+
+621
+00:23:08,000 --> 00:23:10,000
+make educated decisions about what to
+
+622
+00:23:10,000 --> 00:23:13,000
+trust and what not to. Um, and I mean,
+
+623
+00:23:13,000 --> 00:23:14,000
+look, we'll probably talk about AI in a
+
+624
+00:23:14,000 --> 00:23:16,000
+bit, but we're moving to a world where
+
+625
+00:23:16,000 --> 00:23:18,000
+you're going to be able to create an
+
+626
+00:23:18,000 --> 00:23:20,000
+image or a video of anything you want.
+
+627
+00:23:20,000 --> 00:23:23,000
+Uh, and it'll look real. And so, as you
+
+628
+00:23:23,000 --> 00:23:25,000
+try to evaluate
+
+629
+00:23:25,000 --> 00:23:28,000
+um the the veracity of a piece of
+
+630
+00:23:28,000 --> 00:23:30,000
+content, you're going to have to
+
+631
+00:23:30,000 --> 00:23:32,000
+consider not just what you're looking
+
+632
+00:23:32,000 --> 00:23:34,000
+at, but who said it more and more. So I
+
+633
+00:23:34,000 --> 00:23:37,000
+also think community notes aside, we
+
+634
+00:23:37,000 --> 00:23:38,000
+need to do more and are starting to do
+
+635
+00:23:38,000 --> 00:23:40,000
+more to give people context about who's
+
+636
+00:23:40,000 --> 00:23:44,000
+posting. I want to protect pseudonymity.
+
+637
+00:23:44,000 --> 00:23:45,000
+I don't want to make everybody put their
+
+638
+00:23:45,000 --> 00:23:46,000
+real names everywhere. There's a bunch
+
+639
+00:23:46,000 --> 00:23:49,000
+of downsides to that. But are they is
+
+640
+00:23:49,000 --> 00:23:51,000
+their account verified? Like do they do
+
+641
+00:23:51,000 --> 00:23:52,000
+we at least know who they are? They've
+
+642
+00:23:52,000 --> 00:23:55,000
+they is how long has the account been
+
+643
+00:23:55,000 --> 00:23:57,000
+around? What country is the account
+
+644
+00:23:57,000 --> 00:23:59,000
+based in to allow you to make a decision
+
+645
+00:23:59,000 --> 00:24:01,000
+on whether or not to trust something or
+
+646
+00:24:01,000 --> 00:24:02,000
+not? because you're going to need to
+
+647
+00:24:02,000 --> 00:24:05,000
+consider much more in the future who's
+
+648
+00:24:05,000 --> 00:24:08,000
+saying something um than you have in the
+
+649
+00:24:08,000 --> 00:24:11,000
+past relative to what's being said.
+
+650
+00:24:11,000 --> 00:24:14,000
+Okay. Yeah. And so how do you think do
+
+651
+00:24:14,000 --> 00:24:16,000
+you think AI how does that how does AI
+
+652
+00:24:16,000 --> 00:24:18,000
+change this? It's the fact that you get
+
+653
+00:24:18,000 --> 00:24:20,000
+more and more content that can be
+
+654
+00:24:20,000 --> 00:24:22,000
+produced that can be fake and sometimes
+
+655
+00:24:22,000 --> 00:24:24,000
+it's obvious like if it's like something
+
+656
+00:24:24,000 --> 00:24:25,000
+you see that's fake and it's like even
+
+657
+00:24:25,000 --> 00:24:27,000
+like in a yeah it's going to be like a
+
+658
+00:24:27,000 --> 00:24:29,000
+humoristic thing. How do you see those
+
+659
+00:24:29,000 --> 00:24:32,000
+contents on your platform today? And
+
+660
+00:24:32,000 --> 00:24:35,000
+what's the biggest issue or goal for you
+
+661
+00:24:35,000 --> 00:24:38,000
+to manage those? So, I actually think
+
+662
+00:24:38,000 --> 00:24:40,000
+there's a lot of exciting opportunities
+
+663
+00:24:40,000 --> 00:24:42,000
+with AI generated content. Um, I think
+
+664
+00:24:42,000 --> 00:24:43,000
+that it should enable a bunch of people
+
+665
+00:24:43,000 --> 00:24:45,000
+to be more creative. It should enable
+
+666
+00:24:45,000 --> 00:24:47,000
+creatives to produce more and better
+
+667
+00:24:47,000 --> 00:24:49,000
+content because it's usually not make
+
+668
+00:24:49,000 --> 00:24:50,000
+something from nothing. It's usually
+
+669
+00:24:50,000 --> 00:24:53,000
+part of your workflow. So, you know, you
+
+670
+00:24:53,000 --> 00:24:56,000
+can it's not even necessarily like
+
+671
+00:24:56,000 --> 00:24:57,000
+glamorous, but you know, you you're
+
+672
+00:24:57,000 --> 00:24:59,000
+making a reel there seven clips. You can
+
+673
+00:24:59,000 --> 00:25:01,000
+make all the color line up so it looks
+
+674
+00:25:01,000 --> 00:25:03,000
+like they're all on the same day cuz you
+
+675
+00:25:03,000 --> 00:25:04,000
+know, you're facing the light, you're
+
+676
+00:25:04,000 --> 00:25:06,000
+away from the light. You could add a hat
+
+677
+00:25:06,000 --> 00:25:08,000
+that you forgot to have or a prop, that
+
+678
+00:25:08,000 --> 00:25:10,000
+kind of thing. Um, but there are risks
+
+679
+00:25:10,000 --> 00:25:13,000
+too obviously. Um, I think a couple
+
+680
+00:25:13,000 --> 00:25:14,000
+different things. One, we want to make
+
+681
+00:25:14,000 --> 00:25:16,000
+sure anything that's made with AI is
+
+682
+00:25:16,000 --> 00:25:19,000
+labeled as such. So, you know, if you
+
+683
+00:25:19,000 --> 00:25:20,000
+use any of our tools to make it, it's
+
+684
+00:25:20,000 --> 00:25:22,000
+labeled and there's an ability to add a
+
+685
+00:25:22,000 --> 00:25:24,000
+label if it's not. We cannot detect
+
+686
+00:25:24,000 --> 00:25:25,000
+everything that was made with AI from
+
+687
+00:25:25,000 --> 00:25:27,000
+everybody because that's a bit of a an
+
+688
+00:25:27,000 --> 00:25:29,000
+arms race that is impossible to win. Uh,
+
+689
+00:25:29,000 --> 00:25:31,000
+we can do some work there though. Um,
+
+690
+00:25:31,000 --> 00:25:32,000
+and then we can provide more context
+
+691
+00:25:32,000 --> 00:25:34,000
+about who's saying it so that you can
+
+692
+00:25:34,000 --> 00:25:36,000
+make decisions about what to trust and
+
+693
+00:25:36,000 --> 00:25:39,000
+what not to trust. But Instagram aside,
+
+694
+00:25:39,000 --> 00:25:41,000
+like you will be able to make a video
+
+695
+00:25:41,000 --> 00:25:43,000
+where you could just take a photo of me,
+
+696
+00:25:43,000 --> 00:25:45,000
+a video of you saying whatever you want
+
+697
+00:25:45,000 --> 00:25:47,000
+and then have it look like me in my
+
+698
+00:25:47,000 --> 00:25:49,000
+voice, but it's you saying it even if
+
+699
+00:25:49,000 --> 00:25:51,000
+you said it in a different language and
+
+700
+00:25:51,000 --> 00:25:53,000
+then you could post it and you could
+
+701
+00:25:53,000 --> 00:25:55,000
+make me look as bad as you wanted.
+
+702
+00:25:55,000 --> 00:25:58,000
+That's going to be able to happen. But
+
+703
+00:25:58,000 --> 00:26:00,000
+is it from you? Why might you say that?
+
+704
+00:26:00,000 --> 00:26:02,000
+Are you based in France? You know, did
+
+705
+00:26:02,000 --> 00:26:04,000
+you did you schedule did you sign up for
+
+706
+00:26:04,000 --> 00:26:06,000
+Instagram a week ago? These are the
+
+707
+00:26:06,000 --> 00:26:07,000
+things that are going to be important
+
+708
+00:26:07,000 --> 00:26:09,000
+for people to evaluate whether or not
+
+709
+00:26:09,000 --> 00:26:10,000
+they should trust that this is
+
+710
+00:26:10,000 --> 00:26:12,000
+authentic. And I I see it I mean I've
+
+711
+00:26:12,000 --> 00:26:15,000
+seen it on some social media uh with
+
+712
+00:26:15,000 --> 00:26:17,000
+like some people taking my voice taking
+
+713
+00:26:17,000 --> 00:26:20,000
+basically the format of like my videos
+
+714
+00:26:20,000 --> 00:26:22,000
+and just changing what I'm saying to
+
+715
+00:26:22,000 --> 00:26:24,000
+like so sometimes it's like funny stuff
+
+716
+00:26:24,000 --> 00:26:26,000
+and like obviously you understand that
+
+717
+00:26:26,000 --> 00:26:28,000
+like it's just AI generated but
+
+718
+00:26:28,000 --> 00:26:30,000
+sometimes people use it to like spread
+
+719
+00:26:30,000 --> 00:26:31,000
+like fake news or like some stuff and
+
+720
+00:26:31,000 --> 00:26:33,000
+you're like oh that's scary because even
+
+721
+00:26:33,000 --> 00:26:35,000
+myself I see it. That's what we were
+
+722
+00:26:35,000 --> 00:26:37,000
+saying earlier. I see this content when
+
+723
+00:26:37,000 --> 00:26:39,000
+it has already like hundreds of
+
+724
+00:26:39,000 --> 00:26:41,000
+thousands or millions of views and I'm
+
+725
+00:26:41,000 --> 00:26:42,000
+like, "Oh, that's too late for me to do
+
+726
+00:26:42,000 --> 00:26:44,000
+anything because the content is just
+
+727
+00:26:44,000 --> 00:26:46,000
+getting anyway." So, yeah. Yeah. Yeah.
+
+728
+00:26:46,000 --> 00:26:47,000
+It's tough. It's tough, but it's the
+
+729
+00:26:47,000 --> 00:26:50,000
+world we're moving into. But I would
+
+730
+00:26:50,000 --> 00:26:52,000
+like to know if I see it, is it is it a
+
+731
+00:26:52,000 --> 00:26:54,000
+verified account or not? You know, if
+
+732
+00:26:54,000 --> 00:26:56,000
+it's your name and it's verified or if
+
+733
+00:26:56,000 --> 00:26:58,000
+it's, you know, but if it's not your
+
+734
+00:26:58,000 --> 00:27:00,000
+name and and or it's not verified, that
+
+735
+00:27:00,000 --> 00:27:03,000
+changes things. Um, is it based in
+
+736
+00:27:03,000 --> 00:27:07,000
+somewhere in Eastern Europe or in you
+
+737
+00:27:07,000 --> 00:27:09,000
+know Russia or somewhere where there's
+
+738
+00:27:09,000 --> 00:27:10,000
+like we know that there's more negative
+
+739
+00:27:10,000 --> 00:27:12,000
+content that comes from not all of it
+
+740
+00:27:12,000 --> 00:27:14,000
+but a lot of fake content comes
+
+741
+00:27:14,000 --> 00:27:15,000
+disproportionately comes from those
+
+742
+00:27:15,000 --> 00:27:17,000
+parts of the world um things like that
+
+743
+00:27:17,000 --> 00:27:20,000
+signals of trusted patterns of like way
+
+744
+00:27:20,000 --> 00:27:23,000
+of and is there a way for meta today to
+
+745
+00:27:23,000 --> 00:27:27,000
+instantly understand if a content is AI
+
+746
+00:27:27,000 --> 00:27:29,000
+generated it's too difficult to not
+
+747
+00:27:29,000 --> 00:27:32,000
+perfectly uh there are ways to detect
+
+748
+00:27:32,000 --> 00:27:34,000
+But it's the the technology to our
+
+749
+00:27:34,000 --> 00:27:37,000
+conversation before is changing so
+
+750
+00:27:37,000 --> 00:27:41,000
+quickly um that we we do not know for
+
+751
+00:27:41,000 --> 00:27:43,000
+sure if everything that is created is
+
+752
+00:27:43,000 --> 00:27:44,000
+created with AR or not. Cuz by the way,
+
+753
+00:27:44,000 --> 00:27:47,000
+a lot of times it's a hybrid, right? You
+
+754
+00:27:47,000 --> 00:27:49,000
+we've used Photoshop for years to like
+
+755
+00:27:49,000 --> 00:27:52,000
+touch things up. It might not even be
+
+756
+00:27:52,000 --> 00:27:54,000
+airbrushing. It might just be like
+
+757
+00:27:54,000 --> 00:27:56,000
+getting rid of spots from, you know,
+
+758
+00:27:56,000 --> 00:27:58,000
+photographs back in the day. A lot of
+
+759
+00:27:58,000 --> 00:27:59,000
+those tools can and do use machine
+
+760
+00:27:59,000 --> 00:28:02,000
+learning and AI. uh to make sure you can
+
+761
+00:28:02,000 --> 00:28:04,000
+use the stamp tool so you can get rid of
+
+762
+00:28:04,000 --> 00:28:06,000
+you know your pimple when and you take a
+
+763
+00:28:06,000 --> 00:28:09,000
+piece from here and put it there. Um, so
+
+764
+00:28:09,000 --> 00:28:11,000
+just saying is this manipulated in any
+
+765
+00:28:11,000 --> 00:28:14,000
+way is is our and by the way again we we
+
+766
+00:28:14,000 --> 00:28:17,000
+always talk about AI as if it's push a
+
+767
+00:28:17,000 --> 00:28:19,000
+button get a piece of content I think
+
+768
+00:28:19,000 --> 00:28:22,000
+that is a thing but the much more common
+
+769
+00:28:22,000 --> 00:28:26,000
+thing is it's used to edit in a longer
+
+770
+00:28:26,000 --> 00:28:27,000
+creative process whether that's a
+
+771
+00:28:27,000 --> 00:28:29,000
+positive creative process like telling a
+
+772
+00:28:29,000 --> 00:28:32,000
+story or a more you know malicious
+
+773
+00:28:32,000 --> 00:28:34,000
+process like trying to spread a piece of
+
+774
+00:28:34,000 --> 00:28:36,000
+fake news. Yeah. And if we take and then
+
+775
+00:28:36,000 --> 00:28:37,000
+we'll move on to another topic but like
+
+776
+00:28:37,000 --> 00:28:40,000
+if we take I mean the worst case
+
+777
+00:28:40,000 --> 00:28:42,000
+scenario we we could imagine for like
+
+778
+00:28:42,000 --> 00:28:45,000
+any social network social network which
+
+779
+00:28:45,000 --> 00:28:48,000
+is a group whether it's like a political
+
+780
+00:28:48,000 --> 00:28:50,000
+group or anything a group who like uses
+
+781
+00:28:50,000 --> 00:28:53,000
+AI to produce a massive amount of
+
+782
+00:28:53,000 --> 00:28:56,000
+content uh spreading whether it's fake
+
+783
+00:28:56,000 --> 00:28:57,000
+news or anything but like publishing
+
+784
+00:28:57,000 --> 00:29:00,000
+like hundreds and hundreds of like uh
+
+785
+00:29:00,000 --> 00:29:03,000
+fake news for example in this type of
+
+786
+00:29:03,000 --> 00:29:05,000
+situation
+
+787
+00:29:05,000 --> 00:29:08,000
+What would be uh Instagram Instagram's
+
+788
+00:29:08,000 --> 00:29:11,000
+role in that? Yeah. What would Instagram
+
+789
+00:29:11,000 --> 00:29:14,000
+do? So that risk predates AI, right? Cuz
+
+790
+00:29:14,000 --> 00:29:16,000
+now what you have is, you know, a
+
+791
+00:29:16,000 --> 00:29:18,000
+content farm and what we call
+
+792
+00:29:18,000 --> 00:29:21,000
+coordinated inauthentic behavior. So um
+
+793
+00:29:21,000 --> 00:29:23,000
+CIA is what we call it internally. And
+
+794
+00:29:23,000 --> 00:29:25,000
+so what we're looking for there is
+
+795
+00:29:25,000 --> 00:29:27,000
+patterns. Are there things that are
+
+796
+00:29:27,000 --> 00:29:28,000
+happening that look like it's some sort
+
+797
+00:29:28,000 --> 00:29:32,000
+of collusion or organized effort to
+
+798
+00:29:32,000 --> 00:29:33,000
+spread? It might not even be
+
+799
+00:29:33,000 --> 00:29:35,000
+misinformation. It might just be
+
+800
+00:29:35,000 --> 00:29:37,000
+propaganda. You know, we saw this with R
+
+801
+00:29:37,000 --> 00:29:39,000
+coming out of Russia a bunch, you know,
+
+802
+00:29:39,000 --> 00:29:40,000
+particularly four, five, six, seven,
+
+803
+00:29:40,000 --> 00:29:43,000
+eight years ago. Um, and so there we're
+
+804
+00:29:43,000 --> 00:29:45,000
+looking at what are the IP addresses.
+
+805
+00:29:45,000 --> 00:29:47,000
+What does the network of connections
+
+806
+00:29:47,000 --> 00:29:50,000
+look like? Um, how are they using it?
+
+807
+00:29:50,000 --> 00:29:52,000
+They're very sophisticated. Uh, just
+
+808
+00:29:52,000 --> 00:29:55,000
+like spammers where they pretend to be
+
+809
+00:29:55,000 --> 00:29:57,000
+people. They adopt those patterns. They
+
+810
+00:29:57,000 --> 00:30:00,000
+don't post at local late night times if
+
+811
+00:30:00,000 --> 00:30:01,000
+they're pretending to be in Texas, even
+
+812
+00:30:01,000 --> 00:30:03,000
+if they're not. Uh they post, you know,
+
+813
+00:30:03,000 --> 00:30:05,000
+a few times a week, not every second of
+
+814
+00:30:05,000 --> 00:30:07,000
+the day. They become friends with each
+
+815
+00:30:07,000 --> 00:30:08,000
+other. They post things that are not
+
+816
+00:30:08,000 --> 00:30:10,000
+about the propaganda or the
+
+817
+00:30:10,000 --> 00:30:12,000
+misinformation in addition to the actual
+
+818
+00:30:12,000 --> 00:30:15,000
+um sort of agenda content. Uh but we're
+
+819
+00:30:15,000 --> 00:30:17,000
+getting more sophisticated. We work with
+
+820
+00:30:17,000 --> 00:30:18,000
+governments around the world to try to
+
+821
+00:30:18,000 --> 00:30:21,000
+identify them. Uh we have a whole
+
+822
+00:30:21,000 --> 00:30:23,000
+investigations operation and set of
+
+823
+00:30:23,000 --> 00:30:25,000
+teams. uh when we identify it, we don't
+
+824
+00:30:25,000 --> 00:30:27,000
+always remove it right away because
+
+825
+00:30:27,000 --> 00:30:29,000
+usually it's useful to take one account
+
+826
+00:30:29,000 --> 00:30:30,000
+and then branch out and figure out
+
+827
+00:30:30,000 --> 00:30:32,000
+everything everybody else they seem to
+
+828
+00:30:32,000 --> 00:30:34,000
+be working with and then we take the
+
+829
+00:30:34,000 --> 00:30:36,000
+whole network down at once. Okay. And so
+
+830
+00:30:36,000 --> 00:30:37,000
+you might take it down if you see that
+
+831
+00:30:37,000 --> 00:30:40,000
+it's a sort of an organized automatic.
+
+832
+00:30:40,000 --> 00:30:41,000
+Okay. Yeah. If it's coordinated and
+
+833
+00:30:41,000 --> 00:30:42,000
+authentic behavior, we take the whole
+
+834
+00:30:42,000 --> 00:30:44,000
+network down. Um we might not take the
+
+835
+00:30:44,000 --> 00:30:46,000
+first account down that we find cuz we
+
+836
+00:30:46,000 --> 00:30:48,000
+want to make sure we leverage that and
+
+837
+00:30:48,000 --> 00:30:49,000
+don't let them know that we're on to
+
+838
+00:30:49,000 --> 00:30:51,000
+them until we find all of the
+
+839
+00:30:51,000 --> 00:30:52,000
+connections and then we'll take the
+
+840
+00:30:52,000 --> 00:30:54,000
+whole thing down. Did you differentiate
+
+841
+00:30:54,000 --> 00:30:56,000
+like one guy just saying something
+
+842
+00:30:56,000 --> 00:30:58,000
+that's not true with like an organized
+
+843
+00:30:58,000 --> 00:31:00,000
+way of spreading we're not the truth
+
+844
+00:31:00,000 --> 00:31:02,000
+police. We're not going to go and take
+
+845
+00:31:02,000 --> 00:31:04,000
+down content that you say that's false.
+
+846
+00:31:04,000 --> 00:31:07,000
+But if you're using our platform to try
+
+847
+00:31:07,000 --> 00:31:10,000
+and have a coordinated attack on uh on a
+
+848
+00:31:10,000 --> 00:31:11,000
+government or on democracy or on
+
+849
+00:31:11,000 --> 00:31:15,000
+propaganda that is 100% if we find it we
+
+850
+00:31:15,000 --> 00:31:17,000
+take it down and that's the whole
+
+851
+00:31:17,000 --> 00:31:18,000
+network and it's fully done. It's not a
+
+852
+00:31:18,000 --> 00:31:20,000
+piece of content done. That's the
+
+853
+00:31:20,000 --> 00:31:21,000
+accounts are all blocked. the IP
+
+854
+00:31:21,000 --> 00:31:23,000
+addresses are all blocked. We try to
+
+855
+00:31:23,000 --> 00:31:25,000
+make sure we handle because that's
+
+856
+00:31:25,000 --> 00:31:27,000
+that's that's election interference
+
+857
+00:31:27,000 --> 00:31:28,000
+usually. That's that's pretty serious
+
+858
+00:31:28,000 --> 00:31:31,000
+thing. That's a serious thing. Yeah.
+
+859
+00:31:31,000 --> 00:31:33,000
+Another updates and important thing that
+
+860
+00:31:33,000 --> 00:31:35,000
+happened after the interview. Meta has
+
+861
+00:31:35,000 --> 00:31:38,000
+now launched its AI assistant called the
+
+862
+00:31:38,000 --> 00:31:41,000
+Meta AI on a large scale. This launch
+
+863
+00:31:41,000 --> 00:31:43,000
+sparked in Europe strong reactions with
+
+864
+00:31:43,000 --> 00:31:46,000
+many voices calling to block the use of
+
+865
+00:31:46,000 --> 00:31:49,000
+users personal data. So, we've already
+
+866
+00:31:49,000 --> 00:31:51,000
+talked about this on our other formats,
+
+867
+00:31:51,000 --> 00:31:53,000
+but we'll go into more details soon to
+
+868
+00:31:53,000 --> 00:31:56,000
+explain the whole debate. Uh, we'll talk
+
+869
+00:31:56,000 --> 00:31:58,000
+about like content creation and like all
+
+870
+00:31:58,000 --> 00:32:00,000
+of this and the algorithm. I have quite
+
+871
+00:32:00,000 --> 00:32:01,000
+a few questions in a few in a few
+
+872
+00:32:01,000 --> 00:32:03,000
+minutes. But just I had another uh topic
+
+873
+00:32:03,000 --> 00:32:06,000
+I wanted to talk to talk with you. Um,
+
+874
+00:32:06,000 --> 00:32:08,000
+another sensitive topic about mental
+
+875
+00:32:08,000 --> 00:32:11,000
+health uh on social media. You had a a
+
+876
+00:32:11,000 --> 00:32:13,000
+US study published in March 2025 that
+
+877
+00:32:13,000 --> 00:32:16,000
+showed that 40% of young people being
+
+878
+00:32:16,000 --> 00:32:18,000
+treated for depression or suicidal
+
+879
+00:32:18,000 --> 00:32:22,000
+thoughts also have problematic use of
+
+880
+00:32:22,000 --> 00:32:23,000
+social media, not only Instagram but
+
+881
+00:32:23,000 --> 00:32:26,000
+like social media in a broader sense. Um
+
+882
+00:32:26,000 --> 00:32:29,000
+also in 2021 um internal meta documents
+
+883
+00:32:29,000 --> 00:32:31,000
+revealed by the Wall Street Journal
+
+884
+00:32:31,000 --> 00:32:34,000
+showed the company knew about some risks
+
+885
+00:32:34,000 --> 00:32:36,000
+for for teens. Uh so that was like in
+
+886
+00:32:36,000 --> 00:32:40,000
+2021. um in 2025 uh almost four years
+
+887
+00:32:40,000 --> 00:32:42,000
+later, what have you done uh as a group
+
+888
+00:32:42,000 --> 00:32:46,000
+to fix those uh those issues? So, I want
+
+889
+00:32:46,000 --> 00:32:47,000
+to be clear with some of the issues that
+
+890
+00:32:47,000 --> 00:32:50,000
+we're talking about, things like, you
+
+891
+00:32:50,000 --> 00:32:52,000
+know, well-being or even things like,
+
+892
+00:32:52,000 --> 00:32:54,000
+you know, bullying. There's
+
+893
+00:32:54,000 --> 00:32:57,000
+no 100% fixing them, right? These things
+
+894
+00:32:57,000 --> 00:33:01,000
+are human, right? Teens and kids, they
+
+895
+00:33:01,000 --> 00:33:03,000
+harass and they bully each other. That's
+
+896
+00:33:03,000 --> 00:33:05,000
+going to that's as old as time. Now,
+
+897
+00:33:05,000 --> 00:33:07,000
+does that mean we should just accept it?
+
+898
+00:33:07,000 --> 00:33:09,000
+No, of course not. We have a bunch of
+
+899
+00:33:09,000 --> 00:33:11,000
+responsibilities. Um, but I want to make
+
+900
+00:33:11,000 --> 00:33:14,000
+sure that I'm honest with two and a half
+
+901
+00:33:14,000 --> 00:33:15,000
+billion people on the platform or
+
+902
+00:33:15,000 --> 00:33:17,000
+whatever it might be, not everyone's
+
+903
+00:33:17,000 --> 00:33:18,000
+going to check their baggage at the door
+
+904
+00:33:18,000 --> 00:33:20,000
+and only bring their positive self to
+
+905
+00:33:20,000 --> 00:33:23,000
+the platform. And so, our job is to
+
+906
+00:33:23,000 --> 00:33:25,000
+minimize the bad and maximize the good.
+
+907
+00:33:25,000 --> 00:33:27,000
+Now depending on the issue you're
+
+908
+00:33:27,000 --> 00:33:28,000
+talking about um whether it's
+
+909
+00:33:28,000 --> 00:33:31,000
+problematic use which we define as using
+
+910
+00:33:31,000 --> 00:33:32,000
+a product more than you really feel good
+
+911
+00:33:32,000 --> 00:33:37,000
+about or bullying or negative social
+
+912
+00:33:37,000 --> 00:33:38,000
+comparison you know there's different
+
+913
+00:33:38,000 --> 00:33:41,000
+things that we have tried to do uh to
+
+914
+00:33:41,000 --> 00:33:43,000
+minimize the risk and to minimize any
+
+915
+00:33:43,000 --> 00:33:46,000
+sort of downsides. Um, for teens
+
+916
+00:33:46,000 --> 00:33:48,000
+specifically though, which matters most
+
+917
+00:33:48,000 --> 00:33:51,000
+cuz our youth matters most. Um, the big
+
+918
+00:33:51,000 --> 00:33:53,000
+thing is that we took all of the tools
+
+919
+00:33:53,000 --> 00:33:55,000
+that we've built over the years, audited
+
+920
+00:33:55,000 --> 00:33:57,000
+them all, looked for inconsistencies,
+
+921
+00:33:57,000 --> 00:33:59,000
+but also opportunities to go further and
+
+922
+00:33:59,000 --> 00:34:02,000
+improve and put them into a package we
+
+923
+00:34:02,000 --> 00:34:03,000
+call teen accounts, which is actually
+
+924
+00:34:03,000 --> 00:34:05,000
+rolled out here uh and worldwide at this
+
+925
+00:34:05,000 --> 00:34:07,000
+point. Yeah. Saw some ads a few a few
+
+926
+00:34:07,000 --> 00:34:08,000
+weeks ago. Yeah. Yeah. Well, we want
+
+927
+00:34:08,000 --> 00:34:10,000
+people to know about it.
+
+928
+00:34:10,000 --> 00:34:12,000
+And what teen accounts are are a really
+
+929
+00:34:12,000 --> 00:34:14,000
+comprehensive
+
+930
+00:34:14,000 --> 00:34:17,000
+uh set of automatic protections for
+
+931
+00:34:17,000 --> 00:34:20,000
+teens to try and keep them safe and give
+
+932
+00:34:20,000 --> 00:34:23,000
+parents some peace of mind. It's about
+
+933
+00:34:23,000 --> 00:34:25,000
+who they you know uh they're private by
+
+934
+00:34:25,000 --> 00:34:27,000
+default. So who you can post to, who can
+
+935
+00:34:27,000 --> 00:34:29,000
+interact with them, right? So only
+
+936
+00:34:29,000 --> 00:34:31,000
+people that they're connected to or you
+
+937
+00:34:31,000 --> 00:34:32,000
+know pe adults they don't know can't
+
+938
+00:34:32,000 --> 00:34:34,000
+even message them at all. What content
+
+939
+00:34:34,000 --> 00:34:37,000
+they see. We don't send notifications in
+
+940
+00:34:37,000 --> 00:34:39,000
+the evening. remind them to maybe try
+
+941
+00:34:39,000 --> 00:34:41,000
+something else once they hit an hour for
+
+942
+00:34:41,000 --> 00:34:43,000
+the day, even if it's not all in one go.
+
+943
+00:34:43,000 --> 00:34:46,000
+Um, and parents, if they want, can go
+
+944
+00:34:46,000 --> 00:34:48,000
+and change those settings, but the
+
+945
+00:34:48,000 --> 00:34:50,000
+defaults, because we know a lot of
+
+946
+00:34:50,000 --> 00:34:52,000
+parents are busy, are very careful and
+
+947
+00:34:52,000 --> 00:34:55,000
+safe. And if the teen and if they're
+
+948
+00:34:55,000 --> 00:34:58,000
+specifically under 16, so if they're 13,
+
+949
+00:34:58,000 --> 00:35:00,000
+14, or 15, and they want to change those
+
+950
+00:35:00,000 --> 00:35:02,000
+settings, they need to get their parents
+
+951
+00:35:02,000 --> 00:35:06,000
+approval or permission to do so. Um, now
+
+952
+00:35:06,000 --> 00:35:08,000
+this isn't entirely new. Some of those
+
+953
+00:35:08,000 --> 00:35:10,000
+features have existed for years or many
+
+954
+00:35:10,000 --> 00:35:12,000
+years, but some are also new. U but the
+
+955
+00:35:12,000 --> 00:35:14,000
+idea is to just try to make sure that
+
+956
+00:35:14,000 --> 00:35:16,000
+there is a
+
+957
+00:35:16,000 --> 00:35:20,000
+clear, safe, age appropriate experience
+
+958
+00:35:20,000 --> 00:35:23,000
+for those under 18. And I know you have
+
+959
+00:35:23,000 --> 00:35:25,000
+kids. I don't have some yet. I don't
+
+960
+00:35:25,000 --> 00:35:27,000
+have kids yet. But like I guess it's a
+
+961
+00:35:27,000 --> 00:35:29,000
+question like all parents ask themselves
+
+962
+00:35:29,000 --> 00:35:32,000
+like how we should deal with social
+
+963
+00:35:32,000 --> 00:35:34,000
+media for our kids. Like should we give
+
+964
+00:35:34,000 --> 00:35:36,000
+them accounts at what age? uh like
+
+965
+00:35:36,000 --> 00:35:38,000
+should we look at what they're doing?
+
+966
+00:35:38,000 --> 00:35:39,000
+Should you have an access to the account
+
+967
+00:35:39,000 --> 00:35:41,000
+or like should you just leave them doing
+
+968
+00:35:41,000 --> 00:35:43,000
+what they want to do? Like more on a
+
+969
+00:35:43,000 --> 00:35:44,000
+personal level, how do you see this
+
+970
+00:35:44,000 --> 00:35:46,000
+question? How did you do it yourself? I
+
+971
+00:35:46,000 --> 00:35:48,000
+have three. Uh they're not old enough to
+
+972
+00:35:48,000 --> 00:35:50,000
+use social media. You have to be 13 to
+
+973
+00:35:50,000 --> 00:35:52,000
+use Instagram and they're are nine,
+
+974
+00:35:52,000 --> 00:35:56,000
+seven, and about to be five. Um they use
+
+975
+00:35:56,000 --> 00:35:58,000
+tablets and you know to watch movies on
+
+976
+00:35:58,000 --> 00:36:00,000
+planes and increasingly play video
+
+977
+00:36:00,000 --> 00:36:03,000
+games. But look, I I think there are
+
+978
+00:36:03,000 --> 00:36:04,000
+some things that are universally true,
+
+979
+00:36:04,000 --> 00:36:06,000
+but there's a lot that is specific to
+
+980
+00:36:06,000 --> 00:36:08,000
+the child. So, yes, you can't use
+
+981
+00:36:08,000 --> 00:36:11,000
+Instagram until you're 13. Uh, and I'm
+
+982
+00:36:11,000 --> 00:36:12,000
+excited about my kids using a safe
+
+983
+00:36:12,000 --> 00:36:13,000
+version version of Instagram when
+
+984
+00:36:13,000 --> 00:36:16,000
+they're 13, where they can explore their
+
+985
+00:36:16,000 --> 00:36:17,000
+interests and connect with their friends
+
+986
+00:36:17,000 --> 00:36:19,000
+over their interests. But are they all
+
+987
+00:36:19,000 --> 00:36:22,000
+going to be ready at 13? I don't know. I
+
+988
+00:36:22,000 --> 00:36:24,000
+can imagine a world where one of the
+
+989
+00:36:24,000 --> 00:36:25,000
+more mature ones at 13, I'd feel very
+
+990
+00:36:25,000 --> 00:36:28,000
+comfortable. and one of the less mature,
+
+991
+00:36:28,000 --> 00:36:29,000
+more wild ones, I might want to wait
+
+992
+00:36:29,000 --> 00:36:32,000
+until they're 14 or 15. Um, because
+
+993
+00:36:32,000 --> 00:36:34,000
+ultimately, I think every child is
+
+994
+00:36:34,000 --> 00:36:36,000
+different and a parent knows best what's
+
+995
+00:36:36,000 --> 00:36:39,000
+appropriate for their child. Uh, and
+
+996
+00:36:39,000 --> 00:36:42,000
+that has to be uh, well, it doesn't have
+
+997
+00:36:42,000 --> 00:36:43,000
+to be, but it should be a parent's
+
+998
+00:36:43,000 --> 00:36:45,000
+decision and it should also be a
+
+999
+00:36:45,000 --> 00:36:47,000
+conversation because I actually think
+
+1000
+00:36:47,000 --> 00:36:48,000
+what matters a little bit more about
+
+1001
+00:36:48,000 --> 00:36:50,000
+whether or not you give them access to
+
+1002
+00:36:50,000 --> 00:36:54,000
+it or not is uh, do you give them good
+
+1003
+00:36:54,000 --> 00:36:55,000
+information so they can make good
+
+1004
+00:36:55,000 --> 00:36:58,000
+choices and do you set clear boundaries
+
+1005
+00:36:58,000 --> 00:37:00,000
+and stick to them and I think those are
+
+1006
+00:37:00,000 --> 00:37:03,000
+hard. Uh, so our responsibility as a
+
+1007
+00:37:03,000 --> 00:37:05,000
+platform is to make sure that things are
+
+1008
+00:37:05,000 --> 00:37:07,000
+safe even if a parent does that. But I
+
+1009
+00:37:07,000 --> 00:37:09,000
+strongly encourage parents to consider
+
+1010
+00:37:09,000 --> 00:37:11,000
+those two things and we try to find ways
+
+1011
+00:37:11,000 --> 00:37:12,000
+to support them in doing that by
+
+1012
+00:37:12,000 --> 00:37:14,000
+building tools for them, educational
+
+1013
+00:37:14,000 --> 00:37:16,000
+materials for them and outreach to them
+
+1014
+00:37:16,000 --> 00:37:18,000
+like the marketing you saw. Yeah.
+
+1015
+00:37:18,000 --> 00:37:20,000
+Because especially I feel like there's a
+
+1016
+00:37:20,000 --> 00:37:22,000
+sort of a group pressure you know when I
+
+1017
+00:37:22,000 --> 00:37:24,000
+was in high school that was like a time
+
+1018
+00:37:24,000 --> 00:37:25,000
+you know you had Facebook, you had
+
+1019
+00:37:25,000 --> 00:37:27,000
+Instagram but it was not as big as
+
+1020
+00:37:27,000 --> 00:37:30,000
+today. Um, I remember like Snapchat for
+
+1021
+00:37:30,000 --> 00:37:32,000
+example was a big thing and uh high
+
+1022
+00:37:32,000 --> 00:37:35,000
+school I I was old enough but like in in
+
+1023
+00:37:35,000 --> 00:37:38,000
+like before that you had some you know
+
+1024
+00:37:38,000 --> 00:37:39,000
+this sort of group pressure of like oh
+
+1025
+00:37:39,000 --> 00:37:41,000
+you're not on Facebook or like oh you
+
+1026
+00:37:41,000 --> 00:37:42,000
+should be on Facebook and like I can
+
+1027
+00:37:42,000 --> 00:37:44,000
+imagine like discussions with like
+
+1028
+00:37:44,000 --> 00:37:46,000
+parents who are like you know they're
+
+1029
+00:37:46,000 --> 00:37:47,000
+like no you won't have Facebook today
+
+1030
+00:37:47,000 --> 00:37:49,000
+and at the time kids would be like yeah
+
+1031
+00:37:49,000 --> 00:37:51,000
+but everyone has it I'm not the I'm the
+
+1032
+00:37:51,000 --> 00:37:52,000
+only one not having that's what makes it
+
+1033
+00:37:52,000 --> 00:37:54,000
+the hardest is your kid comes and they
+
+1034
+00:37:54,000 --> 00:37:56,000
+tell you everybody else has an iPad
+
+1035
+00:37:56,000 --> 00:37:58,000
+everybody else has plays Minecraft.
+
+1036
+00:37:58,000 --> 00:38:00,000
+Everybody else uses Instagram. Why can't
+
+1037
+00:38:00,000 --> 00:38:02,000
+I? And one, they may not be be telling
+
+1038
+00:38:02,000 --> 00:38:04,000
+you the truth. My kids lie to me all the
+
+1039
+00:38:04,000 --> 00:38:06,000
+time. Um, but it makes it much more
+
+1040
+00:38:06,000 --> 00:38:10,000
+difficult as a parent um to say no. But
+
+1041
+00:38:10,000 --> 00:38:12,000
+I think I mean I say this my family, my
+
+1042
+00:38:12,000 --> 00:38:15,000
+boys all the time. All they're all boys.
+
+1043
+00:38:15,000 --> 00:38:17,000
+Um I'm like different family, different
+
+1044
+00:38:17,000 --> 00:38:20,000
+rules. Um and that's hard. I know. Um
+
+1045
+00:38:20,000 --> 00:38:22,000
+but it's I feel like it's my job as a
+
+1046
+00:38:22,000 --> 00:38:24,000
+dad. And coming back to those some of
+
+1047
+00:38:24,000 --> 00:38:26,000
+those issues and questions. Um, one
+
+1048
+00:38:26,000 --> 00:38:29,000
+thing we've heard a lot about is all the
+
+1049
+00:38:29,000 --> 00:38:31,000
+questions about like anxiety and like
+
+1050
+00:38:31,000 --> 00:38:33,000
+body image issues like how do you see
+
+1051
+00:38:33,000 --> 00:38:35,000
+yourself by looking at others on social
+
+1052
+00:38:35,000 --> 00:38:38,000
+media? Um, especially like uh among
+
+1053
+00:38:38,000 --> 00:38:42,000
+younger people but not only um how do
+
+1054
+00:38:42,000 --> 00:38:44,000
+you see this question as a head of of
+
+1055
+00:38:44,000 --> 00:38:46,000
+Instagram and how especially you know
+
+1056
+00:38:46,000 --> 00:38:47,000
+we've talked about AI, we've talked
+
+1057
+00:38:47,000 --> 00:38:48,000
+about those things. We know that like it
+
+1058
+00:38:48,000 --> 00:38:51,000
+can help like change a face or like just
+
+1059
+00:38:51,000 --> 00:38:55,000
+make it perfect uh in a way. um how do
+
+1060
+00:38:55,000 --> 00:38:57,000
+you navigate through this question? And
+
+1061
+00:38:57,000 --> 00:39:00,000
+just to add some context here, back in
+
+1062
+00:39:00,000 --> 00:39:02,000
+2021, the Wall Street Journal revealed
+
+1063
+00:39:02,000 --> 00:39:05,000
+that Meta knew through its own internal
+
+1064
+00:39:05,000 --> 00:39:08,000
+research that Instagram could harm young
+
+1065
+00:39:08,000 --> 00:39:10,000
+people's self-image and mental health.
+
+1066
+00:39:10,000 --> 00:39:13,000
+One internal study showed that one in
+
+1067
+00:39:13,000 --> 00:39:16,000
+three teenage girls who already had body
+
+1068
+00:39:16,000 --> 00:39:18,000
+image issues said that Instagram made
+
+1069
+00:39:18,000 --> 00:39:20,000
+them feel worse. If you follow the
+
+1070
+00:39:20,000 --> 00:39:22,000
+channel, you know that we covered this
+
+1071
+00:39:22,000 --> 00:39:25,000
+story several times. That one's a m one
+
+1072
+00:39:25,000 --> 00:39:28,000
+of the trickiest. Um, so there what
+
+1073
+00:39:28,000 --> 00:39:29,000
+we're really talking about is social
+
+1074
+00:39:29,000 --> 00:39:31,000
+comparison, comparing yourself to
+
+1075
+00:39:31,000 --> 00:39:32,000
+others. And by the way, there's two
+
+1076
+00:39:32,000 --> 00:39:34,000
+types. There's negative social
+
+1077
+00:39:34,000 --> 00:39:35,000
+comparison and positive social
+
+1078
+00:39:35,000 --> 00:39:38,000
+comparison. If I look up to a role model
+
+1079
+00:39:38,000 --> 00:39:40,000
+and I emulate their good behavior, that
+
+1080
+00:39:40,000 --> 00:39:43,000
+is positive social comparison. Um, but
+
+1081
+00:39:43,000 --> 00:39:46,000
+if I am looking at an unrealistic, you
+
+1082
+00:39:46,000 --> 00:39:48,000
+know, definition of beauty and I feel
+
+1083
+00:39:48,000 --> 00:39:50,000
+bad about myself, that's a negative
+
+1084
+00:39:50,000 --> 00:39:52,000
+social comparison. And there's nothing
+
+1085
+00:39:52,000 --> 00:39:54,000
+more human than comparing yourself to
+
+1086
+00:39:54,000 --> 00:39:55,000
+other people. And so, both are going to
+
+1087
+00:39:55,000 --> 00:39:58,000
+happen offline and online. But there,
+
+1088
+00:39:58,000 --> 00:40:00,000
+it's very difficult for us to know when
+
+1089
+00:40:00,000 --> 00:40:02,000
+it's healthy and when it's not. I'll
+
+1090
+00:40:02,000 --> 00:40:04,000
+give you an example. I've had a number
+
+1091
+00:40:04,000 --> 00:40:07,000
+of friends who have really struggled to
+
+1092
+00:40:07,000 --> 00:40:10,000
+become pregnant. Um, I got one friend in
+
+1093
+00:40:10,000 --> 00:40:11,000
+particular that I'm thinking of right
+
+1094
+00:40:11,000 --> 00:40:15,000
+now. uh lost a number of pregnancies uh
+
+1095
+00:40:15,000 --> 00:40:17,000
+to miscarriages. So for her, and I
+
+1096
+00:40:17,000 --> 00:40:18,000
+talked to her about this using
+
+1097
+00:40:18,000 --> 00:40:20,000
+Instagram, when she saw someone else
+
+1098
+00:40:20,000 --> 00:40:22,000
+post pictures of their new beautiful
+
+1099
+00:40:22,000 --> 00:40:24,000
+baby child and how excited they were and
+
+1100
+00:40:24,000 --> 00:40:27,000
+the nursery and the clothes, etc., it
+
+1101
+00:40:27,000 --> 00:40:29,000
+was incredibly triggering and upsetting
+
+1102
+00:40:29,000 --> 00:40:31,000
+for her. It was negative social
+
+1103
+00:40:31,000 --> 00:40:34,000
+comparison. Now, for you looking at that
+
+1104
+00:40:34,000 --> 00:40:36,000
+same photo, it might not be problematic.
+
+1105
+00:40:36,000 --> 00:40:37,000
+Probably wasn't problematic at all. For
+
+1106
+00:40:37,000 --> 00:40:39,000
+me, it wasn't. And for the platform,
+
+1107
+00:40:39,000 --> 00:40:40,000
+there's no way to know.
+
+1108
+00:40:40,000 --> 00:40:43,000
+So there that's one of the reasons why
+
+1109
+00:40:43,000 --> 00:40:45,000
+it's particularly tricky. Um so we've
+
+1110
+00:40:45,000 --> 00:40:47,000
+tried to build some tools. I think the
+
+1111
+00:40:47,000 --> 00:40:52,000
+most powerful is a bit of a um a big uh
+
+1112
+00:40:52,000 --> 00:40:55,000
+tool that I don't recommend everybody
+
+1113
+00:40:55,000 --> 00:40:56,000
+use, but if you end up in a negative
+
+1114
+00:40:56,000 --> 00:40:58,000
+place, she my friend ended up in this
+
+1115
+00:40:58,000 --> 00:41:00,000
+place where she had followed a bunch of
+
+1116
+00:41:00,000 --> 00:41:02,000
+baby accounts and then lost the
+
+1117
+00:41:02,000 --> 00:41:05,000
+pregnancy and her whole explore page was
+
+1118
+00:41:05,000 --> 00:41:06,000
+all baby related content. So, she's in a
+
+1119
+00:41:06,000 --> 00:41:08,000
+really bad spot now because we think
+
+1120
+00:41:08,000 --> 00:41:10,000
+she's all into it and it's the worst
+
+1121
+00:41:10,000 --> 00:41:13,000
+thing for her. You can do a full
+
+1122
+00:41:13,000 --> 00:41:16,000
+Instagram recommendations reset. So, we
+
+1123
+00:41:16,000 --> 00:41:18,000
+basically forget everything we know
+
+1124
+00:41:18,000 --> 00:41:19,000
+about your interests and we start from
+
+1125
+00:41:19,000 --> 00:41:22,000
+scratch. And so, you know, if she if she
+
+1126
+00:41:22,000 --> 00:41:23,000
+used that tool, which this was years
+
+1127
+00:41:23,000 --> 00:41:26,000
+ago, so it didn't exist yet, her her
+
+1128
+00:41:26,000 --> 00:41:27,000
+explore would have been as if she had
+
+1129
+00:41:27,000 --> 00:41:29,000
+just signed up for Instagram. It would
+
+1130
+00:41:29,000 --> 00:41:31,000
+have had no baby content most likely.
+
+1131
+00:41:31,000 --> 00:41:34,000
+Um, now if you or I use it right now,
+
+1132
+00:41:34,000 --> 00:41:35,000
+it's going to make your Instagram much
+
+1133
+00:41:35,000 --> 00:41:37,000
+worse. I'm not sure what you're into,
+
+1134
+00:41:37,000 --> 00:41:40,000
+but we wouldn't know either if we if you
+
+1135
+00:41:40,000 --> 00:41:41,000
+did that. And so it would just be very
+
+1136
+00:41:41,000 --> 00:41:45,000
+generic um broad interests. Yeah. Cuz I
+
+1137
+00:41:45,000 --> 00:41:48,000
+guess I mean the fact of being like like
+
+1138
+00:41:48,000 --> 00:41:50,000
+looking at something that makes you feel
+
+1139
+00:41:50,000 --> 00:41:53,000
+not good. It has always existed like you
+
+1140
+00:41:53,000 --> 00:41:54,000
+know reading a newspaper like watching
+
+1141
+00:41:54,000 --> 00:41:56,000
+television like you could have a content
+
+1142
+00:41:56,000 --> 00:41:57,000
+that be like oh that's triggering
+
+1143
+00:41:57,000 --> 00:41:58,000
+something with me that's not good
+
+1144
+00:41:58,000 --> 00:42:00,000
+because I'm feeling this or that way.
+
+1145
+00:42:00,000 --> 00:42:02,000
+But I guess the main difference is that
+
+1146
+00:42:02,000 --> 00:42:04,000
+now with social media, you've got this
+
+1147
+00:42:04,000 --> 00:42:06,000
+algorithm thing that means that if you
+
+1148
+00:42:06,000 --> 00:42:08,000
+watch them something, even if it doesn't
+
+1149
+00:42:08,000 --> 00:42:10,000
+make you feel good, you might get
+
+1150
+00:42:10,000 --> 00:42:12,000
+another one, another one. And so I guess
+
+1151
+00:42:12,000 --> 00:42:13,000
+that's if you interact with it
+
+1152
+00:42:13,000 --> 00:42:15,000
+specifically. Yeah. So this is the
+
+1153
+00:42:15,000 --> 00:42:18,000
+tension between what we I would call
+
+1154
+00:42:18,000 --> 00:42:19,000
+first order and second order
+
+1155
+00:42:19,000 --> 00:42:22,000
+preferences, right? So I might really
+
+1156
+00:42:22,000 --> 00:42:25,000
+like looking at these sad videos of like
+
+1157
+00:42:25,000 --> 00:42:27,000
+wounded
+
+1158
+00:42:27,000 --> 00:42:28,000
+puppies getting rescued or something
+
+1159
+00:42:28,000 --> 00:42:30,000
+like that. So I might always watch them,
+
+1160
+00:42:30,000 --> 00:42:32,000
+but it's fundamentally making me sad.
+
+1161
+00:42:32,000 --> 00:42:33,000
+But Instagram doesn't know it's making
+
+1162
+00:42:33,000 --> 00:42:35,000
+me feel sad. It just sees that I'm
+
+1163
+00:42:35,000 --> 00:42:37,000
+watching them, so it's showing me more.
+
+1164
+00:42:37,000 --> 00:42:39,000
+So that's when things like the reset is
+
+1165
+00:42:39,000 --> 00:42:40,000
+important. You can also say that you're
+
+1166
+00:42:40,000 --> 00:42:41,000
+not interested in things. Yeah. You got
+
+1167
+00:42:41,000 --> 00:42:43,000
+to think like interested or not
+
+1168
+00:42:43,000 --> 00:42:45,000
+interested on each and actually
+
+1169
+00:42:45,000 --> 00:42:47,000
+um
+
+1170
+00:42:47,000 --> 00:42:51,000
+uh hidden gem maybe is in explore. If
+
+1171
+00:42:51,000 --> 00:42:52,000
+you mark something as not interested,
+
+1172
+00:42:52,000 --> 00:42:55,000
+you can long press to do that. Uh or
+
+1173
+00:42:55,000 --> 00:42:56,000
+long press and go to the dot dot dot on
+
+1174
+00:42:56,000 --> 00:42:58,000
+Android. It'll ask you if you want to do
+
+1175
+00:42:58,000 --> 00:43:00,000
+others and you can do batch. So, you can
+
+1176
+00:43:00,000 --> 00:43:02,000
+just select as many as you want in your
+
+1177
+00:43:02,000 --> 00:43:04,000
+explore. Like just select like I don't
+
+1178
+00:43:04,000 --> 00:43:05,000
+want this this this. I don't want any of
+
+1179
+00:43:05,000 --> 00:43:08,000
+these, right? Um uh and that will also
+
+1180
+00:43:08,000 --> 00:43:09,000
+help particularly if you don't want to
+
+1181
+00:43:09,000 --> 00:43:11,000
+do a full reset. Uh but you're just like
+
+1182
+00:43:11,000 --> 00:43:14,000
+I'm getting you think I'm interested in
+
+1183
+00:43:14,000 --> 00:43:16,000
+I don't know pets and I'm not, you know,
+
+1184
+00:43:16,000 --> 00:43:18,000
+you can just select all the pets you see
+
+1185
+00:43:18,000 --> 00:43:19,000
+and hit no and hopefully we can figure
+
+1186
+00:43:19,000 --> 00:43:21,000
+it out quickly. Interesting. So I feel
+
+1187
+00:43:21,000 --> 00:43:23,000
+like that also I mean of course
+
+1188
+00:43:23,000 --> 00:43:25,000
+Instagram and social media have all
+
+1189
+00:43:25,000 --> 00:43:27,000
+those issues to like like get on but
+
+1190
+00:43:27,000 --> 00:43:30,000
+like what I'm also understanding is the
+
+1191
+00:43:30,000 --> 00:43:33,000
+fact that it's also a question of like
+
+1192
+00:43:33,000 --> 00:43:35,000
+um awareness and like education like for
+
+1193
+00:43:35,000 --> 00:43:37,000
+everyone to get to understand like how
+
+1194
+00:43:37,000 --> 00:43:40,000
+social media works, how uh your content
+
+1195
+00:43:40,000 --> 00:43:43,000
+is being pushed and like in what ways
+
+1196
+00:43:43,000 --> 00:43:44,000
+you can sort of trigger the thing to
+
+1197
+00:43:44,000 --> 00:43:46,000
+make a change in a way or another. Yeah.
+
+1198
+00:43:46,000 --> 00:43:48,000
+And so I want to make sure that you
+
+1199
+00:43:48,000 --> 00:43:50,000
+don't have to know about all of these
+
+1200
+00:43:50,000 --> 00:43:52,000
+tools and these tricks and that the
+
+1201
+00:43:52,000 --> 00:43:55,000
+experience for most everyone is not only
+
+1202
+00:43:55,000 --> 00:43:57,000
+safe but positive and brings value to
+
+1203
+00:43:57,000 --> 00:44:00,000
+your life. Um but I also know that it's
+
+1204
+00:44:00,000 --> 00:44:02,000
+not you're never going to you know bat a
+
+1205
+00:44:02,000 --> 00:44:04,000
+thousand to use an American expression
+
+1206
+00:44:04,000 --> 00:44:07,000
+around baseball. And so you need to
+
+1207
+00:44:07,000 --> 00:44:08,000
+build tools like this and then raise
+
+1208
+00:44:08,000 --> 00:44:11,000
+awareness about those tools so that when
+
+1209
+00:44:11,000 --> 00:44:13,000
+people inevitably end up in some
+
+1210
+00:44:13,000 --> 00:44:15,000
+negative situations that there is some
+
+1211
+00:44:15,000 --> 00:44:17,000
+way to get out of it. And so I want to
+
+1212
+00:44:17,000 --> 00:44:19,000
+talk now about the algorithm itself.
+
+1213
+00:44:19,000 --> 00:44:21,000
+It's always like the big question
+
+1214
+00:44:21,000 --> 00:44:25,000
+everyone ask themselves. Um sometimes
+
+1215
+00:44:25,000 --> 00:44:26,000
+there like questions sometimes some
+
+1216
+00:44:26,000 --> 00:44:29,000
+myths around how they work. Lots of I
+
+1217
+00:44:29,000 --> 00:44:30,000
+can't imagine. If I tap my heels three
+
+1218
+00:44:30,000 --> 00:44:32,000
+times and I don't look at the likes for
+
+1219
+00:44:32,000 --> 00:44:33,000
+the first 10 minutes, then everything
+
+1220
+00:44:33,000 --> 00:44:35,000
+goes, the video will just work very
+
+1221
+00:44:35,000 --> 00:44:41,000
+well. Um, so in 2025, what makes a post
+
+1222
+00:44:41,000 --> 00:44:44,000
+work well on Instagram? What are like
+
+1223
+00:44:44,000 --> 00:44:46,000
+the main, you know, factors, the main
+
+1224
+00:44:46,000 --> 00:44:48,000
+thing that make a content work on
+
+1225
+00:44:48,000 --> 00:44:52,000
+Instagram? So if you if you are I mean
+
+1226
+00:44:52,000 --> 00:44:53,000
+in terms of what you're actually
+
+1227
+00:44:53,000 --> 00:44:54,000
+creating it obviously depends on the
+
+1228
+00:44:54,000 --> 00:44:56,000
+creator and the audience but in terms of
+
+1229
+00:44:56,000 --> 00:44:57,000
+if you want to
+
+1230
+00:44:57,000 --> 00:45:00,000
+evaluate what how well your content is
+
+1231
+00:45:00,000 --> 00:45:02,000
+doing. The thing to look at to that sort
+
+1232
+00:45:02,000 --> 00:45:04,000
+of gives you the best sense of if it did
+
+1233
+00:45:04,000 --> 00:45:07,000
+well is its reach but the but that
+
+1234
+00:45:07,000 --> 00:45:09,000
+doesn't tell you why right that's not
+
+1235
+00:45:09,000 --> 00:45:10,000
+that useful. It's like oh I know it did
+
+1236
+00:45:10,000 --> 00:45:12,000
+badly. I knew it did badly like thank
+
+1237
+00:45:12,000 --> 00:45:14,000
+you for telling me that. Um so if you
+
+1238
+00:45:14,000 --> 00:45:17,000
+want to understand why uh the three most
+
+1239
+00:45:17,000 --> 00:45:21,000
+important things are uh sends per reach
+
+1240
+00:45:21,000 --> 00:45:23,000
+or send rate. So basically take the
+
+1241
+00:45:23,000 --> 00:45:25,000
+total number of sends and divide it by
+
+1242
+00:45:25,000 --> 00:45:29,000
+the total reach, likes per reach, same
+
+1243
+00:45:29,000 --> 00:45:31,000
+idea, and then average watch time if
+
+1244
+00:45:31,000 --> 00:45:34,000
+it's a video. And so basically it
+
+1245
+00:45:34,000 --> 00:45:38,000
+doesn't matter necessarily if it got 10,
+
+1246
+00:45:38,000 --> 00:45:43,000
+50, or 5,000 sends. It matters more if
+
+1247
+00:45:43,000 --> 00:45:45,000
+you know if we got 10 out of 20. 10 out
+
+1248
+00:45:45,000 --> 00:45:48,000
+of 20 is way better than 5,000 out of a
+
+1249
+00:45:48,000 --> 00:45:51,000
+million. Yeah. Um and that'll give you a
+
+1250
+00:45:51,000 --> 00:45:54,000
+sense for why this was a sendable
+
+1251
+00:45:54,000 --> 00:45:57,000
+um photo. This was a likable uh
+
+1252
+00:45:57,000 --> 00:46:00,000
+carousel. This was a video that people
+
+1253
+00:46:00,000 --> 00:46:02,000
+watched a lot. So the the average watch
+
+1254
+00:46:02,000 --> 00:46:04,000
+time um those things are going to there
+
+1255
+00:46:04,000 --> 00:46:06,000
+are other things that matter. Saves
+
+1256
+00:46:06,000 --> 00:46:08,000
+matter. Comments matter. Do you tap on
+
+1257
+00:46:08,000 --> 00:46:09,000
+the profile? Do you follow the profile
+
+1258
+00:46:09,000 --> 00:46:11,000
+when you get there? But those three
+
+1259
+00:46:11,000 --> 00:46:15,000
+matter the most. And I mean so those are
+
+1260
+00:46:15,000 --> 00:46:17,000
+like questions maybe not everyone ask
+
+1261
+00:46:17,000 --> 00:46:19,000
+themselves but as a content creator or
+
+1262
+00:46:19,000 --> 00:46:21,000
+even like as a media it's some questions
+
+1263
+00:46:21,000 --> 00:46:24,000
+you may have does like those things you
+
+1264
+00:46:24,000 --> 00:46:26,000
+just talked about sends per view also
+
+1265
+00:46:26,000 --> 00:46:29,000
+per reach. um you'd say it's more
+
+1266
+00:46:29,000 --> 00:46:32,000
+important than um the format itself
+
+1267
+00:46:32,000 --> 00:46:34,000
+because like for a while we were hearing
+
+1268
+00:46:34,000 --> 00:46:36,000
+like oh now Instagram is a video
+
+1269
+00:46:36,000 --> 00:46:38,000
+platform so you have to do reals and
+
+1270
+00:46:38,000 --> 00:46:39,000
+stuff and sometimes and at the same time
+
+1271
+00:46:39,000 --> 00:46:41,000
+we're doing other stuff too. How do you
+
+1272
+00:46:41,000 --> 00:46:43,000
+see this question of formats? Is it
+
+1273
+00:46:43,000 --> 00:46:45,000
+Yeah, they they intersect, right? So, it
+
+1274
+00:46:45,000 --> 00:46:49,000
+turns out that reels tend to be more
+
+1275
+00:46:49,000 --> 00:46:51,000
+engaging because there's sound on and
+
+1276
+00:46:51,000 --> 00:46:54,000
+there's moving image. You kind of get
+
+1277
+00:46:54,000 --> 00:46:56,000
+sucked in. You're more likely to like,
+
+1278
+00:46:56,000 --> 00:46:57,000
+you're more likely to send it to a
+
+1279
+00:46:57,000 --> 00:47:00,000
+friend. Uh, so they interact. Now,
+
+1280
+00:47:00,000 --> 00:47:02,000
+that's not true for all reels. I can
+
+1281
+00:47:02,000 --> 00:47:04,000
+create a really boring reel that'll
+
+1282
+00:47:04,000 --> 00:47:06,000
+underperform an amazing photo that you
+
+1283
+00:47:06,000 --> 00:47:08,000
+take. That's so it's not these aren't
+
+1284
+00:47:08,000 --> 00:47:12,000
+universally true, but they are averages.
+
+1285
+00:47:12,000 --> 00:47:14,000
+On average, reals are going to get more
+
+1286
+00:47:14,000 --> 00:47:15,000
+engagement because they are more
+
+1287
+00:47:15,000 --> 00:47:19,000
+engaging. We've tried to one be honest
+
+1288
+00:47:19,000 --> 00:47:21,000
+about that. Two, help photos and
+
+1289
+00:47:21,000 --> 00:47:23,000
+carousels be more engaging by adding
+
+1290
+00:47:23,000 --> 00:47:25,000
+things like music. Um, by the way, music
+
+1291
+00:47:25,000 --> 00:47:27,000
+can really help your reach cuz it just
+
+1292
+00:47:27,000 --> 00:47:29,000
+catches your attention. Um, which is
+
+1293
+00:47:29,000 --> 00:47:31,000
+kind of a great thing if you're trying
+
+1294
+00:47:31,000 --> 00:47:33,000
+to get more reach. Oh, those are it's
+
+1295
+00:47:33,000 --> 00:47:35,000
+really two things. Yeah. Um, and then
+
+1296
+00:47:35,000 --> 00:47:36,000
+you should figure out what works for
+
+1297
+00:47:36,000 --> 00:47:38,000
+you. Cuz as a creator, the most
+
+1298
+00:47:38,000 --> 00:47:40,000
+important thing isn't what's going to
+
+1299
+00:47:40,000 --> 00:47:42,000
+get you the most reach. Uh, reach of
+
+1300
+00:47:42,000 --> 00:47:44,000
+course matters, but to what end? Are you
+
+1301
+00:47:44,000 --> 00:47:46,000
+trying to build a brand? Are you trying
+
+1302
+00:47:46,000 --> 00:47:49,000
+to sell me medin? Are you trying to
+
+1303
+00:47:49,000 --> 00:47:51,000
+evangelize a cause? Are you trying to
+
+1304
+00:47:51,000 --> 00:47:53,000
+pull together a community? Right? What's
+
+1305
+00:47:53,000 --> 00:47:55,000
+the reach is a means to one of those
+
+1306
+00:47:55,000 --> 00:47:58,000
+ends or different. And then so when you
+
+1307
+00:47:58,000 --> 00:48:01,000
+come up with your content strategy, it
+
+1308
+00:48:01,000 --> 00:48:04,000
+needs to align with that goal. It needs
+
+1309
+00:48:04,000 --> 00:48:07,000
+to also do well on Instagram. So, be
+
+1310
+00:48:07,000 --> 00:48:08,000
+engaging. And you also need to be able
+
+1311
+00:48:08,000 --> 00:48:10,000
+to sustain it over time. It needs to be
+
+1312
+00:48:10,000 --> 00:48:12,000
+realistic because if it's not one of
+
+1313
+00:48:12,000 --> 00:48:14,000
+those things, you're going to fail. If
+
+1314
+00:48:14,000 --> 00:48:16,000
+it's not aligned with your goal, and
+
+1315
+00:48:16,000 --> 00:48:17,000
+yeah, it gets a ton of reach, but what's
+
+1316
+00:48:17,000 --> 00:48:19,000
+the point? But if it's if it's aligned
+
+1317
+00:48:19,000 --> 00:48:21,000
+with your goal and nobody interacts with
+
+1318
+00:48:21,000 --> 00:48:23,000
+it, no one's going to see it, what's the
+
+1319
+00:48:23,000 --> 00:48:24,000
+point? And if it's something that you
+
+1320
+00:48:24,000 --> 00:48:26,000
+cannot do, it's you want to create 10
+
+1321
+00:48:26,000 --> 00:48:29,000
+videos a day, you know, post every hour
+
+1322
+00:48:29,000 --> 00:48:31,000
+of the day and you just can't do that. I
+
+1323
+00:48:31,000 --> 00:48:33,000
+can't do that. Most nobody can do that.
+
+1324
+00:48:33,000 --> 00:48:35,000
+um then then you're going to burn out.
+
+1325
+00:48:35,000 --> 00:48:38,000
+And so it's hard, I know, but you need
+
+1326
+00:48:38,000 --> 00:48:40,000
+to find a creative strategy that is at
+
+1327
+00:48:40,000 --> 00:48:43,000
+the intersection of those three ideas.
+
+1328
+00:48:43,000 --> 00:48:45,000
+And by the way, what works this year
+
+1329
+00:48:45,000 --> 00:48:46,000
+might not work next year cuz people's
+
+1330
+00:48:46,000 --> 00:48:48,000
+interests change. Uh so you, you know,
+
+1331
+00:48:48,000 --> 00:48:50,000
+I've evolved. I've tried many different
+
+1332
+00:48:50,000 --> 00:48:52,000
+things. I did a series of podcast
+
+1333
+00:48:52,000 --> 00:48:54,000
+interviews and they just did terribly.
+
+1334
+00:48:54,000 --> 00:48:55,000
+So I stopped doing that. This one will
+
+1335
+00:48:55,000 --> 00:48:57,000
+work very well. No, no, no, no. I mean,
+
+1336
+00:48:57,000 --> 00:48:59,000
+I was interviewing you. You are a much
+
+1337
+00:48:59,000 --> 00:49:02,000
+better interviewer than me. No, no, see.
+
+1338
+00:49:02,000 --> 00:49:04,000
+Yeah. You're just trying stuff. Yeah.
+
+1339
+00:49:04,000 --> 00:49:07,000
+And like Instagram is a is a special
+
+1340
+00:49:07,000 --> 00:49:09,000
+platform because you've talked about it
+
+1341
+00:49:09,000 --> 00:49:11,000
+as a platform where you get friends and
+
+1342
+00:49:11,000 --> 00:49:12,000
+like people connecting together, but
+
+1343
+00:49:12,000 --> 00:49:14,000
+it's also a platform where you get some
+
+1344
+00:49:14,000 --> 00:49:16,000
+media, some content creators,
+
+1345
+00:49:16,000 --> 00:49:20,000
+celebrities. I guess like it's a is it
+
+1346
+00:49:20,000 --> 00:49:22,000
+like for you like sometimes weird things
+
+1347
+00:49:22,000 --> 00:49:24,000
+you get like on the same platform both
+
+1348
+00:49:24,000 --> 00:49:26,000
+things and sometimes not the same. I
+
+1349
+00:49:26,000 --> 00:49:27,000
+think it's but I think it's the magic of
+
+1350
+00:49:27,000 --> 00:49:30,000
+it. So on one hand, yes. Broadly
+
+1351
+00:49:30,000 --> 00:49:32,000
+speaking, I'll oversimplify. friend
+
+1352
+00:49:32,000 --> 00:49:34,000
+content and public content can be
+
+1353
+00:49:34,000 --> 00:49:36,000
+intention, right? Um, you know, if
+
+1354
+00:49:36,000 --> 00:49:38,000
+you're watching a video about the news,
+
+1355
+00:49:38,000 --> 00:49:40,000
+you're not actually talking to a friend,
+
+1356
+00:49:40,000 --> 00:49:42,000
+but I don't think we're the best at
+
+1357
+00:49:42,000 --> 00:49:44,000
+texting friends. You know, WhatsApp is
+
+1358
+00:49:44,000 --> 00:49:46,000
+if I'm late, I'm going to text you on
+
+1359
+00:49:46,000 --> 00:49:48,000
+WhatsApp. I'm not going to DM you uh for
+
+1360
+00:49:48,000 --> 00:49:50,000
+like meeting today. And I don't think
+
+1361
+00:49:50,000 --> 00:49:52,000
+we're the best at pure, you know,
+
+1362
+00:49:52,000 --> 00:49:54,000
+leanback cons uh information
+
+1363
+00:49:54,000 --> 00:49:56,000
+consumption. If you if I want to watch a
+
+1364
+00:49:56,000 --> 00:49:59,000
+an hour long video, it's Netflix is
+
+1365
+00:49:59,000 --> 00:50:00,000
+going to be even better than you
+
+1366
+00:50:00,000 --> 00:50:03,000
+probably YouTube or Tik Tok. Um, but
+
+1367
+00:50:03,000 --> 00:50:05,000
+what I think we do remarkably well and I
+
+1368
+00:50:05,000 --> 00:50:06,000
+think we have an opportunity to be the
+
+1369
+00:50:06,000 --> 00:50:08,000
+best at is connect with your friends
+
+1370
+00:50:08,000 --> 00:50:11,000
+about your interests. I talk to people I
+
+1371
+00:50:11,000 --> 00:50:12,000
+know in real life and some I've met
+
+1372
+00:50:12,000 --> 00:50:16,000
+online about creators, about fashion,
+
+1373
+00:50:16,000 --> 00:50:20,000
+about architecture, about uh football,
+
+1374
+00:50:20,000 --> 00:50:22,000
+you know, you know, that's where it's
+
+1375
+00:50:22,000 --> 00:50:23,000
+really special. We're like, yeah, I can
+
+1376
+00:50:23,000 --> 00:50:26,000
+see the highlight from the Saka goal
+
+1377
+00:50:26,000 --> 00:50:28,000
+last night. I'm an Arsenal fan. Sorry, I
+
+1378
+00:50:28,000 --> 00:50:30,000
+know I'm here. That's good for you. You
+
+1379
+00:50:30,000 --> 00:50:31,000
+got good good. Yeah, we're playing you
+
+1380
+00:50:31,000 --> 00:50:34,000
+guys in two weeks. Um and but I'm
+
+1381
+00:50:34,000 --> 00:50:36,000
+talking about that with the other Goonas
+
+1382
+00:50:36,000 --> 00:50:38,000
+I know. That's kind of what's that's
+
+1383
+00:50:38,000 --> 00:50:40,000
+kind of where our sweet spot is. Yeah.
+
+1384
+00:50:40,000 --> 00:50:41,000
+So, it does make sense for you to get
+
+1385
+00:50:41,000 --> 00:50:44,000
+both and I see how it would work this
+
+1386
+00:50:44,000 --> 00:50:46,000
+way. Um, I've got one last question. Uh,
+
+1387
+00:50:46,000 --> 00:50:48,000
+which is like kind of a broad question,
+
+1388
+00:50:48,000 --> 00:50:51,000
+but how do you see, you know, Instagram
+
+1389
+00:50:51,000 --> 00:50:52,000
+for the next few years? Do you have any
+
+1390
+00:50:52,000 --> 00:50:55,000
+plan for like a long-term sort of like
+
+1391
+00:50:55,000 --> 00:50:56,000
+five or 10 years or is it something that
+
+1392
+00:50:56,000 --> 00:50:59,000
+goes, you know, evolves so rapidly that
+
+1393
+00:50:59,000 --> 00:51:00,000
+you're like, oh no, two years away from
+
+1394
+00:51:00,000 --> 00:51:02,000
+that is already kind of a long distance.
+
+1395
+00:51:02,000 --> 00:51:04,000
+Two years is long distance for us. Um,
+
+1396
+00:51:04,000 --> 00:51:06,000
+it's worth noting that right now in the
+
+1397
+00:51:06,000 --> 00:51:08,000
+United States, there's an important
+
+1398
+00:51:08,000 --> 00:51:11,000
+trial involving Meta. The American tech
+
+1399
+00:51:11,000 --> 00:51:13,000
+giant is being accused of
+
+1400
+00:51:13,000 --> 00:51:16,000
+anti-competitive practices, especially
+
+1401
+00:51:16,000 --> 00:51:18,000
+for its acquisitions of Instagram and
+
+1402
+00:51:18,000 --> 00:51:20,000
+WhatsApp. If the Federal Trade
+
+1403
+00:51:20,000 --> 00:51:22,000
+Commission wins the case, Meta could be
+
+1404
+00:51:22,000 --> 00:51:25,000
+forced to break up and sell some of its
+
+1405
+00:51:25,000 --> 00:51:27,000
+platforms. So this trial hadn't started
+
+1406
+00:51:27,000 --> 00:51:29,000
+yet at the time of the interview, but
+
+1407
+00:51:29,000 --> 00:51:31,000
+it's an important topic that we'll be
+
+1408
+00:51:31,000 --> 00:51:33,000
+talking about, so I just wanted to
+
+1409
+00:51:33,000 --> 00:51:35,000
+mention it today. I mean, over the next
+
+1410
+00:51:35,000 --> 00:51:38,000
+few years, I don't anticipate any major
+
+1411
+00:51:38,000 --> 00:51:40,000
+changes, right? We we we're launching
+
+1412
+00:51:40,000 --> 00:51:41,000
+the edits app, which I'm really excited
+
+1413
+00:51:41,000 --> 00:51:43,000
+about. I think you'll see us lean more
+
+1414
+00:51:43,000 --> 00:51:46,000
+into creative tools, and to AI for
+
+1415
+00:51:46,000 --> 00:51:48,000
+creative tools. One idea I'm really
+
+1416
+00:51:48,000 --> 00:51:50,000
+excited about that hopefully is coming
+
+1417
+00:51:50,000 --> 00:51:53,000
+later this year is video editing. So,
+
+1418
+00:51:53,000 --> 00:51:55,000
+not deep fakes that can make you make
+
+1419
+00:51:55,000 --> 00:51:58,000
+something, say something, but um take,
+
+1420
+00:51:58,000 --> 00:52:00,000
+you know, anybody editing a real should
+
+1421
+00:52:00,000 --> 00:52:02,000
+be able to select any clip they want or
+
+1422
+00:52:02,000 --> 00:52:03,000
+the whole reel and then ask for any
+
+1423
+00:52:03,000 --> 00:52:06,000
+special effect that they want. Um, you
+
+1424
+00:52:06,000 --> 00:52:08,000
+know, make the lighting match or add the
+
+1425
+00:52:08,000 --> 00:52:11,000
+prop or make me wear a suit or whatever
+
+1426
+00:52:11,000 --> 00:52:13,000
+it is to be able to story tell. But
+
+1427
+00:52:13,000 --> 00:52:15,000
+longer term, five, 10 years, I think it
+
+1428
+00:52:15,000 --> 00:52:18,000
+gets much harder to predict because for
+
+1429
+00:52:18,000 --> 00:52:21,000
+a long time now, the primary way we
+
+1430
+00:52:21,000 --> 00:52:22,000
+consume information is on these little
+
+1431
+00:52:22,000 --> 00:52:24,000
+glowing rectangles. I don't know how how
+
+1432
+00:52:24,000 --> 00:52:26,000
+many centimeters is 6 in. It's like, you
+
+1433
+00:52:26,000 --> 00:52:31,000
+know, 14, 15. Um, and I think that will
+
+1434
+00:52:31,000 --> 00:52:32,000
+change. I don't think phones are going
+
+1435
+00:52:32,000 --> 00:52:34,000
+away. I think they'll be part of our
+
+1436
+00:52:34,000 --> 00:52:35,000
+lives for the foreseeable future. But I
+
+1437
+00:52:35,000 --> 00:52:36,000
+think some of our information
+
+1438
+00:52:36,000 --> 00:52:38,000
+consumption is going to shift to
+
+1439
+00:52:38,000 --> 00:52:40,000
+something that looks more like this. And
+
+1440
+00:52:40,000 --> 00:52:42,000
+you're seeing this right now with two
+
+1441
+00:52:42,000 --> 00:52:44,000
+ends of the spectrum. The simplest with
+
+1442
+00:52:44,000 --> 00:52:46,000
+the Rayban Metas, which by the way,
+
+1443
+00:52:46,000 --> 00:52:47,000
+we're selling millions of them. And
+
+1444
+00:52:47,000 --> 00:52:49,000
+they're they've got AI, they've got a
+
+1445
+00:52:49,000 --> 00:52:51,000
+camera, but they also have a microphone
+
+1446
+00:52:51,000 --> 00:52:52,000
+and a speaker. They're great for phone
+
+1447
+00:52:52,000 --> 00:52:55,000
+calls, podcasts. I use that for all the
+
+1448
+00:52:55,000 --> 00:52:58,000
+time. Um, but they don't have a screen
+
+1449
+00:52:58,000 --> 00:52:59,000
+and they have limited capabilities,
+
+1450
+00:52:59,000 --> 00:53:01,000
+limited battery. And then on the other
+
+1451
+00:53:01,000 --> 00:53:02,000
+end of the spectrum, you know, we've got
+
+1452
+00:53:02,000 --> 00:53:04,000
+these Orion glasses that we don't make
+
+1453
+00:53:04,000 --> 00:53:06,000
+and sell because they would cost€ 10,000
+
+1454
+00:53:06,000 --> 00:53:08,000
+euros each, which would be ridiculous,
+
+1455
+00:53:08,000 --> 00:53:10,000
+but they're a research project where you
+
+1456
+00:53:10,000 --> 00:53:11,000
+can literally you have a screen built
+
+1457
+00:53:11,000 --> 00:53:14,000
+in, but they look like these glasses and
+
+1458
+00:53:14,000 --> 00:53:15,000
+I can control the operating system with
+
+1459
+00:53:15,000 --> 00:53:18,000
+my hands. Um, and that's kind of a wild
+
+1460
+00:53:18,000 --> 00:53:20,000
+thing. Those are going to come together
+
+1461
+00:53:20,000 --> 00:53:22,000
+and when they do, they're going to be a
+
+1462
+00:53:22,000 --> 00:53:24,000
+lot of people who use them. Is that in 5
+
+1463
+00:53:24,000 --> 00:53:26,000
+years? Is that in 10 years? Is that in
+
+1464
+00:53:26,000 --> 00:53:28,000
+15 years? cuz it needs to not only work
+
+1465
+00:53:28,000 --> 00:53:29,000
+but be light and comfortable and
+
+1466
+00:53:29,000 --> 00:53:32,000
+fashionable and cheap. I don't know. But
+
+1467
+00:53:32,000 --> 00:53:34,000
+what does Instagram mean if part of
+
+1468
+00:53:34,000 --> 00:53:36,000
+Instagram is connecting with friends?
+
+1469
+00:53:36,000 --> 00:53:38,000
+And a lot of way people talk is with
+
+1470
+00:53:38,000 --> 00:53:41,000
+glasses is an is a question I don't have
+
+1471
+00:53:41,000 --> 00:53:42,000
+an answer to yet. That's interesting
+
+1472
+00:53:42,000 --> 00:53:44,000
+because you sometimes get like even when
+
+1473
+00:53:44,000 --> 00:53:46,000
+I do interviews about my work with my
+
+1474
+00:53:46,000 --> 00:53:48,000
+team, people like, "Oh, so where do you
+
+1475
+00:53:48,000 --> 00:53:49,000
+see yourself in 10 years?" And I'm like,
+
+1476
+00:53:49,000 --> 00:53:51,000
+"I don't Oh, and the thing is like if
+
+1477
+00:53:51,000 --> 00:53:53,000
+social media like if platforms like you
+
+1478
+00:53:53,000 --> 00:53:55,000
+don't know where where you'll be in 10
+
+1479
+00:53:55,000 --> 00:53:56,000
+years, there's no way for me to know
+
+1480
+00:53:56,000 --> 00:53:58,000
+either because of course we're
+
+1481
+00:53:58,000 --> 00:54:00,000
+publishing uh on those on those
+
+1482
+00:54:00,000 --> 00:54:02,000
+platforms. Adam, thank you so much for
+
+1483
+00:54:02,000 --> 00:54:03,000
+taking the time. This was such a
+
+1484
+00:54:03,000 --> 00:54:05,000
+pleasure. I really appreciate it. Thank
+
+1485
+00:54:05,000 --> 00:54:06,000
+you so much. I mean, we covered like a
+
+1486
+00:54:06,000 --> 00:54:08,000
+wide range of topics and I hope like
+
+1487
+00:54:08,000 --> 00:54:10,000
+yeah, it'll be interesting for people
+
+1488
+00:54:10,000 --> 00:54:11,000
+who yeah follow this. It would be great.
+
+1489
+00:54:11,000 --> 00:54:12,000
+So yeah, thank you so much for for
+
+1490
+00:54:12,000 --> 00:54:14,000
+taking the time and thank you for
+
+1491
+00:54:14,000 --> 00:54:16,000
+following this uh this interview. Uh you
+
+1492
+00:54:16,000 --> 00:54:18,000
+can of course subscribe if it's not the
+
+1493
+00:54:18,000 --> 00:54:19,000
+case to see the other the other
+
+1494
+00:54:19,000 --> 00:54:21,000
+interviews. You can also follow us of
+
+1495
+00:54:21,000 --> 00:54:23,000
+course on Instagram. Uh we get we do
+
+1496
+00:54:23,000 --> 00:54:25,000
+quite quite a lot of things today too.
+
+1497
+00:54:25,000 --> 00:54:27,000
+And so yeah, we'll see you soon. Thank
+
+1498
+00:54:27,000 --> 00:54:28,000
+you again so much Adam for taking the
+
+1499
+00:54:28,000 --> 00:54:31,000
+time. Cheers. Thank you.
+
+1500
+00:54:31,000 --> 00:54:35,000
+[Music]
+

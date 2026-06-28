@@ -1,0 +1,23 @@
+{"cmd": "intent", "text": "How should a solo founder (build-in-public, MRR journey) start an Instagram from scratch — full plan: positioning, content pillars, short-form/Reels, packaging, hooks, retention, idea selection, consistency, growth"}
+{"cmd": "sources", "n": 41}
+{"cmd": "map", "source": "s024", "vectors": 15}
+{"cmd": "map", "source": "s029", "vectors": 10}
+{"cmd": "map", "source": "s011", "vectors": 17}
+{"cmd": "map", "source": "s016", "vectors": 14}
+{"cmd": "map", "source": "s020", "vectors": 12}
+{"cmd": "map", "source": "s021", "vectors": 9}
+{"cmd": "map", "source": "s018", "vectors": 7}
+{"cmd": "map", "source": "s002", "vectors": 9}
+{"cmd": "map", "source": "s009", "vectors": 14}
+{"cmd": "select", "source": "s024", "vectors": ["idea-selection", "packaging-strategy", "thumbnails", "titles", "hook-and-intro", "retention-and-attention", "niche-and-positioning", "shorts-and-reels", "platform-strategy"]}
+{"cmd": "select", "source": "s029", "vectors": ["packaging-strategy", "idea-selection", "retention-and-attention", "niche-and-positioning", "formats-and-series"]}
+{"cmd": "select", "source": "s011", "vectors": ["hook-and-intro", "consistency-and-discipline", "formats-and-series", "shorts-and-reels", "niche-and-positioning", "platform-strategy"]}
+{"cmd": "select", "source": "s016", "vectors": ["idea-selection", "formats-and-series", "risk-and-reinvention", "hook-and-intro"]}
+{"cmd": "select", "source": "s020", "vectors": ["storytelling-structure", "packaging-strategy", "hook-and-intro", "thumbnails"]}
+{"cmd": "select", "source": "s021", "vectors": ["niche-and-positioning", "idea-selection", "packaging-strategy"]}
+{"cmd": "select", "source": "s018", "vectors": ["platform-strategy", "algorithm-insider"]}
+{"cmd": "select", "source": "s002", "vectors": ["idea-selection", "retention-and-attention", "hook-and-intro"]}
+{"cmd": "select", "source": "s009", "vectors": ["platform-strategy", "formats-and-series", "niche-and-positioning", "multi-platform-strategy"]}
+{"cmd": "compile", "eps": 93}
+{"cmd": "verify", "cited": 0, "bad": [], "accepted": false}
+{"cmd": "verify", "cited": 52, "bad": [], "accepted": true}

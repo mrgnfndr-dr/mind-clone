@@ -1,0 +1,4 @@
+1|Most people think confidence is about believing in yourself, but it's actually about something else entirely. I used to think confidence was just something, you know, you were born with. Some people just have it, but then I realized
+11|confidence is just proof. Right now, I'm focused on writing every single day. I'm wrapping up my first book. When I started writing every morning, I wasn't confident that I was a writer. I just showed up 30 minutes every
+22|day, and after 30 days, I had 30 pieces of evidence. After 90 days, I started believing it, and after a year, it was undeniable. Every single day that you do what you said you were going to do, you
+32|build a little bit of evidence, and evidence that you can use to then build more trust in yourself. Evidence that your word actually means something. That's confidence. Discipline equals confidence.

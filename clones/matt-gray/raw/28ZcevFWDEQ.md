@@ -1,0 +1,5 @@
+1|What if I told you that there's one formula that creators use to guarantee their first viral post? Number one, pick one platform and go allin. Too many people go spread themselves thin by being everywhere to everyone and they go
+11|mediocre on five platforms versus going deep and being world class on one. Focus creates feedback and you can't improve what you're spreading thin. Step two is to test relentlessly and let data be
+22|your teacher. I tested out different buckets of content, frameworks, systems, behind the scenes, tips, tricks, and then started doubling down on the stuff that I saw working and ditching the stuff that was no longer performing.
+33|This continual cycle of iteration and following what works will allow you to improve over time. Number three, detach from views and obsess over iteration. I stopped chasing virality and started focusing on just making 100
+45|pieces of content that I was proud of. Sure enough, when you just focus on the process and getting 10% better with each piece of content, you're 13,000 times better after 100.

@@ -1,0 +1,5 @@
+1|Essentially, what the personal board meeting is, this time every month you do a reflection on how you did the previous month and then go and chart out your goals. So, I'm going to go through my July personal board meeting right now.
+11|So, starting off, we got our personal board of advisors, right? These are the people that are helping me go and scale out my businesses, people across strategy, tax, sales, AI, copywriting, everything in between. My one big domino
+23|every single day is to have an unbeatable 4-hour deep work system that produces at least one high-quality, exceptional piece of high-leverage content every single day. Content is the fuel for all of my businesses. It drives
+34|organic growth. It drives top talent to what I'm doing. It helps propel the movement. It drives conversions, viewers, applications, all that good stuff. We've been crushing it there with consistent, exceptional content. And
+45|then I kind of chart that out over 30 days, even over the year, of the one thing I need to do that will make everything else easier or unnecessary.

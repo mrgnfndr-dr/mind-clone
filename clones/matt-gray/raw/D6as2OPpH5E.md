@@ -1,0 +1,3 @@
+1|What does it mean to be rich? Well, being rich is really having time. Time is your most valuable resource. Life is short. And inevitably, as you're building, you want to make sure that you're systemizing your empire, removing yourself from
+11|operations so that you can enjoy real wealth. For me, you know, real wealth and being rich is all about being able to do experiences when I want, wherever I want, with whoever I want. Being able to go and pick up and go to Japan
+22|snowboarding, be able to go and hike the Doommites when I want, travel to Europe, around the world, and be able to do it with the people that I love. Time's short. Life's running out. Make sure you're prioritizing time over just

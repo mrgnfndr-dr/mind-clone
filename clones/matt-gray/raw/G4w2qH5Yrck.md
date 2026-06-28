@@ -1,0 +1,3 @@
+2|you need to have a newsletter in place. Without a newsletter, you are way too reliant on the platform, and you are not Musk. You don't own X. And so, you need to actually make sure that you're owning all of this attention. I have a Webflow
+12|page set up with my entire newsletter on there. From there now, I'm developing a much richer one-to-one relationship with people. You know, when you share content on X, it's about 15% of the people that
+22|follow you that will actually even see that content. But, when you send out a newsletter, 100% of people in your newsletter list will get that email.

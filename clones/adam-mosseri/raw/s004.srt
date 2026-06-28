@@ -1,0 +1,5448 @@
+1
+00:00:00,000 --> 00:00:02,000
+What is up and welcome back to working
+
+2
+00:00:02,000 --> 00:00:04,000
+hard. Today is a very big one. I am
+
+3
+00:00:04,000 --> 00:00:06,000
+speaking to categorically one of the
+
+4
+00:00:06,000 --> 00:00:08,000
+most influential people in social media
+
+5
+00:00:08,000 --> 00:00:10,000
+across the globe, Adam Miseri, the head
+
+6
+00:00:10,000 --> 00:00:12,000
+of Instagram and threads. It's safe to
+
+7
+00:00:12,000 --> 00:00:13,000
+say that Adam has helped shape the way
+
+8
+00:00:13,000 --> 00:00:15,000
+that billions of us communicate, share,
+
+9
+00:00:15,000 --> 00:00:18,000
+and create online every single day. And
+
+10
+00:00:18,000 --> 00:00:19,000
+I actually don't think it's an
+
+11
+00:00:19,000 --> 00:00:21,000
+overstatement to say that every single
+
+12
+00:00:21,000 --> 00:00:24,000
+guest that has been on this podcast has
+
+13
+00:00:24,000 --> 00:00:26,000
+in some shape or form used Instagram to
+
+14
+00:00:26,000 --> 00:00:28,000
+build their success or creatively share
+
+15
+00:00:28,000 --> 00:00:30,000
+what's going on in their daily lives.
+
+16
+00:00:30,000 --> 00:00:32,000
+Over his 20 year career, Adam has risen
+
+17
+00:00:32,000 --> 00:00:34,000
+through the ranks at Meta. And now in
+
+18
+00:00:34,000 --> 00:00:36,000
+the top job, he is at the heart of the
+
+19
+00:00:36,000 --> 00:00:38,000
+cultural conversation about creativity,
+
+20
+00:00:38,000 --> 00:00:40,000
+connection, and content. This episode is
+
+21
+00:00:40,000 --> 00:00:41,000
+for anyone who's ever used Instagram for
+
+22
+00:00:41,000 --> 00:00:44,000
+anything or wants to use it for anything
+
+23
+00:00:44,000 --> 00:00:46,000
+to build anything. Anyone who wants to
+
+24
+00:00:46,000 --> 00:00:47,000
+rise through the ranks in tech or a
+
+25
+00:00:47,000 --> 00:00:49,000
+corporate role or learn how to harness
+
+26
+00:00:49,000 --> 00:00:53,000
+their creativity.
+
+27
+00:00:53,000 --> 00:00:56,000
+[Music]
+
+28
+00:00:56,000 --> 00:00:58,000
+Adam Miseri, head of Instagram. Are you
+
+29
+00:00:58,000 --> 00:00:59,000
+currently more working hard or hardly
+
+30
+00:00:59,000 --> 00:01:02,000
+working? Currently, I would say working
+
+31
+00:01:02,000 --> 00:01:04,000
+hard, but I aspire to be hardly working.
+
+32
+00:01:04,000 --> 00:01:07,000
+I'm constantly trying to balance the
+
+33
+00:01:07,000 --> 00:01:09,000
+job, which is, you know, an amazing job,
+
+34
+00:01:09,000 --> 00:01:11,000
+but demands a lot of time, and then
+
+35
+00:01:11,000 --> 00:01:13,000
+being a dad. Um, and if I get if I do
+
+36
+00:01:13,000 --> 00:01:15,000
+decent at both of those things and I get
+
+37
+00:01:15,000 --> 00:01:16,000
+a decent night's sleep, that's about as
+
+38
+00:01:16,000 --> 00:01:18,000
+much as I can ask for in a day. Yeah, I
+
+39
+00:01:18,000 --> 00:01:20,000
+think that's I think that's fair enough.
+
+40
+00:01:20,000 --> 00:01:22,000
+I think that, you know, I I ask a lot of
+
+41
+00:01:22,000 --> 00:01:24,000
+people that question and it's often the
+
+42
+00:01:24,000 --> 00:01:26,000
+case that we're all aspiring for this
+
+43
+00:01:26,000 --> 00:01:28,000
+hardly working always feel like it's a
+
+44
+00:01:28,000 --> 00:01:29,000
+little bit out of reach, but at the same
+
+45
+00:01:29,000 --> 00:01:31,000
+time, we're trying to grapple with this
+
+46
+00:01:31,000 --> 00:01:35,000
+balance. Yeah. I had this idea about uh
+
+47
+00:01:35,000 --> 00:01:37,000
+almost 10 years ago now that I'd really
+
+48
+00:01:37,000 --> 00:01:39,000
+push hard for 10 years. I'd have kids,
+
+49
+00:01:39,000 --> 00:01:41,000
+they'd be little, I'd work really hard,
+
+50
+00:01:41,000 --> 00:01:43,000
+and then I would switch into a job that
+
+51
+00:01:43,000 --> 00:01:45,000
+was maybe less intense. And now that I'm
+
+52
+00:01:45,000 --> 00:01:47,000
+10 years in, I'm thinking I might have
+
+53
+00:01:47,000 --> 00:01:49,000
+underestimated how long, probably more
+
+54
+00:01:49,000 --> 00:01:52,000
+like 20 or 30. Um, just cuz, you know,
+
+55
+00:01:52,000 --> 00:01:54,000
+my kids are 9, seven, and almost five.
+
+56
+00:01:54,000 --> 00:01:56,000
+And it's not much easier than it was,
+
+57
+00:01:56,000 --> 00:01:59,000
+you know, 8 years ago. So, and the job
+
+58
+00:01:59,000 --> 00:02:02,000
+uh is certainly not relaxing. So, I
+
+59
+00:02:02,000 --> 00:02:04,000
+think maybe I underestimated the push.
+
+60
+00:02:04,000 --> 00:02:06,000
+So, let's start there with working hard.
+
+61
+00:02:06,000 --> 00:02:09,000
+What does a typical dayto-day look like
+
+62
+00:02:09,000 --> 00:02:11,000
+for the head of Instagram and threads?
+
+63
+00:02:11,000 --> 00:02:13,000
+There's sort of two types of days. One
+
+64
+00:02:13,000 --> 00:02:16,000
+is if I'm in California, I'm in San
+
+65
+00:02:16,000 --> 00:02:18,000
+Francisco, you know, I go to the office,
+
+66
+00:02:18,000 --> 00:02:21,000
+I get up, I'm I'm in charge of breakfast
+
+67
+00:02:21,000 --> 00:02:24,000
+for the boys, got three every day. Uh
+
+68
+00:02:24,000 --> 00:02:27,000
+yeah, pretty much. Um we have like a
+
+69
+00:02:27,000 --> 00:02:28,000
+whole schedule so they we don't have to
+
+70
+00:02:28,000 --> 00:02:31,000
+fight about it. Like you know, Monday is
+
+71
+00:02:31,000 --> 00:02:33,000
+what actually is? Monday's eggs and
+
+72
+00:02:33,000 --> 00:02:35,000
+bagels. Tuesday's banana bread.
+
+73
+00:02:35,000 --> 00:02:38,000
+Wednesday is waffles. Thursday's
+
+74
+00:02:38,000 --> 00:02:40,000
+breakfast tacos. Friday's cereal, I
+
+75
+00:02:40,000 --> 00:02:42,000
+think. Um, so I'm in charge of
+
+76
+00:02:42,000 --> 00:02:44,000
+breakfast. Get some time in with the
+
+77
+00:02:44,000 --> 00:02:46,000
+boys in the morning. If I'm lucky, I get
+
+78
+00:02:46,000 --> 00:02:47,000
+a workout in and then I go to the
+
+79
+00:02:47,000 --> 00:02:48,000
+office. And then it's just a lot of
+
+80
+00:02:48,000 --> 00:02:52,000
+meetings. It's not glamorous. A lot of
+
+81
+00:02:52,000 --> 00:02:55,000
+spreadsheets, presentations, emails,
+
+82
+00:02:55,000 --> 00:02:57,000
+data, and meetings. Yeah. Yeah. And then
+
+83
+00:02:57,000 --> 00:02:59,000
+I go home I try to get home and have
+
+84
+00:02:59,000 --> 00:03:01,000
+dinner with the boys and then maybe have
+
+85
+00:03:01,000 --> 00:03:03,000
+an hour to hang out with my wife before
+
+86
+00:03:03,000 --> 00:03:05,000
+I go to bed. But then the other version
+
+87
+00:03:05,000 --> 00:03:07,000
+of the day is something like this week
+
+88
+00:03:07,000 --> 00:03:10,000
+and last week and in three weeks and in
+
+89
+00:03:10,000 --> 00:03:12,000
+four weeks where it's just sort of
+
+90
+00:03:12,000 --> 00:03:14,000
+almost chaos. I'm traveling like you
+
+91
+00:03:14,000 --> 00:03:16,000
+know I came in from Milan last night. I
+
+92
+00:03:16,000 --> 00:03:18,000
+go to Paris this evening. You know do
+
+93
+00:03:18,000 --> 00:03:20,000
+five, six, seven, maybe eight things in
+
+94
+00:03:20,000 --> 00:03:22,000
+a day, meet some creators, maybe some
+
+95
+00:03:22,000 --> 00:03:24,000
+policy meetings, maybe do an interview
+
+96
+00:03:24,000 --> 00:03:27,000
+or two. Um, and it's just a whirlwind.
+
+97
+00:03:27,000 --> 00:03:29,000
+Yeah. Uh, and that's like that is very
+
+98
+00:03:29,000 --> 00:03:31,000
+different every day. And then I'll go
+
+99
+00:03:31,000 --> 00:03:33,000
+back to emails and spreadsheets and
+
+100
+00:03:33,000 --> 00:03:35,000
+dashboards. And so when you're having
+
+101
+00:03:35,000 --> 00:03:37,000
+more of this kind of whirlwind time and
+
+102
+00:03:37,000 --> 00:03:39,000
+you don't have your normal routine, what
+
+103
+00:03:39,000 --> 00:03:42,000
+are your non-negotiables that keep you
+
+104
+00:03:42,000 --> 00:03:44,000
+feeling balanced and focused and like
+
+105
+00:03:44,000 --> 00:03:46,000
+having a little bit of home and routine
+
+106
+00:03:46,000 --> 00:03:48,000
+in when there's almost no routine? I
+
+107
+00:03:48,000 --> 00:03:49,000
+should have some non-negotiables
+
+108
+00:03:49,000 --> 00:03:50,000
+actually you ask. I don't know that I
+
+109
+00:03:50,000 --> 00:03:53,000
+have many. I I try and the one thing is
+
+110
+00:03:53,000 --> 00:03:54,000
+maybe it's not a non-negotiable. The one
+
+111
+00:03:54,000 --> 00:03:57,000
+thing I do do is I try just to to eat
+
+112
+00:03:57,000 --> 00:03:59,000
+the local cuisine. I feel like it's
+
+113
+00:03:59,000 --> 00:04:02,000
+always nice, even if it's not, you know,
+
+114
+00:04:02,000 --> 00:04:04,000
+for work, but even if it is with for
+
+115
+00:04:04,000 --> 00:04:06,000
+work, like go to a place that I might go
+
+116
+00:04:06,000 --> 00:04:08,000
+to if I lived in that city because I
+
+117
+00:04:08,000 --> 00:04:10,000
+like to get it's so hard because you get
+
+118
+00:04:10,000 --> 00:04:11,000
+it's fun and amazing to meet all these
+
+119
+00:04:11,000 --> 00:04:13,000
+people, but you also want to get a sense
+
+120
+00:04:13,000 --> 00:04:15,000
+for the local culture. And I think food
+
+121
+00:04:15,000 --> 00:04:18,000
+is often great way to do that. Uh, so I
+
+122
+00:04:18,000 --> 00:04:19,000
+ask for that, but I don't I wouldn't
+
+123
+00:04:19,000 --> 00:04:21,000
+quite call it a non I should have some
+
+124
+00:04:21,000 --> 00:04:22,000
+non-negotiables. What are your
+
+125
+00:04:22,000 --> 00:04:24,000
+non-negotiables?
+
+126
+00:04:24,000 --> 00:04:26,000
+I think my non-negotiables, especially
+
+127
+00:04:26,000 --> 00:04:28,000
+when traveling and working at the same
+
+128
+00:04:28,000 --> 00:04:30,000
+time. So, there's a lot going on and
+
+129
+00:04:30,000 --> 00:04:31,000
+you're kind of I I always really
+
+130
+00:04:31,000 --> 00:04:33,000
+struggle with keeping up to date with
+
+131
+00:04:33,000 --> 00:04:34,000
+the team back home and trying to make
+
+132
+00:04:34,000 --> 00:04:36,000
+sure I'm constantly checking in and
+
+133
+00:04:36,000 --> 00:04:38,000
+constantly making sure, you know, I'm
+
+134
+00:04:38,000 --> 00:04:40,000
+helping there whilst also being present
+
+135
+00:04:40,000 --> 00:04:42,000
+in the place I'm in, which I find pretty
+
+136
+00:04:42,000 --> 00:04:44,000
+difficult. I think my non-negotiables in
+
+137
+00:04:44,000 --> 00:04:46,000
+that way probably a little bit boring,
+
+138
+00:04:46,000 --> 00:04:48,000
+but I try and make sure that I have
+
+139
+00:04:48,000 --> 00:04:51,000
+scheduled blocks of whether it's an
+
+140
+00:04:51,000 --> 00:04:53,000
+email block or an approvals block to
+
+141
+00:04:53,000 --> 00:04:55,000
+just make sure that I know within that
+
+142
+00:04:55,000 --> 00:04:58,000
+day that I can be present because I know
+
+143
+00:04:58,000 --> 00:04:59,000
+that do you know what in 2 hours I do
+
+144
+00:04:59,000 --> 00:05:01,000
+have an approvals block. So anything
+
+145
+00:05:01,000 --> 00:05:02,000
+that's coming into my phone now I can
+
+146
+00:05:02,000 --> 00:05:04,000
+leave it. It's going to be worked
+
+147
+00:05:04,000 --> 00:05:06,000
+through. And I think to me that gives me
+
+148
+00:05:06,000 --> 00:05:07,000
+a lot of head space because rather than
+
+149
+00:05:07,000 --> 00:05:09,000
+it being headsp space where I'm just
+
+150
+00:05:09,000 --> 00:05:10,000
+thinking, do you know what? It's all
+
+151
+00:05:10,000 --> 00:05:12,000
+fine, my head space is more about
+
+152
+00:05:12,000 --> 00:05:13,000
+knowing that I'm definitely going to be
+
+153
+00:05:13,000 --> 00:05:15,000
+able to get something done. And that for
+
+154
+00:05:15,000 --> 00:05:18,000
+me is very um it helps me to kind of
+
+155
+00:05:18,000 --> 00:05:20,000
+stay present. Yeah. So that I'm not
+
+156
+00:05:20,000 --> 00:05:21,000
+constantly thinking about all of the
+
+157
+00:05:21,000 --> 00:05:23,000
+things that I'm not doing. I do that at
+
+158
+00:05:23,000 --> 00:05:24,000
+home. I don't do that on the road. I
+
+159
+00:05:24,000 --> 00:05:27,000
+should I I jam through emails on the car
+
+160
+00:05:27,000 --> 00:05:29,000
+between meetings. Like actually on the
+
+161
+00:05:29,000 --> 00:05:30,000
+way here, I just went through probably
+
+162
+00:05:30,000 --> 00:05:32,000
+like 20 or 30 tried to make sure no one
+
+163
+00:05:32,000 --> 00:05:34,000
+was blocked on anything. Yeah. So, I'll
+
+164
+00:05:34,000 --> 00:05:36,000
+try to ask you that idea. When you're
+
+165
+00:05:36,000 --> 00:05:38,000
+doing your emails, is it something that
+
+166
+00:05:38,000 --> 00:05:40,000
+you try and get back to them throughout
+
+167
+00:05:40,000 --> 00:05:42,000
+the day or do you do it specifically in
+
+168
+00:05:42,000 --> 00:05:43,000
+blocks? Because I'm a big blocks person.
+
+169
+00:05:43,000 --> 00:05:45,000
+I feel like if I give myself permission
+
+170
+00:05:45,000 --> 00:05:47,000
+to go back to emails at every moment
+
+171
+00:05:47,000 --> 00:05:48,000
+during the day, obviously, if there's
+
+172
+00:05:48,000 --> 00:05:50,000
+any urgent one, then I'll go back to it.
+
+173
+00:05:50,000 --> 00:05:52,000
+But if I give myself permission to do
+
+174
+00:05:52,000 --> 00:05:54,000
+that, then I'm never quite present in
+
+175
+00:05:54,000 --> 00:05:56,000
+the meeting I'm in or the, you know,
+
+176
+00:05:56,000 --> 00:05:58,000
+whatever it might be. I do both, which
+
+177
+00:05:58,000 --> 00:06:02,000
+is messy, but I'm always afraid that I'm
+
+178
+00:06:02,000 --> 00:06:04,000
+well, one is I try to push as many
+
+179
+00:06:04,000 --> 00:06:05,000
+decisions down into the team as
+
+180
+00:06:05,000 --> 00:06:07,000
+possible. I'd rather the team make 10
+
+181
+00:06:07,000 --> 00:06:09,000
+decisions without me and I disagree with
+
+182
+00:06:09,000 --> 00:06:12,000
+one then, you know, make three decisions
+
+183
+00:06:12,000 --> 00:06:13,000
+with me over the same period of time. I
+
+184
+00:06:13,000 --> 00:06:16,000
+don't want to become a bottleneck for
+
+185
+00:06:16,000 --> 00:06:19,000
+progress. Uh so, but I am also so that's
+
+186
+00:06:19,000 --> 00:06:22,000
+sort of like a fear of mine. And so I do
+
+187
+00:06:22,000 --> 00:06:24,000
+check during the day and not like during
+
+188
+00:06:24,000 --> 00:06:25,000
+in the middle of meetings but you know
+
+189
+00:06:25,000 --> 00:06:27,000
+you know when I have you know a commute
+
+190
+00:06:27,000 --> 00:06:29,000
+because I'm always worried that I don't
+
+191
+00:06:29,000 --> 00:06:31,000
+want anyone to be sitting and waiting
+
+192
+00:06:31,000 --> 00:06:33,000
+around uh because I need a decision or
+
+193
+00:06:33,000 --> 00:06:35,000
+guidance from me. But I try not to make
+
+194
+00:06:35,000 --> 00:06:37,000
+that many decisions. I actually now have
+
+195
+00:06:37,000 --> 00:06:39,000
+a counter. This is a new weird Adam
+
+196
+00:06:39,000 --> 00:06:43,000
+thing um in my office where I count
+
+197
+00:06:43,000 --> 00:06:45,000
+every decision I make in a week and I
+
+198
+00:06:45,000 --> 00:06:46,000
+try to keep that number as low as
+
+199
+00:06:46,000 --> 00:06:48,000
+possible. That doesn't mean I don't get
+
+200
+00:06:48,000 --> 00:06:50,000
+a lot of questions or asks. I just try
+
+201
+00:06:50,000 --> 00:06:53,000
+to delegate them as much as possible and
+
+202
+00:06:53,000 --> 00:06:54,000
+um be like here's what I would do, but
+
+203
+00:06:54,000 --> 00:06:56,000
+this is actually Ashley's call or Max's
+
+204
+00:06:56,000 --> 00:06:59,000
+call or Jenny's call. Um so I I'm trying
+
+205
+00:06:59,000 --> 00:07:01,000
+to empower my team as much as possible.
+
+206
+00:07:01,000 --> 00:07:03,000
+I find that so useful. I think one of
+
+207
+00:07:03,000 --> 00:07:04,000
+the things that I've really struggled
+
+208
+00:07:04,000 --> 00:07:08,000
+with over the past few years as my teams
+
+209
+00:07:08,000 --> 00:07:10,000
+have got bigger. I'm 10 years into being
+
+210
+00:07:10,000 --> 00:07:12,000
+a founder and I still don't think I've
+
+211
+00:07:12,000 --> 00:07:13,000
+nailed the kind of delegation and
+
+212
+00:07:13,000 --> 00:07:15,000
+decision aspect part of it. I really
+
+213
+00:07:15,000 --> 00:07:17,000
+struggle between whether something would
+
+214
+00:07:17,000 --> 00:07:20,000
+be negligent of me not to be the person
+
+215
+00:07:20,000 --> 00:07:22,000
+making the decision versus taking away
+
+216
+00:07:22,000 --> 00:07:24,000
+someone's autonomy and also building a
+
+217
+00:07:24,000 --> 00:07:26,000
+crutch versus actually helping the team.
+
+218
+00:07:26,000 --> 00:07:28,000
+If you take some more time and you
+
+219
+00:07:28,000 --> 00:07:32,000
+explain how you think about a space or
+
+220
+00:07:32,000 --> 00:07:34,000
+what you value or what the strategy
+
+221
+00:07:34,000 --> 00:07:38,000
+might want might be uh you might it
+
+222
+00:07:38,000 --> 00:07:40,000
+takes longer than just making the call
+
+223
+00:07:40,000 --> 00:07:41,000
+but maybe they'll be able to make the
+
+224
+00:07:41,000 --> 00:07:43,000
+next five calls without you and that'll
+
+225
+00:07:43,000 --> 00:07:44,000
+actually save you time. Right. Right.
+
+226
+00:07:44,000 --> 00:07:46,000
+So, you know, teach a man to fish or
+
+227
+00:07:46,000 --> 00:07:48,000
+give him a fish kind of idea. So, you've
+
+228
+00:07:48,000 --> 00:07:50,000
+been in tech for approximately 20 years.
+
+229
+00:07:50,000 --> 00:07:52,000
+Yeah. What originally drew you to that
+
+230
+00:07:52,000 --> 00:07:54,000
+world? I was living in New York. I was
+
+231
+00:07:54,000 --> 00:07:58,000
+going to NYU. Um I My parents were
+
+232
+00:07:58,000 --> 00:08:00,000
+helping with tuition and I had a bunch
+
+233
+00:08:00,000 --> 00:08:01,000
+of credits from high school. I took a
+
+234
+00:08:01,000 --> 00:08:03,000
+bunch of college classes, but I needed
+
+235
+00:08:03,000 --> 00:08:06,000
+to make money for food and for rent in
+
+236
+00:08:06,000 --> 00:08:08,000
+New York City. Uh this was in, you know,
+
+237
+00:08:08,000 --> 00:08:12,000
+2001 to 2005. And so, I just started
+
+238
+00:08:12,000 --> 00:08:13,000
+doing freelance work. Of course, it was
+
+239
+00:08:13,000 --> 00:08:15,000
+bartending and waiting tables, but I
+
+240
+00:08:15,000 --> 00:08:17,000
+started doing freelance design work and
+
+241
+00:08:17,000 --> 00:08:20,000
+we found some of the better jobs were
+
+242
+00:08:20,000 --> 00:08:23,000
+doing web site design. So, I started I
+
+243
+00:08:23,000 --> 00:08:25,000
+taught myself to program and I was sort
+
+244
+00:08:25,000 --> 00:08:27,000
+of learning to design at school and so I
+
+245
+00:08:27,000 --> 00:08:29,000
+was just I freelancing and then I
+
+246
+00:08:29,000 --> 00:08:32,000
+started a small design firm. I started
+
+247
+00:08:32,000 --> 00:08:34,000
+working with a guy named Sydney Blank, a
+
+248
+00:08:34,000 --> 00:08:36,000
+really wonderful man who was 10 years my
+
+249
+00:08:36,000 --> 00:08:39,000
+senior. I was 19. He was 29 and his gray
+
+250
+00:08:39,000 --> 00:08:40,000
+hair added an air of credibility to the
+
+251
+00:08:40,000 --> 00:08:44,000
+whole operation. Um, but it was just,
+
+252
+00:08:44,000 --> 00:08:45,000
+you know, my rent was due on the 15th of
+
+253
+00:08:45,000 --> 00:08:47,000
+the month, it was 1,300 bucks. I'd look
+
+254
+00:08:47,000 --> 00:08:49,000
+at my bank account, there'd be $150 and
+
+255
+00:08:49,000 --> 00:08:52,000
+I'd be like, I got 14 days, you know,
+
+256
+00:08:52,000 --> 00:08:56,000
+and I need to make 1150 and eat. So, uh,
+
+257
+00:08:56,000 --> 00:08:58,000
+that's kind of where I started. Um, and
+
+258
+00:08:58,000 --> 00:09:00,000
+then that grew. I moved out west, opened
+
+259
+00:09:00,000 --> 00:09:03,000
+up an office, and then I had a bunch of
+
+260
+00:09:03,000 --> 00:09:05,000
+friends start in companies like
+
+261
+00:09:05,000 --> 00:09:08,000
+Facebook, and eventually they convinced
+
+262
+00:09:08,000 --> 00:09:10,000
+me to join. And do you think because I
+
+263
+00:09:10,000 --> 00:09:12,000
+guess then you were almost starting as a
+
+264
+00:09:12,000 --> 00:09:14,000
+founder before you went into a more
+
+265
+00:09:14,000 --> 00:09:16,000
+corporate background. Yeah. Do you think
+
+266
+00:09:16,000 --> 00:09:19,000
+that gave you a more intense kind of
+
+267
+00:09:19,000 --> 00:09:20,000
+learning process that you were able to
+
+268
+00:09:20,000 --> 00:09:22,000
+bring into the corporate world? So much
+
+269
+00:09:22,000 --> 00:09:25,000
+learning. Facebook was 400 people maybe
+
+270
+00:09:25,000 --> 00:09:28,000
+when I joined in 2008 and it was by far
+
+271
+00:09:28,000 --> 00:09:30,000
+the largest place I'd ever worked. You
+
+272
+00:09:30,000 --> 00:09:33,000
+know 20 times as big as the last startup
+
+273
+00:09:33,000 --> 00:09:35,000
+I was at which was a tech startup which
+
+274
+00:09:35,000 --> 00:09:38,000
+was maybe 20 by the time I left. Um but
+
+275
+00:09:38,000 --> 00:09:41,000
+I learned a lot um from from the design
+
+276
+00:09:41,000 --> 00:09:44,000
+years from the running the small agency
+
+277
+00:09:44,000 --> 00:09:46,000
+uh or consultancy really um you know
+
+278
+00:09:46,000 --> 00:09:48,000
+learning how to talk about money
+
+279
+00:09:48,000 --> 00:09:50,000
+learning how to advocate for selfworth
+
+280
+00:09:50,000 --> 00:09:52,000
+learning how to negotiate contracts
+
+281
+00:09:52,000 --> 00:09:54,000
+learning how to communicate ideas to
+
+282
+00:09:54,000 --> 00:09:57,000
+clients learning how to
+
+283
+00:09:57,000 --> 00:10:00,000
+um communicate
+
+284
+00:10:00,000 --> 00:10:04,000
+about the creative process and create
+
+285
+00:10:04,000 --> 00:10:05,000
+structure around something that is
+
+286
+00:10:05,000 --> 00:10:07,000
+fundamentally
+
+287
+00:10:07,000 --> 00:10:10,000
+ephemeral or sort of hard to pin down.
+
+288
+00:10:10,000 --> 00:10:12,000
+Um, you know, learning how to work hard,
+
+289
+00:10:12,000 --> 00:10:14,000
+uh, learning how to be accountable, you
+
+290
+00:10:14,000 --> 00:10:17,000
+know, having employees at 19 or 20 and
+
+291
+00:10:17,000 --> 00:10:19,000
+feeling responsible, you know, you know,
+
+292
+00:10:19,000 --> 00:10:20,000
+I had one or two on visas and I was
+
+293
+00:10:20,000 --> 00:10:22,000
+like, if I mess this up, they have to go
+
+294
+00:10:22,000 --> 00:10:25,000
+home. Like, that's crazy. Mhm. Um I
+
+295
+00:10:25,000 --> 00:10:28,000
+remember we our first year as a proper
+
+296
+00:10:28,000 --> 00:10:30,000
+company, we paid out a bonus, Sydney and
+
+297
+00:10:30,000 --> 00:10:32,000
+I um to we only had like probably two or
+
+298
+00:10:32,000 --> 00:10:34,000
+three employees and you know we had a
+
+299
+00:10:34,000 --> 00:10:36,000
+little extra money in the bank from the
+
+300
+00:10:36,000 --> 00:10:37,000
+in the corporation. So we paid it out as
+
+301
+00:10:37,000 --> 00:10:39,000
+bonuses to ourselves and everybody else
+
+302
+00:10:39,000 --> 00:10:40,000
+and we didn't realize that New York City
+
+303
+00:10:40,000 --> 00:10:43,000
+had a nine 9% city tax. So we had
+
+304
+00:10:43,000 --> 00:10:46,000
+completely miscalculated and we had all
+
+305
+00:10:46,000 --> 00:10:49,000
+of a sudden like we needed to ask for
+
+306
+00:10:49,000 --> 00:10:52,000
+the the money back. We couldn't do that
+
+307
+00:10:52,000 --> 00:10:53,000
+to our employees. So we gave all of our
+
+308
+00:10:53,000 --> 00:10:55,000
+money back and then forego I think
+
+309
+00:10:55,000 --> 00:10:56,000
+salary for a little bit because we like
+
+310
+00:10:56,000 --> 00:10:58,000
+we can't give someone a bonus and then
+
+311
+00:10:58,000 --> 00:11:01,000
+take it back. But like learning which
+
+312
+00:11:01,000 --> 00:11:02,000
+then taught you about thinking ahead and
+
+313
+00:11:02,000 --> 00:11:04,000
+making mistakes and taking
+
+314
+00:11:04,000 --> 00:11:06,000
+accountability. So so many so many
+
+315
+00:11:06,000 --> 00:11:09,000
+lessons that I really deeply appreciate
+
+316
+00:11:09,000 --> 00:11:12,000
+despite how wildly chaotic and stressful
+
+317
+00:11:12,000 --> 00:11:14,000
+those early years were. Yeah,
+
+318
+00:11:14,000 --> 00:11:16,000
+absolutely. And did you have big
+
+319
+00:11:16,000 --> 00:11:17,000
+aspirations for leadership at the
+
+320
+00:11:17,000 --> 00:11:19,000
+beginning of your career? I didn't
+
+321
+00:11:19,000 --> 00:11:21,000
+really think about the long term. Uh, I
+
+322
+00:11:21,000 --> 00:11:24,000
+was trying to just pay rent. I loved
+
+323
+00:11:24,000 --> 00:11:27,000
+design. I loved building things. We did
+
+324
+00:11:27,000 --> 00:11:29,000
+graphic design, branding work,
+
+325
+00:11:29,000 --> 00:11:31,000
+exhibitions for museums, websites,
+
+326
+00:11:31,000 --> 00:11:33,000
+kiosks at exhibits. Sometimes you go to
+
+327
+00:11:33,000 --> 00:11:35,000
+an exhibit and there's like a a computer
+
+328
+00:11:35,000 --> 00:11:36,000
+program you work with. I used to build
+
+329
+00:11:36,000 --> 00:11:40,000
+those. Um, but no, I was not thinking
+
+330
+00:11:40,000 --> 00:11:42,000
+about the long term. What skills would
+
+331
+00:11:42,000 --> 00:11:45,000
+you say then you think have contributed
+
+332
+00:11:45,000 --> 00:11:47,000
+most to your career progression
+
+333
+00:11:47,000 --> 00:11:49,000
+considering it wasn't necessarily
+
+334
+00:11:49,000 --> 00:11:50,000
+something that you were looking at and
+
+335
+00:11:50,000 --> 00:11:52,000
+being like okay I want to be the top of
+
+336
+00:11:52,000 --> 00:11:55,000
+a company like Meta. Yeah. Um I'm not
+
+337
+00:11:55,000 --> 00:11:58,000
+great at anything. Uh what really helped
+
+338
+00:11:58,000 --> 00:12:01,000
+me was I have a lot of range. I can do a
+
+339
+00:12:01,000 --> 00:12:05,000
+lot of things reasonably well.
+
+340
+00:12:05,000 --> 00:12:08,000
+Um, and that really helps because I as a
+
+341
+00:12:08,000 --> 00:12:09,000
+designer at Facebook in the early years
+
+342
+00:12:09,000 --> 00:12:11,000
+before it was meta, I was middle of the
+
+343
+00:12:11,000 --> 00:12:13,000
+pack, but I worked really hard and, you
+
+344
+00:12:13,000 --> 00:12:15,000
+know, I communicated well and I kind of
+
+345
+00:12:15,000 --> 00:12:17,000
+worked my way up. But my career really
+
+346
+00:12:17,000 --> 00:12:19,000
+took off when I switched over to what we
+
+347
+00:12:19,000 --> 00:12:21,000
+call PM, which is product management,
+
+348
+00:12:21,000 --> 00:12:23,000
+sort of coordinating all the all of the
+
+349
+00:12:23,000 --> 00:12:25,000
+different teams. And that really catered
+
+350
+00:12:25,000 --> 00:12:26,000
+to my strength. And it's not actually
+
+351
+00:12:26,000 --> 00:12:29,000
+what I would want if I I romanticize the
+
+352
+00:12:29,000 --> 00:12:32,000
+the specialist, the amazing machine
+
+353
+00:12:32,000 --> 00:12:34,000
+learning engineer or product designer or
+
+354
+00:12:34,000 --> 00:12:37,000
+anything like carpenter or watch maker,
+
+355
+00:12:37,000 --> 00:12:39,000
+you know, uh fashion designer, the
+
+356
+00:12:39,000 --> 00:12:42,000
+person who does one thing better than
+
+357
+00:12:42,000 --> 00:12:44,000
+anybody. I think that's the coolest, but
+
+358
+00:12:44,000 --> 00:12:47,000
+it's just not me. And when I switched to
+
+359
+00:12:47,000 --> 00:12:49,000
+focus on a role that was more about a
+
+360
+00:12:49,000 --> 00:12:52,000
+generalist profile, um about doing a lot
+
+361
+00:12:52,000 --> 00:12:55,000
+of things, um that's when my career took
+
+362
+00:12:55,000 --> 00:12:57,000
+off. Yeah, that's so interesting because
+
+363
+00:12:57,000 --> 00:12:58,000
+I do think that I mean we've spoken on
+
+364
+00:12:58,000 --> 00:13:02,000
+this podcast before about how you become
+
+365
+00:13:02,000 --> 00:13:04,000
+more and more generalist as you move up,
+
+366
+00:13:04,000 --> 00:13:07,000
+especially a corporate career. Um, but
+
+367
+00:13:07,000 --> 00:13:09,000
+understanding how to be generalist and
+
+368
+00:13:09,000 --> 00:13:10,000
+also how to be a good manager and also
+
+369
+00:13:10,000 --> 00:13:12,000
+how to understand other people's roles
+
+370
+00:13:12,000 --> 00:13:14,000
+is is difficult. It's something that you
+
+371
+00:13:14,000 --> 00:13:17,000
+don't necessarily always have the right
+
+372
+00:13:17,000 --> 00:13:18,000
+learning to do at each stage where
+
+373
+00:13:18,000 --> 00:13:19,000
+you're pushed to the next stage of your
+
+374
+00:13:19,000 --> 00:13:21,000
+career. So what really strikes me in
+
+375
+00:13:21,000 --> 00:13:24,000
+what you've said is actually what helped
+
+376
+00:13:24,000 --> 00:13:27,000
+you a lot was an awareness of what you
+
+377
+00:13:27,000 --> 00:13:29,000
+were good at and what you weren't
+
+378
+00:13:29,000 --> 00:13:32,000
+necessarily strong at but I got lucky. I
+
+379
+00:13:32,000 --> 00:13:33,000
+think that's a really good thing for
+
+380
+00:13:33,000 --> 00:13:35,000
+people to do. You want to understand
+
+381
+00:13:35,000 --> 00:13:36,000
+what do you love doing? What are you
+
+382
+00:13:36,000 --> 00:13:38,000
+good at? And where is there good work to
+
+383
+00:13:38,000 --> 00:13:40,000
+do? You know if you're a large company,
+
+384
+00:13:40,000 --> 00:13:41,000
+what's valuable to the company? If
+
+385
+00:13:41,000 --> 00:13:43,000
+you're starting something, what is there
+
+386
+00:13:43,000 --> 00:13:45,000
+demand for in the world? But it has to
+
+387
+00:13:45,000 --> 00:13:46,000
+be at the intersection of those things.
+
+388
+00:13:46,000 --> 00:13:49,000
+M I got lucky because I had a I had a a
+
+389
+00:13:49,000 --> 00:13:53,000
+really talented boss um who has done a
+
+390
+00:13:53,000 --> 00:13:55,000
+bunch of good big things since named
+
+391
+00:13:55,000 --> 00:13:57,000
+Brett Taylor. He was even the co-CEO of
+
+392
+00:13:57,000 --> 00:13:59,000
+Salesforce for a while after he left. Um
+
+393
+00:13:59,000 --> 00:14:02,000
+but when he left there was a big vacuum.
+
+394
+00:14:02,000 --> 00:14:04,000
+So I sort of just declared myself a PM
+
+395
+00:14:04,000 --> 00:14:05,000
+because there was this project that
+
+396
+00:14:05,000 --> 00:14:06,000
+needed a PM and there was no one to do
+
+397
+00:14:06,000 --> 00:14:09,000
+it. You can't do that anymore at Meta.
+
+398
+00:14:09,000 --> 00:14:10,000
+You can't just be like I'm a PM now.
+
+399
+00:14:10,000 --> 00:14:12,000
+Like you have to like apply and do go
+
+400
+00:14:12,000 --> 00:14:14,000
+interviews and all those things. Um, but
+
+401
+00:14:14,000 --> 00:14:16,000
+I did it out of need, but it happened to
+
+402
+00:14:16,000 --> 00:14:19,000
+be a better fit. But I think people who
+
+403
+00:14:19,000 --> 00:14:21,000
+are more intentional,
+
+404
+00:14:21,000 --> 00:14:23,000
+um, can make a lot more progress by
+
+405
+00:14:23,000 --> 00:14:25,000
+being, okay, being honest about what
+
+406
+00:14:25,000 --> 00:14:26,000
+you're good at, honest about what you
+
+407
+00:14:26,000 --> 00:14:28,000
+love and what matters to you, and
+
+408
+00:14:28,000 --> 00:14:31,000
+realistic about what matters from a
+
+409
+00:14:31,000 --> 00:14:32,000
+business perspective to the company or
+
+410
+00:14:32,000 --> 00:14:35,000
+to the market can really help. Um, but I
+
+411
+00:14:35,000 --> 00:14:39,000
+I I I would be lying if I said I had
+
+412
+00:14:39,000 --> 00:14:40,000
+that foresight and that self-awareness
+
+413
+00:14:40,000 --> 00:14:43,000
+that when did I make that switch? I was
+
+414
+00:14:43,000 --> 00:14:45,000
+probably 29. Yeah. I do think though
+
+415
+00:14:45,000 --> 00:14:48,000
+that that yes, absolutely there's always
+
+416
+00:14:48,000 --> 00:14:49,000
+an aspect of right place, right time.
+
+417
+00:14:49,000 --> 00:14:50,000
+But at the same time, what you're
+
+418
+00:14:50,000 --> 00:14:53,000
+describing is making sure that in each
+
+419
+00:14:53,000 --> 00:14:55,000
+situation you make opportunity out of
+
+420
+00:14:55,000 --> 00:14:58,000
+it. You can make your own luck if you
+
+421
+00:14:58,000 --> 00:14:59,000
+know it doesn't mean there's no
+
+422
+00:14:59,000 --> 00:15:01,000
+guarantees but you can definitely be if
+
+423
+00:15:01,000 --> 00:15:03,000
+you if you're self-aware and you've got
+
+424
+00:15:03,000 --> 00:15:05,000
+hustle and you're a quick learner you
+
+425
+00:15:05,000 --> 00:15:07,000
+can do anything over time. So I don't
+
+426
+00:15:07,000 --> 00:15:08,000
+mean to be at all dismissing that idea.
+
+427
+00:15:08,000 --> 00:15:10,000
+I'm just I don't want to claim that I
+
+428
+00:15:10,000 --> 00:15:12,000
+had that foresight at 29 because I
+
+429
+00:15:12,000 --> 00:15:14,000
+didn't. So maybe the thing to do is to
+
+430
+00:15:14,000 --> 00:15:16,000
+make sure you're constantly taking every
+
+431
+00:15:16,000 --> 00:15:17,000
+opportunity and putting yourself into
+
+432
+00:15:17,000 --> 00:15:19,000
+situations because you don't know which
+
+433
+00:15:19,000 --> 00:15:21,000
+is the one that's going to take you to
+
+434
+00:15:21,000 --> 00:15:24,000
+the next level. Yeah. I mean, I think on
+
+435
+00:15:24,000 --> 00:15:25,000
+some cadence, not every week because
+
+436
+00:15:25,000 --> 00:15:28,000
+that's probably just exhausting. Think
+
+437
+00:15:28,000 --> 00:15:31,000
+about, you know, like, okay, if you're
+
+438
+00:15:31,000 --> 00:15:32,000
+at a large company or if you're I'll do
+
+439
+00:15:32,000 --> 00:15:34,000
+large company and a startup differently.
+
+440
+00:15:34,000 --> 00:15:36,000
+If you're at a large company, okay, what
+
+441
+00:15:36,000 --> 00:15:38,000
+what do you want? Like, what are your
+
+442
+00:15:38,000 --> 00:15:40,000
+aspirations? What matters to you? Maybe
+
+443
+00:15:40,000 --> 00:15:41,000
+it's what you learn, maybe it's the
+
+444
+00:15:41,000 --> 00:15:43,000
+impact you have in the world, maybe it's
+
+445
+00:15:43,000 --> 00:15:44,000
+who you work with, maybe it's how much
+
+446
+00:15:44,000 --> 00:15:48,000
+money you make. Just be honest. And then
+
+447
+00:15:48,000 --> 00:15:49,000
+that's an articulation of what you care
+
+448
+00:15:49,000 --> 00:15:51,000
+about. And then if you're at a large
+
+449
+00:15:51,000 --> 00:15:52,000
+company, what does the company care
+
+450
+00:15:52,000 --> 00:15:54,000
+about? And then make sure you shape your
+
+451
+00:15:54,000 --> 00:15:58,000
+role to be at the intersection of both.
+
+452
+00:15:58,000 --> 00:16:00,000
+Um because if you love it and it's
+
+453
+00:16:00,000 --> 00:16:01,000
+aligned with your strengths, but the
+
+454
+00:16:01,000 --> 00:16:02,000
+company doesn't care about it, that's
+
+455
+00:16:02,000 --> 00:16:04,000
+not going to work. And if the company
+
+456
+00:16:04,000 --> 00:16:06,000
+loves it or cares about it and it has
+
+457
+00:16:06,000 --> 00:16:07,000
+nothing to do with your aspirations or
+
+458
+00:16:07,000 --> 00:16:09,000
+your values, you're going to just burn
+
+459
+00:16:09,000 --> 00:16:11,000
+out. And so you got to be at that
+
+460
+00:16:11,000 --> 00:16:12,000
+intersection. And managers, by the way,
+
+461
+00:16:12,000 --> 00:16:14,000
+should be always making sure their
+
+462
+00:16:14,000 --> 00:16:16,000
+people are at that working at that
+
+463
+00:16:16,000 --> 00:16:19,000
+overlap. Um uh if you're doing your own
+
+464
+00:16:19,000 --> 00:16:21,000
+thing, it's the same idea, but instead
+
+465
+00:16:21,000 --> 00:16:22,000
+of what matters to the company, it's
+
+466
+00:16:22,000 --> 00:16:24,000
+like what matters to the world or in the
+
+467
+00:16:24,000 --> 00:16:25,000
+world. Where is their demand? Where is
+
+468
+00:16:25,000 --> 00:16:27,000
+their business to be had? Where is there
+
+469
+00:16:27,000 --> 00:16:28,000
+something that should exist that
+
+470
+00:16:28,000 --> 00:16:31,000
+doesn't? Right? Um and doing that on
+
+471
+00:16:31,000 --> 00:16:32,000
+some regular cadence, I think, is really
+
+472
+00:16:32,000 --> 00:16:34,000
+healthy and much easier said than done.
+
+473
+00:16:34,000 --> 00:16:37,000
+Knowing what you care about is not
+
+474
+00:16:37,000 --> 00:16:39,000
+something most people do. You ask I ask
+
+475
+00:16:39,000 --> 00:16:40,000
+a lot of people what what matters to you
+
+476
+00:16:40,000 --> 00:16:42,000
+most? And it's hard for them to answer
+
+477
+00:16:42,000 --> 00:16:43,000
+truthfully and concisely. They'll list
+
+478
+00:16:43,000 --> 00:16:44,000
+like seven things that all matter to
+
+479
+00:16:44,000 --> 00:16:47,000
+them. Yeah. Uh, it's, you know, if
+
+480
+00:16:47,000 --> 00:16:48,000
+you're lucky, it'll just occur to you in
+
+481
+00:16:48,000 --> 00:16:50,000
+the shower one morning. But most of us
+
+482
+00:16:50,000 --> 00:16:52,000
+have to work at it. Um, talk to friends
+
+483
+00:16:52,000 --> 00:16:55,000
+that care about it. Write out to
+
+484
+00:16:55,000 --> 00:16:56,000
+organize your thoughts. I like to
+
+485
+00:16:56,000 --> 00:16:59,000
+pretend say what matters to me most is
+
+486
+00:16:59,000 --> 00:17:01,000
+who I work with. And then does that feel
+
+487
+00:17:01,000 --> 00:17:03,000
+honest or does that feel disingenuous?
+
+488
+00:17:03,000 --> 00:17:05,000
+You know, just like role play almost. We
+
+489
+00:17:05,000 --> 00:17:07,000
+all have our own tactics, but figuring
+
+490
+00:17:07,000 --> 00:17:09,000
+that out is really important. Yeah. And
+
+491
+00:17:09,000 --> 00:17:11,000
+you've worked with Mark Zuckerberg at
+
+492
+00:17:11,000 --> 00:17:14,000
+Meta for seven years. Since 2008. Since
+
+493
+00:17:14,000 --> 00:17:18,000
+2008. So, what would you say makes a
+
+494
+00:17:18,000 --> 00:17:22,000
+good leader at such a big company
+
+495
+00:17:22,000 --> 00:17:26,000
+for at Meta or for Mark or both? Either.
+
+496
+00:17:26,000 --> 00:17:29,000
+I mean, I think the styles of leaders
+
+497
+00:17:29,000 --> 00:17:32,000
+that do well at Meta vary a lot. Um,
+
+498
+00:17:32,000 --> 00:17:34,000
+there's a lot of different styles at the
+
+499
+00:17:34,000 --> 00:17:37,000
+senior most management team. The at meta
+
+500
+00:17:37,000 --> 00:17:40,000
+specifically, I think if there's there's
+
+501
+00:17:40,000 --> 00:17:41,000
+a few things that are kind of
+
+502
+00:17:41,000 --> 00:17:43,000
+consistent. I think strong communication
+
+503
+00:17:43,000 --> 00:17:46,000
+skills is really important. I think
+
+504
+00:17:46,000 --> 00:17:49,000
+really um structured thinking and
+
+505
+00:17:49,000 --> 00:17:51,000
+analytical thinking is really important.
+
+506
+00:17:51,000 --> 00:17:52,000
+Uh and being quick on your feet is
+
+507
+00:17:52,000 --> 00:17:53,000
+actually really important because it's
+
+508
+00:17:53,000 --> 00:17:55,000
+pretty chaotic. Uh but we have different
+
+509
+00:17:55,000 --> 00:17:56,000
+strengths. Some are much stronger
+
+510
+00:17:56,000 --> 00:17:58,000
+organizational leaders. Some are much
+
+511
+00:17:58,000 --> 00:18:00,000
+stronger strategically. Some are more
+
+512
+00:18:00,000 --> 00:18:02,000
+strategic around business versus product
+
+513
+00:18:02,000 --> 00:18:04,000
+versus design. Uh there's a different
+
+514
+00:18:04,000 --> 00:18:06,000
+range. Some are extroverts. Some are
+
+515
+00:18:06,000 --> 00:18:08,000
+introverts. Some are loud. Some are
+
+516
+00:18:08,000 --> 00:18:11,000
+quiet. Some have changed. Uh but those
+
+517
+00:18:11,000 --> 00:18:13,000
+are probably the themes. But that's
+
+518
+00:18:13,000 --> 00:18:15,000
+because the company
+
+519
+00:18:15,000 --> 00:18:20,000
+values speed, values focus, values
+
+520
+00:18:20,000 --> 00:18:22,000
+impact. And so being able to understand
+
+521
+00:18:22,000 --> 00:18:24,000
+what matters, communicate it
+
+522
+00:18:24,000 --> 00:18:26,000
+effectively, and will progress into
+
+523
+00:18:26,000 --> 00:18:29,000
+existence are just going to be
+
+524
+00:18:29,000 --> 00:18:31,000
+disproportionately important than at
+
+525
+00:18:31,000 --> 00:18:32,000
+other companies. Not that they're not
+
+526
+00:18:32,000 --> 00:18:34,000
+important at other companies. Whereas a
+
+527
+00:18:34,000 --> 00:18:35,000
+different company will have a different
+
+528
+00:18:35,000 --> 00:18:37,000
+set of values, a different set of
+
+529
+00:18:37,000 --> 00:18:39,000
+different environment and maybe
+
+530
+00:18:39,000 --> 00:18:41,000
+different types of people
+
+531
+00:18:41,000 --> 00:18:44,000
+will sort of last the longest and get to
+
+532
+00:18:44,000 --> 00:18:46,000
+the most senior levels. Yeah. So really
+
+533
+00:18:46,000 --> 00:18:48,000
+being able to get clear on what the
+
+534
+00:18:48,000 --> 00:18:49,000
+company values are as well so that other
+
+535
+00:18:49,000 --> 00:18:52,000
+people can execute in that direction. I
+
+536
+00:18:52,000 --> 00:18:53,000
+think so. Yeah. Now if you're a leader
+
+537
+00:18:53,000 --> 00:18:55,000
+or you aspire to be a leader, I think
+
+538
+00:18:55,000 --> 00:18:56,000
+it's it's
+
+539
+00:18:56,000 --> 00:18:59,000
+about being intentional about your what
+
+540
+00:18:59,000 --> 00:19:01,000
+kind of leader you want to be, right?
+
+541
+00:19:01,000 --> 00:19:03,000
+There are leaders who are
+
+542
+00:19:03,000 --> 00:19:07,000
+um very visionary and strategic and
+
+543
+00:19:07,000 --> 00:19:09,000
+directive. There are vision there are
+
+544
+00:19:09,000 --> 00:19:11,000
+leaders who are very thoughtful and
+
+545
+00:19:11,000 --> 00:19:14,000
+insightful but lead from behind and are
+
+546
+00:19:14,000 --> 00:19:17,000
+more introverted and less alpha. There
+
+547
+00:19:17,000 --> 00:19:18,000
+are leaders who are really supportive
+
+548
+00:19:18,000 --> 00:19:21,000
+and really lean into this idea of taking
+
+549
+00:19:21,000 --> 00:19:23,000
+care of their people. There are leaders
+
+550
+00:19:23,000 --> 00:19:25,000
+who spend no time or energy on that.
+
+551
+00:19:25,000 --> 00:19:27,000
+Right? And there's different merits to
+
+552
+00:19:27,000 --> 00:19:28,000
+all of these different leadership
+
+553
+00:19:28,000 --> 00:19:31,000
+styles. And the truth is, if you're in
+
+554
+00:19:31,000 --> 00:19:33,000
+one of these roles, you do need to move
+
+555
+00:19:33,000 --> 00:19:35,000
+in and out of these different styles
+
+556
+00:19:35,000 --> 00:19:36,000
+depending on what the company and the
+
+557
+00:19:36,000 --> 00:19:38,000
+team needs. But it's good to be
+
+558
+00:19:38,000 --> 00:19:40,000
+thoughtful about what's your style and
+
+559
+00:19:40,000 --> 00:19:42,000
+why or what's your what are your styles
+
+560
+00:19:42,000 --> 00:19:44,000
+and why and then when are you acting in
+
+561
+00:19:44,000 --> 00:19:46,000
+which capacity. Yeah. And for someone
+
+562
+00:19:46,000 --> 00:19:47,000
+who's listening to this who might not
+
+563
+00:19:47,000 --> 00:19:49,000
+yet be head of Instagram, but they
+
+564
+00:19:49,000 --> 00:19:51,000
+might, you know, be in their first
+
+565
+00:19:51,000 --> 00:19:53,000
+leadership role, so their first
+
+566
+00:19:53,000 --> 00:19:55,000
+managerial role, for example, what would
+
+567
+00:19:55,000 --> 00:19:57,000
+you recommend to them in terms of
+
+568
+00:19:57,000 --> 00:19:58,000
+actually really honing that skill?
+
+569
+00:19:58,000 --> 00:20:00,000
+Because I think a lot of, you know, a
+
+570
+00:20:00,000 --> 00:20:02,000
+lot of workplaces have great training
+
+571
+00:20:02,000 --> 00:20:05,000
+schemes, a lot of workplaces don't.
+
+572
+00:20:05,000 --> 00:20:06,000
+Yeah. And I think that that's one of the
+
+573
+00:20:06,000 --> 00:20:08,000
+issues that we've talked about a lot on
+
+574
+00:20:08,000 --> 00:20:09,000
+this podcast is how do you actually
+
+575
+00:20:09,000 --> 00:20:11,000
+progress your career whilst also making
+
+576
+00:20:11,000 --> 00:20:12,000
+sure you're building the appropriate
+
+577
+00:20:12,000 --> 00:20:15,000
+skills to perform and ensure your team
+
+578
+00:20:15,000 --> 00:20:17,000
+is performing as well so that you can
+
+579
+00:20:17,000 --> 00:20:18,000
+progress in the direction you want to.
+
+580
+00:20:18,000 --> 00:20:21,000
+What would you recommend to people in
+
+581
+00:20:21,000 --> 00:20:23,000
+that position who want to hone those
+
+582
+00:20:23,000 --> 00:20:25,000
+skills but maybe don't necessarily have
+
+583
+00:20:25,000 --> 00:20:29,000
+the right training? I think I mean a
+
+584
+00:20:29,000 --> 00:20:30,000
+couple different things maybe a little
+
+585
+00:20:30,000 --> 00:20:32,000
+bit separate from leadership skills but
+
+586
+00:20:32,000 --> 00:20:34,000
+the sort of the standard mistakes
+
+587
+00:20:34,000 --> 00:20:38,000
+first-time managers make uh one is under
+
+588
+00:20:38,000 --> 00:20:40,000
+delegation right so we talked about this
+
+589
+00:20:40,000 --> 00:20:42,000
+a little before but like a lot of really
+
+590
+00:20:42,000 --> 00:20:44,000
+talented people get into their first
+
+591
+00:20:44,000 --> 00:20:45,000
+management job and they just try to do
+
+592
+00:20:45,000 --> 00:20:47,000
+everything themselves and you can do
+
+593
+00:20:47,000 --> 00:20:48,000
+that but you're going to be less
+
+594
+00:20:48,000 --> 00:20:50,000
+effective than if you manage to get your
+
+595
+00:20:50,000 --> 00:20:53,000
+team to be to grow your team's abilities
+
+596
+00:20:53,000 --> 00:20:55,000
+over time which is related to another
+
+597
+00:20:55,000 --> 00:20:58,000
+one which is often First-time managers
+
+598
+00:20:58,000 --> 00:21:02,000
+are hesitant to hire or mentor people up
+
+599
+00:21:02,000 --> 00:21:05,000
+um who are going to be as strong or
+
+600
+00:21:05,000 --> 00:21:06,000
+close to as strong or even stronger than
+
+601
+00:21:06,000 --> 00:21:09,000
+them. Classic mistake. I love having
+
+602
+00:21:09,000 --> 00:21:11,000
+people work for me who are way smarter
+
+603
+00:21:11,000 --> 00:21:12,000
+than me and better than me at things.
+
+604
+00:21:12,000 --> 00:21:14,000
+It's the best because then I can learn
+
+605
+00:21:14,000 --> 00:21:17,000
+from them. Um, and I've managed so many
+
+606
+00:21:17,000 --> 00:21:18,000
+people through this transition and they
+
+607
+00:21:18,000 --> 00:21:20,000
+like I don't know if we really need the
+
+608
+00:21:20,000 --> 00:21:22,000
+senior person and then they I'm like
+
+609
+00:21:22,000 --> 00:21:24,000
+just try it and then if they land that
+
+610
+00:21:24,000 --> 00:21:26,000
+person like every time a month later
+
+611
+00:21:26,000 --> 00:21:27,000
+they're like this is amazing. I run
+
+612
+00:21:27,000 --> 00:21:30,000
+ideas by her, she gives me advice, she
+
+613
+00:21:30,000 --> 00:21:31,000
+drags me along. It's like another
+
+614
+00:21:31,000 --> 00:21:34,000
+standard mistake. Uh, and the third
+
+615
+00:21:34,000 --> 00:21:35,000
+mistake I that comes to mind when I
+
+616
+00:21:35,000 --> 00:21:37,000
+think about first-time managers is
+
+617
+00:21:37,000 --> 00:21:39,000
+trying to manage everyone the same way.
+
+618
+00:21:39,000 --> 00:21:41,000
+Um there's this idea of fairness in
+
+619
+00:21:41,000 --> 00:21:44,000
+management, but the truth is
+
+620
+00:21:44,000 --> 00:21:46,000
+everyone's needs are different and if
+
+621
+00:21:46,000 --> 00:21:47,000
+you're going to get the most out of your
+
+622
+00:21:47,000 --> 00:21:49,000
+people, you need to understand their
+
+623
+00:21:49,000 --> 00:21:51,000
+specific needs. There are consistencies
+
+624
+00:21:51,000 --> 00:21:53,000
+like the overlap I talked about before.
+
+625
+00:21:53,000 --> 00:21:56,000
+So what is what matters to the company,
+
+626
+00:21:56,000 --> 00:21:57,000
+what matter understand what matters to
+
+627
+00:21:57,000 --> 00:21:58,000
+the individual. The answer to those
+
+628
+00:21:58,000 --> 00:22:00,000
+things will be different, but do that
+
+629
+00:22:00,000 --> 00:22:02,000
+for each person. But some people need to
+
+630
+00:22:02,000 --> 00:22:04,000
+be challenged. Some people need to be
+
+631
+00:22:04,000 --> 00:22:06,000
+need more support. Some people need
+
+632
+00:22:06,000 --> 00:22:08,000
+really direct, frank feedback and
+
+633
+00:22:08,000 --> 00:22:09,000
+they're comfortable taking that in
+
+634
+00:22:09,000 --> 00:22:12,000
+public. For other people, that'll
+
+635
+00:22:12,000 --> 00:22:14,000
+completely blow back uh or blow up in
+
+636
+00:22:14,000 --> 00:22:16,000
+your face. You have to understand the
+
+637
+00:22:16,000 --> 00:22:18,000
+individual's needs and then manage to
+
+638
+00:22:18,000 --> 00:22:20,000
+those needs. Um so for first- time
+
+639
+00:22:20,000 --> 00:22:22,000
+managers, I would say like look out for
+
+640
+00:22:22,000 --> 00:22:25,000
+those because I just it's seven out of
+
+641
+00:22:25,000 --> 00:22:27,000
+eight make all three of those mistakes.
+
+642
+00:22:27,000 --> 00:22:29,000
+Yeah. Um at least for some period of
+
+643
+00:22:29,000 --> 00:22:31,000
+time. And then as you get more senior,
+
+644
+00:22:31,000 --> 00:22:33,000
+then it's about thinking a little bit
+
+645
+00:22:33,000 --> 00:22:35,000
+about what kind of leader do you want to
+
+646
+00:22:35,000 --> 00:22:38,000
+be? What's your style? Um
+
+647
+00:22:38,000 --> 00:22:41,000
+and whatever it is, it's okay. Like you
+
+648
+00:22:41,000 --> 00:22:43,000
+can but you but you have to be honest
+
+649
+00:22:43,000 --> 00:22:45,000
+about what your wants are and what your
+
+650
+00:22:45,000 --> 00:22:48,000
+strengths are. Yeah. Um because if it's
+
+651
+00:22:48,000 --> 00:22:49,000
+not if it's not aligned with one of
+
+652
+00:22:49,000 --> 00:22:51,000
+those, it's not going to work. And I
+
+653
+00:22:51,000 --> 00:22:52,000
+want to move on to speaking about
+
+654
+00:22:52,000 --> 00:22:55,000
+Instagram and how to grow on there for
+
+655
+00:22:55,000 --> 00:22:57,000
+people who want to. Um, so I personally
+
+656
+00:22:57,000 --> 00:22:59,000
+have been on Instagram from the very
+
+657
+00:22:59,000 --> 00:23:02,000
+beginning. I appreciate your business.
+
+658
+00:23:02,000 --> 00:23:05,000
+Prior to even videos. I remember um the
+
+659
+00:23:05,000 --> 00:23:06,000
+15-second videos coming along
+
+660
+00:23:06,000 --> 00:23:08,000
+transforming my career. Personally, I
+
+661
+00:23:08,000 --> 00:23:09,000
+will say it was a People forget
+
+662
+00:23:09,000 --> 00:23:11,000
+Instagram was a feed of square photos,
+
+663
+00:23:11,000 --> 00:23:15,000
+no stories, no videos, no DMs, no
+
+664
+00:23:15,000 --> 00:23:17,000
+rectangles. Um, and we get a lot of
+
+665
+00:23:17,000 --> 00:23:19,000
+flack for evolving Instagram forward.
+
+666
+00:23:19,000 --> 00:23:20,000
+And I understand that. It's annoying
+
+667
+00:23:20,000 --> 00:23:22,000
+when things change, especially if you
+
+668
+00:23:22,000 --> 00:23:24,000
+use them. And I take it as a sign of a
+
+669
+00:23:24,000 --> 00:23:26,000
+good sign that people are invested in
+
+670
+00:23:26,000 --> 00:23:28,000
+our product. Um, but if we didn't
+
+671
+00:23:28,000 --> 00:23:30,000
+evolve, we wouldn't be having this
+
+672
+00:23:30,000 --> 00:23:33,000
+conversation. Yeah, absolutely. And in
+
+673
+00:23:33,000 --> 00:23:35,000
+my time, I guess on Instagram, I feel
+
+674
+00:23:35,000 --> 00:23:37,000
+like I've felt every algorithm change,
+
+675
+00:23:37,000 --> 00:23:39,000
+every feature change, every kind of
+
+676
+00:23:39,000 --> 00:23:42,000
+really having businesses on there and
+
+677
+00:23:42,000 --> 00:23:43,000
+being a creator on there. It's been
+
+678
+00:23:43,000 --> 00:23:45,000
+really important for me to be very close
+
+679
+00:23:45,000 --> 00:23:47,000
+to that and work out what that means to
+
+680
+00:23:47,000 --> 00:23:49,000
+the business every single time. But I
+
+681
+00:23:49,000 --> 00:23:51,000
+want to know from you what it is like
+
+682
+00:23:51,000 --> 00:23:53,000
+going through so many iterations of a
+
+683
+00:23:53,000 --> 00:23:54,000
+business because I can imagine you're
+
+684
+00:23:54,000 --> 00:23:57,000
+making changes almost daily. Um it's
+
+685
+00:23:57,000 --> 00:23:59,000
+pretty wild. I mean every year gets a
+
+686
+00:23:59,000 --> 00:24:01,000
+little bit crazier. I mean look I would
+
+687
+00:24:01,000 --> 00:24:04,000
+say it depends on the type of work. So
+
+688
+00:24:04,000 --> 00:24:06,000
+like one thing people ask a lot about is
+
+689
+00:24:06,000 --> 00:24:08,000
+how ranking works about the algorithm.
+
+690
+00:24:08,000 --> 00:24:09,000
+They call it the algorithm. There's many
+
+691
+00:24:09,000 --> 00:24:11,000
+many algorithms but how does ranking
+
+692
+00:24:11,000 --> 00:24:14,000
+work fundamentally? Uh and so but the
+
+693
+00:24:14,000 --> 00:24:16,000
+way we work on that is very iterative.
+
+694
+00:24:16,000 --> 00:24:20,000
+We make small ch tiny changes every day.
+
+695
+00:24:20,000 --> 00:24:22,000
+Um very rarely if ever do you see major
+
+696
+00:24:22,000 --> 00:24:23,000
+changes. So some people will say like oh
+
+697
+00:24:23,000 --> 00:24:25,000
+something clearly changed last week. My
+
+698
+00:24:25,000 --> 00:24:27,000
+reach went way down. It's like that
+
+699
+00:24:27,000 --> 00:24:30,000
+actually almost never happened. It could
+
+700
+00:24:30,000 --> 00:24:32,000
+be that your account got flagged and you
+
+701
+00:24:32,000 --> 00:24:33,000
+could see that in account status and
+
+702
+00:24:33,000 --> 00:24:35,000
+undo that. Um but it wasn't some major
+
+703
+00:24:35,000 --> 00:24:36,000
+ranking change. Could be that something
+
+704
+00:24:36,000 --> 00:24:38,000
+happened in the world. Maybe it was you
+
+705
+00:24:38,000 --> 00:24:40,000
+know champions of the game and there's a
+
+706
+00:24:40,000 --> 00:24:41,000
+lot more competition with your
+
+707
+00:24:41,000 --> 00:24:44,000
+followers. Um but so but managing that
+
+708
+00:24:44,000 --> 00:24:47,000
+is much more about long-term what's the
+
+709
+00:24:47,000 --> 00:24:48,000
+goal what's the best measurement for the
+
+710
+00:24:48,000 --> 00:24:50,000
+goal make sure that the metric isn't the
+
+711
+00:24:50,000 --> 00:24:52,000
+goal but it's a proxy for it that the
+
+712
+00:24:52,000 --> 00:24:54,000
+incentives are and the guardrails are
+
+713
+00:24:54,000 --> 00:24:56,000
+clear and that team can iterate for it
+
+714
+00:24:56,000 --> 00:24:57,000
+so supporting that work is totally
+
+715
+00:24:57,000 --> 00:25:00,000
+different than building a new product
+
+716
+00:25:00,000 --> 00:25:01,000
+right like we're working on an app
+
+717
+00:25:01,000 --> 00:25:03,000
+called edits right now for video editing
+
+718
+00:25:03,000 --> 00:25:06,000
+and to support that team it's not about
+
+719
+00:25:06,000 --> 00:25:11,000
+metrics or guard rails or you know GPUs
+
+720
+00:25:11,000 --> 00:25:13,000
+or revenue new budgets. It's about
+
+721
+00:25:13,000 --> 00:25:16,000
+making space for creativity. It's about
+
+722
+00:25:16,000 --> 00:25:17,000
+understanding how we might
+
+723
+00:25:17,000 --> 00:25:20,000
+differentiate. It's about the art of
+
+724
+00:25:20,000 --> 00:25:22,000
+knowing when to let push the team to
+
+725
+00:25:22,000 --> 00:25:24,000
+keep exploring new ideas and then when
+
+726
+00:25:24,000 --> 00:25:27,000
+to switch to push the idea the team to
+
+727
+00:25:27,000 --> 00:25:29,000
+start to focus on less and less of ideas
+
+728
+00:25:29,000 --> 00:25:30,000
+and double down on the ones that are the
+
+729
+00:25:30,000 --> 00:25:33,000
+strongest. Uh it's about giving them
+
+730
+00:25:33,000 --> 00:25:38,000
+space. Um so again what the work demands
+
+731
+00:25:38,000 --> 00:25:40,000
+is very different based on the type of
+
+732
+00:25:40,000 --> 00:25:44,000
+work and over time the more teams you
+
+733
+00:25:44,000 --> 00:25:47,000
+manage of more types you start to build
+
+734
+00:25:47,000 --> 00:25:49,000
+your own sense of those patterns those
+
+735
+00:25:49,000 --> 00:25:51,000
+archetypes uh and then you manage each
+
+736
+00:25:51,000 --> 00:25:53,000
+of those teams based on what's going to
+
+737
+00:25:53,000 --> 00:25:56,000
+get the most out of the people and the
+
+738
+00:25:56,000 --> 00:25:57,000
+best results. Yeah. And there's
+
+739
+00:25:57,000 --> 00:25:59,000
+obviously an extraordinary amount of
+
+740
+00:25:59,000 --> 00:26:00,000
+creativity on Instagram. I think I've
+
+741
+00:26:00,000 --> 00:26:02,000
+seen some Instagram feeds that should be
+
+742
+00:26:02,000 --> 00:26:06,000
+like in a gallery. Yeah. Yeah. Um and
+
+743
+00:26:06,000 --> 00:26:07,000
+that obviously means, especially when
+
+744
+00:26:07,000 --> 00:26:08,000
+we're talking about all of these
+
+745
+00:26:08,000 --> 00:26:10,000
+different iterations of Instagram that
+
+746
+00:26:10,000 --> 00:26:11,000
+have happened over the past kind of 15
+
+747
+00:26:11,000 --> 00:26:13,000
+or so years,
+
+748
+00:26:13,000 --> 00:26:15,000
+there's a huge breadth of different
+
+749
+00:26:15,000 --> 00:26:17,000
+creativity. There's kind of this
+
+750
+00:26:17,000 --> 00:26:19,000
+off-the- cuff posting or whatever it
+
+751
+00:26:19,000 --> 00:26:20,000
+might be. And there's also, I'm sure,
+
+752
+00:26:20,000 --> 00:26:22,000
+you know, things that someone spent 100
+
+753
+00:26:22,000 --> 00:26:24,000
+days creating in order to get up on
+
+754
+00:26:24,000 --> 00:26:26,000
+Instagram. Are you kind of able to keep
+
+755
+00:26:26,000 --> 00:26:29,000
+all of those creators in mind when
+
+756
+00:26:29,000 --> 00:26:31,000
+building new features and when releasing
+
+757
+00:26:31,000 --> 00:26:33,000
+new parts of the app? We try to. It's
+
+758
+00:26:33,000 --> 00:26:34,000
+challenging. I mean, one of the things
+
+759
+00:26:34,000 --> 00:26:36,000
+that I worry about is that people are
+
+760
+00:26:36,000 --> 00:26:39,000
+sometimes are often too precious about
+
+761
+00:26:39,000 --> 00:26:41,000
+what they share. We're here to support
+
+762
+00:26:41,000 --> 00:26:44,000
+creativity, but we want to support what
+
+763
+00:26:44,000 --> 00:26:46,000
+we internally call everyday creativity.
+
+764
+00:26:46,000 --> 00:26:48,000
+Right? it is. If you can if you have an
+
+765
+00:26:48,000 --> 00:26:51,000
+amazing idea or you can take an amazing
+
+766
+00:26:51,000 --> 00:26:54,000
+photo or shoot an amazing video in 20
+
+767
+00:26:54,000 --> 00:26:55,000
+seconds, you should feel comfortable
+
+768
+00:26:55,000 --> 00:26:57,000
+posting it. That's great. For other
+
+769
+00:26:57,000 --> 00:26:59,000
+people, they post once a month and
+
+770
+00:26:59,000 --> 00:27:00,000
+that's all that they need and that works
+
+771
+00:27:00,000 --> 00:27:02,000
+for them, too. And that's great, too. We
+
+772
+00:27:02,000 --> 00:27:04,000
+want to support all creatives, not just
+
+773
+00:27:04,000 --> 00:27:07,000
+ones who spend a 100 days on one post.
+
+774
+00:27:07,000 --> 00:27:08,000
+Um, so we try to develop different
+
+775
+00:27:08,000 --> 00:27:11,000
+products, right? So, um, and people
+
+776
+00:27:11,000 --> 00:27:14,000
+spend more time making a real that's 2
+
+777
+00:27:14,000 --> 00:27:15,000
+minutes long than they do posting a
+
+778
+00:27:15,000 --> 00:27:18,000
+photo into stories than they do sending
+
+779
+00:27:18,000 --> 00:27:20,000
+something in DMs as a even an image.
+
+780
+00:27:20,000 --> 00:27:22,000
+Actually, one thing people forget is
+
+781
+00:27:22,000 --> 00:27:24,000
+they don't even realize is there's way
+
+782
+00:27:24,000 --> 00:27:27,000
+forget texts. There's way more photos
+
+783
+00:27:27,000 --> 00:27:29,000
+and videos posted in DMs every day than
+
+784
+00:27:29,000 --> 00:27:31,000
+there are to stories. And there are way
+
+785
+00:27:31,000 --> 00:27:32,000
+more photos and videos posted into
+
+786
+00:27:32,000 --> 00:27:35,000
+stories than into feed. But when you ask
+
+787
+00:27:35,000 --> 00:27:36,000
+most people to think of Instagram, they
+
+788
+00:27:36,000 --> 00:27:40,000
+think of feed. Uh, but it's not the most
+
+789
+00:27:40,000 --> 00:27:43,000
+important surface in terms of where
+
+790
+00:27:43,000 --> 00:27:45,000
+people share and it's not the most
+
+791
+00:27:45,000 --> 00:27:46,000
+important surface in terms of where
+
+792
+00:27:46,000 --> 00:27:48,000
+people actually consume content. It's
+
+793
+00:27:48,000 --> 00:27:51,000
+third or fourth. That's very interesting
+
+794
+00:27:51,000 --> 00:27:52,000
+and I can imagine that's incredibly
+
+795
+00:27:52,000 --> 00:27:53,000
+interesting when you're looking at how
+
+796
+00:27:53,000 --> 00:27:56,000
+you actually build the app itself and
+
+797
+00:27:56,000 --> 00:27:58,000
+understanding how how people are
+
+798
+00:27:58,000 --> 00:28:00,000
+genuinely using it dayto-day. like yes
+
+799
+00:28:00,000 --> 00:28:01,000
+they're consuming the feed but actually
+
+800
+00:28:01,000 --> 00:28:03,000
+if you're understanding that they're
+
+801
+00:28:03,000 --> 00:28:06,000
+more consuming messages more or they're
+
+802
+00:28:06,000 --> 00:28:07,000
+consuming stories more or whatever I can
+
+803
+00:28:07,000 --> 00:28:09,000
+imagine that's young people spend more
+
+804
+00:28:09,000 --> 00:28:11,000
+time in DMs they spend more time in
+
+805
+00:28:11,000 --> 00:28:14,000
+stories they spend more time in the real
+
+806
+00:28:14,000 --> 00:28:16,000
+tab than they do in feed that's very
+
+807
+00:28:16,000 --> 00:28:19,000
+interesting and you do a lot of building
+
+808
+00:28:19,000 --> 00:28:21,000
+in public and I speak to a lot of
+
+809
+00:28:21,000 --> 00:28:23,000
+founders on this podcast who are doing
+
+810
+00:28:23,000 --> 00:28:25,000
+exactly that they're building in public
+
+811
+00:28:25,000 --> 00:28:27,000
+they're they're using social media to be
+
+812
+00:28:27,000 --> 00:28:30,000
+able to share the journey and show the
+
+813
+00:28:30,000 --> 00:28:32,000
+kind of good, the bad, and the ugly. You
+
+814
+00:28:32,000 --> 00:28:34,000
+do a lot of ask me anything every every
+
+815
+00:28:34,000 --> 00:28:37,000
+Friday. And and what spurred you to do
+
+816
+00:28:37,000 --> 00:28:40,000
+that? Cuz that's not a classic kind of
+
+817
+00:28:40,000 --> 00:28:43,000
+more I don't know, you don't expect that
+
+818
+00:28:43,000 --> 00:28:45,000
+from a huge organization.
+
+819
+00:28:45,000 --> 00:28:48,000
+I mean, I used to manage newsfeed on the
+
+820
+00:28:48,000 --> 00:28:50,000
+Facebook app and there was a lot of
+
+821
+00:28:50,000 --> 00:28:53,000
+conversations about how ranking worked
+
+822
+00:28:53,000 --> 00:28:55,000
+given how big Facebook was and how
+
+823
+00:28:55,000 --> 00:28:57,000
+influential it was around the world. And
+
+824
+00:28:57,000 --> 00:29:00,000
+my take back then was the these
+
+825
+00:29:00,000 --> 00:29:01,000
+conversations are going to happen with
+
+826
+00:29:01,000 --> 00:29:02,000
+or without us. And so we might as well
+
+827
+00:29:02,000 --> 00:29:04,000
+participate, provide context, and
+
+828
+00:29:04,000 --> 00:29:06,000
+basically the idea is to explain what
+
+829
+00:29:06,000 --> 00:29:08,000
+we're doing and why we're doing it.
+
+830
+00:29:08,000 --> 00:29:10,000
+Maybe humanize us a little bit because a
+
+831
+00:29:10,000 --> 00:29:11,000
+lot of people didn't even think anyone
+
+832
+00:29:11,000 --> 00:29:13,000
+worked at Facebook back in the day. Um
+
+833
+00:29:13,000 --> 00:29:15,000
+that it was just Mark just like coding
+
+834
+00:29:15,000 --> 00:29:17,000
+away, I guess, on his laptop. And so I
+
+835
+00:29:17,000 --> 00:29:18,000
+started doing that in the Facebook days.
+
+836
+00:29:18,000 --> 00:29:20,000
+And then when I moved over to Instagram,
+
+837
+00:29:20,000 --> 00:29:22,000
+it just seemed natural to continue doing
+
+838
+00:29:22,000 --> 00:29:25,000
+so. Um, and I just think in a world
+
+839
+00:29:25,000 --> 00:29:26,000
+where we're going to be under this much
+
+840
+00:29:26,000 --> 00:29:28,000
+scrutiny and there's going to be this
+
+841
+00:29:28,000 --> 00:29:30,000
+many people who use our app and this
+
+842
+00:29:30,000 --> 00:29:32,000
+many people who rely on our app to do
+
+843
+00:29:32,000 --> 00:29:35,000
+what they do for a living or to at least
+
+844
+00:29:35,000 --> 00:29:37,000
+amplify what they do for a living, I
+
+845
+00:29:37,000 --> 00:29:39,000
+just think the conversations are going
+
+846
+00:29:39,000 --> 00:29:42,000
+to happen. And so my hope is to for for
+
+847
+00:29:42,000 --> 00:29:44,000
+the rest of us or for the rest of
+
+848
+00:29:44,000 --> 00:29:46,000
+everyone um to just if you're interested
+
+849
+00:29:46,000 --> 00:29:48,000
+to explain what we do and how we do it.
+
+850
+00:29:48,000 --> 00:29:50,000
+The other benefit though for me is
+
+851
+00:29:50,000 --> 00:29:53,000
+because we care so much about creators
+
+852
+00:29:53,000 --> 00:29:55,000
+because power is continuing to shift to
+
+853
+00:29:55,000 --> 00:29:57,000
+individuals from institutions across all
+
+854
+00:29:57,000 --> 00:29:59,000
+these industries around the world. It's
+
+855
+00:29:59,000 --> 00:30:00,000
+very helpful for me to experience what
+
+856
+00:30:00,000 --> 00:30:02,000
+it's like to be a creator on the
+
+857
+00:30:02,000 --> 00:30:04,000
+platform. Trying to create content that
+
+858
+00:30:04,000 --> 00:30:05,000
+breaks through, trying to manage my
+
+859
+00:30:05,000 --> 00:30:07,000
+comments and my DMs, trying to load
+
+860
+00:30:07,000 --> 00:30:09,000
+things when they don't load properly.
+
+861
+00:30:09,000 --> 00:30:11,000
+it's really helpful for me to build some
+
+862
+00:30:11,000 --> 00:30:13,000
+empathy and then to better manage the
+
+863
+00:30:13,000 --> 00:30:16,000
+team because nobody on the team has
+
+864
+00:30:16,000 --> 00:30:18,000
+millions of followers or almost nobody.
+
+865
+00:30:18,000 --> 00:30:21,000
+Um, and so it's it's very helpful for
+
+866
+00:30:21,000 --> 00:30:25,000
+me. It's funny because I well my latest
+
+867
+00:30:25,000 --> 00:30:27,000
+company I'm currently building an AI
+
+868
+00:30:27,000 --> 00:30:29,000
+talent agency for creators and the one
+
+869
+00:30:29,000 --> 00:30:31,000
+place that I've been almost avoiding
+
+870
+00:30:31,000 --> 00:30:33,000
+building in public despite the fact that
+
+871
+00:30:33,000 --> 00:30:34,000
+I've built every other of my companies
+
+872
+00:30:34,000 --> 00:30:36,000
+in public has been Instagram because I'm
+
+873
+00:30:36,000 --> 00:30:39,000
+almost worried
+
+874
+00:30:39,000 --> 00:30:41,000
+about the creators seeing what we're
+
+875
+00:30:41,000 --> 00:30:43,000
+currently building and what might work
+
+876
+00:30:43,000 --> 00:30:44,000
+and what what might not work and
+
+877
+00:30:44,000 --> 00:30:46,000
+actually might not make sense for you to
+
+878
+00:30:46,000 --> 00:30:47,000
+do it then but actually that's one of
+
+879
+00:30:47,000 --> 00:30:49,000
+the things that I've realized recently
+
+880
+00:30:49,000 --> 00:30:52,000
+has been a mistake in journey and
+
+881
+00:30:52,000 --> 00:30:53,000
+actually, you know, I'm I'm going to
+
+882
+00:30:53,000 --> 00:30:55,000
+start making sure I'm having a lot more
+
+883
+00:30:55,000 --> 00:30:56,000
+of those conversations because a lot of
+
+884
+00:30:56,000 --> 00:30:58,000
+the things I think we built that didn't
+
+885
+00:30:58,000 --> 00:31:01,000
+work for the creators. We probably could
+
+886
+00:31:01,000 --> 00:31:02,000
+have found out a lot sooner if we were
+
+887
+00:31:02,000 --> 00:31:04,000
+building in public and were getting that
+
+888
+00:31:04,000 --> 00:31:06,000
+kind of direct and constant feedback
+
+889
+00:31:06,000 --> 00:31:08,000
+loop. I think that's great. I think one
+
+890
+00:31:08,000 --> 00:31:10,000
+of the things though is we almost have
+
+891
+00:31:10,000 --> 00:31:11,000
+to build in public now because when we
+
+892
+00:31:11,000 --> 00:31:13,000
+run a test, you know, there might be 10
+
+893
+00:31:13,000 --> 00:31:15,000
+million people in the test, so it's
+
+894
+00:31:15,000 --> 00:31:16,000
+going to get covered somewhere by
+
+895
+00:31:16,000 --> 00:31:19,000
+somebody. Um, but if you're gonna build
+
+896
+00:31:19,000 --> 00:31:21,000
+in public, whether you're big or small,
+
+897
+00:31:21,000 --> 00:31:23,000
+you need to go in eyes wide open and you
+
+898
+00:31:23,000 --> 00:31:25,000
+need to make sure you have a thick skin.
+
+899
+00:31:25,000 --> 00:31:28,000
+It's good to get the feedback. Um, but
+
+900
+00:31:28,000 --> 00:31:29,000
+there's going to be more noise than
+
+901
+00:31:29,000 --> 00:31:31,000
+feedback invariably. Unfortunately,
+
+902
+00:31:31,000 --> 00:31:33,000
+that's just how the world works. And
+
+903
+00:31:33,000 --> 00:31:35,000
+it's our job to sift through all of that
+
+904
+00:31:35,000 --> 00:31:37,000
+and find the signal and ignore the
+
+905
+00:31:37,000 --> 00:31:40,000
+noise. And you know, if you see my DMs
+
+906
+00:31:40,000 --> 00:31:42,000
+or my comments, they can get pretty
+
+907
+00:31:42,000 --> 00:31:45,000
+gnarly and pretty angry. Um, but I need
+
+908
+00:31:45,000 --> 00:31:48,000
+to sort of accept that. but still go
+
+909
+00:31:48,000 --> 00:31:50,000
+through it because I do find gems in
+
+910
+00:31:50,000 --> 00:31:52,000
+there consistently every week. Yeah. Um
+
+911
+00:31:52,000 --> 00:31:54,000
+but you need to know what you're getting
+
+912
+00:31:54,000 --> 00:31:55,000
+into and you need to make sure you have
+
+913
+00:31:55,000 --> 00:31:57,000
+a thick skin because there's a lot of
+
+914
+00:31:57,000 --> 00:31:59,000
+critics out there. And so I just think
+
+915
+00:31:59,000 --> 00:32:01,000
+it's just important to be conscious of
+
+916
+00:32:01,000 --> 00:32:03,000
+that as you get involved. And for anyone
+
+917
+00:32:03,000 --> 00:32:05,000
+trying to build their Instagram or maybe
+
+918
+00:32:05,000 --> 00:32:07,000
+their business's
+
+919
+00:32:07,000 --> 00:32:12,000
+Instagram, is there a optimal amount of
+
+920
+00:32:12,000 --> 00:32:13,000
+times to be posting? because I have seen
+
+921
+00:32:13,000 --> 00:32:15,000
+all sorts of theories out there on kind
+
+922
+00:32:15,000 --> 00:32:17,000
+of how many times you should be posting
+
+923
+00:32:17,000 --> 00:32:20,000
+stories a day. Yeah, there isn't. Um,
+
+924
+00:32:20,000 --> 00:32:21,000
+there are a couple things to consider. I
+
+925
+00:32:21,000 --> 00:32:24,000
+mean, one of them is just so it's like
+
+926
+00:32:24,000 --> 00:32:25,000
+same thing about managing people. It's
+
+927
+00:32:25,000 --> 00:32:27,000
+similar for creators and using
+
+928
+00:32:27,000 --> 00:32:29,000
+Instagram. The question again with this
+
+929
+00:32:29,000 --> 00:32:32,000
+idea of like a ven diagram. So, what are
+
+930
+00:32:32,000 --> 00:32:34,000
+your goals? Like, okay, you want to grow
+
+931
+00:32:34,000 --> 00:32:36,000
+and get reach, but to what end? Are you
+
+932
+00:32:36,000 --> 00:32:38,000
+trying to sell a product? Are you trying
+
+933
+00:32:38,000 --> 00:32:39,000
+to build a brand? Are you trying to
+
+934
+00:32:39,000 --> 00:32:41,000
+evangelize a cause? Are you, you know,
+
+935
+00:32:41,000 --> 00:32:41,000
+what are you trying to build a
+
+936
+00:32:41,000 --> 00:32:43,000
+community? what are you trying to do? So
+
+937
+00:32:43,000 --> 00:32:45,000
+then you have to identify that goal and
+
+938
+00:32:45,000 --> 00:32:48,000
+then you also have to figure out what is
+
+939
+00:32:48,000 --> 00:32:50,000
+a creative strategy or a content
+
+940
+00:32:50,000 --> 00:32:52,000
+strategy that's actually going to
+
+941
+00:32:52,000 --> 00:32:54,000
+resonate that's going to do well. Uh yes
+
+942
+00:32:54,000 --> 00:32:56,000
+by understanding ranking but more by
+
+943
+00:32:56,000 --> 00:32:57,000
+understanding what people are interested
+
+944
+00:32:57,000 --> 00:32:59,000
+in because ranking is just a proxy for
+
+945
+00:32:59,000 --> 00:33:02,000
+people's interests. Um and then you got
+
+946
+00:33:02,000 --> 00:33:04,000
+to just try things and find things at
+
+947
+00:33:04,000 --> 00:33:07,000
+that overlap. Um, and so I think that
+
+948
+00:33:07,000 --> 00:33:09,000
+that's kind of where it starts, which is
+
+949
+00:33:09,000 --> 00:33:11,000
+you need to you need to sort of identify
+
+950
+00:33:11,000 --> 00:33:13,000
+that overlap. All questions like optimal
+
+951
+00:33:13,000 --> 00:33:15,000
+time to post, you view through that
+
+952
+00:33:15,000 --> 00:33:16,000
+lens.
+
+953
+00:33:16,000 --> 00:33:22,000
+Um, so it might be that you are a museum
+
+954
+00:33:22,000 --> 00:33:23,000
+curator and you're trying to drive
+
+955
+00:33:23,000 --> 00:33:25,000
+ticket sales and you probably should
+
+956
+00:33:25,000 --> 00:33:28,000
+post a bunch when there's a new exhibit
+
+957
+00:33:28,000 --> 00:33:30,000
+coming out in order to build up some
+
+958
+00:33:30,000 --> 00:33:31,000
+demand, but it doesn't make sense to
+
+959
+00:33:31,000 --> 00:33:33,000
+post a bunch all the time. And so maybe
+
+960
+00:33:33,000 --> 00:33:35,000
+it's maybe the answer to that question
+
+961
+00:33:35,000 --> 00:33:38,000
+changes. Maybe you're, you know, one of
+
+962
+00:33:38,000 --> 00:33:40,000
+these creators that does incredibly well
+
+963
+00:33:40,000 --> 00:33:42,000
+and posts one thing a month. Um, for a
+
+964
+00:33:42,000 --> 00:33:44,000
+lot of people it's more valuable to post
+
+965
+00:33:44,000 --> 00:33:46,000
+more often because it gives you more
+
+966
+00:33:46,000 --> 00:33:48,000
+shots on goals, so to speak. I mean, you
+
+967
+00:33:48,000 --> 00:33:50,000
+know, we're here in a soccer, sorry, a
+
+968
+00:33:50,000 --> 00:33:51,000
+football arena.
+
+969
+00:33:51,000 --> 00:33:55,000
+Um, but the thing there I'd be careful
+
+970
+00:33:55,000 --> 00:33:56,000
+about is burnout because let's say it is
+
+971
+00:33:56,000 --> 00:33:59,000
+optimal from a reach perspective to post
+
+972
+00:33:59,000 --> 00:34:01,000
+two things a day or three things a day
+
+973
+00:34:01,000 --> 00:34:04,000
+or four things a day. But if that's not
+
+974
+00:34:04,000 --> 00:34:05,000
+aligned with your goals because you
+
+975
+00:34:05,000 --> 00:34:08,000
+can't keep that up, don't do it. You
+
+976
+00:34:08,000 --> 00:34:09,000
+have to come up with a different thing
+
+977
+00:34:09,000 --> 00:34:11,000
+that is, you know, both good for
+
+978
+00:34:11,000 --> 00:34:13,000
+engagement but also aligned with you
+
+979
+00:34:13,000 --> 00:34:17,000
+your goals and your constraints. Um so
+
+980
+00:34:17,000 --> 00:34:20,000
+it's not a really satisfying answer um
+
+981
+00:34:20,000 --> 00:34:21,000
+because everyone has to kind of find
+
+982
+00:34:21,000 --> 00:34:23,000
+their own journey. For me I have found
+
+983
+00:34:23,000 --> 00:34:26,000
+that um more important than frequency is
+
+984
+00:34:26,000 --> 00:34:29,000
+having patterns or series. So I don't
+
+985
+00:34:29,000 --> 00:34:30,000
+have to think about what am I going to
+
+986
+00:34:30,000 --> 00:34:32,000
+do. I just know on Fridays they do an
+
+987
+00:34:32,000 --> 00:34:34,000
+ask me anything on stories. I try to
+
+988
+00:34:34,000 --> 00:34:37,000
+post at least one video a week about
+
+989
+00:34:37,000 --> 00:34:39,000
+either a new feature or an explainer or
+
+990
+00:34:39,000 --> 00:34:41,000
+what I call a hidden gem. So a cool
+
+991
+00:34:41,000 --> 00:34:43,000
+thing you might not know about. And I,
+
+992
+00:34:43,000 --> 00:34:45,000
+you know, if I have time, two or three,
+
+993
+00:34:45,000 --> 00:34:48,000
+but I do at least one a week. Um, and
+
+994
+00:34:48,000 --> 00:34:49,000
+then if I'm on the road, I just post
+
+995
+00:34:49,000 --> 00:34:51,000
+stories all day long. Right. That way I
+
+996
+00:34:51,000 --> 00:34:53,000
+don't have to think about it. And then
+
+997
+00:34:53,000 --> 00:34:54,000
+if I have a new idea, I'll try it and
+
+998
+00:34:54,000 --> 00:34:55,000
+maybe that'll become a series or maybe
+
+999
+00:34:55,000 --> 00:34:58,000
+it'll go away. Yeah. And what I really
+
+1000
+00:34:58,000 --> 00:34:59,000
+like about what you've just said is
+
+1001
+00:34:59,000 --> 00:35:02,000
+essentially the optimal cadence of
+
+1002
+00:35:02,000 --> 00:35:03,000
+posting is the one that you can be
+
+1003
+00:35:03,000 --> 00:35:05,000
+consistent with and the one that allows
+
+1004
+00:35:05,000 --> 00:35:06,000
+you to do the rest of your job because a
+
+1005
+00:35:06,000 --> 00:35:08,000
+lot of people have different parts of
+
+1006
+00:35:08,000 --> 00:35:10,000
+their job aside from social. to maximize
+
+1007
+00:35:10,000 --> 00:35:12,000
+my reach. I should probably post a reel
+
+1008
+00:35:12,000 --> 00:35:15,000
+at least once a day. I cannot do that.
+
+1009
+00:35:15,000 --> 00:35:16,000
+Actually, doesn't even take me that time
+
+1010
+00:35:16,000 --> 00:35:17,000
+much time to create a reel, but my life
+
+1011
+00:35:17,000 --> 00:35:19,000
+is so hectic right now. Not just the
+
+1012
+00:35:19,000 --> 00:35:21,000
+job, but also the kids that I just can't
+
+1013
+00:35:21,000 --> 00:35:24,000
+do that. So, I don't I post one, two,
+
+1014
+00:35:24,000 --> 00:35:26,000
+maybe if I'm lucky, three times a week
+
+1015
+00:35:26,000 --> 00:35:27,000
+because that's what I can that's what I
+
+1016
+00:35:27,000 --> 00:35:29,000
+can sustain over the long run. You've
+
+1017
+00:35:29,000 --> 00:35:34,000
+just launched edits. How do you see that
+
+1018
+00:35:34,000 --> 00:35:37,000
+being able to help people create content
+
+1019
+00:35:37,000 --> 00:35:39,000
+and grow their brand? The hope with
+
+1020
+00:35:39,000 --> 00:35:43,000
+edits is that it will be a tool that
+
+1021
+00:35:43,000 --> 00:35:46,000
+allows people who create videos today to
+
+1022
+00:35:46,000 --> 00:35:49,000
+create more videos and better videos,
+
+1023
+00:35:49,000 --> 00:35:51,000
+but also one that allows people who
+
+1024
+00:35:51,000 --> 00:35:53,000
+might not have created before start to
+
+1025
+00:35:53,000 --> 00:35:57,000
+create. It's not for a power editor who
+
+1026
+00:35:57,000 --> 00:35:59,000
+uses a desktop and Adobe Premiere and
+
+1027
+00:35:59,000 --> 00:36:02,000
+two monitors to edit their videos. And
+
+1028
+00:36:02,000 --> 00:36:04,000
+it's not for someone who just posts
+
+1029
+00:36:04,000 --> 00:36:06,000
+pictures of their kids or, you know, I
+
+1030
+00:36:06,000 --> 00:36:08,000
+know videos of, you know, where it's
+
+1031
+00:36:08,000 --> 00:36:10,000
+just stand still. There's no editing
+
+1032
+00:36:10,000 --> 00:36:11,000
+need that needs to be done. It's for
+
+1033
+00:36:11,000 --> 00:36:13,000
+those that middle and there's tens of
+
+1034
+00:36:13,000 --> 00:36:15,000
+millions of people in that middle. Um,
+
+1035
+00:36:15,000 --> 00:36:18,000
+and the hope is that it will not only
+
+1036
+00:36:18,000 --> 00:36:20,000
+I'll be a video editor, but it'll
+
+1037
+00:36:20,000 --> 00:36:23,000
+actually help with the entire creative
+
+1038
+00:36:23,000 --> 00:36:26,000
+process from finding inspiration to
+
+1039
+00:36:26,000 --> 00:36:29,000
+keeping track of your ideas to yes,
+
+1040
+00:36:29,000 --> 00:36:32,000
+editing the video and hopefully doing
+
+1041
+00:36:32,000 --> 00:36:34,000
+some pretty fun exciting things with AI
+
+1042
+00:36:34,000 --> 00:36:36,000
+in order to make more interesting and
+
+1043
+00:36:36,000 --> 00:36:40,000
+wonderful uh, story tell stories to
+
+1044
+00:36:40,000 --> 00:36:42,000
+actually seeing how the video does and
+
+1045
+00:36:42,000 --> 00:36:44,000
+looking for patterns in your insights.
+
+1046
+00:36:44,000 --> 00:36:46,000
+that sort of entire creative journey.
+
+1047
+00:36:46,000 --> 00:36:49,000
+Now, we'll see. Um, and you know, this
+
+1048
+00:36:49,000 --> 00:36:50,000
+is just the beginning and it's going to
+
+1049
+00:36:50,000 --> 00:36:52,000
+take time, but that's the aspiration and
+
+1050
+00:36:52,000 --> 00:36:53,000
+it's one that I'm very very excited
+
+1051
+00:36:53,000 --> 00:36:55,000
+about. Which creators do you think are
+
+1052
+00:36:55,000 --> 00:36:57,000
+really killing it at the moment on the
+
+1053
+00:36:57,000 --> 00:37:00,000
+app? Ooh. I just I love how there are so
+
+1054
+00:37:00,000 --> 00:37:02,000
+many different types of creators that do
+
+1055
+00:37:02,000 --> 00:37:04,000
+well and have completely different
+
+1056
+00:37:04,000 --> 00:37:07,000
+strategies, you know? So,
+
+1057
+00:37:07,000 --> 00:37:09,000
+uh, like on one end of the spectrum,
+
+1058
+00:37:09,000 --> 00:37:10,000
+there's like, you know, Haley Bailey who
+
+1059
+00:37:10,000 --> 00:37:11,000
+does this comedy, she's based out of New
+
+1060
+00:37:11,000 --> 00:37:14,000
+York City. She posts five times a day
+
+1061
+00:37:14,000 --> 00:37:17,000
+reals, but she also posts five videos on
+
+1062
+00:37:17,000 --> 00:37:19,000
+every other platform she uses. That is
+
+1063
+00:37:19,000 --> 00:37:21,000
+an insane amount of content production.
+
+1064
+00:37:21,000 --> 00:37:23,000
+She is prolific. I do not encourage
+
+1065
+00:37:23,000 --> 00:37:25,000
+everyone to try to aspire to that amount
+
+1066
+00:37:25,000 --> 00:37:27,000
+of production, but for her, it's just
+
+1067
+00:37:27,000 --> 00:37:29,000
+natural. And then on the other end of
+
+1068
+00:37:29,000 --> 00:37:30,000
+this spectrum, there's Rick Rubin, who
+
+1069
+00:37:30,000 --> 00:37:33,000
+only has one thing on his profile at a
+
+1070
+00:37:33,000 --> 00:37:34,000
+time. And when he posts another one,
+
+1071
+00:37:34,000 --> 00:37:36,000
+which might be once every week or two,
+
+1072
+00:37:36,000 --> 00:37:39,000
+he deletes the last one. Uh, and it's
+
+1073
+00:37:39,000 --> 00:37:41,000
+just kind of his zen take on
+
+1074
+00:37:41,000 --> 00:37:45,000
+creativity that Fortnite. Um, and so
+
+1075
+00:37:45,000 --> 00:37:47,000
+that's kind of the fun bit is seeing
+
+1076
+00:37:47,000 --> 00:37:52,000
+people find things, ways to be creative,
+
+1077
+00:37:52,000 --> 00:37:53,000
+to express themselves, but that are
+
+1078
+00:37:53,000 --> 00:37:55,000
+really aligned with their identities,
+
+1079
+00:37:55,000 --> 00:37:58,000
+their values, their stories. Um, so for
+
+1080
+00:37:58,000 --> 00:38:00,000
+me, that's always kind of fun to see. U,
+
+1081
+00:38:00,000 --> 00:38:04,000
+for me, my my Instagram is a lot of, you
+
+1082
+00:38:04,000 --> 00:38:06,000
+know, design content. So, I'm really
+
+1083
+00:38:06,000 --> 00:38:09,000
+into architecture and furniture. It's a
+
+1084
+00:38:09,000 --> 00:38:11,000
+lot of um you know, there's men's
+
+1085
+00:38:11,000 --> 00:38:13,000
+fashion. There's a lot of football,
+
+1086
+00:38:13,000 --> 00:38:17,000
+which we call soccer in the States. Um
+
+1087
+00:38:17,000 --> 00:38:19,000
+some basketball and some watches. Um but
+
+1088
+00:38:19,000 --> 00:38:20,000
+for everyone, it's different. So, if I
+
+1089
+00:38:20,000 --> 00:38:22,000
+named the creators in those markets, it
+
+1090
+00:38:22,000 --> 00:38:24,000
+would just be probably completely
+
+1091
+00:38:24,000 --> 00:38:26,000
+uninteresting to somebody else. And what
+
+1092
+00:38:26,000 --> 00:38:28,000
+do you think entrepreneurs are getting
+
+1093
+00:38:28,000 --> 00:38:30,000
+wrong and getting right on Instagram at
+
+1094
+00:38:30,000 --> 00:38:32,000
+the moment?
+
+1095
+00:38:32,000 --> 00:38:35,000
+I think too often entrepreneurs and
+
+1096
+00:38:35,000 --> 00:38:39,000
+business owners and creators are focused
+
+1097
+00:38:39,000 --> 00:38:43,000
+uh too much on reach. And to be clear,
+
+1098
+00:38:43,000 --> 00:38:44,000
+I'm not saying reach doesn't matter. Of
+
+1099
+00:38:44,000 --> 00:38:45,000
+course, it matters. If you post and no
+
+1100
+00:38:45,000 --> 00:38:47,000
+one sees it, then what's the point of
+
+1101
+00:38:47,000 --> 00:38:49,000
+posting? But again, the question is
+
+1102
+00:38:49,000 --> 00:38:51,000
+reach to what end? Um if you can get
+
+1103
+00:38:51,000 --> 00:38:53,000
+great reach, but you're trying to sell
+
+1104
+00:38:53,000 --> 00:38:56,000
+shoes and none of your reach is actually
+
+1105
+00:38:56,000 --> 00:38:58,000
+helping you send any shoes, then there's
+
+1106
+00:38:58,000 --> 00:39:02,000
+no point to it. Uh, and I think that is
+
+1107
+00:39:02,000 --> 00:39:04,000
+that's a that's a common problem is you
+
+1108
+00:39:04,000 --> 00:39:06,000
+get overfocused on ranking in the
+
+1109
+00:39:06,000 --> 00:39:08,000
+algorithm and how to get more likes or
+
+1110
+00:39:08,000 --> 00:39:09,000
+how to get more views or more reach and
+
+1111
+00:39:09,000 --> 00:39:11,000
+you lose sight of why you're there in
+
+1112
+00:39:11,000 --> 00:39:12,000
+the first place. It's better to have a
+
+1113
+00:39:12,000 --> 00:39:15,000
+smaller following and reach less people
+
+1114
+00:39:15,000 --> 00:39:17,000
+but have them actually in my weird
+
+1115
+00:39:17,000 --> 00:39:20,000
+example effectively sell your shoes than
+
+1116
+00:39:20,000 --> 00:39:22,000
+to reach more people and sell no sell
+
+1117
+00:39:22,000 --> 00:39:23,000
+none. That particularly delights me is
+
+1118
+00:39:23,000 --> 00:39:26,000
+when people come up with creative ways
+
+1119
+00:39:26,000 --> 00:39:27,000
+to connect the dots between the
+
+1120
+00:39:27,000 --> 00:39:29,000
+different things that we build. I' I've
+
+1121
+00:39:29,000 --> 00:39:31,000
+met people who follow a different group
+
+1122
+00:39:31,000 --> 00:39:33,000
+of accounts every month based on a
+
+1123
+00:39:33,000 --> 00:39:35,000
+theme. They're focused on causes. So,
+
+1124
+00:39:35,000 --> 00:39:37,000
+you know, maybe maybe it's climate this
+
+1125
+00:39:37,000 --> 00:39:38,000
+month, maybe it's women education next
+
+1126
+00:39:38,000 --> 00:39:40,000
+month, maybe it's something else. Um,
+
+1127
+00:39:40,000 --> 00:39:42,000
+but so that's a cool thing. That's a
+
+1128
+00:39:42,000 --> 00:39:44,000
+hack. But what they should also do, and
+
+1129
+00:39:44,000 --> 00:39:45,000
+I've seen people do this, is create a
+
+1130
+00:39:45,000 --> 00:39:47,000
+video explaining that. So now you've got
+
+1131
+00:39:47,000 --> 00:39:48,000
+a real that explains what you're doing,
+
+1132
+00:39:48,000 --> 00:39:50,000
+and you've got your following list,
+
+1133
+00:39:50,000 --> 00:39:52,000
+which actually points people in the
+
+1134
+00:39:52,000 --> 00:39:54,000
+direction. And you've sort of you have
+
+1135
+00:39:54,000 --> 00:39:55,000
+a, you know, one plus one equals three
+
+1136
+00:39:55,000 --> 00:39:57,000
+kind of thing. And so if you can think
+
+1137
+00:39:57,000 --> 00:39:59,000
+about how can you use realels and
+
+1138
+00:39:59,000 --> 00:40:02,000
+stories and who you follow and your grid
+
+1139
+00:40:02,000 --> 00:40:05,000
+and your DMs or your channel. Um you
+
+1140
+00:40:05,000 --> 00:40:07,000
+can't be not everyone can be using all
+
+1141
+00:40:07,000 --> 00:40:08,000
+of these tools. So I'm not trying to say
+
+1142
+00:40:08,000 --> 00:40:12,000
+that. But if there's creative ways to um
+
+1143
+00:40:12,000 --> 00:40:15,000
+amplify your stories by using two or
+
+1144
+00:40:15,000 --> 00:40:16,000
+three and having them interact, I think
+
+1145
+00:40:16,000 --> 00:40:18,000
+that's always particularly exciting. And
+
+1146
+00:40:18,000 --> 00:40:21,000
+what would you say generally for
+
+1147
+00:40:21,000 --> 00:40:23,000
+creators is the most important metric to
+
+1148
+00:40:23,000 --> 00:40:26,000
+track on Instagram? So the the measure
+
+1149
+00:40:26,000 --> 00:40:29,000
+of how I mean reach is probably the the
+
+1150
+00:40:29,000 --> 00:40:30,000
+output that matters. But if you're
+
+1151
+00:40:30,000 --> 00:40:32,000
+trying to understand why your reach is
+
+1152
+00:40:32,000 --> 00:40:36,000
+what it is, the things to look at most
+
+1153
+00:40:36,000 --> 00:40:40,000
+are likes per reach. So you know if a
+
+1154
+00:40:40,000 --> 00:40:42,000
+thousand people saw it, how many liked
+
+1155
+00:40:42,000 --> 00:40:45,000
+it, sends per reach, and if you're
+
+1156
+00:40:45,000 --> 00:40:47,000
+posting a video, watch time, average
+
+1157
+00:40:47,000 --> 00:40:50,000
+watch time. Those three matter the most.
+
+1158
+00:40:50,000 --> 00:40:53,000
+Okay. For reals. Mhm. What about posts
+
+1159
+00:40:53,000 --> 00:40:55,000
+in general? And for posts obviously uh
+
+1160
+00:40:55,000 --> 00:40:57,000
+you watch time isn't relevant if it's a
+
+1161
+00:40:57,000 --> 00:40:59,000
+photo. But likes per reach and sends per
+
+1162
+00:40:59,000 --> 00:41:01,000
+reach. For stories, you know, obviously
+
+1163
+00:41:01,000 --> 00:41:03,000
+you can't do there's different things
+
+1164
+00:41:03,000 --> 00:41:05,000
+you can interact with. For channels,
+
+1165
+00:41:05,000 --> 00:41:07,000
+it's different. But for the main posts,
+
+1166
+00:41:07,000 --> 00:41:08,000
+those are the three things that matter
+
+1167
+00:41:08,000 --> 00:41:10,000
+most. And I'm personally obsessed with
+
+1168
+00:41:10,000 --> 00:41:13,000
+productivity and making sure that I I'm
+
+1169
+00:41:13,000 --> 00:41:16,000
+getting that. I really give off that. So
+
+1170
+00:41:16,000 --> 00:41:18,000
+I give intense. I should introduce you
+
+1171
+00:41:18,000 --> 00:41:20,000
+to my OCD palace later on my phone. I'll
+
+1172
+00:41:20,000 --> 00:41:21,000
+just show you how I keep all my notes
+
+1173
+00:41:21,000 --> 00:41:23,000
+and all my to-dos. Well, I show you my
+
+1174
+00:41:23,000 --> 00:41:25,000
+productivity method, which is a
+
+1175
+00:41:25,000 --> 00:41:27,000
+step-by-step process for good to-do
+
+1176
+00:41:27,000 --> 00:41:29,000
+lists. But um Oh, yes. I love this.
+
+1177
+00:41:29,000 --> 00:41:31,000
+Yeah, it's a it's um it's a really good
+
+1178
+00:41:31,000 --> 00:41:33,000
+one if I do say so myself. But I wanted
+
+1179
+00:41:33,000 --> 00:41:34,000
+to know your productivity
+
+1180
+00:41:34,000 --> 00:41:36,000
+non-negotiables. So, if you sat down and
+
+1181
+00:41:36,000 --> 00:41:38,000
+you know you have an obscene amount of
+
+1182
+00:41:38,000 --> 00:41:39,000
+work to get through, what are your kind
+
+1183
+00:41:39,000 --> 00:41:41,000
+of non-negotiables or what is your
+
+1184
+00:41:41,000 --> 00:41:43,000
+process in really tackling that to-do
+
+1185
+00:41:43,000 --> 00:41:46,000
+list? So, I have a running to-do list
+
+1186
+00:41:46,000 --> 00:41:50,000
+that's organized and I I always mark
+
+1187
+00:41:50,000 --> 00:41:53,000
+things. There's a small subset that of
+
+1188
+00:41:53,000 --> 00:41:54,000
+things that absolutely have to get done
+
+1189
+00:41:54,000 --> 00:41:58,000
+today. And I try to be really intense
+
+1190
+00:41:58,000 --> 00:42:02,000
+about not putting too many things marked
+
+1191
+00:42:02,000 --> 00:42:04,000
+as it has to get done today that don't
+
+1192
+00:42:04,000 --> 00:42:05,000
+actually have to get done today because
+
+1193
+00:42:05,000 --> 00:42:07,000
+at the end of the at, you know, at the
+
+1194
+00:42:07,000 --> 00:42:10,000
+end of the day, uh, inevitably something
+
+1195
+00:42:10,000 --> 00:42:12,000
+comes up. you know, we'll have a press
+
+1196
+00:42:12,000 --> 00:42:14,000
+cycle or a kid will fall at school and I
+
+1197
+00:42:14,000 --> 00:42:16,000
+have to pick them up early and my day
+
+1198
+00:42:16,000 --> 00:42:19,000
+will get blown up. So, I have to have a
+
+1199
+00:42:19,000 --> 00:42:21,000
+short list of what needs to get done at
+
+1200
+00:42:21,000 --> 00:42:24,000
+any given in any given day so that when
+
+1201
+00:42:24,000 --> 00:42:26,000
+when my time gets compressed, I know
+
+1202
+00:42:26,000 --> 00:42:30,000
+where to focus first. Um, that I think
+
+1203
+00:42:30,000 --> 00:42:32,000
+is as much about peace of mind as it is
+
+1204
+00:42:32,000 --> 00:42:35,000
+actually about prioritization. Yeah, I
+
+1205
+00:42:35,000 --> 00:42:36,000
+completely agree with that. My big thing
+
+1206
+00:42:36,000 --> 00:42:38,000
+is that I think that we often have this
+
+1207
+00:42:38,000 --> 00:42:40,000
+big to-do list that feels more
+
+1208
+00:42:40,000 --> 00:42:42,000
+terrifying than it is because it's not
+
+1209
+00:42:42,000 --> 00:42:44,000
+weighted in terms of importance or time.
+
+1210
+00:42:44,000 --> 00:42:45,000
+Like I'm I categorize my to-do list by
+
+1211
+00:42:45,000 --> 00:42:48,000
+time. I have three different sections by
+
+1212
+00:42:48,000 --> 00:42:50,000
+time. Um yeah, I find it gets everything
+
+1213
+00:42:50,000 --> 00:42:53,000
+done so much quicker. But that's that's
+
+1214
+00:42:53,000 --> 00:42:55,000
+exactly the thing is if you have a spare
+
+1215
+00:42:55,000 --> 00:42:56,000
+five minutes and you look at your to-do
+
+1216
+00:42:56,000 --> 00:42:57,000
+list, you're probably going to get
+
+1217
+00:42:57,000 --> 00:42:59,000
+nothing done because of the paradox of
+
+1218
+00:42:59,000 --> 00:43:00,000
+choice and you're kind of thinking there
+
+1219
+00:43:00,000 --> 00:43:01,000
+are all these things. Whereas if you
+
+1220
+00:43:01,000 --> 00:43:03,000
+have it separated into things that take
+
+1221
+00:43:03,000 --> 00:43:05,000
+under five minutes, you're going to be
+
+1222
+00:43:05,000 --> 00:43:06,000
+able to get through them super quickly.
+
+1223
+00:43:06,000 --> 00:43:08,000
+So it's like this illusion of just being
+
+1224
+00:43:08,000 --> 00:43:10,000
+able to skim things down and work out
+
+1225
+00:43:10,000 --> 00:43:12,000
+which are the priorities. Yeah. As long
+
+1226
+00:43:12,000 --> 00:43:14,000
+as we're nerding out on productivity.
+
+1227
+00:43:14,000 --> 00:43:16,000
+I've met someone who does this thing I
+
+1228
+00:43:16,000 --> 00:43:18,000
+wish I could do. I think my list is too
+
+1229
+00:43:18,000 --> 00:43:22,000
+long. Who doesn't do to-do lists as like
+
+1230
+00:43:22,000 --> 00:43:25,000
+a list? He puts it in the calendar for
+
+1231
+00:43:25,000 --> 00:43:26,000
+the amount of time he thinks it's going
+
+1232
+00:43:26,000 --> 00:43:29,000
+to take. Yes. And so he if you give him
+
+1233
+00:43:29,000 --> 00:43:31,000
+another thing to do, he's like he'll
+
+1234
+00:43:31,000 --> 00:43:32,000
+look at his calendar and he'll be like,
+
+1235
+00:43:32,000 --> 00:43:34,000
+"All right, I can I can do that. That's
+
+1236
+00:43:34,000 --> 00:43:35,000
+going to take about an hour. I'll do it
+
+1237
+00:43:35,000 --> 00:43:37,000
+on I'll do it tomorrow from 11 to 12."
+
+1238
+00:43:37,000 --> 00:43:40,000
+Yeah. Um but if it's not if he doesn't
+
+1239
+00:43:40,000 --> 00:43:41,000
+have a window and it's going to take an
+
+1240
+00:43:41,000 --> 00:43:42,000
+hour until next week, he's like, "You're
+
+1241
+00:43:42,000 --> 00:43:44,000
+not going to get it till next week." And
+
+1242
+00:43:44,000 --> 00:43:46,000
+so it's he's he actually and he's built
+
+1243
+00:43:46,000 --> 00:43:48,000
+up a lot of good intuition over the
+
+1244
+00:43:48,000 --> 00:43:49,000
+years about how long all these different
+
+1245
+00:43:49,000 --> 00:43:52,000
+tasks take. My to-do list is so long. I
+
+1246
+00:43:52,000 --> 00:43:54,000
+don't know how my calendar and I have so
+
+1247
+00:43:54,000 --> 00:43:55,000
+many meetings that my calendar is
+
+1248
+00:43:55,000 --> 00:43:58,000
+already a little bit triggering just to
+
+1249
+00:43:58,000 --> 00:43:59,000
+look at. So, I'm not sure I could do
+
+1250
+00:43:59,000 --> 00:44:01,000
+that. Yeah. But I love that idea. So,
+
+1251
+00:44:01,000 --> 00:44:03,000
+mine's a combo of those two things. I
+
+1252
+00:44:03,000 --> 00:44:04,000
+have the to-do list split into three,
+
+1253
+00:44:04,000 --> 00:44:06,000
+which is under five minutes, 5 to 30
+
+1254
+00:44:06,000 --> 00:44:08,000
+minutes, and 30 minutes plus. And then I
+
+1255
+00:44:08,000 --> 00:44:10,000
+write out my fixed commitments for the
+
+1256
+00:44:10,000 --> 00:44:12,000
+day. So, all my meetings or when I'm
+
+1257
+00:44:12,000 --> 00:44:13,000
+going to the gym or whatever it might
+
+1258
+00:44:13,000 --> 00:44:16,000
+be. And then I slot them in
+
+1259
+00:44:16,000 --> 00:44:18,000
+specifically. They're already in time.
+
+1260
+00:44:18,000 --> 00:44:20,000
+You do? Yeah. So, I take I've already,
+
+1261
+00:44:20,000 --> 00:44:21,000
+you know, I've flagged my
+
+1262
+00:44:21,000 --> 00:44:23,000
+non-negotiables. The beginning of a long
+
+1263
+00:44:23,000 --> 00:44:25,000
+relationship of productivity hacks being
+
+1264
+00:44:25,000 --> 00:44:27,000
+DM'd to each other. Oh. Fantastic.
+
+1265
+00:44:27,000 --> 00:44:29,000
+Honestly, I would love absolutely
+
+1266
+00:44:29,000 --> 00:44:32,000
+nothing more. Um, and I Yeah, I'm just
+
+1267
+00:44:32,000 --> 00:44:34,000
+obsessed with it. I feel like I when you
+
+1268
+00:44:34,000 --> 00:44:35,000
+talk about being obsessed with
+
+1269
+00:44:35,000 --> 00:44:36,000
+productivity, I think people think that
+
+1270
+00:44:36,000 --> 00:44:38,000
+you want to be working all the time
+
+1271
+00:44:38,000 --> 00:44:39,000
+rather than the fact that you want to be
+
+1272
+00:44:39,000 --> 00:44:42,000
+working for less time. So, that is why
+
+1273
+00:44:42,000 --> 00:44:43,000
+you need to do it effectively. Anyway, I
+
+1274
+00:44:43,000 --> 00:44:44,000
+feel like we could talk about this for a
+
+1275
+00:44:44,000 --> 00:44:46,000
+long time. Just to finish, I feel like I
+
+1276
+00:44:46,000 --> 00:44:48,000
+have found
+
+1277
+00:44:48,000 --> 00:44:50,000
+the real common ground here. Um, just to
+
+1278
+00:44:50,000 --> 00:44:52,000
+finish, I would love to know what the
+
+1279
+00:44:52,000 --> 00:44:54,000
+best piece of advice is that you've ever
+
+1280
+00:44:54,000 --> 00:44:59,000
+been given. Oh man, I know big one.
+
+1281
+00:44:59,000 --> 00:45:00,000
+I've been given a I've been lucky. I've
+
+1282
+00:45:00,000 --> 00:45:03,000
+been getting a lot of good advice.
+
+1283
+00:45:03,000 --> 00:45:06,000
+Um, in the early years, my my mother
+
+1284
+00:45:06,000 --> 00:45:08,000
+started ran an architecture firm for the
+
+1285
+00:45:08,000 --> 00:45:10,000
+longest time. And so when I started a
+
+1286
+00:45:10,000 --> 00:45:13,000
+design firm in New York when I was young
+
+1287
+00:45:13,000 --> 00:45:16,000
+in uni, uh, one amazing piece of advice
+
+1288
+00:45:16,000 --> 00:45:20,000
+she gave me was always talk about the
+
+1289
+00:45:20,000 --> 00:45:23,000
+money openly and early. And I got me
+
+1290
+00:45:23,000 --> 00:45:25,000
+very comfortable talking about money.
+
+1291
+00:45:25,000 --> 00:45:26,000
+And I think a lot of people struggle
+
+1292
+00:45:26,000 --> 00:45:27,000
+with that. And that's not only relevant
+
+1293
+00:45:27,000 --> 00:45:30,000
+if you're a business owner. I mean a a
+
+1294
+00:45:30,000 --> 00:45:32,000
+report. I work at a big company. It's
+
+1295
+00:45:32,000 --> 00:45:34,000
+actually sorry, I'm trying to say it's
+
+1296
+00:45:34,000 --> 00:45:35,000
+both. So if you had at if you're running
+
+1297
+00:45:35,000 --> 00:45:37,000
+a company and you're especially if it's
+
+1298
+00:45:37,000 --> 00:45:40,000
+in service being like, "Hey, we build
+
+1299
+00:45:40,000 --> 00:45:42,000
+websites." The the smallest job we've
+
+1300
+00:45:42,000 --> 00:45:44,000
+ever done was, you know, 5,000 pounds.
+
+1301
+00:45:44,000 --> 00:45:47,000
+So if that's too high for you, you know,
+
+1302
+00:45:47,000 --> 00:45:48,000
+that's totally okay, but this isn't
+
+1303
+00:45:48,000 --> 00:45:50,000
+going to work. I just want you to know
+
+1304
+00:45:50,000 --> 00:45:51,000
+that upfront and being comfortable
+
+1305
+00:45:51,000 --> 00:45:53,000
+saying that upfront and saving people
+
+1306
+00:45:53,000 --> 00:45:56,000
+some time and giving a sense of um you
+
+1307
+00:45:56,000 --> 00:45:58,000
+know what their expectations should be.
+
+1308
+00:45:58,000 --> 00:46:00,000
+It's also about being confident in your
+
+1309
+00:46:00,000 --> 00:46:02,000
+self-worth. Similarly, if you're working
+
+1310
+00:46:02,000 --> 00:46:03,000
+at a large company, being able to self-
+
+1311
+00:46:03,000 --> 00:46:06,000
+advocate, right? So, being able to say,
+
+1312
+00:46:06,000 --> 00:46:08,000
+"Hey, this is what matters to me. I care
+
+1313
+00:46:08,000 --> 00:46:10,000
+about compensation and here's why.
+
+1314
+00:46:10,000 --> 00:46:12,000
+Here's what I think is fair." Be okay
+
+1315
+00:46:12,000 --> 00:46:13,000
+with not necessarily getting what you
+
+1316
+00:46:13,000 --> 00:46:14,000
+ask for, but you're going to get more if
+
+1317
+00:46:14,000 --> 00:46:16,000
+you ask for it. And so this comfort with
+
+1318
+00:46:16,000 --> 00:46:18,000
+being talking about money which is
+
+1319
+00:46:18,000 --> 00:46:20,000
+almost like a dirty subject for a lot of
+
+1320
+00:46:20,000 --> 00:46:22,000
+people I think served me really well in
+
+1321
+00:46:22,000 --> 00:46:26,000
+the early years um in the middle years
+
+1322
+00:46:26,000 --> 00:46:27,000
+and I don't I can't think of the latest
+
+1323
+00:46:27,000 --> 00:46:29,000
+I think I mean my first manager at
+
+1324
+00:46:29,000 --> 00:46:32,000
+Facebook was a woman uh maybe she was my
+
+1325
+00:46:32,000 --> 00:46:35,000
+second name Rebecca Cox really intense
+
+1326
+00:46:35,000 --> 00:46:39,000
+really talented designer and I thought I
+
+1327
+00:46:39,000 --> 00:46:41,000
+was like doing great like I said I was I
+
+1328
+00:46:41,000 --> 00:46:45,000
+was a little overconfident in my 20s and
+
+1329
+00:46:45,000 --> 00:46:47,000
+she's like, "You need to focus." Which
+
+1330
+00:46:47,000 --> 00:46:49,000
+is a very simple thing to say, but in my
+
+1331
+00:46:49,000 --> 00:46:51,000
+20s, I was like working around the
+
+1332
+00:46:51,000 --> 00:46:52,000
+clock. I thought I was crushing it, but
+
+1333
+00:46:52,000 --> 00:46:54,000
+the work wasn't great. And it wasn't
+
+1334
+00:46:54,000 --> 00:46:57,000
+great cuz I was doing too many things.
+
+1335
+00:46:57,000 --> 00:46:59,000
+Uh, and I and that sort of idea of do
+
+1336
+00:46:59,000 --> 00:47:01,000
+less things and do them better, I think,
+
+1337
+00:47:01,000 --> 00:47:04,000
+is one that is almost always valuable to
+
+1338
+00:47:04,000 --> 00:47:06,000
+consider at least. And so, she really
+
+1339
+00:47:06,000 --> 00:47:08,000
+pushed me and humbled me a little bit.
+
+1340
+00:47:08,000 --> 00:47:09,000
+She's like, "You're unfocused. You're
+
+1341
+00:47:09,000 --> 00:47:10,000
+all over the place." I was never used to
+
+1342
+00:47:10,000 --> 00:47:11,000
+hearing that because I never had a boss
+
+1343
+00:47:11,000 --> 00:47:14,000
+before. Um, so I don't know. I could go
+
+1344
+00:47:14,000 --> 00:47:15,000
+on and on, but those those two jump out
+
+1345
+00:47:15,000 --> 00:47:18,000
+to me from my mom and from Rebecca.
+
+1346
+00:47:18,000 --> 00:47:19,000
+Well, thank you so much. You have been
+
+1347
+00:47:19,000 --> 00:47:21,000
+fantastic. Thank you for all of the help
+
+1348
+00:47:21,000 --> 00:47:23,000
+on how to use Instagram and also just
+
+1349
+00:47:23,000 --> 00:47:24,000
+the general I feel like people will
+
+1350
+00:47:24,000 --> 00:47:26,000
+learn a lot from your corporate
+
+1351
+00:47:26,000 --> 00:47:28,000
+experience and your career. So, thank
+
+1352
+00:47:28,000 --> 00:47:29,000
+you so much. Thanks for having me. I
+
+1353
+00:47:29,000 --> 00:47:31,000
+don't usually get to talk about
+
+1354
+00:47:31,000 --> 00:47:33,000
+management and organizational leadership
+
+1355
+00:47:33,000 --> 00:47:35,000
+and that's just these are my obsessions.
+
+1356
+00:47:35,000 --> 00:47:36,000
+This is just me trying to get some
+
+1357
+00:47:36,000 --> 00:47:37,000
+advice consultant. No, it's great. It's
+
+1358
+00:47:37,000 --> 00:47:39,000
+great. I I mean I would love to more. I
+
+1359
+00:47:39,000 --> 00:47:40,000
+don't know if anyone usually cares. So,
+
+1360
+00:47:40,000 --> 00:47:43,000
+I'm excited. Amazing. Well, let's do it.
+
+1361
+00:47:43,000 --> 00:47:44,000
+Cheers.
+
+1362
+00:47:44,000 --> 00:47:48,000
+[Music]
+

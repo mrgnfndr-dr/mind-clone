@@ -1,0 +1,4 @@
+1|Clarifying your thoughts on paper is one of the easiest ways to become more articulate. Here's how to practice this. First off, before your next speech or next presentation, first go and get a pen and paper and go and write down all
+11|of your potential thoughts that you want to get across. Then, often times, what I'll go and do is take a highlighter and go and highlight some of the key ideas that I want to make sure are incorporated into that presentation.
+21|Now, from there, I'll go and synthesize all of the highlighted pieces and then go a layer deeper there, coming up with the specific words, phrases, ideas, or
+31|thoughts that are going to help them travel the best. I also make sure that I'm weaving in my storytelling as well and have stories for each key idea so that they're that much more powerful. Clarity on paper becomes confidence in

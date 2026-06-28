@@ -1,0 +1,3 @@
+2|normalize being bored sit in silence walk in nature write in a notebook let your thoughts wander real happiness creativity Wonder Joy it doesn't come from distracting ourselves with meaningless memes it comes from sitting
+13|without scrolling Peter bregman said it this way being bored is a precious thing a state of mind we should pursue once boredom sets in our minds begin to wander looking for something exciting
+23|something interesting to land on and that's where creativity arises being bored is a discipline the more time you spend being bored the less bored you'll be when there's nothing to do

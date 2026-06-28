@@ -1,0 +1,2 @@
+2|you can Master anything in life but only through deep work block out 2 hours every day turn off your phone shut down your email don't talk to anyone tell your people not to call you make it sacred go into monk mode build
+13|concentration like you build muscle within a couple days you'll be amazed at the work you're putting out within a couple weeks you'll know yourself better than ever before within a couple months or Years you'll be unstoppable

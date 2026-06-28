@@ -1,0 +1,1 @@
+How should a solo founder (build-in-public, MRR journey) start an Instagram from scratch — full plan: positioning, content pillars, short-form/Reels, packaging, hooks, retention, idea selection, consistency, growth

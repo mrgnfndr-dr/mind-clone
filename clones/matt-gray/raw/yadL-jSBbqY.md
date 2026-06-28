@@ -1,0 +1,5 @@
+1|The most dangerous thing in your business isn't a bad decision. It's a good opportunity you said yes to at the wrong time. Saying no to a good opportunity, I get it. It can feel terrible. But saying yes to a bad one,
+11|that pain is physical. As a founder, you already know you need to train your eyes for a good opportunity. But what most founders forget is that you also need to train your eye for the bad ones. The problem is never a lack of new ideas. It
+23|was a lack of executing the ones that you already have. Gary Keller put it this way. What's the one thing you could do such that by doing it, everything else becomes easier or unnecessary?
+33|Here's your action step. Write out everything on your plate right now. Then ask yourself, what is the 4% of this list that's going to drive me 64% of the actual impact? The math
+44|compounds in both directions. You decide where it goes, right? Clear out the rest, set your default answer to no, and protect the few things that actually matter.

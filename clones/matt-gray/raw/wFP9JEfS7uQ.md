@@ -1,0 +1,3 @@
+2|want to become a better salesperson stop what you're doing and read these four books Never split the difference by Chris Voss the author is a former FBI negotiator he'll teach you how to negotiate like your life depends on it start with no by Jim Camp learn why the
+13|fastest path to yes is through no and how to get to know faster so you can move on to yes to sell is Human by Daniel pink this book will give you super practical strategies you need to
+23|sell naturally without feeling like it's forced How to Win Friends and Influence People by Dale Carnegie a Timeless classic this book is all about psychology you'll learn how people are influenced and how to influence them

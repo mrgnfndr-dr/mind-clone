@@ -1,0 +1,5 @@
+1|Here's why 90% of creators burn out and what the 10% do differently. When I first committed to acts 5 years ago, I had no idea what I was doing. I had no editors, I had no social media manager to start with, and it
+11|was just me out there in the wild posting some stuff. It's at this stage, right, that you start to get on a bit of a hamster wheel. You don't really have any systems in place, you're new
+21|to this thing, and what's inevitably going to happen is the creator dip. This is all part of the journey. The things you want to start taking note of are, you know, in those moments where you're feeling some cognitive dissonance, some
+32|frustration, elements that you're like, oh, I think this could be better. Make note of those areas. These are going to be areas that we're going to want to systematize. We're going to want to get ready to go and delegate these areas so that long-term, we're not
+43|just building content for 3 months, right, that we've got a sustainable system for 3 years.

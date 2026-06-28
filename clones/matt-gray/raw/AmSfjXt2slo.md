@@ -1,0 +1,4 @@
+1|There is one decision that you make every day that will determine whether you're successful or not. And that decision is whether you're going to take that next meeting. Too many people leave all of their time in a day
+11|for meetings. But the reality is is if all you're doing all day is meetings, you have no time for maker time. The key thing is first off, schedule all of your meetings on just one day of the week.
+22|The second thing is you got to have a rule for this. No agenda, no meeting. So, if people aren't organized ahead of time, letting you know exactly what it is they want to cover, then scrap that meeting. The third thing is
+32|all hour-long meetings should be reduced just to 30 minutes and give yourself three or four days of the week to get the real stuff done that's going to help you move forward towards your goals.

@@ -1,0 +1,6005 @@
+1
+00:00:00,800 --> 00:00:02,030
+ 
+I've been sitting with something for the
+
+2
+00:00:02,030 --> 00:00:02,040
+I've been sitting with something for the
+ 
+
+3
+00:00:02,040 --> 00:00:04,590
+I've been sitting with something for the
+last few weeks that I think that every
+
+4
+00:00:04,590 --> 00:00:04,600
+last few weeks that I think that every
+ 
+
+5
+00:00:04,600 --> 00:00:07,190
+last few weeks that I think that every
+founder needs to see. After reading this
+
+6
+00:00:07,190 --> 00:00:07,200
+founder needs to see. After reading this
+ 
+
+7
+00:00:07,200 --> 00:00:09,710
+founder needs to see. After reading this
+article, my mind was honestly shattered.
+
+8
+00:00:09,710 --> 00:00:09,720
+article, my mind was honestly shattered.
+ 
+
+9
+00:00:09,720 --> 00:00:12,230
+article, my mind was honestly shattered.
+This is one of the craziest articles and
+
+10
+00:00:12,230 --> 00:00:12,240
+This is one of the craziest articles and
+ 
+
+11
+00:00:12,240 --> 00:00:13,710
+This is one of the craziest articles and
+predictions that I've seen. It's a
+
+12
+00:00:13,710 --> 00:00:13,720
+predictions that I've seen. It's a
+ 
+
+13
+00:00:13,720 --> 00:00:15,870
+predictions that I've seen. It's a
+research piece about what happens when
+
+14
+00:00:15,870 --> 00:00:15,880
+research piece about what happens when
+ 
+
+15
+00:00:15,880 --> 00:00:18,590
+research piece about what happens when
+intelligence becomes abundant. Really,
+
+16
+00:00:18,590 --> 00:00:18,600
+intelligence becomes abundant. Really,
+ 
+
+17
+00:00:18,600 --> 00:00:20,710
+intelligence becomes abundant. Really,
+I'm seeing some trends that I think are
+
+18
+00:00:20,710 --> 00:00:20,720
+I'm seeing some trends that I think are
+ 
+
+19
+00:00:20,720 --> 00:00:22,430
+I'm seeing some trends that I think are
+important that people don't ignore. I'm
+
+20
+00:00:22,430 --> 00:00:22,440
+important that people don't ignore. I'm
+ 
+
+21
+00:00:22,440 --> 00:00:24,430
+important that people don't ignore. I'm
+going to be bringing together 20
+
+22
+00:00:24,430 --> 00:00:24,440
+going to be bringing together 20
+ 
+
+23
+00:00:24,440 --> 00:00:28,230
+going to be bringing together 20
+unbelievable founders in Bali for 2 days
+
+24
+00:00:28,230 --> 00:00:28,240
+unbelievable founders in Bali for 2 days
+ 
+
+25
+00:00:28,240 --> 00:00:31,030
+unbelievable founders in Bali for 2 days
+to go and figure this all out together.
+
+26
+00:00:31,030 --> 00:00:31,040
+to go and figure this all out together.
+ 
+
+27
+00:00:31,040 --> 00:00:33,030
+to go and figure this all out together.
+We're going to be going and automating
+
+28
+00:00:33,030 --> 00:00:33,040
+We're going to be going and automating
+ 
+
+29
+00:00:33,040 --> 00:00:34,630
+We're going to be going and automating
+different aspects of our businesses. I'm
+
+30
+00:00:34,630 --> 00:00:34,640
+different aspects of our businesses. I'm
+ 
+
+31
+00:00:34,640 --> 00:00:35,910
+different aspects of our businesses. I'm
+going to be going and showing you guys
+
+32
+00:00:35,910 --> 00:00:35,920
+going to be going and showing you guys
+ 
+
+33
+00:00:35,920 --> 00:00:38,030
+going to be going and showing you guys
+how I'm currently leveraging Claude code
+
+34
+00:00:38,030 --> 00:00:38,040
+how I'm currently leveraging Claude code
+ 
+
+35
+00:00:38,040 --> 00:00:40,950
+how I'm currently leveraging Claude code
+to go and really just compete over the
+
+36
+00:00:40,950 --> 00:00:40,960
+to go and really just compete over the
+ 
+
+37
+00:00:40,960 --> 00:00:42,670
+to go and really just compete over the
+next 2 years. So, you can check it out
+
+38
+00:00:42,670 --> 00:00:42,680
+next 2 years. So, you can check it out
+ 
+
+39
+00:00:42,680 --> 00:00:44,430
+next 2 years. So, you can check it out
+via the link in the description. So,
+
+40
+00:00:44,430 --> 00:00:44,440
+via the link in the description. So,
+ 
+
+41
+00:00:44,440 --> 00:00:45,990
+via the link in the description. So,
+this isn't a prediction, right? This is
+
+42
+00:00:45,990 --> 00:00:46,000
+this isn't a prediction, right? This is
+ 
+
+43
+00:00:46,000 --> 00:00:47,550
+this isn't a prediction, right? This is
+a thought experiment, but there are a
+
+44
+00:00:47,550 --> 00:00:47,560
+a thought experiment, but there are a
+ 
+
+45
+00:00:47,560 --> 00:00:50,070
+a thought experiment, but there are a
+few core pieces of this that got me to
+
+46
+00:00:50,070 --> 00:00:50,080
+few core pieces of this that got me to
+ 
+
+47
+00:00:50,080 --> 00:00:52,470
+few core pieces of this that got me to
+drastically shift the way I was thinking
+
+48
+00:00:52,470 --> 00:00:52,480
+drastically shift the way I was thinking
+ 
+
+49
+00:00:52,480 --> 00:00:54,950
+drastically shift the way I was thinking
+and acting within my businesses. I'm
+
+50
+00:00:54,950 --> 00:00:54,960
+and acting within my businesses. I'm
+ 
+
+51
+00:00:54,960 --> 00:00:56,590
+and acting within my businesses. I'm
+going to go and walk you through some of
+
+52
+00:00:56,590 --> 00:00:56,600
+going to go and walk you through some of
+ 
+
+53
+00:00:56,600 --> 00:00:58,910
+going to go and walk you through some of
+those changes so that you can learn and
+
+54
+00:00:58,910 --> 00:00:58,920
+those changes so that you can learn and
+ 
+
+55
+00:00:58,920 --> 00:01:01,270
+those changes so that you can learn and
+make some changes before it's too late.
+
+56
+00:01:01,270 --> 00:01:01,280
+make some changes before it's too late.
+ 
+
+57
+00:01:01,280 --> 00:01:04,310
+make some changes before it's too late.
+This article is all around the 2028
+
+58
+00:01:04,310 --> 00:01:04,320
+This article is all around the 2028
+ 
+
+59
+00:01:04,320 --> 00:01:06,870
+This article is all around the 2028
+global intelligence crisis, okay? Now,
+
+60
+00:01:06,870 --> 00:01:06,880
+global intelligence crisis, okay? Now,
+ 
+
+61
+00:01:06,880 --> 00:01:09,030
+global intelligence crisis, okay? Now,
+the general vibe here, okay, is that
+
+62
+00:01:09,030 --> 00:01:09,040
+the general vibe here, okay, is that
+ 
+
+63
+00:01:09,040 --> 00:01:10,670
+the general vibe here, okay, is that
+they're acting like they've written in
+
+64
+00:01:10,670 --> 00:01:10,680
+they're acting like they've written in
+ 
+
+65
+00:01:10,680 --> 00:01:14,630
+they're acting like they've written in
+June 2028 after AI has candidly just
+
+66
+00:01:14,630 --> 00:01:14,640
+June 2028 after AI has candidly just
+ 
+
+67
+00:01:14,640 --> 00:01:17,270
+June 2028 after AI has candidly just
+ripped across the economy. This is
+
+68
+00:01:17,270 --> 00:01:17,280
+ripped across the economy. This is
+ 
+
+69
+00:01:17,280 --> 00:01:18,750
+ripped across the economy. This is
+probably going to scare you in certain
+
+70
+00:01:18,750 --> 00:01:18,760
+probably going to scare you in certain
+ 
+
+71
+00:01:18,760 --> 00:01:20,990
+probably going to scare you in certain
+parts, but my intention here is not some
+
+72
+00:01:20,990 --> 00:01:21,000
+parts, but my intention here is not some
+ 
+
+73
+00:01:21,000 --> 00:01:22,790
+parts, but my intention here is not some
+doom and gloom vibe. If we can
+
+74
+00:01:22,790 --> 00:01:22,800
+doom and gloom vibe. If we can
+ 
+
+75
+00:01:22,800 --> 00:01:25,390
+doom and gloom vibe. If we can
+future-proof our businesses now, I think
+
+76
+00:01:25,390 --> 00:01:25,400
+future-proof our businesses now, I think
+ 
+
+77
+00:01:25,400 --> 00:01:27,750
+future-proof our businesses now, I think
+we set ourselves up to actually benefit
+
+78
+00:01:27,750 --> 00:01:27,760
+we set ourselves up to actually benefit
+ 
+
+79
+00:01:27,760 --> 00:01:29,390
+we set ourselves up to actually benefit
+from this enormous amount of change
+
+80
+00:01:29,390 --> 00:01:29,400
+from this enormous amount of change
+ 
+
+81
+00:01:29,400 --> 00:01:32,190
+from this enormous amount of change
+versus finding ourselves just reacting
+
+82
+00:01:32,190 --> 00:01:32,200
+versus finding ourselves just reacting
+ 
+
+83
+00:01:32,200 --> 00:01:35,550
+versus finding ourselves just reacting
+and missing this incredible wave that is
+
+84
+00:01:35,550 --> 00:01:35,560
+and missing this incredible wave that is
+ 
+
+85
+00:01:35,560 --> 00:01:37,830
+and missing this incredible wave that is
+just getting started. So, imagine again,
+
+86
+00:01:37,830 --> 00:01:37,840
+just getting started. So, imagine again,
+ 
+
+87
+00:01:37,840 --> 00:01:40,670
+just getting started. So, imagine again,
+we're in June 30th, 2028. Let's first
+
+88
+00:01:40,670 --> 00:01:40,680
+we're in June 30th, 2028. Let's first
+ 
+
+89
+00:01:40,680 --> 00:01:43,670
+we're in June 30th, 2028. Let's first
+talk about the consequences of abundant
+
+90
+00:01:43,670 --> 00:01:43,680
+talk about the consequences of abundant
+ 
+
+91
+00:01:43,680 --> 00:01:45,910
+talk about the consequences of abundant
+intelligence. What it gets into is that
+
+92
+00:01:45,910 --> 00:01:45,920
+intelligence. What it gets into is that
+ 
+
+93
+00:01:45,920 --> 00:01:48,950
+intelligence. What it gets into is that
+initially, you know, in 2026 when AI was
+
+94
+00:01:48,950 --> 00:01:48,960
+initially, you know, in 2026 when AI was
+ 
+
+95
+00:01:48,960 --> 00:01:50,470
+initially, you know, in 2026 when AI was
+taking over, you have Claude code,
+
+96
+00:01:50,470 --> 00:01:50,480
+taking over, you have Claude code,
+ 
+
+97
+00:01:50,480 --> 00:01:52,390
+taking over, you have Claude code,
+ChatGPT ripping it. There were all of
+
+98
+00:01:52,390 --> 00:01:52,400
+ChatGPT ripping it. There were all of
+ 
+
+99
+00:01:52,400 --> 00:01:54,950
+ChatGPT ripping it. There were all of
+these layoffs going on across companies.
+
+100
+00:01:54,950 --> 00:01:54,960
+these layoffs going on across companies.
+ 
+
+101
+00:01:54,960 --> 00:01:57,110
+these layoffs going on across companies.
+And those initial layoffs, right, the
+
+102
+00:01:57,110 --> 00:01:57,120
+And those initial layoffs, right, the
+ 
+
+103
+00:01:57,120 --> 00:02:00,390
+And those initial layoffs, right, the
+economy actually responded to incredibly
+
+104
+00:02:00,390 --> 00:02:00,400
+economy actually responded to incredibly
+ 
+
+105
+00:02:00,400 --> 00:02:02,590
+economy actually responded to incredibly
+positively. Companies' margins started
+
+106
+00:02:02,590 --> 00:02:02,600
+positively. Companies' margins started
+ 
+
+107
+00:02:02,600 --> 00:02:04,510
+positively. Companies' margins started
+to expand, right? They were beating
+
+108
+00:02:04,510 --> 00:02:04,520
+to expand, right? They were beating
+ 
+
+109
+00:02:04,520 --> 00:02:06,230
+to expand, right? They were beating
+their earnings, right? Stocks are
+
+110
+00:02:06,230 --> 00:02:06,240
+their earnings, right? Stocks are
+ 
+
+111
+00:02:06,240 --> 00:02:08,270
+their earnings, right? Stocks are
+rallying, and they're setting
+
+112
+00:02:08,270 --> 00:02:08,280
+rallying, and they're setting
+ 
+
+113
+00:02:08,280 --> 00:02:10,950
+rallying, and they're setting
+record-setting profits. Less humans,
+
+114
+00:02:10,950 --> 00:02:10,960
+record-setting profits. Less humans,
+ 
+
+115
+00:02:10,960 --> 00:02:12,710
+record-setting profits. Less humans,
+more margins of these companies, and
+
+116
+00:02:12,710 --> 00:02:12,720
+more margins of these companies, and
+ 
+
+117
+00:02:12,720 --> 00:02:14,670
+more margins of these companies, and
+they're being rewarded with the highest
+
+118
+00:02:14,670 --> 00:02:14,680
+they're being rewarded with the highest
+ 
+
+119
+00:02:14,680 --> 00:02:16,790
+they're being rewarded with the highest
+stock prices they've ever had. We're
+
+120
+00:02:16,790 --> 00:02:16,800
+stock prices they've ever had. We're
+ 
+
+121
+00:02:16,800 --> 00:02:18,910
+stock prices they've ever had. We're
+seeing this play out right now.
+
+122
+00:02:18,910 --> 00:02:18,920
+seeing this play out right now.
+ 
+
+123
+00:02:18,920 --> 00:02:21,390
+seeing this play out right now.
+Salesforce just laid off people. Block
+
+124
+00:02:21,390 --> 00:02:21,400
+Salesforce just laid off people. Block
+ 
+
+125
+00:02:21,400 --> 00:02:23,630
+Salesforce just laid off people. Block
+and Jack Dorsey just laid off 8,500
+
+126
+00:02:23,630 --> 00:02:23,640
+and Jack Dorsey just laid off 8,500
+ 
+
+127
+00:02:23,640 --> 00:02:25,790
+and Jack Dorsey just laid off 8,500
+workers, right? Oracle just laid off
+
+128
+00:02:25,790 --> 00:02:25,800
+workers, right? Oracle just laid off
+ 
+
+129
+00:02:25,800 --> 00:02:28,110
+workers, right? Oracle just laid off
+like 20,000 people. Facebook's about to
+
+130
+00:02:28,110 --> 00:02:28,120
+like 20,000 people. Facebook's about to
+ 
+
+131
+00:02:28,120 --> 00:02:30,990
+like 20,000 people. Facebook's about to
+go lay off another 15,000 people, and
+
+132
+00:02:30,990 --> 00:02:31,000
+go lay off another 15,000 people, and
+ 
+
+133
+00:02:31,000 --> 00:02:32,870
+go lay off another 15,000 people, and
+Zuckerberg says he's going to build his
+
+134
+00:02:32,870 --> 00:02:32,880
+Zuckerberg says he's going to build his
+ 
+
+135
+00:02:32,880 --> 00:02:36,310
+Zuckerberg says he's going to build his
+own mini CEO AI inside of Meta.
+
+136
+00:02:36,310 --> 00:02:36,320
+own mini CEO AI inside of Meta.
+ 
+
+137
+00:02:36,320 --> 00:02:39,110
+own mini CEO AI inside of Meta.
+Companies right now are being rewarded
+
+138
+00:02:39,110 --> 00:02:39,120
+Companies right now are being rewarded
+ 
+
+139
+00:02:39,120 --> 00:02:42,030
+Companies right now are being rewarded
+for laying off their white-collar
+
+140
+00:02:42,030 --> 00:02:42,040
+for laying off their white-collar
+ 
+
+141
+00:02:42,040 --> 00:02:44,550
+for laying off their white-collar
+knowledge workers. In every AI in this
+
+142
+00:02:44,550 --> 00:02:44,560
+knowledge workers. In every AI in this
+ 
+
+143
+00:02:44,560 --> 00:02:46,550
+knowledge workers. In every AI in this
+thing, right? AI is exceeding
+
+144
+00:02:46,550 --> 00:02:46,560
+thing, right? AI is exceeding
+ 
+
+145
+00:02:46,560 --> 00:02:49,949
+thing, right? AI is exceeding
+expectations, right? The market was AI.
+
+146
+00:02:49,949 --> 00:02:49,959
+expectations, right? The market was AI.
+ 
+
+147
+00:02:49,959 --> 00:02:52,990
+expectations, right? The market was AI.
+The only problem was that the economy
+
+148
+00:02:52,990 --> 00:02:53,000
+The only problem was that the economy
+ 
+
+149
+00:02:53,000 --> 00:02:54,790
+The only problem was that the economy
+was not. And so, it gets into this whole
+
+150
+00:02:54,790 --> 00:02:54,800
+was not. And so, it gets into this whole
+ 
+
+151
+00:02:54,800 --> 00:02:56,949
+was not. And so, it gets into this whole
+scenario, right? And starts to kind of
+
+152
+00:02:56,949 --> 00:02:56,959
+scenario, right? And starts to kind of
+ 
+
+153
+00:02:56,959 --> 00:02:58,949
+scenario, right? And starts to kind of
+outline this negative feedback loop
+
+154
+00:02:58,949 --> 00:02:58,959
+outline this negative feedback loop
+ 
+
+155
+00:02:58,959 --> 00:03:02,390
+outline this negative feedback loop
+that's going on with no natural break,
+
+156
+00:03:02,390 --> 00:03:02,400
+that's going on with no natural break,
+ 
+
+157
+00:03:02,400 --> 00:03:04,030
+that's going on with no natural break,
+something that we've never seen before
+
+158
+00:03:04,030 --> 00:03:04,040
+something that we've never seen before
+ 
+
+159
+00:03:04,040 --> 00:03:05,710
+something that we've never seen before
+in the history of humanity. Human
+
+160
+00:03:05,710 --> 00:03:05,720
+in the history of humanity. Human
+ 
+
+161
+00:03:05,720 --> 00:03:08,229
+in the history of humanity. Human
+intelligence is abundant. AI is
+
+162
+00:03:08,229 --> 00:03:08,239
+intelligence is abundant. AI is
+ 
+
+163
+00:03:08,239 --> 00:03:10,390
+intelligence is abundant. AI is
+everywhere, and white-collar workers
+
+164
+00:03:10,390 --> 00:03:10,400
+everywhere, and white-collar workers
+ 
+
+165
+00:03:10,400 --> 00:03:13,390
+everywhere, and white-collar workers
+now, for the first time really ever, are
+
+166
+00:03:13,390 --> 00:03:13,400
+now, for the first time really ever, are
+ 
+
+167
+00:03:13,400 --> 00:03:16,110
+now, for the first time really ever, are
+seeing their earnings power structurally
+
+168
+00:03:16,110 --> 00:03:16,120
+seeing their earnings power structurally
+ 
+
+169
+00:03:16,120 --> 00:03:18,830
+seeing their earnings power structurally
+impaired. You can now start to see the
+
+170
+00:03:18,830 --> 00:03:18,840
+impaired. You can now start to see the
+ 
+
+171
+00:03:18,840 --> 00:03:20,870
+impaired. You can now start to see the
+economy starting to break, right?
+
+172
+00:03:20,870 --> 00:03:20,880
+economy starting to break, right?
+ 
+
+173
+00:03:20,880 --> 00:03:23,390
+economy starting to break, right?
+Because white-collar workers make up
+
+174
+00:03:23,390 --> 00:03:23,400
+Because white-collar workers make up
+ 
+
+175
+00:03:23,400 --> 00:03:27,070
+Because white-collar workers make up
+around 15% of the economy, but they make
+
+176
+00:03:27,070 --> 00:03:27,080
+around 15% of the economy, but they make
+ 
+
+177
+00:03:27,080 --> 00:03:29,310
+around 15% of the economy, but they make
+up around 60%
+
+178
+00:03:29,310 --> 00:03:29,320
+up around 60%
+ 
+
+179
+00:03:29,320 --> 00:03:31,550
+up around 60%
+of the discretionary spend. Well, what
+
+180
+00:03:31,550 --> 00:03:31,560
+of the discretionary spend. Well, what
+ 
+
+181
+00:03:31,560 --> 00:03:32,910
+of the discretionary spend. Well, what
+do you think's going to happen here,
+
+182
+00:03:32,910 --> 00:03:32,920
+do you think's going to happen here,
+ 
+
+183
+00:03:32,920 --> 00:03:35,110
+do you think's going to happen here,
+right? You start laying off all of these
+
+184
+00:03:35,110 --> 00:03:35,120
+right? You start laying off all of these
+ 
+
+185
+00:03:35,120 --> 00:03:37,229
+right? You start laying off all of these
+knowledge workers, right? Because AI is
+
+186
+00:03:37,229 --> 00:03:37,239
+knowledge workers, right? Because AI is
+ 
+
+187
+00:03:37,239 --> 00:03:39,390
+knowledge workers, right? Because AI is
+replacing all these jobs, and suddenly
+
+188
+00:03:39,390 --> 00:03:39,400
+replacing all these jobs, and suddenly
+ 
+
+189
+00:03:39,400 --> 00:03:41,270
+replacing all these jobs, and suddenly
+now all of those folks that have just
+
+190
+00:03:41,270 --> 00:03:41,280
+now all of those folks that have just
+ 
+
+191
+00:03:41,280 --> 00:03:43,430
+now all of those folks that have just
+been laid off can no longer afford to
+
+192
+00:03:43,430 --> 00:03:43,440
+been laid off can no longer afford to
+ 
+
+193
+00:03:43,440 --> 00:03:46,470
+been laid off can no longer afford to
+spend on discretionary goods. It starts
+
+194
+00:03:46,470 --> 00:03:46,480
+spend on discretionary goods. It starts
+ 
+
+195
+00:03:46,480 --> 00:03:49,190
+spend on discretionary goods. It starts
+to then shift from good news to bad
+
+196
+00:03:49,190 --> 00:03:49,200
+to then shift from good news to bad
+ 
+
+197
+00:03:49,200 --> 00:03:51,870
+to then shift from good news to bad
+news. This is what founders are telling
+
+198
+00:03:51,870 --> 00:03:51,880
+news. This is what founders are telling
+ 
+
+199
+00:03:51,880 --> 00:03:53,750
+news. This is what founders are telling
+me on calls right now. And so, this is
+
+200
+00:03:53,750 --> 00:03:53,760
+me on calls right now. And so, this is
+ 
+
+201
+00:03:53,760 --> 00:03:55,750
+me on calls right now. And so, this is
+what I want you to listen for. It says
+
+202
+00:03:55,750 --> 00:03:55,760
+what I want you to listen for. It says
+ 
+
+203
+00:03:55,760 --> 00:03:59,350
+what I want you to listen for. It says
+here, in late 2025, agentic coding tools
+
+204
+00:03:59,350 --> 00:03:59,360
+here, in late 2025, agentic coding tools
+ 
+
+205
+00:03:59,360 --> 00:04:02,470
+here, in late 2025, agentic coding tools
+took a step function jump in capability.
+
+206
+00:04:02,470 --> 00:04:02,480
+took a step function jump in capability.
+ 
+
+207
+00:04:02,480 --> 00:04:04,190
+took a step function jump in capability.
+Now, I know I'm using Claude code for
+
+208
+00:04:04,190 --> 00:04:04,200
+Now, I know I'm using Claude code for
+ 
+
+209
+00:04:04,200 --> 00:04:06,150
+Now, I know I'm using Claude code for
+about 6 hours a day right now,
+
+210
+00:04:06,150 --> 00:04:06,160
+about 6 hours a day right now,
+ 
+
+211
+00:04:06,160 --> 00:04:07,910
+about 6 hours a day right now,
+automating everything across my
+
+212
+00:04:07,910 --> 00:04:07,920
+automating everything across my
+ 
+
+213
+00:04:07,920 --> 00:04:11,230
+automating everything across my
+business. By the end of April, 97% of my
+
+214
+00:04:11,230 --> 00:04:11,240
+business. By the end of April, 97% of my
+ 
+
+215
+00:04:11,240 --> 00:04:13,070
+business. By the end of April, 97% of my
+portfolio businesses will be completely
+
+216
+00:04:13,070 --> 00:04:13,080
+portfolio businesses will be completely
+ 
+
+217
+00:04:13,080 --> 00:04:15,510
+portfolio businesses will be completely
+automated. We have been going in
+
+218
+00:04:15,510 --> 00:04:15,520
+automated. We have been going in
+ 
+
+219
+00:04:15,520 --> 00:04:17,870
+automated. We have been going in
+slimming down overall headcount inside
+
+220
+00:04:17,870 --> 00:04:17,880
+slimming down overall headcount inside
+ 
+
+221
+00:04:17,880 --> 00:04:20,069
+slimming down overall headcount inside
+of my companies because we simply just
+
+222
+00:04:20,069 --> 00:04:20,079
+of my companies because we simply just
+ 
+
+223
+00:04:20,079 --> 00:04:21,550
+of my companies because we simply just
+don't need as many people because of the
+
+224
+00:04:21,550 --> 00:04:21,560
+don't need as many people because of the
+ 
+
+225
+00:04:21,560 --> 00:04:23,590
+don't need as many people because of the
+power of these tools. People are using
+
+226
+00:04:23,590 --> 00:04:23,600
+power of these tools. People are using
+ 
+
+227
+00:04:23,600 --> 00:04:25,550
+power of these tools. People are using
+Claude code, Codex, right? I'm sure,
+
+228
+00:04:25,550 --> 00:04:25,560
+Claude code, Codex, right? I'm sure,
+ 
+
+229
+00:04:25,560 --> 00:04:26,950
+Claude code, Codex, right? I'm sure,
+hopefully, if you're watching this,
+
+230
+00:04:26,950 --> 00:04:26,960
+hopefully, if you're watching this,
+ 
+
+231
+00:04:26,960 --> 00:04:28,830
+hopefully, if you're watching this,
+you're already onto these tools. And
+
+232
+00:04:28,830 --> 00:04:28,840
+you're already onto these tools. And
+ 
+
+233
+00:04:28,840 --> 00:04:29,710
+you're already onto these tools. And
+it's not that they're using it
+
+234
+00:04:29,710 --> 00:04:29,720
+it's not that they're using it
+ 
+
+235
+00:04:29,720 --> 00:04:31,790
+it's not that they're using it
+perfectly, but even out the gate, right?
+
+236
+00:04:31,790 --> 00:04:31,800
+perfectly, but even out the gate, right?
+ 
+
+237
+00:04:31,800 --> 00:04:33,430
+perfectly, but even out the gate, right?
+You can start to see people already
+
+238
+00:04:33,430 --> 00:04:33,440
+You can start to see people already
+ 
+
+239
+00:04:33,440 --> 00:04:34,990
+You can start to see people already
+asking, "Well, what if I just built this
+
+240
+00:04:34,990 --> 00:04:35,000
+asking, "Well, what if I just built this
+ 
+
+241
+00:04:35,000 --> 00:04:37,909
+asking, "Well, what if I just built this
+stuff myself?" I know recently, as an
+
+242
+00:04:37,909 --> 00:04:37,919
+stuff myself?" I know recently, as an
+ 
+
+243
+00:04:37,919 --> 00:04:40,190
+stuff myself?" I know recently, as an
+example, you know, I don't necessarily
+
+244
+00:04:40,190 --> 00:04:40,200
+example, you know, I don't necessarily
+ 
+
+245
+00:04:40,200 --> 00:04:42,230
+example, you know, I don't necessarily
+need some fancy designer to go and
+
+246
+00:04:42,230 --> 00:04:42,240
+need some fancy designer to go and
+ 
+
+247
+00:04:42,240 --> 00:04:44,510
+need some fancy designer to go and
+design things like LinkedIn
+
+248
+00:04:44,510 --> 00:04:44,520
+design things like LinkedIn
+ 
+
+249
+00:04:44,520 --> 00:04:46,670
+design things like LinkedIn
+infographics. I can simply go and
+
+250
+00:04:46,670 --> 00:04:46,680
+infographics. I can simply go and
+ 
+
+251
+00:04:46,680 --> 00:04:48,590
+infographics. I can simply go and
+leverage some skills I've built inside
+
+252
+00:04:48,590 --> 00:04:48,600
+leverage some skills I've built inside
+ 
+
+253
+00:04:48,600 --> 00:04:51,630
+leverage some skills I've built inside
+of Claude code to go and create my own
+
+254
+00:04:51,630 --> 00:04:51,640
+of Claude code to go and create my own
+ 
+
+255
+00:04:51,640 --> 00:04:53,470
+of Claude code to go and create my own
+beautiful infographics based on the
+
+256
+00:04:53,470 --> 00:04:53,480
+beautiful infographics based on the
+ 
+
+257
+00:04:53,480 --> 00:04:55,670
+beautiful infographics based on the
+thousands of data points that I have
+
+258
+00:04:55,670 --> 00:04:55,680
+thousands of data points that I have
+ 
+
+259
+00:04:55,680 --> 00:04:57,590
+thousands of data points that I have
+from my best infographics ever on
+
+260
+00:04:57,590 --> 00:04:57,600
+from my best infographics ever on
+ 
+
+261
+00:04:57,600 --> 00:04:58,870
+from my best infographics ever on
+LinkedIn that have helped me grow on
+
+262
+00:04:58,870 --> 00:04:58,880
+LinkedIn that have helped me grow on
+ 
+
+263
+00:04:58,880 --> 00:05:02,310
+LinkedIn that have helped me grow on
+that platform to over 900,000 people. We
+
+264
+00:05:02,310 --> 00:05:02,320
+that platform to over 900,000 people. We
+ 
+
+265
+00:05:02,320 --> 00:05:04,390
+that platform to over 900,000 people. We
+live in a crazy day and age. And this is
+
+266
+00:05:04,390 --> 00:05:04,400
+live in a crazy day and age. And this is
+ 
+
+267
+00:05:04,400 --> 00:05:06,710
+live in a crazy day and age. And this is
+all the stuff that we actually build for
+
+268
+00:05:06,710 --> 00:05:06,720
+all the stuff that we actually build for
+ 
+
+269
+00:05:06,720 --> 00:05:09,630
+all the stuff that we actually build for
+founders inside of Founder OS. Done for
+
+270
+00:05:09,630 --> 00:05:09,640
+founders inside of Founder OS. Done for
+ 
+
+271
+00:05:09,640 --> 00:05:11,550
+founders inside of Founder OS. Done for
+you funnels, done for you content
+
+272
+00:05:11,550 --> 00:05:11,560
+you funnels, done for you content
+ 
+
+273
+00:05:11,560 --> 00:05:14,430
+you funnels, done for you content
+strategy, done for you content formats
+
+274
+00:05:14,430 --> 00:05:14,440
+strategy, done for you content formats
+ 
+
+275
+00:05:14,440 --> 00:05:15,630
+strategy, done for you content formats
+to help you stand out. And if you're
+
+276
+00:05:15,630 --> 00:05:15,640
+to help you stand out. And if you're
+ 
+
+277
+00:05:15,640 --> 00:05:17,710
+to help you stand out. And if you're
+looking for some help implementing some
+
+278
+00:05:17,710 --> 00:05:17,720
+looking for some help implementing some
+ 
+
+279
+00:05:17,720 --> 00:05:18,870
+looking for some help implementing some
+of these done-for-you things that I've
+
+280
+00:05:18,870 --> 00:05:18,880
+of these done-for-you things that I've
+ 
+
+281
+00:05:18,880 --> 00:05:20,470
+of these done-for-you things that I've
+just mentioned, your landing page, your
+
+282
+00:05:20,470 --> 00:05:20,480
+just mentioned, your landing page, your
+ 
+
+283
+00:05:20,480 --> 00:05:22,870
+just mentioned, your landing page, your
+content, your funnel, go and check out
+
+284
+00:05:22,870 --> 00:05:22,880
+content, your funnel, go and check out
+ 
+
+285
+00:05:22,880 --> 00:05:25,030
+content, your funnel, go and check out
+the link below and book a brand strategy
+
+286
+00:05:25,030 --> 00:05:25,040
+the link below and book a brand strategy
+ 
+
+287
+00:05:25,040 --> 00:05:26,550
+the link below and book a brand strategy
+call with my team. We'd love to start
+
+288
+00:05:26,550 --> 00:05:26,560
+call with my team. We'd love to start
+ 
+
+289
+00:05:26,560 --> 00:05:28,630
+call with my team. We'd love to start
+building it for you. And so, this is an
+
+290
+00:05:28,630 --> 00:05:28,640
+building it for you. And so, this is an
+ 
+
+291
+00:05:28,640 --> 00:05:29,710
+building it for you. And so, this is an
+interesting part of it, right? It says,
+
+292
+00:05:29,710 --> 00:05:29,720
+interesting part of it, right? It says,
+ 
+
+293
+00:05:29,720 --> 00:05:31,510
+interesting part of it, right? It says,
+"The salesperson had expected to run the
+
+294
+00:05:31,510 --> 00:05:31,520
+"The salesperson had expected to run the
+ 
+
+295
+00:05:31,520 --> 00:05:34,190
+"The salesperson had expected to run the
+same playbook as last year. A 5% annual
+
+296
+00:05:34,190 --> 00:05:34,200
+same playbook as last year. A 5% annual
+ 
+
+297
+00:05:34,200 --> 00:05:35,630
+same playbook as last year. A 5% annual
+price increase, the standard your team
+
+298
+00:05:35,630 --> 00:05:35,640
+price increase, the standard your team
+ 
+
+299
+00:05:35,640 --> 00:05:37,550
+price increase, the standard your team
+depends on us pitch." The procurement
+
+300
+00:05:37,550 --> 00:05:37,560
+depends on us pitch." The procurement
+ 
+
+301
+00:05:37,560 --> 00:05:38,990
+depends on us pitch." The procurement
+manager told them that they'd been in
+
+302
+00:05:38,990 --> 00:05:39,000
+manager told them that they'd been in
+ 
+
+303
+00:05:39,000 --> 00:05:40,550
+manager told them that they'd been in
+conversation with OpenAI about their
+
+304
+00:05:40,550 --> 00:05:40,560
+conversation with OpenAI about their
+ 
+
+305
+00:05:40,560 --> 00:05:42,750
+conversation with OpenAI about their
+forward deployed engineers, use AI tools
+
+306
+00:05:42,750 --> 00:05:42,760
+forward deployed engineers, use AI tools
+ 
+
+307
+00:05:42,760 --> 00:05:44,430
+forward deployed engineers, use AI tools
+to replace the vendor entirely. They
+
+308
+00:05:44,430 --> 00:05:44,440
+to replace the vendor entirely. They
+ 
+
+309
+00:05:44,440 --> 00:05:46,590
+to replace the vendor entirely. They
+renewed at a 30% discount. "That was a
+
+310
+00:05:46,590 --> 00:05:46,600
+renewed at a 30% discount. "That was a
+ 
+
+311
+00:05:46,600 --> 00:05:48,630
+renewed at a 30% discount. "That was a
+good outcome," he said. The long tail of
+
+312
+00:05:48,630 --> 00:05:48,640
+good outcome," he said. The long tail of
+ 
+
+313
+00:05:48,640 --> 00:05:50,310
+good outcome," he said. The long tail of
+SaaS, like monday.com, Zapier, and
+
+314
+00:05:50,310 --> 00:05:50,320
+SaaS, like monday.com, Zapier, and
+ 
+
+315
+00:05:50,320 --> 00:05:52,430
+SaaS, like monday.com, Zapier, and
+Asana, had it much worse. Leverage is
+
+316
+00:05:52,430 --> 00:05:52,440
+Asana, had it much worse. Leverage is
+ 
+
+317
+00:05:52,440 --> 00:05:54,150
+Asana, had it much worse. Leverage is
+shifting now. For me, as an example,
+
+318
+00:05:54,150 --> 00:05:54,160
+shifting now. For me, as an example,
+ 
+
+319
+00:05:54,160 --> 00:05:55,390
+shifting now. For me, as an example,
+across different projects I've been
+
+320
+00:05:55,390 --> 00:05:55,400
+across different projects I've been
+ 
+
+321
+00:05:55,400 --> 00:05:57,670
+across different projects I've been
+building, this is a project I've been
+
+322
+00:05:57,670 --> 00:05:57,680
+building, this is a project I've been
+ 
+
+323
+00:05:57,680 --> 00:06:00,390
+building, this is a project I've been
+using to go and automate all different
+
+324
+00:06:00,390 --> 00:06:00,400
+using to go and automate all different
+ 
+
+325
+00:06:00,400 --> 00:06:02,510
+using to go and automate all different
+parts of our business. Everything from
+
+326
+00:06:02,510 --> 00:06:02,520
+parts of our business. Everything from
+ 
+
+327
+00:06:02,520 --> 00:06:04,790
+parts of our business. Everything from
+the end-to-end functionality, from going
+
+328
+00:06:04,790 --> 00:06:04,800
+the end-to-end functionality, from going
+ 
+
+329
+00:06:04,800 --> 00:06:07,550
+the end-to-end functionality, from going
+from content to a call with my team, and
+
+330
+00:06:07,550 --> 00:06:07,560
+from content to a call with my team, and
+ 
+
+331
+00:06:07,560 --> 00:06:09,470
+from content to a call with my team, and
+going and automating things like
+
+332
+00:06:09,470 --> 00:06:09,480
+going and automating things like
+ 
+
+333
+00:06:09,480 --> 00:06:12,270
+going and automating things like
+short-form clips, or automating things
+
+334
+00:06:12,270 --> 00:06:12,280
+short-form clips, or automating things
+ 
+
+335
+00:06:12,280 --> 00:06:14,030
+short-form clips, or automating things
+as simple as really just different
+
+336
+00:06:14,030 --> 00:06:14,040
+as simple as really just different
+ 
+
+337
+00:06:14,040 --> 00:06:15,750
+as simple as really just different
+project management. Cuz I'm actually
+
+338
+00:06:15,750 --> 00:06:15,760
+project management. Cuz I'm actually
+ 
+
+339
+00:06:15,760 --> 00:06:17,790
+project management. Cuz I'm actually
+able to go and load this up and have a
+
+340
+00:06:17,790 --> 00:06:17,800
+able to go and load this up and have a
+ 
+
+341
+00:06:17,800 --> 00:06:20,470
+able to go and load this up and have a
+calendar, have a Kanban board, right?
+
+342
+00:06:20,470 --> 00:06:20,480
+calendar, have a Kanban board, right?
+ 
+
+343
+00:06:20,480 --> 00:06:23,110
+calendar, have a Kanban board, right?
+And essentially, go and make sure my
+
+344
+00:06:23,110 --> 00:06:23,120
+And essentially, go and make sure my
+ 
+
+345
+00:06:23,120 --> 00:06:24,510
+And essentially, go and make sure my
+entire business is organized. But I
+
+346
+00:06:24,510 --> 00:06:24,520
+entire business is organized. But I
+ 
+
+347
+00:06:24,520 --> 00:06:26,270
+entire business is organized. But I
+don't need Asana to do this, right? I
+
+348
+00:06:26,270 --> 00:06:26,280
+don't need Asana to do this, right? I
+ 
+
+349
+00:06:26,280 --> 00:06:27,790
+don't need Asana to do this, right? I
+can just go and build this myself. And
+
+350
+00:06:27,790 --> 00:06:27,800
+can just go and build this myself. And
+ 
+
+351
+00:06:27,800 --> 00:06:29,950
+can just go and build this myself. And
+this is the crazy day and age we live
+
+352
+00:06:29,950 --> 00:06:29,960
+this is the crazy day and age we live
+ 
+
+353
+00:06:29,960 --> 00:06:32,150
+this is the crazy day and age we live
+in, that it just took me 2 seconds to go
+
+354
+00:06:32,150 --> 00:06:32,160
+in, that it just took me 2 seconds to go
+ 
+
+355
+00:06:32,160 --> 00:06:33,990
+in, that it just took me 2 seconds to go
+and whip up my own calendar, Kanban
+
+356
+00:06:33,990 --> 00:06:34,000
+and whip up my own calendar, Kanban
+ 
+
+357
+00:06:34,000 --> 00:06:36,270
+and whip up my own calendar, Kanban
+board, to organize this whole project. I
+
+358
+00:06:36,270 --> 00:06:36,280
+board, to organize this whole project. I
+ 
+
+359
+00:06:36,280 --> 00:06:37,950
+board, to organize this whole project. I
+didn't need to rely on Asana. So there
+
+360
+00:06:37,950 --> 00:06:37,960
+didn't need to rely on Asana. So there
+ 
+
+361
+00:06:37,960 --> 00:06:40,590
+didn't need to rely on Asana. So there
+goes a $900 a month software bill. Same
+
+362
+00:06:40,590 --> 00:06:40,600
+goes a $900 a month software bill. Same
+ 
+
+363
+00:06:40,600 --> 00:06:42,710
+goes a $900 a month software bill. Same
+with it, Notion, have cut that out,
+
+364
+00:06:42,710 --> 00:06:42,720
+with it, Notion, have cut that out,
+ 
+
+365
+00:06:42,720 --> 00:06:44,990
+with it, Notion, have cut that out,
+being able to snip one at a time
+
+366
+00:06:44,990 --> 00:06:45,000
+being able to snip one at a time
+ 
+
+367
+00:06:45,000 --> 00:06:47,030
+being able to snip one at a time
+different software bills and roles
+
+368
+00:06:47,030 --> 00:06:47,040
+different software bills and roles
+ 
+
+369
+00:06:47,040 --> 00:06:48,510
+different software bills and roles
+around the edges of my company that we
+
+370
+00:06:48,510 --> 00:06:48,520
+around the edges of my company that we
+ 
+
+371
+00:06:48,520 --> 00:06:50,670
+around the edges of my company that we
+just no longer need. Like that
+
+372
+00:06:50,670 --> 00:06:50,680
+just no longer need. Like that
+ 
+
+373
+00:06:50,680 --> 00:06:52,670
+just no longer need. Like that
+infographics designer I had just
+
+374
+00:06:52,670 --> 00:06:52,680
+infographics designer I had just
+ 
+
+375
+00:06:52,680 --> 00:06:53,870
+infographics designer I had just
+mentioned. And when you think about this
+
+376
+00:06:53,870 --> 00:06:53,880
+mentioned. And when you think about this
+ 
+
+377
+00:06:53,880 --> 00:06:56,230
+mentioned. And when you think about this
+as a founder, I think it's a time to go
+
+378
+00:06:56,230 --> 00:06:56,240
+as a founder, I think it's a time to go
+ 
+
+379
+00:06:56,240 --> 00:06:58,190
+as a founder, I think it's a time to go
+and think about all of the different
+
+380
+00:06:58,190 --> 00:06:58,200
+and think about all of the different
+ 
+
+381
+00:06:58,200 --> 00:06:59,909
+and think about all of the different
+workflows across your whole company.
+
+382
+00:06:59,909 --> 00:06:59,919
+workflows across your whole company.
+ 
+
+383
+00:06:59,919 --> 00:07:01,030
+workflows across your whole company.
+What are the different workflows you
+
+384
+00:07:01,030 --> 00:07:01,040
+What are the different workflows you
+ 
+
+385
+00:07:01,040 --> 00:07:03,909
+What are the different workflows you
+have across sales, customer success,
+
+386
+00:07:03,909 --> 00:07:03,919
+have across sales, customer success,
+ 
+
+387
+00:07:03,919 --> 00:07:06,670
+have across sales, customer success,
+marketing, across delivery, in your
+
+388
+00:07:06,670 --> 00:07:06,680
+marketing, across delivery, in your
+ 
+
+389
+00:07:06,680 --> 00:07:08,390
+marketing, across delivery, in your
+finance or operations area of your
+
+390
+00:07:08,390 --> 00:07:08,400
+finance or operations area of your
+ 
+
+391
+00:07:08,400 --> 00:07:09,990
+finance or operations area of your
+company. I've talked a lot about the
+
+392
+00:07:09,990 --> 00:07:10,000
+company. I've talked a lot about the
+ 
+
+393
+00:07:10,000 --> 00:07:11,630
+company. I've talked a lot about the
+importance of systemizing your business,
+
+394
+00:07:11,630 --> 00:07:11,640
+importance of systemizing your business,
+ 
+
+395
+00:07:11,640 --> 00:07:13,550
+importance of systemizing your business,
+right? Anything that you do twice should
+
+396
+00:07:13,550 --> 00:07:13,560
+right? Anything that you do twice should
+ 
+
+397
+00:07:13,560 --> 00:07:15,510
+right? Anything that you do twice should
+be systemized. Nowadays, anything that
+
+398
+00:07:15,510 --> 00:07:15,520
+be systemized. Nowadays, anything that
+ 
+
+399
+00:07:15,520 --> 00:07:16,830
+be systemized. Nowadays, anything that
+you end up doing, you know, two, three
+
+400
+00:07:16,830 --> 00:07:16,840
+you end up doing, you know, two, three
+ 
+
+401
+00:07:16,840 --> 00:07:19,070
+you end up doing, you know, two, three
+times, right? Should also be a skill
+
+402
+00:07:19,070 --> 00:07:19,080
+times, right? Should also be a skill
+ 
+
+403
+00:07:19,080 --> 00:07:20,990
+times, right? Should also be a skill
+inside a Claude code, a workflow that's
+
+404
+00:07:20,990 --> 00:07:21,000
+inside a Claude code, a workflow that's
+ 
+
+405
+00:07:21,000 --> 00:07:22,909
+inside a Claude code, a workflow that's
+now automated, so you can reduce your
+
+406
+00:07:22,909 --> 00:07:22,919
+now automated, so you can reduce your
+ 
+
+407
+00:07:22,919 --> 00:07:25,510
+now automated, so you can reduce your
+load and work on much bigger things.
+
+408
+00:07:25,510 --> 00:07:25,520
+load and work on much bigger things.
+ 
+
+409
+00:07:25,520 --> 00:07:27,350
+load and work on much bigger things.
+Software, though, in the replacement of
+
+410
+00:07:27,350 --> 00:07:27,360
+Software, though, in the replacement of
+ 
+
+411
+00:07:27,360 --> 00:07:29,590
+Software, though, in the replacement of
+SaaS companies, right? Is just the
+
+412
+00:07:29,590 --> 00:07:29,600
+SaaS companies, right? Is just the
+ 
+
+413
+00:07:29,600 --> 00:07:31,510
+SaaS companies, right? Is just the
+opening act, according to this. What
+
+414
+00:07:31,510 --> 00:07:31,520
+opening act, according to this. What
+ 
+
+415
+00:07:31,520 --> 00:07:34,630
+opening act, according to this. What
+ends up happening is far greater. It's
+
+416
+00:07:34,630 --> 00:07:34,640
+ends up happening is far greater. It's
+ 
+
+417
+00:07:34,640 --> 00:07:38,070
+ends up happening is far greater. It's
+predicting that by early 2027, LLM usage
+
+418
+00:07:38,070 --> 00:07:38,080
+predicting that by early 2027, LLM usage
+ 
+
+419
+00:07:38,080 --> 00:07:39,909
+predicting that by early 2027, LLM usage
+is the default. I know that this is how
+
+420
+00:07:39,909 --> 00:07:39,919
+is the default. I know that this is how
+ 
+
+421
+00:07:39,919 --> 00:07:41,510
+is the default. I know that this is how
+I've already been living for about a
+
+422
+00:07:41,510 --> 00:07:41,520
+I've already been living for about a
+ 
+
+423
+00:07:41,520 --> 00:07:44,070
+I've already been living for about a
+year or so now. All of the team were on
+
+424
+00:07:44,070 --> 00:07:44,080
+year or so now. All of the team were on
+ 
+
+425
+00:07:44,080 --> 00:07:46,430
+year or so now. All of the team were on
+a Claude code enterprise account. We
+
+426
+00:07:46,430 --> 00:07:46,440
+a Claude code enterprise account. We
+ 
+
+427
+00:07:46,440 --> 00:07:49,070
+a Claude code enterprise account. We
+have our own MCP, right? That's running
+
+428
+00:07:49,070 --> 00:07:49,080
+have our own MCP, right? That's running
+ 
+
+429
+00:07:49,080 --> 00:07:52,030
+have our own MCP, right? That's running
+with all of the around 75 skills that we
+
+430
+00:07:52,030 --> 00:07:52,040
+with all of the around 75 skills that we
+ 
+
+431
+00:07:52,040 --> 00:07:53,710
+with all of the around 75 skills that we
+have there for a lot of the core things
+
+432
+00:07:53,710 --> 00:07:53,720
+have there for a lot of the core things
+ 
+
+433
+00:07:53,720 --> 00:07:55,470
+have there for a lot of the core things
+we're doing. You know, our meetings are
+
+434
+00:07:55,470 --> 00:07:55,480
+we're doing. You know, our meetings are
+ 
+
+435
+00:07:55,480 --> 00:07:57,270
+we're doing. You know, our meetings are
+all recorded inside of Fathom. The
+
+436
+00:07:57,270 --> 00:07:57,280
+all recorded inside of Fathom. The
+ 
+
+437
+00:07:57,280 --> 00:08:00,110
+all recorded inside of Fathom. The
+follow-ups are automated and sent out by
+
+438
+00:08:00,110 --> 00:08:00,120
+follow-ups are automated and sent out by
+ 
+
+439
+00:08:00,120 --> 00:08:02,550
+follow-ups are automated and sent out by
+Claude code and Slack. Anything that can
+
+440
+00:08:02,550 --> 00:08:02,560
+Claude code and Slack. Anything that can
+ 
+
+441
+00:08:02,560 --> 00:08:05,430
+Claude code and Slack. Anything that can
+be done by a machine is done by a
+
+442
+00:08:05,430 --> 00:08:05,440
+be done by a machine is done by a
+ 
+
+443
+00:08:05,440 --> 00:08:07,550
+be done by a machine is done by a
+machine so that the people in my company
+
+444
+00:08:07,550 --> 00:08:07,560
+machine so that the people in my company
+ 
+
+445
+00:08:07,560 --> 00:08:09,590
+machine so that the people in my company
+can be ultimately creative, right? And
+
+446
+00:08:09,590 --> 00:08:09,600
+can be ultimately creative, right? And
+ 
+
+447
+00:08:09,600 --> 00:08:12,190
+can be ultimately creative, right? And
+work on the most amazing things possible
+
+448
+00:08:12,190 --> 00:08:12,200
+work on the most amazing things possible
+ 
+
+449
+00:08:12,200 --> 00:08:14,350
+work on the most amazing things possible
+that only they can do and know that the
+
+450
+00:08:14,350 --> 00:08:14,360
+that only they can do and know that the
+ 
+
+451
+00:08:14,360 --> 00:08:17,110
+that only they can do and know that the
+mundane BS, right? The, you know, data
+
+452
+00:08:17,110 --> 00:08:17,120
+mundane BS, right? The, you know, data
+ 
+
+453
+00:08:17,120 --> 00:08:18,670
+mundane BS, right? The, you know, data
+entry, the follow-ups, the
+
+454
+00:08:18,670 --> 00:08:18,680
+entry, the follow-ups, the
+ 
+
+455
+00:08:18,680 --> 00:08:20,950
+entry, the follow-ups, the
+accountability, the project management,
+
+456
+00:08:20,950 --> 00:08:20,960
+accountability, the project management,
+ 
+
+457
+00:08:20,960 --> 00:08:23,310
+accountability, the project management,
+that whole layer is just automated. I
+
+458
+00:08:23,310 --> 00:08:23,320
+that whole layer is just automated. I
+ 
+
+459
+00:08:23,320 --> 00:08:24,310
+that whole layer is just automated. I
+know for some of you this may sound a
+
+460
+00:08:24,310 --> 00:08:24,320
+know for some of you this may sound a
+ 
+
+461
+00:08:24,320 --> 00:08:25,830
+know for some of you this may sound a
+little crazy, but whether it was the
+
+462
+00:08:25,830 --> 00:08:25,840
+little crazy, but whether it was the
+ 
+
+463
+00:08:25,840 --> 00:08:27,110
+little crazy, but whether it was the
+internet back in the day or mobile
+
+464
+00:08:27,110 --> 00:08:27,120
+internet back in the day or mobile
+ 
+
+465
+00:08:27,120 --> 00:08:28,310
+internet back in the day or mobile
+phones, those flip phones, they all
+
+466
+00:08:28,310 --> 00:08:28,320
+phones, those flip phones, they all
+ 
+
+467
+00:08:28,320 --> 00:08:29,710
+phones, those flip phones, they all
+seemed a little crazy at first, but
+
+468
+00:08:29,710 --> 00:08:29,720
+seemed a little crazy at first, but
+ 
+
+469
+00:08:29,720 --> 00:08:31,390
+seemed a little crazy at first, but
+eventually humans adopt these things
+
+470
+00:08:31,390 --> 00:08:31,400
+eventually humans adopt these things
+ 
+
+471
+00:08:31,400 --> 00:08:32,990
+eventually humans adopt these things
+fast and you want to be early to the
+
+472
+00:08:32,990 --> 00:08:33,000
+fast and you want to be early to the
+ 
+
+473
+00:08:33,000 --> 00:08:34,790
+fast and you want to be early to the
+adoption versus one of those people
+
+474
+00:08:34,790 --> 00:08:34,800
+adoption versus one of those people
+ 
+
+475
+00:08:34,800 --> 00:08:36,469
+adoption versus one of those people
+that's too late. This paragraph really
+
+476
+00:08:36,469 --> 00:08:36,479
+that's too late. This paragraph really
+ 
+
+477
+00:08:36,479 --> 00:08:37,670
+that's too late. This paragraph really
+changed how I think about my own
+
+478
+00:08:37,670 --> 00:08:37,680
+changed how I think about my own
+ 
+
+479
+00:08:37,680 --> 00:08:38,950
+changed how I think about my own
+business, okay? It says, "Over the past
+
+480
+00:08:38,950 --> 00:08:38,960
+business, okay? It says, "Over the past
+ 
+
+481
+00:08:38,960 --> 00:08:41,750
+business, okay? It says, "Over the past
+50 years, the US economy built a giant
+
+482
+00:08:41,750 --> 00:08:41,760
+50 years, the US economy built a giant
+ 
+
+483
+00:08:41,760 --> 00:08:43,550
+50 years, the US economy built a giant
+rent extraction layer on top of human
+
+484
+00:08:43,550 --> 00:08:43,560
+rent extraction layer on top of human
+ 
+
+485
+00:08:43,560 --> 00:08:46,350
+rent extraction layer on top of human
+limitations. Things take time, patience
+
+486
+00:08:46,350 --> 00:08:46,360
+limitations. Things take time, patience
+ 
+
+487
+00:08:46,360 --> 00:08:48,710
+limitations. Things take time, patience
+runs out, brand familiarity substitutes
+
+488
+00:08:48,710 --> 00:08:48,720
+runs out, brand familiarity substitutes
+ 
+
+489
+00:08:48,720 --> 00:08:50,150
+runs out, brand familiarity substitutes
+for diligence, and most people are
+
+490
+00:08:50,150 --> 00:08:50,160
+for diligence, and most people are
+ 
+
+491
+00:08:50,160 --> 00:08:51,990
+for diligence, and most people are
+willing to accept a bad price to avoid
+
+492
+00:08:51,990 --> 00:08:52,000
+willing to accept a bad price to avoid
+ 
+
+493
+00:08:52,000 --> 00:08:53,990
+willing to accept a bad price to avoid
+more clicks. Trillions of dollars of
+
+494
+00:08:53,990 --> 00:08:54,000
+more clicks. Trillions of dollars of
+ 
+
+495
+00:08:54,000 --> 00:08:55,590
+more clicks. Trillions of dollars of
+enterprise value dependent on those
+
+496
+00:08:55,590 --> 00:08:55,600
+enterprise value dependent on those
+ 
+
+497
+00:08:55,600 --> 00:08:58,430
+enterprise value dependent on those
+constraints persisting. But now, agents
+
+498
+00:08:58,430 --> 00:08:58,440
+constraints persisting. But now, agents
+ 
+
+499
+00:08:58,440 --> 00:09:00,350
+constraints persisting. But now, agents
+remove the friction." I was recently
+
+500
+00:09:00,350 --> 00:09:00,360
+remove the friction." I was recently
+ 
+
+501
+00:09:00,360 --> 00:09:02,350
+remove the friction." I was recently
+watching an interview with Jensen Huang
+
+502
+00:09:02,350 --> 00:09:02,360
+watching an interview with Jensen Huang
+ 
+
+503
+00:09:02,360 --> 00:09:04,550
+watching an interview with Jensen Huang
+and about hour 20 into this interview,
+
+504
+00:09:04,550 --> 00:09:04,560
+and about hour 20 into this interview,
+ 
+
+505
+00:09:04,560 --> 00:09:07,270
+and about hour 20 into this interview,
+Chamath Palihapitiya, uh the gentleman
+
+506
+00:09:07,270 --> 00:09:07,280
+Chamath Palihapitiya, uh the gentleman
+ 
+
+507
+00:09:07,280 --> 00:09:09,430
+Chamath Palihapitiya, uh the gentleman
+who grew Facebook from a million to a
+
+508
+00:09:09,430 --> 00:09:09,440
+who grew Facebook from a million to a
+ 
+
+509
+00:09:09,440 --> 00:09:12,310
+who grew Facebook from a million to a
+billion users, asked Jensen Huang the
+
+510
+00:09:12,310 --> 00:09:12,320
+billion users, asked Jensen Huang the
+ 
+
+511
+00:09:12,320 --> 00:09:16,310
+billion users, asked Jensen Huang the
+how do startups compete in this new
+
+512
+00:09:16,310 --> 00:09:16,320
+how do startups compete in this new
+ 
+
+513
+00:09:16,320 --> 00:09:17,030
+how do startups compete in this new
+paradigm?
+
+514
+00:09:17,030 --> 00:09:17,040
+paradigm?
+ 
+
+515
+00:09:17,040 --> 00:09:18,590
+paradigm?
+>> In your mind, what do you think for
+
+516
+00:09:18,590 --> 00:09:18,600
+>> In your mind, what do you think for
+ 
+
+517
+00:09:18,600 --> 00:09:19,750
+>> In your mind, what do you think for
+these companies that are building at
+
+518
+00:09:19,750 --> 00:09:19,760
+these companies that are building at
+ 
+
+519
+00:09:19,760 --> 00:09:21,350
+these companies that are building at
+that application layer? What's their
+
+520
+00:09:21,350 --> 00:09:21,360
+that application layer? What's their
+ 
+
+521
+00:09:21,360 --> 00:09:23,190
+that application layer? What's their
+moat? Like, how do they differentiate
+
+522
+00:09:23,190 --> 00:09:23,200
+moat? Like, how do they differentiate
+ 
+
+523
+00:09:23,200 --> 00:09:23,829
+moat? Like, how do they differentiate
+themselves?
+
+524
+00:09:23,829 --> 00:09:23,839
+themselves?
+ 
+
+525
+00:09:23,839 --> 00:09:27,110
+themselves?
+>> Deep specialization. I believe that um
+
+526
+00:09:27,110 --> 00:09:27,120
+>> Deep specialization. I believe that um
+ 
+
+527
+00:09:27,120 --> 00:09:28,630
+>> Deep specialization. I believe that um
+these models that they're they're going
+
+528
+00:09:28,630 --> 00:09:28,640
+these models that they're they're going
+ 
+
+529
+00:09:28,640 --> 00:09:30,150
+these models that they're they're going
+to have general general models that are
+
+530
+00:09:30,150 --> 00:09:30,160
+to have general general models that are
+ 
+
+531
+00:09:30,160 --> 00:09:32,950
+to have general general models that are
+connected into the software company's
+
+532
+00:09:32,950 --> 00:09:32,960
+connected into the software company's
+ 
+
+533
+00:09:32,960 --> 00:09:35,950
+connected into the software company's
+agentic system. Right. Many of those
+
+534
+00:09:35,950 --> 00:09:35,960
+agentic system. Right. Many of those
+ 
+
+535
+00:09:35,960 --> 00:09:38,590
+agentic system. Right. Many of those
+models are cloud models and proprietary
+
+536
+00:09:38,590 --> 00:09:38,600
+models are cloud models and proprietary
+ 
+
+537
+00:09:38,600 --> 00:09:40,270
+models are cloud models and proprietary
+models, but many of those models are
+
+538
+00:09:40,270 --> 00:09:40,280
+models, but many of those models are
+ 
+
+539
+00:09:40,280 --> 00:09:43,510
+models, but many of those models are
+specialized sub agents that they've
+
+540
+00:09:43,510 --> 00:09:43,520
+specialized sub agents that they've
+ 
+
+541
+00:09:43,520 --> 00:09:45,870
+specialized sub agents that they've
+trained on their own
+
+542
+00:09:45,870 --> 00:09:45,880
+trained on their own
+ 
+
+543
+00:09:45,880 --> 00:09:47,350
+trained on their own
+>> Right. So, the call to arms for you for
+
+544
+00:09:47,350 --> 00:09:47,360
+>> Right. So, the call to arms for you for
+ 
+
+545
+00:09:47,360 --> 00:09:48,910
+>> Right. So, the call to arms for you for
+entrepreneurs is look, know your
+
+546
+00:09:48,910 --> 00:09:48,920
+entrepreneurs is look, know your
+ 
+
+547
+00:09:48,920 --> 00:09:49,710
+entrepreneurs is look, know your
+vertical.
+
+548
+00:09:49,710 --> 00:09:49,720
+vertical.
+ 
+
+549
+00:09:49,720 --> 00:09:50,310
+vertical.
+>> That's right.
+
+550
+00:09:50,310 --> 00:09:50,320
+>> That's right.
+ 
+
+551
+00:09:50,320 --> 00:09:52,230
+>> That's right.
+>> Know it as deep and as better than
+
+552
+00:09:52,230 --> 00:09:52,240
+>> Know it as deep and as better than
+ 
+
+553
+00:09:52,240 --> 00:09:53,030
+>> Know it as deep and as better than
+everybody else.
+
+554
+00:09:53,030 --> 00:09:53,040
+everybody else.
+ 
+
+555
+00:09:53,040 --> 00:09:53,470
+everybody else.
+>> That's right.
+
+556
+00:09:53,470 --> 00:09:53,480
+>> That's right.
+ 
+
+557
+00:09:53,480 --> 00:09:54,750
+>> That's right.
+>> And then wait for these tools because
+
+558
+00:09:54,750 --> 00:09:54,760
+>> And then wait for these tools because
+ 
+
+559
+00:09:54,760 --> 00:09:56,190
+>> And then wait for these tools because
+they're catching up to you and now you
+
+560
+00:09:56,190 --> 00:09:56,200
+they're catching up to you and now you
+ 
+
+561
+00:09:56,200 --> 00:09:57,470
+they're catching up to you and now you
+can imbue it with your knowledge.
+
+562
+00:09:57,470 --> 00:09:57,480
+can imbue it with your knowledge.
+ 
+
+563
+00:09:57,480 --> 00:09:59,230
+can imbue it with your knowledge.
+>> That's right. And the sooner you connect
+
+564
+00:09:59,230 --> 00:09:59,240
+>> That's right. And the sooner you connect
+ 
+
+565
+00:09:59,240 --> 00:10:01,430
+>> That's right. And the sooner you connect
+your agent the sooner you connect your
+
+566
+00:10:01,430 --> 00:10:01,440
+your agent the sooner you connect your
+ 
+
+567
+00:10:01,440 --> 00:10:03,350
+your agent the sooner you connect your
+agent with customers
+
+568
+00:10:03,350 --> 00:10:03,360
+agent with customers
+ 
+
+569
+00:10:03,360 --> 00:10:05,150
+agent with customers
+that flywheel is going to cause your
+
+570
+00:10:05,150 --> 00:10:05,160
+that flywheel is going to cause your
+ 
+
+571
+00:10:05,160 --> 00:10:06,270
+that flywheel is going to cause your
+agent to get
+
+572
+00:10:06,270 --> 00:10:06,280
+agent to get
+ 
+
+573
+00:10:06,280 --> 00:10:07,990
+agent to get
+>> It very It very much is an inversion of
+
+574
+00:10:07,990 --> 00:10:08,000
+>> It very It very much is an inversion of
+ 
+
+575
+00:10:08,000 --> 00:10:09,550
+>> It very It very much is an inversion of
+what we do today because today we build
+
+576
+00:10:09,550 --> 00:10:09,560
+what we do today because today we build
+ 
+
+577
+00:10:09,560 --> 00:10:11,110
+what we do today because today we build
+a piece of software and we say, what
+
+578
+00:10:11,110 --> 00:10:11,120
+a piece of software and we say, what
+ 
+
+579
+00:10:11,120 --> 00:10:13,270
+a piece of software and we say, what
+generalizes? And then let's try to sell
+
+580
+00:10:13,270 --> 00:10:13,280
+generalizes? And then let's try to sell
+ 
+
+581
+00:10:13,280 --> 00:10:14,830
+generalizes? And then let's try to sell
+it as broadly as possible and then sell
+
+582
+00:10:14,830 --> 00:10:14,840
+it as broadly as possible and then sell
+ 
+
+583
+00:10:14,840 --> 00:10:16,230
+it as broadly as possible and then sell
+the customization around it.
+
+584
+00:10:16,230 --> 00:10:16,240
+the customization around it.
+ 
+
+585
+00:10:16,240 --> 00:10:16,950
+the customization around it.
+>> And we trap
+
+586
+00:10:16,950 --> 00:10:16,960
+>> And we trap
+ 
+
+587
+00:10:16,960 --> 00:10:19,430
+>> And we trap
+>> fact In fact, with exactly right. We We
+
+588
+00:10:19,430 --> 00:10:19,440
+>> fact In fact, with exactly right. We We
+ 
+
+589
+00:10:19,440 --> 00:10:22,430
+>> fact In fact, with exactly right. We We
+create a horizontal, but notice there
+
+590
+00:10:22,430 --> 00:10:22,440
+create a horizontal, but notice there
+ 
+
+591
+00:10:22,440 --> 00:10:24,710
+create a horizontal, but notice there
+all these GSIs and all of these
+
+592
+00:10:24,710 --> 00:10:24,720
+all these GSIs and all of these
+ 
+
+593
+00:10:24,720 --> 00:10:27,390
+all these GSIs and all of these
+consultants who are specialists who then
+
+594
+00:10:27,390 --> 00:10:27,400
+consultants who are specialists who then
+ 
+
+595
+00:10:27,400 --> 00:10:29,350
+consultants who are specialists who then
+take your horizontal platform and
+
+596
+00:10:29,350 --> 00:10:29,360
+take your horizontal platform and
+ 
+
+597
+00:10:29,360 --> 00:10:30,990
+take your horizontal platform and
+specializes it into
+
+598
+00:10:30,990 --> 00:10:31,000
+specializes it into
+ 
+
+599
+00:10:31,000 --> 00:10:31,470
+specializes it into
+>> Exactly.
+
+600
+00:10:31,470 --> 00:10:31,480
+>> Exactly.
+ 
+
+601
+00:10:31,480 --> 00:10:33,110
+>> Exactly.
+>> And that's arguably a five or six time
+
+602
+00:10:33,110 --> 00:10:33,120
+>> And that's arguably a five or six time
+ 
+
+603
+00:10:33,120 --> 00:10:34,910
+>> And that's arguably a five or six time
+bigger industry is the customization.
+
+604
+00:10:34,910 --> 00:10:34,920
+bigger industry is the customization.
+ 
+
+605
+00:10:34,920 --> 00:10:36,070
+bigger industry is the customization.
+>> It is. Absolutely.
+
+606
+00:10:36,070 --> 00:10:36,080
+>> It is. Absolutely.
+ 
+
+607
+00:10:36,080 --> 00:10:37,270
+>> It is. Absolutely.
+>> Yeah, the whole very much is.
+
+608
+00:10:37,270 --> 00:10:37,280
+>> Yeah, the whole very much is.
+ 
+
+609
+00:10:37,280 --> 00:10:39,790
+>> Yeah, the whole very much is.
+>> That's right. So, I think that these
+
+610
+00:10:39,790 --> 00:10:39,800
+>> That's right. So, I think that these
+ 
+
+611
+00:10:39,800 --> 00:10:42,030
+>> That's right. So, I think that these
+platform companies have an opportunity
+
+612
+00:10:42,030 --> 00:10:42,040
+platform companies have an opportunity
+ 
+
+613
+00:10:42,040 --> 00:10:43,950
+platform companies have an opportunity
+to become that specialist, to become
+
+614
+00:10:43,950 --> 00:10:43,960
+to become that specialist, to become
+ 
+
+615
+00:10:43,960 --> 00:10:44,950
+to become that specialist, to become
+that vertical.
+
+616
+00:10:44,950 --> 00:10:44,960
+that vertical.
+ 
+
+617
+00:10:44,960 --> 00:10:47,510
+that vertical.
+>> Now, why is that? Well, this article is
+
+618
+00:10:47,510 --> 00:10:47,520
+>> Now, why is that? Well, this article is
+ 
+
+619
+00:10:47,520 --> 00:10:49,750
+>> Now, why is that? Well, this article is
+talking about the intelligence crisis.
+
+620
+00:10:49,750 --> 00:10:49,760
+talking about the intelligence crisis.
+ 
+
+621
+00:10:49,760 --> 00:10:51,470
+talking about the intelligence crisis.
+And what actually needs to happen from
+
+622
+00:10:51,470 --> 00:10:51,480
+And what actually needs to happen from
+ 
+
+623
+00:10:51,480 --> 00:10:53,590
+And what actually needs to happen from
+my perspective is that all companies
+
+624
+00:10:53,590 --> 00:10:53,600
+my perspective is that all companies
+ 
+
+625
+00:10:53,600 --> 00:10:55,910
+my perspective is that all companies
+need to become intelligence companies.
+
+626
+00:10:55,910 --> 00:10:55,920
+need to become intelligence companies.
+ 
+
+627
+00:10:55,920 --> 00:10:57,230
+need to become intelligence companies.
+And what does that mean? Well, you need
+
+628
+00:10:57,230 --> 00:10:57,240
+And what does that mean? Well, you need
+ 
+
+629
+00:10:57,240 --> 00:10:59,829
+And what does that mean? Well, you need
+to make sure that you go and you have an
+
+630
+00:10:59,829 --> 00:10:59,839
+to make sure that you go and you have an
+ 
+
+631
+00:10:59,839 --> 00:11:02,710
+to make sure that you go and you have an
+agent inside of your company that your
+
+632
+00:11:02,710 --> 00:11:02,720
+agent inside of your company that your
+ 
+
+633
+00:11:02,720 --> 00:11:05,150
+agent inside of your company that your
+customers are able to interface with and
+
+634
+00:11:05,150 --> 00:11:05,160
+customers are able to interface with and
+ 
+
+635
+00:11:05,160 --> 00:11:08,030
+customers are able to interface with and
+over the next few months that agent is
+
+636
+00:11:08,030 --> 00:11:08,040
+over the next few months that agent is
+ 
+
+637
+00:11:08,040 --> 00:11:11,150
+over the next few months that agent is
+able to learn, ship code, improve your
+
+638
+00:11:11,150 --> 00:11:11,160
+able to learn, ship code, improve your
+ 
+
+639
+00:11:11,160 --> 00:11:13,790
+able to learn, ship code, improve your
+business without any human intervention.
+
+640
+00:11:13,790 --> 00:11:13,800
+business without any human intervention.
+ 
+
+641
+00:11:13,800 --> 00:11:15,310
+business without any human intervention.
+Or maybe just a human in the loop to
+
+642
+00:11:15,310 --> 00:11:15,320
+Or maybe just a human in the loop to
+ 
+
+643
+00:11:15,320 --> 00:11:16,990
+Or maybe just a human in the loop to
+double check what it's pushing is
+
+644
+00:11:16,990 --> 00:11:17,000
+double check what it's pushing is
+ 
+
+645
+00:11:17,000 --> 00:11:18,510
+double check what it's pushing is
+correct. I was recently talking to a
+
+646
+00:11:18,510 --> 00:11:18,520
+correct. I was recently talking to a
+ 
+
+647
+00:11:18,520 --> 00:11:20,590
+correct. I was recently talking to a
+founder and you know, he's got a
+
+648
+00:11:20,590 --> 00:11:20,600
+founder and you know, he's got a
+ 
+
+649
+00:11:20,600 --> 00:11:23,390
+founder and you know, he's got a
+dashboard that helps different parishes
+
+650
+00:11:23,390 --> 00:11:23,400
+dashboard that helps different parishes
+ 
+
+651
+00:11:23,400 --> 00:11:26,310
+dashboard that helps different parishes
+across America. And in that dashboard,
+
+652
+00:11:26,310 --> 00:11:26,320
+across America. And in that dashboard,
+ 
+
+653
+00:11:26,320 --> 00:11:27,630
+across America. And in that dashboard,
+customers are able to go and leave
+
+654
+00:11:27,630 --> 00:11:27,640
+customers are able to go and leave
+ 
+
+655
+00:11:27,640 --> 00:11:30,230
+customers are able to go and leave
+feedback and an agent actually goes and
+
+656
+00:11:30,230 --> 00:11:30,240
+feedback and an agent actually goes and
+ 
+
+657
+00:11:30,240 --> 00:11:32,790
+feedback and an agent actually goes and
+takes that feedback based on you know,
+
+658
+00:11:32,790 --> 00:11:32,800
+takes that feedback based on you know,
+ 
+
+659
+00:11:32,800 --> 00:11:34,310
+takes that feedback based on you know,
+different bugs that may be happening in
+
+660
+00:11:34,310 --> 00:11:34,320
+different bugs that may be happening in
+ 
+
+661
+00:11:34,320 --> 00:11:36,390
+different bugs that may be happening in
+the dashboard and is able to then just
+
+662
+00:11:36,390 --> 00:11:36,400
+the dashboard and is able to then just
+ 
+
+663
+00:11:36,400 --> 00:11:39,030
+the dashboard and is able to then just
+go and take that and automatically go
+
+664
+00:11:39,030 --> 00:11:39,040
+go and take that and automatically go
+ 
+
+665
+00:11:39,040 --> 00:11:42,030
+go and take that and automatically go
+and fix things. This is an example of an
+
+666
+00:11:42,030 --> 00:11:42,040
+and fix things. This is an example of an
+ 
+
+667
+00:11:42,040 --> 00:11:43,990
+and fix things. This is an example of an
+intelligence layer. And my belief is
+
+668
+00:11:43,990 --> 00:11:44,000
+intelligence layer. And my belief is
+ 
+
+669
+00:11:44,000 --> 00:11:45,830
+intelligence layer. And my belief is
+that every company will just become an
+
+670
+00:11:45,830 --> 00:11:45,840
+that every company will just become an
+ 
+
+671
+00:11:45,840 --> 00:11:47,990
+that every company will just become an
+intelligence company. And it's not just
+
+672
+00:11:47,990 --> 00:11:48,000
+intelligence company. And it's not just
+ 
+
+673
+00:11:48,000 --> 00:11:50,710
+intelligence company. And it's not just
+me, right? Jack Dorsey, the CEO, one of
+
+674
+00:11:50,710 --> 00:11:50,720
+me, right? Jack Dorsey, the CEO, one of
+ 
+
+675
+00:11:50,720 --> 00:11:53,190
+me, right? Jack Dorsey, the CEO, one of
+the only that's ever run two
+
+676
+00:11:53,190 --> 00:11:53,200
+the only that's ever run two
+ 
+
+677
+00:11:53,200 --> 00:11:55,270
+the only that's ever run two
+multi-billion-dollar public companies at
+
+678
+00:11:55,270 --> 00:11:55,280
+multi-billion-dollar public companies at
+ 
+
+679
+00:11:55,280 --> 00:11:56,510
+multi-billion-dollar public companies at
+the same time when he was running
+
+680
+00:11:56,510 --> 00:11:56,520
+the same time when he was running
+ 
+
+681
+00:11:56,520 --> 00:11:58,990
+the same time when he was running
+Twitter and Square at the same time. He
+
+682
+00:11:58,990 --> 00:11:59,000
+Twitter and Square at the same time. He
+ 
+
+683
+00:11:59,000 --> 00:12:01,750
+Twitter and Square at the same time. He
+recently laid off 8,000 people, saw the
+
+684
+00:12:01,750 --> 00:12:01,760
+recently laid off 8,000 people, saw the
+ 
+
+685
+00:12:01,760 --> 00:12:03,350
+recently laid off 8,000 people, saw the
+stock price jump as this article
+
+686
+00:12:03,350 --> 00:12:03,360
+stock price jump as this article
+ 
+
+687
+00:12:03,360 --> 00:12:05,670
+stock price jump as this article
+outlines, and he's recently gone and
+
+688
+00:12:05,670 --> 00:12:05,680
+outlines, and he's recently gone and
+ 
+
+689
+00:12:05,680 --> 00:12:08,670
+outlines, and he's recently gone and
+built almost like a mini AGI, right? A
+
+690
+00:12:08,670 --> 00:12:08,680
+built almost like a mini AGI, right? A
+ 
+
+691
+00:12:08,680 --> 00:12:13,110
+built almost like a mini AGI, right? A
+mini AI company inside of Block that he
+
+692
+00:12:13,110 --> 00:12:13,120
+mini AI company inside of Block that he
+ 
+
+693
+00:12:13,120 --> 00:12:14,630
+mini AI company inside of Block that he
+believes is basically going to go and
+
+694
+00:12:14,630 --> 00:12:14,640
+believes is basically going to go and
+ 
+
+695
+00:12:14,640 --> 00:12:17,710
+believes is basically going to go and
+just eat Block over time. Many CEOs are
+
+696
+00:12:17,710 --> 00:12:17,720
+just eat Block over time. Many CEOs are
+ 
+
+697
+00:12:17,720 --> 00:12:19,470
+just eat Block over time. Many CEOs are
+waking up to this, really understanding
+
+698
+00:12:19,470 --> 00:12:19,480
+waking up to this, really understanding
+ 
+
+699
+00:12:19,480 --> 00:12:20,910
+waking up to this, really understanding
+that over the next decade things are
+
+700
+00:12:20,910 --> 00:12:20,920
+that over the next decade things are
+ 
+
+701
+00:12:20,920 --> 00:12:23,150
+that over the next decade things are
+about to change drastically. Companies
+
+702
+00:12:23,150 --> 00:12:23,160
+about to change drastically. Companies
+ 
+
+703
+00:12:23,160 --> 00:12:26,830
+about to change drastically. Companies
+as we know it will not be as the same as
+
+704
+00:12:26,830 --> 00:12:26,840
+as we know it will not be as the same as
+ 
+
+705
+00:12:26,840 --> 00:12:28,230
+as we know it will not be as the same as
+they are today. And one of the reasons
+
+706
+00:12:28,230 --> 00:12:28,240
+they are today. And one of the reasons
+ 
+
+707
+00:12:28,240 --> 00:12:30,310
+they are today. And one of the reasons
+is is because, you know, agents are
+
+708
+00:12:30,310 --> 00:12:30,320
+is is because, you know, agents are
+ 
+
+709
+00:12:30,320 --> 00:12:31,790
+is is because, you know, agents are
+going to become more and more capable
+
+710
+00:12:31,790 --> 00:12:31,800
+going to become more and more capable
+ 
+
+711
+00:12:31,800 --> 00:12:34,870
+going to become more and more capable
+and our own need for all these humans,
+
+712
+00:12:34,870 --> 00:12:34,880
+and our own need for all these humans,
+ 
+
+713
+00:12:34,880 --> 00:12:36,590
+and our own need for all these humans,
+all these processes, right? Is going to
+
+714
+00:12:36,590 --> 00:12:36,600
+all these processes, right? Is going to
+ 
+
+715
+00:12:36,600 --> 00:12:38,510
+all these processes, right? Is going to
+change a lot. Why do you need a whole
+
+716
+00:12:38,510 --> 00:12:38,520
+change a lot. Why do you need a whole
+ 
+
+717
+00:12:38,520 --> 00:12:41,590
+change a lot. Why do you need a whole
+customer service department when a few
+
+718
+00:12:41,590 --> 00:12:41,600
+customer service department when a few
+ 
+
+719
+00:12:41,600 --> 00:12:43,270
+customer service department when a few
+agents can go and handle all that? It
+
+720
+00:12:43,270 --> 00:12:43,280
+agents can go and handle all that? It
+ 
+
+721
+00:12:43,280 --> 00:12:45,190
+agents can go and handle all that? It
+says, "We had overestimated the value of
+
+722
+00:12:45,190 --> 00:12:45,200
+says, "We had overestimated the value of
+ 
+
+723
+00:12:45,200 --> 00:12:47,310
+says, "We had overestimated the value of
+human relationships. Turns out a lot of
+
+724
+00:12:47,310 --> 00:12:47,320
+human relationships. Turns out a lot of
+ 
+
+725
+00:12:47,320 --> 00:12:48,829
+human relationships. Turns out a lot of
+what people called relationships was
+
+726
+00:12:48,829 --> 00:12:48,839
+what people called relationships was
+ 
+
+727
+00:12:48,839 --> 00:12:51,070
+what people called relationships was
+simply friction with a friendly face." I
+
+728
+00:12:51,070 --> 00:12:51,080
+simply friction with a friendly face." I
+ 
+
+729
+00:12:51,080 --> 00:12:53,910
+simply friction with a friendly face." I
+talk to, you know, coaches, consultants,
+
+730
+00:12:53,910 --> 00:12:53,920
+talk to, you know, coaches, consultants,
+ 
+
+731
+00:12:53,920 --> 00:12:56,030
+talk to, you know, coaches, consultants,
+agencies all the time, right? And often
+
+732
+00:12:56,030 --> 00:12:56,040
+agencies all the time, right? And often
+ 
+
+733
+00:12:56,040 --> 00:12:57,310
+agencies all the time, right? And often
+times when I go and look at their
+
+734
+00:12:57,310 --> 00:12:57,320
+times when I go and look at their
+ 
+
+735
+00:12:57,320 --> 00:12:59,590
+times when I go and look at their
+organic content funnels as an example,
+
+736
+00:12:59,590 --> 00:12:59,600
+organic content funnels as an example,
+ 
+
+737
+00:12:59,600 --> 00:13:01,870
+organic content funnels as an example,
+they've got all this unnecessary
+
+738
+00:13:01,870 --> 00:13:01,880
+they've got all this unnecessary
+ 
+
+739
+00:13:01,880 --> 00:13:04,150
+they've got all this unnecessary
+friction. They make you hop on the call
+
+740
+00:13:04,150 --> 00:13:04,160
+friction. They make you hop on the call
+ 
+
+741
+00:13:04,160 --> 00:13:05,990
+friction. They make you hop on the call
+with someone to then hop on a call with
+
+742
+00:13:05,990 --> 00:13:06,000
+with someone to then hop on a call with
+ 
+
+743
+00:13:06,000 --> 00:13:07,750
+with someone to then hop on a call with
+someone else. And they'll lay out a
+
+744
+00:13:07,750 --> 00:13:07,760
+someone else. And they'll lay out a
+ 
+
+745
+00:13:07,760 --> 00:13:10,670
+someone else. And they'll lay out a
+12-step process basically to go from
+
+746
+00:13:10,670 --> 00:13:10,680
+12-step process basically to go from
+ 
+
+747
+00:13:10,680 --> 00:13:12,829
+12-step process basically to go from
+initial interest, right? All the way
+
+748
+00:13:12,829 --> 00:13:12,839
+initial interest, right? All the way
+ 
+
+749
+00:13:12,839 --> 00:13:14,870
+initial interest, right? All the way
+through to a closed deal. When you look
+
+750
+00:13:14,870 --> 00:13:14,880
+through to a closed deal. When you look
+ 
+
+751
+00:13:14,880 --> 00:13:17,310
+through to a closed deal. When you look
+at it, some long process like that often
+
+752
+00:13:17,310 --> 00:13:17,320
+at it, some long process like that often
+ 
+
+753
+00:13:17,320 --> 00:13:19,390
+at it, some long process like that often
+times could just be one or two clicks,
+
+754
+00:13:19,390 --> 00:13:19,400
+times could just be one or two clicks,
+ 
+
+755
+00:13:19,400 --> 00:13:22,030
+times could just be one or two clicks,
+maximum three stages. We live in a time
+
+756
+00:13:22,030 --> 00:13:22,040
+maximum three stages. We live in a time
+ 
+
+757
+00:13:22,040 --> 00:13:24,710
+maximum three stages. We live in a time
+already where an agent can go and
+
+758
+00:13:24,710 --> 00:13:24,720
+already where an agent can go and
+ 
+
+759
+00:13:24,720 --> 00:13:26,630
+already where an agent can go and
+understand your entire product menu of
+
+760
+00:13:26,630 --> 00:13:26,640
+understand your entire product menu of
+ 
+
+761
+00:13:26,640 --> 00:13:29,070
+understand your entire product menu of
+your business, and based on
+
+762
+00:13:29,070 --> 00:13:29,080
+your business, and based on
+ 
+
+763
+00:13:29,080 --> 00:13:31,230
+your business, and based on
+inbound demand you have for your product
+
+764
+00:13:31,230 --> 00:13:31,240
+inbound demand you have for your product
+ 
+
+765
+00:13:31,240 --> 00:13:33,670
+inbound demand you have for your product
+or service, an agent could be going and
+
+766
+00:13:33,670 --> 00:13:33,680
+or service, an agent could be going and
+ 
+
+767
+00:13:33,680 --> 00:13:35,910
+or service, an agent could be going and
+curating the best product or service for
+
+768
+00:13:35,910 --> 00:13:35,920
+curating the best product or service for
+ 
+
+769
+00:13:35,920 --> 00:13:37,750
+curating the best product or service for
+that individual based on a few
+
+770
+00:13:37,750 --> 00:13:37,760
+that individual based on a few
+ 
+
+771
+00:13:37,760 --> 00:13:39,750
+that individual based on a few
+qualification questions. You don't need
+
+772
+00:13:39,750 --> 00:13:39,760
+qualification questions. You don't need
+ 
+
+773
+00:13:39,760 --> 00:13:41,590
+qualification questions. You don't need
+a human to do that. And this article
+
+774
+00:13:41,590 --> 00:13:41,600
+a human to do that. And this article
+ 
+
+775
+00:13:41,600 --> 00:13:42,870
+a human to do that. And this article
+goes on that, you know, this is really
+
+776
+00:13:42,870 --> 00:13:42,880
+goes on that, you know, this is really
+ 
+
+777
+00:13:42,880 --> 00:13:46,310
+goes on that, you know, this is really
+the destruction for that intermediation
+
+778
+00:13:46,310 --> 00:13:46,320
+the destruction for that intermediation
+ 
+
+779
+00:13:46,320 --> 00:13:48,430
+the destruction for that intermediation
+layer, right? So many of these layers
+
+780
+00:13:48,430 --> 00:13:48,440
+layer, right? So many of these layers
+ 
+
+781
+00:13:48,440 --> 00:13:49,990
+layer, right? So many of these layers
+that we have that we think are all about
+
+782
+00:13:49,990 --> 00:13:50,000
+that we have that we think are all about
+ 
+
+783
+00:13:50,000 --> 00:13:52,430
+that we have that we think are all about
+relationships, honestly, just become
+
+784
+00:13:52,430 --> 00:13:52,440
+relationships, honestly, just become
+ 
+
+785
+00:13:52,440 --> 00:13:54,790
+relationships, honestly, just become
+unnecessary friction. It goes on to say
+
+786
+00:13:54,790 --> 00:13:54,800
+unnecessary friction. It goes on to say
+ 
+
+787
+00:13:54,800 --> 00:13:57,230
+unnecessary friction. It goes on to say
+technological innovation destroys jobs
+
+788
+00:13:57,230 --> 00:13:57,240
+technological innovation destroys jobs
+ 
+
+789
+00:13:57,240 --> 00:13:59,470
+technological innovation destroys jobs
+and then creates even more. This was the
+
+790
+00:13:59,470 --> 00:13:59,480
+and then creates even more. This was the
+ 
+
+791
+00:13:59,480 --> 00:14:01,270
+and then creates even more. This was the
+most popular and convincing counter
+
+792
+00:14:01,270 --> 00:14:01,280
+most popular and convincing counter
+ 
+
+793
+00:14:01,280 --> 00:14:03,150
+most popular and convincing counter
+argument at the time. It was popular and
+
+794
+00:14:03,150 --> 00:14:03,160
+argument at the time. It was popular and
+ 
+
+795
+00:14:03,160 --> 00:14:05,390
+argument at the time. It was popular and
+convincing because it had been right for
+
+796
+00:14:05,390 --> 00:14:05,400
+convincing because it had been right for
+ 
+
+797
+00:14:05,400 --> 00:14:07,230
+convincing because it had been right for
+two centuries. You know, there's two
+
+798
+00:14:07,230 --> 00:14:07,240
+two centuries. You know, there's two
+ 
+
+799
+00:14:07,240 --> 00:14:09,150
+two centuries. You know, there's two
+kinds of ways of looking at this, which
+
+800
+00:14:09,150 --> 00:14:09,160
+kinds of ways of looking at this, which
+ 
+
+801
+00:14:09,160 --> 00:14:11,630
+kinds of ways of looking at this, which
+is that, you know, AI goes and replaces
+
+802
+00:14:11,630 --> 00:14:11,640
+is that, you know, AI goes and replaces
+ 
+
+803
+00:14:11,640 --> 00:14:13,950
+is that, you know, AI goes and replaces
+jobs and there aren't new jobs being
+
+804
+00:14:13,950 --> 00:14:13,960
+jobs and there aren't new jobs being
+ 
+
+805
+00:14:13,960 --> 00:14:16,550
+jobs and there aren't new jobs being
+created per se. AI is just really eating
+
+806
+00:14:16,550 --> 00:14:16,560
+created per se. AI is just really eating
+ 
+
+807
+00:14:16,560 --> 00:14:18,510
+created per se. AI is just really eating
+that whole workforce. On the other side,
+
+808
+00:14:18,510 --> 00:14:18,520
+that whole workforce. On the other side,
+ 
+
+809
+00:14:18,520 --> 00:14:19,950
+that whole workforce. On the other side,
+the other school of thought, which is
+
+810
+00:14:19,950 --> 00:14:19,960
+the other school of thought, which is
+ 
+
+811
+00:14:19,960 --> 00:14:21,790
+the other school of thought, which is
+kind of the John Maynard Keynes school
+
+812
+00:14:21,790 --> 00:14:21,800
+kind of the John Maynard Keynes school
+ 
+
+813
+00:14:21,800 --> 00:14:24,270
+kind of the John Maynard Keynes school
+of thought, is that, you know, this AI
+
+814
+00:14:24,270 --> 00:14:24,280
+of thought, is that, you know, this AI
+ 
+
+815
+00:14:24,280 --> 00:14:26,630
+of thought, is that, you know, this AI
+will lead to more innovation, right? And
+
+816
+00:14:26,630 --> 00:14:26,640
+will lead to more innovation, right? And
+ 
+
+817
+00:14:26,640 --> 00:14:28,550
+will lead to more innovation, right? And
+then people will go and be more
+
+818
+00:14:28,550 --> 00:14:28,560
+then people will go and be more
+ 
+
+819
+00:14:28,560 --> 00:14:30,230
+then people will go and be more
+productive and find new frontiers of
+
+820
+00:14:30,230 --> 00:14:30,240
+productive and find new frontiers of
+ 
+
+821
+00:14:30,240 --> 00:14:32,310
+productive and find new frontiers of
+things to build and there actually be
+
+822
+00:14:32,310 --> 00:14:32,320
+things to build and there actually be
+ 
+
+823
+00:14:32,320 --> 00:14:35,790
+things to build and there actually be
+growing job creation. And really both of
+
+824
+00:14:35,790 --> 00:14:35,800
+growing job creation. And really both of
+ 
+
+825
+00:14:35,800 --> 00:14:37,829
+growing job creation. And really both of
+these paths, none of us know what's
+
+826
+00:14:37,829 --> 00:14:37,839
+these paths, none of us know what's
+ 
+
+827
+00:14:37,839 --> 00:14:39,350
+these paths, none of us know what's
+going to happen. Whether it's one or the
+
+828
+00:14:39,350 --> 00:14:39,360
+going to happen. Whether it's one or the
+ 
+
+829
+00:14:39,360 --> 00:14:42,110
+going to happen. Whether it's one or the
+other, I really don't care. Anytime that
+
+830
+00:14:42,110 --> 00:14:42,120
+other, I really don't care. Anytime that
+ 
+
+831
+00:14:42,120 --> 00:14:44,270
+other, I really don't care. Anytime that
+this level of destruction is going on,
+
+832
+00:14:44,270 --> 00:14:44,280
+this level of destruction is going on,
+ 
+
+833
+00:14:44,280 --> 00:14:47,030
+this level of destruction is going on,
+I'm going to go and take a page out of
+
+834
+00:14:47,030 --> 00:14:47,040
+I'm going to go and take a page out of
+ 
+
+835
+00:14:47,040 --> 00:14:48,870
+I'm going to go and take a page out of
+Charlie Munger's book, right? Charlie
+
+836
+00:14:48,870 --> 00:14:48,880
+Charlie Munger's book, right? Charlie
+ 
+
+837
+00:14:48,880 --> 00:14:51,150
+Charlie Munger's book, right? Charlie
+Munger is the legend that was Warren
+
+838
+00:14:51,150 --> 00:14:51,160
+Munger is the legend that was Warren
+ 
+
+839
+00:14:51,160 --> 00:14:52,950
+Munger is the legend that was Warren
+Buffett's uh business partner for over
+
+840
+00:14:52,950 --> 00:14:52,960
+Buffett's uh business partner for over
+ 
+
+841
+00:14:52,960 --> 00:14:55,590
+Buffett's uh business partner for over
+50 years. He has this concept called
+
+842
+00:14:55,590 --> 00:14:55,600
+50 years. He has this concept called
+ 
+
+843
+00:14:55,600 --> 00:14:58,270
+50 years. He has this concept called
+inversion. And instead of asking how
+
+844
+00:14:58,270 --> 00:14:58,280
+inversion. And instead of asking how
+ 
+
+845
+00:14:58,280 --> 00:15:00,630
+inversion. And instead of asking how
+could your business succeed, you want to
+
+846
+00:15:00,630 --> 00:15:00,640
+could your business succeed, you want to
+ 
+
+847
+00:15:00,640 --> 00:15:03,630
+could your business succeed, you want to
+ask how could my business fail? In this
+
+848
+00:15:03,630 --> 00:15:03,640
+ask how could my business fail? In this
+ 
+
+849
+00:15:03,640 --> 00:15:05,630
+ask how could my business fail? In this
+example, what this article's outlining
+
+850
+00:15:05,630 --> 00:15:05,640
+example, what this article's outlining
+ 
+
+851
+00:15:05,640 --> 00:15:07,270
+example, what this article's outlining
+is one way your business could fail,
+
+852
+00:15:07,270 --> 00:15:07,280
+is one way your business could fail,
+ 
+
+853
+00:15:07,280 --> 00:15:08,870
+is one way your business could fail,
+which is that you're not prepared for
+
+854
+00:15:08,870 --> 00:15:08,880
+which is that you're not prepared for
+ 
+
+855
+00:15:08,880 --> 00:15:11,270
+which is that you're not prepared for
+this, right? You're not adopting AI,
+
+856
+00:15:11,270 --> 00:15:11,280
+this, right? You're not adopting AI,
+ 
+
+857
+00:15:11,280 --> 00:15:13,310
+this, right? You're not adopting AI,
+you're not thinking about how will your
+
+858
+00:15:13,310 --> 00:15:13,320
+you're not thinking about how will your
+ 
+
+859
+00:15:13,320 --> 00:15:16,350
+you're not thinking about how will your
+business compete in 2028 when
+
+860
+00:15:16,350 --> 00:15:16,360
+business compete in 2028 when
+ 
+
+861
+00:15:16,360 --> 00:15:18,350
+business compete in 2028 when
+information and intelligence are
+
+862
+00:15:18,350 --> 00:15:18,360
+information and intelligence are
+ 
+
+863
+00:15:18,360 --> 00:15:19,950
+information and intelligence are
+abundant. How does your coaching
+
+864
+00:15:19,950 --> 00:15:19,960
+abundant. How does your coaching
+ 
+
+865
+00:15:19,960 --> 00:15:22,390
+abundant. How does your coaching
+business succeed? How is your consulting
+
+866
+00:15:22,390 --> 00:15:22,400
+business succeed? How is your consulting
+ 
+
+867
+00:15:22,400 --> 00:15:24,630
+business succeed? How is your consulting
+business set up for success? How's your
+
+868
+00:15:24,630 --> 00:15:24,640
+business set up for success? How's your
+ 
+
+869
+00:15:24,640 --> 00:15:27,430
+business set up for success? How's your
+software business exist anymore when a
+
+870
+00:15:27,430 --> 00:15:27,440
+software business exist anymore when a
+ 
+
+871
+00:15:27,440 --> 00:15:28,790
+software business exist anymore when a
+competitor can go and duplicate your
+
+872
+00:15:28,790 --> 00:15:28,800
+competitor can go and duplicate your
+ 
+
+873
+00:15:28,800 --> 00:15:31,030
+competitor can go and duplicate your
+entire infrastructure in 10 minutes?
+
+874
+00:15:31,030 --> 00:15:31,040
+entire infrastructure in 10 minutes?
+ 
+
+875
+00:15:31,040 --> 00:15:32,470
+entire infrastructure in 10 minutes?
+These are the kind of questions that I
+
+876
+00:15:32,470 --> 00:15:32,480
+These are the kind of questions that I
+ 
+
+877
+00:15:32,480 --> 00:15:33,750
+These are the kind of questions that I
+think entrepreneurs need to be asking
+
+878
+00:15:33,750 --> 00:15:33,760
+think entrepreneurs need to be asking
+ 
+
+879
+00:15:33,760 --> 00:15:36,190
+think entrepreneurs need to be asking
+themselves yesterday. Because whether or
+
+880
+00:15:36,190 --> 00:15:36,200
+themselves yesterday. Because whether or
+ 
+
+881
+00:15:36,200 --> 00:15:38,870
+themselves yesterday. Because whether or
+not everything here comes true, that's
+
+882
+00:15:38,870 --> 00:15:38,880
+not everything here comes true, that's
+ 
+
+883
+00:15:38,880 --> 00:15:40,950
+not everything here comes true, that's
+not what matters, right? I think on some
+
+884
+00:15:40,950 --> 00:15:40,960
+not what matters, right? I think on some
+ 
+
+885
+00:15:40,960 --> 00:15:43,630
+not what matters, right? I think on some
+given time scale, this is what things
+
+886
+00:15:43,630 --> 00:15:43,640
+given time scale, this is what things
+ 
+
+887
+00:15:43,640 --> 00:15:44,990
+given time scale, this is what things
+are going to start looking like. The
+
+888
+00:15:44,990 --> 00:15:45,000
+are going to start looking like. The
+ 
+
+889
+00:15:45,000 --> 00:15:47,110
+are going to start looking like. The
+question is like, how quick are we going
+
+890
+00:15:47,110 --> 00:15:47,120
+question is like, how quick are we going
+ 
+
+891
+00:15:47,120 --> 00:15:49,670
+question is like, how quick are we going
+to be to adopt this stuff? And as
+
+892
+00:15:49,670 --> 00:15:49,680
+to be to adopt this stuff? And as
+ 
+
+893
+00:15:49,680 --> 00:15:51,790
+to be to adopt this stuff? And as
+entrepreneurs, how antifragile are we
+
+894
+00:15:51,790 --> 00:15:51,800
+entrepreneurs, how antifragile are we
+ 
+
+895
+00:15:51,800 --> 00:15:53,670
+entrepreneurs, how antifragile are we
+going to build our businesses?
+
+896
+00:15:53,670 --> 00:15:53,680
+going to build our businesses?
+ 
+
+897
+00:15:53,680 --> 00:15:54,830
+going to build our businesses?
+If you thought any of this has been
+
+898
+00:15:54,830 --> 00:15:54,840
+If you thought any of this has been
+ 
+
+899
+00:15:54,840 --> 00:15:57,270
+If you thought any of this has been
+scary so far, I want to talk about the
+
+900
+00:15:57,270 --> 00:15:57,280
+scary so far, I want to talk about the
+ 
+
+901
+00:15:57,280 --> 00:16:00,190
+scary so far, I want to talk about the
+part of this that scares me the most.
+
+902
+00:16:00,190 --> 00:16:00,200
+part of this that scares me the most.
+ 
+
+903
+00:16:00,200 --> 00:16:01,750
+part of this that scares me the most.
+So, what it gets into, right? Is that
+
+904
+00:16:01,750 --> 00:16:01,760
+So, what it gets into, right? Is that
+ 
+
+905
+00:16:01,760 --> 00:16:04,350
+So, what it gets into, right? Is that
+there's no natural break, right? On the
+
+906
+00:16:04,350 --> 00:16:04,360
+there's no natural break, right? On the
+ 
+
+907
+00:16:04,360 --> 00:16:07,350
+there's no natural break, right? On the
+cycle. Meaning the pressure, right? Just
+
+908
+00:16:07,350 --> 00:16:07,360
+cycle. Meaning the pressure, right? Just
+ 
+
+909
+00:16:07,360 --> 00:16:10,110
+cycle. Meaning the pressure, right? Just
+keeps on increasing. There's this new
+
+910
+00:16:10,110 --> 00:16:10,120
+keeps on increasing. There's this new
+ 
+
+911
+00:16:10,120 --> 00:16:13,550
+keeps on increasing. There's this new
+kind of recession that starts to kick in
+
+912
+00:16:13,550 --> 00:16:13,560
+kind of recession that starts to kick in
+ 
+
+913
+00:16:13,560 --> 00:16:14,670
+kind of recession that starts to kick in
+that we've never seen before in
+
+914
+00:16:14,670 --> 00:16:14,680
+that we've never seen before in
+ 
+
+915
+00:16:14,680 --> 00:16:16,630
+that we've never seen before in
+humanity. So, in a traditional
+
+916
+00:16:16,630 --> 00:16:16,640
+humanity. So, in a traditional
+ 
+
+917
+00:16:16,640 --> 00:16:19,030
+humanity. So, in a traditional
+recession, right? It's self-correcting.
+
+918
+00:16:19,030 --> 00:16:19,040
+recession, right? It's self-correcting.
+ 
+
+919
+00:16:19,040 --> 00:16:20,510
+recession, right? It's self-correcting.
+You'll see different slowdowns and
+
+920
+00:16:20,510 --> 00:16:20,520
+You'll see different slowdowns and
+ 
+
+921
+00:16:20,520 --> 00:16:22,630
+You'll see different slowdowns and
+things like construction. So, we lower
+
+922
+00:16:22,630 --> 00:16:22,640
+things like construction. So, we lower
+ 
+
+923
+00:16:22,640 --> 00:16:25,070
+things like construction. So, we lower
+the interest rates and then new
+
+924
+00:16:25,070 --> 00:16:25,080
+the interest rates and then new
+ 
+
+925
+00:16:25,080 --> 00:16:27,390
+the interest rates and then new
+construction and recovery come back. It
+
+926
+00:16:27,390 --> 00:16:27,400
+construction and recovery come back. It
+ 
+
+927
+00:16:27,400 --> 00:16:28,630
+construction and recovery come back. It
+starts to correct itself, right? And
+
+928
+00:16:28,630 --> 00:16:28,640
+starts to correct itself, right? And
+ 
+
+929
+00:16:28,640 --> 00:16:31,390
+starts to correct itself, right? And
+this is typically how a central bank
+
+930
+00:16:31,390 --> 00:16:31,400
+this is typically how a central bank
+ 
+
+931
+00:16:31,400 --> 00:16:34,230
+this is typically how a central bank
+will go and fix um some sort of
+
+932
+00:16:34,230 --> 00:16:34,240
+will go and fix um some sort of
+ 
+
+933
+00:16:34,240 --> 00:16:36,710
+will go and fix um some sort of
+recession. With this AI-driven, you
+
+934
+00:16:36,710 --> 00:16:36,720
+recession. With this AI-driven, you
+ 
+
+935
+00:16:36,720 --> 00:16:38,350
+recession. With this AI-driven, you
+know, economic feedback loop that they
+
+936
+00:16:38,350 --> 00:16:38,360
+know, economic feedback loop that they
+ 
+
+937
+00:16:38,360 --> 00:16:40,190
+know, economic feedback loop that they
+outline in this article, things are
+
+938
+00:16:40,190 --> 00:16:40,200
+outline in this article, things are
+ 
+
+939
+00:16:40,200 --> 00:16:41,870
+outline in this article, things are
+different. And this is the one part of
+
+940
+00:16:41,870 --> 00:16:41,880
+different. And this is the one part of
+ 
+
+941
+00:16:41,880 --> 00:16:43,790
+different. And this is the one part of
+the article that I can totally see
+
+942
+00:16:43,790 --> 00:16:43,800
+the article that I can totally see
+ 
+
+943
+00:16:43,800 --> 00:16:45,550
+the article that I can totally see
+coming true. So, basically, AI
+
+944
+00:16:45,550 --> 00:16:45,560
+coming true. So, basically, AI
+ 
+
+945
+00:16:45,560 --> 00:16:48,430
+coming true. So, basically, AI
+investment, okay? Goes and increases and
+
+946
+00:16:48,430 --> 00:16:48,440
+investment, okay? Goes and increases and
+ 
+
+947
+00:16:48,440 --> 00:16:50,910
+investment, okay? Goes and increases and
+AI capability keeps on improving. And
+
+948
+00:16:50,910 --> 00:16:50,920
+AI capability keeps on improving. And
+ 
+
+949
+00:16:50,920 --> 00:16:52,710
+AI capability keeps on improving. And
+we're seeing that already today.
+
+950
+00:16:52,710 --> 00:16:52,720
+we're seeing that already today.
+ 
+
+951
+00:16:52,720 --> 00:16:55,070
+we're seeing that already today.
+Companies then need fewer workers. They
+
+952
+00:16:55,070 --> 00:16:55,080
+Companies then need fewer workers. They
+ 
+
+953
+00:16:55,080 --> 00:16:57,310
+Companies then need fewer workers. They
+start laying off white-collar workers.
+
+954
+00:16:57,310 --> 00:16:57,320
+start laying off white-collar workers.
+ 
+
+955
+00:16:57,320 --> 00:16:59,030
+start laying off white-collar workers.
+Those layoffs keep on happening more and
+
+956
+00:16:59,030 --> 00:16:59,040
+Those layoffs keep on happening more and
+ 
+
+957
+00:16:59,040 --> 00:17:01,710
+Those layoffs keep on happening more and
+more and those displaced workers now are
+
+958
+00:17:01,710 --> 00:17:01,720
+more and those displaced workers now are
+ 
+
+959
+00:17:01,720 --> 00:17:03,750
+more and those displaced workers now are
+spending less. And they have no job. And
+
+960
+00:17:03,750 --> 00:17:03,760
+spending less. And they have no job. And
+ 
+
+961
+00:17:03,760 --> 00:17:05,429
+spending less. And they have no job. And
+even the ones that do have jobs, they're
+
+962
+00:17:05,429 --> 00:17:05,439
+even the ones that do have jobs, they're
+ 
+
+963
+00:17:05,439 --> 00:17:08,309
+even the ones that do have jobs, they're
+bracing for impact here. So, the economy
+
+964
+00:17:08,309 --> 00:17:08,319
+bracing for impact here. So, the economy
+ 
+
+965
+00:17:08,319 --> 00:17:09,829
+bracing for impact here. So, the economy
+is weakening. Cuz like I mentioned,
+
+966
+00:17:09,829 --> 00:17:09,839
+is weakening. Cuz like I mentioned,
+ 
+
+967
+00:17:09,839 --> 00:17:11,590
+is weakening. Cuz like I mentioned,
+right? White-collar workers, while
+
+968
+00:17:11,590 --> 00:17:11,600
+right? White-collar workers, while
+ 
+
+969
+00:17:11,600 --> 00:17:13,790
+right? White-collar workers, while
+they're about 15% of jobs, they make up
+
+970
+00:17:13,790 --> 00:17:13,800
+they're about 15% of jobs, they make up
+ 
+
+971
+00:17:13,800 --> 00:17:17,110
+they're about 15% of jobs, they make up
+60% of the discretionary spend. This is
+
+972
+00:17:17,110 --> 00:17:17,120
+60% of the discretionary spend. This is
+ 
+
+973
+00:17:17,120 --> 00:17:18,710
+60% of the discretionary spend. This is
+where it gets interesting. Because
+
+974
+00:17:18,710 --> 00:17:18,720
+where it gets interesting. Because
+ 
+
+975
+00:17:18,720 --> 00:17:20,670
+where it gets interesting. Because
+there's less discretionary spend going
+
+976
+00:17:20,670 --> 00:17:20,680
+there's less discretionary spend going
+ 
+
+977
+00:17:20,680 --> 00:17:23,670
+there's less discretionary spend going
+on, the companies, right, start to feel
+
+978
+00:17:23,670 --> 00:17:23,680
+on, the companies, right, start to feel
+ 
+
+979
+00:17:23,680 --> 00:17:25,390
+on, the companies, right, start to feel
+it even harder because there's less
+
+980
+00:17:25,390 --> 00:17:25,400
+it even harder because there's less
+ 
+
+981
+00:17:25,400 --> 00:17:27,390
+it even harder because there's less
+people spending money with them. In an
+
+982
+00:17:27,390 --> 00:17:27,400
+people spending money with them. In an
+ 
+
+983
+00:17:27,400 --> 00:17:29,190
+people spending money with them. In an
+effort to go and increase their profit
+
+984
+00:17:29,190 --> 00:17:29,200
+effort to go and increase their profit
+ 
+
+985
+00:17:29,200 --> 00:17:31,790
+effort to go and increase their profit
+margins, they cut more people and invest
+
+986
+00:17:31,790 --> 00:17:31,800
+margins, they cut more people and invest
+ 
+
+987
+00:17:31,800 --> 00:17:34,750
+margins, they cut more people and invest
+further in AI. And AI investment
+
+988
+00:17:34,750 --> 00:17:34,760
+further in AI. And AI investment
+ 
+
+989
+00:17:34,760 --> 00:17:37,470
+further in AI. And AI investment
+increases, right, as AI capability
+
+990
+00:17:37,470 --> 00:17:37,480
+increases, right, as AI capability
+ 
+
+991
+00:17:37,480 --> 00:17:40,550
+increases, right, as AI capability
+increases, and more workers are laid
+
+992
+00:17:40,550 --> 00:17:40,560
+increases, and more workers are laid
+ 
+
+993
+00:17:40,560 --> 00:17:43,950
+increases, and more workers are laid
+off, which keeps this economic feedback
+
+994
+00:17:43,950 --> 00:17:43,960
+off, which keeps this economic feedback
+ 
+
+995
+00:17:43,960 --> 00:17:46,190
+off, which keeps this economic feedback
+loop going, right? And there's no
+
+996
+00:17:46,190 --> 00:17:46,200
+loop going, right? And there's no
+ 
+
+997
+00:17:46,200 --> 00:17:48,390
+loop going, right? And there's no
+natural break here. More and more of
+
+998
+00:17:48,390 --> 00:17:48,400
+natural break here. More and more of
+ 
+
+999
+00:17:48,400 --> 00:17:50,590
+natural break here. More and more of
+these businesses, they're too late to go
+
+1000
+00:17:50,590 --> 00:17:50,600
+these businesses, they're too late to go
+ 
+
+1001
+00:17:50,600 --> 00:17:53,350
+these businesses, they're too late to go
+adopt these technologies, too late to go
+
+1002
+00:17:53,350 --> 00:17:53,360
+adopt these technologies, too late to go
+ 
+
+1003
+00:17:53,360 --> 00:17:55,870
+adopt these technologies, too late to go
+and become agentic, right, to become
+
+1004
+00:17:55,870 --> 00:17:55,880
+and become agentic, right, to become
+ 
+
+1005
+00:17:55,880 --> 00:17:58,470
+and become agentic, right, to become
+AI-native. They just get left behind.
+
+1006
+00:17:58,470 --> 00:17:58,480
+AI-native. They just get left behind.
+ 
+
+1007
+00:17:58,480 --> 00:17:59,670
+AI-native. They just get left behind.
+And I think that's probably even a lot
+
+1008
+00:17:59,670 --> 00:17:59,680
+And I think that's probably even a lot
+ 
+
+1009
+00:17:59,680 --> 00:18:01,510
+And I think that's probably even a lot
+of you watching this, right? When I talk
+
+1010
+00:18:01,510 --> 00:18:01,520
+of you watching this, right? When I talk
+ 
+
+1011
+00:18:01,520 --> 00:18:02,950
+of you watching this, right? When I talk
+to a lot of founders out there, I'm
+
+1012
+00:18:02,950 --> 00:18:02,960
+to a lot of founders out there, I'm
+ 
+
+1013
+00:18:02,960 --> 00:18:05,070
+to a lot of founders out there, I'm
+like, "Okay, so are you on Cloud Code?
+
+1014
+00:18:05,070 --> 00:18:05,080
+like, "Okay, so are you on Cloud Code?
+ 
+
+1015
+00:18:05,080 --> 00:18:06,990
+like, "Okay, so are you on Cloud Code?
+Have you gone and been able to automate
+
+1016
+00:18:06,990 --> 00:18:07,000
+Have you gone and been able to automate
+ 
+
+1017
+00:18:07,000 --> 00:18:08,390
+Have you gone and been able to automate
+a job or two of the last month?" They're
+
+1018
+00:18:08,390 --> 00:18:08,400
+a job or two of the last month?" They're
+ 
+
+1019
+00:18:08,400 --> 00:18:09,390
+a job or two of the last month?" They're
+like,
+
+1020
+00:18:09,390 --> 00:18:09,400
+like,
+ 
+
+1021
+00:18:09,400 --> 00:18:11,390
+like,
+"I have no idea what Cloud Code is." I'm
+
+1022
+00:18:11,390 --> 00:18:11,400
+"I have no idea what Cloud Code is." I'm
+ 
+
+1023
+00:18:11,400 --> 00:18:12,630
+"I have no idea what Cloud Code is." I'm
+like, "All right. How do you think about
+
+1024
+00:18:12,630 --> 00:18:12,640
+like, "All right. How do you think about
+ 
+
+1025
+00:18:12,640 --> 00:18:14,030
+like, "All right. How do you think about
+workflows in your company? Do you have
+
+1026
+00:18:14,030 --> 00:18:14,040
+workflows in your company? Do you have
+ 
+
+1027
+00:18:14,040 --> 00:18:15,670
+workflows in your company? Do you have
+those documented? And which ones are you
+
+1028
+00:18:15,670 --> 00:18:15,680
+those documented? And which ones are you
+ 
+
+1029
+00:18:15,680 --> 00:18:16,950
+those documented? And which ones are you
+thinking about going and automating
+
+1030
+00:18:16,950 --> 00:18:16,960
+thinking about going and automating
+ 
+
+1031
+00:18:16,960 --> 00:18:18,550
+thinking about going and automating
+first?" "Oh, you know, my company's a
+
+1032
+00:18:18,550 --> 00:18:18,560
+first?" "Oh, you know, my company's a
+ 
+
+1033
+00:18:18,560 --> 00:18:20,870
+first?" "Oh, you know, my company's a
+mess right now, man." All right. I think
+
+1034
+00:18:20,870 --> 00:18:20,880
+mess right now, man." All right. I think
+ 
+
+1035
+00:18:20,880 --> 00:18:22,190
+mess right now, man." All right. I think
+there's a point in time, right, where
+
+1036
+00:18:22,190 --> 00:18:22,200
+there's a point in time, right, where
+ 
+
+1037
+00:18:22,200 --> 00:18:23,670
+there's a point in time, right, where
+it's not just a nice-to-have to have
+
+1038
+00:18:23,670 --> 00:18:23,680
+it's not just a nice-to-have to have
+ 
+
+1039
+00:18:23,680 --> 00:18:25,310
+it's not just a nice-to-have to have
+your company systematized and automated,
+
+1040
+00:18:25,310 --> 00:18:25,320
+your company systematized and automated,
+ 
+
+1041
+00:18:25,320 --> 00:18:27,310
+your company systematized and automated,
+right? I think now we live in a point
+
+1042
+00:18:27,310 --> 00:18:27,320
+right? I think now we live in a point
+ 
+
+1043
+00:18:27,320 --> 00:18:29,550
+right? I think now we live in a point
+where the market is dictating to every
+
+1044
+00:18:29,550 --> 00:18:29,560
+where the market is dictating to every
+ 
+
+1045
+00:18:29,560 --> 00:18:34,310
+where the market is dictating to every
+founder that you get on this now. Our
+
+1046
+00:18:34,310 --> 00:18:34,320
+founder that you get on this now. Our
+ 
+
+1047
+00:18:34,320 --> 00:18:35,950
+founder that you get on this now. Our
+really why I'm even making this video is
+
+1048
+00:18:35,950 --> 00:18:35,960
+really why I'm even making this video is
+ 
+
+1049
+00:18:35,960 --> 00:18:37,630
+really why I'm even making this video is
+because I really just want you guys to
+
+1050
+00:18:37,630 --> 00:18:37,640
+because I really just want you guys to
+ 
+
+1051
+00:18:37,640 --> 00:18:39,070
+because I really just want you guys to
+go and check out this article. And I
+
+1052
+00:18:39,070 --> 00:18:39,080
+go and check out this article. And I
+ 
+
+1053
+00:18:39,080 --> 00:18:40,310
+go and check out this article. And I
+want you to go and just prepare your
+
+1054
+00:18:40,310 --> 00:18:40,320
+want you to go and just prepare your
+ 
+
+1055
+00:18:40,320 --> 00:18:42,950
+want you to go and just prepare your
+mindset for what if 2028 looked even
+
+1056
+00:18:42,950 --> 00:18:42,960
+mindset for what if 2028 looked even
+ 
+
+1057
+00:18:42,960 --> 00:18:44,790
+mindset for what if 2028 looked even
+remotely like this, right? Are you
+
+1058
+00:18:44,790 --> 00:18:44,800
+remotely like this, right? Are you
+ 
+
+1059
+00:18:44,800 --> 00:18:46,910
+remotely like this, right? Are you
+prepared right now? Do you feel like,
+
+1060
+00:18:46,910 --> 00:18:46,920
+prepared right now? Do you feel like,
+ 
+
+1061
+00:18:46,920 --> 00:18:48,230
+prepared right now? Do you feel like,
+you know, you have your systematized
+
+1062
+00:18:48,230 --> 00:18:48,240
+you know, you have your systematized
+ 
+
+1063
+00:18:48,240 --> 00:18:50,070
+you know, you have your systematized
+empire built? Do you feel like you have
+
+1064
+00:18:50,070 --> 00:18:50,080
+empire built? Do you feel like you have
+ 
+
+1065
+00:18:50,080 --> 00:18:51,550
+empire built? Do you feel like you have
+automations across your company for
+
+1066
+00:18:51,550 --> 00:18:51,560
+automations across your company for
+ 
+
+1067
+00:18:51,560 --> 00:18:53,550
+automations across your company for
+things that you don't need humans for?
+
+1068
+00:18:53,550 --> 00:18:53,560
+things that you don't need humans for?
+ 
+
+1069
+00:18:53,560 --> 00:18:55,550
+things that you don't need humans for?
+Do you feel like your team is being
+
+1070
+00:18:55,550 --> 00:18:55,560
+Do you feel like your team is being
+ 
+
+1071
+00:18:55,560 --> 00:18:58,070
+Do you feel like your team is being
+AI-native? Are you as a founder going
+
+1072
+00:18:58,070 --> 00:18:58,080
+AI-native? Are you as a founder going
+ 
+
+1073
+00:18:58,080 --> 00:18:59,830
+AI-native? Are you as a founder going
+and helping your team adopt these
+
+1074
+00:18:59,830 --> 00:18:59,840
+and helping your team adopt these
+ 
+
+1075
+00:18:59,840 --> 00:19:01,470
+and helping your team adopt these
+skills? This is one of the parts that I
+
+1076
+00:19:01,470 --> 00:19:01,480
+skills? This is one of the parts that I
+ 
+
+1077
+00:19:01,480 --> 00:19:03,910
+skills? This is one of the parts that I
+think really is important for you guys
+
+1078
+00:19:03,910 --> 00:19:03,920
+think really is important for you guys
+ 
+
+1079
+00:19:03,920 --> 00:19:05,230
+think really is important for you guys
+to listen up. Here it gets into the
+
+1080
+00:19:05,230 --> 00:19:05,240
+to listen up. Here it gets into the
+ 
+
+1081
+00:19:05,240 --> 00:19:07,390
+to listen up. Here it gets into the
+intelligence premium unwind. You know,
+
+1082
+00:19:07,390 --> 00:19:07,400
+intelligence premium unwind. You know,
+ 
+
+1083
+00:19:07,400 --> 00:19:09,510
+intelligence premium unwind. You know,
+forever, human intelligence, right, has
+
+1084
+00:19:09,510 --> 00:19:09,520
+forever, human intelligence, right, has
+ 
+
+1085
+00:19:09,520 --> 00:19:11,630
+forever, human intelligence, right, has
+been scarce, but now in this new AI age,
+
+1086
+00:19:11,630 --> 00:19:11,640
+been scarce, but now in this new AI age,
+ 
+
+1087
+00:19:11,640 --> 00:19:12,910
+been scarce, but now in this new AI age,
+it's everywhere. And so then the
+
+1088
+00:19:12,910 --> 00:19:12,920
+it's everywhere. And so then the
+ 
+
+1089
+00:19:12,920 --> 00:19:15,270
+it's everywhere. And so then the
+question is, what is defensible in your
+
+1090
+00:19:15,270 --> 00:19:15,280
+question is, what is defensible in your
+ 
+
+1091
+00:19:15,280 --> 00:19:17,550
+question is, what is defensible in your
+business? First things first, right?
+
+1092
+00:19:17,550 --> 00:19:17,560
+business? First things first, right?
+ 
+
+1093
+00:19:17,560 --> 00:19:19,750
+business? First things first, right?
+Your distribution, right? When you have
+
+1094
+00:19:19,750 --> 00:19:19,760
+Your distribution, right? When you have
+ 
+
+1095
+00:19:19,760 --> 00:19:20,990
+Your distribution, right? When you have
+a personal brand, when you have a
+
+1096
+00:19:20,990 --> 00:19:21,000
+a personal brand, when you have a
+ 
+
+1097
+00:19:21,000 --> 00:19:22,590
+a personal brand, when you have a
+content machine, when you have a social
+
+1098
+00:19:22,590 --> 00:19:22,600
+content machine, when you have a social
+ 
+
+1099
+00:19:22,600 --> 00:19:24,510
+content machine, when you have a social
+media sheet machine around you, you're
+
+1100
+00:19:24,510 --> 00:19:24,520
+media sheet machine around you, you're
+ 
+
+1101
+00:19:24,520 --> 00:19:27,390
+media sheet machine around you, you're
+able to go and own your distribution.
+
+1102
+00:19:27,390 --> 00:19:27,400
+able to go and own your distribution.
+ 
+
+1103
+00:19:27,400 --> 00:19:30,110
+able to go and own your distribution.
+And that data is more important than
+
+1104
+00:19:30,110 --> 00:19:30,120
+And that data is more important than
+ 
+
+1105
+00:19:30,120 --> 00:19:32,150
+And that data is more important than
+ever, right? Because as, you know,
+
+1106
+00:19:32,150 --> 00:19:32,160
+ever, right? Because as, you know,
+ 
+
+1107
+00:19:32,160 --> 00:19:33,950
+ever, right? Because as, you know,
+people are able to go and replicate your
+
+1108
+00:19:33,950 --> 00:19:33,960
+people are able to go and replicate your
+ 
+
+1109
+00:19:33,960 --> 00:19:35,670
+people are able to go and replicate your
+website, replicate your product,
+
+1110
+00:19:35,670 --> 00:19:35,680
+website, replicate your product,
+ 
+
+1111
+00:19:35,680 --> 00:19:37,550
+website, replicate your product,
+replicate your service, they can't
+
+1112
+00:19:37,550 --> 00:19:37,560
+replicate your service, they can't
+ 
+
+1113
+00:19:37,560 --> 00:19:39,350
+replicate your service, they can't
+replicate you, right? They can't
+
+1114
+00:19:39,350 --> 00:19:39,360
+replicate you, right? They can't
+ 
+
+1115
+00:19:39,360 --> 00:19:41,670
+replicate you, right? They can't
+replicate your distribution. It's that
+
+1116
+00:19:41,670 --> 00:19:41,680
+replicate your distribution. It's that
+ 
+
+1117
+00:19:41,680 --> 00:19:43,950
+replicate your distribution. It's that
+distribution, right? That trust, that
+
+1118
+00:19:43,950 --> 00:19:43,960
+distribution, right? That trust, that
+ 
+
+1119
+00:19:43,960 --> 00:19:46,950
+distribution, right? That trust, that
+brand that is insanely defensible, which
+
+1120
+00:19:46,950 --> 00:19:46,960
+brand that is insanely defensible, which
+ 
+
+1121
+00:19:46,960 --> 00:19:48,790
+brand that is insanely defensible, which
+is really the reason why you need to be
+
+1122
+00:19:48,790 --> 00:19:48,800
+is really the reason why you need to be
+ 
+
+1123
+00:19:48,800 --> 00:19:51,510
+is really the reason why you need to be
+going and building your brand now.
+
+1124
+00:19:51,510 --> 00:19:51,520
+going and building your brand now.
+ 
+
+1125
+00:19:51,520 --> 00:19:52,870
+going and building your brand now.
+Here's the thing, you're not reading
+
+1126
+00:19:52,870 --> 00:19:52,880
+Here's the thing, you're not reading
+ 
+
+1127
+00:19:52,880 --> 00:19:55,670
+Here's the thing, you're not reading
+this in June of 2028, right? You're
+
+1128
+00:19:55,670 --> 00:19:55,680
+this in June of 2028, right? You're
+ 
+
+1129
+00:19:55,680 --> 00:19:57,310
+this in June of 2028, right? You're
+likely reading this and seeing this
+
+1130
+00:19:57,310 --> 00:19:57,320
+likely reading this and seeing this
+ 
+
+1131
+00:19:57,320 --> 00:20:00,430
+likely reading this and seeing this
+right here, it's around April 2026. The
+
+1132
+00:20:00,430 --> 00:20:00,440
+right here, it's around April 2026. The
+ 
+
+1133
+00:20:00,440 --> 00:20:02,590
+right here, it's around April 2026. The
+S&P right now ripping, the negative
+
+1134
+00:20:02,590 --> 00:20:02,600
+S&P right now ripping, the negative
+ 
+
+1135
+00:20:02,600 --> 00:20:04,870
+S&P right now ripping, the negative
+feedback loops here have not begun. And
+
+1136
+00:20:04,870 --> 00:20:04,880
+feedback loops here have not begun. And
+ 
+
+1137
+00:20:04,880 --> 00:20:06,510
+feedback loops here have not begun. And
+so what I'm encouraging you guys to do
+
+1138
+00:20:06,510 --> 00:20:06,520
+so what I'm encouraging you guys to do
+ 
+
+1139
+00:20:06,520 --> 00:20:08,550
+so what I'm encouraging you guys to do
+if you're watching this is to go and
+
+1140
+00:20:08,550 --> 00:20:08,560
+if you're watching this is to go and
+ 
+
+1141
+00:20:08,560 --> 00:20:12,310
+if you're watching this is to go and
+disrupt your own business now. What
+
+1142
+00:20:12,310 --> 00:20:12,320
+disrupt your own business now. What
+ 
+
+1143
+00:20:12,320 --> 00:20:15,190
+disrupt your own business now. What
+aspects can you automate now? What roles
+
+1144
+00:20:15,190 --> 00:20:15,200
+aspects can you automate now? What roles
+ 
+
+1145
+00:20:15,200 --> 00:20:17,630
+aspects can you automate now? What roles
+in your company are no longer needed?
+
+1146
+00:20:17,630 --> 00:20:17,640
+in your company are no longer needed?
+ 
+
+1147
+00:20:17,640 --> 00:20:18,910
+in your company are no longer needed?
+What are things you could do to
+
+1148
+00:20:18,910 --> 00:20:18,920
+What are things you could do to
+ 
+
+1149
+00:20:18,920 --> 00:20:21,350
+What are things you could do to
+simplify, to delete, and then to
+
+1150
+00:20:21,350 --> 00:20:21,360
+simplify, to delete, and then to
+ 
+
+1151
+00:20:21,360 --> 00:20:23,150
+simplify, to delete, and then to
+automate? We're still early, but the
+
+1152
+00:20:23,150 --> 00:20:23,160
+automate? We're still early, but the
+ 
+
+1153
+00:20:23,160 --> 00:20:25,390
+automate? We're still early, but the
+window is gradually shrinking. And the
+
+1154
+00:20:25,390 --> 00:20:25,400
+window is gradually shrinking. And the
+ 
+
+1155
+00:20:25,400 --> 00:20:26,910
+window is gradually shrinking. And the
+only question I think that matters for
+
+1156
+00:20:26,910 --> 00:20:26,920
+only question I think that matters for
+ 
+
+1157
+00:20:26,920 --> 00:20:30,550
+only question I think that matters for
+founders right now is, how are you going
+
+1158
+00:20:30,550 --> 00:20:30,560
+founders right now is, how are you going
+ 
+
+1159
+00:20:30,560 --> 00:20:33,470
+founders right now is, how are you going
+to go and compete in 2028? All right, so
+
+1160
+00:20:33,470 --> 00:20:33,480
+to go and compete in 2028? All right, so
+ 
+
+1161
+00:20:33,480 --> 00:20:35,550
+to go and compete in 2028? All right, so
+I'm going to be bringing together 20
+
+1162
+00:20:35,550 --> 00:20:35,560
+I'm going to be bringing together 20
+ 
+
+1163
+00:20:35,560 --> 00:20:39,310
+I'm going to be bringing together 20
+unbelievable founders in Bali for 2 days
+
+1164
+00:20:39,310 --> 00:20:39,320
+unbelievable founders in Bali for 2 days
+ 
+
+1165
+00:20:39,320 --> 00:20:42,110
+unbelievable founders in Bali for 2 days
+to go and figure this all out together.
+
+1166
+00:20:42,110 --> 00:20:42,120
+to go and figure this all out together.
+ 
+
+1167
+00:20:42,120 --> 00:20:44,110
+to go and figure this all out together.
+We're going to be going and automating
+
+1168
+00:20:44,110 --> 00:20:44,120
+We're going to be going and automating
+ 
+
+1169
+00:20:44,120 --> 00:20:45,670
+We're going to be going and automating
+different aspects of our businesses. I'm
+
+1170
+00:20:45,670 --> 00:20:45,680
+different aspects of our businesses. I'm
+ 
+
+1171
+00:20:45,680 --> 00:20:46,950
+different aspects of our businesses. I'm
+going to be going and showing you guys
+
+1172
+00:20:46,950 --> 00:20:46,960
+going to be going and showing you guys
+ 
+
+1173
+00:20:46,960 --> 00:20:49,190
+going to be going and showing you guys
+how I'm currently leveraging Claude code
+
+1174
+00:20:49,190 --> 00:20:49,200
+how I'm currently leveraging Claude code
+ 
+
+1175
+00:20:49,200 --> 00:20:51,350
+how I'm currently leveraging Claude code
+to automate different roles, to go and
+
+1176
+00:20:51,350 --> 00:20:51,360
+to automate different roles, to go and
+ 
+
+1177
+00:20:51,360 --> 00:20:53,870
+to automate different roles, to go and
+increase my margin, to go and drive more
+
+1178
+00:20:53,870 --> 00:20:53,880
+increase my margin, to go and drive more
+ 
+
+1179
+00:20:53,880 --> 00:20:56,470
+increase my margin, to go and drive more
+leads to my business, and to go and
+
+1180
+00:20:56,470 --> 00:20:56,480
+leads to my business, and to go and
+ 
+
+1181
+00:20:56,480 --> 00:20:58,830
+leads to my business, and to go and
+really just compete over the next 2
+
+1182
+00:20:58,830 --> 00:20:58,840
+really just compete over the next 2
+ 
+
+1183
+00:20:58,840 --> 00:20:59,870
+really just compete over the next 2
+years. For those of you that are
+
+1184
+00:20:59,870 --> 00:20:59,880
+years. For those of you that are
+ 
+
+1185
+00:20:59,880 --> 00:21:01,470
+years. For those of you that are
+interested, definitely go and check it
+
+1186
+00:21:01,470 --> 00:21:01,480
+interested, definitely go and check it
+ 
+
+1187
+00:21:01,480 --> 00:21:03,310
+interested, definitely go and check it
+out via the link in the description. I'd
+
+1188
+00:21:03,310 --> 00:21:03,320
+out via the link in the description. I'd
+ 
+
+1189
+00:21:03,320 --> 00:21:04,990
+out via the link in the description. I'd
+love to see you there. It's an awesome
+
+1190
+00:21:04,990 --> 00:21:05,000
+love to see you there. It's an awesome
+ 
+
+1191
+00:21:05,000 --> 00:21:07,870
+love to see you there. It's an awesome
+chance for you to go and join me and
+
+1192
+00:21:07,870 --> 00:21:07,880
+chance for you to go and join me and
+ 
+
+1193
+00:21:07,880 --> 00:21:09,950
+chance for you to go and join me and
+actually going and building formidable
+
+1194
+00:21:09,950 --> 00:21:09,960
+actually going and building formidable
+ 
+
+1195
+00:21:09,960 --> 00:21:13,950
+actually going and building formidable
+anti-fragile brand that is AI native and
+
+1196
+00:21:13,950 --> 00:21:13,960
+anti-fragile brand that is AI native and
+ 
+
+1197
+00:21:13,960 --> 00:21:16,270
+anti-fragile brand that is AI native and
+set to compete in 2028. I hope you
+
+1198
+00:21:16,270 --> 00:21:16,280
+set to compete in 2028. I hope you
+ 
+
+1199
+00:21:16,280 --> 00:21:17,750
+set to compete in 2028. I hope you
+enjoyed this and let's go take some
+
+1200
+00:21:17,750 --> 00:21:17,760
+enjoyed this and let's go take some
+ 
+
+1201
+00:21:17,760 --> 00:21:21,280
+enjoyed this and let's go take some
+action and I'll see you in the next one.
+

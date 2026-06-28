@@ -1,0 +1,25 @@
+{
+  "chat_language": "ru",
+  "name": "Brock Johnson",
+  "slug": "brock-johnson",
+  "name_variants": [
+    "Brock Johnson",
+    "Brock",
+    "@brock11johnson",
+    "BuildYourTribe co-host (Brock)"
+  ],
+  "channel": "https://www.youtube.com/@BuildYourTribePodcast",
+  "co_host": "Chalene Johnson (mother, co-founder of InstaClubHub)",
+  "coverage_gaps": [
+    "s228 (U6KX6l1OSV0): compilation reel — no subtitles/captions available. Skipped.",
+    "~75 sources processed with truncated transcripts (first 5000 chars only). Deep-dive into later sections of long-form content not captured.",
+    "Chalene Johnson solo episodes included in the 254-video filtered list — some EPs from her may reflect shared InstaClubHub framework rather than Brock's individual views. These are labeled with s090, s080 prefix backing.",
+    "Videos published after Jan 2026 (knowledge cutoff) not captured."
+  ],
+  "scope_note": "This clone covers Brock Johnson as host/co-host of Build Your Tribe podcast and solo content. It does NOT attempt to capture Chalene Johnson's distinct views except where they align with the shared InstaClubHub framework that Brock also endorses.",
+  "primary_domain": "Instagram growth, social media monetization, personal brand building",
+  "secondary_domains": ["YouTube channel growth", "TikTok strategy", "Email list building", "Sales funnels", "AI for content creation", "Entrepreneurship mindset"],
+  "built": "2026-06-26",
+  "ep_count": 155,
+  "source_count": 254
+}

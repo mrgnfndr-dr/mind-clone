@@ -1,0 +1,8 @@
+2|Five signs that 2026 is your year. Number one, you've stopped asking how do I feel and started asking what needs to get done. Stick to the plan, not your mood. Number two, you're more bored by your excuses than you are scared of your goals. And at some point, you've just
+13|got to go and take action. Let the action and compounding work its magic. Number three, you've done an icky guy to align your goals with your deeper purpose. You know, you want to look at
+23|the intersection of what you're great at, what the world needs, what you love to do, and what you can be paid for, right? The intersection of that is your calling in life. And when you go and work on stuff in there and maximize it,
+34|you're having fun every day and you're living in your calling. Number four, you've accepted that discomfort isn't a problem to solve. It's a tax you pay for a better life. The reality is is that building is
+44|hard, right? But you got to choose your heart at the end of the day. Choose the discomfort that you know you know you're not going to regret in 20 years. Number five, you're tracking numbers for health, money, and time
+55|instead of vanity metrics. It's not about how good you feel healthwise all the time. Go and get your blood work done on the money side, right? It's not just how you feel about your wealth,
+65|right? It's like, okay, are you actually putting some money aside? And on the time side, it means doing an actual time audit, right? And looking at what you need to automate, eliminate, and delegate, right? It's in the details and
+76|in the data that you can understand your progress.

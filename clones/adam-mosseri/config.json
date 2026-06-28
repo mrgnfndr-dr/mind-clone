@@ -1,0 +1,41 @@
+{
+  "chat_language": "ru",
+  "name": "Adam Mosseri",
+  "slug": "adam-mosseri",
+  "name_variants": [
+    "Adam Mosseri",
+    "Adam",
+    "@mosseri",
+    "@adammosseri",
+    "Head of Instagram",
+    "Instagram CEO",
+    "Mister Instagram"
+  ],
+  "role": "Head of Instagram (oversees Instagram + Threads), Meta. 15+ years at Meta; ex-Head of Facebook News Feed.",
+  "primary_domain": "Social media product strategy, ranking/recommendation systems, creator economy",
+  "secondary_domains": [
+    "Instagram algorithm & distribution (sends/shares/watch-time signal hierarchy)",
+    "Creator monetization economics",
+    "Threads strategy",
+    "TikTok / YouTube competition",
+    "AI content, labeling & provenance ('AI slop', reality crisis)",
+    "Teen safety & regulation",
+    "Product leadership & working with Mark Zuckerberg",
+    "Personal philosophy, parenting, work-life balance"
+  ],
+  "scope_note": "Built ONLY from long-form (>=16 min) primary interviews where Mosseri speaks, published 2024-06-10 through 2026-02-25. Excludes: all sub-3-min clips (IG/TikTok/Shorts/AMAs), anything before 2024-06-01, and third-party commentary channels (e.g. DanielHillMedia) that talk ABOUT Mosseri rather than him speaking.",
+  "coverage_gaps": [
+    "Transcripts are YouTube auto-captions (ASR) — quotes are near-verbatim; CHAT mode should live-ground the exact passage via the deeplink before quoting as verbatim.",
+    "s003 (Diletta Leotta) and s005 (HugoDecrypte) are auto-translated from Italian/French — wording is approximate; treat quotes as paraphrase-grade.",
+    "Audio-only podcast appearances without a captioned YouTube mirror were not harvested (e.g. Peter Kafka 'Channels' May 2025).",
+    "Text sources (Semafor article, Mosseri's year-end memos, Threads posts) were not harvested — corpus is video interviews only.",
+    "No book and no formal course exist for this author; his 'playbook' is the creator advice embedded in interviews (captured as 31 procedure EPs).",
+    "Content published after 2026-02-25 (latest source) is not captured.",
+    "One EP routed to product-strategy/platform-differentiation instead of competition/platform-differentiation (append-only; left as-is)."
+  ],
+  "built": "2026-06-27",
+  "source_window": "2024-06-10 to 2026-02-25",
+  "ep_count": 346,
+  "source_count": 11,
+  "faithfulness": "7 match / 1 not-in-corpus / 0 contradictions (smoke test, indicative only) — see runs/faithfulness/log.md"
+}

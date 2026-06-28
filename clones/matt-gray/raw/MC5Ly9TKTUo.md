@@ -1,0 +1,5 @@
+1|I learned something recently and it's changing everything in the way I do goal setting if you're looking to achieve something amazing in 2025 this is for you it's called anti-g goals the problem most people have with setting goals is focusing only on the outcome you create
+12|a road map to get there but then you face huge challenges along the way you get burned out you don't have enough energy you get distracted here's where anti-g goals come in anti-g goals are the things you don't want to happen as
+23|you chase your dreams here's an example I have some huge goals planned for 2025 I want to hit a million dollar a monthly cash flow for my online Community founder OS I want to grow my audience to 10 million I want to help a, Founders
+34|hit a million dollars in Revenue by using proven systems but I don't want this to take over my life that's where my anti goals for 2025 are no meetings before noon no meetings longer than 30
+45|minutes no more accepting negative people around me my anti goals are almost as important as the first set of goals and they help me not only stay motivated but never let success become a source of stress and anxiety in my life

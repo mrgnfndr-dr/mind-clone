@@ -1,0 +1,5 @@
+{"cmd": "intent", "text": "Should I use hashtags to grow my Instagram reach?"}
+{"cmd": "select", "source": "s017", "vectors": ["hashtags"]}
+{"cmd": "select", "source": "s042", "vectors": ["hashtags"]}
+{"cmd": "select", "source": "s115", "vectors": ["algorithm"]}
+{"cmd": "compile", "eps": 3}

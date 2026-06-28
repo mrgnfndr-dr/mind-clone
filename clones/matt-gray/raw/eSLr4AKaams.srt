@@ -1,0 +1,435 @@
+1
+00:00:00,000 --> 00:00:01,670
+ 
+So, this is Poppy AI, and what I'm going
+
+2
+00:00:01,670 --> 00:00:01,680
+So, this is Poppy AI, and what I'm going
+ 
+
+3
+00:00:01,680 --> 00:00:03,510
+So, this is Poppy AI, and what I'm going
+to show you here is how I quickly come
+
+4
+00:00:03,510 --> 00:00:03,520
+to show you here is how I quickly come
+ 
+
+5
+00:00:03,520 --> 00:00:05,830
+to show you here is how I quickly come
+up with new titles for an upcoming
+
+6
+00:00:05,830 --> 00:00:05,840
+up with new titles for an upcoming
+ 
+
+7
+00:00:05,840 --> 00:00:07,630
+up with new titles for an upcoming
+YouTube video and help me get into that
+
+8
+00:00:07,630 --> 00:00:07,640
+YouTube video and help me get into that
+ 
+
+9
+00:00:07,640 --> 00:00:09,110
+YouTube video and help me get into that
+brainstorming mode. So, what we're going
+
+10
+00:00:09,110 --> 00:00:09,120
+brainstorming mode. So, what we're going
+ 
+
+11
+00:00:09,120 --> 00:00:11,750
+brainstorming mode. So, what we're going
+to go do is we're going to go to my
+
+12
+00:00:11,750 --> 00:00:11,760
+to go do is we're going to go to my
+ 
+
+13
+00:00:11,760 --> 00:00:13,590
+to go do is we're going to go to my
+YouTube channel. And so, we'll pull that
+
+14
+00:00:13,590 --> 00:00:13,600
+YouTube channel. And so, we'll pull that
+ 
+
+15
+00:00:13,600 --> 00:00:15,230
+YouTube channel. And so, we'll pull that
+up. Now, the cool thing is I can go and
+
+16
+00:00:15,230 --> 00:00:15,240
+up. Now, the cool thing is I can go and
+ 
+
+17
+00:00:15,240 --> 00:00:18,630
+up. Now, the cool thing is I can go and
+copy this link. I can paste it into
+
+18
+00:00:18,630 --> 00:00:18,640
+copy this link. I can paste it into
+ 
+
+19
+00:00:18,640 --> 00:00:20,830
+copy this link. I can paste it into
+Poppy AI. Okay, so here it is. It's
+
+20
+00:00:20,830 --> 00:00:20,840
+Poppy AI. Okay, so here it is. It's
+ 
+
+21
+00:00:20,840 --> 00:00:22,110
+Poppy AI. Okay, so here it is. It's
+pasting it. Now, it's going and
+
+22
+00:00:22,110 --> 00:00:22,120
+pasting it. Now, it's going and
+ 
+
+23
+00:00:22,120 --> 00:00:23,550
+pasting it. Now, it's going and
+synthesizing all the titles and
+
+24
+00:00:23,550 --> 00:00:23,560
+synthesizing all the titles and
+ 
+
+25
+00:00:23,560 --> 00:00:25,230
+synthesizing all the titles and
+everything that exists on my YouTube
+
+26
+00:00:25,230 --> 00:00:25,240
+everything that exists on my YouTube
+ 
+
+27
+00:00:25,240 --> 00:00:27,150
+everything that exists on my YouTube
+page. I can then go and hook up a
+
+28
+00:00:27,150 --> 00:00:27,160
+page. I can then go and hook up a
+ 
+
+29
+00:00:27,160 --> 00:00:30,110
+page. I can then go and hook up a
+YouTube chat window here. So, this AI
+
+30
+00:00:30,110 --> 00:00:30,120
+YouTube chat window here. So, this AI
+ 
+
+31
+00:00:30,120 --> 00:00:32,470
+YouTube chat window here. So, this AI
+chat, I can connect it to my YouTube
+
+32
+00:00:32,470 --> 00:00:32,480
+chat, I can connect it to my YouTube
+ 
+
+33
+00:00:32,480 --> 00:00:33,950
+chat, I can connect it to my YouTube
+channel. Here you can see it's
+
+34
+00:00:33,950 --> 00:00:33,960
+channel. Here you can see it's
+ 
+
+35
+00:00:33,960 --> 00:00:35,470
+channel. Here you can see it's
+synthesizing all of the different
+
+36
+00:00:35,470 --> 00:00:35,480
+synthesizing all of the different
+ 
+
+37
+00:00:35,480 --> 00:00:38,150
+synthesizing all of the different
+titles, the YouTube videos that I have,
+
+38
+00:00:38,150 --> 00:00:38,160
+titles, the YouTube videos that I have,
+ 
+
+39
+00:00:38,160 --> 00:00:40,710
+titles, the YouTube videos that I have,
+and now it's connected to on this AI
+
+40
+00:00:40,710 --> 00:00:40,720
+and now it's connected to on this AI
+ 
+
+41
+00:00:40,720 --> 00:00:42,870
+and now it's connected to on this AI
+chat, which is hooked up to Claude 4
+
+42
+00:00:42,870 --> 00:00:42,880
+chat, which is hooked up to Claude 4
+ 
+
+43
+00:00:42,880 --> 00:00:44,550
+chat, which is hooked up to Claude 4
+Sonnet. So, there we go. We've got my
+
+44
+00:00:44,550 --> 00:00:44,560
+Sonnet. So, there we go. We've got my
+ 
+
+45
+00:00:44,560 --> 00:00:46,830
+Sonnet. So, there we go. We've got my
+channel, and now we've got this. So,
+
+46
+00:00:46,830 --> 00:00:46,840
+channel, and now we've got this. So,
+ 
+
+47
+00:00:46,840 --> 00:00:47,910
+channel, and now we've got this. So,
+what I'm going to go and do is I'm just
+
+48
+00:00:47,910 --> 00:00:47,920
+what I'm going to go and do is I'm just
+ 
+
+49
+00:00:47,920 --> 00:00:49,510
+what I'm going to go and do is I'm just
+going to put, all right, let's see what
+
+50
+00:00:49,510 --> 00:00:49,520
+going to put, all right, let's see what
+ 
+
+51
+00:00:49,520 --> 00:00:51,070
+going to put, all right, let's see what
+it comes up with here. Now, it's going
+
+52
+00:00:51,070 --> 00:00:51,080
+it comes up with here. Now, it's going
+ 
+
+53
+00:00:51,080 --> 00:00:52,750
+it comes up with here. Now, it's going
+and analyzing my channel, and it's
+
+54
+00:00:52,750 --> 00:00:52,760
+and analyzing my channel, and it's
+ 
+
+55
+00:00:52,760 --> 00:00:56,230
+and analyzing my channel, and it's
+coming up with a bunch of different
+
+56
+00:00:56,230 --> 00:00:56,240
+coming up with a bunch of different
+ 
+
+57
+00:00:56,240 --> 00:00:58,070
+coming up with a bunch of different
+titles here. Okay? You know, as with
+
+58
+00:00:58,070 --> 00:00:58,080
+titles here. Okay? You know, as with
+ 
+
+59
+00:00:58,080 --> 00:00:59,630
+titles here. Okay? You know, as with
+anything with AI, right? You need to
+
+60
+00:00:59,630 --> 00:00:59,640
+anything with AI, right? You need to
+ 
+
+61
+00:00:59,640 --> 00:01:01,230
+anything with AI, right? You need to
+make sure that you're actually using
+
+62
+00:01:01,230 --> 00:01:01,240
+make sure that you're actually using
+ 
+
+63
+00:01:01,240 --> 00:01:03,710
+make sure that you're actually using
+your own human ingenuity here as well,
+
+64
+00:01:03,710 --> 00:01:03,720
+your own human ingenuity here as well,
+ 
+
+65
+00:01:03,720 --> 00:01:05,509
+your own human ingenuity here as well,
+right? We're not just taking anything as
+
+66
+00:01:05,509 --> 00:01:05,519
+right? We're not just taking anything as
+ 
+
+67
+00:01:05,519 --> 00:01:07,470
+right? We're not just taking anything as
+it is. We're always going and adding our
+
+68
+00:01:07,470 --> 00:01:07,480
+it is. We're always going and adding our
+ 
+
+69
+00:01:07,480 --> 00:01:09,430
+it is. We're always going and adding our
+own spark and creativity. What I see as
+
+70
+00:01:09,430 --> 00:01:09,440
+own spark and creativity. What I see as
+ 
+
+71
+00:01:09,440 --> 00:01:11,670
+own spark and creativity. What I see as
+like the future with AI is that creators
+
+72
+00:01:11,670 --> 00:01:11,680
+like the future with AI is that creators
+ 
+
+73
+00:01:11,680 --> 00:01:13,510
+like the future with AI is that creators
+go from always being the one that has to
+
+74
+00:01:13,510 --> 00:01:13,520
+go from always being the one that has to
+ 
+
+75
+00:01:13,520 --> 00:01:14,910
+go from always being the one that has to
+build things from the ground up to just
+
+76
+00:01:14,910 --> 00:01:14,920
+build things from the ground up to just
+ 
+
+77
+00:01:14,920 --> 00:01:16,630
+build things from the ground up to just
+having an assistant along the way with
+
+78
+00:01:16,630 --> 00:01:16,640
+having an assistant along the way with
+ 
+
+79
+00:01:16,640 --> 00:01:17,990
+having an assistant along the way with
+you. But, you still have to be that
+
+80
+00:01:17,990 --> 00:01:18,000
+you. But, you still have to be that
+ 
+
+81
+00:01:18,000 --> 00:01:19,910
+you. But, you still have to be that
+editor, that chief detail officer, that
+
+82
+00:01:19,910 --> 00:01:19,920
+editor, that chief detail officer, that
+ 
+
+83
+00:01:19,920 --> 00:01:21,550
+editor, that chief detail officer, that
+person that is looking at the details
+
+84
+00:01:21,550 --> 00:01:21,560
+person that is looking at the details
+ 
+
+85
+00:01:21,560 --> 00:01:22,470
+person that is looking at the details
+and making sure that, you know, the
+
+86
+00:01:22,470 --> 00:01:22,480
+and making sure that, you know, the
+ 
+
+87
+00:01:22,480 --> 00:01:25,920
+and making sure that, you know, the
+stuff is just right.
+

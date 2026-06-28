@@ -1,0 +1,525 @@
+1
+00:00:00,000 --> 00:00:01,910
+ 
+Now, as you can see, we have all of this
+
+2
+00:00:01,910 --> 00:00:01,920
+Now, as you can see, we have all of this
+ 
+
+3
+00:00:01,920 --> 00:00:03,550
+Now, as you can see, we have all of this
+all in here, right? We've got our title
+
+4
+00:00:03,550 --> 00:00:03,560
+all in here, right? We've got our title
+ 
+
+5
+00:00:03,560 --> 00:00:05,710
+all in here, right? We've got our title
+research, we've got thumbnail research,
+
+6
+00:00:05,710 --> 00:00:05,720
+research, we've got thumbnail research,
+ 
+
+7
+00:00:05,720 --> 00:00:07,870
+research, we've got thumbnail research,
+we've got intro research, we've got our
+
+8
+00:00:07,870 --> 00:00:07,880
+we've got intro research, we've got our
+ 
+
+9
+00:00:07,880 --> 00:00:10,790
+we've got intro research, we've got our
+script writing research all in here.
+
+10
+00:00:10,790 --> 00:00:10,800
+script writing research all in here.
+ 
+
+11
+00:00:10,800 --> 00:00:13,110
+script writing research all in here.
+It's like 40 plus videos including my
+
+12
+00:00:13,110 --> 00:00:13,120
+It's like 40 plus videos including my
+ 
+
+13
+00:00:13,120 --> 00:00:15,550
+It's like 40 plus videos including my
+popular videos all ripping ready to go.
+
+14
+00:00:15,550 --> 00:00:15,560
+popular videos all ripping ready to go.
+ 
+
+15
+00:00:15,560 --> 00:00:17,350
+popular videos all ripping ready to go.
+What I'm going to now go do is work some
+
+16
+00:00:17,350 --> 00:00:17,360
+What I'm going to now go do is work some
+ 
+
+17
+00:00:17,360 --> 00:00:19,230
+What I'm going to now go do is work some
+magic on this. We are going to go and
+
+18
+00:00:19,230 --> 00:00:19,240
+magic on this. We are going to go and
+ 
+
+19
+00:00:19,240 --> 00:00:21,950
+magic on this. We are going to go and
+put this in here, and this is an AI
+
+20
+00:00:21,950 --> 00:00:21,960
+put this in here, and this is an AI
+ 
+
+21
+00:00:21,960 --> 00:00:24,350
+put this in here, and this is an AI
+chat. So, you saw that in seconds, I can
+
+22
+00:00:24,350 --> 00:00:24,360
+chat. So, you saw that in seconds, I can
+ 
+
+23
+00:00:24,360 --> 00:00:27,070
+chat. So, you saw that in seconds, I can
+go and embed an AI chat into Poppy. In
+
+24
+00:00:27,070 --> 00:00:27,080
+go and embed an AI chat into Poppy. In
+ 
+
+25
+00:00:27,080 --> 00:00:29,430
+go and embed an AI chat into Poppy. In
+here, you can go and click on any tool
+
+26
+00:00:29,430 --> 00:00:29,440
+here, you can go and click on any tool
+ 
+
+27
+00:00:29,440 --> 00:00:30,910
+here, you can go and click on any tool
+you want to use inside of it, but I'm
+
+28
+00:00:30,910 --> 00:00:30,920
+you want to use inside of it, but I'm
+ 
+
+29
+00:00:30,920 --> 00:00:33,350
+you want to use inside of it, but I'm
+going to use Claude 4 Sonnet. I've gone
+
+30
+00:00:33,350 --> 00:00:33,360
+going to use Claude 4 Sonnet. I've gone
+ 
+
+31
+00:00:33,360 --> 00:00:35,670
+going to use Claude 4 Sonnet. I've gone
+and used that voice to go and now prompt
+
+32
+00:00:35,670 --> 00:00:35,680
+and used that voice to go and now prompt
+ 
+
+33
+00:00:35,680 --> 00:00:38,030
+and used that voice to go and now prompt
+it, and it's been fed all of my most
+
+34
+00:00:38,030 --> 00:00:38,040
+it, and it's been fed all of my most
+ 
+
+35
+00:00:38,040 --> 00:00:40,070
+it, and it's been fed all of my most
+popular YouTube videos, and so we'll
+
+36
+00:00:40,070 --> 00:00:40,080
+popular YouTube videos, and so we'll
+ 
+
+37
+00:00:40,080 --> 00:00:41,710
+popular YouTube videos, and so we'll
+give that a second. While we're waiting
+
+38
+00:00:41,710 --> 00:00:41,720
+give that a second. While we're waiting
+ 
+
+39
+00:00:41,720 --> 00:00:43,830
+give that a second. While we're waiting
+there, we can go and create this text
+
+40
+00:00:43,830 --> 00:00:43,840
+there, we can go and create this text
+ 
+
+41
+00:00:43,840 --> 00:00:45,510
+there, we can go and create this text
+field here. Now, it's gone and it's
+
+42
+00:00:45,510 --> 00:00:45,520
+field here. Now, it's gone and it's
+ 
+
+43
+00:00:45,520 --> 00:00:47,470
+field here. Now, it's gone and it's
+taken my entire voice here, and it's
+
+44
+00:00:47,470 --> 00:00:47,480
+taken my entire voice here, and it's
+ 
+
+45
+00:00:47,480 --> 00:00:49,110
+taken my entire voice here, and it's
+created a complete framework out of it.
+
+46
+00:00:49,110 --> 00:00:49,120
+created a complete framework out of it.
+ 
+
+47
+00:00:49,120 --> 00:00:50,710
+created a complete framework out of it.
+Based on analysis of your most popular
+
+48
+00:00:50,710 --> 00:00:50,720
+Based on analysis of your most popular
+ 
+
+49
+00:00:50,720 --> 00:00:52,350
+Based on analysis of your most popular
+YouTube videos, here's a comprehensive
+
+50
+00:00:52,350 --> 00:00:52,360
+YouTube videos, here's a comprehensive
+ 
+
+51
+00:00:52,360 --> 00:00:54,630
+YouTube videos, here's a comprehensive
+system to capture and replicate your
+
+52
+00:00:54,630 --> 00:00:54,640
+system to capture and replicate your
+ 
+
+53
+00:00:54,640 --> 00:00:56,190
+system to capture and replicate your
+unique voice and intellectual property.
+
+54
+00:00:56,190 --> 00:00:56,200
+unique voice and intellectual property.
+ 
+
+55
+00:00:56,200 --> 00:00:57,910
+unique voice and intellectual property.
+So, our core brand identity and mission,
+
+56
+00:00:57,910 --> 00:00:57,920
+So, our core brand identity and mission,
+ 
+
+57
+00:00:57,920 --> 00:00:59,230
+So, our core brand identity and mission,
+you know, I help 100 million founders
+
+58
+00:00:59,230 --> 00:00:59,240
+you know, I help 100 million founders
+ 
+
+59
+00:00:59,240 --> 00:01:00,310
+you know, I help 100 million founders
+accomplish their dreams through proven
+
+60
+00:01:00,310 --> 00:01:00,320
+accomplish their dreams through proven
+ 
+
+61
+00:01:00,320 --> 00:01:02,230
+accomplish their dreams through proven
+systems, the core value prop, systems
+
+62
+00:01:02,230 --> 00:01:02,240
+systems, the core value prop, systems
+ 
+
+63
+00:01:02,240 --> 00:01:03,630
+systems, the core value prop, systems
+first approach everything, organic
+
+64
+00:01:03,630 --> 00:01:03,640
+first approach everything, organic
+ 
+
+65
+00:01:03,640 --> 00:01:05,430
+first approach everything, organic
+content over paid ads, founder freedom
+
+66
+00:01:05,430 --> 00:01:05,440
+content over paid ads, founder freedom
+ 
+
+67
+00:01:05,440 --> 00:01:06,830
+content over paid ads, founder freedom
+through automation, build businesses
+
+68
+00:01:06,830 --> 00:01:06,840
+through automation, build businesses
+ 
+
+69
+00:01:06,840 --> 00:01:08,670
+through automation, build businesses
+that serve you, not imprison you. It
+
+70
+00:01:08,670 --> 00:01:08,680
+that serve you, not imprison you. It
+ 
+
+71
+00:01:08,680 --> 00:01:10,550
+that serve you, not imprison you. It
+knows all my four pillars of leverage,
+
+72
+00:01:10,550 --> 00:01:10,560
+knows all my four pillars of leverage,
+ 
+
+73
+00:01:10,560 --> 00:01:13,190
+knows all my four pillars of leverage,
+the AED system to automate, eliminate,
+
+74
+00:01:13,190 --> 00:01:13,200
+the AED system to automate, eliminate,
+ 
+
+75
+00:01:13,200 --> 00:01:15,230
+the AED system to automate, eliminate,
+and delegate, the four W's framework,
+
+76
+00:01:15,230 --> 00:01:15,240
+and delegate, the four W's framework,
+ 
+
+77
+00:01:15,240 --> 00:01:16,510
+and delegate, the four W's framework,
+you know, working where you want, when
+
+78
+00:01:16,510 --> 00:01:16,520
+you know, working where you want, when
+ 
+
+79
+00:01:16,520 --> 00:01:17,790
+you know, working where you want, when
+you want, and what you want, with who
+
+80
+00:01:17,790 --> 00:01:17,800
+you want, and what you want, with who
+ 
+
+81
+00:01:17,800 --> 00:01:19,550
+you want, and what you want, with who
+you want, my content systems like my
+
+82
+00:01:19,550 --> 00:01:19,560
+you want, my content systems like my
+ 
+
+83
+00:01:19,560 --> 00:01:21,670
+you want, my content systems like my
+content waterfall system, content GPS,
+
+84
+00:01:21,670 --> 00:01:21,680
+content waterfall system, content GPS,
+ 
+
+85
+00:01:21,680 --> 00:01:23,790
+content waterfall system, content GPS,
+content idea machine. It knows all of my
+
+86
+00:01:23,790 --> 00:01:23,800
+content idea machine. It knows all of my
+ 
+
+87
+00:01:23,800 --> 00:01:25,390
+content idea machine. It knows all of my
+audience growth systems, the founder
+
+88
+00:01:25,390 --> 00:01:25,400
+audience growth systems, the founder
+ 
+
+89
+00:01:25,400 --> 00:01:27,710
+audience growth systems, the founder
+flywheel, and then my signature phrases
+
+90
+00:01:27,710 --> 00:01:27,720
+flywheel, and then my signature phrases
+ 
+
+91
+00:01:27,720 --> 00:01:28,950
+flywheel, and then my signature phrases
+that I use frequently like proven
+
+92
+00:01:28,950 --> 00:01:28,960
+that I use frequently like proven
+ 
+
+93
+00:01:28,960 --> 00:01:31,110
+that I use frequently like proven
+systems, rented versus owned audience,
+
+94
+00:01:31,110 --> 00:01:31,120
+systems, rented versus owned audience,
+ 
+
+95
+00:01:31,120 --> 00:01:33,230
+systems, rented versus owned audience,
+the zone of genius, systems designers
+
+96
+00:01:33,230 --> 00:01:33,240
+the zone of genius, systems designers
+ 
+
+97
+00:01:33,240 --> 00:01:35,230
+the zone of genius, systems designers
+craft their own. I mean, this is insane,
+
+98
+00:01:35,230 --> 00:01:35,240
+craft their own. I mean, this is insane,
+ 
+
+99
+00:01:35,240 --> 00:01:37,070
+craft their own. I mean, this is insane,
+right? So, we can go create a new text
+
+100
+00:01:37,070 --> 00:01:37,080
+right? So, we can go create a new text
+ 
+
+101
+00:01:37,080 --> 00:01:39,590
+right? So, we can go create a new text
+file and go and copy that all in. So,
+
+102
+00:01:39,590 --> 00:01:39,600
+file and go and copy that all in. So,
+ 
+
+103
+00:01:39,600 --> 00:01:42,030
+file and go and copy that all in. So,
+this becomes our new framework now for
+
+104
+00:01:42,030 --> 00:01:42,040
+this becomes our new framework now for
+ 
+
+105
+00:01:42,040 --> 00:01:44,920
+this becomes our new framework now for
+my voice.
+

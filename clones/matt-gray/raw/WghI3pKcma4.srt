@@ -1,0 +1,325 @@
+1
+00:00:00,000 --> 00:00:01,670
+ 
+If it takes you hours to make a post,
+
+2
+00:00:01,670 --> 00:00:01,680
+If it takes you hours to make a post,
+ 
+
+3
+00:00:01,680 --> 00:00:03,110
+If it takes you hours to make a post,
+you're not a perfectionist. You're using
+
+4
+00:00:03,110 --> 00:00:03,120
+you're not a perfectionist. You're using
+ 
+
+5
+00:00:03,120 --> 00:00:05,110
+you're not a perfectionist. You're using
+the wrong system. Let's get into how to
+
+6
+00:00:05,110 --> 00:00:05,120
+the wrong system. Let's get into how to
+ 
+
+7
+00:00:05,120 --> 00:00:07,670
+the wrong system. Let's get into how to
+go and use AI as a brainstorming partner
+
+8
+00:00:07,670 --> 00:00:07,680
+go and use AI as a brainstorming partner
+ 
+
+9
+00:00:07,680 --> 00:00:09,350
+go and use AI as a brainstorming partner
+here. Now, to be clear, you know, I
+
+10
+00:00:09,350 --> 00:00:09,360
+here. Now, to be clear, you know, I
+ 
+
+11
+00:00:09,360 --> 00:00:10,549
+here. Now, to be clear, you know, I
+don't recommend that you just go and
+
+12
+00:00:10,549 --> 00:00:10,559
+don't recommend that you just go and
+ 
+
+13
+00:00:10,559 --> 00:00:12,470
+don't recommend that you just go and
+publish AI content typically, just
+
+14
+00:00:12,470 --> 00:00:12,480
+publish AI content typically, just
+ 
+
+15
+00:00:12,480 --> 00:00:14,549
+publish AI content typically, just
+because number one, it doesn't perform
+
+16
+00:00:14,549 --> 00:00:14,559
+because number one, it doesn't perform
+ 
+
+17
+00:00:14,559 --> 00:00:15,589
+because number one, it doesn't perform
+all that well with the different
+
+18
+00:00:15,589 --> 00:00:15,599
+all that well with the different
+ 
+
+19
+00:00:15,599 --> 00:00:17,910
+all that well with the different
+algorithms. And number two is that, you
+
+20
+00:00:17,910 --> 00:00:17,920
+algorithms. And number two is that, you
+ 
+
+21
+00:00:17,920 --> 00:00:19,590
+algorithms. And number two is that, you
+know, people always need that kind of
+
+22
+00:00:19,590 --> 00:00:19,600
+know, people always need that kind of
+ 
+
+23
+00:00:19,600 --> 00:00:21,029
+know, people always need that kind of
+human element, right? To really
+
+24
+00:00:21,029 --> 00:00:21,039
+human element, right? To really
+ 
+
+25
+00:00:21,039 --> 00:00:23,109
+human element, right? To really
+gravitate to your own authenticity and
+
+26
+00:00:23,109 --> 00:00:23,119
+gravitate to your own authenticity and
+ 
+
+27
+00:00:23,119 --> 00:00:25,269
+gravitate to your own authenticity and
+your energy, which is your uniqueness.
+
+28
+00:00:25,269 --> 00:00:25,279
+your energy, which is your uniqueness.
+ 
+
+29
+00:00:25,279 --> 00:00:27,429
+your energy, which is your uniqueness.
+And so what you're seeing here is this
+
+30
+00:00:27,429 --> 00:00:27,439
+And so what you're seeing here is this
+ 
+
+31
+00:00:27,439 --> 00:00:28,950
+And so what you're seeing here is this
+286
+
+32
+00:00:28,950 --> 00:00:28,960
+286
+ 
+
+33
+00:00:28,960 --> 00:00:31,750
+286
+page prompt project. Just take whatever
+
+34
+00:00:31,750 --> 00:00:31,760
+page prompt project. Just take whatever
+ 
+
+35
+00:00:31,760 --> 00:00:34,470
+page prompt project. Just take whatever
+you've got and upload that to the
+
+36
+00:00:34,470 --> 00:00:34,480
+you've got and upload that to the
+ 
+
+37
+00:00:34,480 --> 00:00:36,229
+you've got and upload that to the
+project knowledge so that Claude can
+
+38
+00:00:36,229 --> 00:00:36,239
+project knowledge so that Claude can
+ 
+
+39
+00:00:36,239 --> 00:00:38,470
+project knowledge so that Claude can
+start writing like you speak. And so
+
+40
+00:00:38,470 --> 00:00:38,480
+start writing like you speak. And so
+ 
+
+41
+00:00:38,480 --> 00:00:40,549
+start writing like you speak. And so
+what I'm able to do here is essentially
+
+42
+00:00:40,549 --> 00:00:40,559
+what I'm able to do here is essentially
+ 
+
+43
+00:00:40,559 --> 00:00:42,229
+what I'm able to do here is essentially
+use Claude as this sparring and
+
+44
+00:00:42,229 --> 00:00:42,239
+use Claude as this sparring and
+ 
+
+45
+00:00:42,239 --> 00:00:44,069
+use Claude as this sparring and
+brainstorming partner, helping me come
+
+46
+00:00:44,069 --> 00:00:44,079
+brainstorming partner, helping me come
+ 
+
+47
+00:00:44,079 --> 00:00:45,510
+brainstorming partner, helping me come
+up with things like, you know, the
+
+48
+00:00:45,510 --> 00:00:45,520
+up with things like, you know, the
+ 
+
+49
+00:00:45,520 --> 00:00:47,190
+up with things like, you know, the
+different structures of the video,
+
+50
+00:00:47,190 --> 00:00:47,200
+different structures of the video,
+ 
+
+51
+00:00:47,200 --> 00:00:49,110
+different structures of the video,
+helping me research the stuff that would
+
+52
+00:00:49,110 --> 00:00:49,120
+helping me research the stuff that would
+ 
+
+53
+00:00:49,120 --> 00:00:50,630
+helping me research the stuff that would
+probably be most retentive, the stuff
+
+54
+00:00:50,630 --> 00:00:50,640
+probably be most retentive, the stuff
+ 
+
+55
+00:00:50,640 --> 00:00:52,549
+probably be most retentive, the stuff
+that you guys really need, so that I can
+
+56
+00:00:52,549 --> 00:00:52,559
+that you guys really need, so that I can
+ 
+
+57
+00:00:52,559 --> 00:00:55,430
+that you guys really need, so that I can
+jam-pack each video with the highest
+
+58
+00:00:55,430 --> 00:00:55,440
+jam-pack each video with the highest
+ 
+
+59
+00:00:55,440 --> 00:00:57,590
+jam-pack each video with the highest
+value per second possible to make sure
+
+60
+00:00:57,590 --> 00:00:57,600
+value per second possible to make sure
+ 
+
+61
+00:00:57,600 --> 00:00:58,940
+value per second possible to make sure
+I'm being as generous as possible
+
+62
+00:00:58,940 --> 00:00:58,950
+I'm being as generous as possible
+ 
+
+63
+00:00:58,950 --> 00:01:00,869
+I'm being as generous as possible
+[music] in every single video we put out
+
+64
+00:01:00,869 --> 00:01:00,879
+[music] in every single video we put out
+ 
+
+65
+00:01:00,879 --> 00:01:04,480
+[music] in every single video we put out
+every Tuesday and every Friday.
+

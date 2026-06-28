@@ -1,0 +1,4 @@
+1|Everyone asks, "How did you actually make money from content?" It wasn't ads, it wasn't UGC, it wasn't brand deals, it was alignment. Here's what you need to do, right? Go and pay attention to the people that are most engaged with what
+12|you're putting out there. Look at the DMs, the people with longer comments, the people that are texting you after, and start to ask them, you know, "What's the piece of content that has most
+22|resonated with you so far? And what's your biggest challenge right now? And what's the biggest thing I could help you with?" This sort of feedback that you get from those, you know, super fans
+32|of you, that will give you a general direction as to where you should go with your content, and it will likely also inform where you need to go with your brand and your products.

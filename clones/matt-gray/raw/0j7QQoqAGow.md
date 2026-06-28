@@ -1,0 +1,4 @@
+1|raise your right hand and repeat this founder Manifesto we reject that business is the purpose of living and yet we build the best businesses in the world through creating systems and hiring amazing people we are able to grow beyond what most people think is
+12|possible with only a fraction of the work we deny that quantity is more important than quality and we produce some of the best products and services on Earth we relentlessly focus on quality over quantity and on velocity
+24|over speed we understand that life is for living and business is for making life better no more and work nights no more missing life's moments we build systems that scale businesses and
+34|nourish Souls our Mantra automate delegate liberate at founder OS we're redefining success it's not just profit it's freedom

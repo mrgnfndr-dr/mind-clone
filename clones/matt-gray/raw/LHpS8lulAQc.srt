@@ -1,0 +1,5275 @@
+1
+00:00:00,080 --> 00:00:01,429
+ 
+There are six AI skills that you can
+
+2
+00:00:01,429 --> 00:00:01,439
+There are six AI skills that you can
+ 
+
+3
+00:00:01,439 --> 00:00:03,190
+There are six AI skills that you can
+learn in under 60 minutes that are the
+
+4
+00:00:03,190 --> 00:00:03,200
+learn in under 60 minutes that are the
+ 
+
+5
+00:00:03,200 --> 00:00:04,870
+learn in under 60 minutes that are the
+difference between you making $10,000 a
+
+6
+00:00:04,870 --> 00:00:04,880
+difference between you making $10,000 a
+ 
+
+7
+00:00:04,880 --> 00:00:07,190
+difference between you making $10,000 a
+month or $500,000 a month. These skills
+
+8
+00:00:07,190 --> 00:00:07,200
+month or $500,000 a month. These skills
+ 
+
+9
+00:00:07,200 --> 00:00:08,470
+month or $500,000 a month. These skills
+took me from being trapped in my
+
+10
+00:00:08,470 --> 00:00:08,480
+took me from being trapped in my
+ 
+
+11
+00:00:08,480 --> 00:00:10,709
+took me from being trapped in my
+business working 12-hour days to
+
+12
+00:00:10,709 --> 00:00:10,719
+business working 12-hour days to
+ 
+
+13
+00:00:10,719 --> 00:00:13,030
+business working 12-hour days to
+building systems that work for me 24/7
+
+14
+00:00:13,030 --> 00:00:13,040
+building systems that work for me 24/7
+ 
+
+15
+00:00:13,040 --> 00:00:15,350
+building systems that work for me 24/7
+so I can do what I want when I want. So,
+
+16
+00:00:15,350 --> 00:00:15,360
+so I can do what I want when I want. So,
+ 
+
+17
+00:00:15,360 --> 00:00:16,950
+so I can do what I want when I want. So,
+let's get into it. This first skill
+
+18
+00:00:16,950 --> 00:00:16,960
+let's get into it. This first skill
+ 
+
+19
+00:00:16,960 --> 00:00:19,510
+let's get into it. This first skill
+takes 10 minutes. Voice to text Mastery.
+
+20
+00:00:19,510 --> 00:00:19,520
+takes 10 minutes. Voice to text Mastery.
+ 
+
+21
+00:00:19,520 --> 00:00:21,269
+takes 10 minutes. Voice to text Mastery.
+So, I'm going to go and give you here a
+
+22
+00:00:21,269 --> 00:00:21,279
+So, I'm going to go and give you here a
+ 
+
+23
+00:00:21,279 --> 00:00:23,750
+So, I'm going to go and give you here a
+quick demo of Whisper Flow. Essentially,
+
+24
+00:00:23,750 --> 00:00:23,760
+quick demo of Whisper Flow. Essentially,
+ 
+
+25
+00:00:23,760 --> 00:00:25,750
+quick demo of Whisper Flow. Essentially,
+what it is is it's going to be this
+
+26
+00:00:25,750 --> 00:00:25,760
+what it is is it's going to be this
+ 
+
+27
+00:00:25,760 --> 00:00:27,830
+what it is is it's going to be this
+voiceto text AI tool that turns your
+
+28
+00:00:27,830 --> 00:00:27,840
+voiceto text AI tool that turns your
+ 
+
+29
+00:00:27,840 --> 00:00:30,470
+voiceto text AI tool that turns your
+speech into clear, polished writing
+
+30
+00:00:30,470 --> 00:00:30,480
+speech into clear, polished writing
+ 
+
+31
+00:00:30,480 --> 00:00:33,030
+speech into clear, polished writing
+every time. Now, polish is the key word
+
+32
+00:00:33,030 --> 00:00:33,040
+every time. Now, polish is the key word
+ 
+
+33
+00:00:33,040 --> 00:00:35,030
+every time. Now, polish is the key word
+there. This doesn't just transcribe your
+
+34
+00:00:35,030 --> 00:00:35,040
+there. This doesn't just transcribe your
+ 
+
+35
+00:00:35,040 --> 00:00:37,590
+there. This doesn't just transcribe your
+writing into a massive text block. It's
+
+36
+00:00:37,590 --> 00:00:37,600
+writing into a massive text block. It's
+ 
+
+37
+00:00:37,600 --> 00:00:39,190
+writing into a massive text block. It's
+actually going to go and put it into
+
+38
+00:00:39,190 --> 00:00:39,200
+actually going to go and put it into
+ 
+
+39
+00:00:39,200 --> 00:00:41,350
+actually going to go and put it into
+perfect paragraphs with immaculate
+
+40
+00:00:41,350 --> 00:00:41,360
+perfect paragraphs with immaculate
+ 
+
+41
+00:00:41,360 --> 00:00:43,270
+perfect paragraphs with immaculate
+spelling. So, you don't need to touch
+
+42
+00:00:43,270 --> 00:00:43,280
+spelling. So, you don't need to touch
+ 
+
+43
+00:00:43,280 --> 00:00:45,190
+spelling. So, you don't need to touch
+your keyboard anymore. You simply go and
+
+44
+00:00:45,190 --> 00:00:45,200
+your keyboard anymore. You simply go and
+ 
+
+45
+00:00:45,200 --> 00:00:47,430
+your keyboard anymore. You simply go and
+press the function key in any chat
+
+46
+00:00:47,430 --> 00:00:47,440
+press the function key in any chat
+ 
+
+47
+00:00:47,440 --> 00:00:49,130
+press the function key in any chat
+window and you can just go and voice
+
+48
+00:00:49,130 --> 00:00:49,140
+window and you can just go and voice
+ 
+
+49
+00:00:49,140 --> 00:00:50,549
+window and you can just go and voice
+[snorts] whatever it is you want to
+
+50
+00:00:50,549 --> 00:00:50,559
+[snorts] whatever it is you want to
+ 
+
+51
+00:00:50,559 --> 00:00:52,310
+[snorts] whatever it is you want to
+message and boom, it's going to
+
+52
+00:00:52,310 --> 00:00:52,320
+message and boom, it's going to
+ 
+
+53
+00:00:52,320 --> 00:00:53,990
+message and boom, it's going to
+transcribe it so you can send it that
+
+54
+00:00:53,990 --> 00:00:54,000
+transcribe it so you can send it that
+ 
+
+55
+00:00:54,000 --> 00:00:56,069
+transcribe it so you can send it that
+much faster. Another area where this is
+
+56
+00:00:56,069 --> 00:00:56,079
+much faster. Another area where this is
+ 
+
+57
+00:00:56,079 --> 00:00:57,670
+much faster. Another area where this is
+useful is, you know, we had just gone
+
+58
+00:00:57,670 --> 00:00:57,680
+useful is, you know, we had just gone
+ 
+
+59
+00:00:57,680 --> 00:01:00,310
+useful is, you know, we had just gone
+over those different cla projects. Okay,
+
+60
+00:01:00,310 --> 00:01:00,320
+over those different cla projects. Okay,
+ 
+
+61
+00:01:00,320 --> 00:01:02,630
+over those different cla projects. Okay,
+I have one that's called clockwork which
+
+62
+00:01:02,630 --> 00:01:02,640
+I have one that's called clockwork which
+ 
+
+63
+00:01:02,640 --> 00:01:05,189
+I have one that's called clockwork which
+is all set up to go and help my
+
+64
+00:01:05,189 --> 00:01:05,199
+is all set up to go and help my
+ 
+
+65
+00:01:05,199 --> 00:01:07,750
+is all set up to go and help my
+businesses run like clockwork. And so
+
+66
+00:01:07,750 --> 00:01:07,760
+businesses run like clockwork. And so
+ 
+
+67
+00:01:07,760 --> 00:01:09,429
+businesses run like clockwork. And so
+let's just say I'm looking to go and
+
+68
+00:01:09,429 --> 00:01:09,439
+let's just say I'm looking to go and
+ 
+
+69
+00:01:09,439 --> 00:01:11,350
+let's just say I'm looking to go and
+tool up my chief of staff. So, what I'm
+
+70
+00:01:11,350 --> 00:01:11,360
+tool up my chief of staff. So, what I'm
+ 
+
+71
+00:01:11,360 --> 00:01:12,469
+tool up my chief of staff. So, what I'm
+going to go put in here into my
+
+72
+00:01:12,469 --> 00:01:12,479
+going to go put in here into my
+ 
+
+73
+00:01:12,479 --> 00:01:14,310
+going to go put in here into my
+Clockwork project, which is toolled up
+
+74
+00:01:14,310 --> 00:01:14,320
+Clockwork project, which is toolled up
+ 
+
+75
+00:01:14,320 --> 00:01:16,710
+Clockwork project, which is toolled up
+with a bunch of data on my company, as
+
+76
+00:01:16,710 --> 00:01:16,720
+with a bunch of data on my company, as
+ 
+
+77
+00:01:16,720 --> 00:01:18,310
+with a bunch of data on my company, as
+well as all of the core systems we've
+
+78
+00:01:18,310 --> 00:01:18,320
+well as all of the core systems we've
+ 
+
+79
+00:01:18,320 --> 00:01:20,070
+well as all of the core systems we've
+created, I'm going to put, I've just
+
+80
+00:01:20,070 --> 00:01:20,080
+created, I'm going to put, I've just
+ 
+
+81
+00:01:20,080 --> 00:01:21,510
+created, I'm going to put, I've just
+hired a chief of staff, and I'm looking
+
+82
+00:01:21,510 --> 00:01:21,520
+hired a chief of staff, and I'm looking
+ 
+
+83
+00:01:21,520 --> 00:01:23,350
+hired a chief of staff, and I'm looking
+for this person to go and save me 20
+
+84
+00:01:23,350 --> 00:01:23,360
+for this person to go and save me 20
+ 
+
+85
+00:01:23,360 --> 00:01:25,510
+for this person to go and save me 20
+hours of my time every single week. I
+
+86
+00:01:25,510 --> 00:01:25,520
+hours of my time every single week. I
+ 
+
+87
+00:01:25,520 --> 00:01:27,429
+hours of my time every single week. I
+need you to go and structure the role
+
+88
+00:01:27,429 --> 00:01:27,439
+need you to go and structure the role
+ 
+
+89
+00:01:27,439 --> 00:01:29,749
+need you to go and structure the role
+day by day from Monday to Friday as well
+
+90
+00:01:29,749 --> 00:01:29,759
+day by day from Monday to Friday as well
+ 
+
+91
+00:01:29,759 --> 00:01:31,670
+day by day from Monday to Friday as well
+as the core tasks they need to get done
+
+92
+00:01:31,670 --> 00:01:31,680
+as the core tasks they need to get done
+ 
+
+93
+00:01:31,680 --> 00:01:33,590
+as the core tasks they need to get done
+so that I have them going and blocking
+
+94
+00:01:33,590 --> 00:01:33,600
+so that I have them going and blocking
+ 
+
+95
+00:01:33,600 --> 00:01:35,910
+so that I have them going and blocking
+tackling the most important stuff that
+
+96
+00:01:35,910 --> 00:01:35,920
+tackling the most important stuff that
+ 
+
+97
+00:01:35,920 --> 00:01:38,310
+tackling the most important stuff that
+can relieve me of my time so I can focus
+
+98
+00:01:38,310 --> 00:01:38,320
+can relieve me of my time so I can focus
+ 
+
+99
+00:01:38,320 --> 00:01:40,950
+can relieve me of my time so I can focus
+on strategy the founder experience and
+
+100
+00:01:40,950 --> 00:01:40,960
+on strategy the founder experience and
+ 
+
+101
+00:01:40,960 --> 00:01:43,590
+on strategy the founder experience and
+making exceptional content. So as you
+
+102
+00:01:43,590 --> 00:01:43,600
+making exceptional content. So as you
+ 
+
+103
+00:01:43,600 --> 00:01:45,510
+making exceptional content. So as you
+can see here it's gone and transcribed
+
+104
+00:01:45,510 --> 00:01:45,520
+can see here it's gone and transcribed
+ 
+
+105
+00:01:45,520 --> 00:01:47,510
+can see here it's gone and transcribed
+all that instantly. And so when I'm
+
+106
+00:01:47,510 --> 00:01:47,520
+all that instantly. And so when I'm
+ 
+
+107
+00:01:47,520 --> 00:01:49,910
+all that instantly. And so when I'm
+thinking about even prompting AI, the
+
+108
+00:01:49,910 --> 00:01:49,920
+thinking about even prompting AI, the
+ 
+
+109
+00:01:49,920 --> 00:01:52,469
+thinking about even prompting AI, the
+best prompts number one are detailed and
+
+110
+00:01:52,469 --> 00:01:52,479
+best prompts number one are detailed and
+ 
+
+111
+00:01:52,479 --> 00:01:54,630
+best prompts number one are detailed and
+they sound human, right? They're in your
+
+112
+00:01:54,630 --> 00:01:54,640
+they sound human, right? They're in your
+ 
+
+113
+00:01:54,640 --> 00:01:56,950
+they sound human, right? They're in your
+voice. And so here you can see this
+
+114
+00:01:56,950 --> 00:01:56,960
+voice. And so here you can see this
+ 
+
+115
+00:01:56,960 --> 00:01:59,510
+voice. And so here you can see this
+clockwork project plus, you know, that
+
+116
+00:01:59,510 --> 00:01:59,520
+clockwork project plus, you know, that
+ 
+
+117
+00:01:59,520 --> 00:02:01,670
+clockwork project plus, you know, that
+simple prompt are now going and banging
+
+118
+00:02:01,670 --> 00:02:01,680
+simple prompt are now going and banging
+ 
+
+119
+00:02:01,680 --> 00:02:04,469
+simple prompt are now going and banging
+out, you know, hour by hour from Monday
+
+120
+00:02:04,469 --> 00:02:04,479
+out, you know, hour by hour from Monday
+ 
+
+121
+00:02:04,479 --> 00:02:06,149
+out, you know, hour by hour from Monday
+all the way through to Friday. the
+
+122
+00:02:06,149 --> 00:02:06,159
+all the way through to Friday. the
+ 
+
+123
+00:02:06,159 --> 00:02:07,830
+all the way through to Friday. the
+things that my chief of staff can be
+
+124
+00:02:07,830 --> 00:02:07,840
+things that my chief of staff can be
+ 
+
+125
+00:02:07,840 --> 00:02:10,630
+things that my chief of staff can be
+working on to help remove me from things
+
+126
+00:02:10,630 --> 00:02:10,640
+working on to help remove me from things
+ 
+
+127
+00:02:10,640 --> 00:02:12,949
+working on to help remove me from things
+like hiring and, you know, offer
+
+128
+00:02:12,949 --> 00:02:12,959
+like hiring and, you know, offer
+ 
+
+129
+00:02:12,959 --> 00:02:14,949
+like hiring and, you know, offer
+management, strategic partnerships, and
+
+130
+00:02:14,949 --> 00:02:14,959
+management, strategic partnerships, and
+ 
+
+131
+00:02:14,959 --> 00:02:16,790
+management, strategic partnerships, and
+allow me to focus on the stuff that only
+
+132
+00:02:16,790 --> 00:02:16,800
+allow me to focus on the stuff that only
+ 
+
+133
+00:02:16,800 --> 00:02:19,110
+allow me to focus on the stuff that only
+I can do in my zone of brilliance. Skill
+
+134
+00:02:19,110 --> 00:02:19,120
+I can do in my zone of brilliance. Skill
+ 
+
+135
+00:02:19,120 --> 00:02:20,949
+I can do in my zone of brilliance. Skill
+number two, AI assisted content
+
+136
+00:02:20,949 --> 00:02:20,959
+number two, AI assisted content
+ 
+
+137
+00:02:20,959 --> 00:02:22,309
+number two, AI assisted content
+creation. This is how you build your
+
+138
+00:02:22,309 --> 00:02:22,319
+creation. This is how you build your
+ 
+
+139
+00:02:22,319 --> 00:02:24,070
+creation. This is how you build your
+prompt library in under 10 minutes and
+
+140
+00:02:24,070 --> 00:02:24,080
+prompt library in under 10 minutes and
+ 
+
+141
+00:02:24,080 --> 00:02:26,150
+prompt library in under 10 minutes and
+make content five times faster every
+
+142
+00:02:26,150 --> 00:02:26,160
+make content five times faster every
+ 
+
+143
+00:02:26,160 --> 00:02:28,150
+make content five times faster every
+single day. Let's get into how to go and
+
+144
+00:02:28,150 --> 00:02:28,160
+single day. Let's get into how to go and
+ 
+
+145
+00:02:28,160 --> 00:02:30,630
+single day. Let's get into how to go and
+use AI as a brainstorming partner here.
+
+146
+00:02:30,630 --> 00:02:30,640
+use AI as a brainstorming partner here.
+ 
+
+147
+00:02:30,640 --> 00:02:32,150
+use AI as a brainstorming partner here.
+Now, to be clear, you know, I don't
+
+148
+00:02:32,150 --> 00:02:32,160
+Now, to be clear, you know, I don't
+ 
+
+149
+00:02:32,160 --> 00:02:33,670
+Now, to be clear, you know, I don't
+recommend that you just go and publish
+
+150
+00:02:33,670 --> 00:02:33,680
+recommend that you just go and publish
+ 
+
+151
+00:02:33,680 --> 00:02:35,509
+recommend that you just go and publish
+AI content typically, just because
+
+152
+00:02:35,509 --> 00:02:35,519
+AI content typically, just because
+ 
+
+153
+00:02:35,519 --> 00:02:37,589
+AI content typically, just because
+number one, it doesn't perform all that
+
+154
+00:02:37,589 --> 00:02:37,599
+number one, it doesn't perform all that
+ 
+
+155
+00:02:37,599 --> 00:02:39,110
+number one, it doesn't perform all that
+well with the different algorithms. And
+
+156
+00:02:39,110 --> 00:02:39,120
+well with the different algorithms. And
+ 
+
+157
+00:02:39,120 --> 00:02:41,110
+well with the different algorithms. And
+number two is that, you know, people
+
+158
+00:02:41,110 --> 00:02:41,120
+number two is that, you know, people
+ 
+
+159
+00:02:41,120 --> 00:02:43,110
+number two is that, you know, people
+always need that kind of human element,
+
+160
+00:02:43,110 --> 00:02:43,120
+always need that kind of human element,
+ 
+
+161
+00:02:43,120 --> 00:02:44,790
+always need that kind of human element,
+right? To really gravitate to your own
+
+162
+00:02:44,790 --> 00:02:44,800
+right? To really gravitate to your own
+ 
+
+163
+00:02:44,800 --> 00:02:46,949
+right? To really gravitate to your own
+authenticity and your energy, which is
+
+164
+00:02:46,949 --> 00:02:46,959
+authenticity and your energy, which is
+ 
+
+165
+00:02:46,959 --> 00:02:49,110
+authenticity and your energy, which is
+your uniqueness. So, what you're seeing
+
+166
+00:02:49,110 --> 00:02:49,120
+your uniqueness. So, what you're seeing
+ 
+
+167
+00:02:49,120 --> 00:02:51,670
+your uniqueness. So, what you're seeing
+here is this 286 [music]
+
+168
+00:02:51,670 --> 00:02:51,680
+here is this 286 [music]
+ 
+
+169
+00:02:51,680 --> 00:02:54,630
+here is this 286 [music]
+page prompt project. Okay? I can go and
+
+170
+00:02:54,630 --> 00:02:54,640
+page prompt project. Okay? I can go and
+ 
+
+171
+00:02:54,640 --> 00:02:58,390
+page prompt project. Okay? I can go and
+take this YouTube prompt here, right,
+
+172
+00:02:58,390 --> 00:02:58,400
+take this YouTube prompt here, right,
+ 
+
+173
+00:02:58,400 --> 00:03:00,710
+take this YouTube prompt here, right,
+which is around three pages long. And
+
+174
+00:03:00,710 --> 00:03:00,720
+which is around three pages long. And
+ 
+
+175
+00:03:00,720 --> 00:03:02,390
+which is around three pages long. And
+I've gone and prompted this to be, you
+
+176
+00:03:02,390 --> 00:03:02,400
+I've gone and prompted this to be, you
+ 
+
+177
+00:03:02,400 --> 00:03:04,390
+I've gone and prompted this to be, you
+know, better than the best experts ever.
+
+178
+00:03:04,390 --> 00:03:04,400
+know, better than the best experts ever.
+ 
+
+179
+00:03:04,400 --> 00:03:06,470
+know, better than the best experts ever.
+And so the cool thing here is that
+
+180
+00:03:06,470 --> 00:03:06,480
+And so the cool thing here is that
+ 
+
+181
+00:03:06,480 --> 00:03:08,309
+And so the cool thing here is that
+you're essentially getting, you know, a
+
+182
+00:03:08,309 --> 00:03:08,319
+you're essentially getting, you know, a
+ 
+
+183
+00:03:08,319 --> 00:03:11,670
+you're essentially getting, you know, a
+$20,000 expert um for free inside of
+
+184
+00:03:11,670 --> 00:03:11,680
+$20,000 expert um for free inside of
+ 
+
+185
+00:03:11,680 --> 00:03:13,190
+$20,000 expert um for free inside of
+Claude. So you can go and get this
+
+186
+00:03:13,190 --> 00:03:13,200
+Claude. So you can go and get this
+ 
+
+187
+00:03:13,200 --> 00:03:15,830
+Claude. So you can go and get this
+entire YouTube script writing prompt. In
+
+188
+00:03:15,830 --> 00:03:15,840
+entire YouTube script writing prompt. In
+ 
+
+189
+00:03:15,840 --> 00:03:17,750
+entire YouTube script writing prompt. In
+the first link in the description, I've
+
+190
+00:03:17,750 --> 00:03:17,760
+the first link in the description, I've
+ 
+
+191
+00:03:17,760 --> 00:03:20,390
+the first link in the description, I've
+gone and given you a 1-hour AI playbook
+
+192
+00:03:20,390 --> 00:03:20,400
+gone and given you a 1-hour AI playbook
+ 
+
+193
+00:03:20,400 --> 00:03:21,990
+gone and given you a 1-hour AI playbook
+so you can go and leverage all of the
+
+194
+00:03:21,990 --> 00:03:22,000
+so you can go and leverage all of the
+ 
+
+195
+00:03:22,000 --> 00:03:23,750
+so you can go and leverage all of the
+different skills and that I've gone over
+
+196
+00:03:23,750 --> 00:03:23,760
+different skills and that I've gone over
+ 
+
+197
+00:03:23,760 --> 00:03:25,670
+different skills and that I've gone over
+here and be able to quickly go and tool
+
+198
+00:03:25,670 --> 00:03:25,680
+here and be able to quickly go and tool
+ 
+
+199
+00:03:25,680 --> 00:03:28,470
+here and be able to quickly go and tool
+yourself up for maximum efficiency. I'm
+
+200
+00:03:28,470 --> 00:03:28,480
+yourself up for maximum efficiency. I'm
+ 
+
+201
+00:03:28,480 --> 00:03:30,470
+yourself up for maximum efficiency. I'm
+now going and pasting that entire
+
+202
+00:03:30,470 --> 00:03:30,480
+now going and pasting that entire
+ 
+
+203
+00:03:30,480 --> 00:03:33,350
+now going and pasting that entire
+YouTube prompt into [music] the YouTube
+
+204
+00:03:33,350 --> 00:03:33,360
+YouTube prompt into [music] the YouTube
+ 
+
+205
+00:03:33,360 --> 00:03:35,910
+YouTube prompt into [music] the YouTube
+script writing project inside of Claude.
+
+206
+00:03:35,910 --> 00:03:35,920
+script writing project inside of Claude.
+ 
+
+207
+00:03:35,920 --> 00:03:38,309
+script writing project inside of Claude.
+I'm then going and uploading into the
+
+208
+00:03:38,309 --> 00:03:38,319
+I'm then going and uploading into the
+ 
+
+209
+00:03:38,319 --> 00:03:41,030
+I'm then going and uploading into the
+project files all of the different
+
+210
+00:03:41,030 --> 00:03:41,040
+project files all of the different
+ 
+
+211
+00:03:41,040 --> 00:03:43,270
+project files all of the different
+references. Right? So, I've got my top
+
+212
+00:03:43,270 --> 00:03:43,280
+references. Right? So, I've got my top
+ 
+
+213
+00:03:43,280 --> 00:03:45,750
+references. Right? So, I've got my top
+three YouTube scripts ever inside of
+
+214
+00:03:45,750 --> 00:03:45,760
+three YouTube scripts ever inside of
+ 
+
+215
+00:03:45,760 --> 00:03:47,509
+three YouTube scripts ever inside of
+that project knowledge. I've got
+
+216
+00:03:47,509 --> 00:03:47,519
+that project knowledge. I've got
+ 
+
+217
+00:03:47,519 --> 00:03:49,830
+that project knowledge. I've got
+different transcripts from sales calls,
+
+218
+00:03:49,830 --> 00:03:49,840
+different transcripts from sales calls,
+ 
+
+219
+00:03:49,840 --> 00:03:51,350
+different transcripts from sales calls,
+transcripts from coaching calls that
+
+220
+00:03:51,350 --> 00:03:51,360
+transcripts from coaching calls that
+ 
+
+221
+00:03:51,360 --> 00:03:53,270
+transcripts from coaching calls that
+I've done. I've got my entire book
+
+222
+00:03:53,270 --> 00:03:53,280
+I've done. I've got my entire book
+ 
+
+223
+00:03:53,280 --> 00:03:55,990
+I've done. I've got my entire book
+uploaded here, our customer avatar,
+
+224
+00:03:55,990 --> 00:03:56,000
+uploaded here, our customer avatar,
+ 
+
+225
+00:03:56,000 --> 00:03:57,589
+uploaded here, our customer avatar,
+things like, you know, our different,
+
+226
+00:03:57,589 --> 00:03:57,599
+things like, you know, our different,
+ 
+
+227
+00:03:57,599 --> 00:03:59,429
+things like, you know, our different,
+you know, offers and swipe files from
+
+228
+00:03:59,429 --> 00:03:59,439
+you know, offers and swipe files from
+ 
+
+229
+00:03:59,439 --> 00:04:01,270
+you know, offers and swipe files from
+platforms like X, Instagram, and
+
+230
+00:04:01,270 --> 00:04:01,280
+platforms like X, Instagram, and
+ 
+
+231
+00:04:01,280 --> 00:04:03,652
+platforms like X, Instagram, and
+LinkedIn. Just take whatever you've got
+
+232
+00:04:03,652 --> 00:04:03,662
+LinkedIn. Just take whatever you've got
+ 
+
+233
+00:04:03,662 --> 00:04:05,990
+LinkedIn. Just take whatever you've got
+[music] and upload that to the project
+
+234
+00:04:05,990 --> 00:04:06,000
+[music] and upload that to the project
+ 
+
+235
+00:04:06,000 --> 00:04:07,670
+[music] and upload that to the project
+knowledge so that Claude can start
+
+236
+00:04:07,670 --> 00:04:07,680
+knowledge so that Claude can start
+ 
+
+237
+00:04:07,680 --> 00:04:09,547
+knowledge so that Claude can start
+writing like you speak. And so from
+
+238
+00:04:09,547 --> 00:04:09,557
+writing like you speak. And so from
+ 
+
+239
+00:04:09,557 --> 00:04:11,190
+writing like you speak. And so from
+[music] here, I can then go and use
+
+240
+00:04:11,190 --> 00:04:11,200
+[music] here, I can then go and use
+ 
+
+241
+00:04:11,200 --> 00:04:12,630
+[music] here, I can then go and use
+Whisper Flow to help be this
+
+242
+00:04:12,630 --> 00:04:12,640
+Whisper Flow to help be this
+ 
+
+243
+00:04:12,640 --> 00:04:14,789
+Whisper Flow to help be this
+brainstorming partner for an upcoming
+
+244
+00:04:14,789 --> 00:04:14,799
+brainstorming partner for an upcoming
+ 
+
+245
+00:04:14,799 --> 00:04:16,710
+brainstorming partner for an upcoming
+video that we're creating all along how
+
+246
+00:04:16,710 --> 00:04:16,720
+video that we're creating all along how
+ 
+
+247
+00:04:16,720 --> 00:04:18,870
+video that we're creating all along how
+to create amazing hooks for [music]
+
+248
+00:04:18,870 --> 00:04:18,880
+to create amazing hooks for [music]
+ 
+
+249
+00:04:18,880 --> 00:04:21,909
+to create amazing hooks for [music]
+YouTube. So, I'm creating a video around
+
+250
+00:04:21,909 --> 00:04:21,919
+YouTube. So, I'm creating a video around
+ 
+
+251
+00:04:21,919 --> 00:04:24,390
+YouTube. So, I'm creating a video around
+how to create killer YouTube hooks. I
+
+252
+00:04:24,390 --> 00:04:24,400
+how to create killer YouTube hooks. I
+ 
+
+253
+00:04:24,400 --> 00:04:27,030
+how to create killer YouTube hooks. I
+need you to go and flush out the [music]
+
+254
+00:04:27,030 --> 00:04:27,040
+need you to go and flush out the [music]
+ 
+
+255
+00:04:27,040 --> 00:04:28,870
+need you to go and flush out the [music]
+potential hooks. Give me five different
+
+256
+00:04:28,870 --> 00:04:28,880
+potential hooks. Give me five different
+ 
+
+257
+00:04:28,880 --> 00:04:32,390
+potential hooks. Give me five different
+hooks as well as 12 different aspects of
+
+258
+00:04:32,390 --> 00:04:32,400
+hooks as well as 12 different aspects of
+ 
+
+259
+00:04:32,400 --> 00:04:34,790
+hooks as well as 12 different aspects of
+the video ranked from what feels most
+
+260
+00:04:34,790 --> 00:04:34,800
+the video ranked from what feels most
+ 
+
+261
+00:04:34,800 --> 00:04:36,950
+the video ranked from what feels most
+retentive to least using [music] the
+
+262
+00:04:36,950 --> 00:04:36,960
+retentive to least using [music] the
+ 
+
+263
+00:04:36,960 --> 00:04:39,189
+retentive to least using [music] the
+actual language and concepts. I've used
+
+264
+00:04:39,189 --> 00:04:39,199
+actual language and concepts. I've used
+ 
+
+265
+00:04:39,199 --> 00:04:40,870
+actual language and concepts. I've used
+inside of the project knowledge. And so
+
+266
+00:04:40,870 --> 00:04:40,880
+inside of the project knowledge. And so
+ 
+
+267
+00:04:40,880 --> 00:04:44,390
+inside of the project knowledge. And so
+we transcribe that using whisper flow
+
+268
+00:04:44,390 --> 00:04:44,400
+we transcribe that using whisper flow
+ 
+
+269
+00:04:44,400 --> 00:04:45,909
+we transcribe that using whisper flow
+and then [music] let you know this
+
+270
+00:04:45,909 --> 00:04:45,919
+and then [music] let you know this
+ 
+
+271
+00:04:45,919 --> 00:04:47,670
+and then [music] let you know this
+YouTube script writing prompt and
+
+272
+00:04:47,670 --> 00:04:47,680
+YouTube script writing prompt and
+ 
+
+273
+00:04:47,680 --> 00:04:49,749
+YouTube script writing prompt and
+project inside of Claude be a
+
+274
+00:04:49,749 --> 00:04:49,759
+project inside of Claude be a
+ 
+
+275
+00:04:49,759 --> 00:04:51,590
+project inside of Claude be a
+brainstorming partner for me. Now again,
+
+276
+00:04:51,590 --> 00:04:51,600
+brainstorming partner for me. Now again,
+ 
+
+277
+00:04:51,600 --> 00:04:53,590
+brainstorming partner for me. Now again,
+I'm not using this verbatim. In fact,
+
+278
+00:04:53,590 --> 00:04:53,600
+I'm not using this verbatim. In fact,
+ 
+
+279
+00:04:53,600 --> 00:04:55,670
+I'm not using this verbatim. In fact,
+you know, my YouTube videos are actually
+
+280
+00:04:55,670 --> 00:04:55,680
+you know, my YouTube videos are actually
+ 
+
+281
+00:04:55,680 --> 00:04:57,110
+you know, my YouTube videos are actually
+just me riffing, right? There's no
+
+282
+00:04:57,110 --> 00:04:57,120
+just me riffing, right? There's no
+ 
+
+283
+00:04:57,120 --> 00:04:58,673
+just me riffing, right? There's no
+script in front of me right now. That
+
+284
+00:04:58,673 --> 00:04:58,683
+script in front of me right now. That
+ 
+
+285
+00:04:58,683 --> 00:05:00,629
+script in front of me right now. That
+[music] said, you know, the Super Bowl
+
+286
+00:05:00,629 --> 00:05:00,639
+[music] said, you know, the Super Bowl
+ 
+
+287
+00:05:00,639 --> 00:05:02,790
+[music] said, you know, the Super Bowl
+is one in the preseason and killer
+
+288
+00:05:02,790 --> 00:05:02,800
+is one in the preseason and killer
+ 
+
+289
+00:05:02,800 --> 00:05:04,629
+is one in the preseason and killer
+YouTube videos are one in the
+
+290
+00:05:04,629 --> 00:05:04,639
+YouTube videos are one in the
+ 
+
+291
+00:05:04,639 --> 00:05:06,950
+YouTube videos are one in the
+preparation. And so what I'm able to do
+
+292
+00:05:06,950 --> 00:05:06,960
+preparation. And so what I'm able to do
+ 
+
+293
+00:05:06,960 --> 00:05:09,110
+preparation. And so what I'm able to do
+here is essentially use Claude as this
+
+294
+00:05:09,110 --> 00:05:09,120
+here is essentially use Claude as this
+ 
+
+295
+00:05:09,120 --> 00:05:10,950
+here is essentially use Claude as this
+sparring and brainstorming partner,
+
+296
+00:05:10,950 --> 00:05:10,960
+sparring and brainstorming partner,
+ 
+
+297
+00:05:10,960 --> 00:05:12,710
+sparring and brainstorming partner,
+helping me come up with things like, you
+
+298
+00:05:12,710 --> 00:05:12,720
+helping me come up with things like, you
+ 
+
+299
+00:05:12,720 --> 00:05:14,150
+helping me come up with things like, you
+know, the different structures of the
+
+300
+00:05:14,150 --> 00:05:14,160
+know, the different structures of the
+ 
+
+301
+00:05:14,160 --> 00:05:16,070
+know, the different structures of the
+video, helping me research the stuff
+
+302
+00:05:16,070 --> 00:05:16,080
+video, helping me research the stuff
+ 
+
+303
+00:05:16,080 --> 00:05:17,830
+video, helping me research the stuff
+that would probably be most retentive,
+
+304
+00:05:17,830 --> 00:05:17,840
+that would probably be most retentive,
+ 
+
+305
+00:05:17,840 --> 00:05:19,590
+that would probably be most retentive,
+the stuff that you guys really need, so
+
+306
+00:05:19,590 --> 00:05:19,600
+the stuff that you guys really need, so
+ 
+
+307
+00:05:19,600 --> 00:05:22,629
+the stuff that you guys really need, so
+that I can jam-pack each video with the
+
+308
+00:05:22,629 --> 00:05:22,639
+that I can jam-pack each video with the
+ 
+
+309
+00:05:22,639 --> 00:05:24,950
+that I can jam-pack each video with the
+highest value per second possible to
+
+310
+00:05:24,950 --> 00:05:24,960
+highest value per second possible to
+ 
+
+311
+00:05:24,960 --> 00:05:26,150
+highest value per second possible to
+make sure I'm being as generous as
+
+312
+00:05:26,150 --> 00:05:26,160
+make sure I'm being as generous as
+ 
+
+313
+00:05:26,160 --> 00:05:28,150
+make sure I'm being as generous as
+possible in every single video we put
+
+314
+00:05:28,150 --> 00:05:28,160
+possible in every single video we put
+ 
+
+315
+00:05:28,160 --> 00:05:30,390
+possible in every single video we put
+out every Tuesday and every Friday. And
+
+316
+00:05:30,390 --> 00:05:30,400
+out every Tuesday and every Friday. And
+ 
+
+317
+00:05:30,400 --> 00:05:32,469
+out every Tuesday and every Friday. And
+this is exactly what we help founders
+
+318
+00:05:32,469 --> 00:05:32,479
+this is exactly what we help founders
+ 
+
+319
+00:05:32,479 --> 00:05:34,629
+this is exactly what we help founders
+with as well inside of Founder OS,
+
+320
+00:05:34,629 --> 00:05:34,639
+with as well inside of Founder OS,
+ 
+
+321
+00:05:34,639 --> 00:05:36,070
+with as well inside of Founder OS,
+helping them go and scale up their
+
+322
+00:05:36,070 --> 00:05:36,080
+helping them go and scale up their
+ 
+
+323
+00:05:36,080 --> 00:05:37,990
+helping them go and scale up their
+personal media company, leveraging the
+
+324
+00:05:37,990 --> 00:05:38,000
+personal media company, leveraging the
+ 
+
+325
+00:05:38,000 --> 00:05:40,390
+personal media company, leveraging the
+content GPS and content waterfall system
+
+326
+00:05:40,390 --> 00:05:40,400
+content GPS and content waterfall system
+ 
+
+327
+00:05:40,400 --> 00:05:42,070
+content GPS and content waterfall system
+and making sure that every stage of
+
+328
+00:05:42,070 --> 00:05:42,080
+and making sure that every stage of
+ 
+
+329
+00:05:42,080 --> 00:05:43,990
+and making sure that every stage of
+their content operation is powered by
+
+330
+00:05:43,990 --> 00:05:44,000
+their content operation is powered by
+ 
+
+331
+00:05:44,000 --> 00:05:45,110
+their content operation is powered by
+AI. If this is something that's
+
+332
+00:05:45,110 --> 00:05:45,120
+AI. If this is something that's
+ 
+
+333
+00:05:45,120 --> 00:05:46,150
+AI. If this is something that's
+interesting to you, you can definitely
+
+334
+00:05:46,150 --> 00:05:46,160
+interesting to you, you can definitely
+ 
+
+335
+00:05:46,160 --> 00:05:48,150
+interesting to you, you can definitely
+go and check out Founder OS via the link
+
+336
+00:05:48,150 --> 00:05:48,160
+go and check out Founder OS via the link
+ 
+
+337
+00:05:48,160 --> 00:05:50,150
+go and check out Founder OS via the link
+in the description. [music] So here we
+
+338
+00:05:50,150 --> 00:05:50,160
+in the description. [music] So here we
+ 
+
+339
+00:05:50,160 --> 00:05:52,390
+in the description. [music] So here we
+can see Claude goes and powers, you
+
+340
+00:05:52,390 --> 00:05:52,400
+can see Claude goes and powers, you
+ 
+
+341
+00:05:52,400 --> 00:05:54,230
+can see Claude goes and powers, you
+know, five different YouTube hook
+
+342
+00:05:54,230 --> 00:05:54,240
+know, five different YouTube hook
+ 
+
+343
+00:05:54,240 --> 00:05:56,310
+know, five different YouTube hook
+options. From there, we can see kind of
+
+344
+00:05:56,310 --> 00:05:56,320
+options. From there, we can see kind of
+ 
+
+345
+00:05:56,320 --> 00:05:58,390
+options. From there, we can see kind of
+like 12 different aspects of the video.
+
+346
+00:05:58,390 --> 00:05:58,400
+like 12 different aspects of the video.
+ 
+
+347
+00:05:58,400 --> 00:05:59,670
+like 12 different aspects of the video.
+I'm not going to go and use all of
+
+348
+00:05:59,670 --> 00:05:59,680
+I'm not going to go and use all of
+ 
+
+349
+00:05:59,680 --> 00:06:01,189
+I'm not going to go and use all of
+these, but you know, it's going to
+
+350
+00:06:01,189 --> 00:06:01,199
+these, but you know, it's going to
+ 
+
+351
+00:06:01,199 --> 00:06:02,550
+these, but you know, it's going to
+remind me of things like, yeah, you
+
+352
+00:06:02,550 --> 00:06:02,560
+remind me of things like, yeah, you
+ 
+
+353
+00:06:02,560 --> 00:06:03,670
+remind me of things like, yeah, you
+know, I should go and mention the
+
+354
+00:06:03,670 --> 00:06:03,680
+know, I should go and mention the
+ 
+
+355
+00:06:03,680 --> 00:06:05,590
+know, I should go and mention the
+curiosity gap. You know, I definitely
+
+356
+00:06:05,590 --> 00:06:05,600
+curiosity gap. You know, I definitely
+ 
+
+357
+00:06:05,600 --> 00:06:07,029
+curiosity gap. You know, I definitely
+want to make sure that people learn
+
+358
+00:06:07,029 --> 00:06:07,039
+want to make sure that people learn
+ 
+
+359
+00:06:07,039 --> 00:06:08,550
+want to make sure that people learn
+about the importance of pattern
+
+360
+00:06:08,550 --> 00:06:08,560
+about the importance of pattern
+ 
+
+361
+00:06:08,560 --> 00:06:10,469
+about the importance of pattern
+interrupts. And so, this will just serve
+
+362
+00:06:10,469 --> 00:06:10,479
+interrupts. And so, this will just serve
+ 
+
+363
+00:06:10,479 --> 00:06:13,189
+interrupts. And so, this will just serve
+as this jump off point where I can use
+
+364
+00:06:13,189 --> 00:06:13,199
+as this jump off point where I can use
+ 
+
+365
+00:06:13,199 --> 00:06:15,590
+as this jump off point where I can use
+these different aspects [music] as, you
+
+366
+00:06:15,590 --> 00:06:15,600
+these different aspects [music] as, you
+ 
+
+367
+00:06:15,600 --> 00:06:17,350
+these different aspects [music] as, you
+know, inspiration for what I'm actually
+
+368
+00:06:17,350 --> 00:06:17,360
+know, inspiration for what I'm actually
+ 
+
+369
+00:06:17,360 --> 00:06:19,029
+know, inspiration for what I'm actually
+going to go and riff on in a given
+
+370
+00:06:19,029 --> 00:06:19,039
+going to go and riff on in a given
+ 
+
+371
+00:06:19,039 --> 00:06:20,469
+going to go and riff on in a given
+YouTube video. So, we just went through
+
+372
+00:06:20,469 --> 00:06:20,479
+YouTube video. So, we just went through
+ 
+
+373
+00:06:20,479 --> 00:06:21,749
+YouTube video. So, we just went through
+a lot here, right? But you may be
+
+374
+00:06:21,749 --> 00:06:21,759
+a lot here, right? But you may be
+ 
+
+375
+00:06:21,759 --> 00:06:23,590
+a lot here, right? But you may be
+thinking, you know, Matt, how do I even
+
+376
+00:06:23,590 --> 00:06:23,600
+thinking, you know, Matt, how do I even
+ 
+
+377
+00:06:23,600 --> 00:06:25,510
+thinking, you know, Matt, how do I even
+go and create a given project for
+
+378
+00:06:25,510 --> 00:06:25,520
+go and create a given project for
+ 
+
+379
+00:06:25,520 --> 00:06:27,189
+go and create a given project for
+YouTube scripts? Well, beyond the fact
+
+380
+00:06:27,189 --> 00:06:27,199
+YouTube scripts? Well, beyond the fact
+ 
+
+381
+00:06:27,199 --> 00:06:29,749
+YouTube scripts? Well, beyond the fact
+that in the AI 1hour playbook, I've
+
+382
+00:06:29,749 --> 00:06:29,759
+that in the AI 1hour playbook, I've
+ 
+
+383
+00:06:29,759 --> 00:06:32,230
+that in the AI 1hour playbook, I've
+given you the actual prompt in project
+
+384
+00:06:32,230 --> 00:06:32,240
+given you the actual prompt in project
+ 
+
+385
+00:06:32,240 --> 00:06:34,070
+given you the actual prompt in project
+files that you should be using, um, let
+
+386
+00:06:34,070 --> 00:06:34,080
+files that you should be using, um, let
+ 
+
+387
+00:06:34,080 --> 00:06:35,830
+files that you should be using, um, let
+me go and show you live how you could
+
+388
+00:06:35,830 --> 00:06:35,840
+me go and show you live how you could
+ 
+
+389
+00:06:35,840 --> 00:06:38,390
+me go and show you live how you could
+just create any project from scratch.
+
+390
+00:06:38,390 --> 00:06:38,400
+just create any project from scratch.
+ 
+
+391
+00:06:38,400 --> 00:06:40,950
+just create any project from scratch.
+So, we're going into a new chat here in
+
+392
+00:06:40,950 --> 00:06:40,960
+So, we're going into a new chat here in
+ 
+
+393
+00:06:40,960 --> 00:06:43,189
+So, we're going into a new chat here in
+Claude. I can simply open up Whisper
+
+394
+00:06:43,189 --> 00:06:43,199
+Claude. I can simply open up Whisper
+ 
+
+395
+00:06:43,199 --> 00:06:46,390
+Claude. I can simply open up Whisper
+Flow and say, I'm creating a new project
+
+396
+00:06:46,390 --> 00:06:46,400
+Flow and say, I'm creating a new project
+ 
+
+397
+00:06:46,400 --> 00:06:48,950
+Flow and say, I'm creating a new project
+to go and help me write banger YouTube
+
+398
+00:06:48,950 --> 00:06:48,960
+to go and help me write banger YouTube
+ 
+
+399
+00:06:48,960 --> 00:06:50,710
+to go and help me write banger YouTube
+scripts that are highly retentive and
+
+400
+00:06:50,710 --> 00:06:50,720
+scripts that are highly retentive and
+ 
+
+401
+00:06:50,720 --> 00:06:53,029
+scripts that are highly retentive and
+appeal to a core, casual, and new
+
+402
+00:06:53,029 --> 00:06:53,039
+appeal to a core, casual, and new
+ 
+
+403
+00:06:53,039 --> 00:06:54,790
+appeal to a core, casual, and new
+audience. I want [music] each script to
+
+404
+00:06:54,790 --> 00:06:54,800
+audience. I want [music] each script to
+ 
+
+405
+00:06:54,800 --> 00:06:56,790
+audience. I want [music] each script to
+have a 70% retention rate by the end of
+
+406
+00:06:56,790 --> 00:06:56,800
+have a 70% retention rate by the end of
+ 
+
+407
+00:06:56,800 --> 00:06:58,469
+have a 70% retention rate by the end of
+the video. I want it to be around 12
+
+408
+00:06:58,469 --> 00:06:58,479
+the video. I want it to be around 12
+ 
+
+409
+00:06:58,479 --> 00:06:59,909
+the video. I want it to be around 12
+minutes 30 seconds long, which is
+
+410
+00:06:59,909 --> 00:06:59,919
+minutes 30 seconds long, which is
+ 
+
+411
+00:06:59,919 --> 00:07:02,070
+minutes 30 seconds long, which is
+approximately 3,000 words. And I need
+
+412
+00:07:02,070 --> 00:07:02,080
+approximately 3,000 words. And I need
+ 
+
+413
+00:07:02,080 --> 00:07:05,589
+approximately 3,000 words. And I need
+you to go and develop a YouTube script
+
+414
+00:07:05,589 --> 00:07:05,599
+you to go and develop a YouTube script
+ 
+
+415
+00:07:05,599 --> 00:07:07,830
+you to go and develop a YouTube script
+writing prompt that I can go and upload
+
+416
+00:07:07,830 --> 00:07:07,840
+writing prompt that I can go and upload
+ 
+
+417
+00:07:07,840 --> 00:07:10,390
+writing prompt that I can go and upload
+to the project instructions of a new
+
+418
+00:07:10,390 --> 00:07:10,400
+to the project instructions of a new
+ 
+
+419
+00:07:10,400 --> 00:07:13,430
+to the project instructions of a new
+YouTube project um and be able to write
+
+420
+00:07:13,430 --> 00:07:13,440
+YouTube project um and be able to write
+ 
+
+421
+00:07:13,440 --> 00:07:15,430
+YouTube project um and be able to write
+amazing scripts that have the shot at
+
+422
+00:07:15,430 --> 00:07:15,440
+amazing scripts that have the shot at
+ 
+
+423
+00:07:15,440 --> 00:07:16,879
+amazing scripts that have the shot at
+getting over 5 million views.
+
+424
+00:07:16,879 --> 00:07:16,889
+getting over 5 million views.
+ 
+
+425
+00:07:16,889 --> 00:07:17,110
+getting over 5 million views.
+>> [music]
+
+426
+00:07:17,110 --> 00:07:17,120
+>> [music]
+ 
+
+427
+00:07:17,120 --> 00:07:18,550
+>> [music]
+>> In addition to that, I need you to then
+
+428
+00:07:18,550 --> 00:07:18,560
+>> In addition to that, I need you to then
+ 
+
+429
+00:07:18,560 --> 00:07:21,350
+>> In addition to that, I need you to then
+below detail out the exact documents
+
+430
+00:07:21,350 --> 00:07:21,360
+below detail out the exact documents
+ 
+
+431
+00:07:21,360 --> 00:07:23,029
+below detail out the exact documents
+that you think I need to upload to the
+
+432
+00:07:23,029 --> 00:07:23,039
+that you think I need to upload to the
+ 
+
+433
+00:07:23,039 --> 00:07:24,870
+that you think I need to upload to the
+project knowledge to make sure that the
+
+434
+00:07:24,870 --> 00:07:24,880
+project knowledge to make sure that the
+ 
+
+435
+00:07:24,880 --> 00:07:26,705
+project knowledge to make sure that the
+claude project has as much context
+
+436
+00:07:26,705 --> 00:07:26,715
+claude project has as much context
+ 
+
+437
+00:07:26,715 --> 00:07:28,710
+claude project has as much context
+[music] on me, my voice, so that it's
+
+438
+00:07:28,710 --> 00:07:28,720
+[music] on me, my voice, so that it's
+ 
+
+439
+00:07:28,720 --> 00:07:30,390
+[music] on me, my voice, so that it's
+able to write authentically. So, what
+
+440
+00:07:30,390 --> 00:07:30,400
+able to write authentically. So, what
+ 
+
+441
+00:07:30,400 --> 00:07:32,230
+able to write authentically. So, what
+you're seeing here is there's no better
+
+442
+00:07:32,230 --> 00:07:32,240
+you're seeing here is there's no better
+ 
+
+443
+00:07:32,240 --> 00:07:34,790
+you're seeing here is there's no better
+way to just go and tool up a Claude
+
+444
+00:07:34,790 --> 00:07:34,800
+way to just go and tool up a Claude
+ 
+
+445
+00:07:34,800 --> 00:07:37,270
+way to just go and tool up a Claude
+project than just [music] by asking
+
+446
+00:07:37,270 --> 00:07:37,280
+project than just [music] by asking
+ 
+
+447
+00:07:37,280 --> 00:07:38,870
+project than just [music] by asking
+Claude. So, now you can see Claude's
+
+448
+00:07:38,870 --> 00:07:38,880
+Claude. So, now you can see Claude's
+ 
+
+449
+00:07:38,880 --> 00:07:40,550
+Claude. So, now you can see Claude's
+gone and outputed an entire YouTube
+
+450
+00:07:40,550 --> 00:07:40,560
+gone and outputed an entire YouTube
+ 
+
+451
+00:07:40,560 --> 00:07:41,770
+gone and outputed an entire YouTube
+script writing project instructions
+
+452
+00:07:41,770 --> 00:07:41,780
+script writing project instructions
+ 
+
+453
+00:07:41,780 --> 00:07:42,390
+script writing project instructions
+[music]
+
+454
+00:07:42,390 --> 00:07:42,400
+[music]
+ 
+
+455
+00:07:42,400 --> 00:07:44,790
+[music]
+for itself. And so what I can do is then
+
+456
+00:07:44,790 --> 00:07:44,800
+for itself. And so what I can do is then
+ 
+
+457
+00:07:44,800 --> 00:07:48,309
+for itself. And so what I can do is then
+simply go and copy all of this. And I
+
+458
+00:07:48,309 --> 00:07:48,319
+simply go and copy all of this. And I
+ 
+
+459
+00:07:48,319 --> 00:07:52,550
+simply go and copy all of this. And I
+can go and copy this into a new project.
+
+460
+00:07:52,550 --> 00:07:52,560
+can go and copy this into a new project.
+ 
+
+461
+00:07:52,560 --> 00:07:54,629
+can go and copy this into a new project.
+So we'll go and create a new project
+
+462
+00:07:54,629 --> 00:07:54,639
+So we'll go and create a new project
+ 
+
+463
+00:07:54,639 --> 00:07:58,309
+So we'll go and create a new project
+here. We'll call it YouTube script
+
+464
+00:07:58,309 --> 00:07:58,319
+here. We'll call it YouTube script
+ 
+
+465
+00:07:58,319 --> 00:08:01,749
+here. We'll call it YouTube script
+writer and we'll create the project.
+
+466
+00:08:01,749 --> 00:08:01,759
+writer and we'll create the project.
+ 
+
+467
+00:08:01,759 --> 00:08:03,510
+writer and we'll create the project.
+We'll go to the project instructions
+
+468
+00:08:03,510 --> 00:08:03,520
+We'll go to the project instructions
+ 
+
+469
+00:08:03,520 --> 00:08:06,070
+We'll go to the project instructions
+over here. Go and copy and paste that
+
+470
+00:08:06,070 --> 00:08:06,080
+over here. Go and copy and paste that
+ 
+
+471
+00:08:06,080 --> 00:08:08,070
+over here. Go and copy and paste that
+entire prompt that Claude made. We'll
+
+472
+00:08:08,070 --> 00:08:08,080
+entire prompt that Claude made. We'll
+ 
+
+473
+00:08:08,080 --> 00:08:09,589
+entire prompt that Claude made. We'll
+give that a quick edit to make sure it's
+
+474
+00:08:09,589 --> 00:08:09,599
+give that a quick edit to make sure it's
+ 
+
+475
+00:08:09,599 --> 00:08:12,230
+give that a quick edit to make sure it's
+dialed. Save those instructions. And
+
+476
+00:08:12,230 --> 00:08:12,240
+dialed. Save those instructions. And
+ 
+
+477
+00:08:12,240 --> 00:08:14,550
+dialed. Save those instructions. And
+then it's also gone and inside the chat
+
+478
+00:08:14,550 --> 00:08:14,560
+then it's also gone and inside the chat
+ 
+
+479
+00:08:14,560 --> 00:08:16,550
+then it's also gone and inside the chat
+given me exactly what needs to be
+
+480
+00:08:16,550 --> 00:08:16,560
+given me exactly what needs to be
+ 
+
+481
+00:08:16,560 --> 00:08:18,230
+given me exactly what needs to be
+included in the project as well. So
+
+482
+00:08:18,230 --> 00:08:18,240
+included in the project as well. So
+ 
+
+483
+00:08:18,240 --> 00:08:20,415
+included in the project as well. So
+we'll go and follow its instructions to
+
+484
+00:08:20,415 --> 00:08:20,425
+we'll go and follow its instructions to
+ 
+
+485
+00:08:20,425 --> 00:08:22,710
+we'll go and follow its instructions to
+[music] upload some files that I have on
+
+486
+00:08:22,710 --> 00:08:22,720
+[music] upload some files that I have on
+ 
+
+487
+00:08:22,720 --> 00:08:24,550
+[music] upload some files that I have on
+my desktop. So now we've got the project
+
+488
+00:08:24,550 --> 00:08:24,560
+my desktop. So now we've got the project
+ 
+
+489
+00:08:24,560 --> 00:08:26,469
+my desktop. So now we've got the project
+instructions toolled up, we've got the
+
+490
+00:08:26,469 --> 00:08:26,479
+instructions toolled up, we've got the
+ 
+
+491
+00:08:26,479 --> 00:08:28,309
+instructions toolled up, we've got the
+project knowledge toolled up, and we can
+
+492
+00:08:28,309 --> 00:08:28,319
+project knowledge toolled up, and we can
+ 
+
+493
+00:08:28,319 --> 00:08:29,909
+project knowledge toolled up, and we can
+just get ripping [music] with Claude as
+
+494
+00:08:29,909 --> 00:08:29,919
+just get ripping [music] with Claude as
+ 
+
+495
+00:08:29,919 --> 00:08:31,589
+just get ripping [music] with Claude as
+our brainstorming partner. Skill number
+
+496
+00:08:31,589 --> 00:08:31,599
+our brainstorming partner. Skill number
+ 
+
+497
+00:08:31,599 --> 00:08:34,389
+our brainstorming partner. Skill number
+three, building AI SOPs with Lumi. This
+
+498
+00:08:34,389 --> 00:08:34,399
+three, building AI SOPs with Lumi. This
+ 
+
+499
+00:08:34,399 --> 00:08:36,630
+three, building AI SOPs with Lumi. This
+takes 10 minutes. Start the clock. say
+
+500
+00:08:36,630 --> 00:08:36,640
+takes 10 minutes. Start the clock. say
+ 
+
+501
+00:08:36,640 --> 00:08:38,070
+takes 10 minutes. Start the clock. say
+that I want someone on my team to be
+
+502
+00:08:38,070 --> 00:08:38,080
+that I want someone on my team to be
+ 
+
+503
+00:08:38,080 --> 00:08:40,870
+that I want someone on my team to be
+able to evolve our offers um and help me
+
+504
+00:08:40,870 --> 00:08:40,880
+able to evolve our offers um and help me
+ 
+
+505
+00:08:40,880 --> 00:08:43,190
+able to evolve our offers um and help me
+go and create different offer stacks for
+
+506
+00:08:43,190 --> 00:08:43,200
+go and create different offer stacks for
+ 
+
+507
+00:08:43,200 --> 00:08:44,790
+go and create different offer stacks for
+the things that we're building. Okay.
+
+508
+00:08:44,790 --> 00:08:44,800
+the things that we're building. Okay.
+ 
+
+509
+00:08:44,800 --> 00:08:46,870
+the things that we're building. Okay.
+Well, here you can see I've gone and
+
+510
+00:08:46,870 --> 00:08:46,880
+Well, here you can see I've gone and
+ 
+
+511
+00:08:46,880 --> 00:08:50,230
+Well, here you can see I've gone and
+created this overall deck um that gives
+
+512
+00:08:50,230 --> 00:08:50,240
+created this overall deck um that gives
+ 
+
+513
+00:08:50,240 --> 00:08:53,030
+created this overall deck um that gives
+people an understanding of how our offer
+
+514
+00:08:53,030 --> 00:08:53,040
+people an understanding of how our offer
+ 
+
+515
+00:08:53,040 --> 00:08:54,949
+people an understanding of how our offer
+pyramid works at Founder OS having an
+
+516
+00:08:54,949 --> 00:08:54,959
+pyramid works at Founder OS having an
+ 
+
+517
+00:08:54,959 --> 00:08:57,030
+pyramid works at Founder OS having an
+entry- level offer, core offer, and high
+
+518
+00:08:57,030 --> 00:08:57,040
+entry- level offer, core offer, and high
+ 
+
+519
+00:08:57,040 --> 00:08:59,110
+entry- level offer, core offer, and high
+ticket offer. Um and [music] I've
+
+520
+00:08:59,110 --> 00:08:59,120
+ticket offer. Um and [music] I've
+ 
+
+521
+00:08:59,120 --> 00:09:01,670
+ticket offer. Um and [music] I've
+detailed out exactly how we do this and
+
+522
+00:09:01,670 --> 00:09:01,680
+detailed out exactly how we do this and
+ 
+
+523
+00:09:01,680 --> 00:09:04,230
+detailed out exactly how we do this and
+the core elements of this system. Once
+
+524
+00:09:04,230 --> 00:09:04,240
+the core elements of this system. Once
+ 
+
+525
+00:09:04,240 --> 00:09:06,630
+the core elements of this system. Once
+I've gone and recorded this 5 minute
+
+526
+00:09:06,630 --> 00:09:06,640
+I've gone and recorded this 5 minute
+ 
+
+527
+00:09:06,640 --> 00:09:09,430
+I've gone and recorded this 5 minute
+Loom video, I can then go to generate
+
+528
+00:09:09,430 --> 00:09:09,440
+Loom video, I can then go to generate
+ 
+
+529
+00:09:09,440 --> 00:09:12,310
+Loom video, I can then go to generate
+and in the settings of Loom, you can go
+
+530
+00:09:12,310 --> 00:09:12,320
+and in the settings of Loom, you can go
+ 
+
+531
+00:09:12,320 --> 00:09:15,350
+and in the settings of Loom, you can go
+and click SOP here. So here you can see
+
+532
+00:09:15,350 --> 00:09:15,360
+and click SOP here. So here you can see
+ 
+
+533
+00:09:15,360 --> 00:09:17,030
+and click SOP here. So here you can see
+what I love about this is it's giving
+
+534
+00:09:17,030 --> 00:09:17,040
+what I love about this is it's giving
+ 
+
+535
+00:09:17,040 --> 00:09:18,790
+what I love about this is it's giving
+the key [music] steps. And what it's
+
+536
+00:09:18,790 --> 00:09:18,800
+the key [music] steps. And what it's
+ 
+
+537
+00:09:18,800 --> 00:09:20,790
+the key [music] steps. And what it's
+doing is providing an image for each as
+
+538
+00:09:20,790 --> 00:09:20,800
+doing is providing an image for each as
+ 
+
+539
+00:09:20,800 --> 00:09:23,430
+doing is providing an image for each as
+well as a few core bullet points so that
+
+540
+00:09:23,430 --> 00:09:23,440
+well as a few core bullet points so that
+ 
+
+541
+00:09:23,440 --> 00:09:25,910
+well as a few core bullet points so that
+it's very easy for someone to then go
+
+542
+00:09:25,910 --> 00:09:25,920
+it's very easy for someone to then go
+ 
+
+543
+00:09:25,920 --> 00:09:27,670
+it's very easy for someone to then go
+and execute [music] this stuff. And so
+
+544
+00:09:27,670 --> 00:09:27,680
+and execute [music] this stuff. And so
+ 
+
+545
+00:09:27,680 --> 00:09:29,030
+and execute [music] this stuff. And so
+now you have the ability to go and
+
+546
+00:09:29,030 --> 00:09:29,040
+now you have the ability to go and
+ 
+
+547
+00:09:29,040 --> 00:09:30,550
+now you have the ability to go and
+record the different tasks that you're
+
+548
+00:09:30,550 --> 00:09:30,560
+record the different tasks that you're
+ 
+
+549
+00:09:30,560 --> 00:09:32,870
+record the different tasks that you're
+completing in a day all the way to, you
+
+550
+00:09:32,870 --> 00:09:32,880
+completing in a day all the way to, you
+ 
+
+551
+00:09:32,880 --> 00:09:34,470
+completing in a day all the way to, you
+know, how you go and structure your
+
+552
+00:09:34,470 --> 00:09:34,480
+know, how you go and structure your
+ 
+
+553
+00:09:34,480 --> 00:09:36,550
+know, how you go and structure your
+calendar to maybe how you answer emails,
+
+554
+00:09:36,550 --> 00:09:36,560
+calendar to maybe how you answer emails,
+ 
+
+555
+00:09:36,560 --> 00:09:37,910
+calendar to maybe how you answer emails,
+how you evolve different strategic
+
+556
+00:09:37,910 --> 00:09:37,920
+how you evolve different strategic
+ 
+
+557
+00:09:37,920 --> 00:09:39,910
+how you evolve different strategic
+partnerships, you name it. And you can
+
+558
+00:09:39,910 --> 00:09:39,920
+partnerships, you name it. And you can
+ 
+
+559
+00:09:39,920 --> 00:09:41,910
+partnerships, you name it. And you can
+just record yourself doing these things
+
+560
+00:09:41,910 --> 00:09:41,920
+just record yourself doing these things
+ 
+
+561
+00:09:41,920 --> 00:09:44,310
+just record yourself doing these things
+and then have Loom take care of all the
+
+562
+00:09:44,310 --> 00:09:44,320
+and then have Loom take care of all the
+ 
+
+563
+00:09:44,320 --> 00:09:46,310
+and then have Loom take care of all the
+systems around this so you can move
+
+564
+00:09:46,310 --> 00:09:46,320
+systems around this so you can move
+ 
+
+565
+00:09:46,320 --> 00:09:48,870
+systems around this so you can move
+faster, stay organized, and build
+
+566
+00:09:48,870 --> 00:09:48,880
+faster, stay organized, and build
+ 
+
+567
+00:09:48,880 --> 00:09:51,190
+faster, stay organized, and build
+leverage across your team. Skill number
+
+568
+00:09:51,190 --> 00:09:51,200
+leverage across your team. Skill number
+ 
+
+569
+00:09:51,200 --> 00:09:53,269
+leverage across your team. Skill number
+four, sales analysis. This takes 10
+
+570
+00:09:53,269 --> 00:09:53,279
+four, sales analysis. This takes 10
+ 
+
+571
+00:09:53,279 --> 00:09:54,949
+four, sales analysis. This takes 10
+minutes. So let me show you some magic
+
+572
+00:09:54,949 --> 00:09:54,959
+minutes. So let me show you some magic
+ 
+
+573
+00:09:54,959 --> 00:09:56,870
+minutes. So let me show you some magic
+here. when you're going and building,
+
+574
+00:09:56,870 --> 00:09:56,880
+here. when you're going and building,
+ 
+
+575
+00:09:56,880 --> 00:09:58,870
+here. when you're going and building,
+you know, any business, you have, you
+
+576
+00:09:58,870 --> 00:09:58,880
+you know, any business, you have, you
+ 
+
+577
+00:09:58,880 --> 00:10:01,430
+you know, any business, you have, you
+know, technically a group of like 20% of
+
+578
+00:10:01,430 --> 00:10:01,440
+know, technically a group of like 20% of
+ 
+
+579
+00:10:01,440 --> 00:10:03,350
+know, technically a group of like 20% of
+your customers that are going to make up
+
+580
+00:10:03,350 --> 00:10:03,360
+your customers that are going to make up
+ 
+
+581
+00:10:03,360 --> 00:10:06,230
+your customers that are going to make up
+around 80% of your revenue. And so what
+
+582
+00:10:06,230 --> 00:10:06,240
+around 80% of your revenue. And so what
+ 
+
+583
+00:10:06,240 --> 00:10:08,070
+around 80% of your revenue. And so what
+you want to go and do is go and pay
+
+584
+00:10:08,070 --> 00:10:08,080
+you want to go and do is go and pay
+ 
+
+585
+00:10:08,080 --> 00:10:09,750
+you want to go and do is go and pay
+attention to the sales calls that you
+
+586
+00:10:09,750 --> 00:10:09,760
+attention to the sales calls that you
+ 
+
+587
+00:10:09,760 --> 00:10:12,630
+attention to the sales calls that you
+did to go and get those clients across
+
+588
+00:10:12,630 --> 00:10:12,640
+did to go and get those clients across
+ 
+
+589
+00:10:12,640 --> 00:10:14,949
+did to go and get those clients across
+the line. go and get the transcript from
+
+590
+00:10:14,949 --> 00:10:14,959
+the line. go and get the transcript from
+ 
+
+591
+00:10:14,959 --> 00:10:16,949
+the line. go and get the transcript from
+Fathom AI which should hook into your
+
+592
+00:10:16,949 --> 00:10:16,959
+Fathom AI which should hook into your
+ 
+
+593
+00:10:16,959 --> 00:10:19,990
+Fathom AI which should hook into your
+Zoom so that any Zoom call where either
+
+594
+00:10:19,990 --> 00:10:20,000
+Zoom so that any Zoom call where either
+ 
+
+595
+00:10:20,000 --> 00:10:22,069
+Zoom so that any Zoom call where either
+you or a salesperson on your team close
+
+596
+00:10:22,069 --> 00:10:22,079
+you or a salesperson on your team close
+ 
+
+597
+00:10:22,079 --> 00:10:23,910
+you or a salesperson on your team close
+someone you're able to then go and
+
+598
+00:10:23,910 --> 00:10:23,920
+someone you're able to then go and
+ 
+
+599
+00:10:23,920 --> 00:10:25,670
+someone you're able to then go and
+transcribe all of that. What I'll
+
+600
+00:10:25,670 --> 00:10:25,680
+transcribe all of that. What I'll
+ 
+
+601
+00:10:25,680 --> 00:10:27,670
+transcribe all of that. What I'll
+typically go and do then is go and copy
+
+602
+00:10:27,670 --> 00:10:27,680
+typically go and do then is go and copy
+ 
+
+603
+00:10:27,680 --> 00:10:29,910
+typically go and do then is go and copy
+and paste that entire Fathom AI
+
+604
+00:10:29,910 --> 00:10:29,920
+and paste that entire Fathom AI
+ 
+
+605
+00:10:29,920 --> 00:10:33,110
+and paste that entire Fathom AI
+transcript of those top value calls and
+
+606
+00:10:33,110 --> 00:10:33,120
+transcript of those top value calls and
+ 
+
+607
+00:10:33,120 --> 00:10:35,509
+transcript of those top value calls and
+go and paste those into a document. In
+
+608
+00:10:35,509 --> 00:10:35,519
+go and paste those into a document. In
+ 
+
+609
+00:10:35,519 --> 00:10:37,910
+go and paste those into a document. In
+this case, I call it my velocity paid in
+
+610
+00:10:37,910 --> 00:10:37,920
+this case, I call it my velocity paid in
+ 
+
+611
+00:10:37,920 --> 00:10:40,470
+this case, I call it my velocity paid in
+full deals because here's the deal. The
+
+612
+00:10:40,470 --> 00:10:40,480
+full deals because here's the deal. The
+ 
+
+613
+00:10:40,480 --> 00:10:42,550
+full deals because here's the deal. The
+best copywriting is copywriting that
+
+614
+00:10:42,550 --> 00:10:42,560
+best copywriting is copywriting that
+ 
+
+615
+00:10:42,560 --> 00:10:45,430
+best copywriting is copywriting that
+writes in the words of your actual dream
+
+616
+00:10:45,430 --> 00:10:45,440
+writes in the words of your actual dream
+ 
+
+617
+00:10:45,440 --> 00:10:49,190
+writes in the words of your actual dream
+customer. This is a copywriting gold
+
+618
+00:10:49,190 --> 00:10:49,200
+customer. This is a copywriting gold
+ 
+
+619
+00:10:49,200 --> 00:10:51,509
+customer. This is a copywriting gold
+mine. So, what I can simply go and do is
+
+620
+00:10:51,509 --> 00:10:51,519
+mine. So, what I can simply go and do is
+ 
+
+621
+00:10:51,519 --> 00:10:54,150
+mine. So, what I can simply go and do is
+take all of this documentation, go to
+
+622
+00:10:54,150 --> 00:10:54,160
+take all of this documentation, go to
+ 
+
+623
+00:10:54,160 --> 00:10:57,030
+take all of this documentation, go to
+file, download, and download all of this
+
+624
+00:10:57,030 --> 00:10:57,040
+file, download, and download all of this
+ 
+
+625
+00:10:57,040 --> 00:10:59,829
+file, download, and download all of this
+to a PDF. Now, what I'll then do is go
+
+626
+00:10:59,829 --> 00:10:59,839
+to a PDF. Now, what I'll then do is go
+ 
+
+627
+00:10:59,839 --> 00:11:02,870
+to a PDF. Now, what I'll then do is go
+and move this over to Claude. I have a
+
+628
+00:11:02,870 --> 00:11:02,880
+and move this over to Claude. I have a
+ 
+
+629
+00:11:02,880 --> 00:11:05,670
+and move this over to Claude. I have a
+project here called voice of customer.
+
+630
+00:11:05,670 --> 00:11:05,680
+project here called voice of customer.
+ 
+
+631
+00:11:05,680 --> 00:11:08,710
+project here called voice of customer.
+It has an abundance of the words of my
+
+632
+00:11:08,710 --> 00:11:08,720
+It has an abundance of the words of my
+ 
+
+633
+00:11:08,720 --> 00:11:11,509
+It has an abundance of the words of my
+actual customers and I can leverage this
+
+634
+00:11:11,509 --> 00:11:11,519
+actual customers and I can leverage this
+ 
+
+635
+00:11:11,519 --> 00:11:12,550
+actual customers and I can leverage this
+for different copy. [music]
+
+636
+00:11:12,550 --> 00:11:12,560
+for different copy. [music]
+ 
+
+637
+00:11:12,560 --> 00:11:15,910
+for different copy. [music]
+So as an example here I can go and ask
+
+638
+00:11:15,910 --> 00:11:15,920
+So as an example here I can go and ask
+ 
+
+639
+00:11:15,920 --> 00:11:19,350
+So as an example here I can go and ask
+this what are the top 10 problems that
+
+640
+00:11:19,350 --> 00:11:19,360
+this what are the top 10 problems that
+ 
+
+641
+00:11:19,360 --> 00:11:21,509
+this what are the top 10 problems that
+my dream customer has in their own
+
+642
+00:11:21,509 --> 00:11:21,519
+my dream customer has in their own
+ 
+
+643
+00:11:21,519 --> 00:11:24,630
+my dream customer has in their own
+words. Give me three phrases for each
+
+644
+00:11:24,630 --> 00:11:24,640
+words. Give me three phrases for each
+ 
+
+645
+00:11:24,640 --> 00:11:26,150
+words. Give me three phrases for each
+problem so that I can then go and
+
+646
+00:11:26,150 --> 00:11:26,160
+problem so that I can then go and
+ 
+
+647
+00:11:26,160 --> 00:11:28,710
+problem so that I can then go and
+leverage this for a new landing page I'm
+
+648
+00:11:28,710 --> 00:11:28,720
+leverage this for a new landing page I'm
+ 
+
+649
+00:11:28,720 --> 00:11:30,389
+leverage this for a new landing page I'm
+making. So here we can see Claude's gone
+
+650
+00:11:30,389 --> 00:11:30,399
+making. So here we can see Claude's gone
+ 
+
+651
+00:11:30,399 --> 00:11:31,990
+making. So here we can see Claude's gone
+and analyzed all of that documentation
+
+652
+00:11:31,990 --> 00:11:32,000
+and analyzed all of that documentation
+ 
+
+653
+00:11:32,000 --> 00:11:34,069
+and analyzed all of that documentation
+and it's gone and pulled out these 10
+
+654
+00:11:34,069 --> 00:11:34,079
+and it's gone and pulled out these 10
+ 
+
+655
+00:11:34,079 --> 00:11:36,230
+and it's gone and pulled out these 10
+core problems. So all of these core
+
+656
+00:11:36,230 --> 00:11:36,240
+core problems. So all of these core
+ 
+
+657
+00:11:36,240 --> 00:11:38,470
+core problems. So all of these core
+phrases are exactly what we help people
+
+658
+00:11:38,470 --> 00:11:38,480
+phrases are exactly what we help people
+ 
+
+659
+00:11:38,480 --> 00:11:40,630
+phrases are exactly what we help people
+with in founder OS. Skill number five,
+
+660
+00:11:40,630 --> 00:11:40,640
+with in founder OS. Skill number five,
+ 
+
+661
+00:11:40,640 --> 00:11:42,790
+with in founder OS. Skill number five,
+datadriven decision-making. This takes
+
+662
+00:11:42,790 --> 00:11:42,800
+datadriven decision-making. This takes
+ 
+
+663
+00:11:42,800 --> 00:11:44,550
+datadriven decision-making. This takes
+10 minutes. The goal of this is to have
+
+664
+00:11:44,550 --> 00:11:44,560
+10 minutes. The goal of this is to have
+ 
+
+665
+00:11:44,560 --> 00:11:46,310
+10 minutes. The goal of this is to have
+a co-pilot that's helping me as almost
+
+666
+00:11:46,310 --> 00:11:46,320
+a co-pilot that's helping me as almost
+ 
+
+667
+00:11:46,320 --> 00:11:48,870
+a co-pilot that's helping me as almost
+like a COO alongside me. Kind of like
+
+668
+00:11:48,870 --> 00:11:48,880
+like a COO alongside me. Kind of like
+ 
+
+669
+00:11:48,880 --> 00:11:51,190
+like a COO alongside me. Kind of like
+the Robin to my Batman. And so [music]
+
+670
+00:11:51,190 --> 00:11:51,200
+the Robin to my Batman. And so [music]
+ 
+
+671
+00:11:51,200 --> 00:11:53,430
+the Robin to my Batman. And so [music]
+inside of ChatBT, I have a project that
+
+672
+00:11:53,430 --> 00:11:53,440
+inside of ChatBT, I have a project that
+ 
+
+673
+00:11:53,440 --> 00:11:56,550
+inside of ChatBT, I have a project that
+I call 10X Profits. Okay. In this
+
+674
+00:11:56,550 --> 00:11:56,560
+I call 10X Profits. Okay. In this
+ 
+
+675
+00:11:56,560 --> 00:11:58,150
+I call 10X Profits. Okay. In this
+project, we have our project
+
+676
+00:11:58,150 --> 00:11:58,160
+project, we have our project
+ 
+
+677
+00:11:58,160 --> 00:12:00,069
+project, we have our project
+instructions. and they essentially go
+
+678
+00:12:00,069 --> 00:12:00,079
+instructions. and they essentially go
+ 
+
+679
+00:12:00,079 --> 00:12:01,670
+instructions. and they essentially go
+over, you know, you are the world's best
+
+680
+00:12:01,670 --> 00:12:01,680
+over, you know, you are the world's best
+ 
+
+681
+00:12:01,680 --> 00:12:03,269
+over, you know, you are the world's best
+business coach and growth strategist
+
+682
+00:12:03,269 --> 00:12:03,279
+business coach and growth strategist
+ 
+
+683
+00:12:03,279 --> 00:12:05,350
+business coach and growth strategist
+hired to help Matt Ray scale found from
+
+684
+00:12:05,350 --> 00:12:05,360
+hired to help Matt Ray scale found from
+ 
+
+685
+00:12:05,360 --> 00:12:08,069
+hired to help Matt Ray scale found from
+$500,000 profit per month to $2 million
+
+686
+00:12:08,069 --> 00:12:08,079
+$500,000 profit per month to $2 million
+ 
+
+687
+00:12:08,079 --> 00:12:09,350
+$500,000 profit per month to $2 million
+profit per month. Design and
+
+688
+00:12:09,350 --> 00:12:09,360
+profit per month. Design and
+ 
+
+689
+00:12:09,360 --> 00:12:11,030
+profit per month. Design and
+continuously refine a roadmap that
+
+690
+00:12:11,030 --> 00:12:11,040
+continuously refine a roadmap that
+ 
+
+691
+00:12:11,040 --> 00:12:13,190
+continuously refine a roadmap that
+increases Found profits by 5x in the
+
+692
+00:12:13,190 --> 00:12:13,200
+increases Found profits by 5x in the
+ 
+
+693
+00:12:13,200 --> 00:12:15,030
+increases Found profits by 5x in the
+next 12 months. You will give Matt the
+
+694
+00:12:15,030 --> 00:12:15,040
+next 12 months. You will give Matt the
+ 
+
+695
+00:12:15,040 --> 00:12:17,110
+next 12 months. You will give Matt the
+exact playbook to scale revenue, expand
+
+696
+00:12:17,110 --> 00:12:17,120
+exact playbook to scale revenue, expand
+ 
+
+697
+00:12:17,120 --> 00:12:19,350
+exact playbook to scale revenue, expand
+margins, and simplify operations without
+
+698
+00:12:19,350 --> 00:12:19,360
+margins, and simplify operations without
+ 
+
+699
+00:12:19,360 --> 00:12:21,750
+margins, and simplify operations without
+adding chaos. And so then I get into how
+
+700
+00:12:21,750 --> 00:12:21,760
+adding chaos. And so then I get into how
+ 
+
+701
+00:12:21,760 --> 00:12:23,750
+adding chaos. And so then I get into how
+exactly I want to coach me by, you know,
+
+702
+00:12:23,750 --> 00:12:23,760
+exactly I want to coach me by, you know,
+ 
+
+703
+00:12:23,760 --> 00:12:25,509
+exactly I want to coach me by, you know,
+identifying constraints, prioritizing
+
+704
+00:12:25,509 --> 00:12:25,519
+identifying constraints, prioritizing
+ 
+
+705
+00:12:25,519 --> 00:12:27,990
+identifying constraints, prioritizing
+leverage, defining KPIs, and really
+
+706
+00:12:27,990 --> 00:12:28,000
+leverage, defining KPIs, and really
+ 
+
+707
+00:12:28,000 --> 00:12:29,670
+leverage, defining KPIs, and really
+going and simulating the different moves
+
+708
+00:12:29,670 --> 00:12:29,680
+going and simulating the different moves
+ 
+
+709
+00:12:29,680 --> 00:12:30,870
+going and simulating the different moves
+that I can make and making
+
+710
+00:12:30,870 --> 00:12:30,880
+that I can make and making
+ 
+
+711
+00:12:30,880 --> 00:12:33,430
+that I can make and making
+recommendations. And so now that we have
+
+712
+00:12:33,430 --> 00:12:33,440
+recommendations. And so now that we have
+ 
+
+713
+00:12:33,440 --> 00:12:35,350
+recommendations. And so now that we have
+that entire prompt toolled up, which by
+
+714
+00:12:35,350 --> 00:12:35,360
+that entire prompt toolled up, which by
+ 
+
+715
+00:12:35,360 --> 00:12:37,350
+that entire prompt toolled up, which by
+the way, I've created a template of this
+
+716
+00:12:37,350 --> 00:12:37,360
+the way, I've created a template of this
+ 
+
+717
+00:12:37,360 --> 00:12:39,829
+the way, I've created a template of this
+inside of the 1 hour AI growth playbook
+
+718
+00:12:39,829 --> 00:12:39,839
+inside of the 1 hour AI growth playbook
+ 
+
+719
+00:12:39,839 --> 00:12:41,509
+inside of the 1 hour AI growth playbook
+in the link in the description, you can
+
+720
+00:12:41,509 --> 00:12:41,519
+in the link in the description, you can
+ 
+
+721
+00:12:41,519 --> 00:12:43,829
+in the link in the description, you can
+then go and use this to help be your
+
+722
+00:12:43,829 --> 00:12:43,839
+then go and use this to help be your
+ 
+
+723
+00:12:43,839 --> 00:12:45,590
+then go and use this to help be your
+strategic partner as you're scaling up
+
+724
+00:12:45,590 --> 00:12:45,600
+strategic partner as you're scaling up
+ 
+
+725
+00:12:45,600 --> 00:12:47,990
+strategic partner as you're scaling up
+your business. Right? This is your
+
+726
+00:12:47,990 --> 00:12:48,000
+your business. Right? This is your
+ 
+
+727
+00:12:48,000 --> 00:12:49,829
+your business. Right? This is your
+co-pilot. So then what I've done is then
+
+728
+00:12:49,829 --> 00:12:49,839
+co-pilot. So then what I've done is then
+ 
+
+729
+00:12:49,839 --> 00:12:52,230
+co-pilot. So then what I've done is then
+and asked it to go and synthesize based
+
+730
+00:12:52,230 --> 00:12:52,240
+and asked it to go and synthesize based
+ 
+
+731
+00:12:52,240 --> 00:12:54,150
+and asked it to go and synthesize based
+on all the product files I've uploaded.
+
+732
+00:12:54,150 --> 00:12:54,160
+on all the product files I've uploaded.
+ 
+
+733
+00:12:54,160 --> 00:12:56,069
+on all the product files I've uploaded.
+I wanted to go and look at each document
+
+734
+00:12:56,069 --> 00:12:56,079
+I wanted to go and look at each document
+ 
+
+735
+00:12:56,079 --> 00:12:58,069
+I wanted to go and look at each document
+and then go let me know the top 20
+
+736
+00:12:58,069 --> 00:12:58,079
+and then go let me know the top 20
+ 
+
+737
+00:12:58,079 --> 00:12:59,990
+and then go let me know the top 20
+projects ranked from best and most
+
+738
+00:12:59,990 --> 00:13:00,000
+projects ranked from best and most
+ 
+
+739
+00:13:00,000 --> 00:13:02,069
+projects ranked from best and most
+important to least important that I
+
+740
+00:13:02,069 --> 00:13:02,079
+important to least important that I
+ 
+
+741
+00:13:02,079 --> 00:13:04,150
+important to least important that I
+should be focused on this year to finish
+
+742
+00:13:04,150 --> 00:13:04,160
+should be focused on this year to finish
+ 
+
+743
+00:13:04,160 --> 00:13:06,150
+should be focused on this year to finish
+it strong. And so what it's then going
+
+744
+00:13:06,150 --> 00:13:06,160
+it strong. And so what it's then going
+ 
+
+745
+00:13:06,160 --> 00:13:08,629
+it strong. And so what it's then going
+and doing is outputting all of the
+
+746
+00:13:08,629 --> 00:13:08,639
+and doing is outputting all of the
+ 
+
+747
+00:13:08,639 --> 00:13:09,990
+and doing is outputting all of the
+ranked projects [music] that it believes
+
+748
+00:13:09,990 --> 00:13:10,000
+ranked projects [music] that it believes
+ 
+
+749
+00:13:10,000 --> 00:13:12,310
+ranked projects [music] that it believes
+I should focus on. And so if you're just
+
+750
+00:13:12,310 --> 00:13:12,320
+I should focus on. And so if you're just
+ 
+
+751
+00:13:12,320 --> 00:13:13,670
+I should focus on. And so if you're just
+beginning your journey, right, and say
+
+752
+00:13:13,670 --> 00:13:13,680
+beginning your journey, right, and say
+ 
+
+753
+00:13:13,680 --> 00:13:15,110
+beginning your journey, right, and say
+you're looking to go and start a
+
+754
+00:13:15,110 --> 00:13:15,120
+you're looking to go and start a
+ 
+
+755
+00:13:15,120 --> 00:13:17,350
+you're looking to go and start a
+business, oftentimes what I recommend
+
+756
+00:13:17,350 --> 00:13:17,360
+business, oftentimes what I recommend
+ 
+
+757
+00:13:17,360 --> 00:13:20,150
+business, oftentimes what I recommend
+founders do is they think about starting
+
+758
+00:13:20,150 --> 00:13:20,160
+founders do is they think about starting
+ 
+
+759
+00:13:20,160 --> 00:13:22,310
+founders do is they think about starting
+with what actually brings them joy. And
+
+760
+00:13:22,310 --> 00:13:22,320
+with what actually brings them joy. And
+ 
+
+761
+00:13:22,320 --> 00:13:24,550
+with what actually brings them joy. And
+so here's an example of my icky guy
+
+762
+00:13:24,550 --> 00:13:24,560
+so here's an example of my icky guy
+ 
+
+763
+00:13:24,560 --> 00:13:27,030
+so here's an example of my icky guy
+template um and my completed icky guy.
+
+764
+00:13:27,030 --> 00:13:27,040
+template um and my completed icky guy.
+ 
+
+765
+00:13:27,040 --> 00:13:29,430
+template um and my completed icky guy.
+Now icky is a Japanese term that stands
+
+766
+00:13:29,430 --> 00:13:29,440
+Now icky is a Japanese term that stands
+ 
+
+767
+00:13:29,440 --> 00:13:30,949
+Now icky is a Japanese term that stands
+for your reason for being, right? It
+
+768
+00:13:30,949 --> 00:13:30,959
+for your reason for being, right? It
+ 
+
+769
+00:13:30,959 --> 00:13:32,790
+for your reason for being, right? It
+sits at the intersection of what you're
+
+770
+00:13:32,790 --> 00:13:32,800
+sits at the intersection of what you're
+ 
+
+771
+00:13:32,800 --> 00:13:34,949
+sits at the intersection of what you're
+great at, what you love to do, what the
+
+772
+00:13:34,949 --> 00:13:34,959
+great at, what you love to do, what the
+ 
+
+773
+00:13:34,959 --> 00:13:36,389
+great at, what you love to do, what the
+world needs, and what you can be paid
+
+774
+00:13:36,389 --> 00:13:36,399
+world needs, and what you can be paid
+ 
+
+775
+00:13:36,399 --> 00:13:38,710
+world needs, and what you can be paid
+for. And so what you could go and do is
+
+776
+00:13:38,710 --> 00:13:38,720
+for. And so what you could go and do is
+ 
+
+777
+00:13:38,720 --> 00:13:41,670
+for. And so what you could go and do is
+create your own project [music] inside
+
+778
+00:13:41,670 --> 00:13:41,680
+create your own project [music] inside
+ 
+
+779
+00:13:41,680 --> 00:13:44,310
+create your own project [music] inside
+of chat GBT. Upload things like your
+
+780
+00:13:44,310 --> 00:13:44,320
+of chat GBT. Upload things like your
+ 
+
+781
+00:13:44,320 --> 00:13:46,870
+of chat GBT. Upload things like your
+icky guy as well as the criteria that
+
+782
+00:13:46,870 --> 00:13:46,880
+icky guy as well as the criteria that
+ 
+
+783
+00:13:46,880 --> 00:13:49,110
+icky guy as well as the criteria that
+you have for your next business. Say,
+
+784
+00:13:49,110 --> 00:13:49,120
+you have for your next business. Say,
+ 
+
+785
+00:13:49,120 --> 00:13:50,470
+you have for your next business. Say,
+you know, I'm looking to go and
+
+786
+00:13:50,470 --> 00:13:50,480
+you know, I'm looking to go and
+ 
+
+787
+00:13:50,480 --> 00:13:52,389
+you know, I'm looking to go and
+structure my YouTube team to get us to a
+
+788
+00:13:52,389 --> 00:13:52,399
+structure my YouTube team to get us to a
+ 
+
+789
+00:13:52,399 --> 00:13:53,990
+structure my YouTube team to get us to a
+million subscribers next year. I could
+
+790
+00:13:53,990 --> 00:13:54,000
+million subscribers next year. I could
+ 
+
+791
+00:13:54,000 --> 00:13:56,310
+million subscribers next year. I could
+go and ask this project now. [music] I'm
+
+792
+00:13:56,310 --> 00:13:56,320
+go and ask this project now. [music] I'm
+ 
+
+793
+00:13:56,320 --> 00:13:57,910
+go and ask this project now. [music] I'm
+looking to go and structure a whole
+
+794
+00:13:57,910 --> 00:13:57,920
+looking to go and structure a whole
+ 
+
+795
+00:13:57,920 --> 00:13:59,590
+looking to go and structure a whole
+video department to ensure that Founder
+
+796
+00:13:59,590 --> 00:13:59,600
+video department to ensure that Founder
+ 
+
+797
+00:13:59,600 --> 00:14:02,069
+video department to ensure that Founder
+OS is set [music] to go and scale its
+
+798
+00:14:02,069 --> 00:14:02,079
+OS is set [music] to go and scale its
+ 
+
+799
+00:14:02,079 --> 00:14:03,350
+OS is set [music] to go and scale its
+YouTube presence to a million
+
+800
+00:14:03,350 --> 00:14:03,360
+YouTube presence to a million
+ 
+
+801
+00:14:03,360 --> 00:14:05,189
+YouTube presence to a million
+subscribers and hit that by December
+
+802
+00:14:05,189 --> 00:14:05,199
+subscribers and hit that by December
+ 
+
+803
+00:14:05,199 --> 00:14:08,470
+subscribers and hit that by December
+31st, 2026. I want you to go and outline
+
+804
+00:14:08,470 --> 00:14:08,480
+31st, 2026. I want you to go and outline
+ 
+
+805
+00:14:08,480 --> 00:14:11,189
+31st, 2026. I want you to go and outline
+where the team needs to evolve and the
+
+806
+00:14:11,189 --> 00:14:11,199
+where the team needs to evolve and the
+ 
+
+807
+00:14:11,199 --> 00:14:12,949
+where the team needs to evolve and the
+different sort of goals I should have
+
+808
+00:14:12,949 --> 00:14:12,959
+different sort of goals I should have
+ 
+
+809
+00:14:12,959 --> 00:14:16,084
+different sort of goals I should have
+from Q1 all the way to Q4 of 2026. And
+
+810
+00:14:16,084 --> 00:14:16,094
+from Q1 all the way to Q4 of 2026. And
+ 
+
+811
+00:14:16,094 --> 00:14:17,670
+from Q1 all the way to Q4 of 2026. And
+[music] so what it's noticing is that
+
+812
+00:14:17,670 --> 00:14:17,680
+[music] so what it's noticing is that
+ 
+
+813
+00:14:17,680 --> 00:14:19,829
+[music] so what it's noticing is that
+the number one bottleneck right now um
+
+814
+00:14:19,829 --> 00:14:19,839
+the number one bottleneck right now um
+ 
+
+815
+00:14:19,839 --> 00:14:22,949
+the number one bottleneck right now um
+is postp production inconsistency and
+
+816
+00:14:22,949 --> 00:14:22,959
+is postp production inconsistency and
+ 
+
+817
+00:14:22,959 --> 00:14:25,590
+is postp production inconsistency and
+its dependence on me at times. And so
+
+818
+00:14:25,590 --> 00:14:25,600
+its dependence on me at times. And so
+ 
+
+819
+00:14:25,600 --> 00:14:27,430
+its dependence on me at times. And so
+what it's going to then get into is that
+
+820
+00:14:27,430 --> 00:14:27,440
+what it's going to then get into is that
+ 
+
+821
+00:14:27,440 --> 00:14:30,550
+what it's going to then get into is that
+okay, the roles required by Q2. We need
+
+822
+00:14:30,550 --> 00:14:30,560
+okay, the roles required by Q2. We need
+ 
+
+823
+00:14:30,560 --> 00:14:33,670
+okay, the roles required by Q2. We need
+to go and have a head of YouTube that
+
+824
+00:14:33,670 --> 00:14:33,680
+to go and have a head of YouTube that
+ 
+
+825
+00:14:33,680 --> 00:14:36,150
+to go and have a head of YouTube that
+owns the entire YouTube P&L. We need to
+
+826
+00:14:36,150 --> 00:14:36,160
+owns the entire YouTube P&L. We need to
+ 
+
+827
+00:14:36,160 --> 00:14:38,470
+owns the entire YouTube P&L. We need to
+have a lead editor. And the list goes on
+
+828
+00:14:38,470 --> 00:14:38,480
+have a lead editor. And the list goes on
+ 
+
+829
+00:14:38,480 --> 00:14:40,069
+have a lead editor. And the list goes on
+here. Okay? And so it's kind of
+
+830
+00:14:40,069 --> 00:14:40,079
+here. Okay? And so it's kind of
+ 
+
+831
+00:14:40,079 --> 00:14:42,310
+here. Okay? And so it's kind of
+outlining how the team needs developed
+
+832
+00:14:42,310 --> 00:14:42,320
+outlining how the team needs developed
+ 
+
+833
+00:14:42,320 --> 00:14:44,230
+outlining how the team needs developed
+so that we can go and really have this
+
+834
+00:14:44,230 --> 00:14:44,240
+so that we can go and really have this
+ 
+
+835
+00:14:44,240 --> 00:14:47,350
+so that we can go and really have this
+next like kind of 2.0 YouTube operation.
+
+836
+00:14:47,350 --> 00:14:47,360
+next like kind of 2.0 YouTube operation.
+ 
+
+837
+00:14:47,360 --> 00:14:49,110
+next like kind of 2.0 YouTube operation.
+Now, it doesn't just stop there, right?
+
+838
+00:14:49,110 --> 00:14:49,120
+Now, it doesn't just stop there, right?
+ 
+
+839
+00:14:49,120 --> 00:14:50,550
+Now, it doesn't just stop there, right?
+It also gets into the entire
+
+840
+00:14:50,550 --> 00:14:50,560
+It also gets into the entire
+ 
+
+841
+00:14:50,560 --> 00:14:52,790
+It also gets into the entire
+pre-production system, how we need to go
+
+842
+00:14:52,790 --> 00:14:52,800
+pre-production system, how we need to go
+ 
+
+843
+00:14:52,800 --> 00:14:54,550
+pre-production system, how we need to go
+and come up with 10 title variations,
+
+844
+00:14:54,550 --> 00:14:54,560
+and come up with 10 title variations,
+ 
+
+845
+00:14:54,560 --> 00:14:56,389
+and come up with 10 title variations,
+five thumbnail concepts for every single
+
+846
+00:14:56,389 --> 00:14:56,399
+five thumbnail concepts for every single
+ 
+
+847
+00:14:56,399 --> 00:14:58,710
+five thumbnail concepts for every single
+video as well as the post-production
+
+848
+00:14:58,710 --> 00:14:58,720
+video as well as the post-production
+ 
+
+849
+00:14:58,720 --> 00:15:00,870
+video as well as the post-production
+system so that you know we have zero
+
+850
+00:15:00,870 --> 00:15:00,880
+system so that you know we have zero
+ 
+
+851
+00:15:00,880 --> 00:15:02,949
+system so that you know we have zero
+errors, an abundance of packaging for
+
+852
+00:15:02,949 --> 00:15:02,959
+errors, an abundance of packaging for
+ 
+
+853
+00:15:02,959 --> 00:15:05,350
+errors, an abundance of packaging for
+each concept and the right CTA driving
+
+854
+00:15:05,350 --> 00:15:05,360
+each concept and the right CTA driving
+ 
+
+855
+00:15:05,360 --> 00:15:06,949
+each concept and the right CTA driving
+to Founderiz so that we can build this
+
+856
+00:15:06,949 --> 00:15:06,959
+to Founderiz so that we can build this
+ 
+
+857
+00:15:06,959 --> 00:15:08,949
+to Founderiz so that we can build this
+profitable media company around our
+
+858
+00:15:08,949 --> 00:15:08,959
+profitable media company around our
+ 
+
+859
+00:15:08,959 --> 00:15:10,870
+profitable media company around our
+YouTube presence. The even cooler part
+
+860
+00:15:10,870 --> 00:15:10,880
+YouTube presence. The even cooler part
+ 
+
+861
+00:15:10,880 --> 00:15:12,629
+YouTube presence. The even cooler part
+of this whole project is when you have
+
+862
+00:15:12,629 --> 00:15:12,639
+of this whole project is when you have
+ 
+
+863
+00:15:12,639 --> 00:15:15,030
+of this whole project is when you have
+ChatGBT Pro, you can hook up a given
+
+864
+00:15:15,030 --> 00:15:15,040
+ChatGBT Pro, you can hook up a given
+ 
+
+865
+00:15:15,040 --> 00:15:17,509
+ChatGBT Pro, you can hook up a given
+project to your phone. [music] And on
+
+866
+00:15:17,509 --> 00:15:17,519
+project to your phone. [music] And on
+ 
+
+867
+00:15:17,519 --> 00:15:19,350
+project to your phone. [music] And on
+ChatG on your phone, there's something
+
+868
+00:15:19,350 --> 00:15:19,360
+ChatG on your phone, there's something
+ 
+
+869
+00:15:19,360 --> 00:15:21,269
+ChatG on your phone, there's something
+called Pulse, which is going to send you
+
+870
+00:15:21,269 --> 00:15:21,279
+called Pulse, which is going to send you
+ 
+
+871
+00:15:21,279 --> 00:15:24,150
+called Pulse, which is going to send you
+daily updates around different moves you
+
+872
+00:15:24,150 --> 00:15:24,160
+daily updates around different moves you
+ 
+
+873
+00:15:24,160 --> 00:15:26,069
+daily updates around different moves you
+can make to go and help accomplish the
+
+874
+00:15:26,069 --> 00:15:26,079
+can make to go and help accomplish the
+ 
+
+875
+00:15:26,079 --> 00:15:28,150
+can make to go and help accomplish the
+goals of that project. And so I'm
+
+876
+00:15:28,150 --> 00:15:28,160
+goals of that project. And so I'm
+ 
+
+877
+00:15:28,160 --> 00:15:30,949
+goals of that project. And so I'm
+getting these curated ideas on my phone.
+
+878
+00:15:30,949 --> 00:15:30,959
+getting these curated ideas on my phone.
+ 
+
+879
+00:15:30,959 --> 00:15:32,150
+getting these curated ideas on my phone.
+And you know, instead of being in the
+
+880
+00:15:32,150 --> 00:15:32,160
+And you know, instead of being in the
+ 
+
+881
+00:15:32,160 --> 00:15:33,430
+And you know, instead of being in the
+back of an Uber on the way to a meeting
+
+882
+00:15:33,430 --> 00:15:33,440
+back of an Uber on the way to a meeting
+ 
+
+883
+00:15:33,440 --> 00:15:35,430
+back of an Uber on the way to a meeting
+and scrolling Instagram, instead I'm
+
+884
+00:15:35,430 --> 00:15:35,440
+and scrolling Instagram, instead I'm
+ 
+
+885
+00:15:35,440 --> 00:15:37,110
+and scrolling Instagram, instead I'm
+going and scrolling through curated
+
+886
+00:15:37,110 --> 00:15:37,120
+going and scrolling through curated
+ 
+
+887
+00:15:37,120 --> 00:15:39,269
+going and scrolling through curated
+ideas that can help me go and accelerate
+
+888
+00:15:39,269 --> 00:15:39,279
+ideas that can help me go and accelerate
+ 
+
+889
+00:15:39,279 --> 00:15:41,110
+ideas that can help me go and accelerate
+my growth. I think that this is what
+
+890
+00:15:41,110 --> 00:15:41,120
+my growth. I think that this is what
+ 
+
+891
+00:15:41,120 --> 00:15:42,550
+my growth. I think that this is what
+entrepreneurship looks like when you're
+
+892
+00:15:42,550 --> 00:15:42,560
+entrepreneurship looks like when you're
+ 
+
+893
+00:15:42,560 --> 00:15:44,870
+entrepreneurship looks like when you're
+completely leveraged and using AI for
+
+894
+00:15:44,870 --> 00:15:44,880
+completely leveraged and using AI for
+ 
+
+895
+00:15:44,880 --> 00:15:47,430
+completely leveraged and using AI for
+its full potential. Skill number six,
+
+896
+00:15:47,430 --> 00:15:47,440
+its full potential. Skill number six,
+ 
+
+897
+00:15:47,440 --> 00:15:49,269
+its full potential. Skill number six,
+prompting and workflow [music] design.
+
+898
+00:15:49,269 --> 00:15:49,279
+prompting and workflow [music] design.
+ 
+
+899
+00:15:49,279 --> 00:15:50,870
+prompting and workflow [music] design.
+This only takes you 10 minutes, but will
+
+900
+00:15:50,870 --> 00:15:50,880
+This only takes you 10 minutes, but will
+ 
+
+901
+00:15:50,880 --> 00:15:53,189
+This only takes you 10 minutes, but will
+save you hours of time every single day.
+
+902
+00:15:53,189 --> 00:15:53,199
+save you hours of time every single day.
+ 
+
+903
+00:15:53,199 --> 00:15:54,870
+save you hours of time every single day.
+First thing I did here is that, you
+
+904
+00:15:54,870 --> 00:15:54,880
+First thing I did here is that, you
+ 
+
+905
+00:15:54,880 --> 00:15:56,150
+First thing I did here is that, you
+know, when I'm looking to go and build
+
+906
+00:15:56,150 --> 00:15:56,160
+know, when I'm looking to go and build
+ 
+
+907
+00:15:56,160 --> 00:15:58,069
+know, when I'm looking to go and build
+an AI infrastructure in any of my
+
+908
+00:15:58,069 --> 00:15:58,079
+an AI infrastructure in any of my
+ 
+
+909
+00:15:58,079 --> 00:15:59,910
+an AI infrastructure in any of my
+companies, I like [music] to first just
+
+910
+00:15:59,910 --> 00:15:59,920
+companies, I like [music] to first just
+ 
+
+911
+00:15:59,920 --> 00:16:02,310
+companies, I like [music] to first just
+use a whiteboard and pen and paper. This
+
+912
+00:16:02,310 --> 00:16:02,320
+use a whiteboard and pen and paper. This
+ 
+
+913
+00:16:02,320 --> 00:16:04,150
+use a whiteboard and pen and paper. This
+details out the Founder OS machine.
+
+914
+00:16:04,150 --> 00:16:04,160
+details out the Founder OS machine.
+ 
+
+915
+00:16:04,160 --> 00:16:06,710
+details out the Founder OS machine.
+Founder OS is the high growth community
+
+916
+00:16:06,710 --> 00:16:06,720
+Founder OS is the high growth community
+ 
+
+917
+00:16:06,720 --> 00:16:09,590
+Founder OS is the high growth community
+that I have of over 2,000 founders all
+
+918
+00:16:09,590 --> 00:16:09,600
+that I have of over 2,000 founders all
+ 
+
+919
+00:16:09,600 --> 00:16:10,949
+that I have of over 2,000 founders all
+going and leveling up, removing
+
+920
+00:16:10,949 --> 00:16:10,959
+going and leveling up, removing
+ 
+
+921
+00:16:10,959 --> 00:16:12,550
+going and leveling up, removing
+themselves from operations and building
+
+922
+00:16:12,550 --> 00:16:12,560
+themselves from operations and building
+ 
+
+923
+00:16:12,560 --> 00:16:15,430
+themselves from operations and building
+AI powered teams. And so what I want to
+
+924
+00:16:15,430 --> 00:16:15,440
+AI powered teams. And so what I want to
+ 
+
+925
+00:16:15,440 --> 00:16:18,629
+AI powered teams. And so what I want to
+do here first is map out every part of
+
+926
+00:16:18,629 --> 00:16:18,639
+do here first is map out every part of
+ 
+
+927
+00:16:18,639 --> 00:16:21,030
+do here first is map out every part of
+the founder OS machine from audience to
+
+928
+00:16:21,030 --> 00:16:21,040
+the founder OS machine from audience to
+ 
+
+929
+00:16:21,040 --> 00:16:23,030
+the founder OS machine from audience to
+inquiry to application all the way
+
+930
+00:16:23,030 --> 00:16:23,040
+inquiry to application all the way
+ 
+
+931
+00:16:23,040 --> 00:16:25,189
+inquiry to application all the way
+through to then renewing people. From
+
+932
+00:16:25,189 --> 00:16:25,199
+through to then renewing people. From
+ 
+
+933
+00:16:25,199 --> 00:16:27,110
+through to then renewing people. From
+there what I like to do is then go and
+
+934
+00:16:27,110 --> 00:16:27,120
+there what I like to do is then go and
+ 
+
+935
+00:16:27,120 --> 00:16:29,590
+there what I like to do is then go and
+map it out on a whiteboard. You know too
+
+936
+00:16:29,590 --> 00:16:29,600
+map it out on a whiteboard. You know too
+ 
+
+937
+00:16:29,600 --> 00:16:31,110
+map it out on a whiteboard. You know too
+many founders and high growth
+
+938
+00:16:31,110 --> 00:16:31,120
+many founders and high growth
+ 
+
+939
+00:16:31,120 --> 00:16:32,870
+many founders and high growth
+individuals get right into AI thinking
+
+940
+00:16:32,870 --> 00:16:32,880
+individuals get right into AI thinking
+ 
+
+941
+00:16:32,880 --> 00:16:34,550
+individuals get right into AI thinking
+that it's going to work all the magic
+
+942
+00:16:34,550 --> 00:16:34,560
+that it's going to work all the magic
+ 
+
+943
+00:16:34,560 --> 00:16:36,870
+that it's going to work all the magic
+and remove them from having to think.
+
+944
+00:16:36,870 --> 00:16:36,880
+and remove them from having to think.
+ 
+
+945
+00:16:36,880 --> 00:16:38,310
+and remove them from having to think.
+But [music] what you really want to do
+
+946
+00:16:38,310 --> 00:16:38,320
+But [music] what you really want to do
+ 
+
+947
+00:16:38,320 --> 00:16:40,629
+But [music] what you really want to do
+is take things as far as you humanly
+
+948
+00:16:40,629 --> 00:16:40,639
+is take things as far as you humanly
+ 
+
+949
+00:16:40,639 --> 00:16:43,749
+is take things as far as you humanly
+can. Right? getting it to 90% and then
+
+950
+00:16:43,749 --> 00:16:43,759
+can. Right? getting it to 90% and then
+ 
+
+951
+00:16:43,759 --> 00:16:47,269
+can. Right? getting it to 90% and then
+let AI take it to 500%. After I've gone
+
+952
+00:16:47,269 --> 00:16:47,279
+let AI take it to 500%. After I've gone
+ 
+
+953
+00:16:47,279 --> 00:16:49,030
+let AI take it to 500%. After I've gone
+and mapped this out on a whiteboard,
+
+954
+00:16:49,030 --> 00:16:49,040
+and mapped this out on a whiteboard,
+ 
+
+955
+00:16:49,040 --> 00:16:51,430
+and mapped this out on a whiteboard,
+what becomes clear is the overall
+
+956
+00:16:51,430 --> 00:16:51,440
+what becomes clear is the overall
+ 
+
+957
+00:16:51,440 --> 00:16:53,509
+what becomes clear is the overall
+systems infrastructure behind Founder
+
+958
+00:16:53,509 --> 00:16:53,519
+systems infrastructure behind Founder
+ 
+
+959
+00:16:53,519 --> 00:16:55,829
+systems infrastructure behind Founder
+OS. And typically, this is how most
+
+960
+00:16:55,829 --> 00:16:55,839
+OS. And typically, this is how most
+ 
+
+961
+00:16:55,839 --> 00:16:57,990
+OS. And typically, this is how most
+businesses look, right? There are seven
+
+962
+00:16:57,990 --> 00:16:58,000
+businesses look, right? There are seven
+ 
+
+963
+00:16:58,000 --> 00:17:00,310
+businesses look, right? There are seven
+core stages to the customer journey. And
+
+964
+00:17:00,310 --> 00:17:00,320
+core stages to the customer journey. And
+ 
+
+965
+00:17:00,320 --> 00:17:02,150
+core stages to the customer journey. And
+then each of those stages has
+
+966
+00:17:02,150 --> 00:17:02,160
+then each of those stages has
+ 
+
+967
+00:17:02,160 --> 00:17:04,309
+then each of those stages has
+approximately three systems underneath
+
+968
+00:17:04,309 --> 00:17:04,319
+approximately three systems underneath
+ 
+
+969
+00:17:04,319 --> 00:17:07,429
+approximately three systems underneath
+it that when you map out those 21
+
+970
+00:17:07,429 --> 00:17:07,439
+it that when you map out those 21
+ 
+
+971
+00:17:07,439 --> 00:17:09,669
+it that when you map out those 21
+systems in a business, you now have the
+
+972
+00:17:09,669 --> 00:17:09,679
+systems in a business, you now have the
+ 
+
+973
+00:17:09,679 --> 00:17:11,590
+systems in a business, you now have the
+overall machine of it and then can go
+
+974
+00:17:11,590 --> 00:17:11,600
+overall machine of it and then can go
+ 
+
+975
+00:17:11,600 --> 00:17:15,189
+overall machine of it and then can go
+and transfer all of that to Claude or to
+
+976
+00:17:15,189 --> 00:17:15,199
+and transfer all of that to Claude or to
+ 
+
+977
+00:17:15,199 --> 00:17:18,549
+and transfer all of that to Claude or to
+Chat GBT to help go and multiply your
+
+978
+00:17:18,549 --> 00:17:18,559
+Chat GBT to help go and multiply your
+ 
+
+979
+00:17:18,559 --> 00:17:21,110
+Chat GBT to help go and multiply your
+infrastructure. Chat GBT I use as my
+
+980
+00:17:21,110 --> 00:17:21,120
+infrastructure. Chat GBT I use as my
+ 
+
+981
+00:17:21,120 --> 00:17:23,029
+infrastructure. Chat GBT I use as my
+core business strategist. [music]
+
+982
+00:17:23,029 --> 00:17:23,039
+core business strategist. [music]
+ 
+
+983
+00:17:23,039 --> 00:17:25,829
+core business strategist. [music]
+And for Claude I use this as like our
+
+984
+00:17:25,829 --> 00:17:25,839
+And for Claude I use this as like our
+ 
+
+985
+00:17:25,839 --> 00:17:28,390
+And for Claude I use this as like our
+head of content. And so each project in
+
+986
+00:17:28,390 --> 00:17:28,400
+head of content. And so each project in
+ 
+
+987
+00:17:28,400 --> 00:17:30,470
+head of content. And so each project in
+Claude, as you can see here, is
+
+988
+00:17:30,470 --> 00:17:30,480
+Claude, as you can see here, is
+ 
+
+989
+00:17:30,480 --> 00:17:32,587
+Claude, as you can see here, is
+organized by
+
+990
+00:17:32,587 --> 00:17:32,597
+organized by
+ 
+
+991
+00:17:32,597 --> 00:17:32,630
+organized by
+>> [music]
+
+992
+00:17:32,630 --> 00:17:32,640
+>> [music]
+ 
+
+993
+00:17:32,640 --> 00:17:34,789
+>> [music]
+>> um content format. You know, we can use
+
+994
+00:17:34,789 --> 00:17:34,799
+>> um content format. You know, we can use
+ 
+
+995
+00:17:34,799 --> 00:17:36,150
+>> um content format. You know, we can use
+this to help us go and evolve our
+
+996
+00:17:36,150 --> 00:17:36,160
+this to help us go and evolve our
+ 
+
+997
+00:17:36,160 --> 00:17:38,390
+this to help us go and evolve our
+offers, help us dial in our viral
+
+998
+00:17:38,390 --> 00:17:38,400
+offers, help us dial in our viral
+ 
+
+999
+00:17:38,400 --> 00:17:40,230
+offers, help us dial in our viral
+content engine, create things like
+
+1000
+00:17:40,230 --> 00:17:40,240
+content engine, create things like
+ 
+
+1001
+00:17:40,240 --> 00:17:42,630
+content engine, create things like
+Instagram carousels, dial in market
+
+1002
+00:17:42,630 --> 00:17:42,640
+Instagram carousels, dial in market
+ 
+
+1003
+00:17:42,640 --> 00:17:45,270
+Instagram carousels, dial in market
+research, or even go and create entire
+
+1004
+00:17:45,270 --> 00:17:45,280
+research, or even go and create entire
+ 
+
+1005
+00:17:45,280 --> 00:17:47,669
+research, or even go and create entire
+email welcome sequences. And so when
+
+1006
+00:17:47,669 --> 00:17:47,679
+email welcome sequences. And so when
+ 
+
+1007
+00:17:47,679 --> 00:17:49,190
+email welcome sequences. And so when
+you've gone and organized it like this,
+
+1008
+00:17:49,190 --> 00:17:49,200
+you've gone and organized it like this,
+ 
+
+1009
+00:17:49,200 --> 00:17:51,029
+you've gone and organized it like this,
+I think the power of it is is that
+
+1010
+00:17:51,029 --> 00:17:51,039
+I think the power of it is is that
+ 
+
+1011
+00:17:51,039 --> 00:17:53,430
+I think the power of it is is that
+you've got basically different content
+
+1012
+00:17:53,430 --> 00:17:53,440
+you've got basically different content
+ 
+
+1013
+00:17:53,440 --> 00:17:55,590
+you've got basically different content
+specialists per project and you're able
+
+1014
+00:17:55,590 --> 00:17:55,600
+specialists per project and you're able
+ 
+
+1015
+00:17:55,600 --> 00:17:57,750
+specialists per project and you're able
+to go and scale out, you know, your
+
+1016
+00:17:57,750 --> 00:17:57,760
+to go and scale out, you know, your
+ 
+
+1017
+00:17:57,760 --> 00:17:59,270
+to go and scale out, you know, your
+content infrastructure. And the same
+
+1018
+00:17:59,270 --> 00:17:59,280
+content infrastructure. And the same
+ 
+
+1019
+00:17:59,280 --> 00:18:00,950
+content infrastructure. And the same
+thing goes across your whole company.
+
+1020
+00:18:00,950 --> 00:18:00,960
+thing goes across your whole company.
+ 
+
+1021
+00:18:00,960 --> 00:18:02,710
+thing goes across your whole company.
+Implementing AI across your team can be
+
+1022
+00:18:02,710 --> 00:18:02,720
+Implementing AI across your team can be
+ 
+
+1023
+00:18:02,720 --> 00:18:04,150
+Implementing AI across your team can be
+intimidating. That's why when you join
+
+1024
+00:18:04,150 --> 00:18:04,160
+intimidating. That's why when you join
+ 
+
+1025
+00:18:04,160 --> 00:18:05,510
+intimidating. That's why when you join
+Founder OS, it's not just you as a
+
+1026
+00:18:05,510 --> 00:18:05,520
+Founder OS, it's not just you as a
+ 
+
+1027
+00:18:05,520 --> 00:18:07,510
+Founder OS, it's not just you as a
+founder, it's your entire team that gets
+
+1028
+00:18:07,510 --> 00:18:07,520
+founder, it's your entire team that gets
+ 
+
+1029
+00:18:07,520 --> 00:18:09,029
+founder, it's your entire team that gets
+access to all of our projects and
+
+1030
+00:18:09,029 --> 00:18:09,039
+access to all of our projects and
+ 
+
+1031
+00:18:09,039 --> 00:18:10,950
+access to all of our projects and
+systems so you can level up your entire
+
+1032
+00:18:10,950 --> 00:18:10,960
+systems so you can level up your entire
+ 
+
+1033
+00:18:10,960 --> 00:18:12,390
+systems so you can level up your entire
+organization. So now you've gone and
+
+1034
+00:18:12,390 --> 00:18:12,400
+organization. So now you've gone and
+ 
+
+1035
+00:18:12,400 --> 00:18:14,230
+organization. So now you've gone and
+completed six AI [music] skills in 60
+
+1036
+00:18:14,230 --> 00:18:14,240
+completed six AI [music] skills in 60
+ 
+
+1037
+00:18:14,240 --> 00:18:16,070
+completed six AI [music] skills in 60
+minutes and you are leveraged as a
+
+1038
+00:18:16,070 --> 00:18:16,080
+minutes and you are leveraged as a
+ 
+
+1039
+00:18:16,080 --> 00:18:17,590
+minutes and you are leveraged as a
+founder. I give you a breakdown of each
+
+1040
+00:18:17,590 --> 00:18:17,600
+founder. I give you a breakdown of each
+ 
+
+1041
+00:18:17,600 --> 00:18:20,070
+founder. I give you a breakdown of each
+of these AI skills inside of my 1hour AI
+
+1042
+00:18:20,070 --> 00:18:20,080
+of these AI skills inside of my 1hour AI
+ 
+
+1043
+00:18:20,080 --> 00:18:21,590
+of these AI skills inside of my 1hour AI
+growth playbook [music] via the link in
+
+1044
+00:18:21,590 --> 00:18:21,600
+growth playbook [music] via the link in
+ 
+
+1045
+00:18:21,600 --> 00:18:22,870
+growth playbook [music] via the link in
+the description. Now, if you want to go
+
+1046
+00:18:22,870 --> 00:18:22,880
+the description. Now, if you want to go
+ 
+
+1047
+00:18:22,880 --> 00:18:24,549
+the description. Now, if you want to go
+and further tool up your 10x profit
+
+1048
+00:18:24,549 --> 00:18:24,559
+and further tool up your 10x profit
+ 
+
+1049
+00:18:24,559 --> 00:18:25,990
+and further tool up your 10x profit
+project, you can go and check out this
+
+1050
+00:18:25,990 --> 00:18:26,000
+project, you can go and check out this
+ 
+
+1051
+00:18:26,000 --> 00:18:27,830
+project, you can go and check out this
+next [music] video to go and show how
+
+1052
+00:18:27,830 --> 00:18:27,840
+next [music] video to go and show how
+ 
+
+1053
+00:18:27,840 --> 00:18:29,110
+next [music] video to go and show how
+I've gone ahead and accelerated my
+
+1054
+00:18:29,110 --> 00:18:29,120
+I've gone ahead and accelerated my
+ 
+
+1055
+00:18:29,120 --> 00:18:31,919
+I've gone ahead and accelerated my
+growth even further.
+

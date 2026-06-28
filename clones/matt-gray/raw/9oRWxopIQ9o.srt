@@ -1,0 +1,6165 @@
+1
+00:00:00,080 --> 00:00:02,470
+ 
+Most people have no idea how Elon Musk
+
+2
+00:00:02,470 --> 00:00:02,480
+Most people have no idea how Elon Musk
+ 
+
+3
+00:00:02,480 --> 00:00:03,990
+Most people have no idea how Elon Musk
+actually thinks. [music] They see the
+
+4
+00:00:03,990 --> 00:00:04,000
+actually thinks. [music] They see the
+ 
+
+5
+00:00:04,000 --> 00:00:05,829
+actually thinks. [music] They see the
+chaos, the headlines, the personality,
+
+6
+00:00:05,829 --> 00:00:05,839
+chaos, the headlines, the personality,
+ 
+
+7
+00:00:05,839 --> 00:00:07,110
+chaos, the headlines, the personality,
+but they never see the operating
+
+8
+00:00:07,110 --> 00:00:07,120
+but they never see the operating
+ 
+
+9
+00:00:07,120 --> 00:00:09,030
+but they never see the operating
+mechanisms underneath it all. Mechanisms
+
+10
+00:00:09,030 --> 00:00:09,040
+mechanisms underneath it all. Mechanisms
+ 
+
+11
+00:00:09,040 --> 00:00:10,150
+mechanisms underneath it all. Mechanisms
+that allow him to do [music] things that
+
+12
+00:00:10,150 --> 00:00:10,160
+that allow him to do [music] things that
+ 
+
+13
+00:00:10,160 --> 00:00:11,509
+that allow him to do [music] things that
+most normal founders couldn't even
+
+14
+00:00:11,509 --> 00:00:11,519
+most normal founders couldn't even
+ 
+
+15
+00:00:11,519 --> 00:00:13,910
+most normal founders couldn't even
+survive, let alone execute at a global
+
+16
+00:00:13,910 --> 00:00:13,920
+survive, let alone execute at a global
+ 
+
+17
+00:00:13,920 --> 00:00:15,430
+survive, let alone execute at a global
+scale. Today, I'm going to reveal the
+
+18
+00:00:15,430 --> 00:00:15,440
+scale. Today, I'm going to reveal the
+ 
+
+19
+00:00:15,440 --> 00:00:17,430
+scale. Today, I'm going to reveal the
+five operating mechanisms that Elon Musk
+
+20
+00:00:17,430 --> 00:00:17,440
+five operating mechanisms that Elon Musk
+ 
+
+21
+00:00:17,440 --> 00:00:19,189
+five operating mechanisms that Elon Musk
+deploys [music] across every company he
+
+22
+00:00:19,189 --> 00:00:19,199
+deploys [music] across every company he
+ 
+
+23
+00:00:19,199 --> 00:00:20,630
+deploys [music] across every company he
+operates. And most importantly, the
+
+24
+00:00:20,630 --> 00:00:20,640
+operates. And most importantly, the
+ 
+
+25
+00:00:20,640 --> 00:00:22,070
+operates. And most importantly, the
+versions of these mechanisms that you
+
+26
+00:00:22,070 --> 00:00:22,080
+versions of these mechanisms that you
+ 
+
+27
+00:00:22,080 --> 00:00:23,429
+versions of these mechanisms that you
+can use [music] without it destroying
+
+28
+00:00:23,429 --> 00:00:23,439
+can use [music] without it destroying
+ 
+
+29
+00:00:23,439 --> 00:00:25,990
+can use [music] without it destroying
+your life, your team, or your sanity. If
+
+30
+00:00:25,990 --> 00:00:26,000
+your life, your team, or your sanity. If
+ 
+
+31
+00:00:26,000 --> 00:00:27,509
+your life, your team, or your sanity. If
+you've ever wondered how one human
+
+32
+00:00:27,509 --> 00:00:27,519
+you've ever wondered how one human
+ 
+
+33
+00:00:27,519 --> 00:00:30,150
+you've ever wondered how one human
+builds rockets, [music] cars, AI labs,
+
+34
+00:00:30,150 --> 00:00:30,160
+builds rockets, [music] cars, AI labs,
+ 
+
+35
+00:00:30,160 --> 00:00:32,310
+builds rockets, [music] cars, AI labs,
+and brain interfaces all while melting
+
+36
+00:00:32,310 --> 00:00:32,320
+and brain interfaces all while melting
+ 
+
+37
+00:00:32,320 --> 00:00:34,050
+and brain interfaces all while melting
+down on Twitter, well, here's the real
+
+38
+00:00:34,050 --> 00:00:34,060
+down on Twitter, well, here's the real
+ 
+
+39
+00:00:34,060 --> 00:00:35,750
+down on Twitter, well, here's the real
+[music] answer. Before we dive in, I've
+
+40
+00:00:35,750 --> 00:00:35,760
+[music] answer. Before we dive in, I've
+ 
+
+41
+00:00:35,760 --> 00:00:37,190
+[music] answer. Before we dive in, I've
+got something for you. It's called the
+
+42
+00:00:37,190 --> 00:00:37,200
+got something for you. It's called the
+ 
+
+43
+00:00:37,200 --> 00:00:39,030
+got something for you. It's called the
+algorithm deletion exercise, and you can
+
+44
+00:00:39,030 --> 00:00:39,040
+algorithm deletion exercise, and you can
+ 
+
+45
+00:00:39,040 --> 00:00:40,600
+algorithm deletion exercise, and you can
+go and find it via the first link
+
+46
+00:00:40,600 --> 00:00:40,610
+go and find it via the first link
+ 
+
+47
+00:00:40,610 --> 00:00:41,910
+go and find it via the first link
+[music] in the description. I've gone
+
+48
+00:00:41,910 --> 00:00:41,920
+[music] in the description. I've gone
+ 
+
+49
+00:00:41,920 --> 00:00:44,069
+[music] in the description. I've gone
+and synthesized every one of the five
+
+50
+00:00:44,069 --> 00:00:44,079
+and synthesized every one of the five
+ 
+
+51
+00:00:44,079 --> 00:00:45,670
+and synthesized every one of the five
+steps that we go over here in this
+
+52
+00:00:45,670 --> 00:00:45,680
+steps that we go over here in this
+ 
+
+53
+00:00:45,680 --> 00:00:47,029
+steps that we go over here in this
+video, so you can go and apply it to
+
+54
+00:00:47,029 --> 00:00:47,039
+video, so you can go and apply it to
+ 
+
+55
+00:00:47,039 --> 00:00:48,460
+video, so you can go and apply it to
+your team, your funnel, your business,
+
+56
+00:00:48,460 --> 00:00:48,470
+your team, your funnel, your business,
+ 
+
+57
+00:00:48,470 --> 00:00:50,549
+your team, your funnel, your business,
+[music] your life to go and radically
+
+58
+00:00:50,549 --> 00:00:50,559
+[music] your life to go and radically
+ 
+
+59
+00:00:50,559 --> 00:00:52,869
+[music] your life to go and radically
+simplify things just like Elon does. So,
+
+60
+00:00:52,869 --> 00:00:52,879
+simplify things just like Elon does. So,
+ 
+
+61
+00:00:52,879 --> 00:00:54,150
+simplify things just like Elon does. So,
+go and get that. be a link in the
+
+62
+00:00:54,150 --> 00:00:54,160
+go and get that. be a link in the
+ 
+
+63
+00:00:54,160 --> 00:00:56,709
+go and get that. be a link in the
+description and follow along. Mechanism
+
+64
+00:00:56,709 --> 00:00:56,719
+description and follow along. Mechanism
+ 
+
+65
+00:00:56,719 --> 00:00:59,910
+description and follow along. Mechanism
+one, maniacal sense of urgency. Urgency
+
+66
+00:00:59,910 --> 00:00:59,920
+one, maniacal sense of urgency. Urgency
+ 
+
+67
+00:00:59,920 --> 00:01:01,510
+one, maniacal sense of urgency. Urgency
+isn't about working faster. It's about
+
+68
+00:01:01,510 --> 00:01:01,520
+isn't about working faster. It's about
+ 
+
+69
+00:01:01,520 --> 00:01:03,189
+isn't about working faster. It's about
+compressing the feedback loop between
+
+70
+00:01:03,189 --> 00:01:03,199
+compressing the feedback loop between
+ 
+
+71
+00:01:03,199 --> 00:01:04,789
+compressing the feedback loop between
+problem discovery and solution
+
+72
+00:01:04,789 --> 00:01:04,799
+problem discovery and solution
+ 
+
+73
+00:01:04,799 --> 00:01:07,030
+problem discovery and solution
+generation. After reading the Elon Musk
+
+74
+00:01:07,030 --> 00:01:07,040
+generation. After reading the Elon Musk
+ 
+
+75
+00:01:07,040 --> 00:01:08,765
+generation. After reading the Elon Musk
+book by Walter Isacson, it struck
+
+76
+00:01:08,765 --> 00:01:08,775
+book by Walter Isacson, it struck
+ 
+
+77
+00:01:08,775 --> 00:01:10,070
+book by Walter Isacson, it struck
+[music] me that one of the core
+
+78
+00:01:10,070 --> 00:01:10,080
+[music] me that one of the core
+ 
+
+79
+00:01:10,080 --> 00:01:11,990
+[music] me that one of the core
+operating principles that Elon has
+
+80
+00:01:11,990 --> 00:01:12,000
+operating principles that Elon has
+ 
+
+81
+00:01:12,000 --> 00:01:14,005
+operating principles that Elon has
+across every one of his companies is
+
+82
+00:01:14,005 --> 00:01:14,015
+across every one of his companies is
+ 
+
+83
+00:01:14,015 --> 00:01:15,750
+across every one of his companies is
+[music] that they operate with a
+
+84
+00:01:15,750 --> 00:01:15,760
+[music] that they operate with a
+ 
+
+85
+00:01:15,760 --> 00:01:18,469
+[music] that they operate with a
+maniacal sense of urgency. Now, let me
+
+86
+00:01:18,469 --> 00:01:18,479
+maniacal sense of urgency. Now, let me
+ 
+
+87
+00:01:18,479 --> 00:01:20,310
+maniacal sense of urgency. Now, let me
+give you an example here. Let's rewind
+
+88
+00:01:20,310 --> 00:01:20,320
+give you an example here. Let's rewind
+ 
+
+89
+00:01:20,320 --> 00:01:24,070
+give you an example here. Let's rewind
+to 27 2018. Tesla. It's in the Fremont
+
+90
+00:01:24,070 --> 00:01:24,080
+to 27 2018. Tesla. It's in the Fremont
+ 
+
+91
+00:01:24,080 --> 00:01:26,230
+to 27 2018. Tesla. It's in the Fremont
+factory. [music] We called this era of
+
+92
+00:01:26,230 --> 00:01:26,240
+factory. [music] We called this era of
+ 
+
+93
+00:01:26,240 --> 00:01:29,510
+factory. [music] We called this era of
+Elon production hell. Now, he was going
+
+94
+00:01:29,510 --> 00:01:29,520
+Elon production hell. Now, he was going
+ 
+
+95
+00:01:29,520 --> 00:01:31,109
+Elon production hell. Now, he was going
+and pushing to get the factory [music]
+
+96
+00:01:31,109 --> 00:01:31,119
+and pushing to get the factory [music]
+ 
+
+97
+00:01:31,119 --> 00:01:33,830
+and pushing to get the factory [music]
+to get to 5,000 cars per month of
+
+98
+00:01:33,830 --> 00:01:33,840
+to get to 5,000 cars per month of
+ 
+
+99
+00:01:33,840 --> 00:01:36,069
+to get to 5,000 cars per month of
+output. And they were running into some
+
+100
+00:01:36,069 --> 00:01:36,079
+output. And they were running into some
+ 
+
+101
+00:01:36,079 --> 00:01:38,550
+output. And they were running into some
+serious problems. No one really had the
+
+102
+00:01:38,550 --> 00:01:38,560
+serious problems. No one really had the
+ 
+
+103
+00:01:38,560 --> 00:01:40,149
+serious problems. No one really had the
+clear answer. And so, [music] what did
+
+104
+00:01:40,149 --> 00:01:40,159
+clear answer. And so, [music] what did
+ 
+
+105
+00:01:40,159 --> 00:01:43,270
+clear answer. And so, [music] what did
+he do? Well, he operated with a maniacal
+
+106
+00:01:43,270 --> 00:01:43,280
+he do? Well, he operated with a maniacal
+ 
+
+107
+00:01:43,280 --> 00:01:45,429
+he do? Well, he operated with a maniacal
+sense of urgency. And the number one way
+
+108
+00:01:45,429 --> 00:01:45,439
+sense of urgency. And the number one way
+ 
+
+109
+00:01:45,439 --> 00:01:47,670
+sense of urgency. And the number one way
+that he knew to kind of go and compress
+
+110
+00:01:47,670 --> 00:01:47,680
+that he knew to kind of go and compress
+ 
+
+111
+00:01:47,680 --> 00:01:49,830
+that he knew to kind of go and compress
+that feedback [music] loop was to fly
+
+112
+00:01:49,830 --> 00:01:49,840
+that feedback [music] loop was to fly
+ 
+
+113
+00:01:49,840 --> 00:01:52,389
+that feedback [music] loop was to fly
+directly to where the bottleneck was and
+
+114
+00:01:52,389 --> 00:01:52,399
+directly to where the bottleneck was and
+ 
+
+115
+00:01:52,399 --> 00:01:54,710
+directly to where the bottleneck was and
+go and camp out until the problem was
+
+116
+00:01:54,710 --> 00:01:54,720
+go and camp out until the problem was
+ 
+
+117
+00:01:54,720 --> 00:01:57,236
+go and camp out until the problem was
+fixed. Now, where most founders or CEOs
+
+118
+00:01:57,236 --> 00:01:57,246
+fixed. Now, where most founders or CEOs
+ 
+
+119
+00:01:57,246 --> 00:01:59,429
+fixed. Now, where most founders or CEOs
+[music] would get a manager to tell the
+
+120
+00:01:59,429 --> 00:01:59,439
+[music] would get a manager to tell the
+ 
+
+121
+00:01:59,439 --> 00:02:01,270
+[music] would get a manager to tell the
+manager to tell the manager to then get
+
+122
+00:02:01,270 --> 00:02:01,280
+manager to tell the manager to then get
+ 
+
+123
+00:02:01,280 --> 00:02:02,870
+manager to tell the manager to then get
+the problem solved, [music] Elon went
+
+124
+00:02:02,870 --> 00:02:02,880
+the problem solved, [music] Elon went
+ 
+
+125
+00:02:02,880 --> 00:02:04,469
+the problem solved, [music] Elon went
+directly to the source. You know, he
+
+126
+00:02:04,469 --> 00:02:04,479
+directly to the source. You know, he
+ 
+
+127
+00:02:04,479 --> 00:02:06,789
+directly to the source. You know, he
+went and camped out on the literal
+
+128
+00:02:06,789 --> 00:02:06,799
+went and camped out on the literal
+ 
+
+129
+00:02:06,799 --> 00:02:08,309
+went and camped out on the literal
+factory [music] floor. Bloomberg
+
+130
+00:02:08,309 --> 00:02:08,319
+factory [music] floor. Bloomberg
+ 
+
+131
+00:02:08,319 --> 00:02:10,150
+factory [music] floor. Bloomberg
+reported that he was sleeping under his
+
+132
+00:02:10,150 --> 00:02:10,160
+reported that he was sleeping under his
+ 
+
+133
+00:02:10,160 --> 00:02:12,550
+reported that he was sleeping under his
+desk for a month until this problem was
+
+134
+00:02:12,550 --> 00:02:12,560
+desk for a month until this problem was
+ 
+
+135
+00:02:12,560 --> 00:02:14,390
+desk for a month until this problem was
+fixed, working directly with the
+
+136
+00:02:14,390 --> 00:02:14,400
+fixed, working directly with the
+ 
+
+137
+00:02:14,400 --> 00:02:16,309
+fixed, working directly with the
+individual engineer on the [music]
+
+138
+00:02:16,309 --> 00:02:16,319
+individual engineer on the [music]
+ 
+
+139
+00:02:16,319 --> 00:02:18,470
+individual engineer on the [music]
+factory floor that was in charge of this
+
+140
+00:02:18,470 --> 00:02:18,480
+factory floor that was in charge of this
+ 
+
+141
+00:02:18,480 --> 00:02:21,190
+factory floor that was in charge of this
+specific bottleneck. Sure enough, it was
+
+142
+00:02:21,190 --> 00:02:21,200
+specific bottleneck. Sure enough, it was
+ 
+
+143
+00:02:21,200 --> 00:02:23,030
+specific bottleneck. Sure enough, it was
+fixed. [music] And this story really
+
+144
+00:02:23,030 --> 00:02:23,040
+fixed. [music] And this story really
+ 
+
+145
+00:02:23,040 --> 00:02:25,430
+fixed. [music] And this story really
+illustrates the power of really
+
+146
+00:02:25,430 --> 00:02:25,440
+illustrates the power of really
+ 
+
+147
+00:02:25,440 --> 00:02:27,350
+illustrates the power of really
+attacking a bottleneck with everything
+
+148
+00:02:27,350 --> 00:02:27,360
+attacking a bottleneck with everything
+ 
+
+149
+00:02:27,360 --> 00:02:29,670
+attacking a bottleneck with everything
+you've got [music] and really operating
+
+150
+00:02:29,670 --> 00:02:29,680
+you've got [music] and really operating
+ 
+
+151
+00:02:29,680 --> 00:02:31,910
+you've got [music] and really operating
+with this maniacal sense of urgency. I
+
+152
+00:02:31,910 --> 00:02:31,920
+with this maniacal sense of urgency. I
+ 
+
+153
+00:02:31,920 --> 00:02:34,070
+with this maniacal sense of urgency. I
+think too often as founders, we let
+
+154
+00:02:34,070 --> 00:02:34,080
+think too often as founders, we let
+ 
+
+155
+00:02:34,080 --> 00:02:35,589
+think too often as founders, we let
+things slide. [music] You know, we take
+
+156
+00:02:35,589 --> 00:02:35,599
+things slide. [music] You know, we take
+ 
+
+157
+00:02:35,599 --> 00:02:37,190
+things slide. [music] You know, we take
+timelines as, you know, that'll take a
+
+158
+00:02:37,190 --> 00:02:37,200
+timelines as, you know, that'll take a
+ 
+
+159
+00:02:37,200 --> 00:02:39,030
+timelines as, you know, that'll take a
+few months or this may take a couple
+
+160
+00:02:39,030 --> 00:02:39,040
+few months or this may take a couple
+ 
+
+161
+00:02:39,040 --> 00:02:41,350
+few months or this may take a couple
+weeks and we [music] just accept that as
+
+162
+00:02:41,350 --> 00:02:41,360
+weeks and we [music] just accept that as
+ 
+
+163
+00:02:41,360 --> 00:02:43,270
+weeks and we [music] just accept that as
+maybe the way it's got to be. But with
+
+164
+00:02:43,270 --> 00:02:43,280
+maybe the way it's got to be. But with
+ 
+
+165
+00:02:43,280 --> 00:02:46,070
+maybe the way it's got to be. But with
+Elon, you can see time and time again,
+
+166
+00:02:46,070 --> 00:02:46,080
+Elon, you can see time and time again,
+ 
+
+167
+00:02:46,080 --> 00:02:47,910
+Elon, you can see time and time again,
+he doesn't accept [music] the timelines
+
+168
+00:02:47,910 --> 00:02:47,920
+he doesn't accept [music] the timelines
+ 
+
+169
+00:02:47,920 --> 00:02:49,990
+he doesn't accept [music] the timelines
+he's given. He's constantly going and
+
+170
+00:02:49,990 --> 00:02:50,000
+he's given. He's constantly going and
+ 
+
+171
+00:02:50,000 --> 00:02:51,750
+he's given. He's constantly going and
+seeing how he can compress time.
+
+172
+00:02:51,750 --> 00:02:51,760
+seeing how he can compress time.
+ 
+
+173
+00:02:51,760 --> 00:02:54,221
+seeing how he can compress time.
+Traditional companies go from problem to
+
+174
+00:02:54,221 --> 00:02:54,231
+Traditional companies go from problem to
+ 
+
+175
+00:02:54,231 --> 00:02:56,550
+Traditional companies go from problem to
+[music] meeting to a committee to then
+
+176
+00:02:56,550 --> 00:02:56,560
+[music] meeting to a committee to then
+ 
+
+177
+00:02:56,560 --> 00:02:59,430
+[music] meeting to a committee to then
+finally deciding and then testing over 3
+
+178
+00:02:59,430 --> 00:02:59,440
+finally deciding and then testing over 3
+ 
+
+179
+00:02:59,440 --> 00:03:01,427
+finally deciding and then testing over 3
+weeks and then after those tests are
+
+180
+00:03:01,427 --> 00:03:01,437
+weeks and then after those tests are
+ 
+
+181
+00:03:01,437 --> 00:03:02,390
+weeks and then after those tests are
+[music] done probably just coming back
+
+182
+00:03:02,390 --> 00:03:02,400
+[music] done probably just coming back
+ 
+
+183
+00:03:02,400 --> 00:03:04,229
+[music] done probably just coming back
+to another series of meetings and other
+
+184
+00:03:04,229 --> 00:03:04,239
+to another series of meetings and other
+ 
+
+185
+00:03:04,239 --> 00:03:06,070
+to another series of meetings and other
+committees. Elon shows that he [music]
+
+186
+00:03:06,070 --> 00:03:06,080
+committees. Elon shows that he [music]
+ 
+
+187
+00:03:06,080 --> 00:03:08,550
+committees. Elon shows that he [music]
+does anything but that with Elon it's
+
+188
+00:03:08,550 --> 00:03:08,560
+does anything but that with Elon it's
+ 
+
+189
+00:03:08,560 --> 00:03:10,309
+does anything but that with Elon it's
+let's talk about the problem. Let's
+
+190
+00:03:10,309 --> 00:03:10,319
+let's talk about the problem. Let's
+ 
+
+191
+00:03:10,319 --> 00:03:12,869
+let's talk about the problem. Let's
+decide. Let's test it. And that whole
+
+192
+00:03:12,869 --> 00:03:12,879
+decide. Let's test it. And that whole
+ 
+
+193
+00:03:12,879 --> 00:03:14,949
+decide. Let's test it. And that whole
+process may just last 3 hours. [music]
+
+194
+00:03:14,949 --> 00:03:14,959
+process may just last 3 hours. [music]
+ 
+
+195
+00:03:14,959 --> 00:03:17,190
+process may just last 3 hours. [music]
+So what we're seeing here is like a 100x
+
+196
+00:03:17,190 --> 00:03:17,200
+So what we're seeing here is like a 100x
+ 
+
+197
+00:03:17,200 --> 00:03:18,869
+So what we're seeing here is like a 100x
+compression cycle, right? and you
+
+198
+00:03:18,869 --> 00:03:18,879
+compression cycle, right? and you
+ 
+
+199
+00:03:18,879 --> 00:03:20,422
+compression cycle, right? and you
+multiply that over the next hundred
+
+200
+00:03:20,422 --> 00:03:20,432
+multiply that over the next hundred
+ 
+
+201
+00:03:20,432 --> 00:03:22,309
+multiply that over the next hundred
+[music] or a thousand decisions, you're
+
+202
+00:03:22,309 --> 00:03:22,319
+[music] or a thousand decisions, you're
+ 
+
+203
+00:03:22,319 --> 00:03:24,149
+[music] or a thousand decisions, you're
+literally moving thousands of times
+
+204
+00:03:24,149 --> 00:03:24,159
+literally moving thousands of times
+ 
+
+205
+00:03:24,159 --> 00:03:26,390
+literally moving thousands of times
+faster than anyone else in your niche.
+
+206
+00:03:26,390 --> 00:03:26,400
+faster than anyone else in your niche.
+ 
+
+207
+00:03:26,400 --> 00:03:27,430
+faster than anyone else in your niche.
+So, here's what I [music] want you to
+
+208
+00:03:27,430 --> 00:03:27,440
+So, here's what I [music] want you to
+ 
+
+209
+00:03:27,440 --> 00:03:29,990
+So, here's what I [music] want you to
+do. I want you to take one project, one
+
+210
+00:03:29,990 --> 00:03:30,000
+do. I want you to take one project, one
+ 
+
+211
+00:03:30,000 --> 00:03:31,509
+do. I want you to take one project, one
+decision you've been sitting on and
+
+212
+00:03:31,509 --> 00:03:31,519
+decision you've been sitting on and
+ 
+
+213
+00:03:31,519 --> 00:03:33,670
+decision you've been sitting on and
+compress its timeline by 80%. [music]
+
+214
+00:03:33,670 --> 00:03:33,680
+compress its timeline by 80%. [music]
+ 
+
+215
+00:03:33,680 --> 00:03:35,509
+compress its timeline by 80%. [music]
+So, to be clear here, I'm not asking you
+
+216
+00:03:35,509 --> 00:03:35,519
+So, to be clear here, I'm not asking you
+ 
+
+217
+00:03:35,519 --> 00:03:37,990
+So, to be clear here, I'm not asking you
+to go and sleep under your office desk,
+
+218
+00:03:37,990 --> 00:03:38,000
+to go and sleep under your office desk,
+ 
+
+219
+00:03:38,000 --> 00:03:39,430
+to go and sleep under your office desk,
+right? [music] But what I am asking you
+
+220
+00:03:39,430 --> 00:03:39,440
+right? [music] But what I am asking you
+ 
+
+221
+00:03:39,440 --> 00:03:41,750
+right? [music] But what I am asking you
+to do is to challenge yourself as to how
+
+222
+00:03:41,750 --> 00:03:41,760
+to do is to challenge yourself as to how
+ 
+
+223
+00:03:41,760 --> 00:03:43,350
+to do is to challenge yourself as to how
+can you have more decision [music]
+
+224
+00:03:43,350 --> 00:03:43,360
+can you have more decision [music]
+ 
+
+225
+00:03:43,360 --> 00:03:45,750
+can you have more decision [music]
+velocity. Often times as high
+
+226
+00:03:45,750 --> 00:03:45,760
+velocity. Often times as high
+ 
+
+227
+00:03:45,760 --> 00:03:47,670
+velocity. Often times as high
+performers, we want to wait until we
+
+228
+00:03:47,670 --> 00:03:47,680
+performers, we want to wait until we
+ 
+
+229
+00:03:47,680 --> 00:03:49,589
+performers, we want to wait until we
+have all of the data to [music] make a
+
+230
+00:03:49,589 --> 00:03:49,599
+have all of the data to [music] make a
+ 
+
+231
+00:03:49,599 --> 00:03:51,350
+have all of the data to [music] make a
+decision. Often times what's required is
+
+232
+00:03:51,350 --> 00:03:51,360
+decision. Often times what's required is
+ 
+
+233
+00:03:51,360 --> 00:03:53,270
+decision. Often times what's required is
+to make decisions with just 80% of the
+
+234
+00:03:53,270 --> 00:03:53,280
+to make decisions with just 80% of the
+ 
+
+235
+00:03:53,280 --> 00:03:55,350
+to make decisions with just 80% of the
+data that you have and take pride in
+
+236
+00:03:55,350 --> 00:03:55,360
+data that you have and take pride in
+ 
+
+237
+00:03:55,360 --> 00:03:57,030
+data that you have and take pride in
+just making [music] the call. Because
+
+238
+00:03:57,030 --> 00:03:57,040
+just making [music] the call. Because
+ 
+
+239
+00:03:57,040 --> 00:03:59,030
+just making [music] the call. Because
+where one person may take 2 weeks to
+
+240
+00:03:59,030 --> 00:03:59,040
+where one person may take 2 weeks to
+ 
+
+241
+00:03:59,040 --> 00:04:01,670
+where one person may take 2 weeks to
+make one decision, you could make 100
+
+242
+00:04:01,670 --> 00:04:01,680
+make one decision, you could make 100
+ 
+
+243
+00:04:01,680 --> 00:04:03,350
+make one decision, you could make 100
+decisions in [music] 2 weeks. Yeah,
+
+244
+00:04:03,350 --> 00:04:03,360
+decisions in [music] 2 weeks. Yeah,
+ 
+
+245
+00:04:03,360 --> 00:04:04,630
+decisions in [music] 2 weeks. Yeah,
+you're going to make some mistakes, but
+
+246
+00:04:04,630 --> 00:04:04,640
+you're going to make some mistakes, but
+ 
+
+247
+00:04:04,640 --> 00:04:07,270
+you're going to make some mistakes, but
+at least overall net you're moving a lot
+
+248
+00:04:07,270 --> 00:04:07,280
+at least overall net you're moving a lot
+ 
+
+249
+00:04:07,280 --> 00:04:08,869
+at least overall net you're moving a lot
+faster [music] and compressing
+
+250
+00:04:08,869 --> 00:04:08,879
+faster [music] and compressing
+ 
+
+251
+00:04:08,879 --> 00:04:10,869
+faster [music] and compressing
+timelines. Keep in mind that most
+
+252
+00:04:10,869 --> 00:04:10,879
+timelines. Keep in mind that most
+ 
+
+253
+00:04:10,879 --> 00:04:12,710
+timelines. Keep in mind that most
+decisions are two-way doors. you know,
+
+254
+00:04:12,710 --> 00:04:12,720
+decisions are two-way doors. you know,
+ 
+
+255
+00:04:12,720 --> 00:04:14,309
+decisions are two-way doors. you know,
+you make the wrong decision, no worries.
+
+256
+00:04:14,309 --> 00:04:14,319
+you make the wrong decision, no worries.
+ 
+
+257
+00:04:14,319 --> 00:04:15,830
+you make the wrong decision, no worries.
+Just iterate [music] and pivot, right?
+
+258
+00:04:15,830 --> 00:04:15,840
+Just iterate [music] and pivot, right?
+ 
+
+259
+00:04:15,840 --> 00:04:17,349
+Just iterate [music] and pivot, right?
+It's not the end of the world. And it's
+
+260
+00:04:17,349 --> 00:04:17,359
+It's not the end of the world. And it's
+ 
+
+261
+00:04:17,359 --> 00:04:19,509
+It's not the end of the world. And it's
+also not worth sitting on for weeks.
+
+262
+00:04:19,509 --> 00:04:19,519
+also not worth sitting on for weeks.
+ 
+
+263
+00:04:19,519 --> 00:04:21,430
+also not worth sitting on for weeks.
+Learn to start making decisions [music]
+
+264
+00:04:21,430 --> 00:04:21,440
+Learn to start making decisions [music]
+ 
+
+265
+00:04:21,440 --> 00:04:23,830
+Learn to start making decisions [music]
+with an incomplete set of data. Look at
+
+266
+00:04:23,830 --> 00:04:23,840
+with an incomplete set of data. Look at
+ 
+
+267
+00:04:23,840 --> 00:04:26,150
+with an incomplete set of data. Look at
+the areas where you can start going and
+
+268
+00:04:26,150 --> 00:04:26,160
+the areas where you can start going and
+ 
+
+269
+00:04:26,160 --> 00:04:27,350
+the areas where you can start going and
+attacking the [music] bottleneck.
+
+270
+00:04:27,350 --> 00:04:27,360
+attacking the [music] bottleneck.
+ 
+
+271
+00:04:27,360 --> 00:04:29,749
+attacking the [music] bottleneck.
+Typically, there's one core area that's
+
+272
+00:04:29,749 --> 00:04:29,759
+Typically, there's one core area that's
+ 
+
+273
+00:04:29,759 --> 00:04:32,230
+Typically, there's one core area that's
+holding up the entire assembly line of
+
+274
+00:04:32,230 --> 00:04:32,240
+holding up the entire assembly line of
+ 
+
+275
+00:04:32,240 --> 00:04:33,030
+holding up the entire assembly line of
+your company. [music]
+
+276
+00:04:33,030 --> 00:04:33,040
+your company. [music]
+ 
+
+277
+00:04:33,040 --> 00:04:34,790
+your company. [music]
+Identify the owner of that area and
+
+278
+00:04:34,790 --> 00:04:34,800
+Identify the owner of that area and
+ 
+
+279
+00:04:34,800 --> 00:04:37,510
+Identify the owner of that area and
+deeply understand what is really the
+
+280
+00:04:37,510 --> 00:04:37,520
+deeply understand what is really the
+ 
+
+281
+00:04:37,520 --> 00:04:38,710
+deeply understand what is really the
+problem [music] here. Once you
+
+282
+00:04:38,710 --> 00:04:38,720
+problem [music] here. Once you
+ 
+
+283
+00:04:38,720 --> 00:04:40,390
+problem [music] here. Once you
+understand the root cause of that
+
+284
+00:04:40,390 --> 00:04:40,400
+understand the root cause of that
+ 
+
+285
+00:04:40,400 --> 00:04:42,950
+understand the root cause of that
+problem, go and attack it with full
+
+286
+00:04:42,950 --> 00:04:42,960
+problem, go and attack it with full
+ 
+
+287
+00:04:42,960 --> 00:04:45,990
+problem, go and attack it with full
+force and the urgency of Elon. So now
+
+288
+00:04:45,990 --> 00:04:46,000
+force and the urgency of Elon. So now
+ 
+
+289
+00:04:46,000 --> 00:04:47,830
+force and the urgency of Elon. So now
+let's move on to the algorithm that Elon
+
+290
+00:04:47,830 --> 00:04:47,840
+let's move on to the algorithm that Elon
+ 
+
+291
+00:04:47,840 --> 00:04:49,350
+let's move on to the algorithm that Elon
+uses to [music] strip away everything
+
+292
+00:04:49,350 --> 00:04:49,360
+uses to [music] strip away everything
+ 
+
+293
+00:04:49,360 --> 00:04:51,590
+uses to [music] strip away everything
+unnecessary. Mechanism two, the
+
+294
+00:04:51,590 --> 00:04:51,600
+unnecessary. Mechanism two, the
+ 
+
+295
+00:04:51,600 --> 00:04:53,430
+unnecessary. Mechanism two, the
+algorithm. Elon Musk has an algorithm
+
+296
+00:04:53,430 --> 00:04:53,440
+algorithm. Elon Musk has an algorithm
+ 
+
+297
+00:04:53,440 --> 00:04:55,030
+algorithm. Elon Musk has an algorithm
+that he applies to [music] everything,
+
+298
+00:04:55,030 --> 00:04:55,040
+that he applies to [music] everything,
+ 
+
+299
+00:04:55,040 --> 00:04:57,110
+that he applies to [music] everything,
+whether it's brain interfaces, rockets,
+
+300
+00:04:57,110 --> 00:04:57,120
+whether it's brain interfaces, rockets,
+ 
+
+301
+00:04:57,120 --> 00:04:59,430
+whether it's brain interfaces, rockets,
+or cars, or even his own org chart. It's
+
+302
+00:04:59,430 --> 00:04:59,440
+or cars, or even his own org chart. It's
+ 
+
+303
+00:04:59,440 --> 00:05:01,293
+or cars, or even his own org chart. It's
+ruthless, it's simple, and it's the
+
+304
+00:05:01,293 --> 00:05:01,303
+ruthless, it's simple, and it's the
+ 
+
+305
+00:05:01,303 --> 00:05:02,870
+ruthless, it's simple, and it's the
+[music] reason that SpaceX can build
+
+306
+00:05:02,870 --> 00:05:02,880
+[music] reason that SpaceX can build
+ 
+
+307
+00:05:02,880 --> 00:05:05,110
+[music] reason that SpaceX can build
+rockets for a fraction of NASA's cost.
+
+308
+00:05:05,110 --> 00:05:05,120
+rockets for a fraction of NASA's cost.
+ 
+
+309
+00:05:05,120 --> 00:05:06,550
+rockets for a fraction of NASA's cost.
+Here's how it works. What I'm about to
+
+310
+00:05:06,550 --> 00:05:06,560
+Here's how it works. What I'm about to
+ 
+
+311
+00:05:06,560 --> 00:05:07,350
+Here's how it works. What I'm about to
+share with you is something that
+
+312
+00:05:07,350 --> 00:05:07,360
+share with you is something that
+ 
+
+313
+00:05:07,360 --> 00:05:08,950
+share with you is something that
+probably can save you thousands of
+
+314
+00:05:08,950 --> 00:05:08,960
+probably can save you thousands of
+ 
+
+315
+00:05:08,960 --> 00:05:10,390
+probably can save you thousands of
+hours. So, there [music] was a period
+
+316
+00:05:10,390 --> 00:05:10,400
+hours. So, there [music] was a period
+ 
+
+317
+00:05:10,400 --> 00:05:12,790
+hours. So, there [music] was a period
+early on in Tesla where Elon was
+
+318
+00:05:12,790 --> 00:05:12,800
+early on in Tesla where Elon was
+ 
+
+319
+00:05:12,800 --> 00:05:15,670
+early on in Tesla where Elon was
+obsessed with automation. This went well
+
+320
+00:05:15,670 --> 00:05:15,680
+obsessed with automation. This went well
+ 
+
+321
+00:05:15,680 --> 00:05:17,013
+obsessed with automation. This went well
+for a little bit, but then they started
+
+322
+00:05:17,013 --> 00:05:17,023
+for a little bit, but then they started
+ 
+
+323
+00:05:17,023 --> 00:05:18,629
+for a little bit, but then they started
+[music] running into some production
+
+324
+00:05:18,629 --> 00:05:18,639
+[music] running into some production
+ 
+
+325
+00:05:18,639 --> 00:05:21,350
+[music] running into some production
+problems. And what Elon realized is that
+
+326
+00:05:21,350 --> 00:05:21,360
+problems. And what Elon realized is that
+ 
+
+327
+00:05:21,360 --> 00:05:23,909
+problems. And what Elon realized is that
+he jumped to automate things way too
+
+328
+00:05:23,909 --> 00:05:23,919
+he jumped to automate things way too
+ 
+
+329
+00:05:23,919 --> 00:05:25,510
+he jumped to automate things way too
+fast. And he ended up sending out an
+
+330
+00:05:25,510 --> 00:05:25,520
+fast. And he ended up sending out an
+ 
+
+331
+00:05:25,520 --> 00:05:27,270
+fast. And he ended up sending out an
+email to all the staff saying that he
+
+332
+00:05:27,270 --> 00:05:27,280
+email to all the staff saying that he
+ 
+
+333
+00:05:27,280 --> 00:05:28,950
+email to all the staff saying that he
+had screwed up this decision. And sure
+
+334
+00:05:28,950 --> 00:05:28,960
+had screwed up this decision. And sure
+ 
+
+335
+00:05:28,960 --> 00:05:31,670
+had screwed up this decision. And sure
+enough, one day he came into the Tesla
+
+336
+00:05:31,670 --> 00:05:31,680
+enough, one day he came into the Tesla
+ 
+
+337
+00:05:31,680 --> 00:05:34,469
+enough, one day he came into the Tesla
+factory with a bottle of orange spray
+
+338
+00:05:34,469 --> 00:05:34,479
+factory with a bottle of orange spray
+ 
+
+339
+00:05:34,479 --> 00:05:36,950
+factory with a bottle of orange spray
+paint and started spray painting every
+
+340
+00:05:36,950 --> 00:05:36,960
+paint and started spray painting every
+ 
+
+341
+00:05:36,960 --> 00:05:38,790
+paint and started spray painting every
+single robot on the floor that they'd
+
+342
+00:05:38,790 --> 00:05:38,800
+single robot on the floor that they'd
+ 
+
+343
+00:05:38,800 --> 00:05:40,469
+single robot on the floor that they'd
+have to go and remove. This painful
+
+344
+00:05:40,469 --> 00:05:40,479
+have to go and remove. This painful
+ 
+
+345
+00:05:40,479 --> 00:05:43,430
+have to go and remove. This painful
+process taught Elon the importance of
+
+346
+00:05:43,430 --> 00:05:43,440
+process taught Elon the importance of
+ 
+
+347
+00:05:43,440 --> 00:05:45,909
+process taught Elon the importance of
+deleting and simplifying before you
+
+348
+00:05:45,909 --> 00:05:45,919
+deleting and simplifying before you
+ 
+
+349
+00:05:45,919 --> 00:05:47,990
+deleting and simplifying before you
+automate. And so sure enough, as he
+
+350
+00:05:47,990 --> 00:05:48,000
+automate. And so sure enough, as he
+ 
+
+351
+00:05:48,000 --> 00:05:49,830
+automate. And so sure enough, as he
+started going and building SpaceX, he
+
+352
+00:05:49,830 --> 00:05:49,840
+started going and building SpaceX, he
+ 
+
+353
+00:05:49,840 --> 00:05:52,150
+started going and building SpaceX, he
+was able to go and take these lessons to
+
+354
+00:05:52,150 --> 00:05:52,160
+was able to go and take these lessons to
+ 
+
+355
+00:05:52,160 --> 00:05:54,469
+was able to go and take these lessons to
+improve the rocket process to produce
+
+356
+00:05:54,469 --> 00:05:54,479
+improve the rocket process to produce
+ 
+
+357
+00:05:54,479 --> 00:05:55,830
+improve the rocket process to produce
+rockets that were far cheaper [music]
+
+358
+00:05:55,830 --> 00:05:55,840
+rockets that were far cheaper [music]
+ 
+
+359
+00:05:55,840 --> 00:05:58,310
+rockets that were far cheaper [music]
+than NASA's. Now, the story of Elon
+
+360
+00:05:58,310 --> 00:05:58,320
+than NASA's. Now, the story of Elon
+ 
+
+361
+00:05:58,320 --> 00:06:00,710
+than NASA's. Now, the story of Elon
+actually building rockets goes back to
+
+362
+00:06:00,710 --> 00:06:00,720
+actually building rockets goes back to
+ 
+
+363
+00:06:00,720 --> 00:06:02,870
+actually building rockets goes back to
+early 2000s of him actually going and
+
+364
+00:06:02,870 --> 00:06:02,880
+early 2000s of him actually going and
+ 
+
+365
+00:06:02,880 --> 00:06:04,950
+early 2000s of him actually going and
+flying to the Soviet Union to go and
+
+366
+00:06:04,950 --> 00:06:04,960
+flying to the Soviet Union to go and
+ 
+
+367
+00:06:04,960 --> 00:06:06,870
+flying to the Soviet Union to go and
+look at purchasing rockets from the
+
+368
+00:06:06,870 --> 00:06:06,880
+look at purchasing rockets from the
+ 
+
+369
+00:06:06,880 --> 00:06:08,309
+look at purchasing rockets from the
+Russians. You know, as they went and
+
+370
+00:06:08,309 --> 00:06:08,319
+Russians. You know, as they went and
+ 
+
+371
+00:06:08,319 --> 00:06:10,150
+Russians. You know, as they went and
+started quoting him on different prices,
+
+372
+00:06:10,150 --> 00:06:10,160
+started quoting him on different prices,
+ 
+
+373
+00:06:10,160 --> 00:06:11,749
+started quoting him on different prices,
+he started realizing, you [music] know,
+
+374
+00:06:11,749 --> 00:06:11,759
+he started realizing, you [music] know,
+ 
+
+375
+00:06:11,759 --> 00:06:13,510
+he started realizing, you [music] know,
+why does it cost this much? You know,
+
+376
+00:06:13,510 --> 00:06:13,520
+why does it cost this much? You know,
+ 
+
+377
+00:06:13,520 --> 00:06:15,350
+why does it cost this much? You know,
+why are we even doing this? And this is
+
+378
+00:06:15,350 --> 00:06:15,360
+why are we even doing this? And this is
+ 
+
+379
+00:06:15,360 --> 00:06:17,110
+why are we even doing this? And this is
+what then caused him to start building
+
+380
+00:06:17,110 --> 00:06:17,120
+what then caused him to start building
+ 
+
+381
+00:06:17,120 --> 00:06:20,230
+what then caused him to start building
+his own rockets at SpaceX. Now along the
+
+382
+00:06:20,230 --> 00:06:20,240
+his own rockets at SpaceX. Now along the
+ 
+
+383
+00:06:20,240 --> 00:06:22,514
+his own rockets at SpaceX. Now along the
+way there's been a constant push inside
+
+384
+00:06:22,514 --> 00:06:22,524
+way there's been a constant push inside
+ 
+
+385
+00:06:22,524 --> 00:06:24,309
+way there's been a constant push inside
+[music] of these companies for you know
+
+386
+00:06:24,309 --> 00:06:24,319
+[music] of these companies for you know
+ 
+
+387
+00:06:24,319 --> 00:06:25,510
+[music] of these companies for you know
+different features different
+
+388
+00:06:25,510 --> 00:06:25,520
+different features different
+ 
+
+389
+00:06:25,520 --> 00:06:27,430
+different features different
+requirements different things added to
+
+390
+00:06:27,430 --> 00:06:27,440
+requirements different things added to
+ 
+
+391
+00:06:27,440 --> 00:06:29,189
+requirements different things added to
+things and before you know Elon [music]
+
+392
+00:06:29,189 --> 00:06:29,199
+things and before you know Elon [music]
+ 
+
+393
+00:06:29,199 --> 00:06:31,830
+things and before you know Elon [music]
+goes and adds anything he goes why do we
+
+394
+00:06:31,830 --> 00:06:31,840
+goes and adds anything he goes why do we
+ 
+
+395
+00:06:31,840 --> 00:06:34,230
+goes and adds anything he goes why do we
+even need this and who is even
+
+396
+00:06:34,230 --> 00:06:34,240
+even need this and who is even
+ 
+
+397
+00:06:34,240 --> 00:06:35,909
+even need this and who is even
+suggesting [music] this he can go and
+
+398
+00:06:35,909 --> 00:06:35,919
+suggesting [music] this he can go and
+ 
+
+399
+00:06:35,919 --> 00:06:38,790
+suggesting [music] this he can go and
+look at any part across any rocket any
+
+400
+00:06:38,790 --> 00:06:38,800
+look at any part across any rocket any
+ 
+
+401
+00:06:38,800 --> 00:06:40,950
+look at any part across any rocket any
+car [music] and go down to who actually
+
+402
+00:06:40,950 --> 00:06:40,960
+car [music] and go down to who actually
+ 
+
+403
+00:06:40,960 --> 00:06:43,029
+car [music] and go down to who actually
+suggested this requirement so that
+
+404
+00:06:43,029 --> 00:06:43,039
+suggested this requirement so that
+ 
+
+405
+00:06:43,039 --> 00:06:44,784
+suggested this requirement so that
+everyone is accountable for what they're
+
+406
+00:06:44,784 --> 00:06:44,794
+everyone is accountable for what they're
+ 
+
+407
+00:06:44,794 --> 00:06:47,029
+everyone is accountable for what they're
+[music] adding. That way, the default in
+
+408
+00:06:47,029 --> 00:06:47,039
+[music] adding. That way, the default in
+ 
+
+409
+00:06:47,039 --> 00:06:48,790
+[music] adding. That way, the default in
+the company is not just to add things
+
+410
+00:06:48,790 --> 00:06:48,800
+the company is not just to add things
+ 
+
+411
+00:06:48,800 --> 00:06:50,024
+the company is not just to add things
+and think that you can just get away
+
+412
+00:06:50,024 --> 00:06:50,034
+and think that you can just get away
+ 
+
+413
+00:06:50,034 --> 00:06:51,749
+and think that you can just get away
+[music] with it, you know, and every
+
+414
+00:06:51,749 --> 00:06:51,759
+[music] with it, you know, and every
+ 
+
+415
+00:06:51,759 --> 00:06:53,350
+[music] with it, you know, and every
+single piece of what they're building.
+
+416
+00:06:53,350 --> 00:06:53,360
+single piece of what they're building.
+ 
+
+417
+00:06:53,360 --> 00:06:55,029
+single piece of what they're building.
+They're always trying to go and delete
+
+418
+00:06:55,029 --> 00:06:55,039
+They're always trying to go and delete
+ 
+
+419
+00:06:55,039 --> 00:06:57,430
+They're always trying to go and delete
+first, simplify things, and then get
+
+420
+00:06:57,430 --> 00:06:57,440
+first, simplify things, and then get
+ 
+
+421
+00:06:57,440 --> 00:06:59,430
+first, simplify things, and then get
+things down to the bare necessities.
+
+422
+00:06:59,430 --> 00:06:59,440
+things down to the bare necessities.
+ 
+
+423
+00:06:59,440 --> 00:07:01,189
+things down to the bare necessities.
+Because truthfully, you can't just have
+
+424
+00:07:01,189 --> 00:07:01,199
+Because truthfully, you can't just have
+ 
+
+425
+00:07:01,199 --> 00:07:02,790
+Because truthfully, you can't just have
+a bunch of [\h__\h] slapped onto [music] a
+
+426
+00:07:02,790 --> 00:07:02,800
+a bunch of [\h__\h] slapped onto [music] a
+ 
+
+427
+00:07:02,800 --> 00:07:03,909
+a bunch of [\h__\h] slapped onto [music] a
+rocket and think you're going to get
+
+428
+00:07:03,909 --> 00:07:03,919
+rocket and think you're going to get
+ 
+
+429
+00:07:03,919 --> 00:07:06,150
+rocket and think you're going to get
+that thing into orbit. The algorithm is
+
+430
+00:07:06,150 --> 00:07:06,160
+that thing into orbit. The algorithm is
+ 
+
+431
+00:07:06,160 --> 00:07:08,230
+that thing into orbit. The algorithm is
+Elon's operating system. It helps him
+
+432
+00:07:08,230 --> 00:07:08,240
+Elon's operating system. It helps him
+ 
+
+433
+00:07:08,240 --> 00:07:09,909
+Elon's operating system. It helps him
+think through every problem, and it's
+
+434
+00:07:09,909 --> 00:07:09,919
+think through every problem, and it's
+ 
+
+435
+00:07:09,919 --> 00:07:11,589
+think through every problem, and it's
+deceptively [music] simple. Let me break
+
+436
+00:07:11,589 --> 00:07:11,599
+deceptively [music] simple. Let me break
+ 
+
+437
+00:07:11,599 --> 00:07:13,350
+deceptively [music] simple. Let me break
+down all five steps because this will
+
+438
+00:07:13,350 --> 00:07:13,360
+down all five steps because this will
+ 
+
+439
+00:07:13,360 --> 00:07:15,670
+down all five steps because this will
+change how you build. Step one, question
+
+440
+00:07:15,670 --> 00:07:15,680
+change how you build. Step one, question
+ 
+
+441
+00:07:15,680 --> 00:07:17,670
+change how you build. Step one, question
+every requirement. Now, the key thing
+
+442
+00:07:17,670 --> 00:07:17,680
+every requirement. Now, the key thing
+ 
+
+443
+00:07:17,680 --> 00:07:20,390
+every requirement. Now, the key thing
+that Elon shows here is that he asks who
+
+444
+00:07:20,390 --> 00:07:20,400
+that Elon shows here is that he asks who
+ 
+
+445
+00:07:20,400 --> 00:07:22,790
+that Elon shows here is that he asks who
+is suggesting this requirement and then
+
+446
+00:07:22,790 --> 00:07:22,800
+is suggesting this requirement and then
+ 
+
+447
+00:07:22,800 --> 00:07:24,710
+is suggesting this requirement and then
+making sure that he understands the root
+
+448
+00:07:24,710 --> 00:07:24,720
+making sure that he understands the root
+ 
+
+449
+00:07:24,720 --> 00:07:26,870
+making sure that he understands the root
+reason as to why they are adding this
+
+450
+00:07:26,870 --> 00:07:26,880
+reason as to why they are adding this
+ 
+
+451
+00:07:26,880 --> 00:07:28,710
+reason as to why they are adding this
+given thing because he knows that every
+
+452
+00:07:28,710 --> 00:07:28,720
+given thing because he knows that every
+ 
+
+453
+00:07:28,720 --> 00:07:30,870
+given thing because he knows that every
+single thing you add just adds [music]
+
+454
+00:07:30,870 --> 00:07:30,880
+single thing you add just adds [music]
+ 
+
+455
+00:07:30,880 --> 00:07:33,670
+single thing you add just adds [music]
+more complexity later. Step two, delete
+
+456
+00:07:33,670 --> 00:07:33,680
+more complexity later. Step two, delete
+ 
+
+457
+00:07:33,680 --> 00:07:35,510
+more complexity later. Step two, delete
+parts of the process. We all know,
+
+458
+00:07:35,510 --> 00:07:35,520
+parts of the process. We all know,
+ 
+
+459
+00:07:35,520 --> 00:07:37,350
+parts of the process. We all know,
+right, there's no sense hiring someone
+
+460
+00:07:37,350 --> 00:07:37,360
+right, there's no sense hiring someone
+ 
+
+461
+00:07:37,360 --> 00:07:39,029
+right, there's no sense hiring someone
+for a role that you don't even need in
+
+462
+00:07:39,029 --> 00:07:39,039
+for a role that you don't even need in
+ 
+
+463
+00:07:39,039 --> 00:07:40,309
+for a role that you don't even need in
+the first place. There's no sense
+
+464
+00:07:40,309 --> 00:07:40,319
+the first place. There's no sense
+ 
+
+465
+00:07:40,319 --> 00:07:41,749
+the first place. There's no sense
+automating a task that you shouldn't
+
+466
+00:07:41,749 --> 00:07:41,759
+automating a task that you shouldn't
+ 
+
+467
+00:07:41,759 --> 00:07:43,080
+automating a task that you shouldn't
+even be doing in the first place.
+
+468
+00:07:43,080 --> 00:07:43,090
+even be doing in the first place.
+ 
+
+469
+00:07:43,090 --> 00:07:43,110
+even be doing in the first place.
+>> [music]
+
+470
+00:07:43,110 --> 00:07:43,120
+>> [music]
+ 
+
+471
+00:07:43,120 --> 00:07:44,870
+>> [music]
+>> You know, I know in my own career, I've
+
+472
+00:07:44,870 --> 00:07:44,880
+>> You know, I know in my own career, I've
+ 
+
+473
+00:07:44,880 --> 00:07:46,230
+>> You know, I know in my own career, I've
+learned this the hard way. When I was
+
+474
+00:07:46,230 --> 00:07:46,240
+learned this the hard way. When I was
+ 
+
+475
+00:07:46,240 --> 00:07:48,070
+learned this the hard way. When I was
+25, building Herb, I went on a hiring
+
+476
+00:07:48,070 --> 00:07:48,080
+25, building Herb, I went on a hiring
+ 
+
+477
+00:07:48,080 --> 00:07:50,070
+25, building Herb, I went on a hiring
+spree, hiring a bunch of roles that
+
+478
+00:07:50,070 --> 00:07:50,080
+spree, hiring a bunch of roles that
+ 
+
+479
+00:07:50,080 --> 00:07:52,230
+spree, hiring a bunch of roles that
+later on I learned I didn't even need
+
+480
+00:07:52,230 --> 00:07:52,240
+later on I learned I didn't even need
+ 
+
+481
+00:07:52,240 --> 00:07:53,909
+later on I learned I didn't even need
+these folks. And then I had to make the
+
+482
+00:07:53,909 --> 00:07:53,919
+these folks. And then I had to make the
+ 
+
+483
+00:07:53,919 --> 00:07:55,749
+these folks. And then I had to make the
+tough decision of letting a bunch of
+
+484
+00:07:55,749 --> 00:07:55,759
+tough decision of letting a bunch of
+ 
+
+485
+00:07:55,759 --> 00:07:57,830
+tough decision of letting a bunch of
+folks go because [music] I had chosen to
+
+486
+00:07:57,830 --> 00:07:57,840
+folks go because [music] I had chosen to
+ 
+
+487
+00:07:57,840 --> 00:08:00,150
+folks go because [music] I had chosen to
+scale up a department that really wasn't
+
+488
+00:08:00,150 --> 00:08:00,160
+scale up a department that really wasn't
+ 
+
+489
+00:08:00,160 --> 00:08:01,990
+scale up a department that really wasn't
+even required for us to go and achieve
+
+490
+00:08:01,990 --> 00:08:02,000
+even required for us to go and achieve
+ 
+
+491
+00:08:02,000 --> 00:08:03,670
+even required for us to go and achieve
+the vision we wanted. You know, really
+
+492
+00:08:03,670 --> 00:08:03,680
+the vision we wanted. You know, really
+ 
+
+493
+00:08:03,680 --> 00:08:05,350
+the vision we wanted. You know, really
+making sure that you delete before
+
+494
+00:08:05,350 --> 00:08:05,360
+making sure that you delete before
+ 
+
+495
+00:08:05,360 --> 00:08:07,830
+making sure that you delete before
+[music] you automate is super key. Step
+
+496
+00:08:07,830 --> 00:08:07,840
+[music] you automate is super key. Step
+ 
+
+497
+00:08:07,840 --> 00:08:09,935
+[music] you automate is super key. Step
+three, simplify what remains. you know,
+
+498
+00:08:09,935 --> 00:08:09,945
+three, simplify what remains. you know,
+ 
+
+499
+00:08:09,945 --> 00:08:11,830
+three, simplify what remains. you know,
+[music] whether it's Elon or it's Steve
+
+500
+00:08:11,830 --> 00:08:11,840
+[music] whether it's Elon or it's Steve
+ 
+
+501
+00:08:11,840 --> 00:08:14,230
+[music] whether it's Elon or it's Steve
+Jobs and his insanely simple values,
+
+502
+00:08:14,230 --> 00:08:14,240
+Jobs and his insanely simple values,
+ 
+
+503
+00:08:14,240 --> 00:08:15,589
+Jobs and his insanely simple values,
+whether it's simplifying brain
+
+504
+00:08:15,589 --> 00:08:15,599
+whether it's simplifying brain
+ 
+
+505
+00:08:15,599 --> 00:08:17,270
+whether it's simplifying brain
+interfaces, [music] it's making sure
+
+506
+00:08:17,270 --> 00:08:17,280
+interfaces, [music] it's making sure
+ 
+
+507
+00:08:17,280 --> 00:08:19,110
+interfaces, [music] it's making sure
+that Tesla and the parts are as simple
+
+508
+00:08:19,110 --> 00:08:19,120
+that Tesla and the parts are as simple
+ 
+
+509
+00:08:19,120 --> 00:08:20,150
+that Tesla and the parts are as simple
+as possible so they're not
+
+510
+00:08:20,150 --> 00:08:20,160
+as possible so they're not
+ 
+
+511
+00:08:20,160 --> 00:08:21,830
+as possible so they're not
+overengineering things. The core [music]
+
+512
+00:08:21,830 --> 00:08:21,840
+overengineering things. The core [music]
+ 
+
+513
+00:08:21,840 --> 00:08:24,869
+overengineering things. The core [music]
+thing here is that simplicity is key.
+
+514
+00:08:24,869 --> 00:08:24,879
+thing here is that simplicity is key.
+ 
+
+515
+00:08:24,879 --> 00:08:26,550
+thing here is that simplicity is key.
+Step four then is to accelerate [music]
+
+516
+00:08:26,550 --> 00:08:26,560
+Step four then is to accelerate [music]
+ 
+
+517
+00:08:26,560 --> 00:08:28,950
+Step four then is to accelerate [music]
+cycle time. Elon Concy asked himself,
+
+518
+00:08:28,950 --> 00:08:28,960
+cycle time. Elon Concy asked himself,
+ 
+
+519
+00:08:28,960 --> 00:08:31,029
+cycle time. Elon Concy asked himself,
+how fast can we test this? When you're
+
+520
+00:08:31,029 --> 00:08:31,039
+how fast can we test this? When you're
+ 
+
+521
+00:08:31,039 --> 00:08:32,550
+how fast can we test this? When you're
+going and building something, right,
+
+522
+00:08:32,550 --> 00:08:32,560
+going and building something, right,
+ 
+
+523
+00:08:32,560 --> 00:08:34,149
+going and building something, right,
+again, it's that learning agility that
+
+524
+00:08:34,149 --> 00:08:34,159
+again, it's that learning agility that
+ 
+
+525
+00:08:34,159 --> 00:08:35,589
+again, it's that learning agility that
+will set you apart. [music] Where your
+
+526
+00:08:35,589 --> 00:08:35,599
+will set you apart. [music] Where your
+ 
+
+527
+00:08:35,599 --> 00:08:37,430
+will set you apart. [music] Where your
+competitor maybe takes six months to
+
+528
+00:08:37,430 --> 00:08:37,440
+competitor maybe takes six months to
+ 
+
+529
+00:08:37,440 --> 00:08:39,110
+competitor maybe takes six months to
+ship something and then another six
+
+530
+00:08:39,110 --> 00:08:39,120
+ship something and then another six
+ 
+
+531
+00:08:39,120 --> 00:08:41,029
+ship something and then another six
+months to iterate, if you're able to go
+
+532
+00:08:41,029 --> 00:08:41,039
+months to iterate, if you're able to go
+ 
+
+533
+00:08:41,039 --> 00:08:42,550
+months to iterate, if you're able to go
+and compress those cycle [music] times
+
+534
+00:08:42,550 --> 00:08:42,560
+and compress those cycle [music] times
+ 
+
+535
+00:08:42,560 --> 00:08:45,590
+and compress those cycle [music] times
+to days, right, you can imagine how much
+
+536
+00:08:45,590 --> 00:08:45,600
+to days, right, you can imagine how much
+ 
+
+537
+00:08:45,600 --> 00:08:47,590
+to days, right, you can imagine how much
+further you'll be than the competitor in
+
+538
+00:08:47,590 --> 00:08:47,600
+further you'll be than the competitor in
+ 
+
+539
+00:08:47,600 --> 00:08:50,070
+further you'll be than the competitor in
+a year or even 5 years. [music] Speed is
+
+540
+00:08:50,070 --> 00:08:50,080
+a year or even 5 years. [music] Speed is
+ 
+
+541
+00:08:50,080 --> 00:08:51,829
+a year or even 5 years. [music] Speed is
+your competitive advantage, especially
+
+542
+00:08:51,829 --> 00:08:51,839
+your competitive advantage, especially
+ 
+
+543
+00:08:51,839 --> 00:08:54,389
+your competitive advantage, especially
+as a small company. Step five is to
+
+544
+00:08:54,389 --> 00:08:54,399
+as a small company. Step five is to
+ 
+
+545
+00:08:54,399 --> 00:08:57,110
+as a small company. Step five is to
+automate last. only move to automation
+
+546
+00:08:57,110 --> 00:08:57,120
+automate last. only move to automation
+ 
+
+547
+00:08:57,120 --> 00:08:58,630
+automate last. only move to automation
+when you've first gone and you've
+
+548
+00:08:58,630 --> 00:08:58,640
+when you've first gone and you've
+ 
+
+549
+00:08:58,640 --> 00:09:00,870
+when you've first gone and you've
+deleted things. You've got core owners
+
+550
+00:09:00,870 --> 00:09:00,880
+deleted things. You've got core owners
+ 
+
+551
+00:09:00,880 --> 00:09:02,630
+deleted things. You've got core owners
+of the pieces that have been added.
+
+552
+00:09:02,630 --> 00:09:02,640
+of the pieces that have been added.
+ 
+
+553
+00:09:02,640 --> 00:09:04,550
+of the pieces that have been added.
+You've simplified things as much as
+
+554
+00:09:04,550 --> 00:09:04,560
+You've simplified things as much as
+ 
+
+555
+00:09:04,560 --> 00:09:07,430
+You've simplified things as much as
+possible. Then and only then are you
+
+556
+00:09:07,430 --> 00:09:07,440
+possible. Then and only then are you
+ 
+
+557
+00:09:07,440 --> 00:09:09,110
+possible. Then and only then are you
+ready to automate. And here's why this
+
+558
+00:09:09,110 --> 00:09:09,120
+ready to automate. And here's why this
+ 
+
+559
+00:09:09,120 --> 00:09:10,949
+ready to automate. And here's why this
+matters so much. Most companies are
+
+560
+00:09:10,949 --> 00:09:10,959
+matters so much. Most companies are
+ 
+
+561
+00:09:10,959 --> 00:09:13,030
+matters so much. Most companies are
+drowning in inherited complexity.
+
+562
+00:09:13,030 --> 00:09:13,040
+drowning in inherited complexity.
+ 
+
+563
+00:09:13,040 --> 00:09:14,781
+drowning in inherited complexity.
+Inherited complexity is the silent
+
+564
+00:09:14,781 --> 00:09:14,791
+Inherited complexity is the silent
+ 
+
+565
+00:09:14,791 --> 00:09:16,150
+Inherited complexity is the silent
+[music] killer. It's essentially all
+
+566
+00:09:16,150 --> 00:09:16,160
+[music] killer. It's essentially all
+ 
+
+567
+00:09:16,160 --> 00:09:18,150
+[music] killer. It's essentially all
+those processes, tasks, and people that
+
+568
+00:09:18,150 --> 00:09:18,160
+those processes, tasks, and people that
+ 
+
+569
+00:09:18,160 --> 00:09:20,310
+those processes, tasks, and people that
+you just inherit and a lot of people
+
+570
+00:09:20,310 --> 00:09:20,320
+you just inherit and a lot of people
+ 
+
+571
+00:09:20,320 --> 00:09:21,829
+you just inherit and a lot of people
+just accept as the [music] way things
+
+572
+00:09:21,829 --> 00:09:21,839
+just accept as the [music] way things
+ 
+
+573
+00:09:21,839 --> 00:09:23,750
+just accept as the [music] way things
+are. And that's dangerous. We've all
+
+574
+00:09:23,750 --> 00:09:23,760
+are. And that's dangerous. We've all
+ 
+
+575
+00:09:23,760 --> 00:09:25,430
+are. And that's dangerous. We've all
+been there, right? you go and you ask
+
+576
+00:09:25,430 --> 00:09:25,440
+been there, right? you go and you ask
+ 
+
+577
+00:09:25,440 --> 00:09:26,710
+been there, right? you go and you ask
+someone on your team, you know, why are
+
+578
+00:09:26,710 --> 00:09:26,720
+someone on your team, you know, why are
+ 
+
+579
+00:09:26,720 --> 00:09:28,150
+someone on your team, you know, why are
+we doing it this way? And [music] they
+
+580
+00:09:28,150 --> 00:09:28,160
+we doing it this way? And [music] they
+ 
+
+581
+00:09:28,160 --> 00:09:29,990
+we doing it this way? And [music] they
+say, oh, well, that's how I was brought
+
+582
+00:09:29,990 --> 00:09:30,000
+say, oh, well, that's how I was brought
+ 
+
+583
+00:09:30,000 --> 00:09:31,829
+say, oh, well, that's how I was brought
+on and that's what I was trained on or,
+
+584
+00:09:31,829 --> 00:09:31,839
+on and that's what I was trained on or,
+ 
+
+585
+00:09:31,839 --> 00:09:33,110
+on and that's what I was trained on or,
+you know, this is how we've always done
+
+586
+00:09:33,110 --> 00:09:33,120
+you know, this is how we've always done
+ 
+
+587
+00:09:33,120 --> 00:09:36,396
+you know, this is how we've always done
+it. And that sort of mentality is a
+
+588
+00:09:36,396 --> 00:09:36,406
+it. And that sort of mentality is a
+ 
+
+589
+00:09:36,406 --> 00:09:38,550
+it. And that sort of mentality is a
+[music] disease. Delete that [\h__\h]
+
+590
+00:09:38,550 --> 00:09:38,560
+[music] disease. Delete that [\h__\h]
+ 
+
+591
+00:09:38,560 --> 00:09:41,030
+[music] disease. Delete that [\h__\h]
+Simplify things and question every
+
+592
+00:09:41,030 --> 00:09:41,040
+Simplify things and question every
+ 
+
+593
+00:09:41,040 --> 00:09:42,310
+Simplify things and question every
+requirement. [music] So, here's your
+
+594
+00:09:42,310 --> 00:09:42,320
+requirement. [music] So, here's your
+ 
+
+595
+00:09:42,320 --> 00:09:44,150
+requirement. [music] So, here's your
+exercise. Pick one area of your
+
+596
+00:09:44,150 --> 00:09:44,160
+exercise. Pick one area of your
+ 
+
+597
+00:09:44,160 --> 00:09:45,350
+exercise. Pick one area of your
+business. Could be your content
+
+598
+00:09:45,350 --> 00:09:45,360
+business. Could be your content
+ 
+
+599
+00:09:45,360 --> 00:09:46,876
+business. Could be your content
+workflow, your funnel, your team,
+
+600
+00:09:46,876 --> 00:09:46,886
+workflow, your funnel, your team,
+ 
+
+601
+00:09:46,886 --> 00:09:48,630
+workflow, your funnel, your team,
+[music] and then run the algorithm
+
+602
+00:09:48,630 --> 00:09:48,640
+[music] and then run the algorithm
+ 
+
+603
+00:09:48,640 --> 00:09:49,990
+[music] and then run the algorithm
+through it. If you haven't downloaded
+
+604
+00:09:49,990 --> 00:09:50,000
+through it. If you haven't downloaded
+ 
+
+605
+00:09:50,000 --> 00:09:51,990
+through it. If you haven't downloaded
+the algorithm deletion exercise yet, go
+
+606
+00:09:51,990 --> 00:09:52,000
+the algorithm deletion exercise yet, go
+ 
+
+607
+00:09:52,000 --> 00:09:53,350
+the algorithm deletion exercise yet, go
+and [music] do that. I've literally
+
+608
+00:09:53,350 --> 00:09:53,360
+and [music] do that. I've literally
+ 
+
+609
+00:09:53,360 --> 00:09:55,430
+and [music] do that. I've literally
+synthesized a checklist and exercise
+
+610
+00:09:55,430 --> 00:09:55,440
+synthesized a checklist and exercise
+ 
+
+611
+00:09:55,440 --> 00:09:58,070
+synthesized a checklist and exercise
+that you can take to go and run Elon's
+
+612
+00:09:58,070 --> 00:09:58,080
+that you can take to go and run Elon's
+ 
+
+613
+00:09:58,080 --> 00:09:59,990
+that you can take to go and run Elon's
+algorithm through core aspects of your
+
+614
+00:09:59,990 --> 00:10:00,000
+algorithm through core aspects of your
+ 
+
+615
+00:10:00,000 --> 00:10:01,910
+algorithm through core aspects of your
+company and implement [music] this today
+
+616
+00:10:01,910 --> 00:10:01,920
+company and implement [music] this today
+ 
+
+617
+00:10:01,920 --> 00:10:04,150
+company and implement [music] this today
+to radically simplify your business and
+
+618
+00:10:04,150 --> 00:10:04,160
+to radically simplify your business and
+ 
+
+619
+00:10:04,160 --> 00:10:05,829
+to radically simplify your business and
+your life. Now, let's talk about who
+
+620
+00:10:05,829 --> 00:10:05,839
+your life. Now, let's talk about who
+ 
+
+621
+00:10:05,839 --> 00:10:07,910
+your life. Now, let's talk about who
+Elon lets inside his company because
+
+622
+00:10:07,910 --> 00:10:07,920
+Elon lets inside his company because
+ 
+
+623
+00:10:07,920 --> 00:10:09,190
+Elon lets inside his company because
+this is where things get a little bit
+
+624
+00:10:09,190 --> 00:10:09,200
+this is where things get a little bit
+ 
+
+625
+00:10:09,200 --> 00:10:10,870
+this is where things get a little bit
+controversial. If you can't name the
+
+626
+00:10:10,870 --> 00:10:10,880
+controversial. If you can't name the
+ 
+
+627
+00:10:10,880 --> 00:10:12,710
+controversial. If you can't name the
+human behind a feature behind something
+
+628
+00:10:12,710 --> 00:10:12,720
+human behind a feature behind something
+ 
+
+629
+00:10:12,720 --> 00:10:14,710
+human behind a feature behind something
+that's been added to your company, well,
+
+630
+00:10:14,710 --> 00:10:14,720
+that's been added to your company, well,
+ 
+
+631
+00:10:14,720 --> 00:10:16,630
+that's been added to your company, well,
+you've just added a bunch of [\h__\h]
+
+632
+00:10:16,630 --> 00:10:16,640
+you've just added a bunch of [\h__\h]
+ 
+
+633
+00:10:16,640 --> 00:10:18,150
+you've just added a bunch of [\h__\h]
+right? And you should delete that stuff
+
+634
+00:10:18,150 --> 00:10:18,160
+right? And you should delete that stuff
+ 
+
+635
+00:10:18,160 --> 00:10:20,550
+right? And you should delete that stuff
+fast. The action item for you is to make
+
+636
+00:10:20,550 --> 00:10:20,560
+fast. The action item for you is to make
+ 
+
+637
+00:10:20,560 --> 00:10:21,910
+fast. The action item for you is to make
+sure that people are actually putting
+
+638
+00:10:21,910 --> 00:10:21,920
+sure that people are actually putting
+ 
+
+639
+00:10:21,920 --> 00:10:23,430
+sure that people are actually putting
+their name behind things. They're
+
+640
+00:10:23,430 --> 00:10:23,440
+their name behind things. They're
+ 
+
+641
+00:10:23,440 --> 00:10:25,509
+their name behind things. They're
+willing to die on the mountain of the
+
+642
+00:10:25,509 --> 00:10:25,519
+willing to die on the mountain of the
+ 
+
+643
+00:10:25,519 --> 00:10:26,870
+willing to die on the mountain of the
+thing that they're telling you that you
+
+644
+00:10:26,870 --> 00:10:26,880
+thing that they're telling you that you
+ 
+
+645
+00:10:26,880 --> 00:10:28,389
+thing that they're telling you that you
+should go and do. You know, the last
+
+646
+00:10:28,389 --> 00:10:28,399
+should go and do. You know, the last
+ 
+
+647
+00:10:28,399 --> 00:10:30,389
+should go and do. You know, the last
+thing you want is a bunch of passive
+
+648
+00:10:30,389 --> 00:10:30,399
+thing you want is a bunch of passive
+ 
+
+649
+00:10:30,399 --> 00:10:33,110
+thing you want is a bunch of passive
+people, a bunch of idea guys going and
+
+650
+00:10:33,110 --> 00:10:33,120
+people, a bunch of idea guys going and
+ 
+
+651
+00:10:33,120 --> 00:10:35,110
+people, a bunch of idea guys going and
+just adding more [\h__\h] to your company
+
+652
+00:10:35,110 --> 00:10:35,120
+just adding more [\h__\h] to your company
+ 
+
+653
+00:10:35,120 --> 00:10:36,710
+just adding more [\h__\h] to your company
+and before you know it, you're sitting
+
+654
+00:10:36,710 --> 00:10:36,720
+and before you know it, you're sitting
+ 
+
+655
+00:10:36,720 --> 00:10:39,030
+and before you know it, you're sitting
+on just a mountain of complexity. And
+
+656
+00:10:39,030 --> 00:10:39,040
+on just a mountain of complexity. And
+ 
+
+657
+00:10:39,040 --> 00:10:40,949
+on just a mountain of complexity. And
+the key thing is to question things and
+
+658
+00:10:40,949 --> 00:10:40,959
+the key thing is to question things and
+ 
+
+659
+00:10:40,959 --> 00:10:43,590
+the key thing is to question things and
+make people take extreme ownership over
+
+660
+00:10:43,590 --> 00:10:43,600
+make people take extreme ownership over
+ 
+
+661
+00:10:43,600 --> 00:10:45,190
+make people take extreme ownership over
+the things that they're telling you they
+
+662
+00:10:45,190 --> 00:10:45,200
+the things that they're telling you they
+ 
+
+663
+00:10:45,200 --> 00:10:47,110
+the things that they're telling you they
+want to add to your business. Mechanism
+
+664
+00:10:47,110 --> 00:10:47,120
+want to add to your business. Mechanism
+ 
+
+665
+00:10:47,120 --> 00:10:49,750
+want to add to your business. Mechanism
+three, build unreasonable teams. Elon
+
+666
+00:10:49,750 --> 00:10:49,760
+three, build unreasonable teams. Elon
+ 
+
+667
+00:10:49,760 --> 00:10:51,590
+three, build unreasonable teams. Elon
+doesn't just hire for culture fit. He
+
+668
+00:10:51,590 --> 00:10:51,600
+doesn't just hire for culture fit. He
+ 
+
+669
+00:10:51,600 --> 00:10:53,670
+doesn't just hire for culture fit. He
+hires for aligned maniacs that are
+
+670
+00:10:53,670 --> 00:10:53,680
+hires for aligned maniacs that are
+ 
+
+671
+00:10:53,680 --> 00:10:55,670
+hires for aligned maniacs that are
+obsessed around getting to the mission.
+
+672
+00:10:55,670 --> 00:10:55,680
+obsessed around getting to the mission.
+ 
+
+673
+00:10:55,680 --> 00:10:57,590
+obsessed around getting to the mission.
+And this serves as the filter by which
+
+674
+00:10:57,590 --> 00:10:57,600
+And this serves as the filter by which
+ 
+
+675
+00:10:57,600 --> 00:10:59,509
+And this serves as the filter by which
+he hires every single person on his
+
+676
+00:10:59,509 --> 00:10:59,519
+he hires every single person on his
+ 
+
+677
+00:10:59,519 --> 00:11:01,910
+he hires every single person on his
+team. November 2022, Elon just bought
+
+678
+00:11:01,910 --> 00:11:01,920
+team. November 2022, Elon just bought
+ 
+
+679
+00:11:01,920 --> 00:11:03,910
+team. November 2022, Elon just bought
+Twitter. He sends an email to the entire
+
+680
+00:11:03,910 --> 00:11:03,920
+Twitter. He sends an email to the entire
+ 
+
+681
+00:11:03,920 --> 00:11:05,030
+Twitter. He sends an email to the entire
+team. And it's one of the most
+
+682
+00:11:05,030 --> 00:11:05,040
+team. And it's one of the most
+ 
+
+683
+00:11:05,040 --> 00:11:06,949
+team. And it's one of the most
+controversial moves I've ever seen. So,
+
+684
+00:11:06,949 --> 00:11:06,959
+controversial moves I've ever seen. So,
+ 
+
+685
+00:11:06,959 --> 00:11:08,470
+controversial moves I've ever seen. So,
+he sends out an email to the entire
+
+686
+00:11:08,470 --> 00:11:08,480
+he sends out an email to the entire
+ 
+
+687
+00:11:08,480 --> 00:11:10,230
+he sends out an email to the entire
+company called Fork in the Road.
+
+688
+00:11:10,230 --> 00:11:10,240
+company called Fork in the Road.
+ 
+
+689
+00:11:10,240 --> 00:11:12,150
+company called Fork in the Road.
+basically saying that on a go forward
+
+690
+00:11:12,150 --> 00:11:12,160
+basically saying that on a go forward
+ 
+
+691
+00:11:12,160 --> 00:11:14,310
+basically saying that on a go forward
+basis they were going to operate in a
+
+692
+00:11:14,310 --> 00:11:14,320
+basis they were going to operate in a
+ 
+
+693
+00:11:14,320 --> 00:11:16,150
+basis they were going to operate in a
+hardcore mode that the company would
+
+694
+00:11:16,150 --> 00:11:16,160
+hardcore mode that the company would
+ 
+
+695
+00:11:16,160 --> 00:11:18,150
+hardcore mode that the company would
+have to be completely transformed
+
+696
+00:11:18,150 --> 00:11:18,160
+have to be completely transformed
+ 
+
+697
+00:11:18,160 --> 00:11:20,310
+have to be completely transformed
+because the old way of doing things
+
+698
+00:11:20,310 --> 00:11:20,320
+because the old way of doing things
+ 
+
+699
+00:11:20,320 --> 00:11:21,750
+because the old way of doing things
+basically wasn't going to cut it
+
+700
+00:11:21,750 --> 00:11:21,760
+basically wasn't going to cut it
+ 
+
+701
+00:11:21,760 --> 00:11:23,750
+basically wasn't going to cut it
+anymore. He [music] gave them a link in
+
+702
+00:11:23,750 --> 00:11:23,760
+anymore. He [music] gave them a link in
+ 
+
+703
+00:11:23,760 --> 00:11:25,350
+anymore. He [music] gave them a link in
+that email to click it and then
+
+704
+00:11:25,350 --> 00:11:25,360
+that email to click it and then
+ 
+
+705
+00:11:25,360 --> 00:11:27,910
+that email to click it and then
+subscribe to this new form of culture or
+
+706
+00:11:27,910 --> 00:11:27,920
+subscribe to this new form of culture or
+ 
+
+707
+00:11:27,920 --> 00:11:30,069
+subscribe to this new form of culture or
+just opt in to receiving a severance.
+
+708
+00:11:30,069 --> 00:11:30,079
+just opt in to receiving a severance.
+ 
+
+709
+00:11:30,079 --> 00:11:31,990
+just opt in to receiving a severance.
+This is just an example of the kind of
+
+710
+00:11:31,990 --> 00:11:32,000
+This is just an example of the kind of
+ 
+
+711
+00:11:32,000 --> 00:11:34,150
+This is just an example of the kind of
+culture that Elon Musk is focused on
+
+712
+00:11:34,150 --> 00:11:34,160
+culture that Elon Musk is focused on
+ 
+
+713
+00:11:34,160 --> 00:11:35,670
+culture that Elon Musk is focused on
+creating. And by no means am I saying
+
+714
+00:11:35,670 --> 00:11:35,680
+creating. And by no means am I saying
+ 
+
+715
+00:11:35,680 --> 00:11:37,269
+creating. And by no means am I saying
+that you need to have some ultra
+
+716
+00:11:37,269 --> 00:11:37,279
+that you need to have some ultra
+ 
+
+717
+00:11:37,279 --> 00:11:39,590
+that you need to have some ultra
+hardcore company culture. Each culture
+
+718
+00:11:39,590 --> 00:11:39,600
+hardcore company culture. Each culture
+ 
+
+719
+00:11:39,600 --> 00:11:41,350
+hardcore company culture. Each culture
+is different just like the personalities
+
+720
+00:11:41,350 --> 00:11:41,360
+is different just like the personalities
+ 
+
+721
+00:11:41,360 --> 00:11:43,190
+is different just like the personalities
+of humans. But the real thing that's
+
+722
+00:11:43,190 --> 00:11:43,200
+of humans. But the real thing that's
+ 
+
+723
+00:11:43,200 --> 00:11:45,750
+of humans. But the real thing that's
+important is that you have a culture
+
+724
+00:11:45,750 --> 00:11:45,760
+important is that you have a culture
+ 
+
+725
+00:11:45,760 --> 00:11:47,670
+important is that you have a culture
+that is aligned, right? And that you
+
+726
+00:11:47,670 --> 00:11:47,680
+that is aligned, right? And that you
+ 
+
+727
+00:11:47,680 --> 00:11:49,670
+that is aligned, right? And that you
+don't have detractors. The core thing
+
+728
+00:11:49,670 --> 00:11:49,680
+don't have detractors. The core thing
+ 
+
+729
+00:11:49,680 --> 00:11:51,590
+don't have detractors. The core thing
+that Elon's obsessed with is that he
+
+730
+00:11:51,590 --> 00:11:51,600
+that Elon's obsessed with is that he
+ 
+
+731
+00:11:51,600 --> 00:11:53,509
+that Elon's obsessed with is that he
+wants these maniacs. He wants these
+
+732
+00:11:53,509 --> 00:11:53,519
+wants these maniacs. He wants these
+ 
+
+733
+00:11:53,519 --> 00:11:55,670
+wants these maniacs. He wants these
+people that want to be hardcore. Now,
+
+734
+00:11:55,670 --> 00:11:55,680
+people that want to be hardcore. Now,
+ 
+
+735
+00:11:55,680 --> 00:11:56,790
+people that want to be hardcore. Now,
+I'm not saying you should copy that
+
+736
+00:11:56,790 --> 00:11:56,800
+I'm not saying you should copy that
+ 
+
+737
+00:11:56,800 --> 00:11:58,470
+I'm not saying you should copy that
+email, but there's a deeper principle
+
+738
+00:11:58,470 --> 00:11:58,480
+email, but there's a deeper principle
+ 
+
+739
+00:11:58,480 --> 00:12:00,870
+email, but there's a deeper principle
+going on here around align maniacs. You
+
+740
+00:12:00,870 --> 00:12:00,880
+going on here around align maniacs. You
+ 
+
+741
+00:12:00,880 --> 00:12:02,710
+going on here around align maniacs. You
+either get people to subscribe to your
+
+742
+00:12:02,710 --> 00:12:02,720
+either get people to subscribe to your
+ 
+
+743
+00:12:02,720 --> 00:12:04,470
+either get people to subscribe to your
+culture or you remove [music] them.
+
+744
+00:12:04,470 --> 00:12:04,480
+culture or you remove [music] them.
+ 
+
+745
+00:12:04,480 --> 00:12:06,230
+culture or you remove [music] them.
+Because the reality is building a
+
+746
+00:12:06,230 --> 00:12:06,240
+Because the reality is building a
+ 
+
+747
+00:12:06,240 --> 00:12:08,870
+Because the reality is building a
+company is [\h__\h] hard. And building a
+
+748
+00:12:08,870 --> 00:12:08,880
+company is [\h__\h] hard. And building a
+ 
+
+749
+00:12:08,880 --> 00:12:10,230
+company is [\h__\h] hard. And building a
+company with a bunch of people with
+
+750
+00:12:10,230 --> 00:12:10,240
+company with a bunch of people with
+ 
+
+751
+00:12:10,240 --> 00:12:12,150
+company with a bunch of people with
+their own agendas is [music] even
+
+752
+00:12:12,150 --> 00:12:12,160
+their own agendas is [music] even
+ 
+
+753
+00:12:12,160 --> 00:12:14,629
+their own agendas is [music] even
+harder. If you're building a company, be
+
+754
+00:12:14,629 --> 00:12:14,639
+harder. If you're building a company, be
+ 
+
+755
+00:12:14,639 --> 00:12:16,710
+harder. If you're building a company, be
+clear on what are your values. You know,
+
+756
+00:12:16,710 --> 00:12:16,720
+clear on what are your values. You know,
+ 
+
+757
+00:12:16,720 --> 00:12:18,150
+clear on what are your values. You know,
+what are those uniting principles that
+
+758
+00:12:18,150 --> 00:12:18,160
+what are those uniting principles that
+ 
+
+759
+00:12:18,160 --> 00:12:19,509
+what are those uniting principles that
+determine the kind of people that you
+
+760
+00:12:19,509 --> 00:12:19,519
+determine the kind of people that you
+ 
+
+761
+00:12:19,519 --> 00:12:21,269
+determine the kind of people that you
+want on the ship and the people that
+
+762
+00:12:21,269 --> 00:12:21,279
+want on the ship and the people that
+ 
+
+763
+00:12:21,279 --> 00:12:23,030
+want on the ship and the people that
+you're going to say no to? And make sure
+
+764
+00:12:23,030 --> 00:12:23,040
+you're going to say no to? And make sure
+ 
+
+765
+00:12:23,040 --> 00:12:25,190
+you're going to say no to? And make sure
+that every single person on your team
+
+766
+00:12:25,190 --> 00:12:25,200
+that every single person on your team
+ 
+
+767
+00:12:25,200 --> 00:12:27,430
+that every single person on your team
+embodies that. [music] Be intentional
+
+768
+00:12:27,430 --> 00:12:27,440
+embodies that. [music] Be intentional
+ 
+
+769
+00:12:27,440 --> 00:12:29,590
+embodies that. [music] Be intentional
+about that culture setting and make sure
+
+770
+00:12:29,590 --> 00:12:29,600
+about that culture setting and make sure
+ 
+
+771
+00:12:29,600 --> 00:12:31,910
+about that culture setting and make sure
+everyone is on board. To be clear, this
+
+772
+00:12:31,910 --> 00:12:31,920
+everyone is on board. To be clear, this
+ 
+
+773
+00:12:31,920 --> 00:12:33,910
+everyone is on board. To be clear, this
+isn't about abuse, although many people
+
+774
+00:12:33,910 --> 00:12:33,920
+isn't about abuse, although many people
+ 
+
+775
+00:12:33,920 --> 00:12:35,670
+isn't about abuse, although many people
+would say otherwise. What he's really
+
+776
+00:12:35,670 --> 00:12:35,680
+would say otherwise. What he's really
+ 
+
+777
+00:12:35,680 --> 00:12:37,190
+would say otherwise. What he's really
+looking for here is people that are
+
+778
+00:12:37,190 --> 00:12:37,200
+looking for here is people that are
+ 
+
+779
+00:12:37,200 --> 00:12:38,470
+looking for here is people that are
+missionobsessed, [music]
+
+780
+00:12:38,470 --> 00:12:38,480
+missionobsessed, [music]
+ 
+
+781
+00:12:38,480 --> 00:12:39,910
+missionobsessed, [music]
+you know, and I can understand it,
+
+782
+00:12:39,910 --> 00:12:39,920
+you know, and I can understand it,
+ 
+
+783
+00:12:39,920 --> 00:12:42,069
+you know, and I can understand it,
+right? The guy is trying to send people
+
+784
+00:12:42,069 --> 00:12:42,079
+right? The guy is trying to send people
+ 
+
+785
+00:12:42,079 --> 00:12:45,430
+right? The guy is trying to send people
+to Mars. [music] And this level of, you
+
+786
+00:12:45,430 --> 00:12:45,440
+to Mars. [music] And this level of, you
+ 
+
+787
+00:12:45,440 --> 00:12:47,269
+to Mars. [music] And this level of, you
+know, a mission, this level of
+
+788
+00:12:47,269 --> 00:12:47,279
+know, a mission, this level of
+ 
+
+789
+00:12:47,279 --> 00:12:48,870
+know, a mission, this level of
+complexity in terms of what they're
+
+790
+00:12:48,870 --> 00:12:48,880
+complexity in terms of what they're
+ 
+
+791
+00:12:48,880 --> 00:12:50,389
+complexity in terms of what they're
+trying to do requires [music]
+
+792
+00:12:50,389 --> 00:12:50,399
+trying to do requires [music]
+ 
+
+793
+00:12:50,399 --> 00:12:52,629
+trying to do requires [music]
+a different kind of human and a
+
+794
+00:12:52,629 --> 00:12:52,639
+a different kind of human and a
+ 
+
+795
+00:12:52,639 --> 00:12:54,389
+a different kind of human and a
+different kind of culture. What he needs
+
+796
+00:12:54,389 --> 00:12:54,399
+different kind of culture. What he needs
+ 
+
+797
+00:12:54,399 --> 00:12:55,990
+different kind of culture. What he needs
+is people that [music] are obsessed with
+
+798
+00:12:55,990 --> 00:12:56,000
+is people that [music] are obsessed with
+ 
+
+799
+00:12:56,000 --> 00:12:57,750
+is people that [music] are obsessed with
+getting there because anything less than
+
+800
+00:12:57,750 --> 00:12:57,760
+getting there because anything less than
+ 
+
+801
+00:12:57,760 --> 00:12:59,509
+getting there because anything less than
+that ain't going to cut it. And here's
+
+802
+00:12:59,509 --> 00:12:59,519
+that ain't going to cut it. And here's
+ 
+
+803
+00:12:59,519 --> 00:13:00,870
+that ain't going to cut it. And here's
+the uncomfortable truth that most
+
+804
+00:13:00,870 --> 00:13:00,880
+the uncomfortable truth that most
+ 
+
+805
+00:13:00,880 --> 00:13:02,550
+the uncomfortable truth that most
+founders don't want to hear. Great
+
+806
+00:13:02,550 --> 00:13:02,560
+founders don't want to hear. Great
+ 
+
+807
+00:13:02,560 --> 00:13:04,550
+founders don't want to hear. Great
+companies are built by unreasonable
+
+808
+00:13:04,550 --> 00:13:04,560
+companies are built by unreasonable
+ 
+
+809
+00:13:04,560 --> 00:13:06,629
+companies are built by unreasonable
+people doing unreasonable things.
+
+810
+00:13:06,629 --> 00:13:06,639
+people doing unreasonable things.
+ 
+
+811
+00:13:06,639 --> 00:13:07,990
+people doing unreasonable things.
+Reasonable people optimize for
+
+812
+00:13:07,990 --> 00:13:08,000
+Reasonable people optimize for
+ 
+
+813
+00:13:08,000 --> 00:13:10,310
+Reasonable people optimize for
+consensus. Unreasonable people optimize
+
+814
+00:13:10,310 --> 00:13:10,320
+consensus. Unreasonable people optimize
+ 
+
+815
+00:13:10,320 --> 00:13:12,069
+consensus. Unreasonable people optimize
+for [music] breakthroughs. And you can't
+
+816
+00:13:12,069 --> 00:13:12,079
+for [music] breakthroughs. And you can't
+ 
+
+817
+00:13:12,079 --> 00:13:14,069
+for [music] breakthroughs. And you can't
+have both. Steve Jobs was unreasonable
+
+818
+00:13:14,069 --> 00:13:14,079
+have both. Steve Jobs was unreasonable
+ 
+
+819
+00:13:14,079 --> 00:13:16,310
+have both. Steve Jobs was unreasonable
+with his design details. Elon Musk is
+
+820
+00:13:16,310 --> 00:13:16,320
+with his design details. Elon Musk is
+ 
+
+821
+00:13:16,320 --> 00:13:19,110
+with his design details. Elon Musk is
+unreasonable in his deletion of things.
+
+822
+00:13:19,110 --> 00:13:19,120
+unreasonable in his deletion of things.
+ 
+
+823
+00:13:19,120 --> 00:13:21,910
+unreasonable in his deletion of things.
+Bezos was unreasonable with the level at
+
+824
+00:13:21,910 --> 00:13:21,920
+Bezos was unreasonable with the level at
+ 
+
+825
+00:13:21,920 --> 00:13:23,509
+Bezos was unreasonable with the level at
+which he was [music] obsessed around
+
+826
+00:13:23,509 --> 00:13:23,519
+which he was [music] obsessed around
+ 
+
+827
+00:13:23,519 --> 00:13:26,790
+which he was [music] obsessed around
+customers. Success leaves clues. Easy
+
+828
+00:13:26,790 --> 00:13:26,800
+customers. Success leaves clues. Easy
+ 
+
+829
+00:13:26,800 --> 00:13:28,310
+customers. Success leaves clues. Easy
+with a lot of these guys to be a [music]
+
+830
+00:13:28,310 --> 00:13:28,320
+with a lot of these guys to be a [music]
+ 
+
+831
+00:13:28,320 --> 00:13:29,990
+with a lot of these guys to be a [music]
+spectator, right? to look at what
+
+832
+00:13:29,990 --> 00:13:30,000
+spectator, right? to look at what
+ 
+
+833
+00:13:30,000 --> 00:13:31,190
+spectator, right? to look at what
+they're doing and think, you know,
+
+834
+00:13:31,190 --> 00:13:31,200
+they're doing and think, you know,
+ 
+
+835
+00:13:31,200 --> 00:13:33,590
+they're doing and think, you know,
+that's abuse or that's crazy or I would
+
+836
+00:13:33,590 --> 00:13:33,600
+that's abuse or that's crazy or I would
+ 
+
+837
+00:13:33,600 --> 00:13:35,430
+that's abuse or that's crazy or I would
+never do that. And that's probably the
+
+838
+00:13:35,430 --> 00:13:35,440
+never do that. And that's probably the
+ 
+
+839
+00:13:35,440 --> 00:13:37,439
+never do that. And that's probably the
+truth. You would never do that, right?
+
+840
+00:13:37,439 --> 00:13:37,449
+truth. You would never do that, right?
+ 
+
+841
+00:13:37,449 --> 00:13:39,190
+truth. You would never do that, right?
+[music] Which is why you're at where
+
+842
+00:13:39,190 --> 00:13:39,200
+[music] Which is why you're at where
+ 
+
+843
+00:13:39,200 --> 00:13:40,870
+[music] Which is why you're at where
+you're at and these guys are at where
+
+844
+00:13:40,870 --> 00:13:40,880
+you're at and these guys are at where
+ 
+
+845
+00:13:40,880 --> 00:13:43,269
+you're at and these guys are at where
+they're at because they defy all odds.
+
+846
+00:13:43,269 --> 00:13:43,279
+they're at because they defy all odds.
+ 
+
+847
+00:13:43,279 --> 00:13:45,110
+they're at because they defy all odds.
+Mechanism number four, iterate at the
+
+848
+00:13:45,110 --> 00:13:45,120
+Mechanism number four, iterate at the
+ 
+
+849
+00:13:45,120 --> 00:13:47,190
+Mechanism number four, iterate at the
+speed of thought. SpaceX treats every
+
+850
+00:13:47,190 --> 00:13:47,200
+speed of thought. SpaceX treats every
+ 
+
+851
+00:13:47,200 --> 00:13:49,190
+speed of thought. SpaceX treats every
+single launch like a data pipeline. They
+
+852
+00:13:49,190 --> 00:13:49,200
+single launch like a data pipeline. They
+ 
+
+853
+00:13:49,200 --> 00:13:50,949
+single launch like a data pipeline. They
+optimize for learning velocity, not
+
+854
+00:13:50,949 --> 00:13:50,959
+optimize for learning velocity, not
+ 
+
+855
+00:13:50,959 --> 00:13:52,470
+optimize for learning velocity, not
+perfection. So, they're able to get more
+
+856
+00:13:52,470 --> 00:13:52,480
+perfection. So, they're able to get more
+ 
+
+857
+00:13:52,480 --> 00:13:54,389
+perfection. So, they're able to get more
+done in six months than others get done
+
+858
+00:13:54,389 --> 00:13:54,399
+done in six months than others get done
+ 
+
+859
+00:13:54,399 --> 00:13:56,150
+done in six months than others get done
+in five years. [music] You know, a big
+
+860
+00:13:56,150 --> 00:13:56,160
+in five years. [music] You know, a big
+ 
+
+861
+00:13:56,160 --> 00:13:58,150
+in five years. [music] You know, a big
+difference when Elon was building SpaceX
+
+862
+00:13:58,150 --> 00:13:58,160
+difference when Elon was building SpaceX
+ 
+
+863
+00:13:58,160 --> 00:14:00,470
+difference when Elon was building SpaceX
+versus NASA was this idea that at
+
+864
+00:14:00,470 --> 00:14:00,480
+versus NASA was this idea that at
+ 
+
+865
+00:14:00,480 --> 00:14:03,269
+versus NASA was this idea that at
+SpaceX, they allowed rockets [music] to
+
+866
+00:14:03,269 --> 00:14:03,279
+SpaceX, they allowed rockets [music] to
+ 
+
+867
+00:14:03,279 --> 00:14:04,710
+SpaceX, they allowed rockets [music] to
+fail. You know, up until this point,
+
+868
+00:14:04,710 --> 00:14:04,720
+fail. You know, up until this point,
+ 
+
+869
+00:14:04,720 --> 00:14:06,790
+fail. You know, up until this point,
+NASA had constantly said that we do not
+
+870
+00:14:06,790 --> 00:14:06,800
+NASA had constantly said that we do not
+ 
+
+871
+00:14:06,800 --> 00:14:08,550
+NASA had constantly said that we do not
+allow rockets to blow up. You know,
+
+872
+00:14:08,550 --> 00:14:08,560
+allow rockets to blow up. You know,
+ 
+
+873
+00:14:08,560 --> 00:14:10,389
+allow rockets to blow up. You know,
+after the 80s when the Challenger blew
+
+874
+00:14:10,389 --> 00:14:10,399
+after the 80s when the Challenger blew
+ 
+
+875
+00:14:10,399 --> 00:14:11,509
+after the 80s when the Challenger blew
+up and there was, you know, I [music]
+
+876
+00:14:11,509 --> 00:14:11,519
+up and there was, you know, I [music]
+ 
+
+877
+00:14:11,519 --> 00:14:13,350
+up and there was, you know, I [music]
+think six astronauts all killed on
+
+878
+00:14:13,350 --> 00:14:13,360
+think six astronauts all killed on
+ 
+
+879
+00:14:13,360 --> 00:14:15,590
+think six astronauts all killed on
+board, they were super aggressive with
+
+880
+00:14:15,590 --> 00:14:15,600
+board, they were super aggressive with
+ 
+
+881
+00:14:15,600 --> 00:14:17,670
+board, they were super aggressive with
+just no [music] rockets blowing up. But
+
+882
+00:14:17,670 --> 00:14:17,680
+just no [music] rockets blowing up. But
+ 
+
+883
+00:14:17,680 --> 00:14:19,590
+just no [music] rockets blowing up. But
+with Elon, his whole principle was we
+
+884
+00:14:19,590 --> 00:14:19,600
+with Elon, his whole principle was we
+ 
+
+885
+00:14:19,600 --> 00:14:21,430
+with Elon, his whole principle was we
+want to learn fast, right? if that means
+
+886
+00:14:21,430 --> 00:14:21,440
+want to learn fast, right? if that means
+ 
+
+887
+00:14:21,440 --> 00:14:22,790
+want to learn fast, right? if that means
+along the way we blow up some [music]
+
+888
+00:14:22,790 --> 00:14:22,800
+along the way we blow up some [music]
+ 
+
+889
+00:14:22,800 --> 00:14:24,389
+along the way we blow up some [music]
+rockets. That's just part of the price
+
+890
+00:14:24,389 --> 00:14:24,399
+rockets. That's just part of the price
+ 
+
+891
+00:14:24,399 --> 00:14:27,030
+rockets. That's just part of the price
+to make humans a multilanetary species.
+
+892
+00:14:27,030 --> 00:14:27,040
+to make humans a multilanetary species.
+ 
+
+893
+00:14:27,040 --> 00:14:28,550
+to make humans a multilanetary species.
+And from changing this single [music]
+
+894
+00:14:28,550 --> 00:14:28,560
+And from changing this single [music]
+ 
+
+895
+00:14:28,560 --> 00:14:31,110
+And from changing this single [music]
+rule, it allowed the overall culture to
+
+896
+00:14:31,110 --> 00:14:31,120
+rule, it allowed the overall culture to
+ 
+
+897
+00:14:31,120 --> 00:14:33,350
+rule, it allowed the overall culture to
+iterate a ton faster because they didn't
+
+898
+00:14:33,350 --> 00:14:33,360
+iterate a ton faster because they didn't
+ 
+
+899
+00:14:33,360 --> 00:14:34,710
+iterate a ton faster because they didn't
+have to worry that, hey, if a rocket
+
+900
+00:14:34,710 --> 00:14:34,720
+have to worry that, hey, if a rocket
+ 
+
+901
+00:14:34,720 --> 00:14:36,389
+have to worry that, hey, if a rocket
+blows up, everything's [music] over.
+
+902
+00:14:36,389 --> 00:14:36,399
+blows up, everything's [music] over.
+ 
+
+903
+00:14:36,399 --> 00:14:38,069
+blows up, everything's [music] over.
+Instead, it's that's just kind of the
+
+904
+00:14:38,069 --> 00:14:38,079
+Instead, it's that's just kind of the
+ 
+
+905
+00:14:38,079 --> 00:14:39,990
+Instead, it's that's just kind of the
+cost of this insane mission that we have
+
+906
+00:14:39,990 --> 00:14:40,000
+cost of this insane mission that we have
+ 
+
+907
+00:14:40,000 --> 00:14:42,870
+cost of this insane mission that we have
+ahead of us. April 20th, 2023, the
+
+908
+00:14:42,870 --> 00:14:42,880
+ahead of us. April 20th, 2023, the
+ 
+
+909
+00:14:42,880 --> 00:14:45,030
+ahead of us. April 20th, 2023, the
+biggest rocket launch in human history.
+
+910
+00:14:45,030 --> 00:14:45,040
+biggest rocket launch in human history.
+ 
+
+911
+00:14:45,040 --> 00:14:47,509
+biggest rocket launch in human history.
+Starship is 400 ft tall. [music] It's
+
+912
+00:14:47,509 --> 00:14:47,519
+Starship is 400 ft tall. [music] It's
+ 
+
+913
+00:14:47,519 --> 00:14:50,069
+Starship is 400 ft tall. [music] It's
+launch day. 3 minutes into going and
+
+914
+00:14:50,069 --> 00:14:50,079
+launch day. 3 minutes into going and
+ 
+
+915
+00:14:50,079 --> 00:14:53,350
+launch day. 3 minutes into going and
+launching this rocket, it blows up. A
+
+916
+00:14:53,350 --> 00:14:53,360
+launching this rocket, it blows up. A
+ 
+
+917
+00:14:53,360 --> 00:14:54,710
+launching this rocket, it blows up. A
+massive fireball. [music]
+
+918
+00:14:54,710 --> 00:14:54,720
+massive fireball. [music]
+ 
+
+919
+00:14:54,720 --> 00:14:56,790
+massive fireball. [music]
+And that's not it. The media is
+
+920
+00:14:56,790 --> 00:14:56,800
+And that's not it. The media is
+ 
+
+921
+00:14:56,800 --> 00:14:59,030
+And that's not it. The media is
+instantly reporting this as a disaster,
+
+922
+00:14:59,030 --> 00:14:59,040
+instantly reporting this as a disaster,
+ 
+
+923
+00:14:59,040 --> 00:15:01,509
+instantly reporting this as a disaster,
+a massive failure. But what does Elon
+
+924
+00:15:01,509 --> 00:15:01,519
+a massive failure. But what does Elon
+ 
+
+925
+00:15:01,519 --> 00:15:03,829
+a massive failure. But what does Elon
+do? 3 minutes [music] later, he goes and
+
+926
+00:15:03,829 --> 00:15:03,839
+do? 3 minutes [music] later, he goes and
+ 
+
+927
+00:15:03,839 --> 00:15:06,389
+do? 3 minutes [music] later, he goes and
+tweets out, "Congrats SpaceX team on a
+
+928
+00:15:06,389 --> 00:15:06,399
+tweets out, "Congrats SpaceX team on a
+ 
+
+929
+00:15:06,399 --> 00:15:07,990
+tweets out, "Congrats SpaceX team on a
+successful test [music] launch. We'll
+
+930
+00:15:07,990 --> 00:15:08,000
+successful test [music] launch. We'll
+ 
+
+931
+00:15:08,000 --> 00:15:09,670
+successful test [music] launch. We'll
+learn from this and we'll go and launch
+
+932
+00:15:09,670 --> 00:15:09,680
+learn from this and we'll go and launch
+ 
+
+933
+00:15:09,680 --> 00:15:11,750
+learn from this and we'll go and launch
+in the next 3 months." Now, this is just
+
+934
+00:15:11,750 --> 00:15:11,760
+in the next 3 months." Now, this is just
+ 
+
+935
+00:15:11,760 --> 00:15:13,990
+in the next 3 months." Now, this is just
+the mindset of Elon at work, [music]
+
+936
+00:15:13,990 --> 00:15:14,000
+the mindset of Elon at work, [music]
+ 
+
+937
+00:15:14,000 --> 00:15:16,629
+the mindset of Elon at work, [music]
+right? Iterate at the speed of thought.
+
+938
+00:15:16,629 --> 00:15:16,639
+right? Iterate at the speed of thought.
+ 
+
+939
+00:15:16,639 --> 00:15:18,389
+right? Iterate at the speed of thought.
+You blew up a rocket. Good. You're going
+
+940
+00:15:18,389 --> 00:15:18,399
+You blew up a rocket. Good. You're going
+ 
+
+941
+00:15:18,399 --> 00:15:19,829
+You blew up a rocket. Good. You're going
+to learn from where the mistake [music]
+
+942
+00:15:19,829 --> 00:15:19,839
+to learn from where the mistake [music]
+ 
+
+943
+00:15:19,839 --> 00:15:21,269
+to learn from where the mistake [music]
+was. You're going to iterate and you're
+
+944
+00:15:21,269 --> 00:15:21,279
+was. You're going to iterate and you're
+ 
+
+945
+00:15:21,279 --> 00:15:22,870
+was. You're going to iterate and you're
+going to improve for next time. Most
+
+946
+00:15:22,870 --> 00:15:22,880
+going to improve for next time. Most
+ 
+
+947
+00:15:22,880 --> 00:15:24,150
+going to improve for next time. Most
+companies would have shut down for 2
+
+948
+00:15:24,150 --> 00:15:24,160
+companies would have shut down for 2
+ 
+
+949
+00:15:24,160 --> 00:15:26,150
+companies would have shut down for 2
+years to investigate. Elon went and
+
+950
+00:15:26,150 --> 00:15:26,160
+years to investigate. Elon went and
+ 
+
+951
+00:15:26,160 --> 00:15:28,790
+years to investigate. Elon went and
+launched his next rocket 7 months later.
+
+952
+00:15:28,790 --> 00:15:28,800
+launched his next rocket 7 months later.
+ 
+
+953
+00:15:28,800 --> 00:15:30,710
+launched his next rocket 7 months later.
+[music] This is the power of going and
+
+954
+00:15:30,710 --> 00:15:30,720
+[music] This is the power of going and
+ 
+
+955
+00:15:30,720 --> 00:15:32,710
+[music] This is the power of going and
+iterating fast. Iteration beats
+
+956
+00:15:32,710 --> 00:15:32,720
+iterating fast. Iteration beats
+ 
+
+957
+00:15:32,720 --> 00:15:35,189
+iterating fast. Iteration beats
+perfectionism every single [music] time.
+
+958
+00:15:35,189 --> 00:15:35,199
+perfectionism every single [music] time.
+ 
+
+959
+00:15:35,199 --> 00:15:37,350
+perfectionism every single [music] time.
+NASA's approach is to spend 5 years
+
+960
+00:15:37,350 --> 00:15:37,360
+NASA's approach is to spend 5 years
+ 
+
+961
+00:15:37,360 --> 00:15:40,470
+NASA's approach is to spend 5 years
+planning and over 20 billion of cost for
+
+962
+00:15:40,470 --> 00:15:40,480
+planning and over 20 billion of cost for
+ 
+
+963
+00:15:40,480 --> 00:15:42,230
+planning and over 20 billion of cost for
+about [music] 10 iterative cycles.
+
+964
+00:15:42,230 --> 00:15:42,240
+about [music] 10 iterative cycles.
+ 
+
+965
+00:15:42,240 --> 00:15:44,790
+about [music] 10 iterative cycles.
+Elon's approach is spend $3 million with
+
+966
+00:15:44,790 --> 00:15:44,800
+Elon's approach is spend $3 million with
+ 
+
+967
+00:15:44,800 --> 00:15:47,590
+Elon's approach is spend $3 million with
+SpaceX, go and compress time into just a
+
+968
+00:15:47,590 --> 00:15:47,600
+SpaceX, go and compress time into just a
+ 
+
+969
+00:15:47,600 --> 00:15:49,590
+SpaceX, go and compress time into just a
+couple years, and spend a fraction of
+
+970
+00:15:49,590 --> 00:15:49,600
+couple years, and spend a fraction of
+ 
+
+971
+00:15:49,600 --> 00:15:51,590
+couple years, and spend a fraction of
+the price, [music] only $3 billion. Who
+
+972
+00:15:51,590 --> 00:15:51,600
+the price, [music] only $3 billion. Who
+ 
+
+973
+00:15:51,600 --> 00:15:54,389
+the price, [music] only $3 billion. Who
+wins? Well, SpaceX. And the core thing
+
+974
+00:15:54,389 --> 00:15:54,399
+wins? Well, SpaceX. And the core thing
+ 
+
+975
+00:15:54,399 --> 00:15:56,069
+wins? Well, SpaceX. And the core thing
+here is that they're not [music] afraid
+
+976
+00:15:56,069 --> 00:15:56,079
+here is that they're not [music] afraid
+ 
+
+977
+00:15:56,079 --> 00:15:59,110
+here is that they're not [music] afraid
+to fail because every failure is a data
+
+978
+00:15:59,110 --> 00:15:59,120
+to fail because every failure is a data
+ 
+
+979
+00:15:59,120 --> 00:16:00,886
+to fail because every failure is a data
+point. Every data point is intelligence.
+
+980
+00:16:00,886 --> 00:16:00,896
+point. Every data point is intelligence.
+ 
+
+981
+00:16:00,896 --> 00:16:01,509
+point. Every data point is intelligence.
+[music]
+
+982
+00:16:01,509 --> 00:16:01,519
+[music]
+ 
+
+983
+00:16:01,519 --> 00:16:03,590
+[music]
+And every piece of intelligence goes and
+
+984
+00:16:03,590 --> 00:16:03,600
+And every piece of intelligence goes and
+ 
+
+985
+00:16:03,600 --> 00:16:06,470
+And every piece of intelligence goes and
+is driven back into iteration, which
+
+986
+00:16:06,470 --> 00:16:06,480
+is driven back into iteration, which
+ 
+
+987
+00:16:06,480 --> 00:16:07,910
+is driven back into iteration, which
+allows you to go and iterate on the
+
+988
+00:16:07,910 --> 00:16:07,920
+allows you to go and iterate on the
+ 
+
+989
+00:16:07,920 --> 00:16:10,150
+allows you to go and iterate on the
+product 10 times faster than competitors
+
+990
+00:16:10,150 --> 00:16:10,160
+product 10 times faster than competitors
+ 
+
+991
+00:16:10,160 --> 00:16:11,749
+product 10 times faster than competitors
+like Nassau. When you optimize for
+
+992
+00:16:11,749 --> 00:16:11,759
+like Nassau. When you optimize for
+ 
+
+993
+00:16:11,759 --> 00:16:13,269
+like Nassau. When you optimize for
+perfection, you're optimizing for
+
+994
+00:16:13,269 --> 00:16:13,279
+perfection, you're optimizing for
+ 
+
+995
+00:16:13,279 --> 00:16:14,550
+perfection, you're optimizing for
+comfort. When you optimize for
+
+996
+00:16:14,550 --> 00:16:14,560
+comfort. When you optimize for
+ 
+
+997
+00:16:14,560 --> 00:16:16,550
+comfort. When you optimize for
+iteration, you're optimizing for truth.
+
+998
+00:16:16,550 --> 00:16:16,560
+iteration, you're optimizing for truth.
+ 
+
+999
+00:16:16,560 --> 00:16:18,230
+iteration, you're optimizing for truth.
+So, the lesson here is to shift [music]
+
+1000
+00:16:18,230 --> 00:16:18,240
+So, the lesson here is to shift [music]
+ 
+
+1001
+00:16:18,240 --> 00:16:20,389
+So, the lesson here is to shift [music]
+messy, right? Get things out there,
+
+1002
+00:16:20,389 --> 00:16:20,399
+messy, right? Get things out there,
+ 
+
+1003
+00:16:20,399 --> 00:16:22,470
+messy, right? Get things out there,
+learn fast, and iterate. My thinking was
+
+1004
+00:16:22,470 --> 00:16:22,480
+learn fast, and iterate. My thinking was
+ 
+
+1005
+00:16:22,480 --> 00:16:24,629
+learn fast, and iterate. My thinking was
+always, I'm just shipping a product to
+
+1006
+00:16:24,629 --> 00:16:24,639
+always, I'm just shipping a product to
+ 
+
+1007
+00:16:24,639 --> 00:16:26,431
+always, I'm just shipping a product to
+learn the product that I'm supposed to
+
+1008
+00:16:26,431 --> 00:16:26,441
+learn the product that I'm supposed to
+ 
+
+1009
+00:16:26,441 --> 00:16:28,069
+learn the product that I'm supposed to
+[music] build. It's from this level of
+
+1010
+00:16:28,069 --> 00:16:28,079
+[music] build. It's from this level of
+ 
+
+1011
+00:16:28,079 --> 00:16:30,310
+[music] build. It's from this level of
+just learning, iterating, and not being
+
+1012
+00:16:30,310 --> 00:16:30,320
+just learning, iterating, and not being
+ 
+
+1013
+00:16:30,320 --> 00:16:32,389
+just learning, iterating, and not being
+scared to fail that I've been able to go
+
+1014
+00:16:32,389 --> 00:16:32,399
+scared to fail that I've been able to go
+ 
+
+1015
+00:16:32,399 --> 00:16:34,470
+scared to fail that I've been able to go
+and outpace the competitors in my space
+
+1016
+00:16:34,470 --> 00:16:34,480
+and outpace the competitors in my space
+ 
+
+1017
+00:16:34,480 --> 00:16:35,829
+and outpace the competitors in my space
+because I'm [music] just focused on
+
+1018
+00:16:35,829 --> 00:16:35,839
+because I'm [music] just focused on
+ 
+
+1019
+00:16:35,839 --> 00:16:38,069
+because I'm [music] just focused on
+learning. Mechanism five, engineer for
+
+1020
+00:16:38,069 --> 00:16:38,079
+learning. Mechanism five, engineer for
+ 
+
+1021
+00:16:38,079 --> 00:16:40,150
+learning. Mechanism five, engineer for
+scale beyond yourself. Elon doesn't run
+
+1022
+00:16:40,150 --> 00:16:40,160
+scale beyond yourself. Elon doesn't run
+ 
+
+1023
+00:16:40,160 --> 00:16:42,470
+scale beyond yourself. Elon doesn't run
+six companies. He designs operating
+
+1024
+00:16:42,470 --> 00:16:42,480
+six companies. He designs operating
+ 
+
+1025
+00:16:42,480 --> 00:16:44,310
+six companies. He designs operating
+systems with amazing people in it. And
+
+1026
+00:16:44,310 --> 00:16:44,320
+systems with amazing people in it. And
+ 
+
+1027
+00:16:44,320 --> 00:16:46,710
+systems with amazing people in it. And
+he's playing long-term games with the
+
+1028
+00:16:46,710 --> 00:16:46,720
+he's playing long-term games with the
+ 
+
+1029
+00:16:46,720 --> 00:16:48,629
+he's playing long-term games with the
+lieutenants structured inside of these
+
+1030
+00:16:48,629 --> 00:16:48,639
+lieutenants structured inside of these
+ 
+
+1031
+00:16:48,639 --> 00:16:50,230
+lieutenants structured inside of these
+businesses. People love to point out how
+
+1032
+00:16:50,230 --> 00:16:50,240
+businesses. People love to point out how
+ 
+
+1033
+00:16:50,240 --> 00:16:52,310
+businesses. People love to point out how
+Elon runs six companies all at once.
+
+1034
+00:16:52,310 --> 00:16:52,320
+Elon runs six companies all at once.
+ 
+
+1035
+00:16:52,320 --> 00:16:54,790
+Elon runs six companies all at once.
+It's Tesla, SpaceX, the Boring Company,
+
+1036
+00:16:54,790 --> 00:16:54,800
+It's Tesla, SpaceX, the Boring Company,
+ 
+
+1037
+00:16:54,800 --> 00:16:56,790
+It's Tesla, SpaceX, the Boring Company,
+Neurolink, but the truth is in each of
+
+1038
+00:16:56,790 --> 00:16:56,800
+Neurolink, but the truth is in each of
+ 
+
+1039
+00:16:56,800 --> 00:16:59,430
+Neurolink, but the truth is in each of
+these companies, he has lieutenants,
+
+1040
+00:16:59,430 --> 00:16:59,440
+these companies, he has lieutenants,
+ 
+
+1041
+00:16:59,440 --> 00:17:01,590
+these companies, he has lieutenants,
+right? The kind of people that he wants
+
+1042
+00:17:01,590 --> 00:17:01,600
+right? The kind of people that he wants
+ 
+
+1043
+00:17:01,600 --> 00:17:03,910
+right? The kind of people that he wants
+to play long-term games with, right? An
+
+1044
+00:17:03,910 --> 00:17:03,920
+to play long-term games with, right? An
+ 
+
+1045
+00:17:03,920 --> 00:17:06,470
+to play long-term games with, right? An
+example of this is inside of SpaceX. He
+
+1046
+00:17:06,470 --> 00:17:06,480
+example of this is inside of SpaceX. He
+ 
+
+1047
+00:17:06,480 --> 00:17:09,189
+example of this is inside of SpaceX. He
+has someone named Gwen Shotwell in place
+
+1048
+00:17:09,189 --> 00:17:09,199
+has someone named Gwen Shotwell in place
+ 
+
+1049
+00:17:09,199 --> 00:17:11,270
+has someone named Gwen Shotwell in place
+who he's [music] worked with since 2003.
+
+1050
+00:17:11,270 --> 00:17:11,280
+who he's [music] worked with since 2003.
+ 
+
+1051
+00:17:11,280 --> 00:17:13,990
+who he's [music] worked with since 2003.
+We're talking 23 years of history with
+
+1052
+00:17:13,990 --> 00:17:14,000
+We're talking 23 years of history with
+ 
+
+1053
+00:17:14,000 --> 00:17:15,350
+We're talking 23 years of history with
+someone. [music] She started off as an
+
+1054
+00:17:15,350 --> 00:17:15,360
+someone. [music] She started off as an
+ 
+
+1055
+00:17:15,360 --> 00:17:18,230
+someone. [music] She started off as an
+engineer is now COO of the company and
+
+1056
+00:17:18,230 --> 00:17:18,240
+engineer is now COO of the company and
+ 
+
+1057
+00:17:18,240 --> 00:17:19,990
+engineer is now COO of the company and
+is his lieutenant there that he can
+
+1058
+00:17:19,990 --> 00:17:20,000
+is his lieutenant there that he can
+ 
+
+1059
+00:17:20,000 --> 00:17:21,990
+is his lieutenant there that he can
+trust with all of the core decisions so
+
+1060
+00:17:21,990 --> 00:17:22,000
+trust with all of the core decisions so
+ 
+
+1061
+00:17:22,000 --> 00:17:23,829
+trust with all of the core decisions so
+he can focus on the stuff he loves to do
+
+1062
+00:17:23,829 --> 00:17:23,839
+he can focus on the stuff he loves to do
+ 
+
+1063
+00:17:23,839 --> 00:17:25,750
+he can focus on the stuff he loves to do
+more of the engineering and design side
+
+1064
+00:17:25,750 --> 00:17:25,760
+more of the engineering and design side
+ 
+
+1065
+00:17:25,760 --> 00:17:28,230
+more of the engineering and design side
+of it. Now you can imagine [music] right
+
+1066
+00:17:28,230 --> 00:17:28,240
+of it. Now you can imagine [music] right
+ 
+
+1067
+00:17:28,240 --> 00:17:31,430
+of it. Now you can imagine [music] right
+23 years of history with someone right
+
+1068
+00:17:31,430 --> 00:17:31,440
+23 years of history with someone right
+ 
+
+1069
+00:17:31,440 --> 00:17:33,110
+23 years of history with someone right
+these days you know people are lucky
+
+1070
+00:17:33,110 --> 00:17:33,120
+these days you know people are lucky
+ 
+
+1071
+00:17:33,120 --> 00:17:34,390
+these days you know people are lucky
+that if you're working with them for 8
+
+1072
+00:17:34,390 --> 00:17:34,400
+that if you're working with them for 8
+ 
+
+1073
+00:17:34,400 --> 00:17:36,710
+that if you're working with them for 8
+months right people are so transitory
+
+1074
+00:17:36,710 --> 00:17:36,720
+months right people are so transitory
+ 
+
+1075
+00:17:36,720 --> 00:17:38,070
+months right people are so transitory
+and they're hiring someone that they
+
+1076
+00:17:38,070 --> 00:17:38,080
+and they're hiring someone that they
+ 
+
+1077
+00:17:38,080 --> 00:17:39,430
+and they're hiring someone that they
+think can last 6 months and then they're
+
+1078
+00:17:39,430 --> 00:17:39,440
+think can last 6 months and then they're
+ 
+
+1079
+00:17:39,440 --> 00:17:40,950
+think can last 6 months and then they're
+gone and you see that there's these
+
+1080
+00:17:40,950 --> 00:17:40,960
+gone and you see that there's these
+ 
+
+1081
+00:17:40,960 --> 00:17:43,110
+gone and you see that there's these
+revolving doors of talent [music] in so
+
+1082
+00:17:43,110 --> 00:17:43,120
+revolving doors of talent [music] in so
+ 
+
+1083
+00:17:43,120 --> 00:17:45,830
+revolving doors of talent [music] in so
+many companies but imagine you know
+
+1084
+00:17:45,830 --> 00:17:45,840
+many companies but imagine you know
+ 
+
+1085
+00:17:45,840 --> 00:17:47,590
+many companies but imagine you know
+working with people and the average
+
+1086
+00:17:47,590 --> 00:17:47,600
+working with people and the average
+ 
+
+1087
+00:17:47,600 --> 00:17:50,470
+working with people and the average
+duration being like 10 15 years imagine
+
+1088
+00:17:50,470 --> 00:17:50,480
+duration being like 10 15 years imagine
+ 
+
+1089
+00:17:50,480 --> 00:17:52,070
+duration being like 10 15 years imagine
+the chemistry that goes on on a team
+
+1090
+00:17:52,070 --> 00:17:52,080
+the chemistry that goes on on a team
+ 
+
+1091
+00:17:52,080 --> 00:17:53,830
+the chemistry that goes on on a team
+like that imagine the level of just
+
+1092
+00:17:53,830 --> 00:17:53,840
+like that imagine the level of just
+ 
+
+1093
+00:17:53,840 --> 00:17:56,310
+like that imagine the level of just
+almost a mindmeld across a team and
+
+1094
+00:17:56,310 --> 00:17:56,320
+almost a mindmeld across a team and
+ 
+
+1095
+00:17:56,320 --> 00:17:57,909
+almost a mindmeld across a team and
+make, you know, decisions [music] almost
+
+1096
+00:17:57,909 --> 00:17:57,919
+make, you know, decisions [music] almost
+ 
+
+1097
+00:17:57,919 --> 00:17:59,830
+make, you know, decisions [music] almost
+instantaneously with the whole
+
+1098
+00:17:59,830 --> 00:17:59,840
+instantaneously with the whole
+ 
+
+1099
+00:17:59,840 --> 00:18:01,990
+instantaneously with the whole
+enterprise and team in mind. There's an
+
+1100
+00:18:01,990 --> 00:18:02,000
+enterprise and team in mind. There's an
+ 
+
+1101
+00:18:02,000 --> 00:18:03,510
+enterprise and team in mind. There's an
+illusion that Elon's just running all of
+
+1102
+00:18:03,510 --> 00:18:03,520
+illusion that Elon's just running all of
+ 
+
+1103
+00:18:03,520 --> 00:18:04,950
+illusion that Elon's just running all of
+this. Now, [music] yes, he's super
+
+1104
+00:18:04,950 --> 00:18:04,960
+this. Now, [music] yes, he's super
+ 
+
+1105
+00:18:04,960 --> 00:18:06,549
+this. Now, [music] yes, he's super
+involved, but here's the pattern you
+
+1106
+00:18:06,549 --> 00:18:06,559
+involved, but here's the pattern you
+ 
+
+1107
+00:18:06,559 --> 00:18:08,230
+involved, but here's the pattern you
+need to understand. Great founders don't
+
+1108
+00:18:08,230 --> 00:18:08,240
+need to understand. Great founders don't
+ 
+
+1109
+00:18:08,240 --> 00:18:10,070
+need to understand. Great founders don't
+centralize power. They distribute
+
+1110
+00:18:10,070 --> 00:18:10,080
+centralize power. They distribute
+ 
+
+1111
+00:18:10,080 --> 00:18:11,669
+centralize power. They distribute
+effectively to other weapons on their
+
+1112
+00:18:11,669 --> 00:18:11,679
+effectively to other weapons on their
+ 
+
+1113
+00:18:11,679 --> 00:18:13,270
+effectively to other weapons on their
+team. So, how does Elon actually
+
+1114
+00:18:13,270 --> 00:18:13,280
+team. So, how does Elon actually
+ 
+
+1115
+00:18:13,280 --> 00:18:14,950
+team. So, how does Elon actually
+allocate his time across these six
+
+1116
+00:18:14,950 --> 00:18:14,960
+allocate his time across these six
+ 
+
+1117
+00:18:14,960 --> 00:18:16,710
+allocate his time across these six
+companies? He uses a strategy called
+
+1118
+00:18:16,710 --> 00:18:16,720
+companies? He uses a strategy called
+ 
+
+1119
+00:18:16,720 --> 00:18:18,870
+companies? He uses a strategy called
+5minute time blocking. So, this sounds
+
+1120
+00:18:18,870 --> 00:18:18,880
+5minute time blocking. So, this sounds
+ 
+
+1121
+00:18:18,880 --> 00:18:20,789
+5minute time blocking. So, this sounds
+insane, right? But Elon schedules his
+
+1122
+00:18:20,789 --> 00:18:20,799
+insane, right? But Elon schedules his
+ 
+
+1123
+00:18:20,799 --> 00:18:23,110
+insane, right? But Elon schedules his
+entire days in 5minute blocks. Monday,
+
+1124
+00:18:23,110 --> 00:18:23,120
+entire days in 5minute blocks. Monday,
+ 
+
+1125
+00:18:23,120 --> 00:18:25,110
+entire days in 5minute blocks. Monday,
+Tuesday is for SpaceX for things like
+
+1126
+00:18:25,110 --> 00:18:25,120
+Tuesday is for SpaceX for things like
+ 
+
+1127
+00:18:25,120 --> 00:18:27,110
+Tuesday is for SpaceX for things like
+rocket reviews. Wednesday, Thursday is
+
+1128
+00:18:27,110 --> 00:18:27,120
+rocket reviews. Wednesday, Thursday is
+ 
+
+1129
+00:18:27,120 --> 00:18:28,950
+rocket reviews. Wednesday, Thursday is
+for Tesla, their production and design
+
+1130
+00:18:28,950 --> 00:18:28,960
+for Tesla, their production and design
+ 
+
+1131
+00:18:28,960 --> 00:18:30,710
+for Tesla, their production and design
+reviews. [music] And then Friday is for
+
+1132
+00:18:30,710 --> 00:18:30,720
+reviews. [music] And then Friday is for
+ 
+
+1133
+00:18:30,720 --> 00:18:33,029
+reviews. [music] And then Friday is for
+all the rest of his companies. He is
+
+1134
+00:18:33,029 --> 00:18:33,039
+all the rest of his companies. He is
+ 
+
+1135
+00:18:33,039 --> 00:18:35,110
+all the rest of his companies. He is
+ruthless with his calendar. And it's
+
+1136
+00:18:35,110 --> 00:18:35,120
+ruthless with his calendar. And it's
+ 
+
+1137
+00:18:35,120 --> 00:18:37,430
+ruthless with his calendar. And it's
+from this ruthless approach to how he's
+
+1138
+00:18:37,430 --> 00:18:37,440
+from this ruthless approach to how he's
+ 
+
+1139
+00:18:37,440 --> 00:18:39,270
+from this ruthless approach to how he's
+allocating his time that he's able to
+
+1140
+00:18:39,270 --> 00:18:39,280
+allocating his time that he's able to
+ 
+
+1141
+00:18:39,280 --> 00:18:41,510
+allocating his time that he's able to
+squeeze [music] so much out of just one
+
+1142
+00:18:41,510 --> 00:18:41,520
+squeeze [music] so much out of just one
+ 
+
+1143
+00:18:41,520 --> 00:18:43,669
+squeeze [music] so much out of just one
+hour, likely getting more done in 1 hour
+
+1144
+00:18:43,669 --> 00:18:43,679
+hour, likely getting more done in 1 hour
+ 
+
+1145
+00:18:43,679 --> 00:18:45,029
+hour, likely getting more done in 1 hour
+than most people get done in [music] one
+
+1146
+00:18:45,029 --> 00:18:45,039
+than most people get done in [music] one
+ 
+
+1147
+00:18:45,039 --> 00:18:46,549
+than most people get done in [music] one
+week. Now, I'm not saying you need to go
+
+1148
+00:18:46,549 --> 00:18:46,559
+week. Now, I'm not saying you need to go
+ 
+
+1149
+00:18:46,559 --> 00:18:48,390
+week. Now, I'm not saying you need to go
+and allocate your day in 5 minute time
+
+1150
+00:18:48,390 --> 00:18:48,400
+and allocate your day in 5 minute time
+ 
+
+1151
+00:18:48,400 --> 00:18:50,310
+and allocate your day in 5 minute time
+blocks. What [music] I am saying is you
+
+1152
+00:18:50,310 --> 00:18:50,320
+blocks. What [music] I am saying is you
+ 
+
+1153
+00:18:50,320 --> 00:18:51,990
+blocks. What [music] I am saying is you
+need to know what only you can do and
+
+1154
+00:18:51,990 --> 00:18:52,000
+need to know what only you can do and
+ 
+
+1155
+00:18:52,000 --> 00:18:54,150
+need to know what only you can do and
+then delegate everything else. So here's
+
+1156
+00:18:54,150 --> 00:18:54,160
+then delegate everything else. So here's
+ 
+
+1157
+00:18:54,160 --> 00:18:56,390
+then delegate everything else. So here's
+what happens next. Step one is to go and
+
+1158
+00:18:56,390 --> 00:18:56,400
+what happens next. Step one is to go and
+ 
+
+1159
+00:18:56,400 --> 00:18:57,830
+what happens next. Step one is to go and
+download the algorithm [music] deletion
+
+1160
+00:18:57,830 --> 00:18:57,840
+download the algorithm [music] deletion
+ 
+
+1161
+00:18:57,840 --> 00:18:59,669
+download the algorithm [music] deletion
+exercise in the link in the description.
+
+1162
+00:18:59,669 --> 00:18:59,679
+exercise in the link in the description.
+ 
+
+1163
+00:18:59,679 --> 00:19:00,950
+exercise in the link in the description.
+From there you're going to go and
+
+1164
+00:19:00,950 --> 00:19:00,960
+From there you're going to go and
+ 
+
+1165
+00:19:00,960 --> 00:19:02,390
+From there you're going to go and
+analyze your company, see the [music]
+
+1166
+00:19:02,390 --> 00:19:02,400
+analyze your company, see the [music]
+ 
+
+1167
+00:19:02,400 --> 00:19:04,710
+analyze your company, see the [music]
+parts you need to delete, automate, and
+
+1168
+00:19:04,710 --> 00:19:04,720
+parts you need to delete, automate, and
+ 
+
+1169
+00:19:04,720 --> 00:19:06,950
+parts you need to delete, automate, and
+simplify. And then go to step two, which
+
+1170
+00:19:06,950 --> 00:19:06,960
+simplify. And then go to step two, which
+ 
+
+1171
+00:19:06,960 --> 00:19:09,110
+simplify. And then go to step two, which
+is to hop on a call with my team. We'd
+
+1172
+00:19:09,110 --> 00:19:09,120
+is to hop on a call with my team. We'd
+ 
+
+1173
+00:19:09,120 --> 00:19:10,310
+is to hop on a call with my team. We'd
+love to learn the system that's [music]
+
+1174
+00:19:10,310 --> 00:19:10,320
+love to learn the system that's [music]
+ 
+
+1175
+00:19:10,320 --> 00:19:12,150
+love to learn the system that's [music]
+currently keeping you stuck and help you
+
+1176
+00:19:12,150 --> 00:19:12,160
+currently keeping you stuck and help you
+ 
+
+1177
+00:19:12,160 --> 00:19:13,990
+currently keeping you stuck and help you
+go and scale to the next level. Here's
+
+1178
+00:19:13,990 --> 00:19:14,000
+go and scale to the next level. Here's
+ 
+
+1179
+00:19:14,000 --> 00:19:15,669
+go and scale to the next level. Here's
+the hard truth. If your business needs
+
+1180
+00:19:15,669 --> 00:19:15,679
+the hard truth. If your business needs
+ 
+
+1181
+00:19:15,679 --> 00:19:17,029
+the hard truth. If your business needs
+you to operate, you don't have a
+
+1182
+00:19:17,029 --> 00:19:17,039
+you to operate, you don't have a
+ 
+
+1183
+00:19:17,039 --> 00:19:18,950
+you to operate, you don't have a
+business. You have a job. And at some
+
+1184
+00:19:18,950 --> 00:19:18,960
+business. You have a job. And at some
+ 
+
+1185
+00:19:18,960 --> 00:19:20,070
+business. You have a job. And at some
+point, you need to decide, are you
+
+1186
+00:19:20,070 --> 00:19:20,080
+point, you need to decide, are you
+ 
+
+1187
+00:19:20,080 --> 00:19:21,590
+point, you need to decide, are you
+building a company or are you building a
+
+1188
+00:19:21,590 --> 00:19:21,600
+building a company or are you building a
+ 
+
+1189
+00:19:21,600 --> 00:19:23,270
+building a company or are you building a
+prison? And look, if you're sitting here
+
+1190
+00:19:23,270 --> 00:19:23,280
+prison? And look, if you're sitting here
+ 
+
+1191
+00:19:23,280 --> 00:19:24,789
+prison? And look, if you're sitting here
+thinking, you know, Matt, I get it. I
+
+1192
+00:19:24,789 --> 00:19:24,799
+thinking, you know, Matt, I get it. I
+ 
+
+1193
+00:19:24,799 --> 00:19:26,710
+thinking, you know, Matt, I get it. I
+need systems. I need help, but I don't
+
+1194
+00:19:26,710 --> 00:19:26,720
+need systems. I need help, but I don't
+ 
+
+1195
+00:19:26,720 --> 00:19:28,470
+need systems. I need help, but I don't
+know where to start. Well, this is
+
+1196
+00:19:28,470 --> 00:19:28,480
+know where to start. Well, this is
+ 
+
+1197
+00:19:28,480 --> 00:19:31,029
+know where to start. Well, this is
+exactly why I built Founder OS. We help
+
+1198
+00:19:31,029 --> 00:19:31,039
+exactly why I built Founder OS. We help
+ 
+
+1199
+00:19:31,039 --> 00:19:33,029
+exactly why I built Founder OS. We help
+founders that are established doing 30k
+
+1200
+00:19:33,029 --> 00:19:33,039
+founders that are established doing 30k
+ 
+
+1201
+00:19:33,039 --> 00:19:35,190
+founders that are established doing 30k
+to 500k a month go and install the right
+
+1202
+00:19:35,190 --> 00:19:35,200
+to 500k a month go and install the right
+ 
+
+1203
+00:19:35,200 --> 00:19:36,950
+to 500k a month go and install the right
+infrastructure in their company go and
+
+1204
+00:19:36,950 --> 00:19:36,960
+infrastructure in their company go and
+ 
+
+1205
+00:19:36,960 --> 00:19:38,150
+infrastructure in their company go and
+make sure they have the right operating
+
+1206
+00:19:38,150 --> 00:19:38,160
+make sure they have the right operating
+ 
+
+1207
+00:19:38,160 --> 00:19:39,590
+make sure they have the right operating
+system amongst their team [music] and
+
+1208
+00:19:39,590 --> 00:19:39,600
+system amongst their team [music] and
+ 
+
+1209
+00:19:39,600 --> 00:19:41,669
+system amongst their team [music] and
+help them source amazing talent so that
+
+1210
+00:19:41,669 --> 00:19:41,679
+help them source amazing talent so that
+ 
+
+1211
+00:19:41,679 --> 00:19:43,270
+help them source amazing talent so that
+over time they can remove themselves
+
+1212
+00:19:43,270 --> 00:19:43,280
+over time they can remove themselves
+ 
+
+1213
+00:19:43,280 --> 00:19:45,430
+over time they can remove themselves
+from more of the operations work on the
+
+1214
+00:19:45,430 --> 00:19:45,440
+from more of the operations work on the
+ 
+
+1215
+00:19:45,440 --> 00:19:47,110
+from more of the operations work on the
+business not in it and have a business
+
+1216
+00:19:47,110 --> 00:19:47,120
+business not in it and have a business
+ 
+
+1217
+00:19:47,120 --> 00:19:49,110
+business not in it and have a business
+that runs itself. If this is interesting
+
+1218
+00:19:49,110 --> 00:19:49,120
+that runs itself. If this is interesting
+ 
+
+1219
+00:19:49,120 --> 00:19:51,350
+that runs itself. If this is interesting
+to you want to work with me onetoone and
+
+1220
+00:19:51,350 --> 00:19:51,360
+to you want to work with me onetoone and
+ 
+
+1221
+00:19:51,360 --> 00:19:53,270
+to you want to work with me onetoone and
+directly with my seuite should go check
+
+1222
+00:19:53,270 --> 00:19:53,280
+directly with my seuite should go check
+ 
+
+1223
+00:19:53,280 --> 00:19:54,870
+directly with my seuite should go check
+out founder west [music] via link in the
+
+1224
+00:19:54,870 --> 00:19:54,880
+out founder west [music] via link in the
+ 
+
+1225
+00:19:54,880 --> 00:19:56,789
+out founder west [music] via link in the
+description. If you like this video, you
+
+1226
+00:19:56,789 --> 00:19:56,799
+description. If you like this video, you
+ 
+
+1227
+00:19:56,799 --> 00:19:58,870
+description. If you like this video, you
+would love this next video on what I
+
+1228
+00:19:58,870 --> 00:19:58,880
+would love this next video on what I
+ 
+
+1229
+00:19:58,880 --> 00:20:00,470
+would love this next video on what I
+learned from Steve Jobs. Go and check
+
+1230
+00:20:00,470 --> 00:20:00,480
+learned from Steve Jobs. Go and check
+ 
+
+1231
+00:20:00,480 --> 00:20:02,390
+learned from Steve Jobs. Go and check
+that out. Be sure to like and subscribe
+
+1232
+00:20:02,390 --> 00:20:02,400
+that out. Be sure to like and subscribe
+ 
+
+1233
+00:20:02,400 --> 00:20:05,520
+that out. Be sure to like and subscribe
+and let's win together.
+

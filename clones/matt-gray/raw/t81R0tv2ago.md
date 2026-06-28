@@ -1,0 +1,6 @@
+1|I built a successful media company that uses custom AI to go and comb through Reddit comments to discover what content I should create. This is actually insane. Reddit is a gold mine for customer insights. And just
+12|a side note, even if you're just starting a business, this thing will work for you as well. Here's how this works. It's going to go and target your dream clients inside of the different subreddits that they exist in.
+22|It's going to go and comb through every single post and not just the posts themselves, but all of the nested comments within those posts. Every single piece of content then passes through our AI, which we call the angle finder, which is going to
+33|go and find 13 different marketing angles to go and hit people with based on the different insights that we gather from these subreddits. And so you're getting this massive database of
+43|customer sentiment and how the trend line of your customers is changing so that you have the most up-to-date strategies every given month and are tapping into the core things people are talking about and inserting your
+54|brand into those conversations. If you want to learn how this architecture works under the hood, well, you guessed it.

@@ -1,0 +1,13 @@
+{"cmd": "intent", "text": "How should a solo founder start and grow an Instagram from zero using short video, to promote their own project?"}
+{"cmd": "map", "source": "s002", "vectors": 14}
+{"cmd": "map", "source": "s004", "vectors": 14}
+{"cmd": "map", "source": "s009", "vectors": 16}
+{"cmd": "map", "source": "s001", "vectors": 19}
+{"cmd": "map", "source": "s006", "vectors": 9}
+{"cmd": "select", "source": "s002", "vectors": ["growth-advice", "signal-hierarchy", "reach-and-shadowban-myths", "reels-and-video", "stories-and-feed", "instagram-identity"]}
+{"cmd": "select", "source": "s004", "vectors": ["growth-advice", "signal-hierarchy", "reels-and-video", "stories-and-feed", "small-vs-large-creators", "instagram-identity"]}
+{"cmd": "select", "source": "s009", "vectors": ["growth-advice", "format-distribution", "signal-hierarchy", "small-vs-large-creators", "reach-and-shadowban-myths"]}
+{"cmd": "select", "source": "s001", "vectors": ["growth-advice", "signal-hierarchy", "small-vs-large-creators", "instagram-identity"]}
+{"cmd": "select", "source": "s006", "vectors": ["growth-advice", "creator-economy"]}
+{"cmd": "compile", "eps": 73}
+{"cmd": "verify", "cited": 56, "bad": [], "accepted": true}

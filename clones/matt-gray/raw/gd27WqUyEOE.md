@@ -1,0 +1,15 @@
+1|Now, I'll be real with you, right? I think that every business as it grows, right? You end up scaling up, you end up kind of going through these stages of expansion, building out new product lines, right? And oftentimes you're going and adding new team members. And
+11|then before you know it, there's like a few stragglers. I know I'm speaking with like my COO Dawn and Diego on my team, and you know, you can kind of tell on the team the kind of people that are like one of us, right? The kind of
+22|people that care a lot, right? They go above and beyond, they have an all-in mentality. Um they obsess over quality, they really um want to pursue like elevated design and are product
+32|obsessed. And then, you know, every time, you know, you're maybe building a company of like 16, 17 people, oftentimes here and there like one or two folks come along, and you're like, "Oh man, not the best of hires, right?
+43|Not someone that's actually in the game." What I'm passionate about on that side is overall like having a lean team of like say 12 or so folks, and then
+53|having an autonomous engine that's built across the company, so that by default, right? We're automating roles versus hiring new people. More than ever, right? It's, you know, kind of viewing
+64|hiring as a failure and finding areas that you can just automate these aspects. Having an automated organic content funnel, having automated emails around your business, having automated
+74|follow-ups after sales calls, having automated ways of grading your sales team to make sure that folks are staying on track, and if they're not, being able to remove them and having automated hiring funnels to bring on new folks.
+85|You know, having automated ways of going and discovering the best kind of content that you should make. Having automated ways of tracking your financials, tracking the growth across the business,
+95|getting dashboards served up to you so that you can, you know, really go and double down on the patterns across, you know, finance, ops, content, marketing that are going to keep pushing you forward and doing less of the stuff
+105|that's not working. You know, versus trying to scramble in your business and really just kind of burn out. It's this kind of artist plus autonomous engine that I think's the winner. I have ambitious goals of, you know, building
+116|this founder infrastructure layer, being able to give that whole side of our business that is automated to founders and to help them grow their own autonomous engines because I think this
+126|is the future. This is what I most focus on helping founders with these days. Um I think that, you know, if this is something that's interesting to you, this is exactly what we help people with in Founderwise, giving you that founder
+137|infrastructure layer so that you can be an artist with a beautiful autonomous engine. And so if that's interesting to you, you want us to go and build your social media machine, your engine to go
+147|and drive your content through to leads, you should go and check out Founderwise via the link in the description. We'd love just to book a call, see if we can help you.

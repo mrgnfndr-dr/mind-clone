@@ -1,0 +1,60 @@
+1|I spent the last 20 years building companies and the last 18 months systematizing my body the same way that I've systematized my businesses. I work with founders doing $30,000 a month or more and the single most predictive
+11|variable I see in who skills past eight figures it's not their offer, their team, or their content. It's whether their body is operating at full capacity or whether it's quietly running them into the ground. In this
+21|video, I'm going to give you the whole thing in five parts. The abundance hour I run every morning, how I eat, the exact supplements I take, my sleep routine and how I track all of it without a single wearable.
+32|Let's get into it. There's a saying that health is wealth. Let me tell you, there's probably not a more true statement. You know, I've had some serious major concussions. Um when I was about 28, I remember being in a
+43|hotel room dealing with the stress of one of my businesses. I remember calling my dad. I was crying. I couldn't figure out what the hell was going on. It felt like my mind was like racing and realized, you know, I needed to get some
+54|help. I sure enough went to this clinic. I went into like an MRI machine, had my brain scanned, met with a doctor. It became obvious that the brain situation
+64|was a lot worse than I thought. >> Okay, you want to see your pictures? >> Yeah. >> When I kind of look at these now, we got a lot of bumps everywhere, my friend. Now, when I see this, either we've had a whole lot of head traumas. Your left
+75|temporal lobe's got lower blood flow there. So, mood swings, irritability, anxiety, okay? Some paranoia sometimes, too. >> Yeah. >> So, it was really this moment, right?
+85|This kind of yeah, realization that I couldn't keep going on like this that made me realize that I had to start taking my health super seriously. I figured I'd just open up the kimono,
+95|show you what I'm up to. Part one, the abundance hour. This right here is what I call my Sadie app, okay? Um around five years ago, um I had a health coach
+107|named Sadie and one of the first things we did together was actually an elimination diet and she put me on uh a diet where I basically cut out just everything for a bit and it was like,
+117|you know, chicken soup, uh you you know, a steak at night, and like water, you know, like it was the most basic diet, like no crazy What I started doing was having this kind of abundance hour
+127|in the morning. Uh for me, the staple of that is waking up and listening to an abundance meditation um that I actually recorded myself, right? Um I wrote this
+138|up. It's all this kind of journey of transformation, um one that kind of programs my subconscious mind for success, um and allows me to kind of live a life of abundance, love, and
+148|fulfillment. And so, I listen to this. It's about 35 minutes in the morning, you know, eyes closed after I've woken up, and just kind of like let my body
+158|just drift into a state of relaxation and calm, and just listen to this. Now, cool thing is, I've actually published this to YouTube. If you're interested in it, check it out over here. Um and I
+168|would go and give it a try if I were you, you know, 90 days, either every morning or every evening listening to this, I think will have a really transformative aspect, and will be a nice little thing for you to give a
+178|shot. That is part of my, you know, abundance hour, right? We're starting with an entrepreneur abundance meditation. So, after that, you know, I've done my entrepreneur abundance meditation, I like to drink a little bit of water, lemon, and salt, right? Chug
+189|that back, and then from there, I'm taking about 10 g of creatine, and then basically just like going for a bit of deep work. From there, you know, if I'm
+199|craving a little bit of movement, I every day will just hop on my scooter, go to a gym called Omni here, and go and put in about an hour workout. After that, get my smoothie, probably some
+209|rice and some chicken, and then typically have, you know, maybe a video I'll film, or maybe I'm just meeting up with a friend, or what have you. Dinner, I like to eat a bit light in the
+219|evening, you know, get a walk in before bed, uh maybe read a bit, and then settle down for the evening. This 80 app is just my own little private app that I use myself. It was built by me, and
+230|essentially what it does is just synthesize all of those core things, you know, in the morning no phone for the first hour, you know, quick little reading, my little entrepreneur abundance meditation, my water and salt,
+241|then going for my lift after a little bit of founder flow, after my lift right I'm doing a bit of a sauna and cold bath, not too long, just a nice little pick me up like nature's espresso. From
+251|there, steak and rice or chicken and rice and my supplements and I can just kind of go along and just check these off as I go. And by the way, if you're watching this and you're like this Sade app is pretty sick. How do I just get
+262|Matt's protocol? Well, you can actually go check it out over here. I'm just giving this away. Just want you guys to, you know, obviously build healthy founders cuz I believe that healthy founders build healthy businesses and so
+273|if that's interesting, go and check it out via the link in the description um and let me know how it goes, you know, be sure to, you know, maybe share some results, share your thinking along the way, let me know how it's going, maybe tag me on Instagram and I'll I'll share
+283|some love and we can support one another's health journeys, right? That's what this is all about. Part two, nutrition. On the nutrition side, I typically am fasting um in the morning
+294|all the way up till around 1:00 or 2:00 p.m. And again, try not to eat after 8:00 p.m. Whether it's your workouts um or whether it's like how I'm eating, I try to just keep it fun, keep it
+305|sustainable, keep it enjoyable. Part three, supplements. I've also got all my supplements, you know, I'm obviously traveling quite a bit and I can show you guys um a bit of my supplement stack if that's interesting. So, first off, you
+316|know, one thing I'm really big on, I have a bit of ADD um for sure and these are two supplements um that help me stay focused and lock in. Um I typically
+326|alternate them um every day so one day I'll have two of these, Alpha Brain. This is like Aubrey Marcus and Joe Rogan's uh brand and these are really good for focus and then the other day
+336|I'll have ginkgo biloba. Have that with a iced Americano in the morning and you are locked in and cooking and honestly it just makes working a lot of fun as well. Typically in the afternoon after
+347|like my first meal, um I'll have this adrenal cocktail. This is just good for like, you know, handling stress and making sure your adrenals are just super healthy. It was recommended to me by someone and, you know, seems to do the
+357|trick and and kind of keep me calm, keep me vibing. I take some B vitamins, just again based on my own blood work. This is some stuff that would kind of help me with some core vitals and So,
+367|we're uh we're taking those and then a bit of taurine. This is also just great for overall energy and so we rock that, too. >> Part four, sleep routine. >> Before bed, I talk to founders all the
+378|time and they struggle with sleep. I'm taking two of these magnesium before bed. I will take two of these glycine before bed. If I'm finding I'm a little worked up, which is generally not the
+388|case, but I may even go and take some ashwagandha as well. Um and then every other night I'm taking one of these zinc complexes. And typically hitting the sack around like eight 9:00 p.m. Um
+399|and asleep by 10:00 and then up at 6:00, right? So, we're getting like 8 hours of sleep every night, which is really important. I know for me, beyond all this BS, right? All these supplements
+411|and you know, this app or all this stuff, right? Really when it comes down to it, right? It's sleeping really good, moving your body and breaking a sweat daily, you know, modulating, kind of moderating your stress overall, and you
+422|know, not forgetting about things like community, your social life, family, a good friend circle. Yeah, just may kind of make these like this whole health kind of lifestyle a social lifestyle as
+433|well, right? So, you're kind of stacking things, right? Stacking good conversations, great friends, and you know, a little bit of recovery all at the same time. >> Part five, tracking. >> On the blood work side, every 4 months
+445|I'm getting my blood work done. You know, here in Bali I go to a place called Form. Um and, you know, it gives me all the core vitals of everything that I've got
+455|and some things maybe even that I got to work on, right? And so, the nice thing here is that you're able to keep a tight handle on your health and with all these like supplements or routines that I'm
+465|doing, it's kind of always just trying to make sure that everything's super optimal, right? So, just as an example, today, right, I went and was at Omni. I had my body composition report done,
+476|right? I'm able to look at things like, you know, my weight about 185 lbs, body fat around 11.3% and what I'll typically then go do with
+486|this report um is I will then go and upload this to that Sadie app where I'm able to then go and track my progress. So, here I can see how my weight has
+497|been, right, and keeping it at a nice steady spot. I can see my body fat has been like around like 11% um for the last while, right? And just kind of keep monitoring it, right? I
+508|think that for me, I don't like to weigh myself like every day or anything like that. The same way I don't really like to use fitness trackers, so you won't see me with like a Whoop or some Oura Ring, at least not yet. Um I was using
+519|them for a while and I just felt like this idea that waking up and having some device tell me if I'm happy, if I'm rested, just didn't fit my vibe. I was finding there was a lot of days I
+529|actually felt really good and then the device was telling me that I was not well rested and not, you know, prepared for the day. Um and that just kind of cognitively over time I felt screwed with me a little bit. So, I decided to
+541|ditch all that tech, keep it simple. About every Friday or every other Friday, I'll do like a bit of a a weigh-in, my little uh my Conor McGregor weigh-in and then and see where I'm at,
+552|track that progress and then move along and just kind of live my life. So, overall, I like to keep it, I think, like to the essential. Some of this may be slightly extra, but it works for me.
+563|Um and if you're watching this, um I hope is that you found a few of the things here helpful. Um you know, do what's right for you, keep it fun, keep it simple, and just remember, right, healthy founders build healthy
+573|businesses. And like I said, this is the operating system behind the operator, but if you want the operating system behind the company that will let you become a true founder athlete, that's where FounderOS comes in. Here's what
+583|happens when you join FounderOS. In the first week, you sit on a 60-minute call with my team, you walk away with your full brand foundation that we built for you, your positioning, your ICP, your
+593|founder narrative, you know, you're going to see it live on screen. And you really start to realize someone finally understands your business, okay? Your week starts to clear up, you know,
+603|you're able to start training again, you know, your mornings are getting quieter. On day 60, we make sure your VSL is live, your landing page is live, and you have applications coming in, right? From
+613|people that are loving your content. And now your content machine is fully installed. That is FounderOS. And if you want to go and take it a step further and dial in your mind before every day
+623|at work, well, go and check out this entrepreneur abundance meditation that I listen to every morning. Thanks so much for watching. Be sure to like and subscribe, and let's win together.

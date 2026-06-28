@@ -1,0 +1,5 @@
+1|before you do anything else go lock yourself in a room and read these seven marketing books it'll change your life the one thing by Gary Keller use the simple powerful Concept in this book to focus on what matters most in your personal and work life over subscribe by
+13|Daniel Priestley learn how to get people lining up to do business with you sales pitch by April Dunford craft a story to stand out and win $100 million leans by Alex Heros this book contains the
+23|playbooks that took heroi from sleeping on a gym floor to owning a portfolio of companies that generate $200 million a year in less than a decade Doom Secrets by Russell Brunson learn the underground
+34|playbook for growing your company online with sales funnels made to stick by chip and Dan Heat this book reveals the anatomy of ideas that stick and explains ways to make ideas stickier the one-page
+45|marketing plan by Alan dib get new customers make more money and stand out from the crowd dib reveals a marketing implementation breakthrough that makes creating a market plan simple and fast

@@ -1,0 +1,145 @@
+1
+00:00:00,000 --> 00:00:02,710
+ 
+you need to have a newsletter in place.
+
+2
+00:00:02,710 --> 00:00:02,720
+you need to have a newsletter in place.
+ 
+
+3
+00:00:02,720 --> 00:00:04,430
+you need to have a newsletter in place.
+Without a newsletter, you are way too
+
+4
+00:00:04,430 --> 00:00:04,440
+Without a newsletter, you are way too
+ 
+
+5
+00:00:04,440 --> 00:00:06,550
+Without a newsletter, you are way too
+reliant on the platform, and you are not
+
+6
+00:00:06,550 --> 00:00:06,560
+reliant on the platform, and you are not
+ 
+
+7
+00:00:06,560 --> 00:00:08,830
+reliant on the platform, and you are not
+Musk. You don't own X. And so, you need
+
+8
+00:00:08,830 --> 00:00:08,840
+Musk. You don't own X. And so, you need
+ 
+
+9
+00:00:08,840 --> 00:00:10,310
+Musk. You don't own X. And so, you need
+to actually make sure that you're owning
+
+10
+00:00:10,310 --> 00:00:10,320
+to actually make sure that you're owning
+ 
+
+11
+00:00:10,320 --> 00:00:12,150
+to actually make sure that you're owning
+all of this attention. I have a Webflow
+
+12
+00:00:12,150 --> 00:00:12,160
+all of this attention. I have a Webflow
+ 
+
+13
+00:00:12,160 --> 00:00:14,430
+all of this attention. I have a Webflow
+page set up with my entire newsletter on
+
+14
+00:00:14,430 --> 00:00:14,440
+page set up with my entire newsletter on
+ 
+
+15
+00:00:14,440 --> 00:00:16,390
+page set up with my entire newsletter on
+there. From there now, I'm developing a
+
+16
+00:00:16,390 --> 00:00:16,400
+there. From there now, I'm developing a
+ 
+
+17
+00:00:16,400 --> 00:00:18,430
+there. From there now, I'm developing a
+much richer one-to-one relationship with
+
+18
+00:00:18,430 --> 00:00:18,440
+much richer one-to-one relationship with
+ 
+
+19
+00:00:18,440 --> 00:00:19,750
+much richer one-to-one relationship with
+people. You know, when you share content
+
+20
+00:00:19,750 --> 00:00:19,760
+people. You know, when you share content
+ 
+
+21
+00:00:19,760 --> 00:00:22,470
+people. You know, when you share content
+on X, it's about 15% of the people that
+
+22
+00:00:22,470 --> 00:00:22,480
+on X, it's about 15% of the people that
+ 
+
+23
+00:00:22,480 --> 00:00:24,190
+on X, it's about 15% of the people that
+follow you that will actually even see
+
+24
+00:00:24,190 --> 00:00:24,200
+follow you that will actually even see
+ 
+
+25
+00:00:24,200 --> 00:00:26,030
+follow you that will actually even see
+that content. But, when you send out a
+
+26
+00:00:26,030 --> 00:00:26,040
+that content. But, when you send out a
+ 
+
+27
+00:00:26,040 --> 00:00:28,870
+that content. But, when you send out a
+newsletter, 100% of people in your
+
+28
+00:00:28,870 --> 00:00:28,880
+newsletter, 100% of people in your
+ 
+
+29
+00:00:28,880 --> 00:00:33,360
+newsletter, 100% of people in your
+newsletter list will get that email.
+

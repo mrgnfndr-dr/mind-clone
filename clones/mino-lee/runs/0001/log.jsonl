@@ -1,0 +1,7 @@
+{"cmd": "intent", "text": "how do I write a hook that goes viral?"}
+{"cmd": "sources", "n": 67}
+{"cmd": "map", "source": "s064", "vectors": 48}
+{"cmd": "map", "source": "s064", "vectors": 48}
+{"cmd": "select", "source": "s064", "vectors": ["four-levels-of-hooks", "three-core-principles", "first-3-seconds", "s-curve-giga-hook", "hook-mistakes"]}
+{"cmd": "map", "source": "s037", "vectors": 46}
+{"cmd": "compile", "eps": 5}

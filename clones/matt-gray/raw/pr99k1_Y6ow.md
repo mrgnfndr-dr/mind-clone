@@ -1,0 +1,3 @@
+1|in his book contagious Jonah Burger reveals four principles from real research for creating content that goes viral social currency people share things that make them look good does your content make people look good when they share it emotions High arousal
+13|emotions like excitement or anger make people share what does your content make people feel practical value people don't just want to look good they want to help others does your content provide real
+23|value your audience can share with their friends stories people prefer to share stories more than products build a Trojan horror story for your brand and make you compelling and sharew Worthy

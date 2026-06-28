@@ -1,0 +1,5 @@
+1|There's an amazing discovery in psychology called the domino mindset. The domino mindset is realizing that most of your life is not changed by huge dramatic overhauls. It's changed by one small habit that quietly knocks over
+11|everything else. It shows up when instead of trying to fix your whole life on Monday, you just nail sleep or daily writing or you just push that one piece of content. Suddenly your work, your mood, your self-respect all start to
+21|shift, right? Because you're just getting that one most important thing done that kind of shifts everything else around it. Psychology-wise, it's really going to lean into behavioral momentum.
+31|Small wins fuel bigger ones. And this helps you embody the identity of someone that does what you say you're going to do. And it also reduces the amount of choices in a day, right? Cuz fewer
+41|choices, less burnout, more follow-through. And over time, this allows you to feel like the kind of person that actually shows up, does the one thing, and is making progress in your

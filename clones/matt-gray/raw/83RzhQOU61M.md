@@ -1,0 +1,3 @@
+2|it's not just about what you do but what you don't do create a list of anti- goals for everything you want to achieve write an anti-g goal that must be avoid it at all costs want to make more money make it your anti-g goal to avoid
+12|burning out want better health make an anti-g goal not to create a regimen that takes over your life want to master something make an anti-g goal of not to take on more than one thing at a time the anti- goal is the thing you're not
+23|willing to sacrifice in pursuit of success it's the boundary you put up with your goals or your business it'll protect you from burnout and it'll make your success way more sustainable over the long term

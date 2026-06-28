@@ -1,0 +1,5 @@
+1|This tool writes faster than I can think. I speak into Whisperflow and this tool will convert it into perfectly formatted writing instantly. Here's how I use it to work twice as fast. You know, it's someone's birthday on my team, so I'm in my Slack channel. I can
+11|say, "Hey Sean, happy birthday, man. Hope you have the best day ever. Let's get it." And Whisper Flow is going to go and just perfectly format that exact statement so it's ready to go and send in Slack. Or as an example,
+22|maybe I'm going and messaging a friend. Hey Diego, filming today. I'll see you in a few hours. Let's get it. And boom. You know, here's an example of a quick email sending my chief of staff, Claire, something. I need to book
+32|accommodations in Dubai. Looking to get accommodations in the palm. Let me know if you're able to go and book something. Thank you so much. And again, perfectly formatted, ready to go, and makes it a thousand times easier. And
+42|the reality is, I think in the future, you shouldn't really ever have to touch a keyboard. Whenever you feel that cognitive load to go and type something, you should just use Whisper Flow and dictate

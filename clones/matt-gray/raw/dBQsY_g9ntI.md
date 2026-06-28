@@ -1,0 +1,3 @@
+2|Anxiety isn't just in your head. It's energy in your body that's waiting to be burned. There are studies from Harvard University that show just 20 minutes of physical activity a day can be better than any anti-depressant actually helping you feel better. Think of
+12|anxiety as just a pipe that's just building up with pressure. You know, if you don't go and break a sweat and work that off, it just builds and builds and builds and eventually it just breaks
+23|you. Everything involves being around others. And to be someone that others want to be around, you got to be feeling good. So the next time you feel anxious, move your body.

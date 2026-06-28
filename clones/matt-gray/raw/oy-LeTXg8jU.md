@@ -1,0 +1,3 @@
+2|if you think making 50k a month as a course creator is impossible think again you can do it with one product launch here's how step one build in public tell people what you're working on offer them access ask for feedback refine your
+13|content and get amazing results now you've got your testimonials step two promote your launch create an incredible offer using early bird discounts stack the bonuses use scarcity and don't be
+25|afraid to promote hard step three keep the launch going create referral program for past customers promote the launch once a week automate sales with an email sequence save this blueprint

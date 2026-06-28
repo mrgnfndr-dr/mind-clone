@@ -1,0 +1,2 @@
+1|in an 8-h hour workday the average person is productive for 2 hours and 53 minutes the rest of the time is spent talking replying to emails and getting distracted you can't do more than one thing at a time shut off the outside
+12|world for 4 hours a day and double your output make achievement a daily habit get high on getting it done in a world where everyone is distracted focus is the easiest path becoming extraordinary

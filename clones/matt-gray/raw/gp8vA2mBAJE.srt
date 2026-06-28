@@ -1,0 +1,285 @@
+1
+00:00:00,080 --> 00:00:02,149
+ 
+This is my new AI employee. It's called
+
+2
+00:00:02,149 --> 00:00:02,159
+This is my new AI employee. It's called
+ 
+
+3
+00:00:02,159 --> 00:00:04,150
+This is my new AI employee. It's called
+Loom AI, and it's already saved me
+
+4
+00:00:04,150 --> 00:00:04,160
+Loom AI, and it's already saved me
+ 
+
+5
+00:00:04,160 --> 00:00:05,990
+Loom AI, and it's already saved me
+thousands of hours of creating
+
+6
+00:00:05,990 --> 00:00:06,000
+thousands of hours of creating
+ 
+
+7
+00:00:06,000 --> 00:00:07,850
+thousands of hours of creating
+documentation by instantly turning
+
+8
+00:00:07,850 --> 00:00:07,860
+documentation by instantly turning
+ 
+
+9
+00:00:07,860 --> 00:00:10,310
+documentation by instantly turning
+[music] my core ideas into systems. Let
+
+10
+00:00:10,310 --> 00:00:10,320
+[music] my core ideas into systems. Let
+ 
+
+11
+00:00:10,320 --> 00:00:12,230
+[music] my core ideas into systems. Let
+me show you exactly how I use it. I went
+
+12
+00:00:12,230 --> 00:00:12,240
+me show you exactly how I use it. I went
+ 
+
+13
+00:00:12,240 --> 00:00:14,870
+me show you exactly how I use it. I went
+and recorded a video going through a
+
+14
+00:00:14,870 --> 00:00:14,880
+and recorded a video going through a
+ 
+
+15
+00:00:14,880 --> 00:00:17,029
+and recorded a video going through a
+system by which my team can start taking
+
+16
+00:00:17,029 --> 00:00:17,039
+system by which my team can start taking
+ 
+
+17
+00:00:17,039 --> 00:00:19,109
+system by which my team can start taking
+case studies and testimonials and using
+
+18
+00:00:19,109 --> 00:00:19,119
+case studies and testimonials and using
+ 
+
+19
+00:00:19,119 --> 00:00:20,710
+case studies and testimonials and using
+those for different pieces of content
+
+20
+00:00:20,710 --> 00:00:20,720
+those for different pieces of content
+ 
+
+21
+00:00:20,720 --> 00:00:22,870
+those for different pieces of content
+that we create. The cool thing is as I'm
+
+22
+00:00:22,870 --> 00:00:22,880
+that we create. The cool thing is as I'm
+ 
+
+23
+00:00:22,880 --> 00:00:24,390
+that we create. The cool thing is as I'm
+describing it, I'm getting into the
+
+24
+00:00:24,390 --> 00:00:24,400
+describing it, I'm getting into the
+ 
+
+25
+00:00:24,400 --> 00:00:25,750
+describing it, I'm getting into the
+different details. I'm sharing my
+
+26
+00:00:25,750 --> 00:00:25,760
+different details. I'm sharing my
+ 
+
+27
+00:00:25,760 --> 00:00:27,429
+different details. I'm sharing my
+screen. I'm going through the different
+
+28
+00:00:27,429 --> 00:00:27,439
+screen. I'm going through the different
+ 
+
+29
+00:00:27,439 --> 00:00:28,630
+screen. I'm going through the different
+places that they can find the
+
+30
+00:00:28,630 --> 00:00:28,640
+places that they can find the
+ 
+
+31
+00:00:28,640 --> 00:00:30,550
+places that they can find the
+testimonials and how we should go store
+
+32
+00:00:30,550 --> 00:00:30,560
+testimonials and how we should go store
+ 
+
+33
+00:00:30,560 --> 00:00:32,389
+testimonials and how we should go store
+these into Google Drive. But this is
+
+34
+00:00:32,389 --> 00:00:32,399
+these into Google Drive. But this is
+ 
+
+35
+00:00:32,399 --> 00:00:34,150
+these into Google Drive. But this is
+where the magic comes [music] in. I can
+
+36
+00:00:34,150 --> 00:00:34,160
+where the magic comes [music] in. I can
+ 
+
+37
+00:00:34,160 --> 00:00:37,270
+where the magic comes [music] in. I can
+simply go to generate and go to SOP.
+
+38
+00:00:37,270 --> 00:00:37,280
+simply go to generate and go to SOP.
+ 
+
+39
+00:00:37,280 --> 00:00:39,030
+simply go to generate and go to SOP.
+What it's going to go and do is create a
+
+40
+00:00:39,030 --> 00:00:39,040
+What it's going to go and do is create a
+ 
+
+41
+00:00:39,040 --> 00:00:41,670
+What it's going to go and do is create a
+standard operating procedure for this
+
+42
+00:00:41,670 --> 00:00:41,680
+standard operating procedure for this
+ 
+
+43
+00:00:41,680 --> 00:00:44,069
+standard operating procedure for this
+specific task. Now, I can go and copy
+
+44
+00:00:44,069 --> 00:00:44,079
+specific task. Now, I can go and copy
+ 
+
+45
+00:00:44,079 --> 00:00:46,310
+specific task. Now, I can go and copy
+this whole thing and then go and make a
+
+46
+00:00:46,310 --> 00:00:46,320
+this whole thing and then go and make a
+ 
+
+47
+00:00:46,320 --> 00:00:48,310
+this whole thing and then go and make a
+beautiful Google Doc system based on
+
+48
+00:00:48,310 --> 00:00:48,320
+beautiful Google Doc system based on
+ 
+
+49
+00:00:48,320 --> 00:00:50,630
+beautiful Google Doc system based on
+this linking to the Loom, big images,
+
+50
+00:00:50,630 --> 00:00:50,640
+this linking to the Loom, big images,
+ 
+
+51
+00:00:50,640 --> 00:00:52,229
+this linking to the Loom, big images,
+bullet points, [music] super easy for
+
+52
+00:00:52,229 --> 00:00:52,239
+bullet points, [music] super easy for
+ 
+
+53
+00:00:52,239 --> 00:00:54,229
+bullet points, [music] super easy for
+people to digest. This is actually 10
+
+54
+00:00:54,229 --> 00:00:54,239
+people to digest. This is actually 10
+ 
+
+55
+00:00:54,239 --> 00:00:57,630
+people to digest. This is actually 10
+times better than me making a system.
+
+56
+00:00:57,630 --> 00:00:57,640
+times better than me making a system.
+ 
+
+57
+00:00:57,640 --> 00:00:59,660
+times better than me making a system.
+>> [music]
+

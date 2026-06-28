@@ -1,0 +1,4 @@
+2|if you're in your 20s and you're bored then you need a vision here's the goal setting system I use to go from being depressed to making seven figures a year with more energy than ever first set a 10year goal this is your North Star ask
+12|yourself what does your dream world look like where are you trying to go come up with a vision that makes you jump out of bed in the morning dream big next set threeyear goals one-year goals and 90day goals reverse engineer the steps needed
+23|to reach your 10year goal avoid goals like I'm going to sell online courses instead write something like by September 30th I'm going to have help a thousand people in my Niche through my digital product now keep all your goals
+34|together in one place on your phone look at them every morning it'll motivate you to take Massive Action

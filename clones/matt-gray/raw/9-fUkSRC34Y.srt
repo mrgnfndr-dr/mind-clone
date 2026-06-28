@@ -1,0 +1,325 @@
+1
+00:00:00,080 --> 00:00:02,310
+ 
+The problem with chatbt is it's only as
+
+2
+00:00:02,310 --> 00:00:02,320
+The problem with chatbt is it's only as
+ 
+
+3
+00:00:02,320 --> 00:00:04,390
+The problem with chatbt is it's only as
+good as your prompt. And so when you
+
+4
+00:00:04,390 --> 00:00:04,400
+good as your prompt. And so when you
+ 
+
+5
+00:00:04,400 --> 00:00:06,070
+good as your prompt. And so when you
+think about going and creating a killer
+
+6
+00:00:06,070 --> 00:00:06,080
+think about going and creating a killer
+ 
+
+7
+00:00:06,080 --> 00:00:08,230
+think about going and creating a killer
+prompt for chatbt, you want to make sure
+
+8
+00:00:08,230 --> 00:00:08,240
+prompt for chatbt, you want to make sure
+ 
+
+9
+00:00:08,240 --> 00:00:10,549
+prompt for chatbt, you want to make sure
+that you do a few things. Number one,
+
+10
+00:00:10,549 --> 00:00:10,559
+that you do a few things. Number one,
+ 
+
+11
+00:00:10,559 --> 00:00:12,470
+that you do a few things. Number one,
+you must make sure that you flush out
+
+12
+00:00:12,470 --> 00:00:12,480
+you must make sure that you flush out
+ 
+
+13
+00:00:12,480 --> 00:00:14,549
+you must make sure that you flush out
+the prompt as detailed as possible,
+
+14
+00:00:14,549 --> 00:00:14,559
+the prompt as detailed as possible,
+ 
+
+15
+00:00:14,559 --> 00:00:16,230
+the prompt as detailed as possible,
+indicating the bar that you're setting
+
+16
+00:00:16,230 --> 00:00:16,240
+indicating the bar that you're setting
+ 
+
+17
+00:00:16,240 --> 00:00:18,310
+indicating the bar that you're setting
+for it, going and giving it inspiration.
+
+18
+00:00:18,310 --> 00:00:18,320
+for it, going and giving it inspiration.
+ 
+
+19
+00:00:18,320 --> 00:00:19,990
+for it, going and giving it inspiration.
+And so, you know, if I'm saying, you
+
+20
+00:00:19,990 --> 00:00:20,000
+And so, you know, if I'm saying, you
+ 
+
+21
+00:00:20,000 --> 00:00:21,590
+And so, you know, if I'm saying, you
+know, I [music] want ChatBT to go and
+
+22
+00:00:21,590 --> 00:00:21,600
+know, I [music] want ChatBT to go and
+ 
+
+23
+00:00:21,600 --> 00:00:23,349
+know, I [music] want ChatBT to go and
+help me 10x the profit of my business,
+
+24
+00:00:23,349 --> 00:00:23,359
+help me 10x the profit of my business,
+ 
+
+25
+00:00:23,359 --> 00:00:24,470
+help me 10x the profit of my business,
+I'm going to say, you know, I want you
+
+26
+00:00:24,470 --> 00:00:24,480
+I'm going to say, you know, I want you
+ 
+
+27
+00:00:24,480 --> 00:00:27,109
+I'm going to say, you know, I want you
+to advise me like, you know, Ray Deio,
+
+28
+00:00:27,109 --> 00:00:27,119
+to advise me like, you know, Ray Deio,
+ 
+
+29
+00:00:27,119 --> 00:00:28,950
+to advise me like, you know, Ray Deio,
+Jeff Bezos, [music] Steve Jobs, and the
+
+30
+00:00:28,950 --> 00:00:28,960
+Jeff Bezos, [music] Steve Jobs, and the
+ 
+
+31
+00:00:28,960 --> 00:00:29,910
+Jeff Bezos, [music] Steve Jobs, and the
+best entrepreneurs that have ever
+
+32
+00:00:29,910 --> 00:00:29,920
+best entrepreneurs that have ever
+ 
+
+33
+00:00:29,920 --> 00:00:31,750
+best entrepreneurs that have ever
+existed. I want to go and think in
+
+34
+00:00:31,750 --> 00:00:31,760
+existed. I want to go and think in
+ 
+
+35
+00:00:31,760 --> 00:00:33,430
+existed. I want to go and think in
+systems. I want it to identify a
+
+36
+00:00:33,430 --> 00:00:33,440
+systems. I want it to identify a
+ 
+
+37
+00:00:33,440 --> 00:00:35,110
+systems. I want it to identify a
+constraint. And then I want it to go and
+
+38
+00:00:35,110 --> 00:00:35,120
+constraint. And then I want it to go and
+ 
+
+39
+00:00:35,120 --> 00:00:36,950
+constraint. And then I want it to go and
+use the org chart I've attached to go
+
+40
+00:00:36,950 --> 00:00:36,960
+use the org chart I've attached to go
+ 
+
+41
+00:00:36,960 --> 00:00:38,635
+use the org chart I've attached to go
+and help me go and delegate core tasks
+
+42
+00:00:38,635 --> 00:00:38,645
+and help me go and delegate core tasks
+ 
+
+43
+00:00:38,645 --> 00:00:40,310
+and help me go and delegate core tasks
+[music] to my team so that I'm building
+
+44
+00:00:40,310 --> 00:00:40,320
+[music] to my team so that I'm building
+ 
+
+45
+00:00:40,320 --> 00:00:42,310
+[music] to my team so that I'm building
+leverage around me versus having to do
+
+46
+00:00:42,310 --> 00:00:42,320
+leverage around me versus having to do
+ 
+
+47
+00:00:42,320 --> 00:00:44,069
+leverage around me versus having to do
+all this stuff myself. [music] The other
+
+48
+00:00:44,069 --> 00:00:44,079
+all this stuff myself. [music] The other
+ 
+
+49
+00:00:44,079 --> 00:00:45,670
+all this stuff myself. [music] The other
+aspect too is that your prompt is only
+
+50
+00:00:45,670 --> 00:00:45,680
+aspect too is that your prompt is only
+ 
+
+51
+00:00:45,680 --> 00:00:48,549
+aspect too is that your prompt is only
+as good as the files that you feed the
+
+52
+00:00:48,549 --> 00:00:48,559
+as good as the files that you feed the
+ 
+
+53
+00:00:48,559 --> 00:00:50,549
+as good as the files that you feed the
+given project as well. The more that you
+
+54
+00:00:50,549 --> 00:00:50,559
+given project as well. The more that you
+ 
+
+55
+00:00:50,559 --> 00:00:51,910
+given project as well. The more that you
+have your business systemized, [music]
+
+56
+00:00:51,910 --> 00:00:51,920
+have your business systemized, [music]
+ 
+
+57
+00:00:51,920 --> 00:00:53,830
+have your business systemized, [music]
+the more powerful you can upload those
+
+58
+00:00:53,830 --> 00:00:53,840
+the more powerful you can upload those
+ 
+
+59
+00:00:53,840 --> 00:00:56,229
+the more powerful you can upload those
+files to the project and then the more
+
+60
+00:00:56,229 --> 00:00:56,239
+files to the project and then the more
+ 
+
+61
+00:00:56,239 --> 00:00:58,790
+files to the project and then the more
+context Chat GBT has to give [music] you
+
+62
+00:00:58,790 --> 00:00:58,800
+context Chat GBT has to give [music] you
+ 
+
+63
+00:00:58,800 --> 00:01:01,189
+context Chat GBT has to give [music] you
+results that are contextual to your
+
+64
+00:01:01,189 --> 00:01:01,199
+results that are contextual to your
+ 
+
+65
+00:01:01,199 --> 00:01:04,000
+results that are contextual to your
+unique Possess.
+

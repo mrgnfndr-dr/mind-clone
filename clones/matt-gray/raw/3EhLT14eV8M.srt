@@ -1,0 +1,285 @@
+1
+00:00:00,640 --> 00:00:03,190
+ 
+This is how I replace 16 content hires
+
+2
+00:00:03,190 --> 00:00:03,200
+This is how I replace 16 content hires
+ 
+
+3
+00:00:03,200 --> 00:00:05,670
+This is how I replace 16 content hires
+with a single voice memo. So, you know,
+
+4
+00:00:05,670 --> 00:00:05,680
+with a single voice memo. So, you know,
+ 
+
+5
+00:00:05,680 --> 00:00:08,390
+with a single voice memo. So, you know,
+a decade ago at Herb, you know, I've
+
+6
+00:00:08,390 --> 00:00:08,400
+a decade ago at Herb, you know, I've
+ 
+
+7
+00:00:08,400 --> 00:00:10,790
+a decade ago at Herb, you know, I've
+produced over 36,000 pieces of content
+
+8
+00:00:10,790 --> 00:00:10,800
+produced over 36,000 pieces of content
+ 
+
+9
+00:00:10,800 --> 00:00:13,030
+produced over 36,000 pieces of content
+over the last, you know, 16 years
+
+10
+00:00:13,030 --> 00:00:13,040
+over the last, you know, 16 years
+ 
+
+11
+00:00:13,040 --> 00:00:15,110
+over the last, you know, 16 years
+building media companies. And way back
+
+12
+00:00:15,110 --> 00:00:15,120
+building media companies. And way back
+ 
+
+13
+00:00:15,120 --> 00:00:17,269
+building media companies. And way back
+in the day, I had like 16 people, you
+
+14
+00:00:17,269 --> 00:00:17,279
+in the day, I had like 16 people, you
+ 
+
+15
+00:00:17,279 --> 00:00:20,070
+in the day, I had like 16 people, you
+know, SEO, branded folks, crazy
+
+16
+00:00:20,070 --> 00:00:20,080
+know, SEO, branded folks, crazy
+ 
+
+17
+00:00:20,080 --> 00:00:22,470
+know, SEO, branded folks, crazy
+production teams. My new way at Founder
+
+18
+00:00:22,470 --> 00:00:22,480
+production teams. My new way at Founder
+ 
+
+19
+00:00:22,480 --> 00:00:24,790
+production teams. My new way at Founder
+OS, we just keep it dead simple. It's
+
+20
+00:00:24,790 --> 00:00:24,800
+OS, we just keep it dead simple. It's
+ 
+
+21
+00:00:24,800 --> 00:00:27,750
+OS, we just keep it dead simple. It's
+me, my CMO, Nick, and a video editor,
+
+22
+00:00:27,750 --> 00:00:27,760
+me, my CMO, Nick, and a video editor,
+ 
+
+23
+00:00:27,760 --> 00:00:29,990
+me, my CMO, Nick, and a video editor,
+right? Same output. I would say way
+
+24
+00:00:29,990 --> 00:00:30,000
+right? Same output. I would say way
+ 
+
+25
+00:00:30,000 --> 00:00:32,069
+right? Same output. I would say way
+higher quality, certainly more soulful,
+
+26
+00:00:32,069 --> 00:00:32,079
+higher quality, certainly more soulful,
+ 
+
+27
+00:00:32,079 --> 00:00:34,549
+higher quality, certainly more soulful,
+better resonance, way higher converting,
+
+28
+00:00:34,549 --> 00:00:34,559
+better resonance, way higher converting,
+ 
+
+29
+00:00:34,559 --> 00:00:37,030
+better resonance, way higher converting,
+way more cash flow, and it all comes
+
+30
+00:00:37,030 --> 00:00:37,040
+way more cash flow, and it all comes
+ 
+
+31
+00:00:37,040 --> 00:00:40,069
+way more cash flow, and it all comes
+from a single voice memo. I go and
+
+32
+00:00:40,069 --> 00:00:40,079
+from a single voice memo. I go and
+ 
+
+33
+00:00:40,079 --> 00:00:42,869
+from a single voice memo. I go and
+record my thoughts while I'm on a walk
+
+34
+00:00:42,869 --> 00:00:42,879
+record my thoughts while I'm on a walk
+ 
+
+35
+00:00:42,879 --> 00:00:46,310
+record my thoughts while I'm on a walk
+in nature. I use that voice memo then in
+
+36
+00:00:46,310 --> 00:00:46,320
+in nature. I use that voice memo then in
+ 
+
+37
+00:00:46,320 --> 00:00:48,950
+in nature. I use that voice memo then in
+Claude Code to transcribe it. I then go
+
+38
+00:00:48,950 --> 00:00:48,960
+Claude Code to transcribe it. I then go
+ 
+
+39
+00:00:48,960 --> 00:00:51,590
+Claude Code to transcribe it. I then go
+and take it and format it for things
+
+40
+00:00:51,590 --> 00:00:51,600
+and take it and format it for things
+ 
+
+41
+00:00:51,600 --> 00:00:55,110
+and take it and format it for things
+like carousels, for reals, for YouTube,
+
+42
+00:00:55,110 --> 00:00:55,120
+like carousels, for reals, for YouTube,
+ 
+
+43
+00:00:55,120 --> 00:00:57,110
+like carousels, for reals, for YouTube,
+and for my newsletter each week. And
+
+44
+00:00:57,110 --> 00:00:57,120
+and for my newsletter each week. And
+ 
+
+45
+00:00:57,120 --> 00:00:59,430
+and for my newsletter each week. And
+then I give it an edit the next day,
+
+46
+00:00:59,430 --> 00:00:59,440
+then I give it an edit the next day,
+ 
+
+47
+00:00:59,440 --> 00:01:01,670
+then I give it an edit the next day,
+polish it up a little bit, and then just
+
+48
+00:01:01,670 --> 00:01:01,680
+polish it up a little bit, and then just
+ 
+
+49
+00:01:01,680 --> 00:01:03,750
+polish it up a little bit, and then just
+let that puppy fly. Right? I've been
+
+50
+00:01:03,750 --> 00:01:03,760
+let that puppy fly. Right? I've been
+ 
+
+51
+00:01:03,760 --> 00:01:06,550
+let that puppy fly. Right? I've been
+able to cut 40k plus of headcount from
+
+52
+00:01:06,550 --> 00:01:06,560
+able to cut 40k plus of headcount from
+ 
+
+53
+00:01:06,560 --> 00:01:09,510
+able to cut 40k plus of headcount from
+this and have just a lean, mean,
+
+54
+00:01:09,510 --> 00:01:09,520
+this and have just a lean, mean,
+ 
+
+55
+00:01:09,520 --> 00:01:12,469
+this and have just a lean, mean,
+profitable media team. This it's a
+
+56
+00:01:12,469 --> 00:01:12,479
+profitable media team. This it's a
+ 
+
+57
+00:01:12,479 --> 00:01:14,799
+profitable media team. This it's a
+beautiful
+

@@ -1,0 +1,1 @@
+Mergen MRR solo-predprinimatel, organicheskoe prodvizhenie svoego proekta dlya solo cherez korotkoe video, kontent-zavody, UGC-mashiny; tezis kanal diktuet proekt; auditoriya predprinimateli 25-45 kotorye umeyut delat produkt no zastrevayut na prodvizhenii; Instagram osnovnaya platforma; tsel za 12 mesyatsev vyrastit Instagram, stat ekspertom i vyiti na MRR cherez infobiz

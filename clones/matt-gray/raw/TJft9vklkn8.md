@@ -1,0 +1,4 @@
+2|Perfectionism costs way more than failure. Thousands, if not millions of other people also struggle with this same limiting belief before launching something. There's this myth in entrepreneurship that you need to have it all figured out and then launch it.
+12|When the truth is that you launch it and then you figure it out. The ship messy protocol all comes down to launching something when it's at 70%. Mark Zuckerberg famously said, "Move fast and
+22|break things." And this is what has made him one of many Silicon Valley billionaires. And the truth is that when you're building something, you just need to get it out there. People would much rather have a 70% solution today than
+34|something 100% in 3 years. The market, AI, everything is moving so fast these days. And speed is your competitive advantage as a founder.

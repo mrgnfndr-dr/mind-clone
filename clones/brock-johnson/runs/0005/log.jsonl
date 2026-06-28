@@ -1,0 +1,12 @@
+{"cmd": "intent", "text": "How to start Instagram from scratch with a clear niche: solo entrepreneur teaching organic promotion for business owners. Needs step-by-step plan: profile setup, content strategy, posting frequency, growth tactics, monetization path."}
+{"cmd": "select", "source": "s052", "vectors": ["strategy"]}
+{"cmd": "select", "source": "s085", "vectors": ["strategy"]}
+{"cmd": "select", "source": "s179", "vectors": ["strategy"]}
+{"cmd": "select", "source": "s081", "vectors": ["entrepreneurship"]}
+{"cmd": "select", "source": "s144", "vectors": ["strategy"]}
+{"cmd": "select", "source": "s037", "vectors": ["strategy"]}
+{"cmd": "select", "source": "s020", "vectors": ["content-strategy"]}
+{"cmd": "select", "source": "s027", "vectors": ["content-frequency"]}
+{"cmd": "select", "source": "s123", "vectors": ["email-list"]}
+{"cmd": "select", "source": "s053", "vectors": ["dm-automation"]}
+{"cmd": "compile", "eps": 12}

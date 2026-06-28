@@ -1,0 +1,4 @@
+2|I make over $100,000 each month for my newsletter and I'm about to give you the blueprint put this into practice and you'll be able to quit your job in 90 days don't focus on growing your social media following focus on growing your newsletter this is where the real money
+12|is made don't just put a sign up link in your bio you need a lead magnet here's how to make one identify a paino in your target audience find a solution for them package it into an actionable piece of
+23|content test different lead magnets promote it everywhere you can don't wait too long to monetize your newsletter this is the biggest mistake you can make the more you give away value for free
+33|the more people expect it for free keep your greatest work behind a pay wall it doesn't matter if you're not ready yet pre-sell create a waiting list train your followers to buy

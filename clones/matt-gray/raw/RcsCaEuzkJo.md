@@ -1,0 +1,4 @@
+1|most Founders are really good at the money game they know how to create killer products build trust with their audience and make sales they're too good because what ends up happening is even after they make millions of dollars they
+11|set new benchmarks 10 million 50 million 100 million and the entire time they're forgetting why they wanted to make that money in the first place I've seen this happen over and over again but here's
+22|what you have to remember the next Peak is always a false Summit because there's always another level screw everyone else's definition of success don't just build a business that makes you money
+33|build a business that gives you freedom and lets you spend more time doing what you love if you're an entrepreneur you need to value your time and autonomy just as much as you value money

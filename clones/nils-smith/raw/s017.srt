@@ -1,0 +1,800 @@
+1
+00:00:00,000 --> 00:00:04,000
+your church using AI we're hearing about
+
+2
+00:00:02,000 --> 00:00:06,000
+AI all the time in so many different
+
+3
+00:00:04,000 --> 00:00:08,000
+places and spaces uh and I think there's
+
+4
+00:00:06,000 --> 00:00:10,000
+a big question is should we use Ai and
+
+5
+00:00:09,000 --> 00:00:13,000
+if we should how should we use AI I'm
+
+6
+00:00:12,000 --> 00:00:16,000
+going to answer that in this video and
+
+7
+00:00:14,000 --> 00:00:18,000
+I'm going to give you four tools that I
+
+8
+00:00:15,000 --> 00:00:19,000
+think your church should consider using
+
+9
+00:00:18,000 --> 00:00:22,000
+immediately and potentially into the
+
+10
+00:00:20,000 --> 00:00:24,000
+Future these are the four tools that I
+
+11
+00:00:22,000 --> 00:00:26,000
+believe are probably the most
+
+12
+00:00:24,000 --> 00:00:28,000
+immediately effective tools for your
+
+13
+00:00:25,000 --> 00:00:29,000
+church
+
+14
+00:00:28,000 --> 00:00:32,000
+today hey there if we haven't met yet
+
+15
+00:00:30,000 --> 00:00:34,000
+I'm Neil Smith your social media guide
+
+16
+00:00:32,000 --> 00:00:36,000
+and I want to talk to churches today and
+
+17
+00:00:35,000 --> 00:00:39,000
+how church leaders can begin to
+
+18
+00:00:37,000 --> 00:00:41,000
+integrate AI in should do I think
+
+19
+00:00:40,000 --> 00:00:44,000
+churches should begin using AI yes do I
+
+20
+00:00:43,000 --> 00:00:47,000
+think churches should be concerned about
+
+21
+00:00:44,000 --> 00:00:48,000
+AI yes do I think church should be
+
+22
+00:00:46,000 --> 00:00:50,000
+learning about AI yes I I think at the
+
+23
+00:00:48,000 --> 00:00:52,000
+end of the day AI is going to just like
+
+24
+00:00:51,000 --> 00:00:55,000
+any other Technology Innovation in
+
+25
+00:00:53,000 --> 00:00:57,000
+history is going to add value to what we
+
+26
+00:00:56,000 --> 00:01:00,000
+do as church leaders and it's going to
+
+27
+00:00:58,000 --> 00:01:02,000
+create unique new challenges and the
+
+28
+00:01:00,000 --> 00:01:04,000
+best way I think that we're going to be
+
+29
+00:01:01,000 --> 00:01:05,000
+prepared for those challenges is to be
+
+30
+00:01:03,000 --> 00:01:07,000
+using it ourselves and be understanding
+
+31
+00:01:05,000 --> 00:01:09,000
+it uh and navigate those challenges as
+
+32
+00:01:07,000 --> 00:01:11,000
+we come but ignoring it is not going to
+
+33
+00:01:10,000 --> 00:01:14,000
+be the solution so I believe AI can
+
+34
+00:01:11,000 --> 00:01:15,000
+actually help your church pretty
+
+35
+00:01:13,000 --> 00:01:17,000
+effectively today and better prepare you
+
+36
+00:01:16,000 --> 00:01:20,000
+for the future that's coming tomorrow so
+
+37
+00:01:18,000 --> 00:01:22,000
+the first tool that I think every Church
+
+38
+00:01:20,000 --> 00:01:24,000
+leader should be integrating into their
+
+39
+00:01:22,000 --> 00:01:26,000
+workflows this one's free I think it's
+
+40
+00:01:24,000 --> 00:01:28,000
+actually worth paying the $15 a month or
+
+41
+00:01:26,000 --> 00:01:30,000
+whatever it cost for the premium account
+
+42
+00:01:28,000 --> 00:01:32,000
+and that is chat GPT chat GPT is the
+
+43
+00:01:31,000 --> 00:01:35,000
+most popular most widely adopted AI tool
+
+44
+00:01:33,000 --> 00:01:37,000
+and chat GPT can just help us with so
+
+45
+00:01:36,000 --> 00:01:40,000
+many different things uh and so if
+
+46
+00:01:38,000 --> 00:01:42,000
+you're not yet using chat GPT I highly
+
+47
+00:01:41,000 --> 00:01:45,000
+recommend just download I actually have
+
+48
+00:01:42,000 --> 00:01:46,000
+the desktop app on my computer always
+
+49
+00:01:44,000 --> 00:01:48,000
+open uh and just begin using it and ask
+
+50
+00:01:47,000 --> 00:01:51,000
+it questions and ask it to help you uh
+
+51
+00:01:50,000 --> 00:01:54,000
+with different things ask it to help
+
+52
+00:01:51,000 --> 00:01:55,000
+brainstorm there's lots of things I got
+
+53
+00:01:53,000 --> 00:01:57,000
+a whole video just about how to use Chad
+
+54
+00:01:55,000 --> 00:01:59,000
+GPT you can go learn that I have another
+
+55
+00:01:56,000 --> 00:02:00,000
+video about how to create your own GPT
+
+56
+00:01:59,000 --> 00:02:03,000
+Chad gbt is a great tool that can be
+
+57
+00:02:02,000 --> 00:02:06,000
+used in lots of ways and and I think you
+
+58
+00:02:05,000 --> 00:02:09,000
+won't really know how to use it and if
+
+59
+00:02:06,000 --> 00:02:10,000
+you want to figure out how to use it
+
+60
+00:02:07,000 --> 00:02:11,000
+just ask chat gbt how can I better use
+
+61
+00:02:10,000 --> 00:02:14,000
+this for my church and it will give you
+
+62
+00:02:13,000 --> 00:02:17,000
+some tips uh and things to learn so Chad
+
+63
+00:02:15,000 --> 00:02:19,000
+gbt is the first tool that I think every
+
+64
+00:02:17,000 --> 00:02:21,000
+church needs to be integrating today the
+
+65
+00:02:19,000 --> 00:02:23,000
+second AI tool is one that I've been
+
+66
+00:02:21,000 --> 00:02:25,000
+getting to know better and better over
+
+67
+00:02:22,000 --> 00:02:26,000
+the last six months or so and that is a
+
+68
+00:02:24,000 --> 00:02:28,000
+platform called sermon shots sermon
+
+69
+00:02:26,000 --> 00:02:30,000
+shots is kind of best known for their
+
+70
+00:02:28,000 --> 00:02:32,000
+Clips uh that it's pulling
+
+71
+00:02:30,000 --> 00:02:34,000
+out of your YouTube videos you can put
+
+72
+00:02:32,000 --> 00:02:36,000
+in your YouTube video and it will create
+
+73
+00:02:34,000 --> 00:02:38,000
+clips for Instagram reals and Tik Tok
+
+74
+00:02:36,000 --> 00:02:40,000
+and YouTube shorts and it does a great
+
+75
+00:02:39,000 --> 00:02:43,000
+job with that but they've also expanded
+
+76
+00:02:40,000 --> 00:02:44,000
+into other features and functions
+
+77
+00:02:43,000 --> 00:02:47,000
+including things like creating social
+
+78
+00:02:45,000 --> 00:02:49,000
+media graphics and creating YouTube
+
+79
+00:02:46,000 --> 00:02:50,000
+thumbnails I love seeing uh their
+
+80
+00:02:49,000 --> 00:02:53,000
+platform continue to innovate and get
+
+81
+00:02:52,000 --> 00:02:56,000
+better uh and it's just a really good
+
+82
+00:02:54,000 --> 00:02:58,000
+tool for churches that does works really
+
+83
+00:02:57,000 --> 00:03:01,000
+fast really easily uh and I think just
+
+84
+00:02:59,000 --> 00:03:03,000
+about anybody can use it so surmon shots
+
+85
+00:03:02,000 --> 00:03:06,000
+great AI tool that's also getting better
+
+86
+00:03:05,000 --> 00:03:09,000
+all the time that's one of the things
+
+87
+00:03:05,000 --> 00:03:09,000
+I'm always looking for in software tools
+
+88
+00:03:07,000 --> 00:03:11,000
+is is it improving or is it stagnant and
+
+89
+00:03:10,000 --> 00:03:14,000
+as I see constant Improvement uh that's
+
+90
+00:03:13,000 --> 00:03:17,000
+a good sign for this is going to keep up
+
+91
+00:03:16,000 --> 00:03:20,000
+with these changing Technologies
+
+92
+00:03:17,000 --> 00:03:21,000
+especially the changing landscape of
+
+93
+00:03:19,000 --> 00:03:23,000
+social media the third tool is similar
+
+94
+00:03:21,000 --> 00:03:25,000
+to sermon shots and they have some
+
+95
+00:03:23,000 --> 00:03:27,000
+similar overlapping functionalities and
+
+96
+00:03:25,000 --> 00:03:29,000
+that's Pulpit AI uh and and so one of
+
+97
+00:03:27,000 --> 00:03:31,000
+the things I would actually recommend in
+
+98
+00:03:29,000 --> 00:03:33,000
+using both of these platforms is they'll
+
+99
+00:03:31,000 --> 00:03:35,000
+have similar functionalities and what it
+
+100
+00:03:33,000 --> 00:03:37,000
+will actually do even with the clips uh
+
+101
+00:03:35,000 --> 00:03:39,000
+that that popit AI might pull out of
+
+102
+00:03:38,000 --> 00:03:42,000
+your sermon as well is you can test the
+
+103
+00:03:40,000 --> 00:03:44,000
+different ones see which ones perform
+
+104
+00:03:42,000 --> 00:03:46,000
+best but popet AI will do more when it
+
+105
+00:03:44,000 --> 00:03:48,000
+comes to even creating like some sermon
+
+106
+00:03:47,000 --> 00:03:51,000
+uh conversation starters for small
+
+107
+00:03:49,000 --> 00:03:53,000
+groups or sermon summaries and uh
+
+108
+00:03:52,000 --> 00:03:56,000
+different outlines and so popit AI has a
+
+109
+00:03:54,000 --> 00:03:58,000
+lot of additional functions that helps
+
+110
+00:03:56,000 --> 00:04:00,000
+take your sermon content and get the
+
+111
+00:03:58,000 --> 00:04:02,000
+most out of it uh and so as I had
+
+112
+00:04:01,000 --> 00:04:05,000
+another video called uh the podcast
+
+113
+00:04:03,000 --> 00:04:07,000
+squeeze I would often call this the
+
+114
+00:04:04,000 --> 00:04:08,000
+sermon squeeze of get the most out of
+
+115
+00:04:06,000 --> 00:04:10,000
+your sermon Pulpit AI we actually use AI
+
+116
+00:04:09,000 --> 00:04:13,000
+to get the most out of your sermon so as
+
+117
+00:04:11,000 --> 00:04:15,000
+your pastor is putting so much energy
+
+118
+00:04:13,000 --> 00:04:17,000
+and effort into creating that sermon
+
+119
+00:04:15,000 --> 00:04:19,000
+content Pulpit AI will help you get the
+
+120
+00:04:17,000 --> 00:04:21,000
+most out of it so I think combining both
+
+121
+00:04:19,000 --> 00:04:23,000
+sermon shots and Pulpit AI will take
+
+122
+00:04:22,000 --> 00:04:26,000
+your sermon content and squeeze uh the
+
+123
+00:04:24,000 --> 00:04:28,000
+most out of it for social media and your
+
+124
+00:04:27,000 --> 00:04:31,000
+other Platforms in a very effective way
+
+125
+00:04:29,000 --> 00:04:33,000
+now the fourth tool is not a tool that a
+
+126
+00:04:31,000 --> 00:04:35,000
+lot of people consider AI but they've
+
+127
+00:04:33,000 --> 00:04:37,000
+had a lot of AI functionality and that's
+
+128
+00:04:35,000 --> 00:04:39,000
+canva uh and so canva has this you know
+
+129
+00:04:38,000 --> 00:04:42,000
+magic feature as they call it uh but
+
+130
+00:04:40,000 --> 00:04:44,000
+where it will really you can almost
+
+131
+00:04:41,000 --> 00:04:45,000
+treat it like a graphic designer and
+
+132
+00:04:43,000 --> 00:04:47,000
+tell it what to do and what to create
+
+133
+00:04:46,000 --> 00:04:50,000
+and so you don't actually even have to
+
+134
+00:04:47,000 --> 00:04:51,000
+design as much it will use AI uh to
+
+135
+00:04:50,000 --> 00:04:54,000
+create a lot of graphics for you to
+
+136
+00:04:52,000 --> 00:04:56,000
+create YouTube thumbnails for you to
+
+137
+00:04:54,000 --> 00:04:58,000
+create social media graphics for you and
+
+138
+00:04:57,000 --> 00:05:01,000
+so using the AI functionality of canva
+
+139
+00:04:59,000 --> 00:05:03,000
+is a great way to take your canva usage
+
+140
+00:05:02,000 --> 00:05:06,000
+and to another level and to make your
+
+141
+00:05:05,000 --> 00:05:09,000
+visual graphics for your church look
+
+142
+00:05:07,000 --> 00:05:11,000
+better and better and one of the things
+
+143
+00:05:08,000 --> 00:05:12,000
+that I love that these AI tools are are
+
+144
+00:05:10,000 --> 00:05:14,000
+making available is you know I think a
+
+145
+00:05:13,000 --> 00:05:17,000
+lot of times smaller churches don't feel
+
+146
+00:05:14,000 --> 00:05:18,000
+like they can afford a graphic designer
+
+147
+00:05:17,000 --> 00:05:21,000
+and afford all of these you know tools
+
+148
+00:05:19,000 --> 00:05:23,000
+that larger churches have had or or
+
+149
+00:05:21,000 --> 00:05:25,000
+these support systems that other
+
+150
+00:05:23,000 --> 00:05:27,000
+churches have had well the end of the
+
+151
+00:05:24,000 --> 00:05:28,000
+day AI is replacing a lot of that and so
+
+152
+00:05:26,000 --> 00:05:30,000
+you don't need that because you have
+
+153
+00:05:28,000 --> 00:05:32,000
+canva ai and for $10 a month or whatever
+
+154
+00:05:31,000 --> 00:05:35,000
+it costs uh for a small monthly fee you
+
+155
+00:05:35,000 --> 00:05:39,000
+basically have a graphic designer to
+
+156
+00:05:36,000 --> 00:05:40,000
+help you look great on social media look
+
+157
+00:05:39,000 --> 00:05:43,000
+great uh on your website Graphics or
+
+158
+00:05:41,000 --> 00:05:45,000
+your sermon uh slides and so use canva
+
+159
+00:05:45,000 --> 00:05:49,000
+AI to just enhance your visuals in a
+
+160
+00:05:48,000 --> 00:05:52,000
+really uh impressive way um pretty
+
+161
+00:05:51,000 --> 00:05:55,000
+quickly and rapidly and the more you use
+
+162
+00:05:53,000 --> 00:05:57,000
+it the better you'll get and the smarter
+
+163
+00:05:55,000 --> 00:05:59,000
+and better it will learn your brand and
+
+164
+00:05:57,000 --> 00:06:01,000
+and how it will best represent you so
+
+165
+00:05:59,000 --> 00:06:03,000
+those are the four tools I'd recommend
+
+166
+00:06:01,000 --> 00:06:05,000
+if there are other tools uh that you'd
+
+167
+00:06:03,000 --> 00:06:07,000
+recommend drop them in the comments I
+
+168
+00:06:04,000 --> 00:06:08,000
+want to test new platforms we can learn
+
+169
+00:06:06,000 --> 00:06:10,000
+from each other uh and let's find the
+
+170
+00:06:08,000 --> 00:06:12,000
+best AI tools to serve uh churches and
+
+171
+00:06:12,000 --> 00:06:16,000
+help us do ministry more efficiently
+
+172
+00:06:14,000 --> 00:06:18,000
+more effectively uh and be able to focus
+
+173
+00:06:16,000 --> 00:06:20,000
+more on Ministry rather than a lot of
+
+174
+00:06:17,000 --> 00:06:21,000
+these other you know detail process
+
+175
+00:06:20,000 --> 00:06:24,000
+things uh that that we need to do uh to
+
+176
+00:06:23,000 --> 00:06:27,000
+to do ministry so those are the tools
+
+177
+00:06:25,000 --> 00:06:29,000
+that I would recommend for you to
+
+178
+00:06:26,000 --> 00:06:30,000
+integrate today uh drop in the comments
+
+179
+00:06:29,000 --> 00:06:33,000
+if you have any other AI tools that you
+
+180
+00:06:31,000 --> 00:06:35,000
+would recommend for churches to look at
+
+181
+00:06:33,000 --> 00:06:37,000
+or consider that you're using Claude is
+
+182
+00:06:35,000 --> 00:06:39,000
+another popular one that I know a lot of
+
+183
+00:06:37,000 --> 00:06:41,000
+pastors are using uh so chat gbt versus
+
+184
+00:06:40,000 --> 00:06:44,000
+Claude which one maybe do you prefer
+
+185
+00:06:42,000 --> 00:06:46,000
+let's have a conversation in the
+
+186
+00:06:43,000 --> 00:06:47,000
+comments let me know what you think uh
+
+187
+00:06:45,000 --> 00:06:49,000
+I'd love to hear uh your thoughts and
+
+188
+00:06:48,000 --> 00:06:52,000
+what other tools might be out there that
+
+189
+00:06:49,000 --> 00:06:53,000
+that I don't yet know about or that
+
+190
+00:06:51,000 --> 00:06:55,000
+others uh are using and let's grow and
+
+191
+00:06:54,000 --> 00:06:58,000
+learn together as we integrate AI into
+
+192
+00:06:57,000 --> 00:07:01,000
+our systems into our workflows and we'll
+
+193
+00:06:59,000 --> 00:07:03,000
+deal with some of the problems in the
+
+194
+00:07:00,000 --> 00:07:04,000
+future I'll make videos about those
+
+195
+00:07:02,000 --> 00:07:06,000
+things as they pop up but I hope this
+
+196
+00:07:04,000 --> 00:07:08,000
+helps and look forward to engaging with
+
+197
+00:07:06,000 --> 00:07:10,000
+you in the comments and we'll talk to
+
+198
+00:07:07,000 --> 00:07:11,000
+you again on the next
+
+199
+00:07:10,000 --> 00:07:14,000
+[Music]
+
+200
+00:07:28,000 --> 00:07:32,000
+video e
+

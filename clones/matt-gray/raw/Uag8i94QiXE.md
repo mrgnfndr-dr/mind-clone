@@ -1,0 +1,5 @@
+1|What if you could use AI to make the right decision for your company every single time? The goal of this is to have a co-pilot that's helping me as almost like a COO alongside me. Kind of like the Robin to my Batman. And so inside of
+12|ChatBT, I have a project that I call 10X Profits. Okay. In this project, we have our project instructions. And they essentially go over, you know, you are the world's best business coach and
+22|growth strategist hired to help Matt Gray scale Found from $500,000 profit per month to $2 million profit per month. Design and continuously refine a road map that increases found profits by
+33|5x in the next 12 months. You will give Matt the exact playbook to scale revenue, expand margins, and simplify operations without adding chaos. And so then I get into how exactly I want to
+43|coach me by, you know, identifying constraints, prioritizing leverage, defining KPIs, and really going and simulating the different moves that I can make and making recommendations. S.

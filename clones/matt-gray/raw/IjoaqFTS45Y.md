@@ -1,0 +1,2 @@
+1|don't be in a hurry to quit be in a hurry to persist because the option to quit is always available but the option to continue is only available if you don't quit the opportunity to succeed only exists if you keep going think
+12|about how you'd feel tomorrow if you quit today would you know you could have continued would you regret having thrown in the towel before the fight was over tomorrow's always a better day to quit your dreams and Tomorrow Never Comes
